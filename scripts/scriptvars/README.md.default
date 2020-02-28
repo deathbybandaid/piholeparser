@@ -20,11 +20,21 @@
 * Mirror and Filter, any user-submitted blacklist.
 * Handle ANY list, even if it is compressed.
 
-#### Because people ask often:
+### Repository Disclaimer
+I've neglected this repository for a very long time. As of 28-02-2020, I am going to make an effort to continue development on this repository.
 
-* ~~I run this alongside several other things on a Raspberry Pi 3.~~
-* This is THE ONLY list I use, with nothing whitelisted.
-* Because of this, If there is something blocked that shouldn't be, my wife and I would know.
+Due to it's unwieldy .git index size, I was forced to `rm .git && git init` and force push the repo without any history. This gives me a clean slate to work with.
+
+### Usage Disclaimer
+This script runs daily in a Proxmox LXC, and updates this repository automatically.
+
+I may provide basic instructions on how to run this yourselves, but I cannot provide support for it.
+Honestly, with my daily cron, there is no need to run it yourself.
+The code is in the repo to be viewed, and is opensource.
+The provided lists can be downloaded securely from github.
+
+Additionally, I do NOT condone the usage of the combined lists. Do so at your own discretion.
+It is literally EVERY list combined and deduped. If you like blocking your internet, or boasting a high blocking count, go for it.
 
 ## Individual Lists
 
@@ -37,14 +47,13 @@
 Simply copy the RAW format url for the list and add them.
 
 * In the Web Interface on the Settings page.
-* Directly to your adlists.list file found in /etc/pihole/.
 
 ###### All of the lists combined.
 
-* Note, I honestly don't recomend adding the big list, it may break websites.
+* Note, I honestly don't recommend adding the big list, it WILL break websites.
 
 Just add
- 
+
     BIGAPLRAWLINK
 
 ###### I also have a list that is driven by the userbase.
@@ -65,23 +74,6 @@ Caution: The Script Has Evolved to the point that it runs other analytical tasks
 
 You have been warned.
 ````
-
-_______________________________________________________________________________________________________________________
-
-### IF YOU HAVE USED THIS SCRIPT BEFORE 8/24/2017, YOU WILL NEED TO RUN/RERUN THIS (updated) INSTALLER
-
-    
-    sudo wget INSTALLERLINKRAW
-
-    sudo bash NAMEOFTHEREPOSITORYinstall.sh
-    
-#### Manual Run
-
-    sudo bash /etc/updaterunNAMEOFTHEREPOSITORY.sh
-
-#### A local copy of the big list is available to be used.
-
-http://pi.hole/lists/ALLPARSEDLISTS.txt
 
 _______________________________________________________________________________________________________________________
 
@@ -150,5 +142,5 @@ ________________________________________________________________________________
     After going through the parser, many lists contain zero lines and are deleted.
 
     The filtered lists are in the parsed directory;
-    
+
     with filenames to reflect the Original Creators work/effort.
