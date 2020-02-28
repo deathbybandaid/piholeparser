@@ -1,0 +1,76 @@
+### Youtube Ad-Block-List for PiHole by HenningVanRäumle ###
+ 
+# also blocks:
+# wix.com
+ 
+#main
+advertisment
+0.0.0.0 r1---sn-4g57kn7d.googlevideo.com
+0.0.0.0 r1---sn-4g57knek.googlevideo.com
+0.0.0.0 r1---sn-4g57kndd.googlevideo.com
+0.0.0.0 r1---sn-4g5e6ne6.googlevideo.com
+0.0.0.0 r1---sn-4g5e6ney.googlevideo.com
+0.0.0.0 r1---sn-4g5e6nls.googlevideo.com
+0.0.0.0 r1---sn-4g5ednll.googlevideo.com
+0.0.0.0 r1---sn-4g5ednls.googlevideo.com
+0.0.0.0 r1---sn-5hne6ne6.googlevideo.com
+0.0.0.0 r1---sn-5hne6nlr.googlevideo.com
+0.0.0.0 r2---sn-4g57knek.googlevideo.com
+0.0.0.0 r2---sn-4g57knzk.googlevideo.com
+0.0.0.0 r2---sn-4g5e6n7d.googlevideo.com
+0.0.0.0 r2---sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r2---sn-5hne6n7z.googlevideo.com
+0.0.0.0 r3---sn-4g57knzd.googlevideo.com
+0.0.0.0 r3---sn-4g5e6nes.googlevideo.com
+0.0.0.0 r3---sn-4g5e6nez.googlevideo.com
+0.0.0.0 r3---sn-4g5edne6.googlevideo.com
+0.0.0.0 r3---sn-5hnednlk.googlevideo.com
+0.0.0.0 r4---sn-4g57kn6l.googlevideo.com
+0.0.0.0 r4---sn-4g57kn7d.googlevideo.com
+0.0.0.0 r4---sn-4g57kney.googlevideo.com
+0.0.0.0 r4---sn-4g5e6n76.googlevideo.com
+0.0.0.0 r4---sn-4g5e6nl7.googlevideo.com
+0.0.0.0 r4---sn-4g5edn7y.googlevideo.com
+0.0.0.0 r4---sn-4g5edn7z.googlevideo.com
+0.0.0.0 r4---sn-4g5ednle.googlevideo.com
+0.0.0.0 r4---sn-5hnednlk.googlevideo.com
+0.0.0.0 r5---sn-4g57kn6s.googlevideo.com
+0.0.0.0 r5---sn-4g57knl6.googlevideo.com
+0.0.0.0 r5---sn-4g5e6nl6.googlevideo.com
+0.0.0.0 r5---sn-4g5edn7l.googlevideo.com
+0.0.0.0 r5---sn-4g5ednle.googlevideo.com
+0.0.0.0 r6---sn-4g5e6n7k.googlevideo.com
+0.0.0.0 r6---sn-4g5e6nls.googlevideo.com
+0.0.0.0 r6---sn-4g5edn7z.googlevideo.com
+0.0.0.0 r6---sn-4g5ednee.googlevideo.com
+0.0.0.0 r6---sn-4g5edn7e.googlevideo.com
+0.0.0.0 r6---sn-4g5edn7y.googlevideo.com
+0.0.0.0 r6---sn-4g5ednle.googlevideo.com
+0.0.0.0 r6---sn-5hne6nlr.googlevideo.com
+0.0.0.0 r6---sn-5hnednl7.googlevideo.com
+0.0.0.0 r7---sn-4g57kndd.googlevideo.com
+0.0.0.0 r7---sn-4g57knze.googlevideo.com
+0.0.0.0 r8---sn-4g57knkr.googlevideo.com
+0.0.0.0 r8---sn-4g57knzz.googlevideo.com
+0.0.0.0 r9---sn-4g57knsy.googlevideo.com
+0.0.0.0 r9---sn-4g57knze.googlevideo.com
+0.0.0.0 r9---sn-5hne6n76.googlevideo.com
+0.0.0.0 r10---sn-4g57knkl.googlevideo.com
+0.0.0.0 r11---sn-4g57knzz.googlevideo.com
+0.0.0.0 r11---sn-5hne6nel.googlevideo.com
+0.0.0.0 r13---sn-4g57knls.googlevideo.com
+0.0.0.0 r13---sn-4g57knlz.googlevideo.com
+0.0.0.0 r13---sn-4g57knzl.googlevideo.com
+0.0.0.0 r13---sn-5hnedn7k.googlevideo.com
+0.0.0.0 r15---sn-4g57kn67.googlevideo.com
+0.0.0.0 r15---sn-4g57knr7.googlevideo.com
+0.0.0.0 r15---sn-5hne6nl6.googlevideo.com
+0.0.0.0 r16---sn-4g57kn7l.googlevideo.com
+0.0.0.0 r17---sn-4g57kn7s.googlevideo.com
+0.0.0.0 r17---sn-4g57knld.googlevideo.com
+0.0.0.0 r18---sn-4g57kner.googlevideo.com
+0.0.0.0 r18---sn-4g57knkr.googlevideo.com
+0.0.0.0 r18---sn-5hne6nek.googlevideo.com
+0.0.0.0 r19---sn-4g57knkz.googlevideo.com
+0.0.0.0 r20---sn-4g57knde.googlevideo.com
+0.0.0.0 r20---sn-5hne6n76.googlevideo.com

@@ -1,0 +1,5 @@
+# This hosts file blocks the BBC News website Breaking News banner
+# 
+# https://raw.githubusercontent.com/BreakingTheNews/BreakingTheNews.github.io/master/hosts
+# Project page: https://github.com/BreakingTheNews/BreakingTheNews.github.io
+0.0.0.0 polling.bbc.co.uk

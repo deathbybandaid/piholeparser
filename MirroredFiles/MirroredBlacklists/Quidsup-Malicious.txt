@@ -1,0 +1,96 @@
+#NoTrack Malicious Site list updated 25 May 2018
+1kdailyprofit.biz #Scam
+1kdailyprofit.co #Scam
+#A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A
+abcd7777.com #Chinese Scammer
+abcdnf.com #Chinese Scammer
+ad2up.com #Potentially Unwanted Application
+adfuture.cn #Chinese Android Data Collection 
+adsunflower.com #Chinese Android Data Collection 
+advmob.cn #Chinese Android Data Collection 
+akamoihd.net #Ad Injector
+andr-security.com #Malicious Site
+apple-safari.info #Malicious Site
+ashleyrnadison.com #Typo
+#B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B-B
+b3stm0b1l3.com #Potentially Unwanted Application
+biosagentplus.com #Scam
+#C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C-C
+com-internet.online #Malicious Site
+cookiereports.com #Annoying Cookie Popup
+#D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D-D
+davesbestdeals.com #Ad Injector
+donation-tools.org #Ad Injector
+digitaloptout.com #Ad Injector
+#E-E-E-E-E-E-E-E-E-E-E-E-E-E-E-E-E-E-E-E
+elbacom.com #Angler EK
+edatasales.com #Malicious Site
+epicunitscan.info #Malicious Site
+#F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F
+facebookprofileview.com #Malicious software
+ffdns.net #DNS Exploiters
+#G-G-G-G-G-G-G-G-G-G-G-G-G-G-G-G-G-G-G-G
+gettop.info #RIG Exploit
+giftcards4fans.com #Scam
+globaloffers.link #Malware
+googe.com #Typo
+googele.com #Typo
+gonirola.com #Malicious Site
+gotoout.ml #Phishing
+#H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H
+hoholikik.club #Ad Injector
+#I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I
+intimglobus.ru #suspicious
+ironbeast.io #Suspicious
+iubenda.com #Annoying
+iphoneoptimizer.com #Scam
+#J-J-J-J-J-J-J-J-J-J-J-J-J-J-J-J-J-J-J-J
+jianbaimei.com.cname.yunjiasu-cdn.net #CDN of Malicious site jianbaimei.com
+jldnphwwu.bid #Malicious Site
+jesus2020.com #Fake site
+#K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K
+#L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L
+lhzbdvm.com #Ragentek Rootkit
+#M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M
+m1ll1c4n0.com #Added May 2016
+madmimi.com #Email spam
+minaraca.com #Malicious Site
+myfood.ltd #Potentially Unwanted Application
+myxns.cn #DNS Exploiters
+#N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N
+#O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O
+onlinesurveydaily.com #Annoying
+oc.uk #Typo of .co.uk
+#P-P-P-P-P-P-P-P-P-P-P-P-P-P-P-P-P-P-P-P
+prugskh.com #Ragentek Rootkit
+prugskh.net #Ragentek Rootkit
+#Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q
+#R-R-R-R-R-R-R-R-R-R-R-R-R-R-R-R-R-R-R-R
+reimageplus.com #Fake BSOD Popus &Scam
+reliablesurfingext.biz #Fake updates
+retreatoftheretreat.site #RIG Exploit
+#S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S
+safari-code.net #Malicious Site
+searchnet.com #Malicious Site
+searchtabnew.com #Malicious Site
+simplebookmark.info #Buta Trading - leak analytics
+site360.org.uk #Angler EK
+solvusoft.com #Malicious Files
+surveyrouter.com #Toluna Surveys
+servicekgbfit.us #Fake BSODS
+#T-T-T-T-T-T-T-T-T-T-T-T-T-T-T-T-T-T-T-T
+taosha.cc #Android Trojan
+toogle.com #Malicious Site
+trumpetedextremes.com #Ad Injector
+#U-U-U-U-U-U-U-U-U-U-U-U-U-U-U-U-U-U-U-U
+#V-V-V-V-V-V-V-V-V-V-V-V-V-V-V-V-V-V-V-V
+#W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W
+wwu-natwiest.com #Typo
+wwwp.link #Malicious Site
+#X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+xyz.com.br #Scammer
+#Y-Y-Y-Y-Y-Y-Y-Y-Y-Y-Y-Y-Y-Y-Y-Y-Y-Y-Y-Y
+#Z-Z-Z-Z-Z-Z-Z-Z-Z-Z-Z-Z-Z-Z-Z-Z-Z-Z-Z-Z
+zief.pl #Malicious Site
+znznznznzn.com #Malicious Site
+zorwrite.com

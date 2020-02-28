@@ -1,0 +1,11 @@
+cdn.appround.biz
+cdn.download.sweetpacks.com
+cdn.insta.playbryte.com
+cdn.msdwnld.com
+cdn.mypcbackup.com
+d3oxtn1x3b8d7i.cloudfront.net
+inno.bisrv.com
+installer.betterinstaller.com
+installer.filebulldog.com
+nsis.bisrv.com
+tracking.opencandy.com.s3.amazonaws.com

@@ -1,0 +1,4 @@
+freeshop.sm
+jammer.sm
+profumi.sm
+yapi.awe.sm

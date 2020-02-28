@@ -1,0 +1,75 @@
+##########################################################################
+# TorrentLocker Ransomware Payment Sites domain blocklist (TL_PS_DOMBL)  #
+# Generated on 2018-05-28 13:45:02 UTC                                   #
+#                                                                        #
+# For questions please refer to:                                         #
+# https://ransomwaretracker.abuse.ch/blocklist/                          #
+##########################################################################
+2ymh2gnnbg6pgq2r.gremsot.pl
+2ymh2gnnbg6pgq2r.winregion.tw
+x5sbb5gesp6kzwsh.frontymen.pl
+x5sbb5gesp6kzwsh.mailteam.pl
+x5sbb5gesp6kzwsh.questpul.pl
+x5sbb5gesp6kzwsh.homewind.pl
+x5sbb5gesp6kzwsh.frontmain.pl
+ztuw5bvuuapzdfya.klimbim.pl
+27c73bq66y4xqoh7.dorfact.at
+4w5wihkwyhsav2ha.fastdances.at
+4w5wihkwyhsav2ha.payfactor.at
+ojmekzw4mujvqeju.fineboy.at
+ojmekzw4mujvqeju.minitili.at
+ojmekzw4mujvqeju.dreamtest.at
+ojmekzw4mujvqeju.bioserv.at
+4w5wihkwyhsav2ha.dreamtest.at
+4w5wihkwyhsav2ha.grandhaus.at
+anbqjdoyw6wkmpeu.oldtrees.at
+vrympoqs5ra34nfo.bigclear.at
+vrympoqs5ra34nfo.smartbus.at
+vrympoqs5ra34nfo.bigbird.at
+vrympoqs5ra34nfo.torhelper.pl
+mz7oyb3v32vshcvk.toysworlds.at
+mz7oyb3v32vshcvk.tormidle.at
+mz7oyb3v32vshcvk.bidobject.li
+mz7oyb3v32vshcvk.getstar.li
+mz7oyb3v32vshcvk.torapples.li
+mz7oyb3v32vshcvk.torlongor.li
+de2nuvwegoo32oqv.tormilki.li
+stgg5jv6mqiibmax.toranimals.li
+de2nuvwegoo32oqv.torminimals.li
+de2nuvwegoo32oqv.tortodorf.li
+stgg5jv6mqiibmax.torclasses.li
+de2nuvwegoo32oqv.tordrims.li
+de2nuvwegoo32oqv.torfigth.li
+stgg5jv6mqiibmax.torking.li
+stgg5jv6mqiibmax.torbrouke.li
+stgg5jv6mqiibmax.torshop.li
+de2nuvwegoo32oqv.torworks.li
+stgg5jv6mqiibmax.torpice.li
+de2nuvwegoo32oqv.torspaces.li
+de2nuvwegoo32oqv.torbook.li
+de2nuvwegoo32oqv.tortelevision.li
+stgg5jv6mqiibmax.toradmin.li
+stgg5jv6mqiibmax.torclever.li
+3qbyaoohkcqkzrz6.torclassik.li
+3qbyaoohkcqkzrz6.tordonator.li
+stgg5jv6mqiibmax.torcreator.li
+3qbyaoohkcqkzrz6.torreactor.li
+3qbyaoohkcqkzrz6.tormain.li
+3qbyaoohkcqkzrz6.tormaster.ch
+3qbyaoohkcqkzrz6.torprovider.li
+stgg5jv6mqiibmax.torpoint.ch
+3qbyaoohkcqkzrz6.torcommunity.ch
+3qbyaoohkcqkzrz6.tordoor.li
+3qbyaoohkcqkzrz6.torgateway.li
+3qbyaoohkcqkzrz6.bestxprice.ch
+3qbyaoohkcqkzrz6.livecamshow.ch
+3qbyaoohkcqkzrz6.tormaster.fr
+3qbyaoohkcqkzrz6.torstation.li
+3qbyaoohkcqkzrz6.torgate.es
+3qbyaoohkcqkzrz6.torplanet.eu
+rzss2zfue73dfvmj.onlinerpgame.ch
+vrvis6ndra5jeggj.livewargaming.ch
+vrvis6ndra5jeggj.livegaming.ch
+rzss2zfue73dfvmj.truewargame.ch
+vrvis6ndra5jeggj.onlinebattlefield.ch
+# 67 entries

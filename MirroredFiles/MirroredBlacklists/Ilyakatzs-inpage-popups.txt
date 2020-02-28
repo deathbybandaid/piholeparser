@@ -1,0 +1,140 @@
+[Adblock Plus 1.1]
+!
+!
+! Maintained by:
+! Last Modified:
+! Expires: 1
+
+! Inpage Popups
+
+! Scroll down popups - messages that appear once you scroll down
+
+||assets.tumblr.com/assets/html/iframe/follow.html
+
+businessweek.com##.slideout_container
+businessweek.com##.fsrFloatingContainer
+forbes.com/json/get_follow_bar
+sliptalk.com ##scrolltriggered
+techcrunch.com##.toaster.section
+viralnova.com###article-finished
+washingtonpost.com###single-next-article
+washingtonpost.com###recommended-toast
+wbur.org###next-article-wrap
+socialtriggers.com###upprev_box
+boredpanda.com##.fixed-like-box
+theweek.co.uk###slidebox
+thisismarvelous.com###slidebox
+skift.com###post-fly-in
+bloomberg.com##.flyout
+gadgec.com###conversions-box
+petflow.com###next-post
+versus.com##.fb-teaser
+usatoday.com##.recommended-flyout-container
+coindesk.com##.popup
+cryptocoinsnews.com###next-post
+cryptocoinsnews.com##.next-post.next-post-open
+tomshardware.com###bomRecommendation
+dmnews.com###slideOutWrapper
+pcworld.com###toaster
+www.economist.com###next-article-carousel-wrapper.nocontent
+www.collegehumor.com###like-box
+www.businessinsider.com##.recommendation.sailthruRecommendation
+www.adme.ru##.fixed-like-box.js-fixed-like-box
+pcworld.com###toaster
+www.businessinsider.com###sailthru-concierge
+www.businessinsider.com###sailthru_iframe
+www.businessinsider.com##.recommendation.sailthruRecommendation
+techcrunch.com##.toaster.section.popped
+markmanson.net###article-finished
+coindesk.com##.popup
+www.technorms.com###.at-whatsnext-content
+filmsforaction.org###cornerPopIn
+www.fastcodesign.stfi.re###SF_SUGGESTIONS
+blog.bufferapp.com###inscroll
+www.techsupportalert.com###slidead-popup.block
+fossbytes.com###dgd_scrollbox-13027.dgd_stb_box
+marketium.ru###bottomFacebookBlock.active
+brandonhilkert.com###funnel-tools-capture
+||www.sasionline.org/wp-content/uploads/2015/01/free-monthly-box.png$image
+
+
+!Popup prompt to sign up
+www.economist.com###simplemodal-overlay.simplemodal-overlay
+www.economist.com###simplemodal-container.simplemodal-container > .simplemodal-wrap
+mnn.com###MNNEmailReg1013_adpB
+socialtriggers.com###fancybox-overlay
+socialtriggers.com###fancybox-wrap
+javacodegeeks.com##.fancybox-wrap
+javacodegeeks.com##.fancybox-overlay
+socialtriggers.com######popup1
+||*plugins/skift-popup/js/script-min.js$script,domain=skift.com
+bananarepublic.gap.com###emailAcqPopupContainer
+valuewalk.com###om-lightbox-clean-slate-theme-optin-wrap
+valuewalk.com###om-clkwwfpdhc-lightbox
+chupamobile.com##.mfp-ready
+mercola.com##.ui-widget-overlay
+mercola.com##.rrpopup
+webmd.com###colorbox
+webmd.com###webmdHoverOverlay
+houzz.com##.signUpPromoWrapper
+cryptocoinsnews.com###darkbackground
+sitepoint.com###triggered-cta-box-wrapper
+sitepoint.com##.triggered-cta-box-wrapper-bg
+99bitcoins.com##.sumome-vex.sumome-popup.sumome-popup-medium.sumome-popup-template-default > .sumome-vex-content.sumome-popup-content > .sumome-popup-form
+99bitcoins.com##.sumome-vex.sumome-popup.sumome-popup-medium.sumome-popup-template-default > .sumome-vex-overlay.sumome-popup-overlay
+www.tripadvisor.com##.s4.dg.shadow.fblb.fblb_lagoon.overlay
+www.tripadvisor.com##.overlayBG
+www.overstock.com###cboxOverlay
+www.overstock.com###omail-standard-cb
+www.overstock.com###cboxLoadedContent
+www.overstock.com###cboxContent
+www.forexminute.com###element_to_pop_up
+www.forexminute.com##.bModal.__bPopup1.hidden-xs.hidden-sm.hidden-md
+www.forexminute.com###upprev_box.hidden-xs.hidden-sm
+thehackernews.com##.ff
+www.wired.com###post-nav.fixed.expanded.visible > .prev.no-image.module-prevnext[href="http://www.wired.com/2014/04/sat-comms/"]
+www.wired.com###post-nav.fixed.expanded.visible > .next.no-image.module-prevnext[href="http://www.wired.com/2014/04/how-to-update-twitter-redesign/"]
+ed.ted.com##.stay-updated-popup
+food52.com###email-modal-bg.modal-bg.email
+food52.com###email-modal.modal-box
+www.shutterfly.com##.modal-backdrop.fade.in
+www.shutterfly.com###docWide.col-300-r.cf > .modal.fade.in
+rakuten.com###pcPromoImg
+www.nycgo.com/index.php/newsletters/newsletter-modal/popup/nycgo:free
+www.nycgo.com###fancybox-overlay
+www.golearnto.com###nrlsk-form_5190
+adventuretravel.about.com###newsletter.pre-submit.p-bg.newsletter.group.widget
+www.contiki.com###popup_subscription.popup-subscribe
+www.gadventures.com###footer.clearfix > .footer-usp > .newsletter-slider.visible-desktop.slide
+www.boredpanda.com##.fixed-popup.english
+www.betterment.com##.bmt-modal.modal
+dictionary.reference.com###fly-out.fly-out.fly-out-desktop
+challengepost.com##.alert-box.newsletter-alert
+www.newyorkfamily.com###mc4wp_widget-2.widget.widget_mc4wp_widget
+www.doctorofcredit.com##.sumome-popup-small.sumome-popup-mode-subscribe.sumome-popup.sumome-vex > .sumome-popup-overlay.sumome-vex-overlay
+www.doctorofcredit.com###newslettersignupwidget-3
+www.doctorofcredit.com##.sumome-popup-small.sumome-popup-mode-subscribe.sumome-popup.sumome-vex > .sumome-popup-res-small.sumome-popup-has-optout.sumome-popup-template-default.sumome-popup-content.sumome-vex-content > .sumome-popup-form
+upliftconnect.com###upllfe-slidein-signup
+
+!AddThis Smart Layer
+##.at4-whatsnext-outer-container.addthis-smartlayers
+
+! Persistent popups - messages that are always present on top of the content
+csdecisions.com###persistContainer
+about.me##.notification.signupbubble
+ibtimes.com###cboxWrapper
+www.theepochtimes.com###backgroundPopup
+marketium.ru##.fancybox-overlay-fixed.fancybox-overlay
+fabulesslyfrugal.com###e705d1dc949c0e0fc27616746c12868b53e5711f4-container
+thedevelopmentset.com##.js-stickyFooter
+
+! Unclassified
+www.autoblog.com###meerkat.ymm-catfish
+blogs.wsj.com###magic
+||www.economist.com//ec-homepage/regov/start
+
+! Social Media page blocker
+marketium.ru##.fancybox-overlay.fancybox-overlay-fixed
+marketium.ru###facebookpopup-fanbox
+marketium.ru###bottomFacebookBlock
+www.atlasobscura.com###facebook-page-plugin

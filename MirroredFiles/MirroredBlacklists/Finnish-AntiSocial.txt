@@ -1,0 +1,99 @@
+[Adblock]
+! Version: 20180831
+! Title: Finnish AntiSocial
+! Description: Finnish blocklist for AdBlock to block social media stuff
+! Last modified: 31st of August 2018
+! Expires: 7 days (update frequency)
+! Homepage: http://www.juvander.fi/ilpo
+! Forum: http://www.juvander.fi/AdblockFinland
+! License: http://unlicense.org/
+
+fbstatic-a.akamaihd.net/rsrc.php
+facebook.com/.*plugins/like
+facebook.com/.*plugins/page.php
+facebook.com/sharer/sharer.php
+facebook.com/connect/ping
+facebook.com/connect/xd_arbiter
+facebook.com/tr
+||connect.facebook.net
+graph.facebook.com/
+api.facebook.com/restserver.php?method=links.getStats
+api.facebook.com/method/links.getStats
+
+pinterest.com/pin/create/button
+plus.google.com/share
+apis.google.com/_/widget/render/page
+
+
+!twitter, non breaking
+twitter.com/intent/tweet
+twitter.com/*/count.json
+platform.twitter.com/widgets/tweet_button
+platform.twitter.com/widgets.js
+
+! twitter breaking
+||platform.twitter.com
+
+addthis.com
+
+aamulehti.fi##DIV[class="shareWidgets"]
+arvopaperi.fi##DIV[class="fbLike"]
+arvopaperi.fi##.article__sharing-links
+bike.fi##DIV[class="share"]
+engadget.com##P[class="permalink-social-tools"]
+ess.fi##DIV[class="social-counts row default "]
+hs.fi##ul[class="article-social-media"]
+iltalehti.fi##DIV[class="kp-share-area"]
+iltalehti.fi##DIV[class="kp-share-area-top__buttons"]
+iltalehti.fi##DIV[id="telkku-crnosto-wrapper"]
+iltalehti.fi##DIV[class="article-share"]
+iltasanomat.fi##DIV[class="share-buttons"]
+itviikko.fi##DIV[class="toolBoxContainer bottom"]
+itviikko.fi##DIV[class="toolBox"]
+jatkoaika.com##DIV[class*="share-container"]
+kauppalehti.fi##div[data-template-some-article-footer]
+kauppalehti.fi##DIV[class="some__article"]
+kauppalehti.fi##a[class*="button--some"]
+kauppalehti.fi##a[class*="backround-twitter"]
+kauppalehti.fi##a[class*="backround-facebook"]
+kauppalehti.fi##[class*="some-header"]
+macworld.com##ul[class^="sharing-tools"]
+marmai.fi##div[class^="articleFunctions"]
+mtv.fi##DIV[class="share-container jshare"]
+mtv.fi##DIV[class="fb-like-box fb_iframe_widget"]
+mtv.fi##DIV[class="share-item share-addthis"]
+mtv.fi##DIV[class="share-items-row2"]
+puhelinvertailu.com##DIV[id="share-buttons"]
+snstatic.fi/webstatic/images/shareicons-sprite.png
+files.snstatic.fi/*/facebook
+tekniikkatalous.fi##DIV[class="social-share"]
+tuulilasi.fi##DIV[class="toolbar"]
+uusisuomi.fi##DIV[class="uusisuomi_addthis_share"]
+uusisuomi.fi##DIV[class="at4-share-outer addthis-smartlayers addthis-smartlayers-desktop"]
+uusisuomi.fi##LI[class="last leaf facebook"]
+uusisuomi.fi##LI[class="leaf twitter"]
+uusisuomi.fi##DIV[class="addthis_responsive_sharing"]
+uusisuomi.fi##DIV[class="login-to-post-comments"]
+yle.fi##UL[class="some default "]
+mtv.fi##DIV[class="addthis-container"]
+mtv.fi##DIV[class="article-info"]
+taloussanomat.fi##DIV[class="toolBox"]
+tivi.fi##DIV[class="social-share"]
+tivi.fi##DIV[class="share-buttons"]
+ts.fi##DIV[class="tsv3-c-common-article__socialmedia"]
+ts.fi##DIV[class="tsv3-c-ts-rightnow__socialmedia"]
+
+##DIV[class="somesharebuttons"]
+##UL[class="article-social-media"]
+##UL[class="container-some"]
+##DIV[class="article__social"]
+##DIV[id="social-after-wrapper"]
+##DIV[class="share-buttons"]
+##DIV[class="social-share"]
+##DIV[class="link-group header-some"]
+##DIV[id="share"]
+##DIV[class="fb-like fb_iframe_widget"]
+##DIV[class*="group-social-media"]
+
+getsocial.io
+||service.giosg.com

@@ -1,0 +1,64 @@
+[Adblock Plus 2.8.2]
+! Checksum: HZ4jLY2tJcV/K6T4x4xs2w
+! Homepage: https://github.com/k2jp/abp-japanese-filters/
+! Title: ABP Japanese 3rd party SNS filters (ONLY FOR Japanese and experienced users: READ Support Policy)
+! Expires: 6 hours
+! Version: 201705110021
+!
+! Last modified: 2017-05-11 00:21 JST(UTC+0900)
+! Change log: https://github.com/k2jp/abp-japanese-filters/wiki/FilterChangeLog
+! Code license: GNU GPL v3: http://www.gnu.org/licenses/gpl.html
+! Content license: Creative Commons BY-NC-SA 4.0 http://creativecommons.org/licenses/by-nc-sa/4.0/
+! Support policy:  https://github.com/k2jp/abp-japanese-filters/wiki/Support_Policy
+! Project owners: k2japan
+! Project committers: looter, lostincarnation, tanahata
+! Project contributors: 
+!
+!
+! ########## Default white list START ##########
+! False positives with ||twitter.com^$third-party from abs.twimg.com displaying tweets including other quoted tweets, Apr 22, 2013
+! example) https://api.twitter.com/1/statuses/show.json?callback=...
+@@||api.twitter.com^*/statuses/show.json?
+! ---------- Default white list END ----------
+-fbconnect-$domain=~facebook.com
+-fbconnect.$domain=~facebook.com
+-fbconnect^$domain=~facebook.com
+-fbconnect_$domain=~facebook.com
+.fbconnect-$domain=~facebook.com
+.fbconnect.$domain=~facebook.com
+.fbconnect^$domain=~facebook.com
+.fbconnect_$domain=~facebook.com
+^fbconnect-$domain=~facebook.com
+^fbconnect.$domain=~facebook.com
+^fbconnect^$domain=~facebook.com
+^fbconnect_$domain=~facebook.com
+_fbconnect-$domain=~facebook.com
+_fbconnect.$domain=~facebook.com
+_fbconnect^$domain=~facebook.com
+_fbconnect_$domain=~facebook.com
+||bufferapp.com^$third-party
+||d7x5nblzs94me.cloudfront.net^
+||evernote.com^$third-party
+||facebook.$domain=~facebook.com
+||fbcdn-$domain=~facebook.com
+||fbcdn.$domain=~facebook.com
+||fbstatic-a.akamaihd.net^$domain=~facebook.com
+||flipboard.com^$third-party
+||getpocket.com^$third-party
+||apis.google.com/js/plusone.js
+||plus.google.com^$third-party
+||plusone.google.com^$third-party
+||share.gree.jp^
+||instapaper.com^$third-party
+||jiathis.com^$third-party
+||licdn.com^$domain=~linkedin.com
+||line.me^$third-party
+||linkedin.com^$third-party
+||mixi.jp^$third-party
+||media.line.naver.jp^$third-party
+||i.ntere.st^$third-party
+||pinterest.com^$third-party
+||st-hatena.com/js/bookmark_button.js$domain=~hatena.ne.jp|~hatenablog.com
+||tumblr.com^$third-party
+||twitter.com^$third-party
+||vk.com/widget_$third-party

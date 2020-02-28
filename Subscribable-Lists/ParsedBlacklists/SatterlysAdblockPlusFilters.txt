@@ -1,0 +1,3 @@
+ac.duckduckgo.com
+completion.amazon.com
+suggest.yandex.com

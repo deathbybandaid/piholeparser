@@ -1,0 +1,1083 @@
+﻿[Adblock]
+@@||1.bp.blogspot.com
+@@||ajax.cloudflare.com$domain=jdebug.org
+@@||encrypted.google.com/recaptcha/api/
+@@||inbox.google.com/$document
+@@||mail.google.com/$document
+@@||s7.addthis.com^*/addthis_widget.js*pubid=
+@@||vivaldi.com/$document
+@@||youtube.com/html5$document
+||1.bp.blogspot.com
+||3.bp.blogspot.com/-qXQrkzwfxtM/UV69KZodGkI/AAAAAAAAACA/CBzE74QHu6w/s1600/close_button.png
+||4.bp.blogspot.com/-sIzCYGF-XOI/TfBczW6YLFI/AAAAAAAABLE/Xg6MEOFBsO0/s1600/close%2Bbutton.jpg
+||42me.com
+||a.alimama.cn
+||a.huluad.com/crossdomain.xml$domain=hulu.com
+||ad365.pw
+||ajax.cloudflare.com
+||ajax.googleapis.com$domain=tvole.me
+||anandtech.com/bundles/
+||androidheadlines.com/wp-includes/js/$domain=androidheadlines.com
+||apis.google.com/js/plusone.js
+||apkmirror.com/wp-content/themes/APKMirror/inc/waves/
+||apkmirror.com/wp-content/themes/APKMirror/material/
+||autosport.com/js/popular.js
+||autosport.com/js/sub_top.mtr.js$domain=autosport.com
+||autosport.com/js/twitter.js$domain=autosport.com
+||b3.hoopchina.com.cn
+||bbs.hupu.com
+||blogsmithmedia.com/www.engadget.com/include/
+||bloomberg.com/api/articles/most-popular
+||bloomberg.com/bcom/iframe/
+||cdn.images.autosport.com/plus/subs-ptd-news.jpg$domain=autosport.com
+||cdn.images.autosport.com/standards/js/$domain=autosport.com
+||cdn.images.autosport.com/subscriptions/images/
+||cdn.images.autosport.com/subsflag.gif$domain=autosport.com
+||cdn.widgets.webengage.com/js/widget/$domain=flipkart.com
+||cdn-0.motorsport.com/p/static/css/
+||cdn-0.motorsport.com/p/static/js/
+||cdn-0.motorsport.com/p/static/jslangs/
+||cdn-1.motorsport.com/p/static/js/
+||cdn-2.motorsport.com/p/static/js/
+||chipworks.com/media/system/js/
+||chipworks.com/modules/mod_jflanguageselection/
+||chipworks.com/templates/chipworksCommon/scripts/galleria/themes/classic/
+||chipworks.secure.force.com
+||chromeactions.com/i/magic-for-youtube.jpg$media,subdocument,object,image,script,stylesheet,xmlhttprequest,popup
+||chromeactions.com/i/magic-girl.jpg$domain=chromeactions.com
+||chromeactions.com/js/opt4C.js$domain=chromeactions.com
+||cloudfront.net$domain=mashable.com,subdocument,object,image,script,stylesheet,xmlhttprequest,popup
+||connect.facebook.net
+||coolsport.pw/adtadd.html
+||coolsport.pw/index_fichiers/$subdocument,script
+||creative.ad120m.com
+||crichd.tv/images/
+||cricket-365.tv/platform.twitter.com/
+||css.motogp.com/js/check_buy_out.js$domain=motogp.com
+||css.motogp.com/js/fb_button_connect.js$domain=motogp.com
+||css.motogp.com/js/legalcookie.js$domain=motogp.com
+||css.motogp.com/js/mgp-userblock.js$domain=motogp.com
+||css.motogp.com/js/motogp_cookie.js$domain=motogp.com
+||css.motogp.com/js/user_pass.js$domain=motogp.com
+||disqus.com
+||drakulastream.eu/images/stories/$domain=coolsport.pw
+||extratorrent.cc/chat_update.php
+||extratorrent.cc/scripts/
+||f1tcdn.net/includes/site_10-min.js$domain=f1technical.net
+||facebook.com/plugins/$domain=extratorrent.cc
+||fbcdn-profile-a.akamaihd.net
+||files.leton.tv/close_button.png
+||files.leton.tv/letonlogo.png
+||fonts.googleapis.com
+||formula1.com/img/cookiepolicybanner/$domain=formula1.com
+||formula1.com/js/cookies.js$domain=formula1.com
+||formula1.com/js/galleryRollover.js$domain=formula1.com
+||formula1.com/js/homePromoNonFlash.js$domain=formula1.com
+||free.timeanddate.com
+||google.com/js/bg/
+||google-analytics.com
+||googletagservices.com/tag/js/
+||goto.hupu.com
+||graph.facebook.com
+||hulu.com/firehose/v1/login$domain=hulu.com
+||hulu.com/mozart/v1.h2o/recommended/$domain=hulu.com
+||hulu.com/sapi/search/suggest_cache
+||hulu.com/videos/viewed/$domain=hulu.com
+||i.forbesimg.com/scripts/combined/js/article-responsive.485f3ed6bcb0df03dc3d2010f0f59a268d0f50d0.js$domain=forbes.com
+||i1.hoopchina.com.cn/user/
+||i44.tinypic.com
+||ifixit.org/blog/wp-includes/js/$script
+||instagram.com$domain=mashable.com,media,subdocument,object,image,script,stylesheet,xmlhttprequest,popup
+||l.longtailvideo.com/5/10/logo.png
+||leton.tv/logo.php
+||leton.tv/space.png
+||live.cricket-365.pw/ads/
+||livefyre.com
+||location.bloomberg.com/query/
+||login.bloomberg.com/user_credentials/
+||mashable.com/taboola/$media,subdocument,object,image,script,stylesheet,xmlhttprequest,popup
+||mochkila.com
+||motogp.com/en/cookie_message$domain=motogp.com
+||motorsport.com/livefyre
+||p.hulu.com$domain=hulu.com
+||personalization.bloomberg.com/user/recommendations/meta/
+||platform.twitter.com
+||plus.google.com/js/
+||prvservers.com$image
+||rack.0.mshcdn.com/assets$domain=mashable.com,image,script,xmlhttprequest,popup
+||rack.1.mshcdn.com/assets$domain=mashable.com,script,xmlhttprequest,popup
+||rack.2.mshcdn.com/assets$domain=mashable.com,image,script,xmlhttprequest,popup
+||rack.3.mshcdn.com/assets$domain=mashable.com,image,script,xmlhttprequest,popup
+||remind.hupu.com
+||reytv.co/adds/
+||reytv.co/images/
+||s.gravatar.com/js/gprofiles.js
+||s.hulu.com/gc$domain=hulu.com
+||s.ytimg.com/yts/jsbin/www-scheduler-vfltpmjOU/www-scheduler.js$domain=youtube.com
+||secure.gravatar.com
+||secure.hulu.com/account/authenticate$domain=hulu.com
+||secure.motogp.com/en/api/cookies$domain=motogp.com
+||snt-ipo.com$media,subdocument,object,image,script,stylesheet,xmlhttprequest,popup
+||st.chatango.com
+||static.huluim.com/huluguru/vendor/$domain=hulu.com
+||streamhunter.eu/images/stories/$domain=coolsport.pw
+||tempo.hulu.com/v1/h2o/watch/$domain=hulu.com
+||tvole.me/images/
+||tvole.me/station/22/$popup
+||vine.co$domain=mashable.com,media,subdocument,object,image,script,stylesheet,xmlhttprequest,popup
+||widget.pushbullet.com
+||youtube.com/player_api$domain=flipkart.com
+||zampdsp.com
+0dt.net###menu
+0dt.net###menu
+0dt.net##.stefanvdlightareoff
+0dt.net##.stefanvdlightareoff
+0dt.net##TR:first-child
+0dt.net##TR:first-child
+0dt.net/images/close.gif
+0dt.net/js/get_adds_all.js
+1-ps.googleusercontent.com/hk/Z0iwOjcIb8r0r6u_JrSay2OZvz/www.thessdreview.com/wp-content/uploads/2015/02/
+4icu.org##A[href="/about/linktous.htm"]
+4icu.org##A[href="http://twitter.com/4icuorg"]
+4icu.org##A[href="http://www.facebook.com/www.4icu.org"]
+4icu.org##A[href="https://plus.google.com/+4icuOrg"]
+accounts.google.com/o/oauth2/
+adbma.adk2.co
+adityaravishankar.com##ASIDE[id="reallysimpletwitterwidget-3"][class="widget widget_reallysimpletwitterwidget"]
+adityaravishankar.com##ASIDE[id="text-2"][class="widget widget_text"]
+adityaravishankar.com##ASIDE[id="text-3"][class="widget widget_text"]
+adityaravishankar.com##ASIDE[id="text-8"][class="widget widget_text"]
+adityaravishankar.com##DIV[class="fb-activity fb_iframe_widget"]
+adityaravishankar.com##DIV[id="disqus_thread"]
+adityaravishankar.com##DIV[id="fbComments"]
+adityaravishankar.com##DIV[id="leftcontainerBox"]
+adityaravishankar.com##FOOTER[id="colophon"]
+agnipulse.com##A[href="http://agnipulse.com/2009/07/boot-your-usb-drive-in-virtualbox/?wpmp_switcher=mobile"]
+agnipulse.com##DIV[class="postBoxMidInner"]
+agnipulse.com##DIV[class="postMetaSingle"]
+agnipulse.com##DIV[class="social"]
+agnipulse.com##DIV[id="copyright"]
+agnipulse.com##DIV[id="crp_related"][class="crp_related"]
+agnipulse.com##DIV[id="socialLinks"]
+anandtech.com##[class="c"]
+anandtech.com##A[href="/rss/"]
+anandtech.com##A[href="http://www.facebook.com/AnandTech/"]
+anandtech.com##A[href="http://www.twitter.com/AnandTech"]
+anandtech.com##A[href="mailto:tips@anandtech.com"]
+anandtech.com##A[style="float: right; font-size: 13px; margin-left: 10px;"]
+anandtech.com##ARTICLE[class="facebook_like"]
+anandtech.com##ASIDE[class="sidebar noprint"]
+anandtech.com##DIV[class="bench_box"]
+anandtech.com##DIV[class="blog_top_right hide_resp2"]
+anandtech.com##DIV[class="blog_top_right"]
+anandtech.com##DIV[class="fbholder-fp"]
+anandtech.com##DIV[class="header_right_btm"]
+anandtech.com##DIV[class="mobi-footer"]
+anandtech.com##EMBED[id="Advertisement"][name="Advertisement"]
+anandtech.com##FOOTER[class="footer noprint"]
+anandtech.com##HEADER[class="header noprint"]
+anandtech.com##NAV[class="nav inner_nav animenu"]
+anandtech.com##NAV[class="topic_menu topic_inner"]
+anandtech.com##STRONG:first-child
+anandtech.com/Scripts/s_code.js
+androidcentral.com##[class="article-footer clearfix"]
+androidcentral.com##[class="column sidebar second"]
+androidcentral.com##[class="comments comment-wrapper"]
+androidcentral.com##[class="master-footer"]
+androidcentral.com##[class="nocontent"]
+androidcentral.com##[class="recent-posts"]
+androidcentral.com##[class="share"]
+androidheadlines.com##DIV[class="ad"]
+androidheadlines.com##DIV[class="single-sidebar"]
+androidheadlines.com##DIV[id="disqus_thread"]
+androidheadlines.com##DIV[id="footer"]
+androidheadlines.com##SECTION[class="android-news"]
+apis.google.com/_/scs/abc-static/_/js/$domain=youtube.com
+apkmirror.com##[class="modalButton waves-effect waves-circle orangeWave"]
+apkmirror.com##[id="uploadAPK"]
+apkmirror.com##DIV[class="adsWidget google-ad-leaderboard"]
+apkmirror.com##DIV[class="footer"]
+apkmirror.com##DIV[class="modal-backdrop fade in"]
+apkmirror.com##DIV[class="table-column dowrap"]
+apkmirror.com##IMG[src="http://www.apkmirror.com/wp-content/themes/APKMirror/images/sadkitten.png"]
+arstechnica.com##[class="caption-credit"]
+arstechnica.com##[class="column-1 right"]
+arstechnica.com##[class="comment-count"]
+arstechnica.com##[class="corner-info"]
+arstechnica.com##[class="pullbox sidebar story-sidebar right"]
+arstechnica.com##[id="article-footer-wrap"]
+arstechnica.com##[id="page-footer"]
+arstechnica.com##[id="profile"]
+articles.economictimes.indiatimes.com##[class="mod-featuredimage tplmodulefeaturedimage mod-homepageimage mod-articleimage"]
+articles.economictimes.indiatimes.com##DIV[id="mod-readers-comment"][class="mod-readerscomment"]
+asic-world.com##A[href="http://www.smart-dv.com"]
+asic-world.com##IMG[src="../../images/main/systmverilog_migration.gif"]
+asic-world.com##IMG[src="../images/main/asic_works.gif"]
+asic-world.com##IMG[src="../images/main/hit_target.gif"]
+asic-world.com##IMG[src="../images/main/systmverilog_migration.gif"]
+asic-world.com##IMG[src="../images/main/verification_ip.gif"]
+asic-world.com##IMG[src="images/main/asic_works.gif"]
+asic-world.com##IMG[src="images/main/hit_target.gif"]
+asic-world.com##IMG[src="images/main/systmverilog_migration.gif"]
+asic-world.com##IMG[src="images/main/verification_ip.gif"]
+au.ibtimes.com##DIV[class="bk_basic bk_playtv1 mg_b0"]
+autoblog.com##ASIDE[id="right_rail"]
+autoblog.com##DIV[id="aol-comments"]
+autoblog.com##DIV[id="meerkat-wrap"]
+autoblog.com##DIV[id="partner_feeds"]
+autoblog.com##FOOTER[id="f1"]
+autosport.com##.page-main-content-tracked STRONG
+autosport.com##A[class="boxes"]
+autosport.com##A[href="http://gppredictor.com/?utm_source=autosport&utm_medium=ptd&utm_campaign=signup"]
+autosport.com##A[href="http://www.autosport.com/rallying/wrc-radio-live/"]
+autosport.com##DIV[class="featureMinipic"]
+autosport.com##DIV[class="snbuttons"]
+autosport.com##DIV[class="tabs"]
+autosport.com##DIV[class="vr"][data-vr-zone="Breaking News"]
+autosport.com##DIV[class="vr"][data-vr-zone="Mega Topper"]
+autosport.com##DIV[id="aspop"][class="approaching"]
+autosport.com##DIV[id="featuresList"]
+autosport.com##DIV[id="filterarea"]
+autosport.com##DIV[id="hometabs"]
+autosport.com##DIV[id="loginBoxWrap"]
+autosport.com##IMG[src="http://cdn.images.autosport.com/editorial/1425052867.jpg"]
+autosport.com##TABLE[class="boxes"]
+autosport.com##TABLE[class="content"]
+autosport.com##TABLE[class="smalltext"]
+autosport.com##TD.bluebg:last-child
+autosport.com##TD.bluebg[align="left"]
+autosport.com##TD.content[width="275"][valign="top"]:first-child
+autosport.com##TD[class="dots_vertical"]
+autosport.com##TD[height="15"]
+autosport.com##TD[height="21"][valign="middle"][align="right"]
+autosport.com##TD[height="296"][width="294"]
+autosport.com##TD[width="319"]
+autosport.com##TD[width="8"]
+autosport.com/css/plus0113b.css
+autosport.com/js/overlib.js?v=2
+b1.hoopchina.com.cn
+b3tfrm.pw##IMG[src="http://kepfeltoltes.hu/thumb/131015/logo_www.kepfeltoltes.hu_.png"]
+b3tfrm.pw##IMG[src="http://kepfeltoltes.hu/thumb/131015/logo_www.kepfeltoltes.hu_.png"]
+b3tfrm.pw##IMG[style="left: 5px; position: absolute; top: 345px;"]
+b3tfrm.pw##IMG[style="left: 5px; position: absolute; top: 345px;"]
+bbc.com##A[href="/sport/formula1/teams-drivers"]
+bbc.com##A[href="/sport/more-sports"]
+bbc.com##DIV[class="bbc-st-wrapper bbc-st-rst bbc-st-v1"]
+bbc.com##DIV[class="share-tools-footer blq-clearfix"]
+bbc.com##DIV[id="blq-foot"][class="blq-rst blq-clearfix blq-foot-transparent blq-foot-text-white"]
+bbc.com##DIV[id="f1-header-pullout"]
+bbc.com##DIV[id="footer-services"][class="blq-clearfix"]
+bbc.com##DIV[id="live-event-get-involved"][class="live-event-get-involved open"]
+bbc.com##SECTION[id="follow-us"][class="module clearfix"]
+bbc.com##UL[id="blq-nav-main"]
+bbs.hupu.com###back
+bbs.hupu.com##.breadCrumbs
+bbs.hupu.com##.cm_brief
+bbs.hupu.com##.floor > [style="z-index:34"] + * *
+bbs.hupu.com##.floor > [style="z-index:35"] + * *
+bbs.hupu.com##.floor > [style="z-index:36"] + * *
+bbs.hupu.com##.floor > [style="z-index:37"] + * *
+bbs.hupu.com##.floor > [style="z-index:38"] + * *
+bbs.hupu.com##.liangShare
+bbs.hupu.com##.sign
+bbs.hupu.com##.subhead > [href="http://bbs.hupu.com/fyt-f1"]
+bbs.hupu.com##.subhead > [href="http://f1.hupu.com"]
+bbs.hupu.com##.user
+bbs.hupu.com##DIV[class="author"]
+bbs.hupu.com##DIV[class="bbs_head"]
+bbs.hupu.com##DIV[class="dots_horizontal_thin"]
+bbs.hupu.com##DIV[class="fback"]
+bbs.hupu.com##DIV[class="hp-footer"]
+bbs.hupu.com##DIV[class="hp-header hp-header-A"]
+bbs.hupu.com##DIV[class="hp-threeNav"]
+bbs.hupu.com##DIV[class="right"]
+bbs.hupu.com##DIV[class="tabs_header zoom"]
+bbs.hupu.com##DIV[id="footer-loadedError"]
+bbs.hupu.com##DIV[id="hp-topbarNav"]
+bbs.hupu.com##DIV[id="sidenav_bbs"]
+bbs.hupu.com##DIV[id="sub_sidebar"]
+beatthegmat.com##[class="alignleft size-full wp-image-76473"]
+beatthegmat.com##[class="size-full wp-image-95393 alignleft"]
+beatthegmat.com##DIV[class="comments-section"]
+beatthegmat.com##DIV[class="cont-widget related-articles"]
+beatthegmat.com##DIV[class="details"]
+beatthegmat.com##DIV[class="like-box"]
+beatthegmat.com##DIV[class="subnav"]
+beatthegmat.com##DIV[class="ui-dialog ui-widget ui-widget-content ui-corner-all footer-popup-dialog"]
+beatthegmat.com##DIV[id="btg_login_bar"][class="bv-top-box-wrapper"]
+beatthegmat.com##DIV[id="footer"]
+beatthegmat.com##DIV[id="sidebar"]
+beatthegmat.com##TD[class="byline-image"]
+blakemasters.com##DIV[id="post-notes"]
+blog.coolaj86.com##DIV[class="css-shares"]
+blog.coolaj86.com##DIV[class="gittip-widget gittip-0002"]
+blog.coolaj86.com##IFRAME[src="https://www.gittip.com/coolaj86/widget.html"]
+blog.gsmarena.com##.after-entry.row
+blog.gsmarena.com##.meta.category
+blog.gsmarena.com##[class="add-bottom twentyfour columns"]
+blog.gsmarena.com##[class="comment-count meta comments right"]
+blog.gsmarena.com##[id="sidebar"]
+blog.gsmarena.com##DIV[class="comment-header border-top"]
+blog.gsmarena.com##DIV[class="row related-posts"]
+blog.gsmarena.com##DIV[id="disqus_thread"]
+blog.gsmarena.com##DIV[id="footer"]
+blog.gsmarena.com##DIV[id="subHeader"]
+blog.laptopmag.com##DIV[class="head-social cf"]
+blog.laptopmag.com##DIV[class="lpt_review_comments"]
+blog.laptopmag.com##DIV[class="right-rail"]
+blog.laptopmag.com##DIV[class="trend-bar cf"]
+blog.laptopmag.com##FOOTER
+blog.laptopmag.com##IFRAME[id="slideframe"]
+blogs.windows.com##[class="comments-area"]
+blogs.wsj.com##[class="art_tabbed_nav"]
+blogs.wsj.com##[class="hatWSJ_c"]
+blogs.wsj.com##[class="insetContent"]
+blogs.wsj.com##[class="post-bottom-row"]
+blogs.wsj.com##[id="footer"]
+blogs.wsj.com##[id="promoLoginDetailsId"]
+blogs.wsj.com##[id="rightRail"]
+blogs.wsj.com##HEADER[class="sp-header box2"]
+bloomberg.com##A[class="mini-live-player"]
+bloomberg.com##DIV[class="index-page__top-ad"]
+bloomberg.com##DIV[class="tophat"]
+careeranna.com##A[class="pin-it-button"]
+careeranna.com##DIV[class="header-content"]
+careeranna.com##DIV[id="ads125-widget-2"][class="widget ads125-widget"]
+careeranna.com##DIV[id="comments"]
+careeranna.com##DIV[id="facebook-likebox-2"][class="widget widget_facebook_likebox"]
+careeranna.com##DIV[id="login-widget-4"][class="widget login-widget"]
+careeranna.com##DIV[id="text-html-widget-2"][class="widget text-html"]
+careeranna.com##DIV[id="text-html-widget-3"][class="widget text-html"]
+careeranna.com##FOOTER
+careeranna.com##IFRAME
+careeranna.com##SECTION[id="related_posts"]
+cdn.gallery.autosport.com
+cdn.images.autosport.com/editorial/1361286604.jpg
+cdn.images.autosport.com/editorial/1361438575.jpg
+cdn-6.motorsport.com/static/img/skn_ad/
+chipworks.com##DIV[class="block footer-widget-4"]
+chipworks.com##DIV[class="primary"]
+chipworks.com##DIV[id="bottomFooterContainer"]
+chipworks.com##DIV[id="connect"]
+chipworks.com##DIV[id="headerRight"]
+chipworks.com##DIV[id="post-banner"]
+chipworks.com##DIV[id="post-entries"]
+chipworks.com##DIV[id="topFooterContainer"]
+chipworks.com##DIV[id="topNavContainer"]
+chromeactions.com##.big.yellow
+chromeactions.com##[class="big red"]
+chromeactions.com##[class="big yellow"]
+chromeactions.com##[href="http://www.chromeactions.com/app/donate.php"]
+chromeactions.com##[href="http://www.chromeactions.com/magic-actions-for-youtube-help-and-tips.html"]
+chromeactions.com##[href="http://youtube.com/subscription_center?add_user=StrukoffBrothers"]
+chromeactions.com##[href="http://youtube.com/subscription_center?add_user=StrukoffBrothers"]
+chromeactions.com##[id="soc"]
+chromeactions.com##A[href="http://www.chromeactions.com/app/donate.php"]
+chromeactions.com##A[href="http://www.chromeactions.com/magic-actions-for-youtube-help-and-tips.html"]
+chromeactions.com##A[href="https://plus.google.com/110367533603365326399/posts"]
+chromeactions.com##A[href="https://twitter.com/intent/user?screen_name=chromeactions"]
+chromeactions.com##DIV[id="soc"]
+chromeactions.com##P[id="m2"]
+cnet.com##[class="col-12 items"]
+cnet.com##[class="collapsible"]
+cnx-software.com##DIV[class="widget widget_feeds"]
+cnx-software.com##IMG[src="http://www.cnx-software.com/pic/technexion/wbbanner.png"]
+coolsport.pw##A[href="http://coolsport.pw/index.php"]
+coolsport.pw##A[href="http://streamhunter.eu/"]
+coolsport.pw##A[href="http://www.coolsport.pw/"]
+coolsport.pw##TABLE
+coolsport.se###wrapper > #header
+coolsport.se##A[href="http://coolsport.se/schedule.html"]
+coolsport.se##DIV[id="chanels"]
+coolsport.se##IMG[src="http://coolsport.se/xxxx.gif"]
+coolsport.se##IMG[src="http://coolsport.se/xxxx.gif"]
+coolsport.se##IMG[src="http://static.surk.tv/closey.gif"]
+coolsport.se##TD[id="Right_I11"]
+coolsport.tv##A[class="twitter-follow-button"]
+coolsport.tv##A[class="twitter-share-button"]
+coolsport.tv##EMBED[id="emb_1331349190550"]
+cricket-365.tv##DIV[id="bhfaceid1"]
+cricket-365.tv##IFRAME[id="myfr"]
+cricket-365.tv##IFRAME[src="http://free.timeanddate.com/clock/i25gb6v4/n211/fs17/fcfff/tc000/pc000/ftb/pa3/tt0/tw1/tm1/th1/ta1/tb1"]
+cricket-365.tv##OBJECT[id="aed36569fbc6241e4b305f3f9a19f67c9"]
+cricket-365.tv##TABLE[class="bo_color"]
+cultofmac.com##A[id="ss_dealOfTheDayButton"]
+cultofmac.com##DIV[class="scribol"]
+cultofmac.com##DIV[class="social-links"]
+cultofmac.com##DIV[id="sidebar"]
+cultofmac.com##DIV[id="vanilla-comments"]
+d1luk0418egahw.cloudfront.net/Assets/Guide/ifixit/FrameModules-comments.js$object,script
+d1luk0418egahw.cloudfront.net/Assets/Guide/ifixit/FrameModules-moderator_vote.js$script
+d1luk0418egahw.cloudfront.net/Assets/Guide/ifixit/FrameModules-user_like.js$script
+d1luk0418egahw.cloudfront.net/Assets/Guide/ifixit/Shared-FrameModules-addToCartFrameModule.js$script
+dailydot.com##DIV[class="container daily-portal"]
+dailydot.com##DIV[class="span4 sidebar hidden-phone"]
+dailymail.co.uk##[class="new shallow-ac mini"]
+dailymail.co.uk##DIV[class="beta"]
+dailymail.co.uk##DIV[id="infinite-list"]
+dailymail.co.uk##DIV[id="mini-carousel-wrapper"]
+dailymail.co.uk##DIV[id="most-watched-videos-wrapper"]
+dailymail.co.uk##DIV[id="reader-comments"]
+dailytech.com##A[id="lnkImgPrint"]
+dailytech.com##A[id="lnkImgTalk"]
+dailytech.com##A[id="lnkPrint"][class="SmallGrey"]
+dailytech.com##A[id="lnkTalk"][class="SmallGrey"]
+dailytech.com##A[id="lnkTalk"][class="SmallGrey"][href="#cmt912375"]
+dailytech.com##A[id="RssLink"][href="/rss.aspx"]
+dailytech.com##DIV[id="ArticleCommentsContainer"][class="ArticleComments"]
+dailytech.com##IFRAME
+dailytech.com##TABLE[class="ArticleToolBar"]
+desidime.com##DIV[class="grid-25 tablet-grid-33 grid-parent"]
+doregama.ind.in##[class="morinfobtn"]
+doregama.ind.in##[class="widget gallery2"]
+doregama.ind.in##[class="widget-content"]
+doregama.ind.in##DIV[class="comments"]
+doregama.ind.in##DIV[id="newsticker"]
+doregama.ind.in##DIV[id="related_posts"]
+doregama.ind.in##DIV[id="sidebar-tengah"]
+doregama.ind.in##FOOTER[id="footer-wrapper"]
+doregama.ind.in##NAV[id="topnav"][class="naviy"]
+drhtv.tv##DIV[class="bannerLive"]
+economictimes.indiatimes.com##DIV[class="topBarRight"]
+economictimes.indiatimes.com##DIV[id="defaultCommentForm"]
+economictimes.indiatimes.com##DIV[id="mf_follow"]
+economictimes.indiatimes.com##DIV[id="populatecomment"]
+economictimes.indiatimes.com##FOOTER
+edn.com##A[href="http://m.designcon.com/"]
+edn.com##A[href="http://www.designcon.com/santaclara/registration/?_mc=AD_DC_BCS_RBN"]
+edn.com##DIV[class="commentsModuleHeader"]
+edn.com##DIV[class="full-red-header partial"]
+edn.com##DIV[id="banner"]
+edn.com##DIV[id="comments"][class="commentsModuleContainer"]
+edn.com##DIV[id="post-comments"]
+edn.com##DIV[id="rss_banner"]
+edulix.com##DIV[class="logo"]
+embeddedrelated.com##DIV[class="box left"]
+embeddedrelated.com##DIV[class="box right"]
+embeddedrelated.com##DIV[class="highslide-container"]
+embeddedrelated.com##DIV[id="commax_container"]
+embeddedrelated.com##DIV[id="side"]
+en.savefrom.net##DIV[class="share42init"]
+en.savefrom.net##DIV[id="ox7"]
+en.savefrom.net##DIV[id="social_group_widget"][class="col-r"]
+en.savefrom.net##FOOTER
+en.savefrom.net##IFRAME[id="a2ce86ce"][name="a2ce86ce"]
+engadget.com##[class="amp-eternal-article loading"]
+engadget.com##A[class="comment-count"]
+engadget.com##ASIDE[class="module rail-podcast"]
+engadget.com##DIV[class="amp-eternal-article-content"]
+engadget.com##DIV[class="nextpost"]
+engadget.com##DIV[class="promoted module"]
+engadget.com##DIV[id="comments"]
+engadget.com##DIV[id="footer"]
+engadget.com##DIV[id="gdgt-wrapper"]
+engadget.com##P[class="read-more"]
+engadget.com##SPAN[class="comment-count"]
+espncricinfo.com##[class="fixed-social col-1-12 hide-for-small"]
+espncricinfo.com##ASIDE[class="secondary"]
+espncricinfo.com##DIV[class="cordon_lhs"]
+espncricinfo.com##DIV[class="fixed-social col-1-12 hide-for-small"]
+espncricinfo.com##DIV[class="wrapper"]
+espncricinfo.com##DIV[id="usrcomment"]
+espncricinfo.com##DIV[id="win8Prompt"]
+espncricinfo.com##SECTION[class="comments-reponsive col-10-12"]
+espncricinfo.com##SECTION[class="comments-reponsive col-9-12"]
+expertjobs.org###commentblock
+expertjobs.org##.widget.widget_text
+expertjobs.org##DIV.postmeta > *
+expertjobs.org##IMG[src="http://expertjobs.org/wp-content/uploads/2013/06/submit-resume-button.jpg"]
+expertjobs.org/wp-content/themes/revolution-code-blue/style.css
+extratorrent.cc##[style="border: 1px #000 dashed;"]
+extratorrent.cc##[style="padding: 5px; text-align: center;"]
+extratorrent.cc##DIV.blog_content
+extratorrent.cc##DIV.blog_left
+extratorrent.cc##DIV.blog_right
+extratorrent.cc##DIV.blog_top
+extratorrent.cc##IMG[src="http://static.extratorrent.cc/images/download_normal.gif"]
+extratorrent.cc##TD.td_menu
+extratorrent.cc##TD[width="6"]
+extremetech.com##[class="add-nav"]
+extremetech.com##[class="admin-panel"]
+extremetech.com##[class="articles-list"]
+extremetech.com##[id="footer"]
+extremetech.com##[id="tags-container"]
+extremetech.com##DIV[id="sidebar"]
+f1technical.net###foot1
+f1technical.net##.a-meta
+f1technical.net##.blockbox.sharesb
+f1technical.net##.content:last-child
+f1technical.net##.hr.hrblocklow
+f1technical.net##[class="intro-ad"]
+f1technical.net##DIV[class="block topline"]
+f1technical.net##DIV[id="user"]
+f1technical.net##DIV[style="background-color: #f5f5f5; text-align:center; margin:4px;padding:4px"]
+f1technical.net##INS[id="aswift_0_expand"]
+f1technical.net##TD[id="right"]
+fedevel.com##IFRAME[src="//www.youtube.com/embed/_DzhGk0F1YA?rel=0"]
+fedevel.com##LI[id="text-12"][class="widget-container widget_text"]
+fedevel.com##LI[id="text-28"][class="widget-container widget_text"]
+fedevel.com##LI[id="text-29"][class="widget-container widget_text"]
+fedevel.com##LI[id="text-7"][class="widget-container widget_text"]
+fedevel.com##UL[id="nav-dcssb"]
+filehippo.com##.techbeat-widget-wide-container.download-page.clearfix
+filehippo.com##DIV[id="related-software"]
+filehippo.com##DIV[id="sidebar"]
+filehippo.com##DIV[id="sidebar"]
+filehippo.com##DIV[id="techbeat-widget"]
+filehippo.com##DIV[id="techbeat-widget-wide-container"][class="clearfix"]
+filehippo.com##FOOTER[class="clearfix"]
+filehippo.com##FOOTER[class="clearfix"]
+forbes.com##[class="clearfix"]
+forbes.com##[class="col-md-10 col-md-offset-2 col-sm-12 col-sm-offset-0"]
+forbes.com##[class="leaderboard"]
+forbes.com##[class="loading_spinner_holder"]
+forbes.com##[class="primary_feature"]
+forbes.com##[class="secondary_features"]
+forbes.com##[class="user hover togglable collapsed"]
+forbes.com##[class="vp-wrapper initialized"]
+forbes.com##[class="zemanta-img"]
+forbes.com##DIV[class="row"]
+formula1.com##[class="advertisingimageextended-link img-advert"]
+formula1.com##DIV[class="fom-modal is-visible"]
+formula1.com##DIV[class="fom-modal-shim is-visible"]
+formula1.com##DIV[class="GenericColTwoWrap"]
+formula1.com##DIV[class="inner-wrap related-content"]
+formula1.com##DIV[id="bannerWrapper"]
+formula1.com##IFRAME[id="iframe"]
+formula1.com##LI[class="navAPP navAPP_en"]
+forum.xda-developers.com##A[class="donateButton btn-silver"]
+forum.xda-developers.com##DIV[class="fb-like"]
+forum.xda-developers.com##DIV[class="postModTools"]
+forum.xda-developers.com##DIV[class="share"]
+forum.xda-developers.com##DIV[class="threadtoolsSocial"]
+forum.xda-developers.com##DIV[id="nav-right"]
+forum.xda-developers.com##DIV[id="sidepanel"]
+forum.xda-developers.com##DIV[id="xda_header_google_login"]
+forum.xda-developers.com##IMG[id="modal_ad_left"][class="modal-ad"]
+forum.xda-developers.com##IMG[id="modal_ad_top"][class="modal-ad"]
+forum.xda-developers.com##LI[class="social_facebook"]
+forum.xda-developers.com##LI[class="social_Gplus"]
+forum.xda-developers.com##LI[class="social_twitter"]
+forum.xda-developers.com##LI[class="social_youtube"]
+forum.xda-developers.com##TABLE[id="xda_footer"]
+forum.xda-developers.com##TD[class="submitAsTip"]
+forum.xda-developers.com##TR[id="xda_header_latest"]
+forum.xda-developers.com##UL[class="header-right"]
+forums.androidcentral.com##[class="nocontent"]
+forums.androidcentral.com##[class="sidebar"]
+forums.androidcentral.com##[class="swiper-container"]
+fpgarelated.com##DIV[class="box left"]
+fpgarelated.com##DIV[class="box right"]
+fpgarelated.com##DIV[id="commax_container"]
+fpgarelated.com##DIV[id="side"]
+geo.autosport.com/langver.jsp
+ghacks.net##ASIDE[id="sidebar"]
+gmatclub.com##DIV[id="fbEventsLayout"]
+goodcast.co##.alert.score
+goodcast.co##.alert.score
+goodreads.com##A[class="left imgcol"]
+goodreads.com##DIV[class="ctaBannerShown"]
+google.com###promo-box
+google-analytics.com/ga.js
+grad-schools.usnews.rankingsandreviews.com##ASIDE[id="rail"][class="rail-right"]
+grad-schools.usnews.rankingsandreviews.com##DIV[class="aside aside-bottom"]
+grad-schools.usnews.rankingsandreviews.com##DIV[class="footer_disclaimers"]
+grad-schools.usnews.rankingsandreviews.com##DIV[class="widget-bleed ets-quiz"]
+grad-schools.usnews.rankingsandreviews.com##DIV[id="afterContent"][class="ad ad-after-content ad-labeled sep"]
+grad-schools.usnews.rankingsandreviews.com##DIV[id="footer"][class="footer footer-education"]
+grad-schools.usnews.rankingsandreviews.com##UL[class="header_primaryNav bar"]
+gre.learnhub.com##DIV[class="advertising"]
+gre.learnhub.com##DIV[class="fb-login-button-image"]
+gre.learnhub.com##DIV[id="bottom"]
+gre.learnhub.com##DIV[id="copy_wrapper"]
+gre.learnhub.com##DIV[id="leaders"][class="box"]
+gre.learnhub.com##DIV[id="similar_questions"]
+gre.learnhub.com##DIV[id="trustmarks_wrapper"]
+gre.learnhub.com##DIV[id="twitter"]
+greedge.com##DIV[id="colRight"]
+greedge.com##DIV[id="footer"]
+gretousvisa.com##A[href="http://www.blogger.com/follow-blog.g?blogID=2477196509472599559"]
+gretousvisa.com##DIV[class="post-footer"]
+gretousvisa.com##DIV[class="subscribe-wrapper subscribe-type-PER_POST"]
+gretousvisa.com##DIV[class="subscribe-wrapper subscribe-type-POST"]
+gretousvisa.com##TD[class="columns-cell"]
+gsmarena.com###ttl
+gsmarena.com##.sub-footer
+gsmarena.com##DIV[id="___plusone_0"]
+gsmarena.com##DIV[id="brandmenu"]
+gsmarena.com##DIV[id="epn-ads-banner807680560"][class="epn-ads-ImageLink Vertical"]
+gsmarena.com##DIV[id="footer"]
+gsmarena.com##DIV[id="footmenu"]
+gsmarena.com##DIV[id="side"]
+gsmarena.com##DIV[id="social-connect"]
+gsmarena.com##DIV[id="subHeader"]
+gsmarena.com##DIV[id="topAdv"]
+gsmarena.com##DIV[id="user-comments"][class="box s3 nobg"]
+gsmarena.com##DIV[id="user-comments"][class="box s3"]
+gsmarena.com##UL[id="social"][class="left row social-buttons cf"]
+guidingtech.com##[class="GetResponseOptInFormContainer placeholder-label"]
+guidingtech.com##[class="likepost"]
+guidingtech.com##[class="widget popular-widget"]
+hdcast.org/goalsoftoday.jpg
+hdcast.org/images/
+highonandroid.com##DIV[id="sidebar"]
+housefull.co.in##DIV[id="chatbox_OnlineChat"][class="chatbox"]
+howtogeek.com##A[class="twitter-follow-button mnuTwitterButton"]
+howtogeek.com##DIV[class="difj"]
+howtogeek.com##DIV[class="g-plusone"]
+howtogeek.com##DIV[id="discourselink"]
+howtogeek.com##DIV[id="ft"][class="footer"]
+hulu.com##DIV[class="functional-bar beacon"]
+hulu.com##DIV[class="watch"]
+hulu.com##DIV[id="footer"][class="z-index-layer-2"]
+hulu.com##DIV[id="masthead"][class="controls"]
+hulu.com##DIV[id="user-menu"]
+i54.tinypic.com/2vb6kxs.png
+ifixit.com##[class="login"]
+ifixit.com##[id="guideBottom"]
+ifixit.com##[id="guideComments"]
+ifixit.com##[id="pageStats"]
+ifixit.com##[id="sidebarFloat"]
+ifixit.com##FOOTER
+ifixit.org##[class="comments-area"]
+ifixit.org##[id="footer-container"]
+ifixit.org##DIV[class="author-container"]
+ifixit.org##UL[class="next-prev-post-nav"]
+imdb.com##[class="article contribute"]
+imdb.com##[class="ft"]
+imdb.com##[class="maindetails_sidebar"]
+imdb.com##[id="megaMenu"]
+imdb.com##[id="nb_extra"]
+imdb.com##[id="nb_personal"]
+imdb.com##DIV[class="winner-option watch-option "]
+imdb.com##DIV[class="wlb_classic_wrapper"]
+imdb.com##DIV[id="prometer_container"]
+imdb.com##TD[id="overview-bottom"]
+indianexpress.com##DIV[class="youmaylike"]
+irctc.co.in##IMG[src="https://www.irctc.co.in/images/newbanner/air1_banner_ERS.gif"]
+jamesallenonf1.com##A[href="http://www.gptours.com/pick8/"]
+jamesallenonf1.com##A[href="http://www.wallsauce.com/wall-murals/sport-copy831455055/formula-1-wall-murals/"]
+jamesallenonf1.com##DIV[class="r_sidebar"]
+jamesallenonf1.com##DIV[class="socialLinks"]
+jamesallenonf1.com##IMG[src="http://www.jamesallenonf1.com/wp-content/themes/JamesAllen2011/images/UBS_static_460x90_strategyV2.jpg"]
+junksport.com##DIV[style="background-color: rgb(251, 236, 173); position: absolute; margin: 0px 0px 0px -350px; left: 50%; width: 700px; z-index: 999999; height: 22px; font-family: arial; font-weight: bold; font-size: 14px; text-shadow: none; text-align: left; color: black; padding-top: 5px; padding-bottom: 5px; top: 0px;"]
+kaisar-haque.blogspot.com##DIV[id="comments"][class="comments"]
+kaisar-haque.blogspot.com##DIV[id="Subscribe1"][class="widget Subscribe"]
+kickass.to###feedback
+kickass.to##.sidebarCell
+kickass.to##A[class="ajaxLink icon16 textButton iplus"]
+kickass.to##A[class="ajaxLink icon16 textButton ireport redButton"]
+kickass.to##A[class="siteButton giantButton    verifTorrentButton"]
+kickass.to##A[class="siteButton giantIcon bookmarkButton ajaxLink"]
+kickass.to##A[class="siteButton giantIcon rssButton ajaxLink"]
+kickass.to##A[id="report_button"]
+kickass.to##DIV[class="sharingWidgetBox"]
+kickass.to##SPAN[class="block relative"]
+l.longtailvideo.com/5/9/logo.png
+labnol.org##DIV[id="flipboard"]
+learnpythonthehardway.org##A[class="twitter-follow-button"]
+learnpythonthehardway.org##DIV[id="footer"]
+learnpythonthehardway.org##DIV[id="paydiv"]
+legalschnauzer.blogspot.in##[class="column-right-outer"]
+lenskart.com##SECTION[class="footer-wrap"]
+lerablog.org##DIV[class="wp-socializer-buttons clearfix"]
+lerablog.org##DIV[id="dc-dcssb"]
+lerablog.org##DIV[id="footer-wrap"]
+lerablog.org##DIV[id="tabbed-login-widget-2"][class="widget widget-login tabbed-login-widget"]
+lerablog.org##DIV[id="text-7"][class="widget widget_text"]
+lerablog.org##DIV[id="text-9"][class="widget widget_text"]
+lerablog.org##DIV[id="top-posts-7"][class="widget widget_top-posts"]
+lerablog.org##DIV[id="tubepress"][class="widget widget_tubepress"]
+lerablog.org##DIV[id="wp_thumbie"]
+live.autosport.com##DIV[id="interactbar"]
+live.autosport.com##TABLE[class="content"]
+live.autosport.com##TD[height="120"]
+live.autosport.com##TD[height="15"]
+live.autosport.com##TD[valign="middle"][align="right"][class="content"]
+live.gtcaster.com###bbb
+liveall.tv/logo.php?streampage=teeptit14axoarn
+m.anandtech.com##A[href="/rss/"]
+m.anandtech.com##A[href="http://www.facebook.com/AnandTech/"]
+m.anandtech.com##ARTICLE[class="facebook_like"]
+m.anandtech.com##ASIDE[class="sidebar noprint"]
+m.anandtech.com##DIV[class="bench_box"]
+m.anandtech.com##DIV[class="blog_top_right"]
+m.anandtech.com##DIV[class="header_right_btm"]
+m.anandtech.com##DIV[class="mobi-footer"]
+m.anandtech.com##FOOTER[class="footer noprint"]
+m.anandtech.com##HEADER[class="header noprint"]
+m.anandtech.com##NAV[class="nav inner_nav animenu"]
+m.anandtech.com##NAV[class="topic_menu topic_inner"]
+m.autosport.com##DIV[class="ui-block-b-inner"]
+m.youtube.com##DIV[id="koya_child_2"][class="koya-komponent-binding"]
+m.youtube.com##DIV[id="koya_elem_0_16"][class="koya-partial"]
+macbreaker.com##DIV[class="post-footer"]
+macbreaker.com##DIV[class="subscribe-wrapper subscribe-type-PER_POST"]
+macbreaker.com##DIV[class="subscribe-wrapper subscribe-type-POST"]
+macbreaker.com##DIV[id="comments"][class="comments"]
+macbreaker.com##DIV[id="HTML3"][class="widget HTML readable_class_is_hidden"]
+macbreaker.com##DIV[id="HTML3"][class="widget HTML"]
+macbreaker.com##DIV[id="Subscribe1"][class="widget Subscribe"]
+magoosh.com##DIV[class="author-bio"]
+magoosh.com##DIV[class="post-entries"]
+magoosh.com##DIV[class="pp_content_container"]
+magoosh.com##DIV[class="pp_overlay"]
+magoosh.com##DIV[id="footer"]
+magoosh.com##DIV[id="goto-magoosh-wrapper"]
+magoosh.com##DIV[id="hellobar-pusher"]
+magoosh.com##DIV[id="hellobar-wrapper"][class=" hellobar-right hellobar-dark-images hellobar-button-default hellobar-button"]
+magoosh.com##DIV[id="product-link"]
+magoosh.com##DIV[id="sidebar"]
+magoosh.com##DIV[id="text-25"][class="widget widget_text"]
+magoosh.com##DIV[id="text-26"][class="widget widget_text"]
+magoosh.com##DIV[id="text-29"][class="widget widget_text"]
+magoosh.com##DIV[id="text-30"][class="widget widget_text"]
+magoosh.com##DIV[id="text-4"][class="widget widget_text"]
+magoosh.com##DIV[id="text-8"][class="widget widget_text"]
+magoosh.com##IMG[class="alignnone size-full wp-image-3081"]
+magoosh.com##UL[id="sharebar"]
+magoosh.com##UL[id="sharebarx"]
+magoosh.com/gre/wp-content/plugins/$domain=magoosh.com,media,subdocument,object,image,script,stylesheet,xmlhttprequest,popup
+makeuseof.com##ASIDE[class="secondary"]
+makeuseof.com##DIV[class="header__social nav-item nav-item--dropdown"]
+makeuseof.com##DIV[class="img__sharer"]
+makeuseof.com##DIV[class="sharebar-cont"]
+makeuseof.com##SECTION[class="sharebar"]
+makeuseof.com##SECTION[class="sharebar-horizontal"]
+makeuseof.com##SECTION[class="subscribe"]
+makeuseof.com##SECTION[id="comments"][class="comments"]
+makeuseof.com##SPAN[class="pt_open nav-item login-block"]
+mamahd.com##.top.row
+mamahd.com##A[href="http://www.goalsoftoday.com/"]
+mamahd.com##DIV[class="footer row"]
+mamahd.com##DIV[class="right-col cell"]
+mamahd.com/images/
+manhattangmat.com##A[href="http://www.manhattangmat.com/blog/2012/01/03/what-to-read-and-what-not-to-read-on-rc-passages/#comments"]
+manhattangmat.com##DIV[class="author-box-image"]
+manhattangmat.com##DIV[class="post-meta clearfix"]
+manhattangmat.com##DIV[id="author-box"][class="well clearfix"]
+manhattangmat.com##DIV[id="comments"][class="clearfix"]
+manhattangmat.com##DIV[id="footer"][class="clearfix"]
+manhattangmat.com##DIV[id="no-comments"][class="clearfix"]
+manhattangmat.com##DIV[id="pings"]
+manhattangmat.com##DIV[id="respond"][class="comment-respond"]
+manhattangmat.com##DIV[id="sidebar"][class="span4"]
+manhattangmat.com##DIV[id="single-post-nav"]
+manhattangmat.com/blog/wp-content/themes/standard/js/
+manhattangmat.com/blog/wp-content/themes/standard/lib/
+manhattangmat.com/blog/wp-includes/js/
+manhattanprep.com##DIV[id="sidebar"][class="span4"]
+mashable.com##[class="article-comments limit-comments"]
+mashable.com##[class="box-cell sidebar"]
+mashable.com##[class="credit"]
+mashable.com##[class="iframe-container"]
+mashable.com##[class="image-credit"]
+mashable.com##[class="page-header channel"]
+mashable.com##[class="see-also"]
+mashable.com##[id="choice-banner"]
+mashable.com##[id="more-in-channel"]
+mashable.com##[id="site-footer-wrapper"]
+menshealth.com##DIV[id="sidebar-right"][class="column sidebar region grid-2"]
+motogp.com##[class="area_title"]
+motogp.com##A[class="promo_banner"]
+motogp.com##ASIDE[id="related_updates"]
+motogp.com##DIV[class="ads"]
+motogp.com##DIV[class="top_page_container"]
+motogp.com##DIV[id="footer"]
+motogp.com##DIV[id="footer_out"]
+motogp.com##DIV[id="messageBar"][class="messageBar cookies"]
+motogp.com##DIV[id="other_updates"]
+motogp.com##NAV[class="maxi_top"]
+motogp.com##NAV[id="main_footer"]
+motorbeam.com##DIV[class="discussin"]
+motorbeam.com##DIV[class="fb_comments"]
+motorbeam.com##DIV[class="sidebar"]
+motorbeam.com##DIV[class="text_box"]
+motorsport.com###user_menu.disabled.left
+motorsport.com##.sizer
+motorsport.com##[class="disabled"]
+motorsport.com##[class="hapb"]
+motorsport.com##[class="menuButton"]
+motorsport.com##[class="sidebarApBox"]
+motorsport.com##[class="viewsCount"]
+motorsport.com##[id="footer"]
+motorsport.com##[id="livefyre_comments_box"]
+motorsport.com##DIV[class="btnsView"]
+motorsport.com##DIV[class="column columnPhotos photoGalView photoGalListView"]
+motorsport.com##DIV[class="contentNavig news"]
+motorsport.com##DIV[class="contentNavig video"]
+motorsport.com##DIV[class="contentNavigSmall bottom"]
+motorsport.com##DIV[class="contentNavigSmall top"]
+motorsport.com##DIV[class="photoGalWidget headings photoGalView photoGalListView levelHeight90"]
+motorsport.com##DIV[class="relatedArticles"]
+motorsport.com##DIV[class="topAp"]
+motorsport.com##DIV[class="videosRelatedBox videoView videoThumbView"]
+motorsport.com##DIV[class="videoWidget headings videoView videoListView levelHeight90"]
+motorsport.com##DIV[class="widgetTrendingContent"]
+motorsport.com##DIV[id="article_sidebar"][class="sidebar"]
+motorsport.com##DIV[id="related_page"]
+motorsport.com##DIV[id="take_over_ap"]
+motorsport.com##UL[id="user_menu"]
+msinus.com##A[class="twitter-share-button"][href="https://twitter.com/share"]
+msinus.com##DIV[class="below_body"]
+msinus.com##DIV[class="fullwidth"]
+msinus.com##DIV[class="g-plusone"]
+msinus.com##DIV[class="social"]
+msinus.com##DIV[class="vbseo_liked"]
+msinus.com##DIV[id="comments"][class="cms_comments_page"]
+msinus.com##DIV[id="lkbtn_3.261.-1"][class="vbseo_buttons"]
+msinus.com##FORM[id="notices"][class="notices"]
+msinus.com##IFRAME[name="f2933c1b0c"]
+msinus.com##LI[class="vbseo_share"]
+msn.com##[class="articlepaginationnext loaded"]
+msn.com##[class="articlepaginationprev loaded"]
+msn.com##[class="morefromcategory loaded"]
+msn.com##[class="one-back-home-button loaded"]
+msn.com##[id="foot"]
+msn.com##ASIDE[id="aside"]
+msn.com##DIV[class="list"]
+msn.com##DIV[class="normalsection sportsfooter loaded"]
+msn.com##DIV[class="pagingsection dark loaded"]
+msn.com##SECTION[class="morefromprovider loaded"]
+neowin.net##[class="comments"]
+neowin.net##[class="footer"]
+neowin.net##[class="menu"]
+neowin.net##[class="related-news"]
+neowin.net##DIV[class="comments-col d-col-8 w-col-8"]
+neowin.net##DIV[class="footer-banner footer-banner-ads"]
+neowin.net##DIV[class="mega-menu"]
+neowin.net##DIV[class="post-nav-links"]
+neowin.net##DIV[id="sidebar"]
+news.yahoo.com##[class="mod view_default"]
+news.yahoo.com##[class="yog-wrap yog-full"]
+news.yahoo.com##[class="yom-mod yom-breaking-news level2"]
+news.yahoo.com##[class="yucs-ps"]
+news.yahoo.com##[id="Navigation"][class="Row Sticky"]
+news.yahoo.com##[id="Navigation"][class="Row"]
+news.yahoo.com##DIV[class="UHCol2 Pos-a Bxz-bb"]
+news.yahoo.com##DIV[id="Aside"][class="Row"]
+news.yahoo.com##DIV[id="uhNavWrapper"][class="UHCol3 Pos-a End-0"]
+news.yahoo.com##DIV[id="yui_3_16_0_1_1414158470549_58"][class="Col3 yog-rp yog-rw Pos-a End-0 Z-1 Stack CoversMainContent"]
+news.yahoo.com##DIV[id="yui_3_16_0_1_1414158848364_1854"][class="yom-remote"]
+newtvworld.com##IFRAME[id="myfr"][name="I12"]
+newtvworld.com##IFRAME[id="myfr1"][name="I16"]
+newtvworld.com##IFRAME[src="../add/add1.html"]
+nytimes.com##[class="nocontent robots-nocontent"]
+nytimes.com##[class="ribbon-page-navigation previous homepageLink"]
+nytimes.com##[id="navigation-edge"]
+nytimes.com##[id="ribbon"]
+nytimes.com##[id="whats-next"]
+nytimes.com##ASIDE
+nytimes.com##NAV[class="ribbon-page-navigation previous homepageLink"]
+online-convert.com##DIV[class="beautyimage"]
+online-convert.com##DIV[class="secondbar"]
+overdrive.in##[id="slidebox"]
+overdrive.in##A[href="http://overdrive.in/subscribe/"]
+overdrive.in##DIV[class="breadcrumb"]
+overdrive.in##DIV[class="carSideBar"]
+overdrive.in##DIV[class="footer"]
+overdrive.in##DIV[class="topWhiteGrad"]
+overdrive.in##UL[id="menu"]
+paytm.com###message-placeholder
+pcworld.com##[class="side"]
+pcworld.com##DIV[id="commentsDiv"]
+pcworld.com##DIV[id="network"]
+play.google.com##[class="author-image"]
+play.google.com##[class="details-sharing-section"]
+plus.autosport.com##DIV[class="content_sidebar"]
+plus.autosport.com##DIV[id="footer"][class="blackStrip"]
+plus.autosport.com##DIV[id="headerTools"]
+policymic.com##DIV[id="share"][class="column share-toolbar-absolute"]
+policymic.com##UL[class="share-toolbar share-toolbar-vertical show-all"]
+preview.msn.com##DIV[class="adcontainer"]
+preview.msn.com##DIV[class="stripeouter mestripeouter"]
+preview.msn.com##DIV[id="foot"]
+preview.msn.com##DIV[id="mestripebg"]
+realworldtech.com##DIV[class="follow-button"]
+realworldtech.com##IFRAME
+realworldtech.com##LI[id="follow"]
+saavn.com##DIV[id="ad-drawer"]
+semiaccurate.com##FOOTER[id="endFooter"][class="row"]
+semiaccurate.com##SECTION[id="featuredContent"][class="row"]
+servimg.com##DIV[id="profile_register_advertising"]
+servimg.com##FORM
+sharelatex.com##DIV[class="follow-us alert alert-success"]
+sharelatex.com##DIV[class="info-box"]
+sharelatex.com##DIV[class="social-footer"]
+sharelatex.com##DIV[id="disqus_thread"]
+sigasi.com##SPAN[class="inline inline-right"]
+slashgear.com##ASIDE[class="sidebar"]
+sportp2p.com##.logo
+sportp2p.com##.logo
+sportp2p.com##CENTER
+sportp2p.com##CENTER
+ssciglobal.in##A[class="head"]
+ssciglobal.in##A[href="../images/ssci-Profile.ppt"]
+ssciglobal.in##EMBED[src="../images/top-flash.swf"]
+ssciglobal.in##IMG[src="images/prsentation.gif"]
+ssciglobal.in##IMG[src="images/snapshot.gif"]
+ssciglobal.in##OBJECT
+static.extratorrent.cc/images/avatars/
+static.extratorrent.cc/images/noavatar_female.gif
+static.extratorrent.cc/images/noavatar_male.gif
+static.extratorrent.cc/images/other/
+stupidsid.com##DIV[class="bannergroup"]
+stupidsid.com##DIV[class="bannergroupclearfix"]
+stupidsid.com##DIV[id="ja-botsl"][class="wrap "]
+stupidsid.com##DIV[id="ja-topsl"][class="wrap "]
+t3bs.blogspot.in##ASIDE[id="sidebar-wrapper"]
+tags.tiqcdn.com
+teachhub.com##A[class="createaccountorange register-clickable"]
+teachhub.com##DIV[class="article_footer_bar"]
+teachhub.com##DIV[class="header_social_wrap"]
+teachhub.com##DIV[class="top_header_bar_100"]
+teachhub.com##DIV[id="block-block-129"][class="block"]
+teachhub.com##DIV[id="block-block-275"][class="block"]
+teachhub.com##DIV[id="block-block-276"][class="block"]
+teachhub.com##DIV[id="block-disqus-disqus-comments"][class="block block-disqus"]
+teachhub.com##DIV[id="block-menu-menu-news-subnavigation"][class="block block-menu"]
+teachhub.com##DIV[id="block-views-bee564bb7d63159d4fed1ab63f5afcae"][class="block block-views"]
+teachhub.com##DIV[id="footer-wrapper"]
+teachhub.com##DIV[id="playerwrapper"]
+teachhub.com##DIV[id="related_articles_3_images_wrap"]
+tech.firstpost.com##DIV[class="comvbx MT20 brdT2"]
+tech.firstpost.com##DIV[class="fixBtm"]
+tech.firstpost.com##DIV[class="maincnt clearfix"]
+tech.firstpost.com##DIV[class="rhs300"]
+tech.firstpost.com##DIV[id="tech_alsoread"]
+tech.firstpost.com##FOOTER
+tech.firstpost.com##SECTION[class="reviews"]
+tech-recipes.com##DIV[id="sidebar"]
+techreport.com##DIV[id="right"]
+techspot.com##[class="comment-count-block features"]
+techspot.com##[class="comment-count-block"]
+techspot.com##[class="cta grey"]
+techspot.com##[class="follow-subscribe desktop"]
+techspot.com##[class="page-nav prev-next"]
+techspot.com##[class="post-meta"]
+techspot.com##[class="related-products related-stories"]
+techspot.com##[class="related-products"]
+techspot.com##[class="right-links"]
+techspot.com##[id="comments"]
+techspot.com##[id="sidebar"]
+techspot.com##NAV[id="main-menu"]
+telegraph.co.uk##DIV[id="shareSideContainer"][class="loading"]
+theguardian.com##[class="blog-navigation"]
+theguardian.com##[class="top-navigation twelve-col top-navigation-js"]
+theguardian.com##[class="trackable-component component-wrapper eight-col"]
+theguardian.com##[class="trackable-component crumb-wrapper global"]
+theguardian.com##[class="var-a"]
+theguardian.com##[id="footer-container"]
+theregister.co.uk##DIV[id="read_more_on"]
+theregister.co.uk##DIV[id="right-col"]
+theverge.com##[class="m-nav__container"]
+theverge.com##[class="m-new-articles__toggle"]
+theverge.com##[class="p-entry-header__comments"]
+theverge.com##[class="-user"]
+theverge.com##DIV[class="m-article__comments-section"]
+theverge.com##DIV[class="m-big-stories"]
+theverge.com##DIV[class="m-linkset"]
+theverge.com##UL[class="p-entry-nav"]
+tim.webanalyticsdemystified.com##DIV[id="specialmessage"]
+time4tv.com##DIV[class="column-left-outer"]
+time4tv.com##DIV[id="HTML16"][class="widget HTML"]
+tngovernmentjobs.in##DIV[id="HTML3"][class="widget HTML"]
+topuniversities.com##DIV[class="bookmark"]
+topuniversities.com##DIV[id="block-boxes-sign-up-qs-guides-large"][class="block block-boxes block-boxes-simple odd"]
+topuniversities.com##DIV[id="block-topuni-global-social-media-links"][class="block block-topuni-global even"]
+topuniversities.com##DIV[id="sliding-popup"][class="sliding-popup-top"]
+topuniversities.com##NAV[id="main-menu"]
+topuniversities.com##P[class="signup"]
+tvole.me##[id="adscx1"]
+tvole.me##[id="fixedtop1"]
+tvole.me##[id="fixedtop2"]
+tvole.me##DIV[style="padding-left:10px"]
+tvole.me##P
+tvole.me/adcxtnew_1_18.js
+udemy.com##DIV[class="fancybox-overlay fancybox-overlay-fixed"]
+uploaded.net##DIV[id="prem"]
+usnews.com##A[href="http://www.usnews.com/education/online-education/features/multistep-oe?s_cid=53187"]
+usnews.com##DIV[class="bar block-generous"]
+usnews.com##DIV[class="block"]
+usnews.com##DIV[id="footer"][class="footer footer-education"]
+usnews.com##SPAN[class="right link-dark drawer_trigger"]
+usnews.com##UL[class="bar-pad6 block"]
+usnews.com##UL[class="header_primaryNav bar"]
+vox.com##[class="l-full footer"]
+vox.com##[class="l-rail"]
+vox.com##[class="m-global-header__user-items usernav-active"]
+vox.com##[class="m-global-header__user-items"]
+vox.com##[class="sp-box-bar"]
+vox.com##DIV[class="m-linksets"]
+washingtonexaminer.com##IFRAME
+washingtonpost.com##[class="content-strip-marker recommended"]
+washingtonpost.com##[class="content-strip-marker trending"]
+washingtonpost.com##[class="next-story-wrapper"]
+washingtonpost.com##[class="pb-comment-wrapper "]
+washingtonpost.com##[class="pb-layout-item pb-chain pb-one chain-1"]
+washingtonpost.com##[id="nav-bar"]
+washingtonpost.com##SPAN[class="tweet-authors"]
+wds.liveall.tv/logo.png
+wikihow.com##DIV[id="sidebar"]
+wisegeek.org##DIV[id="jquery-lightbox"]
+wisegeek.org##DIV[id="jquery-overlay"]
+worldaffairsjournal.org##DIV[id="emailcapture"][class="emailsignup"]
+writelatex.com##DIV[class="col-sm-4"]
+writelatex.com##DIV[id="templates_info"]
+writelatex.com##FOOTER[id="footer"]
+wsj.com##DIV[class="module trending_now  "]
+wsj.com##UL[class="top_stories clear"]
+www1.skysports.com##DIV[class="base-head-t1"]
+www1.skysports.com##DIV[class="base-site-login"]
+www1.skysports.com##DIV[class="box -mkt-max"]
+www1.skysports.com##DIV[class="box -style6 -rs-style9"]
+www1.skysports.com##DIV[class="col2"]
+www1.skysports.com##DIV[class="site-footer"]
+www1.skysports.com##DIV[class="site-header__body"]
+www1.skysports.com##DIV[class="ss-footer"]
+www1.skysports.com##DIV[class="v5-art-box art-box-t2 v5-rnd-5"]
+www1.skysports.com##DIV[class="v5-art-tools enable-art-tools"]
+www1.skysports.com##DIV[id="f1-nav"][class="base-nav-t2"]
+www1.skysports.com##DIV[id="post-comment"][class="v5-art-form"]
+www1.skysports.com##DIV[id="sky-bet-accordian"][class="v5-accordian accordian-skybet"]
+www1.skysports.com##DIV[id="skycomGlobalNav"][class="-bp30-hdn -bp20-hdn"]
+www1.skysports.com##LI[class="base-nav-item right"]
+www1.skysports.com##UL[class="ss-head-boxes"]
+xda-developers.com##[class="header-right"]
+xda-developers.com##DIV[class="banner-post banner"]
+xda-developers.com##DIV[class="socialBar"]
+xda-developers.com##DIV[class="socialBar-single"]
+xda-developers.com##DIV[id="comments-disqus"][class="box"]
+xda-developers.com##DIV[id="disqus_thread"]
+xda-developers.com##DIV[id="features-social"]
+xda-developers.com##DIV[id="nav-right"]
+xda-developers.com##DIV[id="social"]
+xda-developers.com##FOOTER
+xda-developers.com##LI[class="p-det-com"]
+youtube.com##[class="  yt-card yt-card-has-padding scrolldetect"]
+youtube.com##DIV[class="alerts-wrapper"]
+youtube.com##DIV[class="yt-base-gutter"]
+youtube.com##DIV[id="footer-links"]
+youtube.com##DIV[id="guide"]
+youtube.com##DIV[id="guide"][class="yt-scrollbar"]
+youtube.com##DIV[id="watch-discussion"][class="    yt-card yt-card-has-padding scrolldetect"]
+youtube.com##DIV[id="watch-discussion"][class="scrolldetect"]
+youtube.com##DIV[id="ytOtloop"]
+youtube.com##UL[class="about-network-links"]
+zauba.com##DIV[class="region region-sidebar-second"]
+zigwheels.com##[id="slidebox"]
+zigwheels.com##DIV[class=" jcarousel-skin-carnu"]
+zigwheels.com##DIV[class="contr"]
+zigwheels.com##DIV[class="copyright MT10 PT10 PB10 MB15"]
+zigwheels.com##DIV[class="dw_main"]
+zigwheels.com##DIV[class="FL wdt100p MT10"]
+zigwheels.com##DIV[class="menu"]
+zigwheels.com##DIV[class="newslatterbox"]
+zigwheels.com##DIV[class="showcontent"]
+zigwheels.com##DIV[class="story_cont"]
+zigwheels.com##DIV[class="story_like"]
+zigwheels.com##DIV[class="submenu"]
+zigwheels.com##DIV[class="toppart POSR brdtop"]
+zigwheels.com##DIV[class="topW"]
+zigwheels.com##DIV[id="commentPlaceHolderAll"][class="lazyload_func"]
+zigwheels.com##DIV[id="tpoint"][class="PT15 FL lazyload_func"]

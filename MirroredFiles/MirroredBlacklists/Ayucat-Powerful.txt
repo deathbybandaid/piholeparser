@@ -1,0 +1,55 @@
+[Adblock Plus 0.7.5]
+!
+!  ayucat powerful list (general ad-blocking subscription)
+!          -ayucat Safe Web-browsing Team
+!         | Last Modified: 18oct2009 | http://blog.livedoor.jp/ayucat/  |
+!Expires after 5 days
+!
+!USE EasyList(USA): it includes this
+!http://notice.kakaku.com/html.ng/*
+!USE ChinaList(China): it includes one like this
+/s_code*.js|
+http://click.adv.livedoor.com/
+image.click.livedoor.com
+210.155.151.148/images/
+impact-ad.jp
+ai.yimg.jp/bdv/
+rst/rstdtl_accesscnt
+http://*.shinobi.jp/*
+http://x1.goo.ne.jp/p/j.php
+RdmReviewAd.js
+*/adimage/
+2o7.net
+top_photo.js
+tabelog.com/blog_parts
+tracer.jp
+analyzer*.fc2.com
+image.excite.co.jp/ng/
+dlv.itmedia.jp/adsv/
+!
+!Yahoo!J
+yeas.yahoo.co.jp/n
+overture.com
+ov.yahoo.co.jp
+im.ov.yahoo.co.jp/js_flat/
+yjaxc.yahoo.co.jp/js/yjaxc.js
+!
+microad.jp
+ads*.msn.com
+motu.trustclick.ne.jp/mbjs
+at.4travel.jp
+!
+!MAYBE SAFE OR RARE AS FOLLOWS
+eiga.com/ad/*
+/images/banner/*
+/images/bbs/loan_top_148x148.jpg
+show_ads.js
+img.itmedia.jp/so/images/
+!
+!
+! elements
+tabelog.com#div(kakaku-list)
+#div(listing_ad_top)
+kakaku.com#div(footerNavi-new)
+livedoor.com#table(id=pr)
+livedoor.com#p(megaText)

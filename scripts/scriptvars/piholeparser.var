@@ -1,0 +1,29 @@
+## This file contains the variables used in the setup
+
+## Version Options control what the script does.
+## Options are local or github
+#version=""
+
+## Credentials if using Github
+#GITHUBUSERNAME=""
+#GITHUBPASSWORD=""
+#GITHUBEMAIL=""
+
+## Hosting locally
+## Defaults
+#LOCALHOSTDIR=/var/www/html/lists/
+#CLOCALHOST="$BIGAPLLOCALHOSTDIR"CombinedBlackLists.txt
+#DBBLOCALHOST="$BIGAPLLOCALHOSTDIR"DeathbybandaidList.txt	
+
+## Repo Information
+## Repo
+REPONAME=piholeparser
+REPOOWNER=deathbybandaid
+REPOBRANCH=master
+GITREPOSITORYURL="github.com/"$REPOOWNER"/"$REPONAME".git"
+GITREPOSITORYURLB="https://github.com/"$REPOOWNER"/"$REPONAME".git"
+GITWHERETOPUSH=https://"$GITHUBUSERNAME":"$GITHUBPASSWORD"@"$GITREPOSITORYURL"
+REPODIR=/etc/"$REPONAME"/
+
+## Testing, without parsing
+#FULLSKIPPARSING=true

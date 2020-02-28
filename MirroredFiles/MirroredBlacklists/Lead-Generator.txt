@@ -1,0 +1,49 @@
+[Adblock Plus 1.1]
+! Checksum: 0szim5CHqqAasE67xf2ALQ
+! Title: Lead Generator
+! Expires: 4 days (update frequency)
+! Homepage: https://github.com/Rpsl/adblock-leadgenerator-list
+!-----------------General tracking systems-----------------!
+! *** Fetched from: https://raw.githubusercontent.com/Rpsl/adblock-leadgenerator-list/master/list/list.txt ***
+*.livetex.ru
+*.push4site.com/*.js
+*.virtualspirits.com/
+.jivosite.com
+api.cashmyvisit.com/
+api.leadiacloud.com/
+api.tinypass.com
+api.venyoo.ru/wnew.js
+app.comagic.ru/*
+app.comagic.ru/static/banner/*
+callback.onlinepbx.ru
+callbackhunter.com/_hunter/
+callbackkiller.ru/widget*
+callkeeper.ru/modules/widget/
+cdn.callbackkiller.com/widget/*
+cdn.callibri.ru/*
+cdn.envybox.io/*
+cdn.k50.ru/k50/
+cdn.pozvonim.com/widget/*
+chat.chatra.io/
+code.jivosite.com/script/
+code.tidio.co/*.js
+core.perezvoni.com/*
+cp.onicon.ru/js/*
+embed.tawk.to/*
+files.jumpoutpopup.ru/*.js
+js.intercomcdn.com/*
+k50-a.akamaihd.net/*
+leadback.ru/js/*.js
+leadhacker.ru/t/
+lptracker.net.ru/*
+mod.calltouch.ru/*
+pozvonim.com/widget/
+smartcallback.ru/api/*
+static.me-talk.ru/*.js
+uptocall.com/widget/
+w.uptolike.com/widgets/
+whitesaas.com/api*
+widget.cashmyvisit.com/js/
+widget.replain.cc/*.js
+widgets.binotel.com/*
+zadarma.com/callback/widget/
