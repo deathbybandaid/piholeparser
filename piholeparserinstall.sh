@@ -68,7 +68,7 @@ then
   then
     echo "keeping old config"
   else
-    if [[-f /etc/"$REPONAME".var]]
+    if [[ -f /etc/"$REPONAME".var ]]
     then
       rm /etc/"$REPONAME".var
     fi
@@ -81,7 +81,7 @@ if [[ -z $PREVIOUSINSTALL ]]
 then
   if [[ ! -f /etc/"$REPONAME".var]]
   then
-    cp /etc/"$REPONAME"/scriptvars/"$REPONAME".var /etc/"$REPONAME".var
+    cp /etc/"$REPONAME"/scripts/scriptvars/"$REPONAME".var /etc/"$REPONAME".var
   fi
   if (whiptail --title ""$REPONAME"" --yes-button "Local Only" --no-button "I'll be uploading to Github" --yesno "What Version of "$REPONAME" to install?" 10 80)
   then
