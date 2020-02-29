@@ -46,39 +46,45 @@ for p in $PARSINGPROCESSSCRIPTSALL
 do
 
   PBASEFILENAME=$(echo "`basename $p | cut -f 1 -d '.'`")
-  PBASEFILENAMEDASHNUM=$(echo $PBASEFILENAME | sed 's/[0-9\-]/ /g')
-  PBNAMEPRETTYSCRIPTTEXT=$(echo $PBASEFILENAMEDASHNUM)
-
-  if [[ -f $TEMPPARSEVARS ]]
+  if [ $PBASEFILENAME ==  "foldervars" ]
   then
-    source $TEMPPARSEVARS
-  fi
+    :
+  else
 
-  if [[ -z $GOTOENDPARSING ]]
-  then
-    printf "$cyan"  "$PBNAMEPRETTYSCRIPTTEXT"
-    echo "### $PBNAMEPRETTYSCRIPTTEXT" | tee --append $RECENTRUN &>/dev/null
-    HOWMANYLINESSTART=$(echo -e "`wc -l $BFILETEMP | cut -d " " -f 1`")
-    bash $p
-    HOWMANYLINES=$(echo -e "`wc -l $BTEMPFILE | cut -d " " -f 1`")
-    ENDCOMMENT="$HOWMANYLINES Lines After $PBNAMEPRETTYSCRIPTTEXT"
-    echo "$ENDCOMMENT" | tee --append $RECENTRUN &>/dev/null
+    PBASEFILENAMEDASHNUM=$(echo $PBASEFILENAME | sed 's/[0-9\-]/ /g')
+    PBNAMEPRETTYSCRIPTTEXT=$(echo $PBASEFILENAMEDASHNUM)
 
-    if [[ $HOWMANYLINES -eq 0 && $HOWMANYLINESSTART -lt $HOWMANYLINES ]]
+    if [[ -f $TEMPPARSEVARS ]]
     then
-      printf "$red"  "$ENDCOMMENT List File Now Empty."
-      GOTOENDPARSING=true
-      echo "GOTOENDPARSING=$GOTOENDPARSING" | tee --append $TEMPPARSEVARS &>/dev/null
-    elif [[ $HOWMANYLINES -gt 0 && $HOWMANYLINES -eq $HOWMANYLINESSTART ]]
-    then
-      printf "$yellow"    "$ENDCOMMENT"
-    elif [[ $HOWMANYLINES -gt 0 && $HOWMANYLINES -lt $HOWMANYLINESSTART ]]
-    then
-      printf "$green"    "$ENDCOMMENT"
+      source $TEMPPARSEVARS
     fi
 
-    mv $BTEMPFILE $BFILETEMP
-    echo ""
+    if [[ -z $GOTOENDPARSING ]]
+    then
+      printf "$cyan"  "$PBNAMEPRETTYSCRIPTTEXT"
+      echo "### $PBNAMEPRETTYSCRIPTTEXT" | tee --append $RECENTRUN &>/dev/null
+      HOWMANYLINESSTART=$(echo -e "`wc -l $BFILETEMP | cut -d " " -f 1`")
+      bash $p
+      HOWMANYLINES=$(echo -e "`wc -l $BTEMPFILE | cut -d " " -f 1`")
+      ENDCOMMENT="$HOWMANYLINES Lines After $PBNAMEPRETTYSCRIPTTEXT"
+      echo "$ENDCOMMENT" | tee --append $RECENTRUN &>/dev/null
+
+      if [[ $HOWMANYLINES -eq 0 && $HOWMANYLINESSTART -lt $HOWMANYLINES ]]
+      then
+        printf "$red"  "$ENDCOMMENT List File Now Empty."
+        GOTOENDPARSING=true
+        echo "GOTOENDPARSING=$GOTOENDPARSING" | tee --append $TEMPPARSEVARS &>/dev/null
+      elif [[ $HOWMANYLINES -gt 0 && $HOWMANYLINES -eq $HOWMANYLINESSTART ]]
+      then
+        printf "$yellow"    "$ENDCOMMENT"
+      elif [[ $HOWMANYLINES -gt 0 && $HOWMANYLINES -lt $HOWMANYLINESSTART ]]
+      then
+        printf "$green"    "$ENDCOMMENT"
+      fi
+
+      mv $BTEMPFILE $BFILETEMP
+      echo ""
+    fi
   fi
 
 done

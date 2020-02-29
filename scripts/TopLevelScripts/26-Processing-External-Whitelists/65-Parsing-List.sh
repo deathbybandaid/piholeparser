@@ -45,41 +45,48 @@ echo ""
   for p in $PARSINGPROCESSSCRIPTSALL
   do
 
-  PWASEFILENAME=$(echo "`basename $p | cut -f 1 -d '.'`")
-  PWASEFILENAMEDASHNUM=$(echo $PWASEFILENAME | sed 's/[0-9\-]/ /g')
-  PWNAMEPRETTYSCRIPTTEXT=$(echo $PWASEFILENAMEDASHNUM)
-
-  if [[ -f $TEMPPARSEVARS ]]
-  then
-    source $TEMPPARSEVARS
-  fi
-
-  if [[ -z $GOTOENDPARSING ]]
-  then
-    printf "$cyan"  "$PWNAMEPRETTYSCRIPTTEXT"
-    echo "### $PWNAMEPRETTYSCRIPTTEXT" | tee --append $RECENTRUN &>/dev/null
-    HOWMANYLINESSTART=$(echo -e "`wc -l $WFILETEMP | cut -d " " -f 1`")
-    bash $p
-    HOWMANYLINES=$(echo -e "`wc -l $WTEMPFILE | cut -d " " -f 1`")
-    ENDCOMMENT="$HOWMANYLINES Lines After $PWNAMEPRETTYSCRIPTTEXT"
-    echo "$ENDCOMMENT" | tee --append $RECENTRUN &>/dev/null
-
-    if [[ $HOWMANYLINES -eq 0 && $HOWMANYLINESSTART -lt $HOWMANYLINES ]]
+    PWASEFILENAME=$(echo "`basename $p | cut -f 1 -d '.'`")
+    if [ $PWASEFILENAME ==  "foldervars" ]
     then
-      printf "$red"  "$ENDCOMMENT List File Now Empty."
-      GOTOENDPARSING=true
-      echo "GOTOENDPARSING=$GOTOENDPARSING" | tee --append $TEMPPARSEVARS &>/dev/null
-    elif [[ $HOWMANYLINES -gt 0 && $HOWMANYLINES -eq $HOWMANYLINESSTART ]]
-    then
-      printf "$yellow"    "$ENDCOMMENT"
-    elif [[ $HOWMANYLINES -gt 0 && $HOWMANYLINES -lt $HOWMANYLINESSTART ]]
-    then
-      printf "$green"    "$ENDCOMMENT"
+      :
+    else
+
+      PWASEFILENAMEDASHNUM=$(echo $PWASEFILENAME | sed 's/[0-9\-]/ /g')
+      PWNAMEPRETTYSCRIPTTEXT=$(echo $PWASEFILENAMEDASHNUM)
+
+      if [[ -f $TEMPPARSEVARS ]]
+      then
+        source $TEMPPARSEVARS
+      fi
+
+      if [[ -z $GOTOENDPARSING ]]
+      then
+        printf "$cyan"  "$PWNAMEPRETTYSCRIPTTEXT"
+        echo "### $PWNAMEPRETTYSCRIPTTEXT" | tee --append $RECENTRUN &>/dev/null
+        HOWMANYLINESSTART=$(echo -e "`wc -l $WFILETEMP | cut -d " " -f 1`")
+        bash $p
+        HOWMANYLINES=$(echo -e "`wc -l $WTEMPFILE | cut -d " " -f 1`")
+        ENDCOMMENT="$HOWMANYLINES Lines After $PWNAMEPRETTYSCRIPTTEXT"
+        echo "$ENDCOMMENT" | tee --append $RECENTRUN &>/dev/null
+
+        if [[ $HOWMANYLINES -eq 0 && $HOWMANYLINESSTART -lt $HOWMANYLINES ]]
+        then
+          printf "$red"  "$ENDCOMMENT List File Now Empty."
+          GOTOENDPARSING=true
+          echo "GOTOENDPARSING=$GOTOENDPARSING" | tee --append $TEMPPARSEVARS &>/dev/null
+        elif [[ $HOWMANYLINES -gt 0 && $HOWMANYLINES -eq $HOWMANYLINESSTART ]]
+        then
+          printf "$yellow"    "$ENDCOMMENT"
+        elif [[ $HOWMANYLINES -gt 0 && $HOWMANYLINES -lt $HOWMANYLINESSTART ]]
+        then
+          printf "$green"    "$ENDCOMMENT"
+        fi
+
+        mv $WTEMPFILE $WFILETEMP
+        echo ""
+      fi
+
     fi
-
-    mv $WTEMPFILE $WFILETEMP
-    echo ""
-  fi
 
   done
 
