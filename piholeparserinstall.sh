@@ -19,7 +19,11 @@ COMMONSCRIPTSDIR="$SCRIPTSDIR"CommonScripts/
 update_config_file="$COMMONSCRIPTSDIR"Update-Config-File.sh
 
 ## Update
-apt-get update
+if (whiptail --title "$git_repo_name" --yes-button "yes" --no-button "no" --yesno "Do You want to run apt update?" 10 80)
+then
+  echo "Running Apt Update"
+  apt-get update >/dev/null;
+fi
 
 ## Check for whiptail
 if which whiptail >/dev/null;
@@ -59,7 +63,8 @@ fi
 ## obvious question
 if (whiptail --title "$git_repo_name" --yes-button "yes" --no-button "no" --yesno "Do You want to install $git_repo_name?" 10 80)
 then
-  git clone "$git_repo_url_b" "$git_local_repo_path"
+  echo "$git_repo_name Directory Cloning Now."
+  git clone --quiet "$git_repo_url_b" "$git_local_repo_path"
   cp /etc/"$git_repo_name"/scripts/updaterun"$git_repo_name".sh /etc/updaterun"$git_repo_name".sh
   (crontab -l ; echo "20 0 * * * bash /updaterun$git_repo_name.sh") | crontab -
 else
