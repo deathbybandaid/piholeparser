@@ -1,4 +1,5 @@
 #!/bin/bash
+# shellcheck disable=SC1090,SC2034,SC2154
 ## This should help me find what parsed list contains a domain
 
 ## Variables
@@ -13,11 +14,11 @@ echo ""
 for f in $PARSEDBLACKLISTSSUBALL
 do
 
-  BASEFILENAME=$(echo `basename $f | cut -f 1 -d '.'`)
+  BASEFILENAME=$(echo "`basename $f | cut -f 1 -d '.'`")
 
   if grep -q $DOMAINTOLOOKFOR "$f"
   then
-    echo "Found In "$BASEFILENAME". Matching Included:"
+    echo "Found In $BASEFILENAME. Matching Included:"
     echo "`grep $DOMAINTOLOOKFOR $f`"
     echo ""
   fi

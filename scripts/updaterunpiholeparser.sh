@@ -1,4 +1,5 @@
 #!/bin/bash
+# shellcheck disable=SC1090,SC2034,SC2154
 ## This script resides outside of the main directory
 ## for the purpose of updating without worrying about being overwritten
 ##

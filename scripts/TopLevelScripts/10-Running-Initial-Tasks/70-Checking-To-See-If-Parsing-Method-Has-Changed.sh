@@ -19,10 +19,9 @@ echo "* The Most Recently Updated Parsing Script is $YOUNGESTPARSINGFILE" | tee 
 SCRIPTTEXT="Checking For Time Anchor File."
 printf "$cyan"    "$SCRIPTTEXT"
 echo "### $SCRIPTTEXT" | tee --append $RECENTRUN &>/dev/null
-if [[ -f $TIMEANCHORFILE ]]
+if [[ -z $TIMEANCHORSTAMP ]]
 then
   echo "Time Anchor File Present." | tee --append $RECENTRUN &>/dev/null
-  source $TIMEANCHORFILE
 else
   echo "Time Anchor Not Present. Using $YOUNGESTPARSINGFILE Modified Time." | tee --append $RECENTRUN &>/dev/null
   printf "$yellow"  "Time Anchor Not Present. Using $YOUNGESTPARSINGFILE Modified Time."
@@ -81,19 +80,10 @@ fi
 
 if [[ -z $NOPARSINGCHANGE ]]
 then
-  SCRIPTTEXT="Updating Time Anchor File."
+  SCRIPTTEXT="Updating Time Anchor."
   printf "$cyan"    "$SCRIPTTEXT"
   echo "### $SCRIPTTEXT" | tee --append $RECENTRUN &>/dev/null
 fi
 
-if [[ -z $NOPARSINGCHANGE && -f $TIMEANCHORFILE ]]
-then
-  rm $TIMEANCHORFILE
-fi
-
-if [[ ! -f $TIMEANCHORFILE ]]
-then
-  echo "## This is a time anchor file" | tee --append $TIMEANCHORFILE &>/dev/null
-  echo "## This is the Timestamp that the parsing process last changed" | tee --append $TIMEANCHORFILE &>/dev/null
-  echo "TIMEANCHORSTAMP="$YOUNGFILEMODIFIEDTIME"" | tee --append $TIMEANCHORFILE &>/dev/null
-fi
+# update time anchor
+bash $update_config_file TIMEANCHORSTAMP $YOUNGFILEMODIFIEDTIME

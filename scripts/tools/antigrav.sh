@@ -1,4 +1,5 @@
 #!/bin/bash
+# shellcheck disable=SC1090,SC2034,SC2154
 ## This should show what lines are not making it through gravity.sh
 
 ## Variables
@@ -39,7 +40,7 @@ fi
 
 ## Update Gravity
 # pihole -g
-if (whiptail --title "AntiGrav" --yes-button "No" --no-button "Yes" --yesno "Do you want to run Gravity Now?" 10 80) 
+if (whiptail --title "AntiGrav" --yes-button "No" --no-button "Yes" --yesno "Do you want to run Gravity Now?" 10 80)
 then
   echo "not running gravity"
 else

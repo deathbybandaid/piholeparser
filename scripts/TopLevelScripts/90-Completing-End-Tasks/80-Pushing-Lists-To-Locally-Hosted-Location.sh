@@ -1,4 +1,6 @@
 #!/bin/bash
+# shellcheck disable=SC1090,SC2034,SC2154
+
 ## Push to local location
 
 ## Variables
@@ -7,7 +9,7 @@ source "$SCRIPTDIRA"/foldervars.sh
 
 WHATITIS="Localhost Web Directory"
 CHECKME=$LOCALHOSTDIR
-timestamp=$(echo `date`)
+timestamp=$(echo "`date`")
 if [[ -z $CHECKME ]]
 then
   echo "* $WHATITIS Not Set. Please Fix. $timestamp" | tee --append $RECENTRUN &>/dev/null
@@ -25,7 +27,7 @@ fi
 
 WHATITIS="Locally Hosted Biglist"
 CHECKME=$CLOCALHOST
-timestamp=$(echo `date`)
+timestamp=$(echo "`date`")
 if ls $CHECKME &> /dev/null;
 then
   rm $CHECKME
@@ -44,7 +46,7 @@ fi
 
 WHATITIS="Locally Hosted Biglist (Edited)"
 CHECKME=$DBBLOCALHOST
-timestamp=$(echo `date`)
+timestamp=$(echo "`date`")
 if ls $CHECKME &> /dev/null;
 then
   rm $CHECKME

@@ -1,4 +1,5 @@
 #!/bin/bash
+# shellcheck disable=SC1090,SC2154
 ## This Pushes Changes To Github
 
 ## Variables
@@ -35,7 +36,7 @@ fi
 if  [ "$version" = "github" ]
 then
   printf "$green"   "Pushing Lists to Github"
-  timestamp=$(echo `date`)
+  timestamp=$(echo "`date`")
   printf "$green"    "$(git -C $git_local_repo_path remote set-url origin $git_repo_url_push)"
   printf "$green"    "$(git -C $git_local_repo_path add .)"
   printf "$green"    "$(git -C $git_local_repo_path commit -m "Update lists $timestamp")"

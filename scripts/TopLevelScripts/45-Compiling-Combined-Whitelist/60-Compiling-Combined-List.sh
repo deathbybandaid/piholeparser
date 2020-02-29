@@ -1,4 +1,6 @@
 #!/bin/bash
+# shellcheck disable=SC1090,SC2034,SC2154
+
 ## This takes the work done in parser
 ## and merges it all into one
 
@@ -7,7 +9,7 @@ SCRIPTDIRA=$(dirname $0)
 source "$SCRIPTDIRA"/foldervars.sh
 
 WHATITIS="All Parsed List"
-timestamp=$(echo `date`)
+timestamp=$(echo "`date`")
 if [[ -f $COMBINEDWHITELISTS ]]
 then
   rm $COMBINEDWHITELISTS
@@ -62,7 +64,7 @@ then
   ALLPARSEDSIZEBYTES=$(stat -c%s "$TEMPFILE")
   ALLPARSEDSIZEKB=`expr $ALLPARSEDSIZEBYTES / 1024`
   ALLPARSEDSIZEMB=`expr $ALLPARSEDSIZEBYTES / 1024 / 1024`
-  echo "ALLPARSEDSIZEMB="$ALLPARSEDSIZEMB"" | tee --append $TEMPVARS &>/dev/null
+  echo "ALLPARSEDSIZEMB=$ALLPARSEDSIZEMB" | tee --append $TEMPVARS &>/dev/null
 fi
 
 if [[ "$ALLPARSEDSIZEMB" -gt 0 && "$ALLPARSEDSIZEKB" -gt 0 && "$ALLPARSEDSIZEBYTES" -gt 0 ]]

@@ -1,4 +1,6 @@
 #!/bin/bash
+# shellcheck disable=SC1090,SC2034,SC2154
+
 ## Check File Headers
 
 ## Variables
@@ -22,7 +24,7 @@ then
 else
   printf "$red"  "Curl Header Check Unsuccessful."
   TESTCURLHEADERFAILED=true
-  echo "TESTCURLHEADERFAILED="$TESTCURLHEADERFAILED"" | tee --append $TEMPPARSEVARS &>/dev/null
+  echo "TESTCURLHEADERFAILED=$TESTCURLHEADERFAILED" | tee --append $TEMPPARSEVARS &>/dev/null
 fi
 
 ## wget header
@@ -32,5 +34,5 @@ then
 else
   printf "$red"  "Wget Header Check Unsuccessful."
   TESTWGETHEADERFAILED=true
-  echo "TESTWGETHEADERFAILED="$TESTWGETHEADERFAILED"" | tee --append $TEMPPARSEVARS &>/dev/null
+  echo "TESTWGETHEADERFAILED=$TESTWGETHEADERFAILED" | tee --append $TEMPPARSEVARS &>/dev/null
 fi

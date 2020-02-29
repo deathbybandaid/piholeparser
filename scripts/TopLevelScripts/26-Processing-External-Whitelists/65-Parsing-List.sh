@@ -1,4 +1,6 @@
 #!/bin/bash
+# shellcheck disable=SC1090,SC2034,SC2154
+
 ## Parsing loop
 
 ## Variables
@@ -7,7 +9,7 @@ source "$SCRIPTDIRA"/foldervars.sh
 
 ## Start time
 STARTPARSESTAMP=$(date +"%s")
-echo "STARTPARSESTAMP="$STARTPARSESTAMP"" | tee --append $TEMPPARSEVARS &>/dev/null
+echo "STARTPARSESTAMP=$STARTPARSESTAMP" | tee --append $TEMPPARSEVARS &>/dev/null
 
 ## Cheap error handling
 if [[ -f $WFILETEMP ]]
@@ -34,7 +36,7 @@ HOWMANYLINES=$(echo -e "`wc -l $WFILETEMP | cut -d " " -f 1`")
 if [[ $HOWMANYLINES -eq 0 ]]
 then
   GOTOENDPARSING=true
-  echo "GOTOENDPARSING="$GOTOENDPARSING"" | tee --append $TEMPPARSEVARS &>/dev/null
+  echo "GOTOENDPARSING=$GOTOENDPARSING" | tee --append $TEMPPARSEVARS &>/dev/null
 fi
 
 ## Start File Loop
@@ -43,7 +45,7 @@ echo ""
   for p in $PARSINGPROCESSSCRIPTSALL
   do
 
-  PWASEFILENAME=$(echo `basename $p | cut -f 1 -d '.'`)
+  PWASEFILENAME=$(echo "`basename $p | cut -f 1 -d '.'`")
   PWASEFILENAMEDASHNUM=$(echo $PWASEFILENAME | sed 's/[0-9\-]/ /g')
   PWNAMEPRETTYSCRIPTTEXT=$(echo $PWASEFILENAMEDASHNUM)
 
@@ -66,7 +68,7 @@ echo ""
     then
       printf "$red"  "$ENDCOMMENT List File Now Empty."
       GOTOENDPARSING=true
-      echo "GOTOENDPARSING="$GOTOENDPARSING"" | tee --append $TEMPPARSEVARS &>/dev/null
+      echo "GOTOENDPARSING=$GOTOENDPARSING" | tee --append $TEMPPARSEVARS &>/dev/null
     elif [[ $HOWMANYLINES -gt 0 && $HOWMANYLINES -eq $HOWMANYLINESSTART ]]
     then
       printf "$yellow"    "$ENDCOMMENT"
@@ -83,7 +85,7 @@ echo ""
 
 ## End Time
 ENDPARSESTAMP=$(date +"%s")
-echo "ENDPARSESTAMP="$ENDPARSESTAMP"" | tee --append $TEMPPARSEVARS &>/dev/null
+echo "ENDPARSESTAMP=$ENDPARSESTAMP" | tee --append $TEMPPARSEVARS &>/dev/null
 
 ## Prepare for next step
 if [[ -f $WFILETEMP ]]
@@ -92,7 +94,7 @@ then
   if [[ $HOWMANYLINES -eq 0 ]]
   then
     PARSINGEMPTIEDFILE=true
-    echo "PARSINGEMPTIEDFILE="$PARSINGEMPTIEDFILE"" | tee --append $TEMPPARSEVARS &>/dev/null
+    echo "PARSINGEMPTIEDFILE=$PARSINGEMPTIEDFILE" | tee --append $TEMPPARSEVARS &>/dev/null
   elif [[ $HOWMANYLINES -ge 1 ]]
   then
     cp $WFILETEMP $WPARSEDFILETEMP

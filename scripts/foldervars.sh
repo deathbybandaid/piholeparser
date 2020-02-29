@@ -1,3 +1,5 @@
+#!/bin/bash
+# shellcheck disable=SC1090,SC2034,SC2154
 ## These Folders Are For the Scripts in this Directory
 
 ## Script Location
@@ -5,10 +7,10 @@ SCRIPTDIR=$(dirname $0)
 
 ## Folder Name of Script
 COMPLETEFOLDERPATH=$(realpath $SCRIPTDIR)
-SCRIPTDIRNAME=$(echo `basename $COMPLETEFOLDERPATH | cut -f 1 -d '.'`)
+SCRIPTDIRNAME=$(echo "`basename $COMPLETEFOLDERPATH | cut -f 1 -d '.'`")
 
 ## Name Of Current Script
-SCRIPTBASEFILENAME=$(echo `basename $0 | cut -f 1 -d '.'`)
+SCRIPTBASEFILENAME=$(echo "`basename $0 | cut -f 1 -d '.'`")
 
 ## Amount Of Folders Between
 FOLDERDIFFDOTS="../"
@@ -23,10 +25,10 @@ STATICVARS="$SCRIPTVARSDIR"staticvariables.sh
 if
 [[ -f $STATICVARS ]]
 then
-source $STATICVARS
+  source $STATICVARS
 else
-echo "Static Vars File Missing, Exiting."
-exit
+  echo "Static Vars File Missing, Exiting."
+  exit
 fi
 
 touch $TEMPVARS
@@ -36,7 +38,7 @@ RECENTRUNLOGDIRECTORY="$TOPLEVELSCRIPTSLOGSDIR"
 if
 [[ ! -d $RECENTRUNLOGDIRECTORY ]]
 then
-mkdir $RECENTRUNLOGDIRECTORY
+  mkdir $RECENTRUNLOGDIRECTORY
 fi
 
 ## Log File

@@ -1,4 +1,5 @@
 #!/bin/bash
+# shellcheck disable=SC1090
 ## Invalid Characters
 ## FQDN's  can only have . _ and -
 ## apparently you can have an emoji domain name?

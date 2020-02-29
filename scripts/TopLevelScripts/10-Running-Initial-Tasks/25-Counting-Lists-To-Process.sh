@@ -1,4 +1,6 @@
 #!/bin/bash
+# shellcheck disable=SC1090,SC2034,SC2154
+
 ## This Recreates The SourceList
 
 ## Variables
@@ -40,8 +42,8 @@ fi
 HOWMANYSOURCE="$HOWMANYSOURCELISTS"
 
 ## Save to Tempvars
-echo "HOWMANYSOURCELISTS='"$HOWMANYSOURCELISTS"'" | tee --append $TEMPVARS &>/dev/null
-echo "HOWMANYSOURCE='"$HOWMANYSOURCE"'" | tee --append $TEMPVARS &>/dev/null
+echo "HOWMANYSOURCELISTS='$HOWMANYSOURCELISTS'" | tee --append $TEMPVARS &>/dev/null
+echo "HOWMANYSOURCE='$HOWMANYSOURCE'" | tee --append $TEMPVARS &>/dev/null
 
 ## Log Activity
 echo "* $HOWMANYSOURCE Lists To Be Processed." | tee --append $RECENTRUN &>/dev/null

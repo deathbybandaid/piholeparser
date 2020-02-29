@@ -1,4 +1,5 @@
 #!/bin/bash
+# shellcheck disable=SC1090,SC2034,SC2154
 ##
 
 ## Variables
@@ -31,7 +32,7 @@ elif [[ -z $FULLSKIPPARSING && $SOURCETYPE == usemirrorfile ]]
 then
   cat $CURRENTTLDLIST >> $BTEMPFILE
   USEDMIRRORFILE=true
-  echo "USEDMIRRORFILE="$USEDMIRRORFILE"" | tee --append $TEMPPARSEVARS &>/dev/null
+  echo "USEDMIRRORFILE=$USEDMIRRORFILE" | tee --append $TEMPPARSEVARS &>/dev/null
 elif [[ -z $FULLSKIPPARSING && $SOURCETYPE == zip ]]
 then
   wget -q -O $COMPRESSEDTEMPZIP $source
@@ -66,7 +67,7 @@ if [[ -z $FULLSKIPPARSING && -f $BORIGINALFILETEMP ]]
 then
   FETCHFILESIZE=$(stat -c%s "$BORIGINALFILETEMP")
   FETCHFILESIZEMB=`expr $FETCHFILESIZE / 1024 / 1024`
-  timestamp=$(echo `date`)
+  timestamp=$(echo "`date`")
 fi
 if [[ -z $FULLSKIPPARSING && "$FETCHFILESIZE" -gt 0 ]]
 then

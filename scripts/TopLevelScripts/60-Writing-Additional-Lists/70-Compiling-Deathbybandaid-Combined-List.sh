@@ -1,4 +1,6 @@
 #!/bin/bash
+# shellcheck disable=SC1090,SC2034,SC2154
+
 ## This creates my custom biglist
 
 ## Variables
@@ -6,7 +8,7 @@ SCRIPTDIRA=$(dirname $0)
 source "$SCRIPTDIRA"/foldervars.sh
 
 WHATITIS="All Parsed List (edited)"
-timestamp=$(echo `date`)
+timestamp=$(echo "`date`")
 if [[ -f $COMBINEDBLACKLISTSDBB ]]
 then
   rm $COMBINEDBLACKLISTSDBB
@@ -77,7 +79,7 @@ then
   EDITEDALLPARSEDSIZEBYTES=$(stat -c%s "$FILETEMP")
   EDITEDALLPARSEDSIZEKB=`expr $EDITEDALLPARSEDSIZEBYTES / 1024`
   EDITEDALLPARSEDSIZEMB=`expr $EDITEDALLPARSEDSIZEBYTES / 1024 / 1024`
-  echo "EDITEDALLPARSEDSIZEMB="$EDITEDALLPARSEDSIZEMB"" | tee --append $TEMPVARS &>/dev/null
+  echo "EDITEDALLPARSEDSIZEMB=$EDITEDALLPARSEDSIZEMB" | tee --append $TEMPVARS &>/dev/null
 fi
 
 if [[ "$EDITEDALLPARSEDSIZEMB" -gt 0 && "$EDITEDALLPARSEDSIZEKB" -gt 0 && "$EDITEDALLPARSEDSIZEBYTES" -gt 0 ]]
@@ -95,7 +97,7 @@ if [[ "$EDITEDALLPARSEDSIZEBYTES" -gt 0 ]]
 then
   EDITEDALLPARSEDHOWMANYLINES=$(echo -e "`wc -l $FILETEMP | cut -d " " -f 1`")
   printf "$yellow"  "$EDITEDALLPARSEDHOWMANYLINES Lines After Compiling."
-  echo "EDITEDALLPARSEDHOWMANYLINES="$EDITEDALLPARSEDHOWMANYLINES"" | tee --append $TEMPVARS &>/dev/null
+  echo "EDITEDALLPARSEDHOWMANYLINES=$EDITEDALLPARSEDHOWMANYLINES" | tee --append $TEMPVARS &>/dev/null
 fi
 
 if [[ -f $COMBINEDBLACKLISTSDBB && "$EDITEDALLPARSEDSIZEBYTES" -gt 0 ]]

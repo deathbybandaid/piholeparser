@@ -1,4 +1,5 @@
 #!/bin/bash
+# shellcheck disable=SC1090,SC2034,SC2154
 ##
 
 ## Variables
@@ -78,7 +79,7 @@ if
 then
   for f in $BLACKLSTSTHATDIEALL
   do
-    BASEFILENAME=$(echo `basename $f | cut -f 1 -d '.'`)
+    BASEFILENAME=$(echo "`basename $f | cut -f 1 -d '.'`")
     BUNDEADPARSELIST="$MAINBLACKLSTSDIR""$BASEFILENAME".lst
     mv $f $BUNDEADPARSELIST
   done
@@ -95,7 +96,7 @@ if ls $CHECKME &> /dev/null;
 then
   for f in $DEADBLACKLSTALL
   do
-    BASEFILENAME=$(echo `basename $f | cut -f 1 -d '.'`)
+    BASEFILENAME=$(echo "`basename $f | cut -f 1 -d '.'`")
     BUNDEADPARSELIST="$MAINBLACKLSTSDIR""$BASEFILENAME".lst
     mv $f $BUNDEADPARSELIST
   done
@@ -170,7 +171,7 @@ echo ""
 ## Push Changes up to Github ##
 ###############################
 
-timestamp=$(echo `date`)
+timestamp=$(echo "`date`")
 WHYYOUDODIS=$(whiptail --inputbox "Why are you doing a manual push?" 10 80 " $timestamp" 3>&1 1>&2 2>&3)
 echo "Pushing Lists to Github"
 git -C $git_local_repo_path pull

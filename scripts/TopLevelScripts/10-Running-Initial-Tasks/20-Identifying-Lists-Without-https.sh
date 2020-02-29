@@ -1,4 +1,6 @@
 #!/bin/bash
+# shellcheck disable=SC1090,SC2034,SC2154
+
 ## This Generates a list of which blacklists don't use https
 
 ## Variables
@@ -6,7 +8,7 @@ SCRIPTDIRA=$(dirname $0)
 source "$SCRIPTDIRA"/foldervars.sh
 
 RECENTRUNWITHOUTHTTPSMD="$TOPLEVELSCRIPTSLOGSDIRGIT""$SCRIPTDIRNAME"/"$SCRIPTBASEFILENAME".md
-echo "RECENTRUNWITHOUTHTTPSMD='"$RECENTRUNWITHOUTHTTPSMD"'" | tee --append $TEMPVARS &>/dev/null
+echo "RECENTRUNWITHOUTHTTPSMD='$RECENTRUNWITHOUTHTTPSMD'" | tee --append $TEMPVARS &>/dev/null
 
 SCRIPTTEXT="Checking For Old https-Less File."
 printf "$cyan"    "$SCRIPTTEXT"
@@ -35,7 +37,7 @@ then
   for f in $BLACKLSTALL
   do
 
-  BASEFILENAME=$(echo `basename $f | cut -f 1 -d '.'`)
+  BASEFILENAME=$(echo "`basename $f | cut -f 1 -d '.'`")
 
     for source in `cat $f`;
     do
@@ -69,7 +71,7 @@ else
   HOWMANYLISTSWITHOUTHTTPS="No"
 fi
 
-echo "HOWMANYLISTSWITHOUTHTTPS='"$HOWMANYLISTSWITHOUTHTTPS"'" | tee --append $TEMPVARS &>/dev/null
+echo "HOWMANYLISTSWITHOUTHTTPS='$HOWMANYLISTSWITHOUTHTTPS'" | tee --append $TEMPVARS &>/dev/null
 
 ##################
 ##   TLD        ##
@@ -97,7 +99,7 @@ then
   for f in $TLDLSTALL
   do
 
-  BASEFILENAME=$(echo `basename $f | cut -f 1 -d '.'`)
+  BASEFILENAME=$(echo "`basename $f | cut -f 1 -d '.'`")
 
     for source in `cat $f`;
     do

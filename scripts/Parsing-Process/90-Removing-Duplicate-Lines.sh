@@ -1,4 +1,5 @@
 #!/bin/bash
+# shellcheck disable=SC1090
 ## Duplicate Removal
 
 ## Variables

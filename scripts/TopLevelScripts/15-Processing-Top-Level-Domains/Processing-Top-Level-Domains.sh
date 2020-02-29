@@ -1,4 +1,6 @@
 #!/bin/bash
+# shellcheck disable=SC1090,SC2034,SC2154
+
 ## This downloads the valid tld lists
 
 ## Variables
@@ -29,10 +31,10 @@ then
 
     ## Declare File Name
     FILEBEINGPROCESSED=$f
-    echo "FILEBEINGPROCESSED="$FILEBEINGPROCESSED"" | tee --append $TEMPPARSEVARS &>/dev/null
+    echo "FILEBEINGPROCESSED=$FILEBEINGPROCESSED" | tee --append $TEMPPARSEVARS &>/dev/null
 
-    BASEFILENAME=$(echo `basename $f | cut -f 1 -d '.'`)
-    echo "BASEFILENAME="$BASEFILENAME"" | tee --append $TEMPPARSEVARS &>/dev/null
+    BASEFILENAME=$(echo "`basename $f | cut -f 1 -d '.'`")
+    echo "BASEFILENAME=$BASEFILENAME" | tee --append $TEMPPARSEVARS &>/dev/null
     echo "## $BASEFILENAME" | tee --append $RECENTRUNBANDAID &>/dev/null
 
     BREPOLOGDIRECTORY="$TOPLEVELSCRIPTSLOGSDIR""$SCRIPTBASEFOLDERNAME"/
@@ -42,9 +44,9 @@ then
     fi
 
     BREPOLOG="$BREPOLOGDIRECTORY""$BASEFILENAME".md
-    echo "RECENTRUN="$BREPOLOG"" | tee --append $TEMPPARSEVARS &>/dev/null
-    TAGTHEREPOLOG="[Details If Any]("$TOPLEVELSCRIPTSLOGSDIRGIT""$SCRIPTBASEFOLDERNAME"/"$BASEFILENAME".md)"
-    TAGTHEUPONEREPOLOG="[Go Up One Level]("$TOPLEVELSCRIPTSLOGSDIRGIT""$ONEUPBANDAID".md)"
+    echo "RECENTRUN=$BREPOLOG" | tee --append $TEMPPARSEVARS &>/dev/null
+    TAGTHEREPOLOG="[Details If Any]($TOPLEVELSCRIPTSLOGSDIRGIT$SCRIPTBASEFOLDERNAME/$BASEFILENAME.md)"
+    TAGTHEUPONEREPOLOG="[Go Up One Level]($TOPLEVELSCRIPTSLOGSDIRGIT$ONEUPBANDAID.md)"
 
 
     ## Create Log
@@ -60,14 +62,14 @@ then
 
     printf "$green"    "Processing $BASEFILENAME List."
     echo "## Processing $BASEFILENAME List." | tee --append $BREPOLOG &>/dev/null
-    echo "" 
+    echo ""
 
-    TLDLISTSSCRIPTSALL="$COMPLETEFOLDERPATH"/[0-9]*.sh
+    TLDLISTSSCRIPTSALL="$COMPLETEFOLDERPATH/[0-9]*.sh"
 
     for p in $TLDLISTSSCRIPTSALL
     do
 
-      PBASEFILENAME=$(echo `basename $p | cut -f 1 -d '.'`)
+      PBASEFILENAME=$(echo "`basename $p | cut -f 1 -d '.'`")
       PBASEFILENAMEDASHNUM=$(echo $PBASEFILENAME | sed 's/[0-9\-]/ /g')
       PBNAMEPRETTYSCRIPTTEXT=$(echo $PBASEFILENAMEDASHNUM)
 
@@ -184,7 +186,7 @@ echo "$HOWMANYLINES After $SCRIPTTEXT" | tee --append $RECENTRUN &>/dev/null
 echo "____________________________________" | tee --append $RECENTRUN &>/dev/null
 
 HOWMANYTLD=$(echo -e "`wc -l $VALIDDOMAINTLD | cut -d " " -f 1`")
-echo "HOWMANYTLDTOTAL='"$HOWMANYTLD"'" | tee --append $TEMPVARS &>/dev/null
+echo "HOWMANYTLDTOTAL='$HOWMANYTLD'" | tee --append $TEMPVARS &>/dev/null
 
 printf "$yellow"    "$HOWMANYTLD Valid TLD's Total."
 echo "$HOWMANYTLD Valid TLD's Total." | tee --append $RECENTRUN &>/dev/null
@@ -225,4 +227,4 @@ else
   HOWMANYTLDNEW="No"
   echo "* No New TLD's" | tee --append $RECENTRUN &>/dev/null
 fi
-echo "HOWMANYTLDNEW='"$HOWMANYTLDNEW"'" | tee --append $TEMPVARS &>/dev/null
+echo "HOWMANYTLDNEW='$HOWMANYTLDNEW'" | tee --append $TEMPVARS &>/dev/null

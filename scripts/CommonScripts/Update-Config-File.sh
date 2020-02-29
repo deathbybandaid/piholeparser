@@ -1,4 +1,5 @@
 #!/bin/bash
+# shellcheck disable=SC1090,SC2154
 ## This Modifies Config File Variables
 
 ## Variables
@@ -34,7 +35,7 @@ source $OUTSIDEDIRVARS
 if [ -z "${!1}" ]
   then
     echo "Variable Missing From Config, creating it."
-    echo ""$1"="$2"" | tee --append "$OUTSIDEDIRVARS" >/dev/null;
+    echo "$1"="$2" | tee --append "$OUTSIDEDIRVARS" >/dev/null;
   else
     echo "Variable exists in Config, replacing it."
     sed -i "s/^\($1\s*=\s*\).*\$/\1$2/" $OUTSIDEDIRVARS >/dev/null;

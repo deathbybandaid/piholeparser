@@ -1,4 +1,5 @@
 #!/bin/bash
+# shellcheck disable=SC1090,SC2154,SC2034
 ## Invalid TLD's
 
 ## Variables
@@ -16,10 +17,10 @@ do
   WHATLINENUMBER=$(echo "`grep -n $source $TLDBKUP | cut -d : -f 1`")
   #TLDPERCENTAGEMATH=$(echo `awk "BEGIN { pc=100*${WHATLINENUMBER}/${HOWMANYVALIDTLD}; i=int(pc); print (pc-i<0.5)?i:i+1}"`)
 
-  HOWMANYTIMESTLD=$(echo -e "`grep -o [.]$source\$ $BFILETEMP | wc -l`")
+  HOWMANYTIMESTLD=$(echo -e "`grep -o "[.]$source\$" $BFILETEMP | wc -l`")
   if [[ "$HOWMANYTIMESTLD" != 0 ]]
   then
-    cat $BFILETEMP | grep -e [.]$source\$ >> $BTEMPFILE
+    cat $BFILETEMP | grep -e "[.]$source\$" >> $BTEMPFILE
   fi
 
   #echo -ne "$TLDPERCENTAGEMATH \r"

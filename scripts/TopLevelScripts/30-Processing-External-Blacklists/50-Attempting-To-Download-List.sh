@@ -1,4 +1,6 @@
 #!/bin/bash
+# shellcheck disable=SC1090,SC2034,SC2154
+
 ## Attempt Download
 
 ## Variables
@@ -8,7 +10,7 @@ source "$SCRIPTDIRA"/foldervars.sh
 ## Terminal Display
 if [[ -z $SKIPDOWNLOAD && $SOURCETYPE != usemirrorfile ]]
 then
-  printf "$yellow"    "Fetching $SOURCETYPE List From $SOURCEDOMAIN Located At The IP address Of "$SOURCEIP"."
+  printf "$yellow"    "Fetching $SOURCETYPE List From $SOURCEDOMAIN Located At The IP address Of $SOURCEIP."
 fi
 
 if [[ $SOURCETYPE == usemirrorfile ]]
@@ -24,7 +26,7 @@ elif [[ $SOURCETYPE == usemirrorfile ]]
 then
   cat $MIRROREDFILE >> $BTEMPFILE
   USEDMIRRORFILE=true
-  echo "USEDMIRRORFILE="$USEDMIRRORFILE"" | tee --append $TEMPPARSEVARS &>/dev/null
+  echo "USEDMIRRORFILE=$USEDMIRRORFILE" | tee --append $TEMPPARSEVARS &>/dev/null
 elif [[ $SOURCETYPE == localfile ]]
 then
   curl -s -L $source >> $BTEMPFILE

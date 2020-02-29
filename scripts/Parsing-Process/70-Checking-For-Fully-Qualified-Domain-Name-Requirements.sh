@@ -1,4 +1,5 @@
 #!/bin/bash
+# shellcheck disable=SC1090
 ## Domain Requirements,, a period and a letter
 
 ## Variables

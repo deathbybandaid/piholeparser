@@ -1,4 +1,6 @@
 #!/bin/bash
+# shellcheck disable=SC1090,SC2034,SC2154
+
 ## This is the Blacklist Parsing Process
 
 ## Variables
@@ -38,10 +40,10 @@ then
 
     ## Declare File Name
     FILEBEINGPROCESSED=$f
-    echo "FILEBEINGPROCESSED="$FILEBEINGPROCESSED"" | tee --append $TEMPPARSEVARS &>/dev/null
+    echo "FILEBEINGPROCESSED=$FILEBEINGPROCESSED" | tee --append $TEMPPARSEVARS &>/dev/null
 
-    BASEFILENAME=$(echo `basename $f | cut -f 1 -d '.'`)
-    echo "BASEFILENAME="$BASEFILENAME"" | tee --append $TEMPPARSEVARS &>/dev/null
+    BASEFILENAME=$(echo "`basename $f | cut -f 1 -d '.'`")
+    echo "BASEFILENAME=$BASEFILENAME" | tee --append $TEMPPARSEVARS &>/dev/null
     echo "## $BASEFILENAME" | tee --append $RECENTRUN &>/dev/null
 
     BREPOLOGDIRECTORY="$TOPLEVELSCRIPTSLOGSDIR""$SCRIPTBASEFOLDERNAME"/
@@ -51,9 +53,9 @@ then
     fi
 
     BREPOLOG="$BREPOLOGDIRECTORY""$BASEFILENAME".md
-    echo "RECENTRUN="$BREPOLOG"" | tee --append $TEMPPARSEVARS &>/dev/null
-    TAGTHEREPOLOG="[Details If Any]("$TOPLEVELSCRIPTSLOGSDIRGIT""$SCRIPTBASEFOLDERNAME"/"$BASEFILENAME".md)"
-    TAGTHEUPONEREPOLOG="[Go Up One Level]("$TOPLEVELSCRIPTSLOGSDIRGIT""$ONEUPBANDAID".md)"
+    echo "RECENTRUN=$BREPOLOG" | tee --append $TEMPPARSEVARS &>/dev/null
+    TAGTHEREPOLOG="[Details If Any]($TOPLEVELSCRIPTSLOGSDIRGIT$SCRIPTBASEFOLDERNAME/$BASEFILENAME.md)"
+    TAGTHEUPONEREPOLOG="[Go Up One Level]($TOPLEVELSCRIPTSLOGSDIRGIT$ONEUPBANDAID.md)"
     # Create Log
     if [[ -f $BREPOLOG ]]
     then
@@ -66,14 +68,14 @@ then
     echo "# $BASEFILENAME" | tee --append $BREPOLOG &>/dev/null
 
     printf "$green"    "Processing $BASEFILENAME List."
-    echo "" 
+    echo ""
 
-    BLACKLISTSSCRIPTSALL="$COMPLETEFOLDERPATH"/[0-9]*.sh
+    BLACKLISTSSCRIPTSALL="$COMPLETEFOLDERPATH/[0-9]*.sh"
 
     for p in $BLACKLISTSSCRIPTSALL
     do
 
-      PBASEFILENAME=$(echo `basename $p | cut -f 1 -d '.'`)
+      PBASEFILENAME=$(echo "`basename $p | cut -f 1 -d '.'`")
       PBASEFILENAMEDASHNUM=$(echo $PBASEFILENAME | sed 's/[0-9\-]/ /g')
       PBNAMEPRETTYSCRIPTTEXT=$(echo $PBASEFILENAMEDASHNUM)
 

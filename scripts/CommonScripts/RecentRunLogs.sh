@@ -1,4 +1,5 @@
 #!/bin/bash
+# shellcheck disable=SC1090
 ## This Recreates Recent Run Log
 
 ## Variables
@@ -6,7 +7,7 @@ SCRIPTDIRA=$(dirname $0)
 source "$SCRIPTDIRA"/foldervars.sh
 
 SCRIPTTEXT="Creating Main Recent Run Log."
-timestamp=$(echo `date`)
+timestamp=$(echo "`date`")
 
 echo "## $SCRIPTTEXT $timestamp" | tee --append $TEMPLOGMAIN &>/dev/null
 

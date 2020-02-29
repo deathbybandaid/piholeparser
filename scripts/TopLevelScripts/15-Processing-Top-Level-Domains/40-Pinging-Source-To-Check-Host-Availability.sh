@@ -1,4 +1,5 @@
 #!/bin/bash
+# shellcheck disable=SC1090,SC2034,SC2154
 ##
 
 ## Variables
@@ -8,9 +9,9 @@ source "$SCRIPTDIRA"/foldervars.sh
 ## If $SOURCEDOMAIN is set, Ping it
 if [[ -n $SOURCEDOMAIN ]]
 then
-  SOURCEIPFETCH=`ping -c 1 $SOURCEDOMAIN | gawk -F'[()]' '/PING/{print $2}'`
+  SOURCEIPFETCH=`ping -c 1 $SOURCEDOMAIN | gawk -F '[()]' '/PING/{print $2}'`
   SOURCEIP=`echo $SOURCEIPFETCH`
-  echo "SOURCEIP="$SOURCEIP"" | tee --append $TEMPPARSEVARS &>/dev/null
+  echo "SOURCEIP=$SOURCEIP" | tee --append $TEMPPARSEVARS &>/dev/null
 fi
 
 if [[ -n $SOURCEIP ]]
@@ -20,7 +21,7 @@ elif [[ -z $SOURCEIP ]]
 then
   printf "$red"    "Ping Test Failed."
   PINGTESTFAILEDA=true
-  echo "PINGTESTFAILEDA="$PINGTESTFAILEDA"" | tee --append $TEMPPARSEVARS &>/dev/null
+  echo "PINGTESTFAILEDA=$PINGTESTFAILEDA" | tee --append $TEMPPARSEVARS &>/dev/null
 fi
 
 if [[ -n $PINGTESTFAILEDA  ]]
@@ -31,6 +32,6 @@ then
   else
     printf "$red"  "Header Check Unsuccessful."
     PINGTESTFAILED=true
-    echo "PINGTESTFAILED="$PINGTESTFAILED"" | tee --append $TEMPPARSEVARS &>/dev/null
+    echo "PINGTESTFAILED=$PINGTESTFAILED" | tee --append $TEMPPARSEVARS &>/dev/null
   fi
 fi

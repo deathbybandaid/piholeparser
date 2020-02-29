@@ -1,5 +1,5 @@
 #!/bin/bash
-# shellcheck disable=SC1090
+# shellcheck disable=SC1090,SC2034
 ## These Folders Are For the Scripts in this Directory
 
 ## Script Location
@@ -7,10 +7,10 @@ SCRIPTDIR=$(dirname $0)
 
 ## Folder Name of Script
 COMPLETEFOLDERPATH=$(realpath $SCRIPTDIR)
-SCRIPTDIRNAME=$(echo `basename $COMPLETEFOLDERPATH | cut -f 1 -d '.'`)
+SCRIPTDIRNAME=$(echo "`basename $COMPLETEFOLDERPATH | cut -f 1 -d '.'`")
 
 ## Name Of Current Script
-SCRIPTBASEFILENAME=$(echo `basename $0 | cut -f 1 -d '.'`)
+SCRIPTBASEFILENAME=$(echo "`basename $0 | cut -f 1 -d '.'`")
 
 ## Amount Of Folders Between
 FOLDERDIFFDOTS="../"

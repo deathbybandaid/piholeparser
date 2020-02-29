@@ -1,24 +1,26 @@
 #!/bin/bash
+# shellcheck disable=SC1090,SC2034,SC2154
+
 ## This should do some initial housekeeping for the script
 
 ## Variables
 SCRIPTDIRA=$(dirname $0)
 source "$SCRIPTDIRA"/../foldervars.sh
 
-INITIALTASKSSCRIPTSALL="$COMPLETEFOLDERPATH"/[0-9]*.sh
+INITIALTASKSSCRIPTSALL="$COMPLETEFOLDERPATH/[0-9]*.sh"
 
 ## Start File Loop
 for f in $INITIALTASKSSCRIPTSALL
 do
 
-  timestamp=$(echo `date`)
+  timestamp=$(echo "`date`")
   LOOPSTART=$(date +"%s")
 
   INITIALTASK="$f"
-  INITIALTASKBASENAME=$(echo `basename $INITIALTASK | cut -f 1 -d '.'`)
-  INITIALTASKNAME=$(echo `basename $INITIALTASK | cut -f 1 -d '.' | sed 's/[0-9]/ /g' | sed 's/[\-]/ /'`)
+  INITIALTASKBASENAME=$(echo "`basename $INITIALTASK | cut -f 1 -d '.'`")
+  INITIALTASKNAME=$(echo "`basename $INITIALTASK | cut -f 1 -d '.' | sed 's/[0-9]/ /g' | sed 's/[\-]/ /'`")
   INITIALTASKSCRIPTTEXT=$(echo $INITIALTASKNAME | sed 's/[0-9\-]/ /g')
-  INITIALTASKSREPOLOG="[Details If Any]("$TOPLEVELSCRIPTSLOGSDIRGIT""$SCRIPTBASEFOLDERNAME"/"$INITIALTASKBASENAME".md)"
+  INITIALTASKSREPOLOG="[Details If Any]($TOPLEVELSCRIPTSLOGSDIRGIT$SCRIPTBASEFOLDERNAME/$INITIALTASKBASENAME.md)"
 
   printf "$lightblue"    "$DIVIDERBARB"
   echo ""

@@ -1,4 +1,6 @@
 #!/bin/bash
+# shellcheck disable=SC1090,SC2034,SC2154
+
 ## Check online header
 
 ## Variables
@@ -32,7 +34,7 @@ if [[ -n $GOAHEADANDTEST && $MIRROREDFILESIZE -ge $CURLFILESIZE ]]
 then
   printf "$green"    "File Size Is The Same."
   TESTCURLSIZESAME=true
-elif [[ -n $GOAHEADANDTEST && $MIRROREDFILESIZE != $CURLFILESIZE ]]
+elif [[ -n $GOAHEADANDTEST && $MIRROREDFILESIZE != "$CURLFILESIZE" ]]
 then
   printf "$red"    "File Size Is Different."
 fi
@@ -46,7 +48,7 @@ echo ""
 if [[ -n $GOAHEADANDTEST && -n $SKIPDOWNLOAD ]]
 then
   printf "$green"    "File Not Updated Online. No Need To Download."
-  echo "SKIPDOWNLOAD="$SKIPDOWNLOAD"" | tee --append $TEMPPARSEVARS &>/dev/null
+  echo "SKIPDOWNLOAD=$SKIPDOWNLOAD" | tee --append $TEMPPARSEVARS &>/dev/null
 else
   printf "$yellow"    "File Has Changed Online."
 fi
@@ -55,5 +57,5 @@ if [[ -f $MIRROREDFILE && -f $PARSEDFILE && -n $SKIPDOWNLOAD ]]
 then
   printf "$green"    "Since Parsed File is Present, There Is No Need To Process."
   FULLSKIPPARSING=true
-  echo "FULLSKIPPARSING="$FULLSKIPPARSING"" | tee --append $TEMPPARSEVARS &>/dev/null
+  echo "FULLSKIPPARSING=$FULLSKIPPARSING" | tee --append $TEMPPARSEVARS &>/dev/null
 fi

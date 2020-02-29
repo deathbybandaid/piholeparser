@@ -1,4 +1,6 @@
 #!/bin/bash
+# shellcheck disable=SC1090,SC2034,SC2154
+
 ## Check File size
 
 ## Variables
@@ -9,28 +11,28 @@ source "$SCRIPTDIRA"/foldervars.sh
 if [[ -f $WORIGINALFILETEMP ]]
 then
   ORIGFILESIZEBYTES=$(stat -c%s "$WORIGINALFILETEMP")
-  echo "ORIGFILESIZEBYTES="$ORIGFILESIZEBYTES"" | tee --append $TEMPPARSEVARS &>/dev/null
+  echo "ORIGFILESIZEBYTES=$ORIGFILESIZEBYTES" | tee --append $TEMPPARSEVARS &>/dev/null
   ORIGFILESIZEKB=`expr $ORIGFILESIZEBYTES / 1024`
-  echo "ORIGFILESIZEKB="$ORIGFILESIZEKB"" | tee --append $TEMPPARSEVARS &>/dev/null
+  echo "ORIGFILESIZEKB=$ORIGFILESIZEKB" | tee --append $TEMPPARSEVARS &>/dev/null
   ORIGFILESIZEMB=`expr $ORIGFILESIZEBYTES / 1024 / 1024`
-  echo "ORIGFILESIZEMB="$ORIGFILESIZEMB"" | tee --append $TEMPPARSEVARS &>/dev/null
+  echo "ORIGFILESIZEMB=$ORIGFILESIZEMB" | tee --append $TEMPPARSEVARS &>/dev/null
 fi
 
-timestamp=$(echo `date`)
+timestamp=$(echo "`date`")
 
 if  [[ "$ORIGFILESIZEBYTES" -eq 0 ]]
 then
   printf "$red"     "$BASEFILENAME List Was An Empty File After Download."
-  timestamp=$(echo `date`)
+  timestamp=$(echo "`date`")
   echo "* $BASEFILENAME List Was An Empty File After Download. $timestamp" | tee --append $RECENTRUN &>/dev/null
   rm $WORIGINALFILETEMP
 elif [[ "$ORIGFILESIZEBYTES" -gt 0 ]]
 then
   ORIGFILESIZENOTZERO=true
-  echo "ORIGFILESIZENOTZERO="$ORIGFILESIZENOTZERO"" | tee --append $TEMPPARSEVARS &>/dev/null
+  echo "ORIGFILESIZENOTZERO=$ORIGFILESIZENOTZERO" | tee --append $TEMPPARSEVARS &>/dev/null
 fi
 
-if [[ "$ORIGFILESIZEBYTES" -eq 0 && $FILEBEINGPROCESSED != $WDEADPARSELIST ]]
+if [[ "$ORIGFILESIZEBYTES" -eq 0 && $FILEBEINGPROCESSED != "$WDEADPARSELIST" ]]
 then
   printf "$red"  "List Marked As Dead."
   mv $FILEBEINGPROCESSED $WDEADPARSELIST
@@ -53,7 +55,7 @@ fi
 if [[ -n $ORIGFILESIZENOTZERO && "$ORIGFILESIZEBYTES" -gt 0 ]]
 then
   ORIGHOWMANYLINES=$(echo -e "`wc -l $WORIGINALFILETEMP | cut -d " " -f 1`")
-  echo "ORIGHOWMANYLINES="$ORIGHOWMANYLINES"" | tee --append $TEMPPARSEVARS &>/dev/null
+  echo "ORIGHOWMANYLINES=$ORIGHOWMANYLINES" | tee --append $TEMPPARSEVARS &>/dev/null
   echo "$ORIGHOWMANYLINES" | tee --append $PARSEAVERAGEFILELINES &>/dev/null
   printf "$yellow"  "$ORIGHOWMANYLINES Lines After Download."
 fi

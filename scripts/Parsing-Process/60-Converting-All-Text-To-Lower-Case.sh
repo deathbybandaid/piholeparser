@@ -1,4 +1,5 @@
 #!/bin/bash
+# shellcheck disable=SC1090
 ## Convert All Text To Lower Case
 
 ## Variables

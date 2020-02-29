@@ -1,4 +1,5 @@
 #!/bin/bash
+# shellcheck disable=SC1090,SC2034,SC2154
 ##
 
 ## Variables
@@ -47,15 +48,15 @@ fi
 ## Add to tempvars
 if [[ -z $FULLSKIPPARSING && -n $SOURCETYPE ]]
 then
-  echo "SOURCETYPE="$SOURCETYPE"" | tee --append $TEMPPARSEVARS &>/dev/null
+  echo "SOURCETYPE=$SOURCETYPE" | tee --append $TEMPPARSEVARS &>/dev/null
 fi
 
 ## Terminal Display
 printf "$yellow"    "The Download Should use the $SOURCETYPE Preset."
-timestamp=$(echo `date`)
+timestamp=$(echo "`date`")
 if [[ -z $FULLSKIPPARSING && -n $SOURCEIP && -n $SOURCEDOMAIN && -n $SOURCETYPE ]]
 then
-  printf "$cyan"    "Fetching $SOURCETYPE List From $SOURCEDOMAIN Located At The IP address Of "$SOURCEIP"."
+  printf "$cyan"    "Fetching $SOURCETYPE List From $SOURCEDOMAIN Located At The IP address Of $SOURCEIP."
 elif [[ -z $FULLSKIPPARSING && $SOURCETYPE == usemirrorfile ]]
 then
   printf "$cyan"    "Attempting To Fetch List From Git Repo Mirror."

@@ -1,4 +1,6 @@
 #!/bin/bash
+# shellcheck disable=SC1090,SC2034,SC2154
+
 ## TLD Percentages
 
 ## Variables
@@ -12,18 +14,18 @@ for source in `cat $TLDBKUP`;
 do
 
   WHATLINENUMBER=$(echo "`grep -n $source $TLDBKUP | cut -d : -f 1`")
-  TLDPERCENTAGEMATH=$(echo `awk "BEGIN { pc=100*${WHATLINENUMBER}/${HOWMANYVALIDTLD}; i=int(pc); print (pc-i<0.5)?i:i+1}"`)
+  TLDPERCENTAGEMATH=$(echo "`awk "BEGIN { pc=100*${WHATLINENUMBER}/${HOWMANYVALIDTLD}; i=int(pc); print (pc-i<0.5)?i:i+1}"`")
 
-  HOWMANYTIMESTLD=$(echo -e "`grep -o [.]$source\$ $COMBINEDBLACKLISTS | wc -l`")
+  HOWMANYTIMESTLD=$(echo -e "`grep -o "[.]$source\$" $COMBINEDBLACKLISTS | wc -l`")
   if [[ "$HOWMANYTIMESTLD" != 0 ]]
   then
-    TLDPERCENTAGERESULT=$(echo `awk "BEGIN { pc=100*${HOWMANYTIMESTLD}/${COMBINEDBLACKLISTSHOWMANY}; i=int(pc); print (pc-i<0.5)?i:i+1}"`)
+    TLDPERCENTAGERESULT=$(echo "`awk "BEGIN { pc=100*${HOWMANYTIMESTLD}/${COMBINEDBLACKLISTSHOWMANY}; i=int(pc); print (pc-i<0.5)?i:i+1}"`")
     if [[ "$TLDPERCENTAGERESULT" != 0 ]]
     then
-      echo "$TLDPERCENTAGERESULT % ."$source"" | tee --append $TEMPFILEN &>/dev/null
+      echo "$TLDPERCENTAGERESULT % .$source" | tee --append $TEMPFILEN &>/dev/null
     elif [[ "$TLDPERCENTAGERESULT" == 0 ]]
     then
-      echo "0.5 % ."$source"" | tee --append $TEMPFILEN &>/dev/null
+      echo "0.5 % .$source" | tee --append $TEMPFILEN &>/dev/null
     fi
   fi
 

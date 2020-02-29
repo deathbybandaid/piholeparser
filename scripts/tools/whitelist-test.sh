@@ -1,4 +1,5 @@
 #!/bin/bash
+# shellcheck disable=SC1090,SC2034,SC2154
 ## This should help me find what parsed list contains a domain
 
 ## Variables
@@ -81,7 +82,7 @@ then
   fi
   rm $FILETEMP
   echo ""
-  
+
   echo "Using Method diff"
   diff --unchanged-line-format="" --old-line-format="%L" --new-line-format="" $COMBINEDBLACKLISTS $COMBINEDWHITELISTS > $FILETEMP
   METHODHOWMANYLINES=$(echo -e "`wc -l $FILETEMP | cut -d " " -f 1`")
@@ -94,7 +95,7 @@ then
   fi
   rm $FILETEMP
   echo ""
-  
+
   echo "Using Method join"
   join -v 2 <(sort $COMBINEDWHITELISTS) <(sort $COMBINEDBLACKLISTS) > $FILETEMP
   METHODHOWMANYLINES=$(echo -e "`wc -l $FILETEMP | cut -d " " -f 1`")
@@ -107,7 +108,7 @@ then
   fi
   rm $FILETEMP
   echo ""
-  
+
   echo "Using Method sort"
   sort $COMBINEDWHITELISTS $COMBINEDBLACKLISTS | uniq -u >> $FILETEMP
   METHODHOWMANYLINES=$(echo -e "`wc -l $FILETEMP | cut -d " " -f 1`")
@@ -120,7 +121,7 @@ then
   fi
   rm $FILETEMP
   echo ""
-  
+
   echo "Using Method fgrep"
   fgrep -v -f $COMBINEDWHITELISTS $COMBINEDBLACKLISTS > $FILETEMP
   METHODHOWMANYLINES=$(echo -e "`wc -l $FILETEMP | cut -d " " -f 1`")
@@ -133,8 +134,8 @@ then
   fi
   rm $FILETEMP
   echo ""
-  
-  
+
+
   #echo "Using Method loop"
   #cat $COMBINEDBLACKLISTS | while read line1
   #do
@@ -160,4 +161,3 @@ then
 else
   echo "Not Found on Both Lists"
 fi
-

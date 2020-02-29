@@ -1,4 +1,5 @@
 #!/bin/bash
+# shellcheck disable=SC1090,SC2034,SC2154
 ## This is the central script that ties the others together
 
 ## Variables
@@ -32,14 +33,14 @@ echo ""
 for dir in "$TOPLEVELSCRIPTSDIR"[0-9]*/
 do
 
-  timestamp=$(echo `date`)
+  timestamp=$(echo "`date`")
   LOOPSTART=$(date +"%s")
   TOPLEVELSUBDIRPATH="$dir"
-  TOPLEVELSUBDIRBASENAME=$(echo `basename $TOPLEVELSUBDIRPATH | cut -f 1 -d '.'`)
-  TOPLEVELSUBDIRNAME=$(echo `basename $TOPLEVELSUBDIRPATH | cut -f 1 -d '.' | sed 's/[0-9]/ /g' | sed 's/[\-]/ /'`)
+  TOPLEVELSUBDIRBASENAME=$(echo "`basename $TOPLEVELSUBDIRPATH | cut -f 1 -d '.'`")
+  TOPLEVELSUBDIRNAME=$(echo "`basename $TOPLEVELSUBDIRPATH | cut -f 1 -d '.' | sed 's/[0-9]/ /g' | sed 's/[\-]/ /'`")
   TOPLEVELSUBDIRSCRIPT="$TOPLEVELSUBDIRPATH""$TOPLEVELSUBDIRNAME".sh
-  TOPLEVELSUBDIRSCRIPTTEXT=$(echo `basename $TOPLEVELSUBDIRPATH | cut -f 1 -d '.' | sed 's/[0-9\-]/ /g'`)
-  TOPLEVELSUBDIRSCRIPTREPOLOGTAG="[Details If Any]("$TOPLEVELSCRIPTSLOGSDIRGIT""$TOPLEVELSUBDIRBASENAME".md)"
+  TOPLEVELSUBDIRSCRIPTTEXT=$(echo "`basename $TOPLEVELSUBDIRPATH | cut -f 1 -d '.' | sed 's/[0-9\-]/ /g'`")
+  TOPLEVELSUBDIRSCRIPTREPOLOGTAG="[Details If Any]($TOPLEVELSCRIPTSLOGSDIRGIT$TOPLEVELSUBDIRBASENAME.md)"
 
   printf "$blue"    "$DIVIDERBAR"
   echo ""

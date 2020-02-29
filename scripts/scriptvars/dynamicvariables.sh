@@ -1,7 +1,9 @@
+#!/bin/bash
+# shellcheck disable=SC2034,SC2154
 ## These variables get injected into source loops
 
 ## Timestamp
-timestamp=$(echo `date`)
+timestamp=$(echo "`date`")
 
 ## Extract Filenames and FQDN from lists
 UPCHECK=`echo $source | awk -F/ '{print $3}'`
@@ -35,7 +37,7 @@ LISTBASENAMETXT="$BASEFILENAME".txt
 
 BASEFILENAMEDASHNUM=$(echo $BASEFILENAME | sed 's/[0-9\-]/ /g')
 BASEFILENAMENUM=$(echo $BASEFILENAME | sed 's/[0-9]//g')
-TAGTHEREPOLOG="[Details If Any]("$RECENTRUNLOGSDIRRAW""$BASEFILENAMENUM".txt)"
+TAGTHEREPOLOG="[Details If Any]($RECENTRUNLOGSDIRRAW$BASEFILENAMENUM.txt)"
 BNAMEPRETTYSCRIPTTEXT=$(echo $BASEFILENAMEDASHNUM)
 
 SBNAMELOGFILE="$SPECIFICLOGSDIR""$BASEFILENAME".log

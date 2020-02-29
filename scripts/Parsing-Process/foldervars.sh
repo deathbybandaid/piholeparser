@@ -1,3 +1,5 @@
+#!/bin/bash
+# shellcheck disable=SC1090,SC2034
 ## These Folders Are For the Scripts in this Directory
 
 ## Script Location
@@ -5,10 +7,10 @@ SCRIPTDIR=$(dirname $0)
 
 ## Folder Name of Script
 COMPLETEFOLDERPATH=$(realpath $SCRIPTDIR)
-SCRIPTDIRNAME=$(echo `basename $COMPLETEFOLDERPATH | cut -f 1 -d '.'`)
+SCRIPTDIRNAME=$(echo "`basename $COMPLETEFOLDERPATH | cut -f 1 -d '.'`")
 
 ## Name Of Current Script
-SCRIPTBASEFILENAME=$(echo `basename $0 | cut -f 1 -d '.'`)
+SCRIPTBASEFILENAME=$(echo "`basename $0 | cut -f 1 -d '.'`")
 
 ## Amount Of Folders Between
 FOLDERDIFFDOTS="../"
@@ -24,38 +26,38 @@ STATICVARS="$SCRIPTVARSDIR"staticvariables.sh
 if
 [[ -f $STATICVARS ]]
 then
-source $STATICVARS
+  source $STATICVARS
 else
-echo "Static Vars File Missing, Exiting."
-exit
+  echo "Static Vars File Missing, Exiting."
+  exit
 fi
 
 if
 [[ ! -f $TEMPVARS ]]
 then
-touch $TEMPVARS
+  touch $TEMPVARS
 fi
 
 if
 [[ -f $TEMPVARS ]]
 then
-source $TEMPVARS
+  source $TEMPVARS
 else
-echo "Temp Vars File Missing, Exiting."
-exit
+  echo "Temp Vars File Missing, Exiting."
+  exit
 fi
 
 if
 [[ ! -f $TEMPPARSEVARS ]]
 then
-touch $TEMPPARSEVARS
+  touch $TEMPPARSEVARS
 fi
 
 if
 [[ -f $TEMPPARSEVARS ]]
 then
-source $TEMPPARSEVARS
+  source $TEMPPARSEVARS
 else
-echo "Temp Parsing Vars File Missing, Exiting."
-exit
+  echo "Temp Parsing Vars File Missing, Exiting."
+  exit
 fi

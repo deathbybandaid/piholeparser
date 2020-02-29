@@ -1,4 +1,6 @@
 #!/bin/bash
+# shellcheck disable=SC1090,SC2034,SC2154
+
 ## How should we download
 
 ## Variables
@@ -59,5 +61,5 @@ fi
 if [[ -n $SOURCETYPE ]]
 then
   printf "$yellow"    "The Download Should use the $SOURCETYPE Preset."
-  echo "SOURCETYPE="$SOURCETYPE"" | tee --append $TEMPPARSEVARS &>/dev/null
+  echo "SOURCETYPE=$SOURCETYPE" | tee --append $TEMPPARSEVARS &>/dev/null
 fi

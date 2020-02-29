@@ -1,4 +1,6 @@
 #!/bin/bash
+# shellcheck disable=SC1090,SC2034,SC2154
+
 ## This sets up whitelisting for domains in .lst files
 
 ## Variables
@@ -8,7 +10,7 @@ source "$SCRIPTDIRA"/../foldervars.sh
 RECENTRUNBANDAID="$RECENTRUN"
 
 ## Quick File Check
-timestamp=$(echo `date`)
+timestamp=$(echo "`date`")
 
 SCRIPTTEXT="Checking For Script Whitelist File."
 printf "$cyan"    "$SCRIPTTEXT"
@@ -39,7 +41,7 @@ then
   for f in $WHITEDOMAINSALL
   do
 
-    BASEFILENAME=$(echo `basename $f | cut -f 1 -d '.'`)
+    BASEFILENAME=$(echo "`basename $f | cut -f 1 -d '.'`")
 
     ## Dedupe and Sort
     cat -s $f | sort -u | gawk '{if (++dup[$0] == 1) print $0;}' > $TEMPFILEA

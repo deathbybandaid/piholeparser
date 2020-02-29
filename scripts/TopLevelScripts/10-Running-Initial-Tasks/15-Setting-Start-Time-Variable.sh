@@ -1,18 +1,20 @@
 #!/bin/bash
+# shellcheck disable=SC1090,SC2034,SC2154
+
 ## Sets The Beginning Script Time
 
 ## Variables
 SCRIPTDIRA=$(dirname $0)
 source "$SCRIPTDIRA"/foldervars.sh
 
-timestamp=$(echo `date`)
-STARTTIME=$(echo `date`)
+timestamp=$(echo "`date`")
+STARTTIME=$(echo "`date`")
 echo "STARTTIME='$timestamp'" | tee --append $TEMPVARS &>/dev/null
 
-STARTIMEVAR=$(echo $STARTIME)
+STARTIMEVAR=$(echo "$STARTTIME")
 STARTTIMESTAMP=$(date +"%s")
 
-echo "STARTIMEVAR='"$STARTIMEVAR"'" | tee --append $TEMPVARS &>/dev/null
+echo "STARTIMEVAR='$STARTIMEVAR'" | tee --append $TEMPVARS &>/dev/null
 echo "STARTTIMESTAMP=$STARTTIMESTAMP" | tee --append $TEMPVARS &>/dev/null
 
 printf "$yellow" "Script Started At $STARTTIME"

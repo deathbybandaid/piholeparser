@@ -1,4 +1,5 @@
 #!/bin/bash
+# shellcheck disable=SC1090,SC2034,SC2154
 ## This is where any script dependencies will go.
 ## It checks if it is installed, and if not,
 ## it installs the program
@@ -7,17 +8,17 @@
 SCRIPTDIRA=$(dirname $0)
 source "$SCRIPTDIRA"/../foldervars.sh
 
-DEPENDENCIESALL="$COMPLETEFOLDERPATH"/*.dep
+DEPENDENCIESALL="$COMPLETEFOLDERPATH/*.dep"
 
 ## Start File Loop
 ## For .dependency files In The dependencies Directory
 for f in $DEPENDENCIESALL
 do
 
-  timestamp=$(echo `date`)
+  timestamp=$(echo "`date`")
 
   ## Name Of Package
-  DEPENDENCYNAME=$(echo `basename $f | cut -f 1 -d '.'`)
+  DEPENDENCYNAME=$(echo "`basename $f | cut -f 1 -d '.'`")
 
   ## Actual Package
   DEPENDENCYPACKAGE=`cat $f`

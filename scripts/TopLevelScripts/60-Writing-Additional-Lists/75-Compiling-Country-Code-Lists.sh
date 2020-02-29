@@ -1,4 +1,6 @@
 #!/bin/bash
+# shellcheck disable=SC1090,SC2034,SC2154
+
 ## This spits out lists based on country codes
 
 ## Variables
@@ -20,22 +22,22 @@ for f in $COUNTRYCODESTLDALL
 do
 
   # Dynamic Variables
-  BASEFILENAME=$(echo `basename $f | cut -f 1 -d '.'`)
+  BASEFILENAME=$(echo "`basename $f | cut -f 1 -d '.'`")
   COUNTRYCODECOMPLETE="$COUNTRYCODESSUBSDIR""$BASEFILENAME".txt
 
   for source in `cat $f`;
   do
 
-    HOWMANYTIMESTLD=$(echo -e "`grep -o [.]$source\$ $COMBINEDBLACKLISTSDBB | wc -l`")
+    HOWMANYTIMESTLD=$(echo -e "`grep -o "[.]$source\$" $COMBINEDBLACKLISTSDBB | wc -l`")
 
     if [[ "$HOWMANYTIMESTLD" != 0 ]]
     then
-      cat $COMBINEDBLACKLISTSDBB | grep -e [.]$source\$ >> $TEMPFILEZ
+      cat $COMBINEDBLACKLISTSDBB | grep -e "[.]$source\$" >> $TEMPFILEZ
       touch $TEMPFILEZ
       if [[ -f $TEMPFILEZ ]]
       then
-        HOWMANYTIMESTLDAFTER=$(echo -e "`grep -o [.]$source\$ $TEMPFILEZ | wc -l`")
-        printf "$yellow"  "$BASEFILENAME Has $HOWMANYTIMESTLDAFTER Domains Using ."$source""
+        HOWMANYTIMESTLDAFTER=$(echo -e "`grep -o "[.]$source\$" $TEMPFILEZ | wc -l`")
+        printf "$yellow"  "$BASEFILENAME Has $HOWMANYTIMESTLDAFTER Domains Using .$source"
       fi
     fi
 

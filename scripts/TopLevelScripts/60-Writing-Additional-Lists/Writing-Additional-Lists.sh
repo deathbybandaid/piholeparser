@@ -1,4 +1,6 @@
 #!/bin/bash
+# shellcheck disable=SC1090,SC2034,SC2154
+
 ## This Sets up the writing of additional lists
 
 ## Variables
@@ -7,7 +9,7 @@ source "$SCRIPTDIRA"/../foldervars.sh
 
 ## Start File Loop
 ## For .sh files In The listgen Directory
-LISTGENSCRIPTSALL="$COMPLETEFOLDERPATH"/[0-9]*.sh
+LISTGENSCRIPTSALL="$COMPLETEFOLDERPATH/[0-9]*.sh"
 
 for f in $LISTGENSCRIPTSALL
 do
@@ -15,12 +17,12 @@ do
   LOOPSTART=$(date +"%s")
 
   ## Loop Vars
-  BASEFILENAME=$(echo `basename $f | cut -f 1 -d '.'`)
+  BASEFILENAME=$(echo "`basename $f | cut -f 1 -d '.'`")
   BASEFILENAMENUM=$(echo $BASEFILENAME | sed 's/[0-9]//g')
   BASEFILENAMEDASHNUM=$(echo $BASEFILENAME | sed 's/[0-9\-]/ /g')
   BNAMEPRETTYSCRIPTTEXT=$(echo $BASEFILENAMEDASHNUM)
-  TAGTHEREPOLOG="[Details If Any]("$TOPLEVELSCRIPTSLOGSDIRGIT""$SCRIPTBASEFOLDERNAME"/"$BASEFILENAME".md)"
-  TAGTHEUPONEREPOLOG="[Go Up One Level]("$TOPLEVELSCRIPTSLOGSDIRGIT""$SCRIPTDIRNAME".md)"
+  TAGTHEREPOLOG="[Details If Any]($TOPLEVELSCRIPTSLOGSDIRGIT$SCRIPTBASEFOLDERNAME/$BASEFILENAME.md)"
+  TAGTHEUPONEREPOLOG="[Go Up One Level]($TOPLEVELSCRIPTSLOGSDIRGIT$SCRIPTDIRNAME.md)"
 
   BREPOLOGDIRECTORY="$TOPLEVELSCRIPTSLOGSDIR""$SCRIPTBASEFOLDERNAME"/
   if [[ ! -d $BREPOLOGDIRECTORY ]]
@@ -30,7 +32,7 @@ do
 
   BREPOLOG="$BREPOLOGDIRECTORY""$BASEFILENAME".md
 
-  timestamp=$(echo `date`)
+  timestamp=$(echo "`date`")
 
   printf "$lightblue"    "$DIVIDERBARB"
   echo ""

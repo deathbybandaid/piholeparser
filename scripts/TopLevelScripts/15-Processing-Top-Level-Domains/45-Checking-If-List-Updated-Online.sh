@@ -1,4 +1,5 @@
 #!/bin/bash
+# shellcheck disable=SC1090,SC2034,SC2154
 ##
 
 ## Variables
@@ -22,5 +23,5 @@ elif [[ -f $CURRENTTLDLIST && -z $PINGTESTFAILED && -n $DIDWECHECKONLINEFILE && 
 then
   FULLSKIPPARSING=true
   printf "$green"    "File Not Updated Online. No Need To Process."
-  echo "FULLSKIPPARSING="$FULLSKIPPARSING"" | tee --append $TEMPPARSEVARS &>/dev/null
+  echo "FULLSKIPPARSING=$FULLSKIPPARSING" | tee --append $TEMPPARSEVARS &>/dev/null
 fi
