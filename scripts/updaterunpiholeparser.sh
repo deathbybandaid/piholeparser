@@ -6,7 +6,7 @@
 
 ## Variables
 git_repo_name=piholeparser
-OUTSIDEDIRVARS=/etc/"$git_repo_name".var
+OUTSIDEDIRVARS=/etc/"$git_repo_name".sh
 if [[ -f "$OUTSIDEDIRVARS" ]]
 then
   echo "Main Vars Check Successful"

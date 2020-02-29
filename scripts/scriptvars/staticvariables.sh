@@ -6,7 +6,7 @@
 git_repo_name=piholeparser
 
 ## Vars Saved Outside the Repo
-OUTSIDEDIRVARS=/etc/"$git_repo_name".var
+OUTSIDEDIRVARS=/etc/"$git_repo_name".sh
 if
 [[ -f $OUTSIDEDIRVARS ]]
 then
