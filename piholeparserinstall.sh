@@ -14,7 +14,9 @@ git_repo_owner=deathbybandaid
 git_repo_url_b="https://github.com/$git_repo_owner/$git_repo_name.git"
 git_local_repo_path=/etc/"$git_repo_name"
 OUTSIDEDIRVARS=/etc/"$git_repo_name".var
-#update_config_file="$COMMONSCRIPTSDIR"Update-Config-File.sh
+SCRIPTSDIR="$git_local_repo_path"/scripts/
+COMMONSCRIPTSDIR="$SCRIPTSDIR"CommonScripts/
+update_config_file="$COMMONSCRIPTSDIR"Update-Config-File.sh
 
 ## Update
 apt-get update
@@ -89,18 +91,18 @@ then
   if (whiptail --title "$git_repo_name" --yes-button "Local Only" --no-button "I'll be uploading to Github" --yesno "What Version of $git_repo_name to install?" 10 80)
   then
     #echo "version=local" | tee --append "$OUTSIDEDIRVARS"
-    bash update_config_file version local
+    bash $update_config_file version local
   else
     #echo "version=github" | tee --append "$OUTSIDEDIRVARS"
-    bash update_config_file version github
+    bash $update_config_file version github
     git_cred_user=$(whiptail --inputbox "Github Username" 10 80 "" 3>&1 1>&2 2>&3)
     git_cred_pass=$(whiptail --inputbox "Github Password" 10 80 "" 3>&1 1>&2 2>&3)
     git_cred_email=$(whiptail --inputbox "Github Email Address" 10 80 "" 3>&1 1>&2 2>&3)
     #echo "git_cred_user="$git_cred_user"" | tee --append "$OUTSIDEDIRVARS"
     #echo "git_cred_pass="$git_cred_pass"" | tee --append "$OUTSIDEDIRVARS"
     #echo "git_cred_email="$git_cred_email"" | tee --append "$OUTSIDEDIRVARS"
-    bash update_config_file git_cred_user $git_cred_user
-    bash update_config_file git_cred_pass $git_cred_pass
-    bash update_config_file git_cred_email $git_cred_email
+    bash $update_config_file git_cred_user $git_cred_user
+    bash $update_config_file git_cred_pass $git_cred_pass
+    bash $update_config_file git_cred_email $git_cred_email
   fi
 fi
