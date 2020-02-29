@@ -3,17 +3,17 @@
 ##################
 
 ## Repo Name
-REPONAME=piholeparser
+git_repo_name=piholeparser
 
 ## Vars Saved Outside the Repo
-OUTSIDEDIRVARS=/etc/"$REPONAME".var
+OUTSIDEDIRVARS=/etc/"$git_repo_name".var
 if
 [[ -f $OUTSIDEDIRVARS ]]
 then
-source $OUTSIDEDIRVARS
+  source $OUTSIDEDIRVARS
 else
-echo "Outside Vars File Missing, Exiting."
-exit
+  echo "Outside Vars File Missing, Exiting."
+  exit
 fi
 
 ## These are the colors used throughout the script.
@@ -42,10 +42,10 @@ DIVIDERBARB="___________________________________________________________"
 #################
 
 ## Directory
-MAINREPOFOLDERDIR="$REPODIR"
-MAINREPOFOLDERGIT="https://github.com/"$REPOOWNER"/"$REPONAME"/blob/"$REPOBRANCH"/"
-MAINREPOFOLDERGITB="https://github.com/"$REPOOWNER"/"$REPONAME"/"
-MAINREPOFOLDERGITRAW="https://raw.githubusercontent.com/"$REPOOWNER"/"$REPONAME"/"$REPOBRANCH"/"
+MAINREPOFOLDERDIR="$git_local_repo_path"
+MAINREPOFOLDERGIT="https://github.com/"$git_repo_owner"/"$git_repo_name"/blob/"$git_repo_branch"/"
+MAINREPOFOLDERGITB="https://github.com/"$git_repo_owner"/"$git_repo_name"/"
+MAINREPOFOLDERGITRAW="https://raw.githubusercontent.com/"$git_repo_owner"/"$git_repo_name"/"$git_repo_branch"/"
 MAINREPOFOLDERGITTAG="[Return To Repository]("$MAINREPOFOLDERGITB")"
 
 ## README.md
@@ -126,7 +126,7 @@ MIRROREDLISTSDIRRAW="$MAINREPOFOLDERGITRAW"MirroredFiles/
 ## Mirrored White Lists
     MIRROREDWHITELISTSSUBDIR="$MIRROREDFILESDIR"MirroredWhiteists/
         MIRROREDWHITELISTSSUBALL="$MIRROREDWHITELISTSSUBDIR"*.txt
-    
+
 ## Mirrored TLD Lists
     MIRROREDTLDLISTSSUBDIR="$MIRROREDFILESDIR"MirroredTLDlists/
         MIRROREDTLDLISTSSUBALL="$MIRROREDTLDLISTSSUBDIR"*.txt
@@ -210,8 +210,8 @@ SCRIPTSDIR="$MAINREPOFOLDERDIR"scripts/
 TOPRUNSCRIPT="$SCRIPTSDIR"runscripts.sh
 
 ## Installer Script
-INSTALLERSCRIPT="$SCRIPTSDIR""$REPONAME"install.sh
-INSTALLERSCRIPTRAW="$MAINREPOFOLDERGITRAW""$REPONAME"install.sh
+INSTALLERSCRIPT="$SCRIPTSDIR""$git_repo_name"install.sh
+INSTALLERSCRIPTRAW="$MAINREPOFOLDERGITRAW""$git_repo_name"install.sh
 
 ## Scriptvars
 SCRIPTVARSDIR="$SCRIPTSDIR"scriptvars/
@@ -222,7 +222,7 @@ SCRIPTVARSDIR="$SCRIPTSDIR"scriptvars/
 ## Parsing Process
 PARSINGPROCESSSCRIPTSDIR="$SCRIPTSDIR"Parsing-Process/
 PARSINGPROCESSSCRIPTSALL="$PARSINGPROCESSSCRIPTSDIR"*.sh
-            
+
 ## Tool Scripts
 ####### Insert later
 
@@ -235,13 +235,14 @@ TOPLEVELSCRIPTSDIR="$SCRIPTSDIR"TopLevelScripts/
         DELETETEMPFILE="$COMMONSCRIPTSDIR"deletetempfile.sh
         RUNLOGSCRIPT="$COMMONSCRIPTSDIR"RecentRunLogs.sh
         PUSHTOGITHUBSCRIPT="$COMMONSCRIPTSDIR"Pushing-Lists-To-Github.sh
+        update_config_file="$COMMONSCRIPTSDIR"Update-Config-File.sh
 
 ##############
 ## Temp Dir ##
 ##############
 
 ## Temp Folder
-TEMPDIR="$REPODIR"temp/
+TEMPDIR="$git_local_repo_path"temp/
 
 ## Temp Files
 TEMPFILE="$TEMPDIR"tempfile.txt

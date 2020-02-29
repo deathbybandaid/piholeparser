@@ -36,10 +36,10 @@ if  [ "$version" = "github" ]
 then
   printf "$green"   "Pushing Lists to Github"
   timestamp=$(echo `date`)
-  printf "$green"    "$(git -C $REPODIR remote set-url origin $GITWHERETOPUSH)"
-  printf "$green"    "$(git -C $REPODIR add .)"
-  printf "$green"    "$(git -C $REPODIR commit -m "Update lists $timestamp")"
-  printf "$green"    "$(git -C $REPODIR push -u origin $REPOBRANCH)"
+  printf "$green"    "$(git -C $git_local_repo_path remote set-url origin $git_repo_url_push)"
+  printf "$green"    "$(git -C $git_local_repo_path add .)"
+  printf "$green"    "$(git -C $git_local_repo_path commit -m "Update lists $timestamp")"
+  printf "$green"    "$(git -C $git_local_repo_path push -u origin $git_repo_branch)"
 elif [ "$version" = "local" ]
 then
   printf "$yellow"   "Not Pushing Lists to Github"

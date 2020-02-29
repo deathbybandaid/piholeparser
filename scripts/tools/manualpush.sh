@@ -9,8 +9,8 @@ source "$SCRIPTDIRA"/foldervars.var
 timestamp=$(echo `date`)
 WHYYOUDODIS=$(whiptail --inputbox "Why are you doing a manual push?" 10 80 "Change Made Offline $timestamp" 3>&1 1>&2 2>&3)
 printf "$green"   "Pushing Lists to Github"
-git -C $REPODIR pull
-git -C $REPODIR remote set-url origin $GITWHERETOPUSH
-git -C $REPODIR add .
-git -C $REPODIR commit -m "$WHYYOUDODIS"
-git -C $REPODIR push -u origin $REPOBRANCH
+git -C $git_local_repo_path pull
+git -C $git_local_repo_path remote set-url origin $git_repo_url_push
+git -C $git_local_repo_path add .
+git -C $git_local_repo_path commit -m "$WHYYOUDODIS"
+git -C $git_local_repo_path push -u origin $git_repo_branch

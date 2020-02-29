@@ -20,7 +20,7 @@ fi
 ## Repository Name
 if [[ -f $MAINREPOREADMEMD ]]
 then
-  sed -i "s/NAMEOFTHEREPOSITORY/$REPONAME/g" $MAINREPOREADMEMD
+  sed -i "s/NAMEOFTHEREPOSITORY/$git_repo_name/g" $MAINREPOREADMEMD
 fi
 
 ## Start Time

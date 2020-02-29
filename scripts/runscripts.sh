@@ -12,7 +12,7 @@ then
 fi
 
 ## Logo
-if [[ -f $AVATARSCRIPT && $REPOBRANCH == "master" ]]
+if [[ -f $AVATARSCRIPT ]]
 then
   bash $AVATARSCRIPT
 else

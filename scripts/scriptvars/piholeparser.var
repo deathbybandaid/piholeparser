@@ -5,25 +5,25 @@
 #version=""
 
 ## Credentials if using Github
-#GITHUBUSERNAME=""
-#GITHUBPASSWORD=""
-#GITHUBEMAIL=""
+#git_cred_user=""
+#git_cred_pass=""
+#git_cred_email=""
 
 ## Hosting locally
 ## Defaults
 #LOCALHOSTDIR=/var/www/html/lists/
 #CLOCALHOST="$BIGAPLLOCALHOSTDIR"CombinedBlackLists.txt
-#DBBLOCALHOST="$BIGAPLLOCALHOSTDIR"DeathbybandaidList.txt	
+#DBBLOCALHOST="$BIGAPLLOCALHOSTDIR"DeathbybandaidList.txt
 
 ## Repo Information
 ## Repo
-REPONAME=piholeparser
-REPOOWNER=deathbybandaid
-REPOBRANCH=master
-GITREPOSITORYURL="github.com/"$REPOOWNER"/"$REPONAME".git"
-GITREPOSITORYURLB="https://github.com/"$REPOOWNER"/"$REPONAME".git"
-GITWHERETOPUSH=https://"$GITHUBUSERNAME":"$GITHUBPASSWORD"@"$GITREPOSITORYURL"
-REPODIR=/etc/"$REPONAME"/
+git_repo_name=piholeparser
+git_repo_owner=deathbybandaid
+git_repo_branch=master
+git_repo_url_a="github.com/"$git_repo_owner"/"$git_repo_name".git"
+git_repo_url_b="https://github.com/"$git_repo_owner"/"$git_repo_name".git"
+git_repo_url_push=https://"$git_cred_user":"$git_cred_pass"@"$git_repo_url_a"
+git_local_repo_path=/etc/"$git_repo_name"/
 
 ## Testing, without parsing
 #FULLSKIPPARSING=true

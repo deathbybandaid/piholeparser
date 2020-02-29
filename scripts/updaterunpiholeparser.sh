@@ -1,30 +1,30 @@
 #!/bin/bash
-## This script resides outside of the main directory 
+## This script resides outside of the main directory
 ## for the purpose of updating without worrying about being overwritten
 ##
 ## This File will not be updated often.
 
 ## Variables
-REPONAME=piholeparser
-MAINVAR=/etc/"$REPONAME".var
-if [[ -f "$MAINVAR" ]]
+git_repo_name=piholeparser
+OUTSIDEDIRVARS=/etc/"$git_repo_name".var
+if [[ -f "$OUTSIDEDIRVARS" ]]
 then
   echo "Main Vars Check Successful"
-  source $MAINVAR
+  source $OUTSIDEDIRVARS
 else
   echo "Main Vars File Missing, Exiting."
   exit
 fi
 
-if [[ ! -d "$REPODIR" ]]
+if [[ ! -d "$git_local_repo_path" ]]
 then
   echo ""
-  echo "$REPONAME Directory Missing. Cloning Now."
+  echo "$git_repo_name Directory Missing. Cloning Now."
   echo ""
-  git clone $GITREPOSITORYURLB $REPODIR
+  git clone $git_repo_url_b $git_local_repo_path
 fi
 
-SCRIPTVARSDIR="$REPODIR"scripts/scriptvars/
+SCRIPTVARSDIR="$git_local_repo_path"scripts/scriptvars/
 STATICVARS="$SCRIPTVARSDIR"staticvariables.var
 if [[ -f $STATICVARS ]]
 then
@@ -38,7 +38,7 @@ printf "$blue"    "$DIVIDERBAR"
 echo ""
 printf "$cyan"    "Updating Repository."
 echo ""
-printf "$green"    "$(git -C $REPODIR pull)"
+printf "$green"    "$(git -C $git_local_repo_path pull)"
 echo ""
 printf "$magenta" "$DIVIDERBAR"
 echo ""

@@ -9,9 +9,14 @@
 ## It also sets the variable for the installation
 
 ## Install Variables
-REPONAME=piholeparser
-REPOOWNER=deathbybandaid
-INSTALLPLACE=/etc/"$REPONAME"/
+git_repo_name=piholeparser
+git_repo_owner=deathbybandaid
+git_repo_branch=master
+git_repo_url_a="github.com/"$git_repo_owner"/"$git_repo_name".git"
+git_repo_url_b="https://github.com/"$git_repo_owner"/"$git_repo_name".git"
+INSTALLPLACE=/etc/"$git_repo_name"/
+OUTSIDEDIRVARS=/etc/"$git_repo_name".var
+update_config_file="$COMMONSCRIPTSDIR"Update-Config-File.sh
 
 ## Update
 apt-get update
@@ -41,22 +46,22 @@ fi
 ## Remove Prior install
 if [[ -n $PREVIOUSINSTALL ]]
 then
-  if (whiptail --title "$REPONAME" --yes-button "Remove beore install" --no-button "Abort" --yesno "$REPONAME is already installed?" 10 80)
+  if (whiptail --title "$git_repo_name" --yes-button "Remove beore install" --no-button "Abort" --yesno "$git_repo_name is already installed?" 10 80)
   then
-    rm -r /etc/"$REPONAME"
-    rm /etc/updaterun"$REPONAME".sh
-    crontab -l | grep -v 'bash /etc/"$REPONAME".sh'  | crontab -
+    rm -r /etc/"$git_repo_name"
+    rm /etc/updaterun"$git_repo_name".sh
+    crontab -l | grep -v 'bash /etc/"$git_repo_name".sh'  | crontab -
   else
     exit
   fi
 fi
 
 ## obvious question
-if (whiptail --title ""$REPONAME"" --yes-button "yes" --no-button "no" --yesno "Do You want to install "$REPONAME"?" 10 80)
+if (whiptail --title ""$git_repo_name"" --yes-button "yes" --no-button "no" --yesno "Do You want to install "$git_repo_name"?" 10 80)
 then
-  git clone https://github.com/"$REPOOWNER"/"$REPONAME".git /etc/"$REPONAME"/
-  cp /etc/"$REPONAME"/scripts/updaterun"$REPONAME".sh /etc/updaterun"$REPONAME".sh
-  (crontab -l ; echo "20 0 * * * bash /updaterun"$REPONAME".sh") | crontab -
+  git clone $git_repo_url_b $git_local_repo_path
+  cp /etc/"$git_repo_name"/scripts/updaterun"$git_repo_name".sh /etc/updaterun"$git_repo_name".sh
+  (crontab -l ; echo "20 0 * * * bash /updaterun"$git_repo_name".sh") | crontab -
 else
   exit
 fi
@@ -64,13 +69,13 @@ fi
 ## Save a pervious config?
 if [[ -n $PREVIOUSINSTALL ]]
 then
-  if (whiptail --title ""$REPONAME"" --yes-button "keep config" --no-button "create new config" --yesno "Keep a previous config?" 10 80)
+  if (whiptail --title ""$git_repo_name"" --yes-button "keep config" --no-button "create new config" --yesno "Keep a previous config?" 10 80)
   then
     echo "keeping old config"
   else
-    if [[ -f /etc/"$REPONAME".var ]]
+    if [[ -f "$OUTSIDEDIRVARS" ]]
     then
-      rm /etc/"$REPONAME".var
+      rm "$OUTSIDEDIRVARS"
     fi
     unset PREVIOUSINSTALL
   fi
@@ -79,20 +84,25 @@ fi
 ## What version?
 if [[ -z $PREVIOUSINSTALL ]]
 then
-  if [[ ! -f /etc/"$REPONAME".var]]
+  if [[ ! -f "$OUTSIDEDIRVARS"]]
   then
-    cp /etc/"$REPONAME"/scripts/scriptvars/"$REPONAME".var /etc/"$REPONAME".var
+    cp /etc/"$git_repo_name"/scripts/scriptvars/"$OUTSIDEDIRVARS" "$OUTSIDEDIRVARS"
   fi
-  if (whiptail --title ""$REPONAME"" --yes-button "Local Only" --no-button "I'll be uploading to Github" --yesno "What Version of "$REPONAME" to install?" 10 80)
+  if (whiptail --title ""$git_repo_name"" --yes-button "Local Only" --no-button "I'll be uploading to Github" --yesno "What Version of "$git_repo_name" to install?" 10 80)
   then
-    echo "version=local" | tee --append /etc/"$REPONAME".var
+    #echo "version=local" | tee --append "$OUTSIDEDIRVARS"
+    bash update_config_file version local
   else
-    echo "version=github" | tee --append /etc/"$REPONAME".var
-    GITHUBUSERNAME=$(whiptail --inputbox "Github Username" 10 80 "" 3>&1 1>&2 2>&3)
-    GITHUBPASSWORD=$(whiptail --inputbox "Github Password" 10 80 "" 3>&1 1>&2 2>&3)
-    GITHUBEMAIL=$(whiptail --inputbox "Github Email Address" 10 80 "" 3>&1 1>&2 2>&3)
-    echo "GITHUBUSERNAME="$GITHUBUSERNAME"" | tee --append /etc/"$REPONAME".var
-    echo "GITHUBPASSWORD="$GITHUBPASSWORD"" | tee --append /etc/"$REPONAME".var
-    echo "GITHUBEMAIL="$GITHUBEMAIL"" | tee --append /etc/"$REPONAME".var
+    #echo "version=github" | tee --append "$OUTSIDEDIRVARS"
+    bash update_config_file version github
+    git_cred_user=$(whiptail --inputbox "Github Username" 10 80 "" 3>&1 1>&2 2>&3)
+    git_cred_pass=$(whiptail --inputbox "Github Password" 10 80 "" 3>&1 1>&2 2>&3)
+    git_cred_email=$(whiptail --inputbox "Github Email Address" 10 80 "" 3>&1 1>&2 2>&3)
+    #echo "git_cred_user="$git_cred_user"" | tee --append "$OUTSIDEDIRVARS"
+    #echo "git_cred_pass="$git_cred_pass"" | tee --append "$OUTSIDEDIRVARS"
+    #echo "git_cred_email="$git_cred_email"" | tee --append "$OUTSIDEDIRVARS"
+    bash update_config_file git_cred_user $git_cred_user
+    bash update_config_file git_cred_pass $git_cred_pass
+    bash update_config_file git_cred_email $git_cred_email
   fi
 fi
