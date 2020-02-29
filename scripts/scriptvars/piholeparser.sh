@@ -4,12 +4,12 @@
 
 ## Version Options control what the script does.
 ## Options are local or github
-#version=""
+version=local
 
 ## Credentials if using Github
-#git_cred_user=""
-#git_cred_pass=""
-#git_cred_email=""
+git_cred_user=""
+git_cred_pass=""
+git_cred_email=""
 
 ## Hosting locally
 ## Defaults
