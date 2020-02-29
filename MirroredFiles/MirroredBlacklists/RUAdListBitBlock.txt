@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0IH32olbyksDtr5tMeqxhw
-! Version: 202002280030
+! Checksum: pbWKTmJ43pGVFYHhn3oeqg
+! Version: 202002292240
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 28 Feb 2020 00:30 UTC
+! Last modified: 29 Feb 2020 22:40 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -56,7 +56,7 @@
 /share32.
 /share42-
 /share42/*
-/social-likes.$domain=~animalreader.ru|~animego.org|~bigcinemahd.net|~catalog.onliner.by|~cutur.ru|~films-2019.club|~inosmi.ru|~kinomore.xyz|~kinomors.xyz|~kinomovi.xyz|~kinoo2019.ru|~kinozubr.net|~loungefilm.club|~loveread.info|~m24.ru|~megapolisonline.ru|~miuipro.info|~mobnovelty.ru|~netsofta.net|~postila.ru|~sport28.net|~topfile.tj|~tv-show.live|~vipkinoman.net|~westernfilm.ru|~wfilm.club
+/social-likes.$domain=~animalreader.ru|~animego.org|~bigcinemahd.net|~catalog.onliner.by|~cutur.ru|~films-2019.club|~inosmi.ru|~kinomoco.xyz|~kinomore.xyz|~kinomors.xyz|~kinomovi.xyz|~kinoo2019.ru|~kinozubr.net|~loungefilm.club|~loveread.info|~m24.ru|~megapolisonline.ru|~miuipro.info|~mobnovelty.ru|~netsofta.net|~postila.ru|~sport28.net|~topfile.tj|~tv-show.live|~vipkinoman.net|~westernfilm.ru|~wfilm.club
 /social-likes/*
 /sprite4-a67f741843ffc4220554c34bd01bb0bb.png
 /vkontakte_icon_
@@ -298,7 +298,6 @@ adme.ru###js-dialog-social-overlay-1
 vsebasni.ru###kn-podel
 anime.anidub.life,online.anidub.com###lcol > .lblockcon
 anime.anidub.life,online.anidub.com###lcol > .lblockhead
-onlinelifetv.com###left > noindex > .block_title
 google.com###lhn-friends
 google.com###lhn-recommendations
 beholder.pro###likeSocialNetworks
@@ -343,6 +342,7 @@ headinsider.net###sidebar > :not(.blog-mini-widget)
 kinobal.ru###sidebar-2 .widget_text
 rebenok.by###sn-block-right
 gidonline.eu###soc
+vchaspik.ua###soc-img-content-bottom
 amurmedia.ru,eaomedia.ru,irkutskmedia.ru,krasnodarmedia.su,krasnoyarskmedia.ru,magadanmedia.ru,primamedia.ru,sakhalinmedia.ru,sevastopolmedia.ru,ulanmedia.ru,ussurmedia.ru,yakutiamedia.ru###soc_invites_block
 101.ru###social-groups
 w-o-s.ru###social-subscribe
@@ -505,6 +505,7 @@ qiq.ws##.buttonbox
 nvworld.ru##.buttons
 allboxing.ru##.c-box-comment-menu > li:nth-child(2)
 smotret-anime.online#?#.card > .card-content:-abp-has(> .m-translation-view__share)
+selezen.net#?#.card-body > .nice-nav > ul ~ a
 avito.ru##.catalog-social-buttons
 kp.ru##.cb_services-all
 bestmuzon.me##.cb_socials
@@ -557,7 +558,10 @@ censor.net.ua##.fbsend
 wikia.com#?#.feed-item:-abp-has(> .feed-item__well > .feed-item__content > .is-social)
 www.bigmir.net##.fix310 > .stiky > .row.pb20
 evtifeev.com##.fones
+myjane.ru##.footer-ok
 kurkul.com,oka.fm##.footer-soc
+myjane.ru##.footer-socials-lj
+myjane.ru##.footer-vk
 mmatoday.info##.footer-wrapper-social
 subscribe.ru##.footer_socs
 hdmulti.net##.footersoc
@@ -899,7 +903,7 @@ ekabu.ru##.t-social-container_top
 volkovysk.by##.tab-soc-networks
 kino-teatr.ua##.tab-widget-multy
 rufilmtv.pro##.tbcomm
-business-gazeta.ru,fakty.ua##.telegram
+business-gazeta.ru,fakty.ua,novostivmire.com##.telegram
 sakh.com##.telegram-widget
 depo.ua##.telegram_button
 tverigrad.ru##.telegram_info
@@ -1034,7 +1038,7 @@ kommersant.ru##a[href][title="Поделиться"]
 youla.ru##a[href][title^="Поделиться"]
 rusnext.ru##a[href^="http://www.odnoklassniki.ru/group/"]
 livecars.ru,livesport.ru##a[href^="https://share.yandex.ru/"]
-agronews.ua,animedub.ru,apostrophe.ua,app2top.ru,book-audio.com,censor.net.ua,depo.ua,game2day.ru,glavred.info,govoritmoskva.ru,livesport.ws,lrepacks.ru,maanimo.com,mk.ru,myslo.ru,overclockers.ua,pravda.com.ua,privatfinance.com,rbc.ua,rusnext.ru,segodnya.ua,softportal.com,soundpark.best,sports.kz,uz.video##a[href^="https://t.me/"]
+agronews.ua,animedub.ru,apostrophe.ua,app2top.ru,book-audio.com,censor.net.ua,depo.ua,game2day.ru,glavred.info,govoritmoskva.ru,livesport.ws,lrepacks.ru,maanimo.com,mk.ru,myslo.ru,overclockers.ua,pravda.com.ua,privatfinance.com,rbc.ua,rusnext.ru,segodnya.ua,selezen.net,softportal.com,soundpark.best,sports.kz,uz.video##a[href^="https://t.me/"]
 life.ru##a[href^="tg://msg_"]
 66.ru,myanianime.ru,tproger.ru##a[href^="tg://resolve"]
 toptracker.ru##a[onclick^="content_share"]
@@ -1818,7 +1822,6 @@ _userbar_$image
 ||bnr.pleer.ru/
 ||calc.ru/include/check_subscription.php
 ||cbox.*/box/$third-party,domain=~tukero.org
-||cdn.online-life.club/templates/online-life-new/images/*fff
 ||cdn.tnt-online.ru/masha_layer/index.html
 ||champion.com.ua/get_battle_list$xmlhttprequest
 ||chastnik-m.ru/images/bg/
@@ -1902,6 +1905,7 @@ _userbar_$image
 ||levonevski.net^$object
 ||libst.ru/Images/Sliders/
 ||liveinternet.ru/ReActive/static/toolbars/
+||livejournal.com^*&callback=*=$script,xmlhttprequest,domain=livejournal.com
 ||livelib.ru/js/pushnew.
 ||livemaster.ru^*/mobile-apps-banner-hand/
 ||lk.megafon.ru/static/blocks/banner/banner.js
@@ -2054,7 +2058,6 @@ ok-pressa.ru###cerezsorgula
 sobesednik.ru###collapseSubscribe
 fb.ru###comments > #comments_typers
 fb.ru###comments_list > div[id^="comment-f-"]
-onlinelifetv.com###container > .pull-left
 thequestion.ru###content > .informer
 moya-planeta.ru###content > .white_header_text
 3dnews.ru###content-column > .white.margin-bottom.margin-top
@@ -2151,6 +2154,7 @@ youtube.com###masthead-positioner > #ticker-content
 1jazz.ru###mfn-rev-slider
 livemaster.ru###mobile-app-banner-hand
 olx.ua###mobileAppsbadge
+myjane.ru###moon-calendar
 zismo.biz###more_apps_popup
 zismo.biz###more_votes_popup
 youtube.com###movie_player .html5-stop-propagation
@@ -2716,6 +2720,7 @@ rempc.by##.sidebar-block.banner
 raenza.ru#?#.sidebar-island:-abp-has(> .heading-primary:-abp-contains(реклама))
 torrent-club.net##.sidebar-primary
 mayday.rocks##.sidebar.column
+socportal.info#?#.sidebar__block:-abp-has(> .block > .block__content > .g-ytsubscribe)
 habr.com##.sidebar_right > #companies_rating
 teplica-exp.ru##.similar-info > .title_for_corousel
 topgir.com.ua##.singing
@@ -3543,6 +3548,7 @@ prom.ua#@#img[alt="facebook"]
 /flying_push.
 /get_onesignal_
 /ilabspush.
+/inpl.webpush.
 /mp-web-notification.
 /multi-desktop-notification.
 /myPushDc.
@@ -3618,6 +3624,7 @@ _revotas_push.
 ###___ndtvpushdiv
 ###bigpicture-webpush-widget
 ###cont_webpush
+###crocopush_banner
 ###desktop-notification-ask-dialog
 ###desktop-notifications
 ###dialog-push-notification
@@ -3902,6 +3909,7 @@ _revotas_push.
 -facebook-icon.
 -facebook-icons-
 -facebook-like-box/
+-facebook-likeButton-
 -facebook-share.
 -facebook-widget.
 -facebook.js$domain=~king.com
@@ -5893,6 +5901,7 @@ _revotas_push.
 /sidenav_instagram_
 /sidenav_tumblr_
 /sideShare_
+/silicon-counters/*
 /simple-share-$~stylesheet
 /simple-social-sharing/*$~stylesheet
 /simpleshare.js
@@ -6233,6 +6242,7 @@ _revotas_push.
 /socialcounts/*$script
 /socialCounts?
 /socialfacebookdark.
+/socialfooter.
 /socialFooterSprite.
 /socialgoogledark.
 /socialhomesprite2.
@@ -7255,6 +7265,7 @@ _youtube_social_
 ###block-menu-menu-social-media-links
 ###block-menu-menu-social-menu
 ###block-menu-menu-social-networks
+###block-menu-social-identity
 ###block-minisocialsharingblock
 ###block-neweurope-vertical-social
 ###block-pi_social-links
@@ -9150,6 +9161,7 @@ _youtube_social_
 ###socialButtons
 ###socialBuzzLine1
 ###socialClickCountWidget
+###socialColumn
 ###socialConnect
 ###socialConnects
 ###socialContainer
@@ -9776,6 +9788,8 @@ _youtube_social_
 ##.AppFooter-social
 ##.Article-FB-Left
 ##.Article-headerSocialButton
+##.ArticleBottomShareComponent
+##.ArticleHeaderShareComponent
 ##.ArticlePage-sharing
 ##.ArticleSocialMediaTopBar
 ##.ArticleTombstone-shareHeading
@@ -10155,6 +10169,7 @@ _youtube_social_
 ##.addthis-wrapper
 ##.addthis:not(body)
 ##.addthisContainer
+##.addthisShareV1
 ##.addthisToolbarBtm
 ##.addthisToolbarTop
 ##.addthisTop
@@ -10386,6 +10401,7 @@ _youtube_social_
 ##.article-sharing-nav
 ##.article-sharing-top
 ##.article-side-share
+##.article-side-share-ynetnews
 ##.article-sidebar-action-facebook
 ##.article-sidebar-action-twitter
 ##.article-soc
@@ -11125,6 +11141,7 @@ _youtube_social_
 ##.c-social-wrap
 ##.c-socialShare
 ##.c-social__list
+##.c-social__networks
 ##.c-socialchannels
 ##.c-socials
 ##.c-socialshare
@@ -12877,6 +12894,7 @@ _youtube_social_
 ##.googleplusalt
 ##.googlepluscommon
 ##.googleplustop
+##.gp-author-social-icons
 ##.gp-share
 ##.gp-share-button
 ##.gp-share-email
@@ -13316,6 +13334,7 @@ _youtube_social_
 ##.icon--linkedin__white
 ##.icon--pinterest
 ##.icon--share--light
+##.icon--snapchat
 ##.icon--twitter
 ##.icon--twitter__white
 ##.icon--vine
@@ -13432,6 +13451,7 @@ _youtube_social_
 ##.icon-logo-linkedin
 ##.icon-logo-twitter-bird
 ##.icon-logo-youtube
+##.icon-mastodon
 ##.icon-medium-encircled
 ##.icon-meneame
 ##.icon-mixcloud
@@ -13492,6 +13512,7 @@ _youtube_social_
 ##.icon-social-linkedin
 ##.icon-social-linkedin-green
 ##.icon-social-mail-circle
+##.icon-social-messenger
 ##.icon-social-pinterest
 ##.icon-social-round-fb
 ##.icon-social-round-google
@@ -13502,6 +13523,7 @@ _youtube_social_
 ##.icon-social-tumblr
 ##.icon-social-twitter
 ##.icon-social-twitter-circle
+##.icon-social-whatsup2
 ##.icon-social-youtube
 ##.icon-social__link
 ##.icon-social_facebook_bl
@@ -14257,6 +14279,9 @@ _youtube_social_
 ##.m_share
 ##.macleans-social-footer__item
 ##.macleans-social-footer__wrap
+##.mad__follow__social-link
+##.mad__social-network--teaser
+##.mad__social_network--custom
 ##.mag_social
 ##.magazine-bar__social
 ##.magazine-share
@@ -14699,6 +14724,7 @@ _youtube_social_
 ##.nice-menu-menu-social-menu
 ##.nm-social-list
 ##.nmSocialMain
+##.nmg-footer__social
 ##.nn-follow-us
 ##.nn-header-main__social
 ##.nn-social-icons-header
@@ -14734,6 +14760,7 @@ _youtube_social_
 ##.o-PinterestEmbed
 ##.o-SocialShare__m-ShareButton--facebookMessenger
 ##.o-btn--share
+##.o-button--share
 ##.o-footer__social
 ##.o-mobile-share-footer
 ##.o-social-icon
@@ -15085,6 +15112,7 @@ _youtube_social_
 ##.post_share_twitter
 ##.post_shares
 ##.post_sociable
+##.post_toolbar_share
 ##.postbit-social
 ##.postfblike
 ##.postshare
@@ -18306,6 +18334,8 @@ _youtube_social_
 ##.sub_buzz_share
 ##.sub_fb
 ##.sub_gplus
+##.sub_jeu_social_facebook
+##.sub_jeu_social_twitter
 ##.sub_sns
 ##.sub_socialMedia
 ##.sub_twitter
@@ -18421,6 +18451,7 @@ _youtube_social_
 ##.tempShareToolsHolder
 ##.text-m-join-us-on-facebook
 ##.text_list_inline
+##.tf-share
 ##.tg-tlc-storymeta_sharing-wrapper
 ##.tg-tweet-this
 ##.tgc-footer_social
@@ -19045,6 +19076,7 @@ _youtube_social_
 ##.walrus_social_buttons
 ##.wb-share
 ##.wbtz-share-btn
+##.wc_social_plugin_wrapper
 ##.wccfSocial
 ##.wcs-facebook
 ##.wcs-google
@@ -20088,7 +20120,6 @@ _youtube_social_
 ||digg.com/img/badges/$third-party
 ||digg.com^$script,subdocument,third-party
 ||diggstatic.com^*/follow_buttons/
-||donreach.com^$third-party
 ||encrypted-tbn2.gstatic.com/images?$domain=vitorrent.org
 ||external.followgram.me^$third-party
 ||facebook.com*/plugins/like.php?$third-party
@@ -20721,6 +20752,7 @@ f-secure.com,howtogeek.com#@#.social-media-buttons
 chorus.co.nz#@#.social-media-links
 schuermann.eu#@#.social-media-list
 insideover.com#@#.social-menu
+e-gezondheid.be,e-sante.be,e-sante.fr#@#.social-networks
 nvidia.pl#@#.social-newsletter
 linkis.com#@#.social-panel
 techspot.com,tuba.pl#@#.social-popup
@@ -23328,6 +23360,7 @@ _backToTop.
 ###optinform-container
 ###overlay-email-signup
 ###overlay-newsletter001
+###overlayPopinNewsletter
 ###pcm-subscribe
 ###pf-newsletter-form
 ###pnlFooterNewsletterSignup
@@ -24670,6 +24703,8 @@ _backToTop.
 ##.wrapper-button-newsletter
 ##.wrapper_suscribe_home
 ##.wwd-subscribe-now-banner-background
+##.yel-email-popup
+##.yel-popup-main-wrapper
 ##.yt-mailchimp-subscription-form-widget
 ##GANNETT-ATOMS-COMPONENT-NEWSLETTER-CTA
 ##GET-SUBSCRIBERS
@@ -24970,6 +25005,7 @@ _backToTop.
 ###BackToTop
 ###BtmToPageTopArea
 ###Imgback2top
+###J_returntop
 ###PAGE_TOP_LINK
 ###ReturnToTop
 ###ScrollToTopButton
@@ -25169,6 +25205,7 @@ _backToTop.
 ##.NextCheatButton
 ##.PageHeaderWithMenu-backTop
 ##.ScrollTop
+##.SiteScrollToTopButton
 ##.TopGoTop
 ##.W_gotop
 ##.a-back-to-top
@@ -25394,6 +25431,7 @@ _backToTop.
 ##.mypresta_scrollup
 ##.nav--back-to-top
 ##.news-back-to-top__top-link
+##.o-back-to-top
 ##.o-backtop
 ##.on--totop
 ##.os-back-to-top
@@ -25412,6 +25450,7 @@ _backToTop.
 ##.retour_haut
 ##.return-to-top
 ##.returnToTop
+##.return_top
 ##.rh-footer-back-to-top
 ##.rlx-back-top
 ##.rtp-back-to-top
@@ -26104,7 +26143,7 @@ mozillamessaging.com#@#.rss.icon
 newinhomes.com#@#.rssFeed
 google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.cn,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.bz,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.nf,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.je,google.jo,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tk,google.tl,google.tm,google.tn,google.to,google.tt,google.vg,google.vu,google.ws,youtube.com#@#.rss_icon
 scribol.com#@#.scribol
-advids.co,cbdoilreview.org,fashiola.fr,galerieslafayette.com,mortgageguy.com.au,paperless-insurance.com,thepage.com.ua#@#.scroll-to-top
+advids.co,cbdoilreview.org,fashiola.fr,galerieslafayette.com,mortgageguy.com.au,paperless-insurance.com,thepage.com.ua,thepage.ua#@#.scroll-to-top:not(body)
 channelnewsasia.com,dreamhost.com,kitacon.org,polskikoszyk.pl,posti.fi,redislabs.com#@#.scroll-top:not(body):not(html)
 aklinizikesfedin.com,channelnewsasia.com,ew.com,indiatimes.com,letyshops.com,msn.com,people.com,southernliving.com,steptohealth.com,tele2.ru,wiemy.to#@#.scroll-up:not(body):not(html)
 krasnodar.ru#@#.scrollTop
@@ -26128,6 +26167,7 @@ theonion.com#@#.taboola-inbetweener
 ctpost.com#@#.taboolaloader
 hoff.ru#@#.to-top
 dj-extensions.com,thadenschool.org#@#.top-of-page
+floristics.info#@#.totop
 99bitcoins.com,healthyhandyman.com#@#.tve-leads-lightbox
 getuikit.com#@#.uk-alert
 tactxflashlights.com#@#.widget_subscribe

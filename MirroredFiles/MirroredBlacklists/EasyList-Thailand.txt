@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 201911161820
-! Last modified: 16 Nov 2019 18:20 +0000
+! Version: 202002291225
+! Last modified: 29 Feb 2020 12:25 +0000
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE
@@ -128,6 +128,7 @@ thaimobilecenter.com###exp-normal:has(a[href*="/ad_click"])
 thetechr.com##.rev-block:has(.adsbygoogle)
 thisisgamethailand.com##.module .item:has(a[href*="/index.php?/stats/clickAdd"])
 tnews.co.th##.hidden-sm.hidden-xs:has(div script[src^="//code.yengo.com/"])
+movie2uhd.com##+js(json-prune, MU_ads)
 !endif
 
 ! Script
@@ -739,6 +740,8 @@ vojkudee.net##[alt="Advertisement"]
 donung.tv##a[rel*="nofollow"] > img
 donung.tv###download-vdo
 donung.tv###ads_fox_bottom
+movie2uhd.com##.ad-float
+movie2uhd.com##.widgettitle-banner + a[href]
 
 ! Anime
 akibatan.com##.td-logo-wrap-full

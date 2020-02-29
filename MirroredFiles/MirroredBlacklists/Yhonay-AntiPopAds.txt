@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 11402
+! Version: 11413
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -447,6 +447,7 @@
 ||awhxbiqf.com^
 ||awjgketgdpzqxo.bid^
 ||awjkbnhylulcl.bid^
+||awjyickdugj.com^
 ||awnyohgtmb.com^
 ||awogbtinorwx.com^
 ||awpxjguq.com^
@@ -570,6 +571,7 @@
 ||bcobmmozfan.com^
 ||bcqrmuwbvxi.com^
 ||bcvrczvqlm.com^
+||bcvxpffzmkqf.com^
 ||bcxdjxlassr.bid^
 ||bcxfshnxaiqemn.bid^
 ||bcxronvqkwe.com^
@@ -946,6 +948,7 @@
 ||bwbbcdkkocx.bid^
 ||bwcpnpkkncszi.com^
 ||bweqokcd.bid^
+||bwhkzhvq.com^
 ||bwjteztqdlg.com^
 ||bwlstzzqxpuxr.bid^
 ||bwnrgfhbd.bid^
@@ -2246,6 +2249,7 @@
 ||eofaplocyrcxhq.com^
 ||eojrldtucqsf.com^
 ||eopazyxdkppnz.com^
+||eopbflgmxcr.com^
 ||eoqgguubvksu.com^
 ||eoqsbpvdxllxo.com^
 ||eoruxpqn.com^
@@ -3706,6 +3710,7 @@
 ||hmwxaldhioby.bid^
 ||hmypgdhzd.com^
 ||hmzwcomigpqia.com^
+||hncahnvieotyu.com^
 ||hngjhdhdkkfbcz.bid^
 ||hnhfengrgk.bid^
 ||hnhsvlswqtoxgn.com^
@@ -4483,6 +4488,7 @@
 ||javrdcyrgmdeeg.bid^
 ||jaxmbkhyr.com^
 ||jaxwrwvxfscq.com^
+||jazdoxthxiv.com^
 ||jbarrxmpmmekwh.bid^
 ||jbbfphnd.com^
 ||jbbgczjipjvb.com^
@@ -4909,6 +4915,7 @@
 ||jwgsepzz.com^
 ||jwjztdbakqqk.com^
 ||jwmnryeoc.com^
+||jwmwtcmexc.com^
 ||jwnlqtdvnm.bid^
 ||jwofadcwpocm.com^
 ||jwuvfovjzwe.com^
@@ -4952,6 +4959,7 @@
 ||jynhztwrsl.com^
 ||jypmcknqvnfd.com^
 ||jypoagtophu.com^
+||jyqqpjpbvya.com^
 ||jyrjjhdas.bid^
 ||jyryxwvdjqobg.bid^
 ||jyttehhwlm.com^
@@ -7112,6 +7120,7 @@
 ||oebdarcqsqcdk.com^
 ||oecxrvamnvc.com^
 ||oeevatisopdl.com^
+||oefyjdykepx.com^
 ||oegzbchydxbjkz.com^
 ||oehivgounhm.com^
 ||oehjxqhiasrk.com^
@@ -10368,6 +10377,7 @@
 ||vhzgmzakn.com^
 ||vickgdkdrwpdt.com^
 ||vigdxlpecmv.com^
+||vignmvwjlyc.com^
 ||vinfazjrdmh.com^
 ||viphdsrlec.com^
 ||virgbmkmear.com^
@@ -10400,6 +10410,7 @@
 ||vlyuopulvewg.com^
 ||vmetkehutsu.com^
 ||vmftwflt.com^
+||vmqgouvq.com^
 ||vmrsmnrvzh.com^
 ||vmtjybwfb.com^
 ||vmtwnkpskok.com^
