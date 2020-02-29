@@ -59,7 +59,7 @@ fi
 ## obvious question
 if (whiptail --title ""$git_repo_name"" --yes-button "yes" --no-button "no" --yesno "Do You want to install "$git_repo_name"?" 10 80)
 then
-  git clone $git_repo_url_b $git_local_repo_path
+  git clone https://github.com/"$git_repo_owner"/"$git_repo_name".git /etc/"$git_repo_name"/
   cp /etc/"$git_repo_name"/scripts/updaterun"$git_repo_name".sh /etc/updaterun"$git_repo_name".sh
   (crontab -l ; echo "20 0 * * * bash /updaterun"$git_repo_name".sh") | crontab -
 else
