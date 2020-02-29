@@ -37,7 +37,7 @@ do
   LOOPSTART=$(date +"%s")
   TOPLEVELSUBDIRPATH="$dir"
   TOPLEVELSUBDIRBASENAME=$(echo "`basename $TOPLEVELSUBDIRPATH | cut -f 1 -d '.'`")
-  TOPLEVELSUBDIRNAME=$(echo "`basename $TOPLEVELSUBDIRPATH | cut -f 1 -d '.' | sed 's/[0-9]/ /g' | sed 's/[\-]/ /'`")
+  TOPLEVELSUBDIRNAME=$(echo "`basename $TOPLEVELSUBDIRPATH | cut -f 1 -d '.' | sed 's/[0-9]/ /g; s/[\-]/ /; s/^[[:space:]]*//'`")
   TOPLEVELSUBDIRSCRIPT="$TOPLEVELSUBDIRPATH$TOPLEVELSUBDIRNAME.sh"
   TOPLEVELSUBDIRSCRIPTTEXT=$(echo "`basename $TOPLEVELSUBDIRPATH | cut -f 1 -d '.' | sed 's/[0-9\-]/ /g'`")
   TOPLEVELSUBDIRSCRIPTREPOLOGTAG="[Details If Any]($TOPLEVELSCRIPTSLOGSDIRGIT$TOPLEVELSUBDIRBASENAME.md)"
