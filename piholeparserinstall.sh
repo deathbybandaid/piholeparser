@@ -84,7 +84,7 @@ if [ -z "$PREVIOUSINSTALL" ]
 then
   if [ ! -f "$OUTSIDEDIRVARS" ]
   then
-    cp /etc/"$git_repo_name"/scripts/scriptvars/"$OUTSIDEDIRVARS" "$OUTSIDEDIRVARS"
+    cp /etc/"$REPONAME"/scripts/scriptvars/"$REPONAME".var "$OUTSIDEDIRVARS"
   fi
   if (whiptail --title "$git_repo_name" --yes-button "Local Only" --no-button "I'll be uploading to Github" --yesno "What Version of $git_repo_name to install?" 10 80)
   then
