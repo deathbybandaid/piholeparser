@@ -4,7 +4,7 @@
 
 ## Variables
 SCRIPTDIRA=$(dirname $0)
-source "$SCRIPTDIRA"/foldervars.var
+source "$SCRIPTDIRA"/foldervars.sh
 
 WHATITIS="All Parsed List"
 timestamp=$(echo `date`)

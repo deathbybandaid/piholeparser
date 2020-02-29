@@ -3,7 +3,7 @@
 
 ## Variables
 SCRIPTDIRA=$(dirname $0)
-source "$SCRIPTDIRA"/foldervars.var
+source "$SCRIPTDIRA"/foldervars.sh
 
 #HTTPCODECURL=`curl -s -o /dev/null -I -w "%{http_code}" $source`
 #HTTPCODEWGET=`wget --server-response $source 2>&1 | awk '/^  HTTP/{print $2}'`

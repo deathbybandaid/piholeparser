@@ -1,9 +1,10 @@
 #!/bin/bash
+# shellcheck disable=SC1090
 ## This should be run alot, to make sure the temp folder doesn't get screwed up
 
 ## Variables
 SCRIPTDIRA=$(dirname $0)
-source "$SCRIPTDIRA"/foldervars.var
+source "$SCRIPTDIRA"/foldervars.sh
 
 CHECKME=$TEMPCLEANUPONE
 if ls $CHECKME &> /dev/null;

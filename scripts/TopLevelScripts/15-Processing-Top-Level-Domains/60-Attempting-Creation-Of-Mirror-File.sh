@@ -3,7 +3,7 @@
 
 ## Variables
 SCRIPTDIRA=$(dirname $0)
-source "$SCRIPTDIRA"/foldervars.var
+source "$SCRIPTDIRA"/foldervars.sh
 
 if [[ -n $FULLSKIPPARSING ]]
 then

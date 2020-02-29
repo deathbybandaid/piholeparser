@@ -3,7 +3,7 @@
 
 ## Variables
 SCRIPTDIRA=$(dirname $0)
-source "$SCRIPTDIRA"/foldervars.var
+source "$SCRIPTDIRA"/foldervars.sh
 
 ## host unavailable
 if [[ -n $TESTPINGFAILED && -n $TESTCURLHEADERFAILED && -n $TESTWGETHEADERFAILED ]]

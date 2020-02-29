@@ -1,3 +1,5 @@
+#!/bin/bash
+# shellcheck disable=SC1090
 ## These Folders Are For the Scripts in this Directory
 
 ## Script Location
@@ -19,43 +21,43 @@ SCRIPTFOLDERDIFF="$SCRIPTDIR"/"$FOLDERDIFF"
 SCRIPTVARSDIR="$SCRIPTFOLDERDIFF"scriptvars/
 
 ## Static Vars Location
-STATICVARS="$SCRIPTVARSDIR"staticvariables.var
+STATICVARS="$SCRIPTVARSDIR"staticvariables.sh
 
 if
 [[ -f $STATICVARS ]]
 then
-source $STATICVARS
+  source $STATICVARS
 else
-echo "Static Vars File Missing, Exiting."
+  echo "Static Vars File Missing, Exiting."
 exit
 fi
 
 if
 [[ ! -f $TEMPVARS ]]
 then
-touch $TEMPVARS
+  touch $TEMPVARS
 fi
 
 if
 [[ -f $TEMPVARS ]]
 then
-source $TEMPVARS
+  source $TEMPVARS
 else
-echo "Temp Vars File Missing, Exiting."
-exit
+  echo "Temp Vars File Missing, Exiting."
+  exit
 fi
 
 if
 [[ ! -d $TOPLEVELSCRIPTSLOGSDIR ]]
 then
-mkdir $TOPLEVELSCRIPTSLOGSDIR
+  mkdir $TOPLEVELSCRIPTSLOGSDIR
 fi
 
 RECENTRUNLOGDIRECTORY="$TOPLEVELSCRIPTSLOGSDIR""$SCRIPTDIRNAME"/
 if
 [[ ! -d $RECENTRUNLOGDIRECTORY ]]
 then
-mkdir $RECENTRUNLOGDIRECTORY
+  mkdir $RECENTRUNLOGDIRECTORY
 fi
 
 ## Log File

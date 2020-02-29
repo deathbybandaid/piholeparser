@@ -3,7 +3,7 @@
 
 ## Variables
 SCRIPTDIRA=$(dirname $0)
-source "$SCRIPTDIRA"/foldervars.var
+source "$SCRIPTDIRA"/foldervars.sh
 
 if
 [[ -f $OUTSIDEDIRVARS ]]
@@ -34,8 +34,8 @@ source $OUTSIDEDIRVARS
 if [ -z "${!1}" ]
   then
     echo "Variable Missing From Config, creating it."
-    echo ""$1"="$2"" | tee --append "$OUTSIDEDIRVARS"
+    echo ""$1"="$2"" | tee --append "$OUTSIDEDIRVARS" >/dev/null;
   else
     echo "Variable exists in Config, replacing it."
-    sed -i "s/^\($1\s*=\s*\).*\$/\1$2/" $OUTSIDEDIRVARS
+    sed -i "s/^\($1\s*=\s*\).*\$/\1$2/" $OUTSIDEDIRVARS >/dev/null;
 fi

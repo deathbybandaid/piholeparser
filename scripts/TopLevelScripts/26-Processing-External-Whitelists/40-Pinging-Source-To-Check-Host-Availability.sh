@@ -3,7 +3,7 @@
 
 ## Variables
 SCRIPTDIRA=$(dirname $0)
-source "$SCRIPTDIRA"/foldervars.var
+source "$SCRIPTDIRA"/foldervars.sh
 
 ## If $SOURCEDOMAIN is set, Ping it
 if [[  -n $SOURCEDOMAIN && `ping -c 1 $SOURCEDOMAIN | gawk -F'[()]' '/PING/{print $2}'` ]]

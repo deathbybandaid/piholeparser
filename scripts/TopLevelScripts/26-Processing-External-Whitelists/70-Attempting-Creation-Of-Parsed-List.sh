@@ -3,7 +3,7 @@
 
 ## Variables
 SCRIPTDIRA=$(dirname $0)
-source "$SCRIPTDIRA"/foldervars.var
+source "$SCRIPTDIRA"/foldervars.sh
 
 ## Delete Parsed file
 if [[ ! -f $KILLTHELIST && -f $PARSEDFILE ]]

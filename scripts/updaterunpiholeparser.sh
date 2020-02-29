@@ -25,7 +25,7 @@ then
 fi
 
 SCRIPTVARSDIR="$git_local_repo_path"scripts/scriptvars/
-STATICVARS="$SCRIPTVARSDIR"staticvariables.var
+STATICVARS="$SCRIPTVARSDIR"staticvariables.sh
 if [[ -f $STATICVARS ]]
 then
   source $STATICVARS

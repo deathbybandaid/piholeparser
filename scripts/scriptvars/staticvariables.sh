@@ -216,7 +216,7 @@ INSTALLERSCRIPTRAW="$MAINREPOFOLDERGITRAW""$git_repo_name"install.sh
 ## Scriptvars
 SCRIPTVARSDIR="$SCRIPTSDIR"scriptvars/
     MAINREPOREADMEMDDEFAULT="$SCRIPTVARSDIR"README.md.default
-    DYNOVARS="$SCRIPTVARSDIR"dynamicvariables.var
+    DYNOVARS="$SCRIPTVARSDIR"dynamicvariables.sh
     TIMEANCHORFILE="$SCRIPTVARSDIR"time-anchor-file.var
 
 ## Parsing Process

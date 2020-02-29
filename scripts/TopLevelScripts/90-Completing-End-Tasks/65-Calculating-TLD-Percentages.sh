@@ -3,7 +3,7 @@
 
 ## Variables
 SCRIPTDIRA=$(dirname $0)
-source "$SCRIPTDIRA"/foldervars.var
+source "$SCRIPTDIRA"/foldervars.sh
 
 COMBINEDBLACKLISTSHOWMANY=$(echo -e "`wc -l $COMBINEDBLACKLISTS | cut -d " " -f 1`")
 HOWMANYVALIDTLD=$(echo -e "`wc -l $TLDBKUP | cut -d " " -f 1`")

@@ -12,15 +12,14 @@ SCRIPTBASEFILENAME=$(echo `basename $0 | cut -f 1 -d '.'`)
 
 ## Amount Of Folders Between
 FOLDERDIFFDOTS="../"
-FOLDERDIFF="$FOLDERDIFFDOTS"
+FOLDERDIFF=""
 SCRIPTFOLDERDIFF="$SCRIPTDIR"/"$FOLDERDIFF"
 
 ## Script Vars DIR
 SCRIPTVARSDIR="$SCRIPTFOLDERDIFF"scriptvars/
 
-## Static Vars Location
-STATICVARS="$SCRIPTVARSDIR"staticvariables.var
-
+## Static Vars
+STATICVARS="$SCRIPTVARSDIR"staticvariables.sh
 if
 [[ -f $STATICVARS ]]
 then
@@ -30,32 +29,15 @@ echo "Static Vars File Missing, Exiting."
 exit
 fi
 
-if
-[[ ! -f $TEMPVARS ]]
-then
 touch $TEMPVARS
-fi
-
-if
-[[ -f $TEMPVARS ]]
-then
 source $TEMPVARS
-else
-echo "Temp Vars File Missing, Exiting."
-exit
+
+RECENTRUNLOGDIRECTORY="$TOPLEVELSCRIPTSLOGSDIR"
+if
+[[ ! -d $RECENTRUNLOGDIRECTORY ]]
+then
+mkdir $RECENTRUNLOGDIRECTORY
 fi
 
-if
-[[ ! -f $TEMPPARSEVARS ]]
-then
-touch $TEMPPARSEVARS
-fi
-
-if
-[[ -f $TEMPPARSEVARS ]]
-then
-source $TEMPPARSEVARS
-else
-echo "Temp Parsing Vars File Missing, Exiting."
-exit
-fi
+## Log File
+RECENTRUN="$RECENTRUNLOGDIRECTORY""$SCRIPTBASEFILENAME".md

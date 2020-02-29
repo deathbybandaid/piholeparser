@@ -2,7 +2,7 @@
 ## Variables
 script_dir=$(dirname $0)
 SCRIPTVARSDIR="$script_dir"/../scriptvars/
-STATICVARS="$SCRIPTVARSDIR"staticvariables.var
+STATICVARS="$SCRIPTVARSDIR"staticvariables.sh
 if
 [[ -f $STATICVARS ]]
 then

@@ -3,7 +3,7 @@
 
 ## Variables
 SCRIPTDIRA=$(dirname $0)
-source "$SCRIPTDIRA"/foldervars.var
+source "$SCRIPTDIRA"/foldervars.sh
 
 ## What type of source?
 if [[ -z $FULLSKIPPARSING && -z $PINGTESTFAILED && $source == *.7z ]]

@@ -3,7 +3,7 @@
 
 ## Variables
 SCRIPTDIRA=$(dirname $0)
-source "$SCRIPTDIRA"/foldervars.var
+source "$SCRIPTDIRA"/foldervars.sh
 
 ## Check if file is modified since last download
 if  [[ -f $CURRENTTLDLIST && -z $PINGTESTFAILED ]]

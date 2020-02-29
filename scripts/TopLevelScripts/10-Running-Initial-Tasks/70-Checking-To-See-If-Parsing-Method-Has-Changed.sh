@@ -3,7 +3,7 @@
 
 ## Variables
 SCRIPTDIRA=$(dirname $0)
-source "$SCRIPTDIRA"/foldervars.var
+source "$SCRIPTDIRA"/foldervars.sh
 
 SCRIPTTEXT="Finding The most recently modified Parsing Script File."
 printf "$cyan"    "$SCRIPTTEXT"

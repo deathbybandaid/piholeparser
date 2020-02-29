@@ -5,21 +5,21 @@ SCRIPTDIR=$(dirname $0)
 
 ## Folder Name of Script
 COMPLETEFOLDERPATH=$(realpath $SCRIPTDIR)
-SCRIPTBASEFOLDERNAME=$(echo `basename $COMPLETEFOLDERPATH | cut -f 1 -d '.'`)
+SCRIPTDIRNAME=$(echo `basename $COMPLETEFOLDERPATH | cut -f 1 -d '.'`)
 
 ## Name Of Current Script
 SCRIPTBASEFILENAME=$(echo `basename $0 | cut -f 1 -d '.'`)
 
 ## Amount Of Folders Between
 FOLDERDIFFDOTS="../"
-FOLDERDIFF="$FOLDERDIFFDOTS""$FOLDERDIFFDOTS"
+FOLDERDIFF="$FOLDERDIFFDOTS"
 SCRIPTFOLDERDIFF="$SCRIPTDIR"/"$FOLDERDIFF"
 
 ## Script Vars DIR
 SCRIPTVARSDIR="$SCRIPTFOLDERDIFF"scriptvars/
 
 ## Static Vars Location
-STATICVARS="$SCRIPTVARSDIR"staticvariables.var
+STATICVARS="$SCRIPTVARSDIR"staticvariables.sh
 
 if
 [[ -f $STATICVARS ]]
@@ -45,10 +45,17 @@ echo "Temp Vars File Missing, Exiting."
 exit
 fi
 
-## Log File
-RECENTRUN="$TOPLEVELSCRIPTSLOGSDIR""$SCRIPTBASEFOLDERNAME".md
+if
+[[ ! -f $TEMPPARSEVARS ]]
+then
+touch $TEMPPARSEVARS
+fi
 
-echo "$MAINREPOFOLDERGITTAG" | tee --append $RECENTRUN &>/dev/null
-echo "$MAINRECENTRUNLOGMDGITTAG" | tee --append $RECENTRUN &>/dev/null
-echo "____________________________________" | tee --append $RECENTRUN &>/dev/null
-echo "# $TOPLEVELSUBDIRSCRIPTTEXT" | tee --append $RECENTRUN &>/dev/null
+if
+[[ -f $TEMPPARSEVARS ]]
+then
+source $TEMPPARSEVARS
+else
+echo "Temp Parsing Vars File Missing, Exiting."
+exit
+fi
