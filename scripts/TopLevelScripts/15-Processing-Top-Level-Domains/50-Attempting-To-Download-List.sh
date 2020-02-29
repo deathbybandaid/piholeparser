@@ -46,7 +46,7 @@ elif [[ -z $FULLSKIPPARSING && $SOURCETYPE == tar ]]
 then
   wget -q -O $COMPRESSEDTEMPTAR $source
   TARFILEX=$(tar -xavf "$COMPRESSEDTEMPTAR" -C "$TEMPDIR")
-  mv "$TEMPDIR""$TARFILEX" $BTEMPFILE
+  mv "$TEMPDIR$TARFILEX" $BTEMPFILE
 fi
 
 ## Check If File Was Downloaded

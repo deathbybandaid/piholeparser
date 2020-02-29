@@ -1,4 +1,6 @@
 #!/bin/bash
+# shellcheck disable=SC1090,SC2034,SC2154
+
 ## This Checks if parsing method has changed
 
 ## Variables
@@ -8,8 +10,8 @@ source "$SCRIPTDIRA"/foldervars.sh
 SCRIPTTEXT="Finding The most recently modified Parsing Script File."
 printf "$cyan"    "$SCRIPTTEXT"
 echo "### $SCRIPTTEXT" | tee --append $RECENTRUN &>/dev/null
-YOUNGESTPARSINGFILE=$(echo `ls -t $PARSINGPROCESSSCRIPTSDIR | awk '{printf("%s",$0);exit}'`)
-YOUNGESTPARSINGFILEB="$PARSINGPROCESSSCRIPTSDIR""$YOUNGESTPARSINGFILE"
+YOUNGESTPARSINGFILE=$(echo "`ls -t $PARSINGPROCESSSCRIPTSDIR | awk '{printf("%s",$0);exit}'`")
+YOUNGESTPARSINGFILEB="$PARSINGPROCESSSCRIPTSDIR$YOUNGESTPARSINGFILE"
 YOUNGFILEMODIFIEDLAST=$(stat -c %z "$YOUNGESTPARSINGFILEB")
 YOUNGFILEMODIFIEDTIME=$(date --date="$YOUNGFILEMODIFIEDLAST" +%s)
 printf "$yellow"    "The Most Recently Updated Parsing Script is $YOUNGESTPARSINGFILE"
@@ -33,12 +35,12 @@ printf "$yellow"  "Time Anchor is set to $TIMEANCHORSTAMP"
 SCRIPTTEXT="Comparing Time."
 printf "$cyan"    "$SCRIPTTEXT"
 echo "### $SCRIPTTEXT" | tee --append $RECENTRUN &>/dev/null
-if [[ $YOUNGFILEMODIFIEDTIME == $TIMEANCHORSTAMP ]]
+if [[ $YOUNGFILEMODIFIEDTIME == "$TIMEANCHORSTAMP" ]]
 then
   printf "$yellow"   "Parsing Method Has Not Changed."
   echo "Parsing Method Has Not Changed." | tee --append $RECENTRUN &>/dev/null
   NOPARSINGCHANGE="true"
-elif [[ $YOUNGFILEMODIFIEDTIME != $TIMEANCHORSTAMP ]]
+elif [[ $YOUNGFILEMODIFIEDTIME != "$TIMEANCHORSTAMP" ]]
 then
   printf "$green"   "Parsing Method Has Changed."
   echo "Parsing Method Has Changed." | tee --append $RECENTRUN &>/dev/null
@@ -71,8 +73,8 @@ then
     printf "$yellow"   "Resetting Killed Lists For Reprocessing."
     for f in $BLACKLSTSTHATDIEALL
     do
-      BASEFILENAME=$(echo `basename $f | cut -f 1 -d '.'`)
-      BUNDEADPARSELIST="$MAINBLACKLSTSDIR""$BASEFILENAME".lst
+      BASEFILENAME=$(echo "`basename $f | cut -f 1 -d '.'`")
+      BUNDEADPARSELIST="$MAINBLACKLSTSDIR$BASEFILENAME.lst"
       mv $f $BUNDEADPARSELIST
     done
   fi

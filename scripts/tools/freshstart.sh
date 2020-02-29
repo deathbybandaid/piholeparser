@@ -80,7 +80,7 @@ then
   for f in $BLACKLSTSTHATDIEALL
   do
     BASEFILENAME=$(echo "`basename $f | cut -f 1 -d '.'`")
-    BUNDEADPARSELIST="$MAINBLACKLSTSDIR""$BASEFILENAME".lst
+    BUNDEADPARSELIST="$MAINBLACKLSTSDIR$BASEFILENAME.lst"
     mv $f $BUNDEADPARSELIST
   done
 fi
@@ -97,7 +97,7 @@ then
   for f in $DEADBLACKLSTALL
   do
     BASEFILENAME=$(echo "`basename $f | cut -f 1 -d '.'`")
-    BUNDEADPARSELIST="$MAINBLACKLSTSDIR""$BASEFILENAME".lst
+    BUNDEADPARSELIST="$MAINBLACKLSTSDIR$BASEFILENAME.lst"
     mv $f $BUNDEADPARSELIST
   done
 fi

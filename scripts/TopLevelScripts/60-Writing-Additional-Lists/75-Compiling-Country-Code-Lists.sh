@@ -23,7 +23,7 @@ do
 
   # Dynamic Variables
   BASEFILENAME=$(echo "`basename $f | cut -f 1 -d '.'`")
-  COUNTRYCODECOMPLETE="$COUNTRYCODESSUBSDIR""$BASEFILENAME".txt
+  COUNTRYCODECOMPLETE="$COUNTRYCODESSUBSDIR$BASEFILENAME.txt"
 
   for source in `cat $f`;
   do

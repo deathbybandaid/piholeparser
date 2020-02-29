@@ -22,7 +22,7 @@ then
   echo ""
   echo "$git_repo_name Directory Missing. Cloning Now."
   echo ""
-  git clone $git_repo_url_b $git_local_repo_path
+  git clone --quiet $git_repo_url_b $git_local_repo_path
 fi
 
 SCRIPTVARSDIR="$git_local_repo_path"scripts/scriptvars/

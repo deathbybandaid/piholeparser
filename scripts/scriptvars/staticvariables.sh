@@ -212,8 +212,8 @@ SCRIPTSDIR="$MAINREPOFOLDERDIR"scripts/
 TOPRUNSCRIPT="$SCRIPTSDIR"runscripts.sh
 
 ## Installer Script
-INSTALLERSCRIPT="$SCRIPTSDIR""$git_repo_name"install.sh
-INSTALLERSCRIPTRAW="$MAINREPOFOLDERGITRAW""$git_repo_name"install.sh
+INSTALLERSCRIPT="$SCRIPTSDIR$git_repo_name"install.sh
+INSTALLERSCRIPTRAW="$MAINREPOFOLDERGITRAW$git_repo_name"install.sh
 
 ## Scriptvars
 SCRIPTVARSDIR="$SCRIPTSDIR"scriptvars/

@@ -49,7 +49,7 @@ elif [[ $SOURCETYPE == tar ]]
 then
   wget -q --header="$AGENTDOWNLOAD" -O $COMPRESSEDTEMPTAR $source
   TARFILEX=$(tar -xavf "$COMPRESSEDTEMPTAR" -C "$TEMPDIR")
-  cat "$TEMPDIR""$TARFILEX" >> $BTEMPFILE
+  cat "$TEMPDIR$TARFILEX" >> $BTEMPFILE
 fi
 
 ## Check that there was a file downloaded
