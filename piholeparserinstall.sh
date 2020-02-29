@@ -14,7 +14,7 @@ git_repo_owner=deathbybandaid
 git_repo_branch=master
 git_repo_url_a="github.com/"$git_repo_owner"/"$git_repo_name".git"
 git_repo_url_b="https://github.com/"$git_repo_owner"/"$git_repo_name".git"
-INSTALLPLACE=/etc/"$git_repo_name"/
+git_local_repo_path=/etc/"$git_repo_name"/
 OUTSIDEDIRVARS=/etc/"$git_repo_name".var
 update_config_file="$COMMONSCRIPTSDIR"Update-Config-File.sh
 
@@ -38,7 +38,7 @@ else
 fi
 
 ## Check for previous install
-if [[ -d $INSTALLPLACE ]]
+if [[ -d $git_local_repo_path ]]
 then
   PREVIOUSINSTALL=true
 fi
