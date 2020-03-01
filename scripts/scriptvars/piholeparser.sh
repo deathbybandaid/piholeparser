@@ -29,3 +29,6 @@ git_local_repo_path=/etc/"$git_repo_name"/
 
 ## Testing, without parsing
 #FULLSKIPPARSING=true
+
+## Force parse even when conditions would be otherwise
+reparse_all=false

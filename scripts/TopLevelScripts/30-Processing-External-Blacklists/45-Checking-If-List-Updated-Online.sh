@@ -53,7 +53,7 @@ else
   printf "$yellow"    "File Has Changed Online."
 fi
 
-if [[ -f $MIRROREDFILE && -f $PARSEDFILE && -n $SKIPDOWNLOAD ]]
+if [[ -f $MIRROREDFILE && -f $PARSEDFILE && -n $SKIPDOWNLOAD && $reparse_all != true ]]
 then
   printf "$green"    "Since Parsed File is Present, There Is No Need To Process."
   FULLSKIPPARSING=true
