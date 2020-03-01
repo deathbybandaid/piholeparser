@@ -18,6 +18,9 @@ else
   exit
 fi
 
+# We'll set the locale here for idn later
+export LC_ALL=C.UTF-8
+
 ## These are the colors used throughout the script.
 red='\e[1;31m%s\e[0m\n'
 green='\e[1;32m%s\e[0m\n'
