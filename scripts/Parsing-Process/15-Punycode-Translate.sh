@@ -8,7 +8,7 @@ source "$SCRIPTDIRA"/foldervars.sh
 
 if [[ -f $BFILETEMP ]]
 then
-  cat $BFILETEMP | sed '/^\#/d; s/[[:space:]]\#.*$//g; /^\!/d; s/[[:space:]]\!.*$//g; /^\./d; /\.$/d' > $BTEMPFILE
+  cat $BFILETEMP | idn > $BTEMPFILE
 fi
 
 if [[ -f $BFILETEMP ]]
