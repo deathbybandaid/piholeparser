@@ -3,12 +3,13 @@
 ____________________________________
 # 
 ### Checking For Script Blacklist File.
-* Script Blacklist File not there, not removing. Sun Mar  1 15:18:33 UTC 2020
+* Script Blacklist File not there, not removing. Sun Mar  1 17:29:59 UTC 2020
 ### Pulling Domains From Individual Lists.
 1 In AlexaVoiceAssistant
 1 In BlogPostAds
 4 In Pandora
 4 In Twitch
-10 To Blacklist
+1 In UserSubmitted
+11 To Blacklist
 ### Deduplicating Merged List.
-10 After Deduplicating Merged List.
+11 After Deduplicating Merged List.

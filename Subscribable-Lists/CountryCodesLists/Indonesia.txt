@@ -363,6 +363,7 @@ instink.smkmfsudimoro.sch.id
 interac.online1.verified.deposit-funds-canada.jaimorishop.id
 interbanx.co.id
 interiorbandung.co.id
+internetpositif.uzone.id
 ipktradis.id
 ipoc.or.id
 isiform.id

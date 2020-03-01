@@ -3,7 +3,7 @@
 ____________________________________
 # 
 ### Checking For Script Whitelist File.
-* Script Whitelist File not there, not removing. Sun Mar  1 15:18:32 UTC 2020
+* Script Whitelist File not there, not removing. Sun Mar  1 17:29:58 UTC 2020
 ### Pulling Domains From Individual Lists.
 1 In Backupbitlockerrecoverykey
 1 In BildDE
@@ -16,7 +16,7 @@ ____________________________________
 11 In Skype
 1 In Spotify
 3 In TargetsWeeklyAds
-51 In UserSubmitted
+121 In UserSubmitted
 1 In appleappstore
 3 In dropbox
 3 In electronicarts
@@ -35,6 +35,6 @@ ____________________________________
 2 In surveymonkey
 3 In windows-xboxstore
 5 In youtube
-210 To Whitelist
+280 To Whitelist
 ### Deduplicating Merged List.
-207 After Deduplicating Merged List.
+277 After Deduplicating Merged List.

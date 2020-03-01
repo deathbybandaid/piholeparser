@@ -174,6 +174,7 @@ api.iris.tv
 api.syndicaster.tv
 app.syndicaster.tv
 appid8.tv
+artistanbul.tv
 asianmilf.tv
 asianrape.tv
 assets.alphonso.tv
@@ -860,6 +861,7 @@ rurowoco.co.tv
 rxmeds.tv
 rxr.ravm.tv
 s.adrise.tv
+s.dogannet.tv
 s1-a1.dnvod.tv
 s1-a2.dnvod.tv
 s1-a3.dnvod.tv
@@ -994,6 +996,7 @@ subohejo.co.tv
 subs.vgu.tv
 sundaysky-sync-us.teads.tv
 superbowl2014.streams24.tv
+supermesaj.tv
 supertipp.tv
 suqirud.co.tv
 suzexum.co.tv
@@ -1014,6 +1017,7 @@ tag.mtrcs.samba.tv
 tagserver.extend.tv
 takingnote.learningmatters.tv
 tamilsex.tv
+tanisma.supermesaj.tv
 tarjetarojaonline.tv
 task.vuble.tv
 tasubit.co.tv
@@ -1103,6 +1107,7 @@ videosgratis.tv
 videosporno.tv
 videowood.tv
 vidible.tv
+vidlox.tv
 villa.alphonso.tv
 virgin-tv.tv
 virginz.tv
@@ -1121,6 +1126,7 @@ waki.tv
 walkingdead.movie24.tv
 waroqog.co.tv
 wasumisa.co.tv
+watchmygirlfriend.tv
 wav.tv
 wawakoqi.co.tv
 web-collector-experian.ispot.tv
@@ -1170,6 +1176,7 @@ www.animalsex365.tv
 www.animalsextube.tv
 www.animalsporn.tv
 www.api.alphonso.tv
+www.artistanbul.tv
 www.asianmilf.tv
 www.asianrape.tv
 www.ateentube.tv
@@ -1194,8 +1201,10 @@ www.camwithher.tv
 www.camworld.tv
 www.cartoonporn.tv
 www.cdn.ispot.tv
+www.cdn.teads.tv
 www.ceske-porno.tv
 www.cheatingwife.tv
+www.client-event-reporter.twitch.tv
 www.counter.sexsuche.tv
 www.defloration.tv
 www.desipapa.tv
@@ -1234,6 +1243,7 @@ www.heredrunkgirls.tv
 www.herehard.tv
 www.herehardcore.tv
 www.heretits.tv
+www.hit.dogannet.tv
 www.homeporn.tv
 www.hotgo.tv
 www.hotscope.tv
@@ -1252,6 +1262,7 @@ www.in-starlive.videoplaza.tv
 www.in-viacom18.videoplaza.tv
 www.ispot.ispot.tv
 www.ispot.tv
+www.istatistik.skorer.tv
 www.iwank.tv
 www.jamo.tv
 www.japanesebeauties.tv
@@ -1318,6 +1329,7 @@ www.rampant.tv
 www.rapeporn.tv
 www.rapesex.tv
 www.rapetube.tv
+www.s.dogannet.tv
 www.scambiobanner.tv
 www.secretmatures.tv
 www.server.extend.tv
@@ -1343,8 +1355,11 @@ www.staging.analytics.ispot.tv
 www.staging.om.api.ispot.tv
 www.stingpictures.tv
 www.streamxxx.tv
+www.supermesaj.tv
 www.sweetangel.tv
+www.sync.teads.tv
 www.syndicaster.tv
+www.tanisma.supermesaj.tv
 www.teen-sex.tv
 www.teen-tube.tv
 www.teenhomesex.com_www.ispot.tv
@@ -1367,11 +1382,13 @@ www.usporn.tv
 www.videosgratis.tv
 www.videosporno.tv
 www.videowood.tv
+www.vidlox.tv
 www.virgin-tv.tv
 www.virginz.tv
 www.voyeurvideos.tv
 www.vporno.tv
 www.vuble.tv
+www.watchmygirlfriend.tv
 www.wav.tv
 www.webcamvideo.tv
 www.webmodels.tv

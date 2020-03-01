@@ -10,4 +10,5 @@ log.cnt.re
 ophtalmologie.re
 origine.re
 push.notifica.re
+www.adsco.re
 yande.re

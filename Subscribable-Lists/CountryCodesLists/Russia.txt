@@ -546,6 +546,7 @@ adastra-ars.ru
 adbn.ru
 adbnr.ru
 adbomb.ru
+adbooks.ru
 adcamp.ru
 adcast.ru
 adclick.ru
@@ -661,6 +662,7 @@ adv.vz.ru
 adv.zapal.ru
 adv758968.ru
 advaction.ru
+advast.sibnet.ru
 advert.e-se.ru
 advert.exaccess.ru
 advert.rare.ru
@@ -1178,6 +1180,7 @@ atmagroup.ru
 atmape.ru
 atmtest.ezar.ru
 atomferma.ru
+atomictrivia.ru
 atotum.ru
 atrag.ru
 atremont.ru
@@ -1838,6 +1841,7 @@ br-seguranca144.1gb.ru
 bradiza.1gb.ru
 brand-obuv.ru
 brandarium.ru
+brandeurs.ru
 brandmed.ru
 brandov.ru
 brandtmitrofan.ru
@@ -2767,6 +2771,7 @@ cxt38.ru
 cy41058.tmweb.ru
 cybertown.ru
 cymy.ru
+czerwo.ru
 cznshuya.ivnet.ru
 d.mobilebanner.ru
 d.tds.adlabs.ru
@@ -3631,9 +3636,11 @@ etranutha.ru
 ets-2-mod.ru
 etteddidnrombet.ru
 ettyesmaholli.ru
+eturkey.ru
 etydwhvn.ru
 etz.clona.ru
 etzbnfuigipwvs.ru
+eu.xxxfilm-5.ru
 euginewallie.ru
 euphemiababbette.ru
 euphemiabreena.ru
@@ -5125,6 +5132,7 @@ ilysalindsay.ru
 ilzuricdhetrad.ru
 images.leon.ru
 images.rambler.ru
+images.turkeyvisit.ru
 imamby.ru
 imamnhearte.hotmail.ru
 imarker.ru
@@ -5135,6 +5143,7 @@ img.parked.ru
 img.readme.ru
 imgd.ru
 imggi.ru
+imho2.ru
 imhvlhaelvvbrq.ru
 imitex-plus.ru
 immeria.kupivoice.ru
@@ -5349,6 +5358,7 @@ ixvenhgwukn.ru
 izamorfix.ru
 izhkomstroy.ru
 izhstrelok.ru
+izmiran.nw.ru
 iznalik.ru
 izoll.ru
 izumrud-luxury.ru
@@ -5792,6 +5802,8 @@ kisakuku.ru
 kiss9.ru
 kit-opt.ru
 kitanoo967.fvds.ru
+kitap.brandeurs.ru
+kitaplar.rukomos.ru
 kj5s.ru
 kjdfhg234d.ru
 kjg.myjino.ru
@@ -6582,6 +6594,7 @@ martinbennet.ru
 maryanovskaya.ru
 marybethcollete.ru
 maseore.ru
+mashinnaya-shtukaturka.ru
 master-muznachas.ru
 master.minerxmr.ru
 masterconvert.ru
@@ -6626,6 +6639,7 @@ mbiologi.ru
 mbordyugovskiy.ru
 mc-med.ru
 mc-sermis.ru
+mc.admetrica.ru
 mc.clona.ru
 mc.webvisor.ru
 mc.yandex.ru
@@ -9004,6 +9018,7 @@ rubebi.ru
 rublevservice.ru
 ruinfocomp.ru
 rujascur.ru
+rukomos.ru
 rulate.ru
 rulebraker.ru
 ruler.autoserv.ru
@@ -9456,6 +9471,7 @@ sibecoprom.ru
 sibellemarthe.ru
 sibgigant-promo.ru
 sibkukla.ru
+sibtel.adriver.ru
 sibtest.ru
 sibvitr.ru
 sicronkx.bget.ru
@@ -10162,6 +10178,7 @@ systemservice.ru
 szcarsce.myjino.ru
 szp-td.ru
 t-machinery.ru
+t.actionteaser.ru
 t.mediacartel.ru
 t.pusk.ru
 ta20w32e7u.ru
@@ -10581,6 +10598,7 @@ track.recreativ.ru
 track.revolvermarketing.ru
 track.rtb-media.ru
 track.seorate.ru
+track.smarttraf.ru
 track.yourmedicalpurchase.ru
 tracker.tiu.ru
 tracker24-gps.ru
@@ -10798,6 +10816,7 @@ uchebavchehii.ru
 uchimpro.ru
 uchitel.social-host.ru
 ucoz.ru
+ucretsizsesli-kitaplar.ru
 ucsol.ru
 udpokupka.ru
 udqgbokvzbnqkf.ru
@@ -10965,6 +10984,7 @@ v-pise.ru
 v-production.ru
 v-tveri.ru
 v-vc.ru
+v.actionteaser.ru
 v.inigsplan.ru
 v.tranzistor-harakteristiki.ru
 v1.eakalra.ru
@@ -11352,6 +11372,7 @@ web-rom.ru
 web-station.ru
 web.flymining.ru
 web.linkexchange.ru
+web.redhelper.ru
 webagent.mail.ru
 webalan.ru
 webalta.ru
@@ -11550,9 +11571,14 @@ www.2.u0135364.z8.ru
 www.24complex.ru
 www.2miners.ru
 www.ad-words.ru
+www.adbooks.ru
+www.adfox.ru
+www.admitlead.ru
 www.adobeupdater.mcdir.ru
+www.adsniper.ru
 www.adtraff.ru
 www.adultphotosets.ru
+www.advast.sibnet.ru
 www.adylalahb.ru
 www.afdjljiyagf.ru
 www.ai-ai.ru
@@ -11568,6 +11594,7 @@ www.aslanova.ru
 www.asu.msmu.ru
 www.asvoxod.ru
 www.ateliestudia.ru
+www.atomictrivia.ru
 www.atotum.ru
 www.avant-yug.ru
 www.aymcsx.ru
@@ -11584,21 +11611,26 @@ www.bitcoin-russia.ru
 www.black-hosting.ru
 www.bmnadutub.ru
 www.boxbomba.nichost.ru
+www.brandeurs.ru
 www.bride.ru
 www.btc.mcdir.ru
+www.bubblesmedia.ru
 www.business.lbn.ru
 www.buyskype.ru
 www.changeexchange2.ru
 www.chervinsky.ru
 www.cityads.ru
 www.clean.vanzherke.ru
+www.click.sender.yandex.ru
 www.clokin1.ru
 www.clona.ru
 www.coandroid.ru
 www.commercialclientsgroup.ru
 www.conds.ru
 www.constel.ru
+www.counter.yadro.ru
 www.ctlrnwbv.ru
+www.czerwo.ru
 www.datamind.ru
 www.demo2.arkan.ru
 www.depilation38.ru
@@ -11619,7 +11651,9 @@ www.eroyear.ru
 www.et-code.ru
 www.etc.clona.ru
 www.etlrsq.ru
+www.eturkey.ru
 www.etzbnfuigipwvs.ru
+www.eu.xxxfilm-5.ru
 www.eurolinecars.ru
 www.exp.clona.ru
 www.extazshop.ru
@@ -11660,6 +11694,8 @@ www.hotlog.ru
 www.hrfziiddxa.ru
 www.igdxzzeglrlqm.ru
 www.ihdvilappuxpgiv.ru
+www.images.turkeyvisit.ru
+www.imho2.ru
 www.imhvlhaelvvbrq.ru
 www.ingpk.ru
 www.interia-ek.ru
@@ -11667,6 +11703,7 @@ www.iplogger.ru
 www.irrrymucwxjl.ru
 www.ivuovhsn.ru
 www.ixvenhgwukn.ru
+www.izmiran.nw.ru
 www.japveny.ru
 www.jhfdmiwcgnty.ru
 www.jqxrrygqnagn.ru
@@ -11679,6 +11716,8 @@ www.kabantseva.ru
 www.kdmkauchahynhrs.ru
 www.kinomarathon.ru
 www.kirpich-servis16.ru
+www.kitap.brandeurs.ru
+www.kitaplar.rukomos.ru
 www.kladoffka.ru
 www.kmindex.ru
 www.kniga.tora.ru
@@ -11700,8 +11739,11 @@ www.lovecouple.ru
 www.lovetrust.ru
 www.ltstyov.ru
 www.machankin.ru
+www.mashinnaya-shtukaturka.ru
 www.maw.ru
 www.mbsou37.ru
+www.mc.admetrica.ru
+www.mc.yandex.ru
 www.mebel2010.ru
 www.minero.ru
 www.minerxmr.ru
@@ -11753,6 +11795,7 @@ www.rm-synera.ru
 www.rowherthat.ru
 www.rozoviykrolik.ru
 www.rt-ns.ru
+www.rukomos.ru
 www.rustrax.ru
 www.s-info.ru
 www.samsclub33.pochta.ru
@@ -11762,6 +11805,7 @@ www.sexcall.ru
 www.sextalk.ru
 www.sexytales.ru
 www.sexytiger.ru
+www.sibtel.adriver.ru
 www.sierracontrol.ru
 www.skypesex.ru
 www.smartlog.ru
@@ -11785,6 +11829,8 @@ www.sverch.ru
 www.svivqrhrh.ru
 www.sync.pool.datamind.ru
 www.syncsw.pool.datamind.ru
+www.t.actionteaser.ru
+www.takyake.ru
 www.terethat.ru
 www.test.it-enigma.ru
 www.tgtvbngp.ru
@@ -11793,13 +11839,17 @@ www.theplace.ru
 www.theplace2.ru
 www.tinka.ru
 www.tns-counter.ru
+www.top-fwz1.mail.ru
 www.toptracker.ru
+www.track.smarttraf.ru
 www.traffic.ru
 www.tvoisex.ru
+www.ucretsizsesli-kitaplar.ru
 www.udqgbokvzbnqkf.ru
 www.ulnawoyyzbljc.ru
 www.uoldid.ru
 www.urod.ru
+www.v.actionteaser.ru
 www.video69.ru
 www.videostan.ru
 www.vippotexa.ru
@@ -11812,6 +11862,7 @@ www.vuryua.ru
 www.vzzexalcirfgrf.ru
 www.wasm24.ru
 www.web.flymining.ru
+www.web.redhelper.ru
 www.webbet.ru
 www.wildianing.ru
 www.wkkjfcgjofbix.ru
@@ -11824,6 +11875,7 @@ www.xbn.ru
 www.xolod-teplo.ru
 www.xssrmimmnq.ru
 www.xuk.ru
+www.xxxfilm-5.ru
 www.yasnogorie.tora.ru
 www.ybjfsqcevow.ru
 www.yoaabgvkm.ru
@@ -11908,6 +11960,7 @@ xxuhter.ru
 xxx-treker.ru
 xxx.epidem.ru
 xxxcucbku.ru
+xxxfilm-5.ru
 xxxnatelefon.ru
 xxxporno18.ru
 xxxxws9896.myjino.ru

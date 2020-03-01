@@ -4,8 +4,8 @@
 ____________________________________
 # 
 ### Finding The most recently modified Parsing Script File.
-* The Most Recently Updated Parsing Script is 20-Removing-Comments.sh
+* The Most Recently Updated Parsing Script is foldervars.sh
 ### Checking For Time Anchor File.
-Time Anchor Not Present. Using 20-Removing-Comments.sh Modified Time.
+Time Anchor Not Present. Using foldervars.sh Modified Time.
 ### Comparing Time.
 Parsing Method Has Not Changed.
