@@ -23,7 +23,6 @@ angola.paks.pk
 aol.anima.pk
 apl.com.pk
 apnitube.pk
-artnstyle.com.pk
 asaasa.pk
 asg.com.pk
 asjayz.pk
@@ -154,7 +153,6 @@ metron.com.pk
 microcon.pk
 mirovayatech.pk
 mlrealty.pk
-monser.pol.com.pk
 moonberry.pk
 moonestate.pk
 motormatic.pk

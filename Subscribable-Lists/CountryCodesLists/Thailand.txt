@@ -8,7 +8,6 @@ ads.mweb.co.th
 ads.os.co.th
 ads2.mweb.co.th
 ads3.bangkokpost.co.th
-adx.arip.co.th
 aes.co.th
 aiccard.co.th
 alumni.bu.ac.th
@@ -17,7 +16,6 @@ assess.vet.cmu.ac.th
 atdi.in.th
 bch.in.th
 beautycommunity.co.th
-bigc.co.th
 building.msu.ac.th
 byteark-analytics.thairath.co.th
 cgh.co.th
@@ -35,7 +33,6 @@ edu.tsu.ac.th
 enagic.co.th
 framehouse.in.th
 gdap.crma.ac.th
-girls.in.th
 gloriajeanscoffees.co.th
 golden.pmk.ac.th
 greatwall.co.th
@@ -68,7 +65,6 @@ loei.drr.go.th
 lvmhgroup.co.th
 lvs.truehits.in.th
 maewang.lpc.rmutl.ac.th
-mail.nsa.co.th
 mansolution.in.th
 mds.nipa.co.th
 mice.co.th

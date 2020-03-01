@@ -1,5 +1,4 @@
 accounts-update-requested.zxc.pm
-bukkake.pm
 com-career.pm
 com-consumer.pm
 com-earning.pm

@@ -1,7 +1,5 @@
 17so.so
 685.so
-a.rdb.so
-a.solarmovie.so
 ad.spielothek.so
 asd.projectfreetv.so
 asd2.projectfreetv.so

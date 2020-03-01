@@ -144,7 +144,6 @@ fuse.pool.mn
 fwcc.pool.mn
 gac.mn
 gam.mn
-gambling.mn
 ganabell.mn
 gas.mn
 gbc.pool.mn

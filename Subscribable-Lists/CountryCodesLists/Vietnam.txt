@@ -9,19 +9,15 @@ ad.ants.vn
 ad.mwork.vn
 ad.org.vn
 ad.zing.vn
-ad360.vn
 adfox.vn
 adi.admicro.vn
 admail.admicro.vn
 admarket.admicro.vn
 admatic.admicro.vn
-admicro.vn
 admicro1.vcmedia.vn
 admicro2.vcmedia.vn
 admicro6.vcmedia.vn
-adnet.vn
 adnetwork.admicro.vn
-adnetwork.net.vn
 adnetwork.vn
 adpia.vn
 ads.ants.vn
@@ -47,7 +43,6 @@ alivar.com.vn
 allone.vn
 aloshop.vn
 alosoft.vn
-ambientplatform.vn
 amobi.vn
 amyfashion.com.vn
 analytics.adnetwork.vn
@@ -61,12 +56,10 @@ anlacviettravel.com.vn
 anphugia.com.vn
 ant-icons.vn
 anthill.vn
-ants.vn
 api.adtimaserver.vn
 api.nas.nct.vn
 api.sdk.zadn.vn
 apinas.nct.vn
-at.hayhaytv.vn
 atrack-a.anthill.vn
 auto.vinaweb.vn
 babe.ants.vn
@@ -85,7 +78,6 @@ beautrition.vn
 beautyhairvietnam.com.vn
 beautyzone.vn
 benxethainguyen.vn
-bepgacongnghiep.com.vn
 bestcomputer.vn
 bigsky.com.vn
 bkns.vn
@@ -153,7 +145,6 @@ duanicidcomplex.vn
 duannhatrangpearl.com.vn
 duanparkriverside.vn
 ducdat.vn
-duhoc.ama.edu.vn
 duhocanh.pro.vn
 duhocseikoo.edu.vn
 duhocvietdu.com.vn
@@ -266,7 +257,6 @@ log.giaoduc.net.vn
 log.kienthuc.net.vn
 log.news.zing.vn
 log.oto.com.vn
-log.popnet.vn
 log.sdk.zadn.vn
 log.sggp.org.vn
 log.thanhnien.vn
@@ -324,7 +314,6 @@ monqua.vn
 muavere.com.vn
 namviethn.edu.vn
 namyen.vn
-nancy.vn
 nangmuislinedep.com.vn
 nbc.com.vn
 nchdanang.com.vn
@@ -422,7 +411,6 @@ smarthome.quangcaosangtao.vn
 smarttrain.edu.vn
 smshanoi.edu.vn
 sohasdk.sohacorp.vn
-songhuong.com.vn
 songnam.vn
 spell.itim.vn
 spicesvietnam.vn
@@ -509,7 +497,6 @@ vhvn.vn
 videc.vn
 vieclamsaigon.vn
 vienspkt.hcmute.edu.vn
-vietad.vn
 vietmarkltd.vn
 vietnamnetad.vn
 vietviewwindows.vn

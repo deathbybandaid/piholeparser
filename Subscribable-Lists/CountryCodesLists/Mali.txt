@@ -129,7 +129,6 @@ acesso-bb.ml
 acesso.pfpersonalite.ml
 acvila.ml
 addhun.ml
-additionalheavens.ml
 adobcloud.ml
 agenciaonline.ml
 airbnb.co.uk-rooms.ml
@@ -204,7 +203,6 @@ blue-income.ml
 bmcm.ml
 bnm.ml
 bollingoes.ml
-bondage.ml
 boomcoins.ml
 brasil.mo-bi.ml
 btcbozdurma.ml
@@ -237,7 +235,6 @@ cleint.ml
 clientes-app.ml
 closingchain.ml
 cloudon.ml
-collectorssad.ml
 colombiapictures.ml
 comforitgreel.ml
 comparesales.ml
@@ -256,7 +253,6 @@ cpaneadminpanel.ml
 creayepanels.ml
 creopt.ml
 cuentaruts.ml
-cumshotfrenzy.ml
 cunninghamcourtxa.ml
 currentpanel.ml
 customercare-paypalservice.tenaxtransamtion.ml
@@ -324,7 +320,6 @@ ff-gg.ml
 ffercyqxah.nyrhmajkcckbensqnrb.ml
 fhoc.ml
 filto.ml
-findlips.ml
 finixgroup.ml
 fishv.ml
 fjellsveien.ml
@@ -335,7 +330,6 @@ fotka10.ml
 frankinty.ml
 freeastuce.ml
 freebitcoin-bot.ml
-freenn.ml
 freeuploader.ml
 ftp.collabvm.ml
 fulnal.ml
@@ -391,7 +385,6 @@ indrashop-eu.ml
 information-required.ml
 informationhome.ml
 institutskastreet.ml
-intporn.ml
 itechzone.ml
 iverson55.ml
 iy2.ooeqys.ml
@@ -669,8 +662,6 @@ online-service-tax-return-arc.krunts.ml
 onlineassistance.ml
 onlinerx-smart365.ml
 onlineservices.wellsfargo.com.tld-client.ml
-oooxxx.ml
-openwindows.ml
 or-peetey-or.ml
 ormort.ml
 ostaz.ml
@@ -705,9 +696,6 @@ politicadeprivacidade.ml
 pontofrio.ofertasdodia.ml
 pool.ml
 poperjffd.ml
-pornofree.ml
-pornstar.ml
-pornvideo.ml
 portalbbonline.ml
 portalclientebb.ml
 powerplug.ml
@@ -829,7 +817,6 @@ servicepaypal93.ml
 servicepaypal95.ml
 servicepaypal99.ml
 servicespartners.ml
-sexdates.ml
 shiringnaeyf.ml
 sicher-sicherheitsvorbeugungs.ml
 sicher-vorkehrung-schutz.ml
@@ -843,7 +830,6 @@ sicredi-on.ml
 sicurezza-41321852158992158020.secureformi.ml
 sign-in-help.ml
 signin-ebay.ml
-simplicity-gaze.ml
 sittingonthemove.ml
 skymotors.ml
 slimcase.ml
@@ -892,7 +878,6 @@ transaktion-service-de.ml
 trietrre.ml
 tritonltd.ml
 troshjix.ml
-try-it.ml
 tubeqq.ml
 tweetr.ml
 tzseries.ml
@@ -907,7 +892,6 @@ upgradeserver.support-customer.ml
 ups.com.rkmcentere.ml
 usaa.com.allconditioner.ml
 usemycredit.ml
-usgirlv501.ml
 utube.ml
 uwhfdsndcjdn.ml
 valid-infosecure.ml
@@ -926,7 +910,6 @@ vpnethost.ml
 warning405.facebok-securtity.ml
 warrning-fanpa9e2.securittty4.ml
 was-saw.ml
-watchjav.ml
 web-117.ml
 webcom.ml
 weblexmex.ml
@@ -937,7 +920,6 @@ weed-forums.ml
 welcome-store.ml
 wellmark.ml
 wells.reverifi-ca-tio-n.ml
-wettingvideo.ml
 wgwoks.ml
 windowsupdatefree.ml
 wohkamkiyakaregi12.ml

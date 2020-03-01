@@ -9496,7 +9496,7 @@ sec.hit.gemius.pl
 secimage.adtech.de
 secimage.adtech.fr
 secimage.adtech.us
-secret.ɢoogle.com
+secret.xn--oogle-wmc.com
 secretlanguage.co
 secserv.adtech.de
 secserv.adtech.fr
@@ -13030,7 +13030,6 @@ www.ttnet.yandex.com.tr
 www.tubgirl.me
 www.tubgirl.org
 www.turdgasm.com
-www.turkishạirlines.com
 www.turn.com
 www.tutop.com
 www.tuttosessogratis.org
@@ -13359,6 +13358,7 @@ xml.mediashakers.com
 xml.yepmedia.com
 xmlheads.com
 xn--lt-68s.com
+xn--oogle-wmc.com
 xoomer.alice.it
 xpantivirus.com
 xpcs.ads.yahoo.com
@@ -13496,4 +13496,3 @@ zyrtec.4.p2l.info
 zytpirwai.net
 zz.cqcounter.com
 zzzrtrcm2.com
-ɢoogle.com
