@@ -66,7 +66,7 @@ then
   echo "$git_repo_name Directory Cloning Now."
   git clone --quiet "$git_repo_url_b" "$git_local_repo_path"
   cp /etc/"$git_repo_name"/scripts/updaterun"$git_repo_name".sh /etc/updaterun"$git_repo_name".sh
-  (crontab -l ; echo "20 0 * * * bash /updaterun$git_repo_name.sh") | crontab -
+  (crontab -l ; echo "20 0 * * * bash /etc/updaterun$git_repo_name.sh") | crontab -
 else
   exit
 fi
