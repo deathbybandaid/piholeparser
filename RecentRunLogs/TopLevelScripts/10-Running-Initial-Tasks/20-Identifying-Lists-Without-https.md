@@ -8,12 +8,12 @@ ____________________________________
 
 ___________________________________________________________________
 ### Lists That Do NOT use https.
-* Spam-Assassin-Bill-Stearns
 * Adblock-Filters-by-Gurudee
 * BLOGRAM-Analysis-Block-Filter-List-for-Japan
 * BLOGRAM-Basic-Filter-List-for-Japan
 * Finnish-AntiSocial
 * Malware-URLs-Domains
+* Spam-Assassin-Bill-Stearns
 
 ___________________________________________________________________
 ### TLD Lists That Do NOT use https.
