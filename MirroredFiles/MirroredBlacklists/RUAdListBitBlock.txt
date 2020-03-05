@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8PO2Y3I4WmUnCM+Vkd5Clw
-! Version: 202003040020
+! Checksum: sJ5gVSgQMPFdvlpx8CSI8Q
+! Version: 202003050020
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 04 Mar 2020 00:20 UTC
+! Last modified: 05 Mar 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -609,7 +609,7 @@ livemaster.ru##.js-item-toggle-share-menu
 nn.ru##.js-ngs-share-button
 drive2.ru##.js-page .offer .c-share__label
 ladyclub.org##.js-share-link
-gdespaces.com,spac.me,spac1.com,spac1.me,spaces.im,spcs.me,strip2.xxx##.js-share_buttons
+gdespaces.com,spac.me,spac1.com,spac1.me,spac1.net,spaces.im,spcs.me,strip2.xxx##.js-share_buttons
 cinema-24.tv##.kikadz
 km.ru##.km-shares
 glav.su#?#.l-c > div[style^="margin"] > table [class]:-abp-has(> [class] > .fb-page)
@@ -760,6 +760,7 @@ replyua.net##.share-blc
 myfin.by##.share-btn-big
 thealphacentauri.net##.share-container
 ru-an.info##.share-index
+zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz##.share-left-block__more
 livemaster.ru##.share-link-list *
 kino-fs.ucoz.net##.share-player
 36doors.ru##.share-right
@@ -2409,7 +2410,7 @@ epidemz.co##.centertext > #dle-content ~ div[style^="color"]
 cafe.imgradio.ru,chilla.imgradio.ru,deti.imgradio.ru,fresh.imgradio.ru,funk.imgradio.ru,radio.megaradio.pro,radio.ruhit.pro,retrohit.pro,rurock.imgradio.ru##.cevher
 linux-info.ru##.cfapps-welcome-bar
 cont.ws##.channels-feed-promo
-google.com##.chr-cookie-banner
+google.by,google.com,google.com.ua,google.kz,google.ru##.chr-cookie-banner
 obozrevatel.com##.chrome-app-promo
 citrus.ua##.citrus-message-button
 business-gazeta.ru##.city-select
@@ -2430,6 +2431,7 @@ kinoteatr.ru##.content_right_banner
 eg.ru,hashrating.com##.cookie
 xhamster.com##.cookie-announce
 video.khl.ru##.cookie-notice
+europaplus.ru##.cookie-notification
 cbr.ru##.cookie-warning
 delfi.lv##.cookie.notification-widget
 gismeteo.md##.cookienotify
@@ -3347,8 +3349,8 @@ vam.in.ua#@#.sig img
 4pda.ru,jquery.com,oxymoronical.com,scala-lang.org#@#.signature
 ecigtalk.ru#@#.signature img
 comunicart.ru#@#.soc-fb
-gdespaces.com,spac.me,spac1.com,spac1.me,spaces.im,spcs.me,strip2.xxx#@#.soc-link
-gdespaces.com,spac.me,spac1.com,spac1.me,spaces.im,spcs.me,strip2.xxx#@#.soc-links
+gdespaces.com,spac.me,spac1.com,spac1.me,spac1.net,spaces.im,spcs.me,strip2.xxx#@#.soc-link
+gdespaces.com,spac.me,spac1.com,spac1.me,spac1.net,spaces.im,spcs.me,strip2.xxx#@#.soc-links
 acomics.ru,appledevelopers.ru,citilink.ru,detector.media,dns-shop.ru,europaplus.ru,igromania.ru,liga.net,logitech.com,mts.ru,popmech.ru,popsci.com,rambler.ru,signin.ebay.com,tampermonkey.net,technopoint.ru#@#.social
 kai-gebel.com#@#.social-bar
 kai-gebel.com#@#.social-bar-bottom
