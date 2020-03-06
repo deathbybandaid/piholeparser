@@ -3,7 +3,7 @@
 ! License: https://github.com/yous/YousList#license
 ! Title: YousList
 ! Expires: 4 days
-! Version: 20200304
+! Version: 20200305
 
 ! General element hiding rules
 ##amp-ad
@@ -4492,6 +4492,7 @@ media.daum.net##div.aside_shopping
 media.daum.net##div.box_ad
 media.naver.com##div._da_banner
 media.naver.com##div.ad_box
+mediacategory.com##div#mobon_type01>div.main_box>ul.news_img>li.mark
 mediacategory.com##div#mobon_type01>div.main_txt_box>ul.news_img>li.mark
 mediafire.com##iframe#ads
 mediafire.com##iframe[src^="/templates/linkto/ads.php"]
@@ -5922,6 +5923,19 @@ wasabisyrup.com##div.top-group>div.content-group
 wasabisyrup.com##section#main>div.tracking
 washingtonpost.com##div.has-subscribe-promo
 washingtonpost.com##div[class*="-ad-"]
+watch.impress.co.jp##aside.ad.billboard
+watch.impress.co.jp##aside.ad.bottom
+watch.impress.co.jp##aside.ad.haikei
+watch.impress.co.jp##aside.ad.hybrid
+watch.impress.co.jp##aside.ad.middle.under
+watch.impress.co.jp##aside.ad.over-footer
+watch.impress.co.jp##aside.ad.r-premium
+watch.impress.co.jp##aside.ad.rect
+watch.impress.co.jp##aside.ad.text
+watch.impress.co.jp##aside.ad.top
+watch.impress.co.jp##div#ad-trace
+watch.impress.co.jp##div#ad-trace-placement
+watch.impress.co.jp##div.ad-inline
 watchcartoononline.com##body>div[style="position: absolute; top: 0px; left: 0px; z-index: 100; width: 100%; height: 768px; overflow: hidden; visibility: hidden;"]
 watchcartoononline.com##body>div[style="position: absolute; top: 0px; right: 0px; z-index: 100; width: 100%; height: 768px; overflow: hidden; visibility: hidden;"]
 watchcartoononline.com##body>div[style="position: fixed; top: 0px; left: 0px; z-index: 100; width: 100%; height: 768px; overflow: hidden; visibility: hidden;"]
