@@ -3222,6 +3222,7 @@ qwestbetdaylife.pl
 qwestclubbetday.pl
 qwestlinebetday.pl
 qwestnetbetday.pl
+r-trojmiasto.pl
 r.ranking.erotyka.zy.pl
 r.sex-toplista.zy.pl
 r.xyz1.pl
