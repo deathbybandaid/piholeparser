@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 11428
+! Version: 11433
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -3763,6 +3763,7 @@
 ||hpbsyqsypxy.com^
 ||hpcniufqp.bid^
 ||hpdmnmehzcor.com^
+||hpeshwdwkzyz.com^
 ||hpkkzzyek.com^
 ||hpkwirncwvxo.com^
 ||hplctrsd.com^
@@ -4511,6 +4512,7 @@
 ||jboovenoenkh.com^
 ||jbpsorexvuapf.com^
 ||jbpyqajzwbh.bid^
+||jbqeyfrli.com^
 ||jbqhnzmvh.com^
 ||jbqolazohwqesu.com^
 ||jbrpciuloi.com^
@@ -7318,6 +7320,7 @@
 ||ooecgdeq.com^
 ||oofophdrkjoh.com^
 ||oofpjjtc.com^
+||oojthlwtlu.com^
 ||ookdapjylpvq.com^
 ||ookiqhfioldxwj.com^
 ||oonenbygymsl.com^
@@ -8959,6 +8962,7 @@
 ||ryybhoklizmuew.com^
 ||ryzrdgdvg.bid^
 ||rzbbcjnrsbk.com^
+||rzbozucqgmostr.com^
 ||rzbsvyigbwip.com^
 ||rzddlsybql.com^
 ||rzdpobutiy.com^
@@ -10404,6 +10408,7 @@
 ||vjhjolgaz.com^
 ||vjltrbzrtqmkib.com^
 ||vjqshoyjxwk.com^
+||vjuvorqe.com^
 ||vjzcgotoy.com^
 ||vkbftstazhjgdx.com^
 ||vkhrnisuky.com^

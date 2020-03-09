@@ -1012,7 +1012,6 @@ cdn.shyapotato.us
 cdn.smartclick.io
 cdn.solimba.com
 cdn.sportdigi.com
-cdn.taboola.com
 cdn.teads.tv
 cdn.tuto4pc.com
 cdn.unityads.unity3d.com
@@ -1257,6 +1256,7 @@ dogitur.com.tr
 dogus-ads-cdn.dygdigital.com
 doksansekiz.com.tr
 dolohen.com
+domainparked.com
 doremido.com
 dorukmak.com.tr
 dosya-indirici.online
@@ -2747,7 +2747,6 @@ plvlp.lovechats.org
 pmelon.com
 pomada.org
 ponylo.freesite.host
-pool.ntp.org
 popads.net
 popcash.net
 popcent.net
@@ -2763,6 +2762,7 @@ poqujimev.ml
 poqujimev.tk
 pornohab.xyz
 portalciyiz.biz
+portbet.net
 postaffiliatepro.com
 power.vuer.net
 powerturk.rocks
@@ -3326,7 +3326,6 @@ t.tmdn2015x9.com
 t1.clipkit.com
 tabanway.com.tr
 taberei.services
-taboola.com
 tagon.co
 tags.rd.linksynergy.com
 tagsadvancenative-glb8iionio2cozc.netdna-ssl.com
@@ -3487,6 +3486,7 @@ turkwarez.com
 turn.com
 turngrind.com
 tursanmakine.com.tr
+tutusapp.com
 tweetlerim.gen.tr
 twilightturk.com
 tybukonaju.gq
@@ -3687,6 +3687,7 @@ world.news-tap.com
 wsrjplhhhfmfsx.com
 wtflife118.life
 wucadabe.tk
+ww1.domainparked.com
 ww3.smartadserver.com
 ww38.stickfight.com
 www-keycdn-info.cdn.ampproject.org
@@ -4704,7 +4705,6 @@ www.cdn.shyapotato.us
 www.cdn.smartclick.io
 www.cdn.solimba.com
 www.cdn.sportdigi.com
-www.cdn.taboola.com
 www.cdn.teads.tv
 www.cdn.tuto4pc.com
 www.cdn.unityads.unity3d.com
@@ -6455,6 +6455,7 @@ www.poqujimev.ml
 www.poqujimev.tk
 www.pornohab.xyz
 www.portalciyiz.biz
+www.portbet.net
 www.postaffiliatepro.com
 www.power.vuer.net
 www.powerturk.rocks
@@ -7018,7 +7019,6 @@ www.t.tmdn2015x9.com
 www.t1.clipkit.com
 www.tabanway.com.tr
 www.taberei.services
-www.taboola.com
 www.tagon.co
 www.tags.rd.linksynergy.com
 www.tagsadvancenative-glb8iionio2cozc.netdna-ssl.com
@@ -7179,6 +7179,7 @@ www.turkwarez.com
 www.turn.com
 www.turngrind.com
 www.tursanmakine.com.tr
+www.tutusapp.com
 www.tweetlerim.gen.tr
 www.twilightturk.com
 www.tybukonaju.gq

@@ -1,15 +1,15 @@
 # Title: ❤nurcan❤ Türk ad-list
 # Format: Hosts
-# Released: 14.02.2020
-# Entries: 7778
+# Released: 08.03.2020
+# Entries: 7779
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
 # License: https://raw.githubusercontent.com/xorcan/hosts/master/LICENSE
 
-# Copyright 2019 xorcan
-# Reklam bildirimi / iletişim: xorcan@yandex.com
-# Report an ad / contact: xorcan@yandex.com
+# Copyright 2020 xorcan
+# Reklam bildirimi / iletişim: xorcan@protonmail.com
+# Report an ad / contact: xorcan@protonmail.com
 
 127.0.0.1  localhost
 ::1  localhost
@@ -1032,7 +1032,6 @@
 127.0.0.1 cdn.smartclick.io
 127.0.0.1 cdn.solimba.com
 127.0.0.1 cdn.sportdigi.com
-127.0.0.1 cdn.taboola.com
 127.0.0.1 cdn.teads.tv
 127.0.0.1 cdn.tuto4pc.com
 127.0.0.1 cdn.unityads.unity3d.com
@@ -1277,6 +1276,7 @@
 127.0.0.1 dogus-ads-cdn.dygdigital.com
 127.0.0.1 doksansekiz.com.tr
 127.0.0.1 dolohen.com
+127.0.0.1 domainparked.com
 127.0.0.1 doremido.com
 127.0.0.1 dorukmak.com.tr
 127.0.0.1 dosya-indirici.online
@@ -2768,7 +2768,6 @@
 127.0.0.1 pmelon.com
 127.0.0.1 pomada.org
 127.0.0.1 ponylo.freesite.host
-127.0.0.1 pool.ntp.org
 127.0.0.1 popads.net
 127.0.0.1 popcash.net
 127.0.0.1 popcent.net
@@ -2784,6 +2783,7 @@
 127.0.0.1 poqujimev.tk
 127.0.0.1 pornohab.xyz
 127.0.0.1 portalciyiz.biz
+127.0.0.1 portbet.net
 127.0.0.1 postaffiliatepro.com
 127.0.0.1 power.vuer.net
 127.0.0.1 powerturk.rocks
@@ -3349,7 +3349,6 @@
 127.0.0.1 t1.clipkit.com
 127.0.0.1 tabanway.com.tr
 127.0.0.1 taberei.services
-127.0.0.1 taboola.com
 127.0.0.1 tagon.co
 127.0.0.1 tags.rd.linksynergy.com
 127.0.0.1 tagsadvancenative-glb8iionio2cozc.netdna-ssl.com
@@ -3510,6 +3509,7 @@
 127.0.0.1 turn.com
 127.0.0.1 turngrind.com
 127.0.0.1 tursanmakine.com.tr
+127.0.0.1 tutusapp.com
 127.0.0.1 tweetlerim.gen.tr
 127.0.0.1 twilightturk.com
 127.0.0.1 tybukonaju.gq
@@ -3711,6 +3711,7 @@
 127.0.0.1 wsrjplhhhfmfsx.com
 127.0.0.1 wtflife118.life
 127.0.0.1 wucadabe.tk
+127.0.0.1 ww1.domainparked.com
 127.0.0.1 ww3.smartadserver.com
 127.0.0.1 ww38.stickfight.com
 127.0.0.1 www-keycdn-info.cdn.ampproject.org
@@ -4731,7 +4732,6 @@
 127.0.0.1 www.cdn.smartclick.io
 127.0.0.1 www.cdn.solimba.com
 127.0.0.1 www.cdn.sportdigi.com
-127.0.0.1 www.cdn.taboola.com
 127.0.0.1 www.cdn.teads.tv
 127.0.0.1 www.cdn.tuto4pc.com
 127.0.0.1 www.cdn.unityads.unity3d.com
@@ -6483,6 +6483,7 @@
 127.0.0.1 www.poqujimev.tk
 127.0.0.1 www.pornohab.xyz
 127.0.0.1 www.portalciyiz.biz
+127.0.0.1 www.portbet.net
 127.0.0.1 www.postaffiliatepro.com
 127.0.0.1 www.power.vuer.net
 127.0.0.1 www.powerturk.rocks
@@ -7048,7 +7049,6 @@
 127.0.0.1 www.t1.clipkit.com
 127.0.0.1 www.tabanway.com.tr
 127.0.0.1 www.taberei.services
-127.0.0.1 www.taboola.com
 127.0.0.1 www.tagon.co
 127.0.0.1 www.tags.rd.linksynergy.com
 127.0.0.1 www.tagsadvancenative-glb8iionio2cozc.netdna-ssl.com
@@ -7209,6 +7209,7 @@
 127.0.0.1 www.turn.com
 127.0.0.1 www.turngrind.com
 127.0.0.1 www.tursanmakine.com.tr
+127.0.0.1 www.tutusapp.com
 127.0.0.1 www.tweetlerim.gen.tr
 127.0.0.1 www.twilightturk.com
 127.0.0.1 www.tybukonaju.gq
