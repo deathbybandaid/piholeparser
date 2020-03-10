@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ZbSm4KoyH6Tad0FRKPtTRg
-! Version: 202003090020
+! Checksum: FulVmCy2rA9K1tXs2tBjag
+! Version: 202003100020
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 09 Mar 2020 00:20 UTC
+! Last modified: 10 Mar 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -2613,6 +2613,7 @@ ozon.ru##.news_block
 seeyoupage.ru##.no_ampr
 gameru.net##.noad
 stopgame.ru##.notice-wrapper
+speedtest.net##.notification-container
 landrover.ru,landrover.ua##.notificationBars
 piluli.ru##.notiny
 obozrevatel.com##.oboz-instagram
@@ -2757,6 +2758,7 @@ fedpress.ru##.subscr_prompt_wrap
 chita.ru##.subscribe-form
 russian.rt.com##.subscribe-layout
 helpsetup.ru##.subscribe-me
+24tv.ua##.subscribe-revolver-wrap
 kp.ru##.subscribeWrapper
 expert.ru##.subscribe_banner_fixed
 teleprogramma.pro##.subscribe_button
