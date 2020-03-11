@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: FulVmCy2rA9K1tXs2tBjag
-! Version: 202003100020
+! Checksum: w0VzFiSiN0fOEx3QNwv4ZA
+! Version: 202003110030
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 10 Mar 2020 00:20 UTC
+! Last modified: 11 Mar 2020 00:30 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -2608,7 +2608,6 @@ vm.ru##.news-services
 motorpage.ru##.news-subscr
 finance.ua##.news-subscribe
 newsdozor.ru##.news.normaltext .bbc_img
-tsargrad.tv##.news__cta-subscribe
 ozon.ru##.news_block
 seeyoupage.ru##.no_ampr
 gameru.net##.noad
@@ -2677,6 +2676,7 @@ tsn.ua##.push-message
 onliner.by##.push-notification
 anews.com##.push-subscribe
 mk.ru##.push-suggest
+tsargrad.tv##.push-suggest__popup
 dtf.ru,tjournal.ru,vc.ru##.push_offer
 24tv.ua##.pwa-install-banner
 advetime.ru##.randomtext_widget
@@ -2973,6 +2973,7 @@ kp.ru##div[id^="MailSubscriptionPopup"]
 pickupforum.ru##div[id^="app-popup"]
 cyberforum.ru##div[id^="edit"][style="padding:0px 0px 3px 0px"] > table ~ div[style^="background-color"]
 ntv.ru##div[id^="flamur"]
+agrarii-razom.com.ua##div[id^="message-fb-popup"]
 network-lab.ru##div[id^="optincrusher"]
 kadets.info##div[id^="post_message_"] + div
 aeplug.ru##div[id^="quick_ads"]
@@ -5451,6 +5452,7 @@ _revotas_push.
 /mobilesharetools.
 /mod_socialmedialinks/*
 /mod_socialslider/*
+/modeles_facebook/*
 /mtsocialgroup_
 /myshare/*
 /myspace-32x32.
@@ -9317,6 +9319,7 @@ _youtube_social_
 ###social_footer
 ###social_googleplus
 ###social_head
+###social_home
 ###social_hook
 ###social_hub
 ###social_icon1
@@ -24675,6 +24678,7 @@ _backToTop.
 ##.widget-subscribe_widget
 ##.widget-type-blog_subscribe
 ##.widget__subscribe
+##.widget_abonews
 ##.widget_bb_mailchimp_custom_signup_widget
 ##.widget_better_mailchimp
 ##.widget_bs-newsletter-mailchimp
@@ -26044,6 +26048,7 @@ _backToTop.
 ||vhmengine.com^$third-party
 ||vicomi.com^$third-party
 ||vk.com/images/$third-party
+||volomedia.com^$third-party
 ||vuukle.com/platform.js$third-party
 ||wahwahnetworks.com^$third-party
 ||webseed.com/javascripts/messagebar.js

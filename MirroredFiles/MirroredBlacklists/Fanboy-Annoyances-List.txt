@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: K/RQwDw5OyMsmBNUHJZ2qQ
-! Version: 202003100012
+! Checksum: +W0cNKtL+FaOzLXPYPwSCQ
+! Version: 202003110021
 ! Title: Fanboy's Annoyance List
-! Last modified: 10 Mar 2020 00:12 UTC
+! Last modified: 11 Mar 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2310,6 +2310,7 @@ _revotas_push.
 /mobilesharetools.
 /mod_socialmedialinks/*
 /mod_socialslider/*
+/modeles_facebook/*
 /mtsocialgroup_
 /myshare/*
 /myspace-32x32.
@@ -7031,6 +7032,7 @@ _site_cookie_
 ##.widget-subscribe_widget
 ##.widget-type-blog_subscribe
 ##.widget__subscribe
+##.widget_abonews
 ##.widget_bb_mailchimp_custom_signup_widget
 ##.widget_better_mailchimp
 ##.widget_bs-newsletter-mailchimp
@@ -10479,6 +10481,7 @@ _site_cookie_
 ###social_footer
 ###social_googleplus
 ###social_head
+###social_home
 ###social_hook
 ###social_hub
 ###social_icon1
@@ -32778,6 +32781,7 @@ _site_cookie_
 ||vhmengine.com^$third-party
 ||vicomi.com^$third-party
 ||vk.com/images/$third-party
+||volomedia.com^$third-party
 ||vuukle.com/platform.js$third-party
 ||wahwahnetworks.com^$third-party
 ||webseed.com/javascripts/messagebar.js
@@ -42342,6 +42346,7 @@ gorreri.de###loggedbar
 literaturuebersetzer.de###mCCForm
 emax-haustechnik.de###mediameetsFacebookPixel--notification
 funpot.net###message
+winfuture.de###message_id
 blauarbeit.de###messages-container
 meinvorsorgemanagement.de###mhp-cl
 wabeco-remscheid.de###myModal
@@ -44678,7 +44683,7 @@ unicode.org#@#div[data-nconvert-cookie]
 @@||consensu.org/gdpr/$script,domain=mentalfloss.com
 @@||consent-pref.trustarc.com^$subdocument
 @@||consent.cmp.oath.com^$script,domain=cyclingnews.com|express.co.uk
-@@||consent.cookiebot.com^$script,domain=refinery29.com|sportdiver.com|warscrap.io
+@@||consent.cookiebot.com^$script,domain=digitaltrends.com|refinery29.com|sportdiver.com|warscrap.io
 @@||consent.trustarc.com/asset/$script
 @@||consent.trustarc.com^$image
 @@||consent.truste.com/notice$script
