@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 11433
+! Version: 11438
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -3040,6 +3040,7 @@
 ||gbtoxwxmahhctv.com^
 ||gbwgrhjjwz.com^
 ||gbwhqbiiq.com^
+||gbwieawjiylgx.com^
 ||gbwnpchivh.com^
 ||gbwrjyntqsvr.com^
 ||gbwzrcymfmvym.bid^
@@ -7707,6 +7708,7 @@
 ||pkzfmxjlkcxkub.com^
 ||plbfuyckzn.com^
 ||plcsedkinoul.com^
+||pldsafpulgnw.com^
 ||plgalhmhkhzy.com^
 ||plgdhrvzsvxp.com^
 ||plgrrkpxnjrvac.com^
@@ -9053,6 +9055,7 @@
 ||seaoocyjpq.com^
 ||seaxhrqc.bid^
 ||sebdaadnodjt.com^
+||sebeagnjowtg.com^
 ||secfpgpqx.com^
 ||seclctpsih.com^
 ||seiqobwpbofg.com^
@@ -10762,6 +10765,7 @@
 ||wznupnxp.com^
 ||wzvlxncapmi.com^
 ||wzwetfprojnyx.com^
+||wzxdsgnqpnu.com^
 ||wzzrquhn.com^
 ||xafkdsxnwinmj.com^
 ||xahwybxa.com^
@@ -10891,6 +10895,7 @@
 ||xpgcrmxejlgig.com^
 ||xpgfsxoyijt.com^
 ||xprurfeoarxz.com^
+||xptslcoedn.com^
 ||xpwppacpda.com^
 ||xpywzbxjwbxafv.com^
 ||xpyyrkwpcpwf.com^
