@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 2/KmF+Cj1cCb4diUoQwelQ
-! Version: 202003120021
+! Checksum: t5HTu5Dts+S/MFnooJmjyQ
+! Version: 202003130021
 ! Title: Fanboy's Annoyance List
-! Last modified: 12 Mar 2020 00:21 UTC
+! Last modified: 13 Mar 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -17757,6 +17757,7 @@ _site_cookie_
 ##.site-navigation__right-social
 ##.site-share-button
 ##.site-share-buttons-container
+##.site-share-placeholder
 ##.site-social
 ##.site-social-icon
 ##.site-social-menu
@@ -26883,6 +26884,7 @@ _site_cookie_
 ###tenantAcceptText
 ###terminosCookies
 ###termly-code-snippet-support-banner
+###termsAndPrivacyFloater
 ###termsContainer
 ###termsNotice
 ###terms_cookie_container
@@ -39676,6 +39678,7 @@ king.com###SiteMessages
 valleyvet.com###ToU_float
 postojnska-jama.eu###\5f iCD
 warnerbros.fr###_EAPM
+shadow.tech###__next > div[class^="styles__Container-"]
 mcsuk.org###a3prompt
 dictzone.com###ac
 globallogic.com###ac-wrapper
@@ -41202,7 +41205,6 @@ clarin.com##a[href^="/newsletters/"]
 ||videosynd.kataweb.it^$third-party
 ||vistosulweb.com^*/Newsletter.
 ||warnerbros.it^*/top.png
-||widgets.trustedshops.com^$third-party
 ||wp.com/www.proiezionidiborsa.it/*/google-news-
 !
 ! ---------- Italian Site Specific Hiding Rules ----------
@@ -44073,7 +44075,7 @@ sciencemag.org#@#.rssFeed
 space.com#@#.search-social
 nasa.gov#@#.section-social
 californiasunday.com,youtube.com#@#.share-bar
-upi.com#@#.share-block
+figshare.com,upi.com#@#.share-block
 speedtest.net#@#.share-body
 gala.fr#@#.share-bottom
 belgafiles.com,dakine.com,linkedin.com,way2sms.com#@#.share-box
@@ -44509,7 +44511,7 @@ postnl.nl,vandebron.nl#@#.cookiebar-container
 postnl.nl#@#.cookiebar-message
 cnvinternationaal.nl#@#.cookiebar:not(body):not(html)
 hardware.info#@#.cookiecontainer
-mymuesli.com#@#.cookies-consent
+mymuesli.com,zoom.earth#@#.cookies-consent
 amarujala.com#@#.cookies-container
 bankmillennium.pl#@#.cookies-info
 alko.fi#@#.cookies-open
