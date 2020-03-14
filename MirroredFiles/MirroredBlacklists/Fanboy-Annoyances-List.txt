@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: t5HTu5Dts+S/MFnooJmjyQ
-! Version: 202003130021
+! Checksum: GvbA7dPUb7BNvz0nJzhDdg
+! Version: 202003140021
 ! Title: Fanboy's Annoyance List
-! Last modified: 13 Mar 2020 00:21 UTC
+! Last modified: 14 Mar 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -5555,6 +5555,7 @@ _site_cookie_
 ###newsletter-form\ gigya-form-registration
 ###newsletter-front
 ###newsletter-header
+###newsletter-homepage-signup
 ###newsletter-inline
 ###newsletter-inline-widget
 ###newsletter-instant-register-form
@@ -5584,6 +5585,7 @@ _site_cookie_
 ###newsletter-side-widget
 ###newsletter-sidebar
 ###newsletter-sign-up
+###newsletter-sign-up-message
 ###newsletter-signUpWidget
 ###newsletter-signup
 ###newsletter-signup-box
@@ -6697,6 +6699,7 @@ _site_cookie_
 ##.newsmail-signup
 ##.newssignup
 ##.ng-newsletter
+##.NlInsert 
 ##.nl-newsletter_signup
 ##.nl-signup-scrollbox
 ##.nl-subscription-container
@@ -27458,6 +27461,7 @@ _site_cookie_
 ##.__gdprConfirmOverlay
 ##._cookie-banner
 ##._cookie-info
+##._cookies
 ##._cookies-cookies-bar
 ##._cookies_policy_popup
 ##._floating-banner[floating-banner-id="cookies"]
@@ -31600,6 +31604,7 @@ _site_cookie_
 ##.rts-cookies-warning-pannel
 ##.rts-module-cookies-message
 ##.rvl-Banner-cookieBanner
+##.rw-cookie-consent
 ##.rw-cookie-notification
 ##.rxtcookiedisclaimer__container
 ##.ry-cookie-permission
@@ -32916,6 +32921,7 @@ _site_cookie_
 ||push.daksham.in^$third-party
 ||push.esputnik.com^
 ||push.rent^$third-party
+||push.rollout.io^$third-party
 ||push.world^$third-party
 ||push4site.com^$third-party
 ||pushalert.co^$third-party
@@ -40373,6 +40379,7 @@ wizards.com##.wiz-block-sticky-inline
 theweathernetwork.com##.woahbar
 fubo.tv##.wrapper
 xvideos.com##.x-message
+dideo.ir##.youtube-terms-banner
 youtube.com##.yt-consent
 yahoo.com##.yucs-eprivacy
 pizzahut.co.uk##.z-600
@@ -43728,7 +43735,7 @@ ludopedia.com.br#@#.follow-text
 toutelanutrition.com#@#.footer-newsletter
 designdevostransports.fr#@#.gform_widget
 ixbt.com#@#.glyphicon-arrow-up
-novojornal.co.ao,upim.com#@#.newsletter-modal
+foreignaffairs.com,novojornal.co.ao,upim.com#@#.newsletter-modal
 billabong.com,strikerconcepts.com,tactxflashlights.com,urbanedcsupply.com#@#.newsletter-popup
 bidorbuy.co.za#@#.newsletterContainer
 thefork.it#@#.newsletterSignup

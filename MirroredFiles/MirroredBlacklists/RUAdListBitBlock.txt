@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: gpOZAFmbBlcfZ3qj5Y8cSA
-! Version: 202003130030
+! Checksum: QhBRnmFMMMwcnsw4LBFj9A
+! Version: 202003140020
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 13 Mar 2020 00:30 UTC
+! Last modified: 14 Mar 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -424,9 +424,11 @@ volodymyrets.city##.article-slider-img-gallery-social
 tvnet.lv##.articleTools
 segodnya.ua#?#.article__body > p:-abp-has(> [onclick*="promo_under_articles_telegram"])
 kherson.net.ua##.article__btn[data-soc]
+dnews.dn.ua#?#.article__comments:-abp-has(> #fb-root)
 gismeteo.ru##.article__ctrls
 1plus1.ua##.article__footer-social
 rbc.ru##.article__header__share-block
+dnews.dn.ua##.article__meta_bottom > .article__author + p
 time-to-read.ru##.article__social
 detstrana.ru##.article_image_share
 maanimo.com##.article_social_bar
@@ -977,6 +979,7 @@ rbcdaily.ru##.widget-fb-slave__inner
 obozrevatel.com##.widget-instagram
 it-tehnik.ru##.widget-soc
 ecology.md#?#.widget:-abp-has(#socialcarousel)
+gx.net.ua#?#.widget:-abp-has(> .tabs-list > .active > a:-abp-contains(Facebook))
 kubikus.top#?#.widget:-abp-has(> .ya-share2)
 russkiiyazyk.ru##.widget_custom_html
 ain.ua##.widget_like
@@ -1397,6 +1400,7 @@ _userbar_$image
 ##.gdprPopup
 ##.gpm-cookie-accepted
 ##.has-brand .b-tophead__subscribe-dropdown
+##.jnews-cookie-law-policy
 ##.js-cookie-bar
 ##.js-cookie-container
 ##.js-cookiemodal
@@ -2051,6 +2055,7 @@ bfm.ru###block-now
 iz.ru###block-ticker-page
 tvrain.ru###block_partner_material
 notfilm.ru###bot_panel
+freemake.com###bottombar
 polit.info###boxfade
 vgtimes.ru###bspromo
 rutube.ru###button-subscribe-block
@@ -3832,6 +3837,7 @@ _revotas_push.
 ||push.daksham.in^$third-party
 ||push.esputnik.com^
 ||push.rent^$third-party
+||push.rollout.io^$third-party
 ||push.world^$third-party
 ||push4site.com^$third-party
 ||pushalert.co^$third-party
@@ -23210,6 +23216,7 @@ _backToTop.
 ###newsletter-form\ gigya-form-registration
 ###newsletter-front
 ###newsletter-header
+###newsletter-homepage-signup
 ###newsletter-inline
 ###newsletter-inline-widget
 ###newsletter-instant-register-form
@@ -23239,6 +23246,7 @@ _backToTop.
 ###newsletter-side-widget
 ###newsletter-sidebar
 ###newsletter-sign-up
+###newsletter-sign-up-message
 ###newsletter-signUpWidget
 ###newsletter-signup
 ###newsletter-signup-box
@@ -23581,6 +23589,7 @@ _backToTop.
 ##.NewsletterSignupInset
 ##.NewsletterSubscription
 ##.Newsletter_container
+##.NlInsert
 ##.RailCtaNewsletterWrap
 ##.Sailthru_Subscribe
 ##.SignUpSlider
@@ -26162,7 +26171,7 @@ ludopedia.com.br#@#.follow-text
 toutelanutrition.com#@#.footer-newsletter
 designdevostransports.fr#@#.gform_widget
 ixbt.com#@#.glyphicon-arrow-up
-novojornal.co.ao,upim.com#@#.newsletter-modal
+foreignaffairs.com,novojornal.co.ao,upim.com#@#.newsletter-modal
 billabong.com,strikerconcepts.com,tactxflashlights.com,urbanedcsupply.com#@#.newsletter-popup
 bidorbuy.co.za#@#.newsletterContainer
 thefork.it#@#.newsletterSignup
