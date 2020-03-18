@@ -1,6 +1,7 @@
-# Title: ❤nurcan❤ Türk ad-list
+[Adblock Plus 2.0]
+# Title: nurcan Türk ad-list
 # Format: Hosts
-# Released: 08.03.2020
+# Released: 17.03.2020
 # Entries: 7779
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues

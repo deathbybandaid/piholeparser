@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 11442
+! Version: 11457
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -1069,6 +1069,7 @@
 ||ccemeoqbqb.com^
 ||ccmoxtwauruz.bid^
 ||ccpnzfts.com^
+||ccrkqqnxmnwlm.com^
 ||ccscpyeeiqhs.bid^
 ||ccvewygyjqbq.bid^
 ||ccyttdkwntyhx.com^
@@ -1228,6 +1229,7 @@
 ||ckydzwjzbgarz.bid^
 ||ckyxscaeockj.bid^
 ||cledghtdrjtb.com^
+||clfvfumqqok.com^
 ||clgyhwaoh.com^
 ||clhkbfqzwpst.com^
 ||clhqmynew.bid^
@@ -2821,6 +2823,7 @@
 ||frfgfhzxtfvsp.com^
 ||frfnlvnpzeju.com^
 ||frgbgwnbjkgco.com^
+||frhoobwj.com^
 ||frkohfqkpwvvq.com^
 ||frlzxwxictmg.com^
 ||frmavvtkhi.bid^
@@ -3651,6 +3654,7 @@
 ||hixpfhoon.com^
 ||hixuxtufzqcq.com^
 ||hiypucxjvfka.com^
+||hizvevxvi.com^
 ||hjagjopxzz.com^
 ||hjbfpopj.com^
 ||hjeoncuvklqh.com^
@@ -3931,6 +3935,7 @@
 ||hwvwuoxsosfp.com^
 ||hwyoikfrfdtjp.com^
 ||hxajxyvnpou.bid^
+||hxbvxmyldlt.com^
 ||hxcoxdyzzd.com^
 ||hxhabfjy.bid^
 ||hxhxjcffzp.com^
@@ -4296,6 +4301,7 @@
 ||iqiznxqn.com^
 ||iqjajyjbnaqieu.com^
 ||iqmjedevvojm.com^
+||iqnmjstd.com^
 ||iqoakacwvzrp.com^
 ||iqopeoufjul.com^
 ||iqpfextjfphjnn.com^
@@ -5195,6 +5201,7 @@
 ||kjzprdqjrhjz.com^
 ||kkawxvjeluwc.com^
 ||kkdvvaonvkmll.com^
+||kkkjjskrtsjvx.com^
 ||kklzztog.com^
 ||kknhirncxal.com^
 ||kknvwhcmqoet.com^
@@ -6074,6 +6081,7 @@
 ||mafndqbvdgkm.com^
 ||magufsvogh.com^
 ||magwfymjhils.com^
+||mahrzxsou.com^
 ||maidlytsnrn.com^
 ||mailhxubk.com^
 ||makhhvgdkhwn.com^
@@ -6388,6 +6396,7 @@
 ||mpoboqvqhjqv.com^
 ||mpudcfnsnpj.com^
 ||mpxxjdqpru.com^
+||mpyiiswvgxz.com^
 ||mqcnrhxdsbwr.com^
 ||mqdznyotsam.com^
 ||mqgvsxqc.com^
@@ -8210,6 +8219,7 @@
 ||qkpmdadu.com^
 ||qkpwdakgxynv.com^
 ||qksihowyv.com^
+||qkspafpgg.com^
 ||qkvklknzycrgo.com^
 ||qkwbygfsbfmj.com^
 ||qkxmnpxtr.com^
@@ -8514,6 +8524,7 @@
 ||ralyqgglrbgrd.bid^
 ||ranqpbnd.com^
 ||raossycpodtr.bid^
+||raqrhomcbhrzvl.com^
 ||raqucjjblu.com^
 ||raqueocznwden.bid^
 ||rascnezpxpe.com^
@@ -10877,6 +10888,7 @@
 ||xmvoodgr.com^
 ||xmwxurmgmly.com^
 ||xmylgmmt.com^
+||xnfdvmzb.com^
 ||xnfwhndl.com^
 ||xnhchuvtoqk.com^
 ||xnigsnplwbox.com^
@@ -11005,6 +11017,7 @@
 ||ychijnziuhvu.com^
 ||yckdywmihuabu.com^
 ||ycuuzufqwsk.com^
+||ycxtpbfcsl.com^
 ||yczdebjfskegsd.com^
 ||ydbsysbzp.com^
 ||ydfntydegmdbk.com^
@@ -11329,6 +11342,7 @@
 ||zlmbspplqvftur.com^
 ||zmasxytjskg.com^
 ||zmbuidget.com^
+||zmhwglwmi.com^
 ||zmkihizd.com^
 ||zmnhcswlu.com^
 ||zmoawpfsz.com^
@@ -11368,6 +11382,7 @@
 ||zqdvdygz.com^
 ||zqeqclcfdc.com^
 ||zqeskyeg.com^
+||zqiknimzmcoedq.com^
 ||zqmxzjrhchg.com^
 ||zqqyhcqf.com^
 ||zqseasmu.com^

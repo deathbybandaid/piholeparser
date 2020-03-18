@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QhBRnmFMMMwcnsw4LBFj9A
-! Version: 202003140020
+! Checksum: HXPN2mgECDJ9mHggdfvWVA
+! Version: 202003180030
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 14 Mar 2020 00:20 UTC
+! Last modified: 18 Mar 2020 00:30 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -560,6 +560,7 @@ fast-film.org,fast-film.ru,fast-torrent.club,fast-torrent.ru,fast-torrent.su,fas
 censor.net.ua##.fbsend
 wikia.com#?#.feed-item:-abp-has(> .feed-item__well > .feed-item__content > .is-social)
 www.bigmir.net##.fix310 > .stiky > .row.pb20
+vtrende72.ru##.fixedbut
 evtifeev.com##.fones
 myjane.ru##.footer-ok
 kurkul.com,oka.fm##.footer-soc
@@ -575,6 +576,7 @@ hi-tech.ua,koolinar.ru##.goodshare
 livemaster.ru##.grid-210
 thealphacentauri.net##.group.sidebar-top
 segodnya.ua##.h-social > *
+bigpuzzle.ru#?#.h4:-abp-contains(Наша группа ВКонтакте)
 mixednews.ru##.head-social
 argumentiru.com##.head_soc
 moika78.ru,nevasport.ru##.header-box__social
@@ -655,6 +657,7 @@ pingvin.pro##.menusocicons
 mega-track.org##.messageList > .tabs
 apparat.cc##.metaTable-inner
 minfin.com.ua##.mfz-social-footer-btns
+enovosty.com##.mo-openid-app-icons
 politexpert.net##.more_in_telegramm
 newseries.club##.mshare
 mastergrad.com##.msw-social
@@ -992,7 +995,6 @@ allya.ru##.wrap-socials_webnavoz
 motor.ru##.wrapper > .btn ~ .wrapper
 telegraf.com.ua##.wrapper-header__logo_nav_social
 comments.ua##.wrapper-social
-m24.ru##.ya-share2-static
 kinogo-720.net##.ya-share2__item > a
 ojin.tv##.ya-share2_inited
 kinoafisha.info,kinoafisha.msk.ru,kinoafisha.spb.ru##.yaShareWrapper
@@ -1040,7 +1042,7 @@ kommersant.ru##a[href][title="Поделиться"]
 youla.ru##a[href][title^="Поделиться"]
 rusnext.ru##a[href^="http://www.odnoklassniki.ru/group/"]
 livecars.ru,livesport.ru##a[href^="https://share.yandex.ru/"]
-agronews.ua,animedub.ru,apostrophe.ua,app2top.ru,book-audio.com,censor.net.ua,depo.ua,game2day.ru,glavred.info,govoritmoskva.ru,livesport.ws,lrepacks.ru,maanimo.com,mk.ru,myslo.ru,overclockers.ua,pravda.com.ua,privatfinance.com,rbc.ua,rusnext.ru,segodnya.ua,selezen.net,softportal.com,soundpark.best,sports.kz,uz.video##a[href^="https://t.me/"]
+agronews.ua,animedub.ru,apostrophe.ua,app2top.ru,book-audio.com,censor.net.ua,depo.ua,enovosty.com,game2day.ru,glavred.info,govoritmoskva.ru,livesport.ws,lrepacks.ru,maanimo.com,mk.ru,myslo.ru,overclockers.ua,pravda.com.ua,privatfinance.com,rbc.ua,rusnext.ru,segodnya.ua,selezen.net,softportal.com,soundpark.best,sports.kz,uz.video##a[href^="https://t.me/"]
 life.ru##a[href^="tg://msg_"]
 66.ru,myanianime.ru,tproger.ru##a[href^="tg://resolve"]
 toptracker.ru##a[onclick^="content_share"]
@@ -1732,7 +1734,7 @@ _userbar_$image
 ||puzyaka.ru/ub/
 ||qip.ru/images/sign/
 ||raptr.com/badge/
-||relap.io^$third-party,domain=~2mm.ru|~adme.ru|~allboxing.ru|~briefly.ru|~comedyportal.org|~drive2.com|~drive2.ru|~dynamo.kiev.ua|~euro-football.ru|~fitseven.ru|~fototips.ru|~inforeactor.ru|~inmyroom.ru|~izvestia.ru|~kulturologia.ru|~life.ru|~nevasport.ru|~newstube.ru|~peers.tv|~politexpert.net|~ria.ru|~tvrain.ru|~znak.com
+||relap.io^$third-party,domain=~2mm.ru|~adme.ru|~allboxing.ru|~briefly.ru|~drive2.com|~drive2.ru|~dynamo.kiev.ua|~euro-football.ru|~fitseven.ru|~inforeactor.ru|~inmyroom.ru|~izvestia.ru|~kulturologia.ru|~life.ru|~nevasport.ru|~newstube.ru|~politexpert.net|~ria.ru
 ||rolki.ru/project/ubars/
 ||rostovmama.ru/components/com_line/
 ||ruler.autoserv.ru^
@@ -2233,7 +2235,6 @@ good73.net###shoutbox
 xn--80acvefn6a4c.xn--p1ai,нашбийск.рф###sidebar > .theiaStickySidebar
 proroofer.ru#?##sidebar > .widget:-abp-has(> .textwidget > [target="popupwindow"])
 tapochek.net###sidebar1
-comedyportal.org###sidebar_r
 mediananny.com###sideroll
 wikipedia.org###siteNotice
 womanadvice.ru###slideInUp
@@ -2458,6 +2459,7 @@ soccer.ru##.disabled-block
 burdastyle.ru,cosmo.ru,esquire.ru,goodhouse.ru,popmech.ru##.disclame_block
 ichip.ru,lisa.ru,playboyrussia.com##.disclamer
 multiurok.ru##.discount
+2mm.ru##.discraimler
 anistar.org,anistar1.org,anistar10.org,anistar11.org,anistar12.org,anistar13.org,anistar2.org,anistar3.org,anistar4.org,anistar5.org,anistar6.org,anistar7.org,anistar8.org,anistar9.org,online-star.org,online-stars.org##.dle-popup-confirm
 anistar.org,anistar1.org,anistar10.org,anistar11.org,anistar12.org,anistar13.org,anistar2.org,anistar3.org,anistar4.org,anistar5.org,anistar6.org,anistar7.org,anistar8.org,anistar9.org,online-star.org,online-stars.org##.donat
 anitokyo.tv##.donate
@@ -3593,7 +3595,7 @@ prom.ua#@#img[alt="facebook"]
 /plugins/wp-notification-bars/*
 /push-notification.
 /push-notification/*
-/push-notifications.
+/push-notifications.$~stylesheet
 /push-notifications/*
 /push-sw.
 /push-worker-$script
@@ -3710,6 +3712,7 @@ _revotas_push.
 ##.e-push-notification-popup
 ##.et_push_notification
 ##.frizbit-prompt
+##.grv-dialog-host
 ##.hs-push
 ##.htpush-chrome-style-notification
 ##.insider-opt-in-notification
@@ -3786,6 +3789,7 @@ _revotas_push.
 ||cracataum.com^$third-party
 ||d2r1yp2w7bby2u.cloudfront.net^
 ||danorenius.com^$third-party
+||digitalpush.org^$third-party
 ||easyfeeed.com^$third-party
 ||edrone.me^$third-party
 ||farteniuson.com^$third-party
@@ -3798,6 +3802,7 @@ _revotas_push.
 ||getback.ch^$third-party
 ||getpushmonkey.com^$third-party
 ||getsupernova.com^$third-party
+||gravitec.net^$third-party
 ||heroesdom.com^$third-party
 ||hitplus.net^$third-party
 ||ichecknotifyfriends.info^$third-party
@@ -3810,6 +3815,7 @@ _revotas_push.
 ||master-push.com^$third-party
 ||master-push.net^$third-party
 ||moengage.com^$third-party
+||najva.com^$third-party
 ||nativesubscribe.pro^$third-party
 ||news2day.me^$third-party
 ||notifadz.com^$third-party
@@ -7253,6 +7259,7 @@ _youtube_social_
 ###be-social
 ###beesocial
 ###belowpost-like
+###biz-share
 ###bk_follow
 ###bk_share
 ###blgentrysocial
@@ -10740,6 +10747,9 @@ _youtube_social_
 ##.bio-share-bloc
 ##.bio-socials
 ##.bio-with-share
+##.bio__social
+##.biz-share
+##.biz-social_links
 ##.bk-dt-share
 ##.bk-profile-socialicons
 ##.bk-share-box-top
@@ -16239,6 +16249,7 @@ _youtube_social_
 ##.sharelinkedin
 ##.sharelinks
 ##.sharelist__item
+##.sharelist__items
 ##.sharelizers
 ##.sharelordhtml
 ##.sharembed
@@ -18131,6 +18142,7 @@ _youtube_social_
 ##.sp_social
 ##.sp_twitter
 ##.sparkling-social
+##.spcv_message-share-link
 ##.spe-share-wrap
 ##.spine-social-channels
 ##.sppre_message-share
@@ -20749,7 +20761,7 @@ tvp.info#@#.social-article
 dallascowboys.com,golem.de,patriots.com,prk24.pl,top.de#@#.social-bar
 funnyordie.com#@#.social-bar-container
 wat.tv#@#.social-block
-adgully.com,chillitorun.pl,ecoustics.com,flyertalk.com,galaxydata.ru,onovini.com,rta24.eu,stw24.pl,torrechannel.it,vonguru.fr,wahl-o-mat.de#@#.social-bottom
+adgully.com,chillitorun.pl,ecoustics.com,espansionetv.it,flyertalk.com,galaxydata.ru,onovini.com,rta24.eu,stw24.pl,torrechannel.it,vonguru.fr,wahl-o-mat.de#@#.social-bottom
 bitbucket.org,foodit.com,paypal.com,tvspielfilm.de#@#.social-box
 buzzerie.com,gog.com,poradnikprzedsiebiorcy.pl,udemy.com#@#.social-btn
 chess.com#@#.social-btns
@@ -21201,6 +21213,7 @@ fark.com,github.com,github.io,justwatch.com,marketplace.firefox.com,vvhp.net#@#i
 @@||fortawesome.github.io/Font-Awesome/$generichide,~third-party
 @@||forums.oculusvr.com/themes/oculus/design/$image
 @@||fptplay.net/static/img/share/$image
+@@||freemake.com/frm/images/youtube_to_mp3/youtube.jpg
 @@||freeonlineseo.org/theme/default/$image
 @@||freshdesk.de/themes/freshdesk/images/icons/social-$image
 @@||friendfeed.com/static/images/icons/$~third-party
@@ -21854,6 +21867,8 @@ fark.com,github.com,github.io,justwatch.com,marketplace.firefox.com,vvhp.net#@#i
 -email-newsletter-
 -footer-newsletter.
 -icon-newsletter.
+-iscrizione-newsletter-
+-iscrizione-newsletter.
 -newsletter-300x120.
 -newsletter-bg-
 -Newsletter-button.
@@ -23688,6 +23703,7 @@ _backToTop.
 ##.bottom_signup_newsletter
 ##.bottom_subscribe
 ##.box--newsletter
+##.box--social--newsletter
 ##.box-newsletter
 ##.box-newsletter-category
 ##.box-signupform
@@ -24109,6 +24125,8 @@ _backToTop.
 ##.newsletter--dark
 ##.newsletter--eil
 ##.newsletter--footer
+##.newsletter--initial
+##.newsletter--logged-out
 ##.newsletter-advertisement
 ##.newsletter-anon
 ##.newsletter-article
@@ -25970,6 +25988,7 @@ _backToTop.
 ||publisher.monster.com^$third-party
 ||punchtab.com^$third-party
 ||purch.com^$script,third-party
+||pushnotifications.click^$third-party
 ||qeryz.com^$third-party
 ||qrius.me^$third-party
 ||qualtrics.com^$third-party
@@ -26128,7 +26147,7 @@ _backToTop.
 ! *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_whitelist_general_hide.txt ***
 nasa.gov#@##BackToTop
 billabong.com#@##NewsletterSignup
-autotrader.com,brydge.com#@##back-to-top
+autotrader.com,brydge.com,liputan6.com#@##back-to-top
 engie.fr,nasa.gov#@##backToTop
 rmf24.pl#@##backTop
 nasa.gov#@##backtoTop
