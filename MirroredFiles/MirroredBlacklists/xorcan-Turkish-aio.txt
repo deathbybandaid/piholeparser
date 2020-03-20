@@ -1,8 +1,7 @@
-[Adblock Plus 2.0]
 # Title: nurcan Türk ad-list
 # Format: Hosts
-# Released: 17.03.2020
-# Entries: 7779
+# Released: 19.03.2020
+# Entries: 7781
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -438,6 +437,7 @@
 127.0.0.1 ajansyenimedya.com
 127.0.0.1 ajfziqehnwvz.com
 127.0.0.1 akarnakliye.com.tr
+127.0.0.1 akbet60.com
 127.0.0.1 akbilgicinsaat.net
 127.0.0.1 akdenizklima.com.tr
 127.0.0.1 akgullerinsaat.com.tr
@@ -3459,6 +3459,7 @@
 127.0.0.1 trbetmedia.com
 127.0.0.1 trecurlik.com
 127.0.0.1 trend-tech.net
+127.0.0.1 trendbet42.com
 127.0.0.1 trendfx11.com
 127.0.0.1 trendfx12.com
 127.0.0.1 trevorrevo.com
@@ -4138,6 +4139,7 @@
 127.0.0.1 www.ajansyenimedya.com
 127.0.0.1 www.ajfziqehnwvz.com
 127.0.0.1 www.akarnakliye.com.tr
+127.0.0.1 www.akbet60.com
 127.0.0.1 www.akbilgicinsaat.net
 127.0.0.1 www.akdenizklima.com.tr
 127.0.0.1 www.akgullerinsaat.com.tr
@@ -7159,6 +7161,7 @@
 127.0.0.1 www.trbetmedia.com
 127.0.0.1 www.trecurlik.com
 127.0.0.1 www.trend-tech.net
+127.0.0.1 www.trendbet42.com
 127.0.0.1 www.trendfx11.com
 127.0.0.1 www.trendfx12.com
 127.0.0.1 www.trevorrevo.com
