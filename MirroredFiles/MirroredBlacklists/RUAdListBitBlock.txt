@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: vzFubWD6qBwZkO5CbJn8ZA
-! Version: 202003200030
+! Checksum: 1tfWWzx90XJA7iB0DOx9gQ
+! Version: 202003210020
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 20 Mar 2020 00:30 UTC
+! Last modified: 21 Mar 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -811,6 +811,7 @@ vesti.ru##.slide_anons
 tnua.info##.slink
 stream.1tv.ru##.small-social-buttons
 kolobok.ua,tv.ua##.smedia
+academic.ru##.smm
 itc.ua##.sn
 rebenok.by##.sn-share-img-links
 itc.ua##.sn-widget
@@ -962,6 +963,7 @@ video.khl.ru##.vjs-cola_vote-control
 laradiofm.ru,waiset.su##.vk
 mysimpsons.ru##.vk-block
 gdzputina.ru##.vk-gr-container
+dovidka.biz.ua##.vk-group
 energyfm.ru##.vk-index
 gidonline-club.ru##.vk-link
 onlinemultfilmy.ru##.vk-mini
@@ -2006,6 +2008,7 @@ _userbar_$image
 ||uppod.ru/player/logo/
 ||ura.ru/jsb/
 ||v.obozrevatel.ua/*/?autoplay=true&mute=true
+||varlamov.ru^*&callback=*=$script,xmlhttprequest,domain=varlamov.ru
 ||vc.ru/static/special/yota-stratum/
 ||vesti.uz/wp-content/plugins/snow-flurry/
 ||video.gamer-info.com/*.mp4|
@@ -2241,6 +2244,8 @@ proroofer.ru#?##sidebar > .widget:-abp-has(> .textwidget > [target="popupwindow"
 tapochek.net###sidebar1
 mediananny.com###sideroll
 wikipedia.org###siteNotice
+dic.academic.ru,translate.academic.ru###skidki
+dic.academic.ru,translate.academic.ru###skidki_hint
 womanadvice.ru###slideInUp
 ilenta.com,moydrygpk.ru,ntr-24.ru###slidebox
 anime.anidub.life,online.anidub.com###slideout
@@ -3126,6 +3131,7 @@ e.mail.ru##.notify-stack_fixed > div[style]:not([class])
 auto.mail.ru##.p-horo-banner
 mail.ru,sportmail.ru##.ph-balloon
 e.mail.ru##.pm-octavius-widget
+e.mail.ru,octavius.mail.ru##.promo-block-letter
 auto.mail.ru##.promo_full
 news.mail.ru##.rb-floating
 health.mail.ru,news.mail.ru##.s-partners
@@ -7854,6 +7860,7 @@ _youtube_social_
 ###followTwitter
 ###followUs
 ###followUsBox
+###followUsButtons
 ###followUsContainerD
 ###followUsFooter
 ###followUsRight
@@ -10822,6 +10829,7 @@ _youtube_social_
 ##.block-socials
 ##.block-socialsharingblock
 ##.block-trinity-social
+##.block-umhs-share
 ##.blockSocial
 ##.blockSocialLink
 ##.block_240_socials
@@ -12429,6 +12437,7 @@ _youtube_social_
 ##.followUs-block-wrapper
 ##.followUs-mostread
 ##.followUsBox
+##.followUsButtons
 ##.followUsContainer
 ##.followUsDiv
 ##.followUsLinks
@@ -12569,6 +12578,7 @@ _youtube_social_
 ##.footer-share-bar-social-link
 ##.footer-share-button
 ##.footer-share-list
+##.footer-share-section
 ##.footer-shareButton
 ##.footer-sharer
 ##.footer-sharers
@@ -19361,6 +19371,7 @@ _youtube_social_
 ##.wrapper-fixed-social-buttons
 ##.wrapper-share
 ##.wrapper-share-social
+##.wrapper-social-share-bar
 ##.wrapper-sticky-gigya
 ##.wrapper-sticky-social
 ##.wrapperSocial
@@ -21056,7 +21067,7 @@ fark.com,github.com,github.io,justwatch.com,marketplace.firefox.com,vvhp.net#@#i
 @@||androidpolice.com/wp-content/*_facebook-$image
 @@||androidpolice.com/wp-content/themes/ap2/ap_resize/ap_resize.php?*_Twitter-$image
 @@||angvremya.ru/engine/classes/min/index.php?*/js/social-$stylesheet
-@@||apis.google.com/js/platform.js$domain=9gag.com|discogs.com|duolingo.com|febbit.com|id.logi.com|jakdojade.pl|moshi.com|olx.pl|olx.ro|passeidireto.com|sato.fi
+@@||apis.google.com/js/platform.js$domain=9gag.com|corrupt-a-file.net|discogs.com|duolingo.com|febbit.com|id.logi.com|jakdojade.pl|moshi.com|olx.pl|olx.ro|passeidireto.com|sato.fi
 @@||app.hrlab.de/assets/icons/$image,domain=app.hrlab.de
 @@||apple.com/kb/resources/images/i_facebook.png
 @@||apynews.pl/assets/ranking-facebook.jpg
@@ -21138,6 +21149,7 @@ fark.com,github.com,github.io,justwatch.com,marketplace.firefox.com,vvhp.net#@#i
 @@||comcastnets.net/thyme/img/button-login-twitter.png$domain=eonline.com
 @@||copdfoundation.org/Portals/_default/Skins/COPDF/images/social-1.jpg
 @@||corriereobjects.it^*/socialshare.js?$domain=video.corriere.it
+@@||corrupt-a-file.net/assets/images/icons/google-drive_$image,~third-party
 @@||cotrip.org/images/common/$image,~third-party
 @@||coursehero.com/min/?f=*/social_share_tracking.js$domain=coursehero.com
 @@||coveritlive.com/templates/coveritlive/images/twitter_$~third-party
@@ -21599,8 +21611,8 @@ fark.com,github.com,github.io,justwatch.com,marketplace.firefox.com,vvhp.net#@#i
 @@||vimeocdn.com/js_opt/share2_combined.min.js$domain=vimeo.com
 @@||vimeocdn.com^*/facebook.svg$domain=vimeo.com
 @@||visuals.feedly.com^*/resize?url=$image
-@@||vk.com/js/al/sharebox.js
-@@||vk.me/js/al/sharebox.js
+@@||vk.com^*/sharebox.js$domain=vk.com|vk.me
+@@||vk.me^*/sharebox.js$domain=vk.com|vk.me
 @@||vpobede.ru/assets/images/footer-social/$~third-party,xmlhttprequest
 @@||vpornoonlain.tv^*/share/$image,~third-party
 @@||wappalyzer.com/sites/default/files/icons/$image
@@ -22873,6 +22885,7 @@ _backToTop.
 ###taboola-below-article
 ###taboola-below-article-thumbnails
 ###taboola-below-article-thumbnails-2
+###taboola-below-article-thumbnails-new
 ###taboola-below-disco-board
 ###taboola-below-main-column
 ###taboola-below-main-column-mix
@@ -22894,6 +22907,7 @@ _backToTop.
 ###taboola-widget-wrapper
 ###taboolaSave
 ###taboola_wrapper
+##.classic-type-taboola-below-desktop
 ##.divider-taboola
 ##.js-taboola
 ##.m-article-taboola
@@ -23378,6 +23392,7 @@ _backToTop.
 ###newsletters-1-form
 ###newsletters-1-form-wrapper
 ###newsletters-2-form
+###newsletters-footer-content
 ###newsletters_inline
 ###newsletters_rdr
 ###newslettershow
@@ -23700,6 +23715,7 @@ _backToTop.
 ##.block-theweek-subscriptions
 ##.block-ti-lsg-cook-newsletters
 ##.block-trinity-newsletter
+##.block-umhs-emma-email
 ##.blockNewsletter
 ##.block_newsletter
 ##.block_valor_newsletter_front
@@ -24696,6 +24712,7 @@ _backToTop.
 ##.ui-newsletter-channel-sign-up
 ##.ui-newsticker-wrapper
 ##.uiLayer-newsletterLink
+##.umhs-emma-email-container
 ##.unit--newsletter
 ##.valor_newsletter_front
 ##.vc_newsletter_button
@@ -24895,6 +24912,7 @@ _backToTop.
 ##.follow-rss
 ##.followRSS
 ##.follow__rss
+##.follow_us_rss
 ##.fontawesome-rss
 ##.foo-rss
 ##.footer-rss
@@ -25543,6 +25561,7 @@ _backToTop.
 ##.scroll2top
 ##.scrollToTop
 ##.scrollToTopButton
+##.scrollToTopLink
 ##.scrollToTopText
 ##.scrollTo_top
 ##.scrollTop
@@ -26246,6 +26265,7 @@ reddit.com#@#img[alt="submit to reddit"]
 @@/nk-sub.min.js$script,~third-party
 @@/rutorrent/plugins/rss/*$image,~third-party
 @@/threejs/Particles.js$script,~third-party
+@@||abc.net.au^*/components/newsletter/
 @@||adfoc.us/*/interstitial.js$~third-party
 @@||agressor.com.ua/lib/js/totop/js/jquery.ui.totop.min.js$script
 @@||akamaized.net^*/scrolltop.js$script,domain=olx.ua
