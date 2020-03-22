@@ -57,6 +57,7 @@ service-paypal.com.verification.your.account.riktravel.ge
 skola-graali.ge
 sprintdental.ge
 stargroup.ge
+supergeorgia.ge
 swaps.ge
 swb.gol.ge
 tkgroup.ge

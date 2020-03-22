@@ -234,6 +234,7 @@ display.mybroadband.co.za
 dnas.co.za
 docs.update.nadlez.co.za
 document.pdf.kfunk.co.za
+documents-cloud-server7.co.za
 dotmusic.co.za
 dotsuremail.co.za
 dougyrscghana.co.za
@@ -366,7 +367,6 @@ hiswillfuneralhome.co.za
 hmzconstruction.co.za
 hollardmail.co.za
 homeandcarinsure.co.za
-homeservices.cybersecure.co.za
 honeybadgeradventures.co.za
 honeystays.co.za
 hoper.co.za
@@ -421,7 +421,6 @@ kafeenoverdose.co.za
 kainosmedicolegal.co.za
 kalkbayguesthouse.co.za
 kanimamboms.co.za
-kapensis.co.za
 karincoetzeewisk.co.za
 karinsfashion-accessories.co.za
 katebainevents.co.za
@@ -606,6 +605,7 @@ pjplumbing.co.za
 planestrains.co.za
 platinumheel.co.za
 polokwaneservices.co.za
+polyestermicrofibre.co.za
 poppy.co.za
 pp-issues.co.za
 premiumhospital.co.za
@@ -674,7 +674,6 @@ sardinerunpe.co.za
 sasc1.co.za
 sasinteriors.co.za
 saspo.org.za
-sassynails.co.za
 sasubs.co.za
 satravelnews.co.za
 savememoney.co.za
@@ -899,7 +898,6 @@ underworldconnections.co.za
 unicord.co.za
 uniqueairgroup.co.za
 upgradenew.co.za
-upstart.ru.ac.za
 upsuppliers.co.za
 urielheldcremations.co.za
 usaa.com-inet-truememberent-iscaddetour-savings.gtimarketing.co.za
@@ -908,6 +906,7 @@ usaa.com-inet-truememberent-iscaddetour-start-detourid-home-check.gtimarketing.c
 usbetting.co.za
 usigns.co.za
 uthingoservices.co.za
+v2inspire.co.za
 validacaodigital462781926.cloudhosting.rsaweb.co.za
 validate-credentials-instantly.wonkywines.co.za
 validate-information.chelles.co.za

@@ -253,7 +253,6 @@ epipoint.com.tr
 eraslan.com.tr
 erca.com.tr
 ercanakin.com.tr
-erenkadak.com.tr
 erhanturkan.com.tr
 erollar.com.tr
 erolmusavirlik.com.tr
@@ -583,7 +582,6 @@ smartcare.com.tr
 smartoil.com.tr
 smartpos.com.tr
 smartsavunma.com.tr
-sonsistemsogutma.com.tr
 source.com.tr
 soyyigit.com.tr
 spiskin.trakya.edu.tr

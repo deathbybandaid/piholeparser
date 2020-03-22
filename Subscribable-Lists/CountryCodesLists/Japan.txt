@@ -183,7 +183,6 @@ alps-kogyo.co.jp
 ama119.jp
 amaretto.jp
 amazon.co.jp
-amazon.co.jp.2e5023c7ef28b6142e39d9449a71c6e8.hokkaido.jp
 amazon5050.jp
 ameyoko-sanko.co.jp
 ams900.goo.ne.jp
@@ -458,7 +457,6 @@ daughter-evening.jp
 dcs.yahoo.co.jp
 dd-labo.jp
 designlabo.co.jp
-developer.md-partners.co.jp
 dic.nicovideo.jp
 diy-lab.jp
 diylabo.jp
@@ -1034,6 +1032,7 @@ mztm.sixcore.jp
 n-kiso.co.jp
 n-lab.co.jp
 n-labo.jp
+n-morimoto.jp
 nagasakichanpon-no1.jp
 nagata-zang.co.jp
 nahanaha.blog.so-net.ne.jp
@@ -1178,6 +1177,7 @@ picmy.jp
 pif02.jp
 pitatto.rakuten.co.jp
 piyocosmo.jp
+plain-yame-5621.sub.jp
 plaso.jp
 plat.co.jp
 plugins.mixi.jp

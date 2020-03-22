@@ -130,7 +130,6 @@ alrzl018.0pe.kr
 am4u.kr
 anasports.co.kr
 anelevat_dissem.co.kr
-anivfx.kr
 antibody.co.kr
 any-loan.co.kr
 api.admixer.co.kr
@@ -631,6 +630,7 @@ realcleaner.co.kr
 realclick.co.kr
 realcore.onestopfile.co.kr
 realmedia.co.kr
+receivable.co.kr
 reco.kro.kr
 reco.r-e.kr
 rillago0.0pe.kr
@@ -711,7 +711,6 @@ stat.kbs.co.kr
 store.sony.co.kr
 strungbed.co.kr
 studioai.kr
-studiomap.kr
 sublog.co.kr
 successtest.co.kr
 sunloan.co.kr
@@ -765,7 +764,6 @@ visionpc.co.kr
 vitamin-loan.co.kr
 vrankendiamant.co.kr
 vtcmdr.0pe.kr
-wairyultrasound.co.kr
 wassen.co.kr
 wbong.es.kr
 web-loan.co.kr

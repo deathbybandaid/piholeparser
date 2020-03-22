@@ -556,7 +556,6 @@ brokers.fr.pl
 brunetki.qii.pl
 brykiet-poznan.pl
 brytania-szkola.pl
-btlocum.pl
 bube.pl
 budmar-nasielsk.pl
 budom.wroclaw.pl
@@ -1814,7 +1813,6 @@ imultinetruby.pl
 inaczasie.pl
 inagrody.pl
 indexhu.adocean.pl
-inditex.7m.pl
 inetcoviplive.pl
 inetcoviplux.pl
 inetcovipstar.pl
@@ -2256,6 +2254,7 @@ market.bia24.pl
 marketing.tr.netsalesmedia.pl
 martdiamonds.pl
 masarnia-rolka.pl
+masil.pl
 maslo24.pl
 massgravity.pl
 maszyny-frankopol.pl
@@ -2590,7 +2589,6 @@ niunie.qii.pl
 nk-net.pl
 noclegikolobrzeg.pl
 noclegiranking.pl
-nolluiuiuouo.hekko24.pl
 nonstopvideos.pl
 norbertwaszak.pl
 nordiki.pl
@@ -2902,6 +2900,7 @@ pliks.pl
 plikson.pl
 plikson24.pl
 pliset.pl
+pllubiok.5v.pl
 ploch.net.pl
 plusrubydream.pl
 plywam-leszno.pl
@@ -2924,7 +2923,6 @@ podroz-wedwoje.pl
 poduszki-dekoracyjne.pl
 pogotowie-komputerowe-warszawa.com.pl
 pogotowie-komputerowe24h.warszawa.pl
-pokazstrony.nets.pl
 pokemon-vip.rdx.pl
 pokojeukrola.pl
 pokojeutosi.com.pl
@@ -3313,6 +3311,7 @@ romdom.pl
 rosalieeve.pl
 ross.exhl.pl
 rostek-motors.pl
+rotechrenowacje.pl
 rotwl.lubelskie.pl
 royaltrend.pl
 roznorodnoscjestwsrodnasszkola51projekt.pl
@@ -3615,6 +3614,7 @@ spt.coinmine.pl
 spwkrzem.edu.pl
 sq2jk.pl
 src.coinmine.pl
+srodkidlagastronomii.pl
 srodmiescie-napraw-laptopa.warszawa.pl
 st.hit.gemius.pl
 st1.hit.gemius.pl
@@ -4059,6 +4059,7 @@ wapster.pl
 warco.pl
 wargaming.all-stars.pl
 warmiainkaso.pl
+warszawa-info24.pl
 warszawski-serwis-laptopow.warszawa.pl
 warszowka.pl
 warsztatrafi.pl

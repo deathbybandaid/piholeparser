@@ -241,7 +241,6 @@ skiftmedia.pt
 sobral-fonseca.pt
 sofialopes.pt
 soh.rd.sl.pt
-sonhodosavosinhos.pt
 spedycargo.pt
 st.pba.xl.pt
 stbb.pt
@@ -259,6 +258,7 @@ traditionalfoodcongress.ipvc.pt
 trafegonacional.pt
 transforms.pt
 tuxdigitalworks.pt
+ufbarreirolavradio.pt
 uniplastica.pt
 urban-dna.pt
 veseco.pt

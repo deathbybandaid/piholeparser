@@ -462,6 +462,7 @@ cialisrxshop.nl
 cijfers.tweakers.nl
 cityconsult.nl
 cj.nl
+cktelefoonopstellenconfigureren.nl
 classic-agency.nl
 classicbasics.nl
 classicdesign.nl
@@ -604,7 +605,6 @@ dialer.tranent.nl
 dialxs.nl
 diamantglas.nl
 dianasbrocantewinkeltje.nl
-diek.nou.nl
 dienst.nl
 dierenwarenhuis.nl
 dierenwebshop.nl
@@ -2330,6 +2330,7 @@ triplesex.nl
 tuininfo.nl
 tvclub.nl
 tvspelletjes.nl
+twandohmen.nl
 twanzeegers.nl
 tweax.nl
 twentemileu.nl
@@ -2350,7 +2351,6 @@ usabilitytesten.nl
 usads.futurenet.nl
 usads.imdb.nl
 uwveiligheidsomgeving.nl
-vaartwatersport.nl
 vagina.nl
 vakobouwt.nl
 vakschoenmakerijbolle.nl

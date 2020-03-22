@@ -154,6 +154,7 @@ daserver.ultraweb.hu
 dckmaas.pe.hu
 ddl2.data.hu
 ddl7.data.hu
+demu.hu
 denazo.hu
 deni6.deninet.hu
 deni7.deninet.hu
@@ -379,7 +380,6 @@ peterfidaniel.hu
 pics.hu
 piedone.hu
 pihenestipp.hu
-pikto-color.hu
 pinterautoalkatresz.hu
 pixel.blog.hu
 player.epyx.hu
@@ -501,7 +501,6 @@ uraltrak.hu
 usaa-online.pe.hu
 usamalam2016.pe.hu
 users.atw.hu
-uvegteglaker.hu
 varrokneked.hu
 vbasova.pe.hu
 vcontacte.pe.hu

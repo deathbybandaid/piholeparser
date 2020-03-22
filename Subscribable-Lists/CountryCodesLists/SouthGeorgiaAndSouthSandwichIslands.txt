@@ -8,7 +8,6 @@
 7confirm.gs
 7manage.gs
 9aad7115.amy.gs
-abogados.gs
 cid49.gs
 cli.gs
 cn.gs

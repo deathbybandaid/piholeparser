@@ -115,6 +115,7 @@ tccs.co.th
 teacher2.aru.ac.th
 techno2.bu.ac.th
 tehmag.co.th
+tepcian.utcc.ac.th
 thaisuperphone.atcreative.co.th
 thaiyonei.co.th
 thungchang.go.th
@@ -129,7 +130,6 @@ truehits3.gits.net.th
 tscb.co.th
 tsnwires.co.th
 turner.co.th
-uccn.bru.ac.th
 unilife.co.th
 vispac.co.th
 welltechgroup.co.th

@@ -72,4 +72,5 @@ westgate.lk
 www.coastguard.gov.lk
 www.dlb.lk
 www.nlb.lk
+yureninoshika.lk
 zhongtongbus.lk

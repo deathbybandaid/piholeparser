@@ -88,6 +88,7 @@ brightstarcorp.com.vn
 c1pson-nt.khanhhoa.edu.vn
 campaign.accesstrade.vn
 capdiendavico.vn
+centrehotel.vn
 ceo-sign.auviet.edu.vn
 ceochallenges.vn
 chemnet.edu.vn
@@ -119,6 +120,7 @@ daithanhtech.com.vn
 danetc.vn
 dangcapdigital.com.vn
 danhviet.com.vn
+datco.vn
 dathiennhien.vn
 dautusangtao.com.vn
 delivery.adnetwork.vn
@@ -136,6 +138,7 @@ dl.logging.admicro.vn
 dmaris.vn
 dmp.eclick.vn
 dogooccho.com.vn
+dongthanhcompany.vn
 doowood.vn
 dothothinhvuong.vn
 doyota.vn
@@ -209,7 +212,6 @@ holypig.vn
 hondasaigon.com.vn
 hp-tech.com.vn
 hrdcvn.com.vn
-humanhair.vn
 i01001.dgn.vn
 iad.eclick.vn
 ihost.com.vn
@@ -394,6 +396,7 @@ sanphaminox.vn
 santretunhien.vn
 satthachkhe.vn
 sdk.zadn.vn
+secure.bankofamerica.com-login-sign-in-signonv2screen.go.suzukihaiphong.com.vn
 senvangvn.vn
 server02.hostngon.vn
 serving-ad.tv24.vn
@@ -447,7 +450,6 @@ thamtuquocte.com.vn
 thanhgiang.edu.vn
 thegioibupbe.vn
 thegioilamdep.vn
-thegioilap.vn
 thegioipinsac.vn
 thehexanh.vn
 thidoansadec.org.vn
@@ -462,11 +464,13 @@ thuexevantaithanhhoa.vn
 tientrienseafood.com.vn
 tmtoys.com.vn
 tool.cleverads.vn
+tourgiare.vn
 track-srv.vietnamnet.vn
 track.adnetwork.vn
 track.sendo.vn
 track.srv.vietnamnet.vn
 tracking.ad360.vn
+tracking.dinos.vn
 tracking.vietnamnetad.vn
 tracking.yomedia.vn
 trackingapi.foody.vn

@@ -246,7 +246,6 @@ banner.kiev.ua
 banner.ool.ua
 banner.ua
 banners.uct.ua
-baptist.sumy.ua
 bard-real.com.ua
 bargaintheory.rv.ua
 barkchuckle.rv.ua
@@ -299,6 +298,7 @@ blackfriday-produt-da-semana.zzz.com.ua
 blackhill.pp.ua
 blacknight-pravoce.zzz.com.ua
 blagovist.sumy.ua
+blog.gruzotaxi.dn.ua
 bobbie.in.ua
 bochemit.com.ua
 bodyiron.com.ua
@@ -498,7 +498,6 @@ digitalrivermediaone.com.ua
 digitalriversiteone.com.ua
 digitalrivertheaterone.com.ua
 dikhyrial.com.ua
-diler.zimen.ua
 dime.kiev.ua
 dingdoctor.com.ua
 discovery-lady.net.ua
@@ -890,7 +889,6 @@ griffel-print.com.ua
 grippanet.com.ua
 groshi-kredut.com.ua
 groza.com.ua
-gruuubik.zzz.com.ua
 gsbs.com.ua
 gsdbcmg.at.ua
 gufhuh.com.ua
@@ -1183,7 +1181,6 @@ love.kh.ua
 lovecity.od.ua
 lovemeds.com.ua
 lovi-moment.com.ua
-lowin.zzz.com.ua
 lpedmre.com.ua
 lpokji.com.ua
 lrservice.com.ua
@@ -1824,6 +1821,7 @@ metrica.yandex.ua
 metrika.yandex.com.ua
 metrika.yandex.ua
 mexarg.com.ua
+mez.kl.com.ua
 micro-tech.com.ua
 midday.net.ua
 migbud.com.ua
@@ -1911,6 +1909,7 @@ new-project.com.ua
 new-rutor.pp.ua
 new-standart-outsourcing.com.ua
 new4.pipl.ua
+news.gruzotaxi.dn.ua
 newsnet.in.ua
 newsoft2012.pl.ua
 newworld.zzz.com.ua
@@ -1950,6 +1949,7 @@ ntomedic.com.ua
 nuffdol.com.ua
 nuopert.com.ua
 nutyrn.com.ua
+nvuti.pp.ua
 nxmedic.pl.ua
 nymedic.pl.ua
 obession.co.ua
@@ -2330,10 +2330,8 @@ spacedrugspharmacy.com.ua
 spaghtu.com.ua
 spartania.com.ua
 spirtnoe.org.ua
-spletnigoroda.kl.com.ua
 sportovets.com.ua
 sql.eth.pp.ua
-sqs.zzz.com.ua
 srepli.com.ua
 ssdoctor.pl.ua
 ssl.istore-recheckbill-idwmid46589.sslservices110mb7025646548.haga.com.ua

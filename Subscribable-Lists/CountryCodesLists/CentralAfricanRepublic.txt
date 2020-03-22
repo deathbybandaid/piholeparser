@@ -137,6 +137,7 @@ bcpzonaseguras.vianbcep.cf
 bcpzonaseguras.vianbcopr.cf
 bcpzonaseguras.vianbgp.cf
 bdlife.cf
+bdzdfsdf.cf
 beauty-picz.cf
 bejbumr.cf
 berufsunfaehig.cf
@@ -284,6 +285,8 @@ filecheck.cf
 fivedwld.cf
 flophous.cf
 flowbils.cf
+forza-lindelof.cf
+forzalindelof.cf
 fr-espaceclientsbanquefrance2018.cf
 freakingjoes.cf
 free404go.cf
@@ -304,6 +307,7 @@ girlfights.cf
 girlhot.cf
 glacedo.cf
 go.megabanners.cf
+goldstrength.cf
 gooldog.cf
 grand-avenue.cf
 grati.cf
@@ -321,6 +325,7 @@ helps-122.verifikasi-fanpage-suport982.cf
 herehloadibs.cf
 hhkfrjr.cf
 hilfeservice-sicherheitssystem.cf
+himkon.cf
 hismonth.cf
 hkmicsy.cf
 home-facebook.cf
@@ -343,6 +348,7 @@ iranjo.cf
 irc.bteam.cf
 irs-governments.cf
 ismtrum.cf
+itauappalerta2020.cf
 itrevolution.cf
 jaeger-automotive.cf
 janokam.cf
@@ -352,12 +358,14 @@ jinfengkuangji.cf
 jjnarxs.cf
 jkypevx.cf
 jmxjstn.cf
+jmxmetal-com.cf
 joelws.cf
 josjxdv.cf
 jozaloxibi.cf
 jrcgbmy.cf
 jurtym.cf
 jxblvgb.cf
+kabakaba.cf
 kabelbw.cf
 kachi.cf
 kamlaish.cf
@@ -390,8 +398,10 @@ lazylorgdy.cf
 ldztmdy.cf
 legpnnldy.cf
 lesbianwerewolf.cf
+lewenslabs.cf
 lgaycex.cf
 lhtoxez.cf
+lilpilito.cf
 linaxus.cf
 lindasflores.cf
 linkredirect.cf
@@ -414,8 +424,10 @@ luxmagazine.cf
 lzblogs.cf
 lzobilie.cf
 m3u4uarto.cf
+mabelis.cf
 macusecured.cf
 magnums.cf
+makadicuosde.cf
 makeoverturn.cf
 makhi.cf
 makvilla.cf
@@ -475,6 +487,7 @@ njgnbke.cf
 njwb.cf
 noda-8879.cf
 nomerounddec.cf
+nomnyz.cf
 noticeaccounts.cf
 notificationaccountpages.cf
 notificationsfbpage.cf
@@ -535,6 +548,7 @@ perfume.cf
 perfumeho.cf
 persiih.cf
 personal-sitcherheit.cf
+pezinok.cf
 pezzi-affumicate.cf
 pills.cf
 pkkmisl.cf
@@ -586,6 +600,7 @@ rnicrosofteam.cf
 rollingxmeadows.cf
 rottenwhorememe.cf
 ruksnabaji.cf
+rupe.cf
 rurxrefillseek365.cf
 rxcenter-extra365.cf
 rxnetpreferred365.cf
@@ -614,6 +629,7 @@ seucadastro.cf
 sfascebook.cf
 sgsyeku.cf
 sharkbayi.cf
+shefdj.cf
 sicher-auszahlung.cf
 sicherheitssystem-hilfeservice.cf
 sicherheitsvorbeugung-schutz.cf
@@ -622,6 +638,7 @@ singnata.cf
 sithceddwerrop.cf
 smartdocuments.cf
 so-netell-so.cf
+somaplast.cf
 sosichlenblyad.cf
 specializeds.cf
 spin2016.cf
@@ -664,6 +681,8 @@ thefigurebelowand.cf
 thehangpower.cf
 thiiiioo.cf
 topquality.cf
+topuogodo.cf
+totalpackagingsolutions.cf
 track.webprodeals.cf
 trademan11m1.cf
 transaktion-de.cf
@@ -672,6 +691,7 @@ transaktion-pp.cf
 tranursnlmb.cf
 trickmovieyw.cf
 tryfast-v52.cf
+tungyu.cf
 tyjunin.cf
 ubbvkzn.cf
 uelandoran.cf
@@ -699,6 +719,7 @@ vidious5.cf
 vietjetair.cf
 violationpage2017.cf
 viruscheckmake.cf
+vivalingard.cf
 vjgnxuo.cf
 vklyfem.cf
 vkontalkte.cf
