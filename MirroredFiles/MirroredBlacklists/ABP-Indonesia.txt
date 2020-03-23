@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202003150327
+! Version: 202003220919
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 15 Mar 2020 03:27 UTC
+! Last modified: 22 Mar 2020 09:19 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -17,6 +17,7 @@
 ||108.168.231.179^$popup,third-party
 ||188affiliates.com^$third-party
 ||2go7v1nes8.com^
+||64p3am9x95ct.com^$popup
 ||9eb10b7a3d04a.com^$popup
 ||9icmzvn6.website^$popup
 ||a.brand.ad^$third-party
@@ -78,6 +79,7 @@
 ||d24afgsm39csxt.cloudfront.net^
 ||d2jn12r3o7an7z.cloudfront.net^
 ||d3t5ngjixpjdho.cloudfront.net^
+||d72gb9oukw3j.com^$popup
 ||daero.pw^$popup
 ||dafa.io^$popup,third-party
 ||dairouzy.net^$popup
@@ -154,6 +156,7 @@
 ||mesiniklan.andipublisher.com^$third-party
 ||motosal.net^$popup
 ||mousheen.net^$third-party
+||mpyiiswvgxz.com^
 ||mybannermaker.com^$third-party
 ||naetoris.pw^$popup
 ||newsupdatewe.info^$third-party
@@ -467,9 +470,11 @@ $xmlhttprequest,domain=mangacanblog.com
 ||kotakgame.com/images/bnr/partner/*.jpg
 ||krucil.net/banner/
 ||kumpulblogger.com/minibanner/
+||kuyhaa-me.com/meongvpn.js$script,domain=www.kuyhaa-me.com
 ||lapak-online.net^$popup,third-party
 ||layarkaca21.*/assets/*.gif$image
 ||layarkaca21.net/anow.js$script,domain=cinemaindo.web.id
+||layshyjar.com^$script,domain=anime-indo.id
 ||lendir.org/banner/
 ||link.ganool.co.in/links.js$domain=ganool.run
 ||linkgenerator.xyz$script,third-party
@@ -2263,6 +2268,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /jawadomino.$image,third-party
 /jayabola.$image,third-party
 /jayamania.$image,third-party
+/jayapoker.$image
 /jendralpoker.$image,third-party
 /joindomino.$image,third-party
 /jokermerah.$image,third-party
@@ -2501,6 +2507,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /togellounge.$image,third-party
 /togeltoto.$image,third-party
 /toppoker789.$image,third-party
+/totobet.$,image
 /totohoki.$image,third-party
 /totojek.$image,third-party
 /totokita.$image,third-party
@@ -4848,6 +4855,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##[href^="https://fivestarsbet.com"]
 ##[href^="https://hokianda.com"]
 ##[href^="https://jcapsa.com"]
+##[href^="https://judiayambangkok.net"]
 ##[href^="https://warnaqqpkv.com"]
 ##[href^="https://www.2capsaqq."]
 ##[href^="https://www.365capsa."]
@@ -4882,6 +4890,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[href$="/agenbola"]
 ##a[href$="/arenawin"]
 ##a[href$="/bandarq365"]
+##a[href$="/bebasjudi1"]
 ##a[href$="/bet88me"]
 ##a[href$="/betmovie"]
 ##a[href$="/bisabet"]
@@ -6497,6 +6506,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[title="GerhanaQQ" i]
 ##a[title="GoldenPoker" i]
 ##a[title="HokiQQ" i]
+##a[title="IBUQQ" i]
 ##a[title="ID88.Com" i]
 ##a[title="IMCQQ" i]
 ##a[title="ISOPOKER " i]
@@ -6505,6 +6515,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[title="Indomaxbet" i]
 ##a[title="Informasi Bandar Terpercaya" i]
 ##a[title="Itucasino" i]
+##a[title="JAYAPOKER" i]
 ##a[title="JasaGol" i]
 ##a[title="Judi Bola" i]
 ##a[title="Judi Online" i]
@@ -6565,6 +6576,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[title="Situs Togel Terpercaya" i]
 ##a[title="TEXASPOKERCC" i]
 ##a[title="TEXASQQ" i]
+##a[title="TOTOBET" i]
 ##a[title="TajirQQ" i]
 ##a[title="Tangkas Online" i]
 ##a[title="Taruhan Bola" i]
@@ -6766,6 +6778,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[title="wahana303" i]
 ##a[title="wigobet" i]
 ##a[title="zeupoker" i]
+##img[alt=" agen bola terpercaya" i]
 ##img[alt=" judi bola online" i]
 ##img[alt="1xbet" i]
 ##img[alt="381bet" i]
@@ -6851,12 +6864,14 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##img[alt="GoldenPoker" i]
 ##img[alt="HeloQQ" i]
 ##img[alt="HokiQQ" i]
+##img[alt="IBUQQ" i]
 ##img[alt="IMCQQ" i]
 ##img[alt="ISOPOKER " i]
 ##img[alt="Ibosport" i]
 ##img[alt="Indomaxbet" i]
 ##img[alt="Informasi Bandar Terpercaya" i]
 ##img[alt="Itucasino" i]
+##img[alt="JAYAPOKER" i]
 ##img[alt="JasaGol" i]
 ##img[alt="Judi Bola" i]
 ##img[alt="Judi Online" i]
@@ -6916,6 +6931,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##img[alt="Situs Togel Terpercaya" i]
 ##img[alt="TEXASPOKERCC" i]
 ##img[alt="TEXASQQ" i]
+##img[alt="TOTOBET" i]
 ##img[alt="TajirQQ" i]
 ##img[alt="Tangkas Online" i]
 ##img[alt="Taruhan Bola" i]
@@ -7068,6 +7084,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##img[alt="poker8m" i]
 ##img[alt="pokerajaib" i]
 ##img[alt="pokercip" i]
+##img[alt="pokerlounge99" i]
 ##img[alt="promo togel" i]
 ##img[alt="rajajudiQQ" i]
 ##img[alt="rajaremi" i]
@@ -7119,9 +7136,11 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##img[alt="wigobet" i]
 ##img[alt="zeupoker" i]
 ##img[src="http://livesgp."]
+##img[title=" situs judi bola" i]
 ##img[title="PLAY303" i]
 ##img[title="kokipoker" i]
 ##img[title="luxury111" i]
+##img[title="pokerlounge99" i]
 ! *** abpindo:src/annoyances/annoyance_general_block.txt ***
 -abgqq.$image
 -agen-judi-$image
