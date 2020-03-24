@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7BYeKJ9rvpNHKE0JWzCmiw
-! Version: 202003230030
+! Checksum: BcRP+CslHd/r+t5TsnBmdw
+! Version: 202003240020
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 23 Mar 2020 00:30 UTC
+! Last modified: 24 Mar 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -804,6 +804,7 @@ kinovego.ru#?#.sidebox:-abp-has(span:-abp-contains(Группа Vk))
 grodno24.com##.similar-social
 rg.ru##.single-banner
 nabat.news##.single-sharing
+debaty.sumy.ua##.single_pluso_title
 game2day.org,game2day.ru##.single_socials
 tsn.ua##.sl_bottom_holder
 friday.ru##.slide-share
@@ -1177,7 +1178,7 @@ rafkino.com##.social
 gtavicecity.ru##.social-block
 ficbook.net##.social-bottom
 gismeteo.by,gismeteo.kz,gismeteo.md,gismeteo.ru##.social-buttons
-autonews.ru,rbc.ru,rbcplus.ru,sportrbc.ru##.social-likes
+autonews.ru,rbc.ru,sportrbc.ru##.social-likes
 by.tribuna.com,sports.ru##.social-links
 by.tribuna.com,sports.ru##.social-share
 ficbook.net##.social-top
@@ -3005,6 +3006,7 @@ joyreactor.cc,pornreactor.cc,reactor.cc##div[style="text-align: center; backgrou
 kirov-portal.ru#?#div[style]:-abp-has(> div[style] > a[href="/news/akcii/"])
 nashaplaneta.net##footer > a ~ p
 libertycity.ru##header > div[class^="fon"]
+bbc.com##header[role="banner"] > div[dir="ltr"][class^="Wrapper-"]
 azbooki.ru,engisys.ru,zip1000.ru##html > div[style^="color: rgb"]
 4pda.ru##html[style] .article a[href*="/4pda.ru/pages/go/?"]
 4pda.ru##html[style] a[href*="/4pda.ru/pages/go/?"][href*="clck.ru"]
@@ -11148,6 +11150,7 @@ _youtube_social_
 ##.c-footer-social-link
 ##.c-footer__list--follow
 ##.c-footer__social
+##.c-footer__social-links
 ##.c-footer__social-list
 ##.c-footer__social-list-item
 ##.c-global-header__social
@@ -11167,6 +11170,7 @@ _youtube_social_
 ##.c-poll-share__text
 ##.c-post-engage-share
 ##.c-post-engage-shares
+##.c-post-share__links
 ##.c-redes-sociais
 ##.c-share
 ##.c-share-box-social-item

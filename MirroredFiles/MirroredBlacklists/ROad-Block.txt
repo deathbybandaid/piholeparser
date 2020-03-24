@@ -595,3 +595,18 @@ tribuna.md###hightopbanner
 ph-online.ro##.banneritem
 ||connect.facebook.net/ro_RO/all.js$script,domain=ph-online.ro
 
+||www.sighet247.ro/banners/vitreum-1200-280-mai-2020.jpg$image
+||www.sighet247.ro/banners/banner-asigurari-bm-1200x280.jpg$image
+||www.sighet247.ro/banners/frtunningshop.gif$image
+||www.sighet247.ro/banners/herodot.gif$image
+||www.sighet247.ro/banners/drenaj-limfatic.gif$image
+||www.sighet247.ro/banners/test-biorezonanta-2-2019.jpg$image
+||www.sighet247.ro/banners/banner_euronet.gif$image
+||media.dcnews.ro/nxt/bolero2300x600min.jpg$image
+||media.dcnews.ro/nxt/publicitate_v2.jpg$image
+||www.capital.ro/wp-content/uploads/2019/04/comunicate-online-capital.gif$image
+||www.capital.ro/wp-content/uploads/2020/01/bdt-fordstore-28012020.jpg$image
+||www.capital.ro/img/buton_shop.png$image
+||media.timponline.ro/2016/03/2016-03-plan-b-angajare.gif$image
+||media.timponline.ro/2019/10/2019-10-carliont-anunt-300x250.jpg$image
+||media.timponline.ro/2015/04/virgil_rus_298x198.jpg$image
