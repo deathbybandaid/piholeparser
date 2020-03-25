@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: BcRP+CslHd/r+t5TsnBmdw
-! Version: 202003240020
+! Checksum: g0nPadXQmlH6caks50Se8g
+! Version: 202003250020
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 24 Mar 2020 00:20 UTC
+! Last modified: 25 Mar 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -549,6 +549,7 @@ kp.by,kp.ru##.externalBlock > .left > span.title
 navitel.su##.extra_append:last-child
 sports.kz##.f-social-div
 animaunt.org,it-here.ru##.fa-telegram
+dyvys.info##.facebook-comments-title
 obozrevatel.com##.facebook-follow-pop-from-side
 glavnoe.ua##.facebook-tools
 womo.ua##.facebookLikesWidget
@@ -732,6 +733,7 @@ football24.ru##.rb_banner
 film4ik.tv##.rblock3
 laradiofm.ru#?#.rc:-abp-contains(Мы ВКонтакте)
 inforeactor.ru##.read_telegram
+dyvys.info##.readmoreinchat
 eda.ru##.recipe__social
 knijky.ru##.region-content > #block-system-main ~ .block
 calorizator.ru#?#.region[id^="content-"] > .block:-abp-has(#vk_comments)
@@ -911,6 +913,7 @@ ekabu.ru##.t-social-container_top
 volkovysk.by##.tab-soc-networks
 kino-teatr.ua##.tab-widget-multy
 rufilmtv.pro##.tbcomm
+dyvys.info##.td-banner-bg
 business-gazeta.ru,fakty.ua,novostivmire.com##.telegram
 sakh.com##.telegram-widget
 depo.ua##.telegram_button
@@ -1047,7 +1050,7 @@ kommersant.ru##a[href][title="Поделиться"]
 youla.ru##a[href][title^="Поделиться"]
 rusnext.ru##a[href^="http://www.odnoklassniki.ru/group/"]
 livecars.ru,livesport.ru##a[href^="https://share.yandex.ru/"]
-agronews.ua,animedub.ru,apostrophe.ua,app2top.ru,book-audio.com,censor.net.ua,depo.ua,enovosty.com,game2day.ru,glavred.info,govoritmoskva.ru,livesport.ws,lrepacks.ru,maanimo.com,mk.ru,myslo.ru,overclockers.ua,pravda.com.ua,privatfinance.com,rbc.ua,rusnext.ru,segodnya.ua,selezen.net,softportal.com,soundpark.best,sports.kz,uz.video##a[href^="https://t.me/"]
+agronews.ua,animedub.ru,apostrophe.ua,app2top.ru,book-audio.com,censor.net.ua,depo.ua,enovosty.com,game2day.ru,glavred.info,govoritmoskva.ru,livesport.ws,lrepacks.ru,maanimo.com,mk.ru,myslo.ru,overclockers.ua,poiskvps.ru,pravda.com.ua,privatfinance.com,rbc.ua,rusnext.ru,segodnya.ua,selezen.net,softportal.com,soundpark.best,sports.kz,uz.video##a[href^="https://t.me/"]
 life.ru##a[href^="tg://msg_"]
 66.ru,myanianime.ru,tproger.ru##a[href^="tg://resolve"]
 toptracker.ru##a[onclick^="content_share"]
@@ -1062,6 +1065,7 @@ office-guru.ru##aside .widget_text
 umnica-krasavica.ru##aside > .widget_search ~ .widget_text
 it-tehnik.ru##aside > div[id^="custom_html"]
 opennet.ru##aside > form > .ttxt > tbody > tr:last-child
+bessarabiainform.com#?#aside:-abp-has(> .execphpwidget > iframe[src*="facebook.com"])
 gta.com.ua#?#b:-abp-contains(Поделиться:)
 aimp.ru#?#b:-abp-contains(Присоединяйтесь к нам)
 exzerry.com##body > #links > div[align="center"]
@@ -1126,6 +1130,7 @@ torrentom.com##td > .block_table_right ~ table
 yakusubstudio.forum2x2.ru##td[valign="top"][width="183"]
 velikolepnyivek.com##td[width="180"][valign="top"] *
 youla.ru#?#th[class]:-abp-contains(Поделиться)
+newsru.co.il#?#tr:-abp-has(> td[valign="top"] > iframe[src*="/like."])
 !
 ! mail.ru
 minigames.mail.ru###like-buttons
@@ -2147,6 +2152,7 @@ torrent-filmi.net,torrent-filmi.xyz###infoBlockFilm
 agronews.ru,vpsite.ru###informer
 miformat.info###inner-content > #sidebar
 forum.sibnet.ru###ipbwrapper > table > tbody > tr > td[style="width: 240px;"]
+datagroup.ua###js-cookie-notification
 ostro.org###kinoafishaslider
 pinu.com.ua,real-vin.com,xsport.ua###kinotvukrnet
 rus-torrents.ru###la_wrapper
@@ -3258,14 +3264,22 @@ metrika.yandex.by,metrika.yandex.kz,metrika.yandex.ru,metrika.yandex.ua,metrika.
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body > .serp-user__promo-popup
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body > div[class^="popup"][class*="promo"][class*="video-player"]
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body > div[class^="popup"][class*="promo"][class*="yabro-tooltip"]
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="b-page_alt-widgets_yes"] .b-sethome
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="b-page_alt-widgets_yes"] .desk-notif-card ~ div
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="b-page_alt-widgets_yes"] .media-event-promo
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="b-page_alt-widgets_yes"] .media-footer_slim_yes
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="b-page_alt-widgets_yes"] .media-promo
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="b-page_alt-widgets_yes"] .stream-promo-popup
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="b-page_alt-widgets_yes"] .widgets__col_td_2
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="b-page_alt-widgets_yes"] div[class*="head-promo-plus"]
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="b-page"][class*="_widgets"] .b-sethome
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="b-page"][class*="_widgets"] .desk-notif-card ~ div
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="b-page"][class*="_widgets"] .media-event-promo
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="b-page"][class*="_widgets"] .media-footer_slim_yes
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="b-page"][class*="_widgets"] .media-promo
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="b-page"][class*="_widgets"] .stream-promo-popup
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="b-page"][class*="_widgets"] .widgets__col_td_2
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="b-page"][class*="_widgets"] div[class*="head-promo-plus"]
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="b-page"][class*="b-page_infinity-"] .b-sethome
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="b-page"][class*="b-page_infinity-"] .desk-notif-card ~ div
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="b-page"][class*="b-page_infinity-"] .media-event-promo
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="b-page"][class*="b-page_infinity-"] .media-footer_slim_yes
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="b-page"][class*="b-page_infinity-"] .media-promo
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="b-page"][class*="b-page_infinity-"] .stream-promo-popup
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="b-page"][class*="b-page_infinity-"] .widgets__col_td_2
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="b-page"][class*="b-page_infinity-"] div[class*="head-promo-plus"]
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##div[aria-label="Реклама"]
 music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua,music.yandex.uz##div[class^="sidebar"] .no-ads
 !
@@ -5215,6 +5229,7 @@ _revotas_push.
 /iconSocial.
 /iconTwitter.
 /iconYoutube.
+/icoshare.
 /icoSocial.
 /icoSocial2.
 /icosocial21/*
@@ -17715,6 +17730,7 @@ _youtube_social_
 ##.socialTools
 ##.socialTop
 ##.socialTwitter
+##.socialUrl
 ##.socialUtils-bottom
 ##.socialV2
 ##.socialVideodetay
@@ -21629,6 +21645,8 @@ fark.com,github.com,github.io,justwatch.com,marketplace.firefox.com,vvhp.net#@#i
 @@||wappalyzer.com/sites/default/files/icons/$image
 @@||wat.*/assets/images/common/fbsubscribe.jpg
 @@||watch.aetnd.com^*_SocialMedia_$image
+@@||wavebox.io/wp-content/uploads/$image
+@@||wavebox.io^$generichide
 @@||weather.com/cssRollup?
 @@||weather.com/jsRollup?
 @@||webgate.ec.europa.eu/cas/images/logo-twitter-
@@ -22162,6 +22180,7 @@ _subscribe_button
 /Feed_48x
 /feed_icon_
 /feed_rss.
+/feedrss.
 /feeds_36x
 /flux-rss-
 /flw-rss.
@@ -22175,6 +22194,7 @@ _subscribe_button
 /ft_rss.
 /gif/rss_
 /header-rss.
+/header/rss.
 /header_rss.
 /header_rss_
 /ic_rss.
@@ -23184,6 +23204,7 @@ _backToTop.
 ###ins-newsletter-form
 ###inscription_newsletter
 ###instory_newsletter_signup
+###iscrizione_newsletter
 ###iscrizioniscr_emaileNewsletter
 ###it_newsletters
 ###jFrame-email-signup

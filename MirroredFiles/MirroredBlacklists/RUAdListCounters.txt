@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ff8n1MCuMOfxhryz8bdcbw
-! Version: 202003230030
+! Checksum: NwF2pO8Uq00ZbTDF1wMngg
+! Version: 202003250020
 ! Title: RU AdList: Counters
-! Last modified: 23 Mar 2020 00:30 UTC
+! Last modified: 25 Mar 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -108,9 +108,9 @@ mail.ru##body > .zeropixel ~ * .searchContainer ~ .ssr-main ~ div[class] ~ div[c
 mail.ru##body > .zeropixel ~ * .searchContainer ~ [class] > .tabs-content ~ div > div:first-child:not([name])
 4pda.ru#?#body article ~ article[itemscope]:-abp-has(a[title][target="_blank"])
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body.b-page > .b-page__container .card.content__adv.card
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz#?#body[class*="b-page_alt-widgets_yes"] .feed > .feed__row:-abp-has(._need-stub)
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz#?#body[class*="b-page_alt-widgets_yes"] .feed > .feed__row:-abp-has(._with-shadows[style="overflow: hidden;"] > div ~ div > div:empty)
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="b-page_alt-widgets_yes"] .main.widgets div ~ div ~ div ~ div[class=""] ~ :not(div) > * > :not([class*="widget"])
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="b-page"] .main.widgets div ~ div ~ div ~ div[class=""] ~ :not(div) > * > :not([class*="widget"])
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz#?#body[class*="b-page"][class*="_widgets"] .feed__item-wrap > .feed__item:-abp-has(> div[style] > div + div > [id]:empty)
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz#?#body[class*="b-page"][class*="b-page_infinity-"] .feed__item-wrap > .feed__item:-abp-has(> div[style] > div + div > [id]:empty)
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##div[class*="turbo-advert_type_"]
 radioprofusion.com##footer > .counter
 4pda.ru##html:not([style]) > body:not([itemscope]) > div[id]:not([href]) > [href="#"]:empty ~ [href^="http"]
@@ -274,6 +274,7 @@ _pagespeed_beacon?
 ||amazonaws.com/ki.js/
 ||amazy.ru^$third-party
 ||amung.us^$third-party
+||analysis.fi^$third-party
 ||analytics.getaim.info^$third-party
 ||anti-ban.ucoz.ru^$third-party
 ||api.mindbox.ru/scripts/*/tracker.js
