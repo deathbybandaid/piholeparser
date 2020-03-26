@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 11572
+! Version: 11579
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -2357,6 +2357,7 @@
 ||essjetuhfuo.com^
 ||esundpxbixeqgu.com^
 ||esuuqqdmsuil.com^
+||eszkrcviokckfb.com^
 ||esznfpbro.com^
 ||eszpmsipks.com^
 ||etbmvqjnfxtk.com^
@@ -4052,6 +4053,7 @@
 ||ibnuoduab.com^
 ||ibojmmgjto.bid^
 ||ibqmccuuhjqc.com^
+||ibtfbbtjktu.com^
 ||ibxfhtklswtbd.com^
 ||ibycicwahzg.com^
 ||icahllwjc.com^
@@ -6786,6 +6788,7 @@
 ||nhkhxvnhfdkn.com^
 ||nhndzbmnkps.com^
 ||nhqmomir.com^
+||nhqxzqvkj.com^
 ||nhtkbvafhre.com^
 ||niaqaltky.com^
 ||niazlhvok.com^
@@ -7443,6 +7446,7 @@
 ||oqziwmemusftg.com^
 ||ordbtltlcmqv.com^
 ||orddiltnmmlu.com^
+||orgttpvpglshap.com^
 ||orgvevacxlinrr.com^
 ||orgzjdgtjmvzi.bid^
 ||ormnduxoewtl.com^
@@ -8333,6 +8337,7 @@
 ||qmzwcrordyc.com^
 ||qndqwtrwguhv.com^
 ||qnemxzckwx.com^
+||qneowzuyfzyfs.com^
 ||qnfarzjp.bid^
 ||qnfpskgtzkw.com^
 ||qnhwhedcrzeodd.com^
@@ -9567,6 +9572,7 @@
 ||tahkezux.com^
 ||takmuany.com^
 ||taljdzwer.com^
+||taljnpgg.com^
 ||tammfmhtfhut.com^
 ||tamqqjgbvbps.com^
 ||tamrczjeedauh.com^
@@ -11024,6 +11030,7 @@
 ||xquhrikrq.com^
 ||xqzlhxzkcil.com^
 ||xrapmkrsqa.com^
+||xrbmomiow.com^
 ||xrbvsiyyr.com^
 ||xrexjmudy.com^
 ||xrfjymmysdr.com^
