@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 11579
+! Version: 11595
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -854,6 +854,7 @@
 ||bqntkevvmkk.com^
 ||bqptlqmtroto.com^
 ||bqqjowpigdnx.com^
+||bqqnngtpc.com^
 ||bqscwtvpvugopg.com^
 ||bqvgpuvjwhjggp.com^
 ||bqyphmwr.bid^
@@ -1353,6 +1354,7 @@
 ||cqskvtpeqcp.bid^
 ||cqsmswwidrn.bid^
 ||cqtfeoje.com^
+||cqubxammwgoplo.com^
 ||cqvbvpxnqqcfwl.bid^
 ||cqvkwpulpwfudg.com^
 ||cqwqxapujf.com^
@@ -1653,6 +1655,7 @@
 ||dgcxsmiavpg.bid^
 ||dgeggjwyhkrr.com^
 ||dgfpsbezfeh.bid^
+||dgfufcaxzdzenb.com^
 ||dggcgurqynie.com^
 ||dgghbqysqzs.bid^
 ||dgjlfdvqb.bid^
@@ -2022,6 +2025,7 @@
 ||eaaqsama.com^
 ||eabgoszdtq.com^
 ||eabrkvxoe.bid^
+||eabyvnmt.com^
 ||eadtortust.bid^
 ||eaetyfmpuelw.com^
 ||eaffxhnzh.com^
@@ -2520,6 +2524,7 @@
 ||farvqaxaoid.com^
 ||fasvgvzxsqxqhu.com^
 ||fatayvywbebgdn.com^
+||fatrjjcm.com^
 ||fatrvclgpnb.com^
 ||fawhiybzs.bid^
 ||faykdrhpo.com^
@@ -2583,6 +2588,7 @@
 ||fefzohgedqp.com^
 ||fehsnwiem.com^
 ||fejbkpidkkwts.com^
+||fejwbcvvzclz.com^
 ||fembsflungod.com^
 ||fengrtnoxuwwe.com^
 ||feozcthyfbdc.com^
@@ -3273,6 +3279,7 @@
 ||gmzaaeenp.com^
 ||gnadhzstittd.com^
 ||gnaizrodp.com^
+||gnamwmixa.com^
 ||gncfttutoiwwq.com^
 ||gniosksijt.bid^
 ||gnipadiiodpa.com^
@@ -3303,6 +3310,7 @@
 ||goowurzdotcom.bid^
 ||goozbkcchscvb.com^
 ||gopamdzgpdrwe.bid^
+||gopfltvoiflf.com^
 ||gosrjadsh.com^
 ||gosvhpsc.com^
 ||gotrlayh.com^
@@ -5361,6 +5369,7 @@
 ||kpwhkeehpsp.bid^
 ||kpwjczeaajnhsc.com^
 ||kpwjtpgvowifq.com^
+||kpxbctywsa.com^
 ||kpyxcbdaftlxt.com^
 ||kpzsyqhje.com^
 ||kpzvcvclybfa.com^
@@ -5541,6 +5550,7 @@
 ||kxpkadaivbm.com^
 ||kxtkfkqkrzz.bid^
 ||kxujlopfsmttyc.com^
+||kxuztynmbquxcf.com^
 ||kxwkbkfespyh.com^
 ||kxwuskjg.bid^
 ||kxxjainwdsn.com^
@@ -5794,6 +5804,7 @@
 ||lkgcdedbklfse.com^
 ||lkhkeviyctneka.com^
 ||lkhqosglqas.com^
+||lkiiwoxjfovcga.com^
 ||lkjdwmhuqxupef.com^
 ||lkksbzcslmeefw.com^
 ||lkmoqyzfv.com^
@@ -7790,6 +7801,7 @@
 ||pkucwwgcnuxzo.bid^
 ||pkvhprfhbtft.com^
 ||pkxquvydrgin.com^
+||pkytbidauolavq.com^
 ||pkzfmxjlkcxkub.com^
 ||plbfuyckzn.com^
 ||plcsedkinoul.com^
@@ -7832,6 +7844,7 @@
 ||pndiblukiqdix.bid^
 ||pnfdunvcgl.bid^
 ||pnfpithmmrxc.com^
+||pnhnzihmrjybgt.com^
 ||pnjeolgxsimj.com^
 ||pnkdlqeibm.com^
 ||pnkrtgea.com^
@@ -8707,6 +8720,7 @@
 ||rfcsmdodviqhn.com^
 ||rfcxwidka.com^
 ||rfdujczogfnc.com^
+||rfdxyhjsf.com^
 ||rfebbtvbojc.com^
 ||rfecjuzp.bid^
 ||rfenyswo.com^
@@ -9006,6 +9020,7 @@
 ||rvtqbxawlkbq.com^
 ||rvtxrtzbswdji.com^
 ||rvvslhmmbor.com^
+||rvwhtjxnn.com^
 ||rvyvkjqffmdp.com^
 ||rvzudtgpvwxz.com^
 ||rwalomjwgyljqj.com^
@@ -10395,6 +10410,7 @@
 ||uvawalhexufy.com^
 ||uvmfrryhmaww.com^
 ||uvniygdwmoojfm.com^
+||uvokouvtrr.com^
 ||uvomthuqsqx.com^
 ||uvosubgxhws.com^
 ||uvppdseel.com^
