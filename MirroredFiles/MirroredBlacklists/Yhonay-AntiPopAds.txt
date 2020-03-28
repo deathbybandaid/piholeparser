@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 11595
+! Version: 11610
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -1581,6 +1581,7 @@
 ||dbwohmscsgkhvz.bid^
 ||dbyinbsam.com^
 ||dbysmkeerpzo.com^
+||dccqzsmabz.com^
 ||dccstsamnyrjk.com^
 ||dcdalkgtbmip.com^
 ||dcdqvukf.bid^
@@ -2090,6 +2091,7 @@
 ||edyjiqxeppjkj.com^
 ||eeagxonnsoggq.com^
 ||eeamatyc.com^
+||eebbfcwspe.com^
 ||eebrojmn.com^
 ||eecetnnsdz.bid^
 ||eedicjfwqhqr.bid^
@@ -2125,6 +2127,7 @@
 ||efluqmlyzi.com^
 ||efmpejbybupe.bid^
 ||efnypuzqni.com^
+||efojzbnh.com^
 ||efotdwuui.bid^
 ||efqadeuwdt.com^
 ||efrcjwdcwhhqrx.com^
@@ -2251,6 +2254,7 @@
 ||emxbuugvudofbc.bid^
 ||emxfructugey.com^
 ||emxwkunx.bid^
+||emxyuehfnlssg.com^
 ||emxztiidh.com^
 ||emzotevsto.com^
 ||emzxewhgjt.com^
@@ -3507,6 +3511,7 @@
 ||gykmfqxeolnne.com^
 ||gynhbuspeiud.bid^
 ||gynzvwhup.com^
+||gyoajmeq.com^
 ||gyojplgn.com^
 ||gyvyokpmmb.bid^
 ||gyycgkchjtimu.com^
@@ -4788,6 +4793,7 @@
 ||jlqpkoppbxa.com^
 ||jlslujfguojw.com^
 ||jlsydeysmgghdy.com^
+||jltklmnmj.com^
 ||jlvqbfknjajot.com^
 ||jlwejibe.com^
 ||jlwlfcbfifsvfw.com^
@@ -5885,6 +5891,7 @@
 ||lnyypjocad.com^
 ||loakfiiggz.bid^
 ||locjzfoh.com^
+||loddawqst.com^
 ||lodoxfwite.com^
 ||lodqycbq.com^
 ||lofipgeld.bid^
@@ -6664,6 +6671,7 @@
 ||mzxexigxkb.com^
 ||mzzouiciajems.com^
 ||naaifqdqsnxtsp.com^
+||naapvraf.com^
 ||naavxddd.com^
 ||nafgiaui.com^
 ||nahixtmnmpcz.com^
@@ -6945,6 +6953,7 @@
 ||npauffnlpgzw.com^
 ||npgdqwtrprfq.com^
 ||npikrbynhuzi.com^
+||npjqjgiskte.com^
 ||nplrzxvyrhiq.com^
 ||npoxaukym.com^
 ||nprcpjufz.bid^
@@ -9261,6 +9270,7 @@
 ||sibatnsryjpcq.com^
 ||sicpkohkcmt.com^
 ||sicteppojdwr.com^
+||sigrjorpzhte.com^
 ||sihciabzm.com^
 ||sihjnaojbrs.com^
 ||sihmlqhicmzvx.com^
@@ -10740,6 +10750,7 @@
 ||wglbucuhxxxj.com^
 ||wgpsethooknqv.com^
 ||wgqirxevoh.com^
+||wgwguxqij.com^
 ||whdzxabhqsdnlc.com^
 ||whgvyswets.com^
 ||whjibbprhng.com^
@@ -10816,6 +10827,7 @@
 ||wqtsvqzthaoq.com^
 ||wqvfhbwr.com^
 ||wqypgiakfbxb.com^
+||wredmtmvkjbg.com^
 ||wrfrxgft.com^
 ||wrnrxzstxtjsn.com^
 ||wrpmyymqowytz.com^
@@ -11410,6 +11422,7 @@
 ||zekcgykv.com^
 ||zelxtujtigbx.com^
 ||zeokfeyraxls.com^
+||zeqtblok.com^
 ||zestzqhrwsvwcq.com^
 ||zeujqjoifd.com^
 ||zexygpxlamac.com^
@@ -11492,10 +11505,12 @@
 ||znxvuabzgm.com^
 ||znztvqgtaivf.com^
 ||zobsibzczd.com^
+||zoeysqyx.com^
 ||zoijpllqnm.com^
 ||zomsfhgj.com^
 ||zotjktpk.com^
 ||zounhlyqz.com^
+||zpaanftgs.com^
 ||zpaimilpqx.com^
 ||zpbgschpbkz.com^
 ||zperfcaskqrxug.com^
