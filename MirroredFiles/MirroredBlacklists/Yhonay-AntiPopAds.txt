@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 11610
+! Version: 11625
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -539,6 +539,7 @@
 ||bakaqddxhhsid.com^
 ||bakdsoarxjab.com^
 ||bakjtxvku.bid^
+||balcekonspn.com^
 ||banuhqxbc.com^
 ||baommitouduxo.bid^
 ||baphruesqm.com^
@@ -1393,6 +1394,7 @@
 ||csdzhoku.com^
 ||csfkhqzegycmux.com^
 ||cshzkkihjnweb.com^
+||csiasvapqrccq.com^
 ||csionjbak.com^
 ||csjayzqifekaq.com^
 ||cskwckhyhriyk.com^
@@ -2227,6 +2229,7 @@
 ||elimpfdlss.com^
 ||eljjyutgjiuh.com^
 ||eloumbsyd.com^
+||elqsjecdav.com^
 ||elsgsgxywj.bid^
 ||eluhhfyxx.com^
 ||elvfmxguozafu.com^
@@ -2300,6 +2303,7 @@
 ||eplsshzbotknz.bid^
 ||epndtinso.com^
 ||epnjahss.com^
+||epnycpszmpvft.com^
 ||epouunclxehmni.com^
 ||epoxtzgddiwp.com^
 ||epqigxjf.com^
@@ -3755,6 +3759,7 @@
 ||hmcczsoimnjxzi.com^
 ||hmcjupvbxxyx.com^
 ||hmdmvaxmmwoso.bid^
+||hmecfqhj.com^
 ||hmeojqyjoascs.com^
 ||hmepgymo.com^
 ||hmgozryqbc.com^
@@ -4178,6 +4183,7 @@
 ||ihghcmznlp.com^
 ||ihgkmgwfhjam.com^
 ||ihgwekwwxbuxy.com^
+||ihjtrncfoha.com^
 ||ihmevshz.bid^
 ||ihpekyhfanmljo.com^
 ||ihqmycsct.bid^
@@ -7859,6 +7865,7 @@
 ||pnkrtgea.com^
 ||pnmxoeztls.bid^
 ||pnobsmeio.com^
+||pnrblholty.com^
 ||pnrqhqixc.com^
 ||pnuwjsilfz.bid^
 ||pnuymnyhbbuf.com^
@@ -8230,6 +8237,7 @@
 ||qgkmjpgwg.com^
 ||qgmrchjuqro.bid^
 ||qgnakeddgtdw.com^
+||qgnlbjkxrzb.com^
 ||qgnneaeagxaypp.com^
 ||qgpmtdrm.com^
 ||qgraprebabxo.com^
@@ -8425,6 +8433,7 @@
 ||qqbyfhlctzty.com^
 ||qqcbzxwzpmzdcd.com^
 ||qqcjvbsd.com^
+||qqdalrqzvukzto.com^
 ||qqdnhrkjtmv.bid^
 ||qqemfpbnixtqx.com^
 ||qqfrciwnc.bid^
@@ -8820,6 +8829,7 @@
 ||rjwdhpxdrufbcg.com^
 ||rjwotofyxoszk.com^
 ||rjxspgol.com^
+||rjzwheddxjuk.com^
 ||rkauzlyh.com^
 ||rkaxivxdtws.com^
 ||rkbjbtxhdi.bid^
@@ -9932,6 +9942,7 @@
 ||trqbzsxnzxmf.com^
 ||trvposbevwxvo.bid^
 ||trwbkkxk.com^
+||tsaqimvbfiv.com^
 ||tsastrmq.com^
 ||tsdzmkpewrdxyl.com^
 ||tsfgnmyhi.com^
@@ -10169,6 +10180,7 @@
 ||uebavnacbjbr.bid^
 ||uebkmtpsfvgvfx.com^
 ||uebyotcdyshk.com^
+||uedombokwcy.com^
 ||ueenfeiu.com^
 ||uehdljkrsfaa.bid^
 ||uehequcuvujkyf.com^
@@ -10709,6 +10721,7 @@
 ||wbxzrxarmzyx.com^
 ||wcfelywclbql.com^
 ||wcgrrjyjiaeocd.com^
+||wclkmumbolsmqd.com^
 ||wclurprkyk.com^
 ||wcobqyeqpckkzh.com^
 ||wcwcypfnvih.com^
@@ -11499,6 +11512,7 @@
 ||znjwkwha.com^
 ||znmdscnynybx.com^
 ||znnabrxnotlm.com^
+||znnzwdgu.com^
 ||znpyqdfphny.com^
 ||zntqjdvonxm.com^
 ||znuwbselijsmyj.com^
@@ -11545,6 +11559,7 @@
 ||zrgssannk.com^
 ||zridsfev.com^
 ||zrlxjcsvib.com^
+||zronsunopja.com^
 ||zrosbqwecw.com^
 ||zrzeewya.com^
 ||zrzrpxzvsk.com^
