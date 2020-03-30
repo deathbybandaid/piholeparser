@@ -45,7 +45,6 @@ eme.dalenreahostz.sk
 engine.pianomedia.sk
 etipos.sk
 ezofest.sk
-facebook.com.fitgram.sk
 fitnessrelax.sk
 forummanazera.sk
 fransiza.sk
@@ -124,7 +123,6 @@ printdot.sk
 profit-group.sk
 proinvision.sk
 promoagency.sk
-prosignum.sk
 puchovsky.sk
 punch.race.sk
 rabot.host.sk

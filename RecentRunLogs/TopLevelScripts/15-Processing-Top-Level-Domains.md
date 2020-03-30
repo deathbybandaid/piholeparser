@@ -7,22 +7,22 @@ List Took 2 Seconds.
 [Details If Any](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains/Internet-Assigned-Numbers-Authority.md)
 
 ## Public-Suffix
-List Took 2 Seconds.
+List Took 1 Seconds.
 [Details If Any](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains/Public-Suffix.md)
 
 ## TLD-List
-List Took 1 Seconds.
+List Took 2 Seconds.
 [Details If Any](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains/TLD-List.md)
 
 ____________________________________
 ### Checking For Old TLD File.
 * Old TLD List Not Present.
 ### Merging Individual TLD Lists.
-16193 After Merging Individual TLD Lists.
+16190 After Merging Individual TLD Lists.
 ### Removing Old TEMP TLD If Present.
 Old TLD Comparison Not Present.
 ### Formatting TLD List.
-4614 After Formatting TLD List.
+4613 After Formatting TLD List.
 ### Removing Duplicatates From TLD List.
 1752 After Removing Duplicatates From TLD List.
 ____________________________________

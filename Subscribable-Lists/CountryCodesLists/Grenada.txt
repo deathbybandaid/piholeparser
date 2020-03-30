@@ -1,8 +1,8 @@
 alphonsor.rf.gd
 cashad2.xd.gd
+community-ebay.de-diskussionsforen-htmll.rf.gd
 counter.gd
 dhl-france-service.fr.gd
-diskussionsforen-ebay.mitglieder.rf.gd
 dogepool.rf.gd
 eventsgrenada.gd
 infinityservices.rf.gd
@@ -13,6 +13,8 @@ neo.rf.gd
 omf.gd
 pic.gd
 riz.gd
+shop--covid-19.rf.gd
+shopcovid-19.rf.gd
 soo.gd
 ta.gd
 tl.gd

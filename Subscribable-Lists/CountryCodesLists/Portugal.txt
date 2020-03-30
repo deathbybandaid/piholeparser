@@ -259,6 +259,7 @@ trafegonacional.pt
 transforms.pt
 tuxdigitalworks.pt
 ufbarreirolavradio.pt
+uniclima.pt
 uniplastica.pt
 urban-dna.pt
 veseco.pt

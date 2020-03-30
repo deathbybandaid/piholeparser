@@ -1416,7 +1416,7 @@ amazing-wishes-now.cn
 amazingdiscover.cn
 amazingsuccessreader.cn
 amazon-payments.cn
-amazon.co.jp.rjun74.cn
+amazon.co.jp.dmcxw.cn
 amband.cn
 ambin.cn
 amedvanb.cn
@@ -1974,7 +1974,8 @@ apple.689681562.cn
 apple.701199825.cn
 apple.702648469.cn
 apple.799866074.cn
-apple.com.ainetu.cn
+apple.ios.ainetu.cn
+apple.ios.eiutm.cn
 apple.p60731134x.cn
 apple.phishing.550124673.cn
 apple.phishing.60731134x.cn
@@ -23606,7 +23607,6 @@ gjrfter.cn
 gjrgworo.cn
 gjrocbokg.cn
 gjtlooon.cn
-gjuauyfhjha.cn
 gjuipos.cn
 gjumeui.cn
 gjuxaca.cn
@@ -30163,7 +30163,6 @@ jinilawog.cn
 jinimof.cn
 jinrobit.cn
 jintian12.cn
-jintsung.cn
 jinueh.cn
 jinxobik.cn
 jioiwe.cn
@@ -47315,7 +47314,6 @@ roluyab.cn
 roluzaram.cn
 rolwonik.cn
 romanudom.cn
-romashka.cn
 romaxij.cn
 romdaweg.cn
 romecip.cn

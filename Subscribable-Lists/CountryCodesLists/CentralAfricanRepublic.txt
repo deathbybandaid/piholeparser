@@ -85,6 +85,7 @@ amazon.nj60l9.cf
 amazon.o24l0.cf
 amazon.swi5m1.cf
 amazon.webdirect.cf
+americanas-ame.cf
 americanas-online.cf
 amirnes.cf
 amranoof.cf
@@ -307,7 +308,6 @@ girlfights.cf
 girlhot.cf
 glacedo.cf
 go.megabanners.cf
-goldstrength.cf
 gooldog.cf
 grand-avenue.cf
 grati.cf
@@ -348,7 +348,6 @@ iranjo.cf
 irc.bteam.cf
 irs-governments.cf
 ismtrum.cf
-itauappalerta2020.cf
 itrevolution.cf
 jaeger-automotive.cf
 janokam.cf
@@ -592,6 +591,7 @@ resellerspanel.cf
 rfjtumostvds.cf
 rhvkegv.cf
 rianz.cf
+ricchoassets.cf
 rivncau.cf
 rjczzmj.cf
 rjxzpjr.cf
@@ -682,7 +682,6 @@ thehangpower.cf
 thiiiioo.cf
 topquality.cf
 topuogodo.cf
-totalpackagingsolutions.cf
 track.webprodeals.cf
 trademan11m1.cf
 transaktion-de.cf

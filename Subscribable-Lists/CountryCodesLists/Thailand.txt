@@ -11,6 +11,7 @@ ads3.bangkokpost.co.th
 aes.co.th
 aiccard.co.th
 alumni.bu.ac.th
+ampthailand.co.th
 antivirus.co.th
 assess.vet.cmu.ac.th
 atdi.in.th
@@ -115,7 +116,6 @@ tccs.co.th
 teacher2.aru.ac.th
 techno2.bu.ac.th
 tehmag.co.th
-tepcian.utcc.ac.th
 thaisuperphone.atcreative.co.th
 thaiyonei.co.th
 thungchang.go.th

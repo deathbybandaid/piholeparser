@@ -71,6 +71,7 @@ batisoft.ir
 bayanbox.ir
 bcnn.ir
 behico.ir
+benittaa.ir
 bermoda.ir
 beshmor3.ir
 beststamp.ir
@@ -121,15 +122,16 @@ dpistudio.ir
 dptsco.ir
 drivecheck.imanmandegar.ir
 dropbox.imanmandegar.ir
+drsazeh.ir
 drshirvanii.ir
 ebmco.ir
-ecobar.ir
 edumonte.ir
 egns.ir
 elsi.ir
 engmina.ir
 entesharat.torbath.ac.ir
 eor.ir
+ero.bckl.ir
 ertebat24.ir
 esfapplestore.ir
 eslimi.ir
@@ -172,8 +174,6 @@ hamiyannews.ir
 herman-co.ir
 heyatealiakbar.ir
 hideme.vcp.ir
-hobabplast.ir
-homaaviation.ir
 honarbaran.ir
 hostboy.ir
 hpress.ir
@@ -413,7 +413,6 @@ static-cdn.anetwork.ir
 storepro.ir
 sunbazar.ir
 sweetenglish.ir
-ta-behesht.ir
 taghdis.ir
 takaram.ir
 takiran.ir
@@ -421,7 +420,6 @@ takzarf.ir
 tamirkhan.ir
 tapsell.ir
 tarnava.ir
-tatcogroup.ir
 techmob.ir
 tehrankhabar.ir
 teknopars.ir

@@ -189,6 +189,7 @@ cartfest.ro
 carto.ro
 casabilius.ro
 catalingagiu.ro
+cazanele-dunarii.ro
 ccilfov.ro
 cciroenfr.ro
 centru-inchiriere.ro
@@ -350,6 +351,7 @@ florindumitrescu.ro
 fontanaresidence.ro
 foodandwineshow.ro
 forti-imob.ro
+fotovideografie.ro
 foxprint.ro
 fpse.cros.ro
 fr.westernunion.com.fr.fr.session-expired.html.trupaartizan.ro
@@ -402,7 +404,6 @@ hotnews.count.brat-online.ro
 hytorc.ro
 icpet-intrometic.ro
 iliebike.ro
-illitrading.ro
 iloveitaly.ro
 images.top66.ro
 imex.cezard.imcserver.ro
@@ -472,6 +473,9 @@ lucibad.home.ro
 lucidius.ro
 lumitech.ro
 luxcart.ro
+m-visa.com-undergo-aujhbhthgo.eyedrops.ro
+m-visa.com-undergo-aujhbhthqgo.eyedrops.ro
+m-visa.com-undergo-aujhbhthqo.eyedrops.ro
 m.cyberplusserice.banquepopulaire.fr.alpes.icgauth.websso.bp.13806.emparecoin.ro
 m.n.wld.onepoint.ro
 mag33.icehost.ro

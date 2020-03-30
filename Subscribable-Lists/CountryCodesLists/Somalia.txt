@@ -7,7 +7,6 @@ bankofamerica.com.libfoobar.so
 bos.so
 mogadishushippinglines.com.so
 radiohimilo.so
-rcl.yme.so
 sispa.so
 somcast.so
 spielothek.so

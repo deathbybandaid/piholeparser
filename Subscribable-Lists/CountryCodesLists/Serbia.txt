@@ -1,6 +1,5 @@
 10.rs
 3.aqa.rs
-a24assistance.rs
 abcinformatika.rs
 ads-kurir.providus.rs
 ads.kurir-info.rs
@@ -31,6 +30,7 @@ domzdravljasd.rs
 dzzrenjanin.rs
 enterstudio.rs
 fishin.rs
+flavena.co.rs
 getget.rs
 grandgroup.co.rs
 greenvillage.edu.rs

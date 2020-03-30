@@ -63,6 +63,7 @@ aladin.hu
 albertpeter.hu
 alestes.hu
 alkatreszar.hu
+alkoholszondanagyker.hu
 allround-service.hu
 altaweb.hu
 alzheimerkor.hu
@@ -122,6 +123,7 @@ budapest-masszazs.hu
 buk-furdo.hu
 bulla2000.hu
 bumper-ball.hu
+businesstart.hu
 butor-butorok.hu
 buycar.hu
 bvacontionline.pe.hu
@@ -154,7 +156,6 @@ daserver.ultraweb.hu
 dckmaas.pe.hu
 ddl2.data.hu
 ddl7.data.hu
-demu.hu
 denazo.hu
 deni6.deninet.hu
 deni7.deninet.hu
@@ -164,6 +165,7 @@ diaflora.hu
 dialektika.extra.hu
 dkgeast.hu
 dmdamedia.hu
+dogmarketing.hu
 dorotheaprh.pe.hu
 drzalai.hu
 dsejl.pe.hu
@@ -187,7 +189,6 @@ errorapppage.ucoz.hu
 eskuvoiszalon.hu
 eskuvotervezo.hu
 etarget.hu
-etrackdivi.hostly.hu
 eurocompkft.hu
 eveangel.hu
 expressz.hu

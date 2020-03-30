@@ -88,7 +88,6 @@ brightstarcorp.com.vn
 c1pson-nt.khanhhoa.edu.vn
 campaign.accesstrade.vn
 capdiendavico.vn
-centrehotel.vn
 ceo-sign.auviet.edu.vn
 ceochallenges.vn
 chemnet.edu.vn
@@ -120,7 +119,6 @@ daithanhtech.com.vn
 danetc.vn
 dangcapdigital.com.vn
 danhviet.com.vn
-datco.vn
 dathiennhien.vn
 dautusangtao.com.vn
 delivery.adnetwork.vn
@@ -128,6 +126,7 @@ delivery.m.ambientplatform.vn
 delivery.yomedia.vn
 demo-adopt.admicro.vn
 diaocsg.vn
+dichthuathatinh.vn
 dichvucong.vn
 dicresco.vn
 diemdensaigon.vn
@@ -209,7 +208,6 @@ hoamilienchieu.edu.vn
 hoangnguyenmec.com.vn
 hocvientaichinh.com.vn
 holypig.vn
-hondasaigon.com.vn
 hp-tech.com.vn
 hrdcvn.com.vn
 i01001.dgn.vn
@@ -225,6 +223,7 @@ interlogistics.com.vn
 ir.admicro.vn
 itim.vn
 jashop.vn
+karahome.vn
 kazuled.com.vn
 kentazo.vn
 ketoanhaiphong.vn
@@ -297,6 +296,7 @@ media5.admicro.vn
 media6.admicro.vn
 media7.admicro.vn
 media9.admicro.vn
+mediagift.vn
 medialed.vn
 member.adnetwork.vn
 metrics.adnetwork.vn
@@ -320,7 +320,6 @@ nangmuislinedep.com.vn
 nbc.com.vn
 nchdanang.com.vn
 newwayit.vn
-nguoidepxumuong.vn
 nguyenminhngoc.vn
 nhacuatoi.com.vn
 nhatnang.vn
@@ -354,6 +353,8 @@ phukien365.vn
 phukienchat.com.vn
 phukienhdpe.vn
 phuoclongco.com.vn
+phuongphamngulao.gov.vn
+phutungotog7.vn
 polyad.galaxypub.vn
 popodoosmartenglish.com.vn
 pqlkh-htqt.qnu.edu.vn
@@ -396,7 +397,6 @@ sanphaminox.vn
 santretunhien.vn
 satthachkhe.vn
 sdk.zadn.vn
-secure.bankofamerica.com-login-sign-in-signonv2screen.go.suzukihaiphong.com.vn
 senvangvn.vn
 server02.hostngon.vn
 serving-ad.tv24.vn
@@ -464,7 +464,6 @@ thuexevantaithanhhoa.vn
 tientrienseafood.com.vn
 tmtoys.com.vn
 tool.cleverads.vn
-tourgiare.vn
 track-srv.vietnamnet.vn
 track.adnetwork.vn
 track.sendo.vn

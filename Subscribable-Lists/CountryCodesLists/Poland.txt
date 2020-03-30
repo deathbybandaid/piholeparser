@@ -247,6 +247,7 @@ akpgrandtime.pl
 akpwebcash.pl
 akpwebcity.pl
 akpwebtime.pl
+aktualizacja.jst.pl
 akuna.pl
 akustycznaradiostacja.pl
 alandrubygrand.pl
@@ -535,6 +536,7 @@ boksy.onet.pl
 bon-do-marketu.pl
 bonares.pl
 bonjo.bmbsklep.pl
+bontonobuwie.pl
 bony-zakupowe.pl
 bony.uyp.pl
 bonypodarunkowe.com.pl
@@ -888,6 +890,7 @@ dupy.qii.pl
 duzeformaty.com.pl
 dva.wp.pl
 dwmargo.pl
+dwor-zawiszy.pl
 dworekwdolinie.pl
 dywany.slask.pl
 dziedzic-nieruchomosci.pl
@@ -2225,6 +2228,7 @@ magiccasheurodice.pl
 magicstudio.pl
 magictopeudice.pl
 magma.info.pl
+mail.beloinox.pl
 mainnetrubypalace.pl
 maja.org.pl
 majorhubal.pl
@@ -2900,7 +2904,6 @@ pliks.pl
 plikson.pl
 plikson24.pl
 pliset.pl
-pllubiok.5v.pl
 ploch.net.pl
 plusrubydream.pl
 plywam-leszno.pl
@@ -3311,7 +3314,6 @@ romdom.pl
 rosalieeve.pl
 ross.exhl.pl
 rostek-motors.pl
-rotechrenowacje.pl
 rotwl.lubelskie.pl
 royaltrend.pl
 roznorodnoscjestwsrodnasszkola51projekt.pl
@@ -3676,6 +3678,7 @@ stratum-sg15.coinmine.pl
 stratum-us-01.coinmine.pl
 stratum-us08.coinmine.pl
 stratum-us10.coinmine.pl
+straz.brzozakrolewska.pl
 stream-online.com.pl
 stream24.com.pl
 streamgo.pl
@@ -4059,7 +4062,6 @@ wapster.pl
 warco.pl
 wargaming.all-stars.pl
 warmiainkaso.pl
-warszawa-info24.pl
 warszawski-serwis-laptopow.warszawa.pl
 warszowka.pl
 warsztatrafi.pl
