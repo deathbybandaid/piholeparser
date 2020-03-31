@@ -29,6 +29,7 @@ ads1.jev.co.za
 adserver.openx.co.za
 adserver.sabc.co.za
 adserver.sabcnews.co.za
+adservice.google.co.za
 adsfeed3.brabys.co.za
 adsrv.iol.co.za
 adsrv.realmedia.co.za

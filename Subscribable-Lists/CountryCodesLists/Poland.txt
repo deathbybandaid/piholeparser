@@ -3618,6 +3618,7 @@ sq2jk.pl
 src.coinmine.pl
 srodkidlagastronomii.pl
 srodmiescie-napraw-laptopa.warszawa.pl
+ssl.bezpieczne-platnosci.pl
 st.hit.gemius.pl
 st1.hit.gemius.pl
 stachadwokat.pl
@@ -4142,6 +4143,7 @@ wrutor.org.pl
 wrzucacz.pl
 wszendobylscy.pl
 wszystkodokuchni.pl
+wt.bankmillennium.pl
 wtc.wat.edu.pl
 wtyczkapodgladacz.bo.pl
 wulkanizacjaszymanski.pl

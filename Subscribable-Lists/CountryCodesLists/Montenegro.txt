@@ -122,6 +122,7 @@ ads.adtarget.me
 ads.poptarts.me
 ads1.blogadvertising.me
 adserver.curiouscat.me
+adsrv.me
 adtarget.me
 adtds.me
 adv-mydarkness.ggcorp.me
@@ -991,6 +992,7 @@ laci-schirmer.me
 lack-jill4.me
 laoalasleb.me
 laoalsena.me
+lap-click.tr.line.me
 lara-beecham.me
 larose.jb2c.me
 lastmx.bluematt.me
@@ -1057,6 +1059,7 @@ madansunder.me
 magazine.downloadsite.me
 magdalena-rodriques.me
 magentacooler.me
+magyarnep.me
 mail.downloadsite.me
 mailechangeoutlookwebapp.ucraft.me
 mailtrack.me
@@ -1160,6 +1163,7 @@ naturalpower.me
 navltas.me
 neglective.me
 nephrolin.me
+netbetyar.me
 netnet.me
 newfiltering.me
 newmicrosoft-outlook-owaoday.ukit.me

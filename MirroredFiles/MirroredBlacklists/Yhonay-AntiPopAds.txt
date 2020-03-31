@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 11641
+! Version: 11648
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -1435,6 +1435,7 @@
 ||cujsutkdbz.com^
 ||cukabtvyl.com^
 ||cukwbpne.com^
+||cumgfzvm.com^
 ||cuortwomnr.com^
 ||cupzwcxgx.com^
 ||curnkiosk.com^
@@ -2995,6 +2996,7 @@
 ||fwjpfuzn.bid^
 ||fwnebnypnkp.bid^
 ||fwnlrejfedzy.com^
+||fwnowvgk.com^
 ||fwskchuk.com^
 ||fwslcjmfdqyvmg.com^
 ||fwutbizwevr.com^
@@ -3510,6 +3512,7 @@
 ||gxwjkbxubfjd.com^
 ||gxxkrzrvy.com^
 ||gxxsqeqlepva.com^
+||gxymlqcnu.com^
 ||gxyrnjtgtwll.com^
 ||gxzfpusmd.com^
 ||gyahidmf.bid^
@@ -4775,6 +4778,7 @@
 ||jkiicqewzn.com^
 ||jkiwvfgrsythrw.com^
 ||jkjcoyeeglunz.com^
+||jkjkeithc.com^
 ||jkjoxlhkwnxd.com^
 ||jkjwifmep.com^
 ||jkoiwpjk.bid^
@@ -10687,6 +10691,7 @@
 ||vwdjipcvcph.com^
 ||vwfvnfvelrvvww.com^
 ||vwprafiwoiut.com^
+||vwuyuahqf.com^
 ||vwvnounnfteusv.com^
 ||vwvvaeor.com^
 ||vwxgxculdbybw.com^
@@ -10906,6 +10911,7 @@
 ||wwnuowyww.com^
 ||wwohikwhl.com^
 ||wwqnwask.com^
+||wwrpfevyca.com^
 ||wwtxqylusxtd.com^
 ||wwwmurgd.com^
 ||wxaeamianbg.com^
@@ -11072,6 +11078,7 @@
 ||xpahdmitqadqda.com^
 ||xpgcrmxejlgig.com^
 ||xpgfsxoyijt.com^
+||xpigohyzfdcgp.com^
 ||xprurfeoarxz.com^
 ||xptslcoedn.com^
 ||xpwppacpda.com^

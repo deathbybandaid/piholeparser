@@ -612,6 +612,7 @@ dmp.starbolt.io
 dmpstorage.adalliance.io
 dmx.districtm.io
 dnb.io
+dnsdelegation.io
 do.onthe.io
 documentation.backtrace.io
 documentation.linode-nj1.backtrace.io

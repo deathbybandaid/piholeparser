@@ -112,6 +112,7 @@ ads.proc.cc
 ads.road.cc
 ads.vx2.cc
 adserver.cz.cc
+adtag.cc
 adult-host.cc
 adult-movies.cc
 adults.cc
