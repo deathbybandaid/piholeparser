@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 27 February 2020, 15:31:22 WIB
+! Last modified: 31 March 2020, 21:58:21 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -106,6 +106,7 @@
 ||dailymotion.com$3p,domain=mirrorace.com
 ||dc08i221b0n8a.cloudfront.net$3p
 ||demand.supply$3p
+||di.phprcdn.com/pics/banners_full_width
 ||digiads.co.id$3p
 ||dingrigoguter.pro$3p
 ||dolohen.com$popup,3p
@@ -159,6 +160,7 @@
 ||google.*/pagead$3p
 ||lh3.googleusercontent.com$domain=enthus1ast.com
 ||gra4.com$3p
+||hellohi.me$3p
 ||haxhits.com/assets/images/
 ||hexasoft.com.my$3p
 ||hh-btr.com$popunder
@@ -307,6 +309,8 @@
 ||uadexchange.com$3p
 ||ubloger.com/wp-content/uploads*gif
 ||undef8trust.com$popup
+||uproxy.to/app/g12.js
+||uproxy.to*helper-js
 ||usstero.com$3p
 ||util.simply-hentai.com
 ||uzone.id$3p
@@ -320,6 +324,7 @@
 ||vouceeco.com$3p
 ||wad.ojooo.com/images/banners
 ||wanhealth.me*soralink
+||waxpigbaa.com$3p
 ||webminepool.com$3p
 ||wi.cr/bn.png$image
 ||wistia.com$3p
@@ -460,6 +465,7 @@
 *$3p,domain=traffic2bitcoin.com
 *$3p,domain=trafficadbar.com
 *$3p,domain=uii.io
+*$3p,domain=uproxy.to
 *$3p,domain=urle.io
 *$3p,domain=ventax.net
 *$3p,domain=vipshort.com
@@ -487,7 +493,7 @@
 *$popup,3p,domain=desserttips.me
 *$popup,3p,domain=drakorindofilms.net|inidramaku.com|korenlovers.co
 *$popup,3p,domain=dutchycorp.ovh
-*$popup,3p,domain=get4link.xyz|p4link.com|paid4link.xyz
+*$popup,3p,domain=get4link.xyz|p4link.com
 *$popup,3p,domain=imgbaron.com
 *$popup,3p,domain=imgfile.net|imgsky.net
 *$popup,3p,domain=kabarviral.blog
@@ -615,6 +621,7 @@
 @@/basement/js
 @@/coingecko.js$domain=coingecko.com
 @@/download^$xmlhttprequest,domain=speedtest.net
+@@/embed$domain=nekopoi.care
 @@/fingerprint$domain=asmwall.com
 @@/flow/frontend_assets/js/advertisement.js
 @@/hello^$xmlhttprequest,domain=speedtest.net
@@ -747,6 +754,7 @@
 @@media.net$1p
 @@moremoney.io$generichide
 @@neobux.com$1p
+@@nsimg.net$domain=pornhubpremium.com
 @@ouo.io/css/bootstrap.css
 @@pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
 @@popads.net$1p
@@ -822,10 +830,10 @@
 ! Unblock Elements --------------------
 drive.ad4msan.win#@#p
 simply-hentai.com#@#+js(aeld, , [native code])
+aospextended.com,drive.ad4msan.win#@#.adsbygoogle
 cointiply.com#@#.ad-panel
 cointiply.com#@#.adsbox
 cryptofxflash.com#@#.banner-728x90
-drive.ad4msan.win#@#.adsbygoogle
 ptcwall.com#@#.ad-block
 cinemaindo21.org#@##topad
 faucethero.com#@##top-ads
@@ -916,6 +924,7 @@ speedup-faucet.com##tr:nth-of-type(3) > td > table
 speedup-faucet.com##tr:nth-of-type(4) > td > center
 speedup-faucet.com##tr:nth-of-type(4) > td > table > tbody > tr:nth-of-type(1) > td
 speedup-faucet.com##tr:nth-of-type(4) > td > table > tbody > tr:nth-of-type(2) > td
+sorewa.net##h2
 voxc.org##h4
 vozdesportiva.com##div.iklan
 wadooo.com##ol
@@ -941,7 +950,6 @@ xcolander.com##+js(aopr, FuckAdBlock)
 ##.disads301px
 ##.disads728px
 ##.error.test-status
-##.fade.modal
 ##.gb_g.gb_Tc.gb_ud
 ##.hads
 ##.hitomi-anintager
@@ -1084,6 +1092,7 @@ pantauterus.me##.truygiobl
 pantauterus.me##.wrapper-sticky
 pirate-bay.net##.modal
 pirate-bay.net##.sidebar-vpn
+pornhubpremium.com##.sectionCarousel.sectionWrapper
 premierexxi.*##.wpb-outer-wrap
 reevown.com##.adsbygoogle
 samehadaku.tv##.keyw
@@ -1095,6 +1104,12 @@ simply-hentai.com##.sticky
 simply-hentai.com##.tc
 solidfiles.com##.premium-promo.box
 solidfiles.com##.remove
+sorewa.net##.clearfix.entry-content > div:nth-of-type(3)
+sorewa.net##.clearfix.mh-row.mh-post-nav
+sorewa.net##.mh-header
+sorewa.net##.mh-preheader
+sorewa.net##.mh-share-buttons
+sorewa.net##.mh-sidebar.mh-widget-col-1
 speedtest.net##.lower-horizontal.ad
 speedtest.net##.notification-container
 speedtest.net##.top-horizontal

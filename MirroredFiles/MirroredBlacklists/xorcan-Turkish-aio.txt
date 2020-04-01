@@ -1,7 +1,7 @@
 # Title: nurcan Türk ad-list
 # Format: Hosts
-# Released: 19.03.2020
-# Entries: 7781
+# Released: 31.03.2020
+# Entries: 7799
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -193,6 +193,7 @@
 127.0.0.1 adbetclickin.pink
 127.0.0.1 adbetnet.advertserve.com
 127.0.0.1 adbetnet.com
+127.0.0.1 adbetnetwork.com
 127.0.0.1 adbooks.ru
 127.0.0.1 adbreak.cdn.ubeei.com
 127.0.0.1 adbreak.cubecdn.net
@@ -785,6 +786,7 @@
 127.0.0.1 betkanyon100.com
 127.0.0.1 betmatik553.com
 127.0.0.1 betokont.com.tr
+127.0.0.1 betonbetaffiliates.com
 127.0.0.1 betpas278.com
 127.0.0.1 betpot5.com
 127.0.0.1 betticket.biz
@@ -1253,6 +1255,7 @@
 127.0.0.1 dintwas.com
 127.0.0.1 directlinkkpush.com
 127.0.0.1 directrev.com
+127.0.0.1 direktgiris.com
 127.0.0.1 districtm-match.dotomi.com
 127.0.0.1 divatraffic.bid
 127.0.0.1 diyetyemek.com.tr
@@ -1483,6 +1486,7 @@
 127.0.0.1 fevzihoca.com.tr
 127.0.0.1 fhxrovn.tk
 127.0.0.1 fightclubturkey.com
+127.0.0.1 filekeeper.topupload.ru
 127.0.0.1 fileturko.net
 127.0.0.1 filmfiz.com
 127.0.0.1 find-my-great-life.com
@@ -1595,6 +1599,7 @@
 127.0.0.1 gkmforex4.com
 127.0.0.1 global.appnext.com
 127.0.0.1 global.msads.net
+127.0.0.1 gndrglsn.com
 127.0.0.1 go-mpulse.net
 127.0.0.1 go.admost.com
 127.0.0.1 go.coolthingstofind.xyz
@@ -1618,6 +1623,7 @@
 127.0.0.1 goplay4.com
 127.0.0.1 gorselcdn.com
 127.0.0.1 gorselpanel.com
+127.0.0.1 gozatar.com
 127.0.0.1 grafit.com.tr
 127.0.0.1 granantrade1.com
 127.0.0.1 grand-ads.com
@@ -2437,6 +2443,7 @@
 127.0.0.1 myswitchads.com
 127.0.0.1 mzrhjbbikqm.com
 127.0.0.1 n.gftnk.com
+127.0.0.1 nabcity.com
 127.0.0.1 nalandogan.tk
 127.0.0.1 narutogaming.com
 127.0.0.1 native.propellerclick.com
@@ -2553,6 +2560,7 @@
 127.0.0.1 olsiyll.ml
 127.0.0.1 olsiyll.tk
 127.0.0.1 olydig.com
+127.0.0.1 omareeper.com
 127.0.0.1 omaze.com
 127.0.0.1 omerfarukdemiral.com.tr
 127.0.0.1 omibngf.cf
@@ -2590,6 +2598,7 @@
 127.0.0.1 opelservisibodrum.com
 127.0.0.1 openamp-error-reporting.appspot.com
 127.0.0.1 openinstall.io
+127.0.0.1 openshare.topupload.ru
 127.0.0.1 openx.net
 127.0.0.1 openx2-match.dotomi.com
 127.0.0.1 optimizely.com
@@ -3174,6 +3183,7 @@
 127.0.0.1 sinerjias.com.tr
 127.0.0.1 sintaymuhendislik.com
 127.0.0.1 siparispanel.info
+127.0.0.1 siracasino.com
 127.0.0.1 sislidekor.com
 127.0.0.1 sisliklima.com
 127.0.0.1 sislinikah.com
@@ -3214,6 +3224,7 @@
 127.0.0.1 smrtbnr.xyz
 127.0.0.1 smrtcdn.club
 127.0.0.1 sociomantic.com
+127.0.0.1 softob.com
 127.0.0.1 softorsholitthis.info
 127.0.0.1 softreklam.com
 127.0.0.1 softwarer.us
@@ -3410,6 +3421,7 @@
 127.0.0.1 topclickguru.com
 127.0.0.1 topindira.top
 127.0.0.1 topswp.com
+127.0.0.1 topupload.ru
 127.0.0.1 toramanlar.com.tr
 127.0.0.1 toroadvertisingmedia.com
 127.0.0.1 totalsigorta.com
@@ -3419,6 +3431,7 @@
 127.0.0.1 tr-books.softwarer.us
 127.0.0.1 tr-gameland.com
 127.0.0.1 tr.bannersdf.com
+127.0.0.1 tr.ucretsiz-ekitaplar.site
 127.0.0.1 tr3reklam.com
 127.0.0.1 track-p958o4.link
 127.0.0.1 track-west.mobileadtrading.com
@@ -3528,6 +3541,7 @@
 127.0.0.1 ucads.ucweb.com
 127.0.0.1 ucbetting.com
 127.0.0.1 ucfwicndme.com
+127.0.0.1 ucretsiz-ekitaplar.site
 127.0.0.1 ucretsiz-indirin.online
 127.0.0.1 ucretsiz-kitaplar-indir-turk.com
 127.0.0.1 ucretsiz-pdf-kitap-indir.com
@@ -4487,6 +4501,7 @@
 127.0.0.1 www.betkanyon100.com
 127.0.0.1 www.betmatik553.com
 127.0.0.1 www.betokont.com.tr
+127.0.0.1 www.betonbetaffiliates.com
 127.0.0.1 www.betpas278.com
 127.0.0.1 www.betpot5.com
 127.0.0.1 www.betticket.biz
@@ -5296,6 +5311,7 @@
 127.0.0.1 www.gkmforex4.com
 127.0.0.1 www.global.appnext.com
 127.0.0.1 www.global.msads.net
+127.0.0.1 www.gndrglsn.com
 127.0.0.1 www.go-mpulse.net
 127.0.0.1 www.go.admost.com
 127.0.0.1 www.go.coolthingstofind.xyz
