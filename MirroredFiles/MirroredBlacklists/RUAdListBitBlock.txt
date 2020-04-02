@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: NV+ieI6RlHhIiu1kIhooaw
-! Version: 202003310030
+! Checksum: 5OB9y6OBxkcvEF7x0t8VXA
+! Version: 202004020030
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 31 Mar 2020 00:30 UTC
+! Last modified: 02 Apr 2020 00:30 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -450,7 +450,7 @@ podrobnosti.ua##.b-news-share
 rns.online##.b-popular--social
 disk.yandex.ru##.b-popup-share__content [data-click-action="share.resource"]
 sobaka.ru##.b-post-view__share
-aghdrezka.com,ahdrezka.com,betahdrezka.com,clubhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.co,hdrezka.gift,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,justhdrezka.com,livehdrezka.com,metahdrezka.com,myhdrezka.com,nuhdrezka.com,rezka.ag,thehdrezka.com,tryhdrezka.com,tvhdrezka.com,uphdrezka.com,youhdrezka.com##.b-post__social_holder > div
+aghdrezka.com,ahdrezka.com,betahdrezka.com,clubhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.co,hdrezka.gift,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,justhdrezka.com,livehdrezka.com,metahdrezka.com,myhdrezka.com,nexthdrezka.com,nuhdrezka.com,rezka.ag,thehdrezka.com,tryhdrezka.com,tvhdrezka.com,uphdrezka.com,youhdrezka.com##.b-post__social_holder > div
 utro.ru##.b-repost
 m24.ru##.b-services-menu_footer
 sobaka.ru##.b-share-items
@@ -466,7 +466,7 @@ altapress.ru##.b-social_top
 gazeta.ru##.b-socials-btn
 lenta.ru##.b-socials-subscribe
 lenta.ru##.b-socials__sharing > :not(.b-socials__favorite)
-aghdrezka.com,ahdrezka.com,betahdrezka.com,clubhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.co,hdrezka.gift,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,justhdrezka.com,livehdrezka.com,metahdrezka.com,myhdrezka.com,nuhdrezka.com,rezka.ag,thehdrezka.com,tryhdrezka.com,tvhdrezka.com,uphdrezka.com,youhdrezka.com##.b-tg__wrapper
+aghdrezka.com,ahdrezka.com,betahdrezka.com,clubhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.co,hdrezka.gift,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,justhdrezka.com,livehdrezka.com,metahdrezka.com,myhdrezka.com,nexthdrezka.com,nuhdrezka.com,rezka.ag,thehdrezka.com,tryhdrezka.com,tvhdrezka.com,uphdrezka.com,youhdrezka.com##.b-tg__wrapper
 vc.ru##.b-widget-facebook
 vc.ru##.b-widget-vk
 hvylya.net##.b__share--buttons
@@ -577,6 +577,7 @@ livemaster.ru##.grid-210
 thealphacentauri.net##.group.sidebar-top
 segodnya.ua##.h-social > *
 bigpuzzle.ru#?#.h4:-abp-contains(Наша группа ВКонтакте)
+www.film.ru##.head > .login > div
 mixednews.ru##.head-social
 argumentiru.com##.head_soc
 moika78.ru,nevasport.ru##.header-box__social
@@ -725,7 +726,7 @@ epravda.com.ua,eurointegration.com.ua,pravda.com.ua##.post__statistic > .post__c
 mediananny.com##.post_socials
 winreview.ru##.postmeta + noindex
 nv.ua##.promo_telegram
-filmhd1080.net##.psoc
+filmhd1080.xyz##.psoc
 peka2.tv##.publication-shares_flex
 nya.sh##.q > .bottom
 thequestion.ru##.question-share
@@ -799,6 +800,7 @@ cikavosti.com##.sidebar noindex > [href^="https://cikavosti.com/goto/"]
 androidinsider.ru,appleinsider.ru,hi-news.ru##.sidebar-banner-telegram
 t.ks.ua#?#.sidebar-box:-abp-has(> div > div > ul > .facebook)
 ryfma.com#?#.sidebar-card:-abp-has(> .content > .header:-abp-contains(Мы в соц.сетях))
+masterok.livejournal.com##.sidebar-custom > dd > a[href]
 darada.co##.sidebar-social__header
 moika78.ru,nevasport.ru##.sidebar-widget
 torm-egan.ru##.sidebox-soc
@@ -960,7 +962,6 @@ prk.city##.uptolike-div
 newstube.ru##.user-enter-social
 uz.video##.uzbanner
 1plus1.video##.video-comments
-zserials.tv##.video_sharing
 vesti.ru##.video_top_inner
 coub.com##.viewer__sharing__items > .viewer__sharing__item:not(.viewer__sharing__copy)
 inforesist.org##.visible-mg.clarity > center > :not(.mistake)
@@ -1011,6 +1012,7 @@ ykt.ru##.yui-panel--social
 2kino-2018.club,mnogohd.com##.yx-share
 livecars.ru,livesport.ru##.z_tag_telegram
 livecars.ru,livesport.ru##.z_tag_vk
+www.film.ru##.zen
 kopilkasovetov.com##.zoom-social-icons-widget
 livemaster.ru##:not(.auth-social-item) > a[title="Facebook"]
 livemaster.ru##:not(.auth-social-item) > a[title="Twitter"]
@@ -1551,6 +1553,7 @@ _userbar_$image
 ||pushall.ru^$third-party
 ||pusher.com^$third-party,domain=~onefm.ro
 ||pushme.io^$third-party
+||pushout.ru^$third-party
 ||pushprofit.net^$third-party
 ||pushvip.ru^$third-party
 ||send-notice.com^$third-party
@@ -1751,7 +1754,7 @@ _userbar_$image
 ||puzyaka.ru/ub/
 ||qip.ru/images/sign/
 ||raptr.com/badge/
-||relap.io^$third-party,domain=~2mm.ru|~adme.ru|~allboxing.ru|~briefly.ru|~drive2.com|~drive2.ru|~dynamo.kiev.ua|~euro-football.ru|~fitseven.ru|~inforeactor.ru|~inmyroom.ru|~izvestia.ru|~kulturologia.ru|~life.ru|~nevasport.ru|~newstube.ru|~politexpert.net|~ria.ru
+||relap.io^$third-party,domain=~2mm.ru|~adme.ru|~briefly.ru|~drive2.com|~drive2.ru|~dynamo.kiev.ua|~euro-football.ru|~fitseven.ru|~inforeactor.ru|~inmyroom.ru|~izvestia.ru|~kulturologia.ru|~life.ru|~nevasport.ru|~newstube.ru|~politexpert.net|~ria.ru
 ||rolki.ru/project/ubars/
 ||rostovmama.ru/components/com_line/
 ||ruler.autoserv.ru^
@@ -2391,7 +2394,7 @@ vc.ru##.b-push-subscribe-wrapper
 siliconrus.com##.b-sidebar-block-adv-bottom
 sports.ru##.b-subscribe-block
 vedomosti.ru##.b-subscribe-popup
-aghdrezka.com,ahdrezka.com,betahdrezka.com,clubhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.co,hdrezka.gift,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,justhdrezka.com,livehdrezka.com,metahdrezka.com,myhdrezka.com,nuhdrezka.com,rezka.ag,thehdrezka.com,tryhdrezka.com,tvhdrezka.com,uphdrezka.com,youhdrezka.com##.b-tophead__subscribe-dropdown
+aghdrezka.com,ahdrezka.com,betahdrezka.com,clubhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.co,hdrezka.gift,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,justhdrezka.com,livehdrezka.com,metahdrezka.com,myhdrezka.com,nexthdrezka.com,nuhdrezka.com,rezka.ag,thehdrezka.com,tryhdrezka.com,tvhdrezka.com,uphdrezka.com,youhdrezka.com##.b-tophead__subscribe-dropdown
 lenta.ru##.b-topic__favorite-tooltip
 ogolosha.com##.b_a_n_e_r-top
 lp4lp.ru,piter.com,pleer.ru,sochi.camera##.banner
@@ -2675,7 +2678,7 @@ sports.ru,tribuna.com##.plistaList > a[data-category="Акция"]
 sport.ua##.policy-accept
 ua-football.com##.policy-mes
 obozrevatel.com##.poll-notification
-filmhd1080.net##.polna-rkl > center
+filmhd1080.xyz##.polna-rkl > center
 kinoliza.net##.pometka
 gdz.ru,megaresheba.ru##.popUp-subscribe
 edabez.ru,porodakoshki.ru##.popUpboxvn
@@ -2979,7 +2982,6 @@ gamer-info.com##div[class*="ads"][class*="overlay"]
 1plus1.ua##div[class*="popup"][class*="subscribe"]
 1tv.ru##div[class*="promo"][class$="place"]
 gdekluet.ru##div[class*="ui-widget"]
-motor.ru#?#div[class]:-abp-has(> [data-widget^="plista_widget"])
 google.com,google.com.ua,google.ru##div[class][jsaction^="dismiss_warmup"]
 mail.rambler.ru##div[class^="NewsBlock-root"]
 mail.rambler.ru##div[class^="Profile-banner"]
@@ -3609,6 +3611,7 @@ prom.ua#@#img[alt="facebook"]
 /nadz-sdk.
 /notification-ext.
 /notification-prod-sw.js
+/notification/indexdbwrapper.
 /notification/notify.js
 /notifications_lazy.
 /notifyme.js

@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 11648
+! Version: 11665
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -144,6 +144,7 @@
 ||agvinhvex.com^
 ||agwsneccrbda.com^
 ||agzfxovg.com^
+||agzlxyylf.com^
 ||agzupwcefbjol.bid^
 ||ahbcagaazvtuh.com^
 ||ahcnxuepput.com^
@@ -1616,6 +1617,7 @@
 ||ddlwnwshlk.com^
 ||ddmlzfwsb.com^
 ||ddnmzrpp.com^
+||ddvqjnbt.com^
 ||ddzfjyppcbv.com^
 ||debuackedhkvu.bid^
 ||deebwmbbytr.com^
@@ -3485,6 +3487,7 @@
 ||gwjmznxk.com^
 ||gwohimtyhbthg.com^
 ||gwovohvkzay.com^
+||gwpjvfqeui.com^
 ||gwqkliacsn.bid^
 ||gwquuagkjxbq.com^
 ||gwucenxvmkowap.com^
@@ -3499,6 +3502,7 @@
 ||gxkwwbqzsg.com^
 ||gxleeixyzlaaab.com^
 ||gxluqcpsfhc.bid^
+||gxmjjxyyljtyf.com^
 ||gxmpahyt.bid^
 ||gxordgtvjr.com^
 ||gxpijskyqwqfjw.com^
@@ -4216,6 +4220,7 @@
 ||iinkhwsh.bid^
 ||iipivevueme.com^
 ||iipkiyju.bid^
+||iiripeedqfj.com^
 ||iisfpzkkxkz.com^
 ||iitfqholnpud.com^
 ||iizgpusp.com^
@@ -4458,6 +4463,7 @@
 ||ivebuyrkn.com^
 ||ivfwajwbhiwzw.com^
 ||ivildmcafzped.bid^
+||ivjkdyrjjgxhch.com^
 ||ivkasohqerzl.com^
 ||ivkfuasf.com^
 ||ivktdwmjhkqy.com^
@@ -5113,6 +5119,7 @@
 ||kbguruenim.bid^
 ||kbgyxsoskilli.com^
 ||kbhaxxsiucgnek.com^
+||kbifqgyugzo.com^
 ||kbipxydhakpdwj.bid^
 ||kbjddmnkallz.com^
 ||kbkvptlxijafb.com^
@@ -5351,6 +5358,7 @@
 ||knqjqzziu.com^
 ||knslxwqgatnd.com^
 ||kntdzsua.bid^
+||kntswafuos.com^
 ||knvhqxpt.com^
 ||knwfmpvtj.com^
 ||knxwoaewryxaxd.bid^
@@ -5874,6 +5882,7 @@
 ||lmejuamdbtwc.com^
 ||lmepqfsazb.com^
 ||lmevacaixeqy.com^
+||lmheeproc.com^
 ||lmheosvft.com^
 ||lmjjenhdubpu.com^
 ||lmjklpukbbwxm.bid^
@@ -6589,6 +6598,7 @@
 ||musighkm.com^
 ||muwjxxvovtb.com^
 ||muxtpvixahawy.com^
+||muyoozrkkyr.com^
 ||muzjpkel.com^
 ||mvbemeggnodty.com^
 ||mvdbdtwicgw.bid^
@@ -8867,6 +8877,7 @@
 ||rlhdzilsgvwu.bid^
 ||rljakgkixu.com^
 ||rllvjujeyeuy.com^
+||rlomivunesqal.com^
 ||rlomrjxrpsev.com^
 ||rlpabnhvtu.com^
 ||rlqvyqgjkxgx.com^
@@ -8969,6 +8980,7 @@
 ||rrptobfpqeftyg.com^
 ||rrqmebej.bid^
 ||rrrdddbtofnf.com^
+||rrriyoomil.com^
 ||rrscdnsfunoe.com^
 ||rrshibwsq.com^
 ||rrsijwsvemhzxx.bid^
@@ -9538,6 +9550,7 @@
 ||svpubdwpaam.bid^
 ||svrybecqxgdq.com^
 ||svsatrerbxh.com^
+||svuyfmzsxmjwa.com^
 ||svwsjxptbsvqo.com^
 ||swahobrjdddri.com^
 ||swclpfypife.bid^
@@ -9679,6 +9692,7 @@
 ||tcyeyccspxod.com^
 ||tczvikamowfjte.com^
 ||tddjcdzra.com^
+||tdeilxkjxgdedb.com^
 ||tdfamwrbdwkosn.com^
 ||tdgysmmdru.bid^
 ||tdjfxeavusdpci.com^
@@ -10033,6 +10047,7 @@
 ||tvesvlvse.com^
 ||tvevyrrrnbcbyk.com^
 ||tvexsjvxhb.bid^
+||tvggnruvmiv.com^
 ||tvhyilwkn.com^
 ||tvjkilgfanpt.com^
 ||tvkgdonh.com^
@@ -10534,6 +10549,7 @@
 ||vewpwrqebmwu.com^
 ||vexuchkhuin.com^
 ||vezipelsr.com^
+||vfbvcshnc.com^
 ||vfgbeaayncdya.com^
 ||vfkuauks.com^
 ||vfkwaaqc.com^
@@ -11071,6 +11087,7 @@
 ||xocecytufu.com^
 ||xoekgcscpnipb.com^
 ||xogkpytfgyzy.com^
+||xogvagdtgehxm.com^
 ||xoqkhbtpnzblh.com^
 ||xorotmjjst.com^
 ||xotaiybjyj.com^
