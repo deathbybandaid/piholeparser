@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: NfMbMI5pYbvaU+XDqIDMEw
-! Version: 202004010021
+! Checksum: /NW5Pl1mvjjh8AC3fxt6tw
+! Version: 202004030041
 ! Title: Fanboy's Annoyance List
-! Last modified: 01 Apr 2020 00:21 UTC
+! Last modified: 03 Apr 2020 00:41 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -19866,6 +19866,7 @@ _site_cookie_
 ##.tumblr-share
 ##.tumblrlink
 ##.tunein_widget
+##.tve__info__share
 ##.tw-b
 ##.tw-icon
 ##.tw-share
@@ -40258,6 +40259,7 @@ devhut.net##.ht-notification-section
 huawei.com##.huawei-bootom-cookie
 zeroturnaround.com##.hud
 ibm.com##.ibm-show
+wccftech.com##.iframe-wrapper
 doff.co.uk##.ig_action_bar
 subscribercounter.com##.index__ModalContainer--mPjzx
 earthcp.com##.info
