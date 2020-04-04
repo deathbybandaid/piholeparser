@@ -1687,6 +1687,7 @@ towedjousts.me
 tpt4fnx.r.us-west-2.awstrack.me
 trace.pixel.shodan.me
 track.rtb-media.me
+tracker.520call.me
 tracker.u-link.me
 trackers.adtarget.me
 tracking.adsup.me
