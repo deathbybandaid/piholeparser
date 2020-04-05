@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 11680
+! Version: 11689
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -4916,6 +4916,7 @@
 ||jqamhmztnukb.com^
 ||jqanygfhqne.com^
 ||jqdfakgwsxvccl.bid^
+||jqdkoslwjtn.com^
 ||jqdwgguusof.bid^
 ||jqfkitrkhpxl.com^
 ||jqgblwjfvox.com^
@@ -5838,6 +5839,7 @@
 ||lkaarvdprhzx.com^
 ||lkamujrx.com^
 ||lkaumkxmzefa.com^
+||lkddksjgih.com^
 ||lkdlamrwl.com^
 ||lkfepwhchrlv.bid^
 ||lkfuihubbros.com^
@@ -6188,6 +6190,7 @@
 ||lzvnaaozpqyb.com^
 ||maboflgkaxqn.com^
 ||mafndqbvdgkm.com^
+||mafvijpjsaz.com^
 ||magufsvogh.com^
 ||magwfymjhils.com^
 ||mahrzxsou.com^
@@ -6421,6 +6424,7 @@
 ||mlntnugnalv.bid^
 ||mlnvmpmgzfk.bid^
 ||mlonsougoylpbu.com^
+||mlqrvksywbemk.com^
 ||mlqrytbjgrbe.com^
 ||mlrocrzhrgbyi.bid^
 ||mlsbxcgueedu.com^
@@ -7705,6 +7709,7 @@
 ||pcpzhtdvtcqj.com^
 ||pcqmqyqeswnrd.com^
 ||pcrhfkuwp.com^
+||pcskkmgjnubi.com^
 ||pcvdrjvku.bid^
 ||pdapmkivb.com^
 ||pddvryclt.bid^
@@ -9863,6 +9868,7 @@
 ||tlijmtzosfhdsz.bid^
 ||tljikqcijttf.com^
 ||tlkcokqtmbgixf.bid^
+||tlkhzqmrg.com^
 ||tlkqzjvyujb.com^
 ||tlnoffpocjud.com^
 ||tlnrlrsquvcx.bid^
@@ -10326,6 +10332,7 @@
 ||ujuclxjkb.com^
 ||ujuqvalvvvof.com^
 ||ujwdwwfuqcgnv.com^
+||ujxogbsw.com^
 ||ujylaibwmgtaow.com^
 ||ujzeqfkeilro.com^
 ||ukbhtzbxqzzqp.bid^
@@ -10816,6 +10823,7 @@
 ||wgpsjcpdulptl.com^
 ||wgqirxevoh.com^
 ||wgwguxqij.com^
+||wgxuexjrvo.com^
 ||whdzxabhqsdnlc.com^
 ||whgvyswets.com^
 ||whjibbprhng.com^
@@ -10864,6 +10872,7 @@
 ||wmtyrdrpjbhnj.com^
 ||wnaibjbnqown.com^
 ||wndwhzjmfshthv.com^
+||wnfjzjmc.com^
 ||wnhzlesdqzu.com^
 ||wnlhbehajh.com^
 ||wnmtmdlvqqscs.com^
