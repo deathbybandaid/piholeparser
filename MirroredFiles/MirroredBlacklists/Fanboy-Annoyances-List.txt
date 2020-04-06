@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: OQor7S0N6qxGUmaYXyhKtA
-! Version: 202004050021
+! Checksum: tE1eXVUdVv4Qo4IrKcAKSg
+! Version: 202004060021
 ! Title: Fanboy's Annoyance List
-! Last modified: 05 Apr 2020 00:21 UTC
+! Last modified: 06 Apr 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -4000,10 +4000,12 @@ _youtube_social_
 /ccm19/*
 /cCookiesH.
 /cdcookie/*
+/cdn/consent_
 /check_cookie_
 /CheckCookie.
 /checkCookie?$script
 /cipr-cookie-opt-out/*
+/cm-body.js
 /cmp-banner.js
 /cmp-init.
 /cmp-sp.js
@@ -4090,6 +4092,7 @@ _youtube_social_
 /cookie-pop-up.
 /Cookie-popup-
 /cookie-popup.
+/cookie-popup?
 /cookie-privacy-
 /cookie-prompt.
 /cookie-reglement.
@@ -4131,6 +4134,7 @@ _youtube_social_
 /cookie_banner-
 /cookie_banner.
 /cookie_banner/*
+/cookie_banner_
 /cookie_bar.
 /cookie_bar/*
 /cookie_consent.
@@ -4347,6 +4351,8 @@ _youtube_social_
 /cookiewet.
 /cpol/cookiepolicy.
 /css/gdpr.$~stylesheet
+/cuk_core.js
+/cuk_core.min.js
 /custom/cookies.
 /dc-cookie-
 /dg-cookie.
@@ -4361,6 +4367,7 @@ _youtube_social_
 /dsgvo-consent.
 /dsgvo.js
 /dsgvo_2018.js
+/dsgvoCC.js
 /dw-cookies-
 /dx/cmpui.
 /easy-cookies-
@@ -4520,6 +4527,7 @@ _youtube_social_
 /mod_jbcookies/*
 /mpc_cookie_
 /mweb.cookie/*$script
+/mws-cookie-
 /newprivacypolicy.
 /newprivacypolicytest.
 /nfaCookies.
@@ -6133,6 +6141,7 @@ _site_cookie_
 ##.d-newsletter
 ##.d1-article-sidebar-subscribe-msg
 ##.d1-article-subscribe
+##.daily-newsletter
 ##.daily_email_signup
 ##.divFooterEmailSignUp
 ##.divSubscrbtionBox
@@ -6301,6 +6310,7 @@ _site_cookie_
 ##.hellobar-signup
 ##.home-enews-signup
 ##.home-newsletter-widget
+##.home-subscribe-col
 ##.homepage-bottom-email-signup
 ##.homepage-newsletter
 ##.homepg-newsletter-sign-up-form
@@ -6805,6 +6815,7 @@ _site_cookie_
 ##.promo-newsletter
 ##.promo-newsletter-dfp
 ##.promo-subscribe
+##.promo-telegram-newsletter-desktop
 ##.promos-newsletter
 ##.psmag_subscribe_box_wrapper
 ##.psp_newsletter_subscribe
@@ -6891,6 +6902,7 @@ _site_cookie_
 ##.single-post-newsletter
 ##.single-post__content__subscribe
 ##.site-foot__newsletter
+##.site-footer__newsletter
 ##.site-masthead-subscribe-wrap
 ##.site-newsletter
 ##.siteSubscribe
@@ -8170,6 +8182,7 @@ _site_cookie_
 ##.naf-web-notifications-popup
 ##.notBar
 ##.notf-overlay
+##.notification-button
 ##.ntfc_overlay
 ##.ntfc_popup
 ##.oi-notify
@@ -13744,6 +13757,7 @@ _site_cookie_
 ##.footer-network-social
 ##.footer-pin
 ##.footer-pinterest-icon
+##.footer-primary__social-media-wrapper
 ##.footer-quote-share
 ##.footer-secondary-social
 ##.footer-secondary__social
@@ -24696,6 +24710,7 @@ _site_cookie_
 ###cookieswarning
 ###cookieswrap
 ###cookietable
+###cookietest
 ###cookietext
 ###cookietextdiv
 ###cookiething
@@ -29897,6 +29912,7 @@ _site_cookie_
 ##.cookieswrapper
 ##.cookiesy
 ##.cookieterms
+##.cookietest_bno
 ##.cookietext
 ##.cookietool-message
 ##.cookietop
@@ -33758,6 +33774,7 @@ _site_cookie_
 ||harpercollins.co.uk/js/cookie.js
 ||hunstoncanoeclub.co.uk/media/system/js/modal.js
 ||inblu.com^*/cookies.js
+||jacquelinewilson.co.uk/style/cookies.css$stylesheet
 ||jimmychoo.com^*/first-time-visitor-
 ||kayak.*/privacy/
 ||mad-daily.com^*/cp-module-
@@ -35942,6 +35959,7 @@ cnn.com##.hed_side
 nola.com##.helper
 sciencenews.cc##.herald-single-sticky
 askubuntu.com,mathoverflow.net,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.hero-container
+sciencefocus.com##.highlight
 mint.com##.hmenu
 businessspectator.com.au##.holder-content-loaded
 cnet.com##.holidayPromo
@@ -36437,6 +36455,7 @@ thedodo.com##.promote-widgets
 reddit.com##.promoted
 startpage.com,usatoday.com##.promotion
 csmonitor.com##.promotion-tag-p
+sciencefocus.com##.promotional-content
 nwfdailynews.com##.promotionalmaindiv
 givesmehope.com##.publicite
 mashable.com##.publisher-bar
@@ -36851,6 +36870,7 @@ designntrend.com,fashionnstyle.com,hngn.com,kdramastars.com,kpopstarz.com,latino
 infoworld.com##.whitepaper
 pcworld.com##.whitepapers
 grist.org,motherjones.com,netbooknews.com##.widget
+sciencefocus.com##.widget-area-above-footer
 libertyunyielding.com##.widget-around-the-web
 tokyohive.com##.widget-block
 androidauthority.com##.widget-container
@@ -37415,6 +37435,7 @@ staradvertiser.com##.breaking-news-signup
 inverse.com##.btn--newsletter
 washingtonmonthly.com,whitehalljournal.com,woodfordtimes.com##.btn-subscribe
 telesurenglish.net##.btnBoletin
+sciencefocus.com##.button-cluster-widget
 racked.com,theverge.com##.c-action-box
 legit.ng##.c-footer-subscribe
 gq-magazine.co.uk##.c-infobar-wrapper
@@ -37558,7 +37579,7 @@ startribune.com##.gameday
 icepop.com##.get-it-first
 electronicintifada.net##.get-updates
 pulsenews.co.kr##.getnews
-catholicherald.co.uk,kusc.org,motoring.com.au,threatpost.com,whoprofits.org,yellowhammernews.com##.gform_widget
+catholicherald.co.uk,kusc.org,motoring.com.au,threatpost.com,whoprofits.org,wvexplorer.com,yellowhammernews.com##.gform_widget
 pressherald.com,undark.org##.gform_wrapper
 ghacks.net##.ghacks_ad_code
 independent.co.uk,standard.co.uk##.gigya-signup
@@ -37807,6 +37828,7 @@ womenonwheels.co.za##.side-form-r
 hotelnewsresource.com##.sidebar-block-signup
 caribjournal.com##.sidebar-form
 wired.com##.sidebar-inview
+techgenix.com##.sidebar-optin
 fightthenewdrug.org##.sidebar-sign-the-pledge
 thesaturdaypaper.com.au##.sidebar-sticky--briefing
 food52.com##.sidebar__mailing-list
@@ -38399,6 +38421,7 @@ gambling.com###footer-connect-list
 instructables.com###footer-findus
 bitchmagazine.org###footer-friend-links
 walmart.ca###footer-stayintouch
+eporner.com###footsocbuttons
 foxnewsinsider.com###fox-facebook
 foxnewsinsider.com###fox-tweets
 thenational.ae###galleryfollow
@@ -40497,6 +40520,7 @@ flyscoot.com##.top-bar
 skystore.com##.top-notification-container
 hankooktire.com##.top_ep_wrap
 e-lawresources.co.uk,mabknives.co.uk##.topbarBox
+untappd.com##.tos-banner
 thomsonreuters.com##.tr-DismissibleBanner
 troax.com##.troax-messages
 nfumutual.co.uk##.u-bg-padd
@@ -40778,6 +40802,7 @@ diepresse.com,israelheute.com,kleinezeitung.at,manager-magazin.de,servus.com,sil
 therese-moelk.at##.pageup
 matratzen.info##.postNavigation
 rnd-news.de##.rss
+strato.de##.scrollBtn
 swz.it##.scroll__top
 woxikon.de##.secondary-footer
 weinkenner.de##.sib_signup_form
@@ -43404,6 +43429,7 @@ lodz.pl###stpdueckmsg
 gazetapolska.pl,gpcodziennie.pl###swsmodal
 gazetapolska.pl,gpcodziennie.pl###swsoverlay
 gerlach.org.pl###top0info
+ekskluzywna.pl###topInfo0
 agrolan.pl,e-rutek.pl,filtrosfera.pl,greenmate.pl,mikos.com.pl,negrasport.pl,pcoutlet.pl,perios.pl,silesiasports.eu,sporto.com.pl,srebrnystyl.pl,tashenti.pl,termokubki.com.pl###topInfoContainer0
 abc-rc.pl,acom.pl,aleokulary.com,epapierosylodz.pl,herba-farm.pl,ipartworld.pl,jupi24.pl,lunamarket.pl,megadyskont.pl,miadora.pl,negrasport.pl,ostry-sklep.pl,powerflex.pl,scyzoryki.net,sklep-muzyczny.com.pl,sklep.wodna-kraina.pl###topInfoContainer1
 areatour.pl,dacter.pl,dlapacjenta.pl,uni-tech.pl###topbar

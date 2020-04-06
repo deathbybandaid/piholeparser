@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: JGyEbL4CusMkHN8A0ibDGA
-! Version: 202004040040
+! Checksum: Z0foYHYRLjTzkj1cM06R2w
+! Version: 202004060030
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 04 Apr 2020 00:40 UTC
+! Last modified: 06 Apr 2020 00:30 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -654,7 +654,7 @@ myslo.ru##.media-ads-block-telegram
 www.kinopoisk.ru##.media-article__side
 www.kinopoisk.ru##.media-news__side
 libertycity.ru#?#.menup:-abp-has(> #vk_groups)
-multmania.club,tlumtluda.pro##.menusection a[href][target="_blank"]
+multmania.club,tlumtluda.info##.menusection a[href][target="_blank"]
 pingvin.pro##.menusocicons
 mega-track.org##.messageList > .tabs
 apparat.cc##.metaTable-inner
@@ -844,7 +844,7 @@ telegraf.com.ua##.soc_links
 volynnews.com##.soc_merezha
 politnavigator.net##.socaside > *
 hdtochka.club##.socblok
-buzday.ru,multmania.club,nsday.ru,orenday.ru,perevolockday.ru,saltday.ru,sorochinskday.ru,tlumtluda.pro##.socbut
+buzday.ru,multmania.club,nsday.ru,orenday.ru,perevolockday.ru,saltday.ru,sorochinskday.ru,tlumtluda.info##.socbut
 livecars.ru,livesport.ru##.socbut_v_r > div
 mediaryazan.ru##.socbuttons
 amedia.online,wincore.ru##.socc
@@ -2173,7 +2173,6 @@ forum.sibnet.ru###ipbwrapper > table > tbody > tr > td[style="width: 240px;"]
 datagroup.ua###js-cookie-notification
 ostro.org###kinoafishaslider
 pinu.com.ua,real-vin.com,xsport.ua###kinotvukrnet
-rus-torrents.ru###la_wrapper
 alexfilm.cc,mrutor.org###latest_news
 sergeistrelec.ru###left .ads-100
 fishki.net###lemur-promo
@@ -2838,7 +2837,6 @@ fssprus.ru##.user-data-fixed-wrapper
 itc.ua##.verticalPageNav
 24v.tv##.video-rating-wrap
 sports.ru##.video-supertop
-stalkerportaal.ru##.video_adsense
 riafan.ru##.videodigest-component
 ok.ru##.videoembed .html5-vpl_logo
 ok.ru##.videoembed .html5-vpl_ok
@@ -2914,7 +2912,6 @@ turbobit.net##a[href^="/turbo?"]
 ~changecopyright.ru##a[href^="http://changecopyright.ru"]
 big-bang-online.ru,breaking-bad-online.ru,dh-online.ru,griffiny.ru,online-futurama.ru,online-simpsons.ru,online-south-park.ru,rik-i-morti.ru,thrones-online.ru##a[href^="http://shop."]
 taobao-forum.com##a[href^="http://taobao-forum.com/"] > img[src^="/banner/"]
-bigtorrents.ru##a[href^="http://toptracker.ru/details.php?id="]
 sports.ru##a[href^="http://www.sports.ru/fantasy/promo/"]
 1strip2.me,gdespaces.com,spac.me,spac1.com,spac1.me,spcs.me,strip2.me##a[href^="https://mobtop.ru/"]
 nashvancouver.com##a[href^="https://nashvancouver.com/linkout/"] > img
@@ -3066,7 +3063,7 @@ youtube.com##ytd-mealbar-promo-renderer
 !
 ! - Сайты на движке TorrentPier -----------------------------------------------
 rutracker.ru###latest_news
-alltorrents.net,file-tracker.net,pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net,rus-torrents.ru,rutracker.ru,underverse.su###logo
+alltorrents.net,file-tracker.net,pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net,rutracker.ru,underverse.su###logo
 rutracker.appspot.com,rutracker.lib,rutracker.net,rutracker.nl,rutracker.org,zerkalo-torrent.tk###main-nav .floatR
 wtracker.ru##.preview_lol
 rutracker.appspot.com,rutracker.lib,rutracker.net,rutracker.nl,rutracker.org,zerkalo-torrent.tk##.top-alert
@@ -3767,6 +3764,7 @@ _revotas_push.
 ##.naf-web-notifications-popup
 ##.notBar
 ##.notf-overlay
+##.notification-button
 ##.ntfc_overlay
 ##.ntfc_popup
 ##.oi-notify
@@ -12606,6 +12604,7 @@ _youtube_social_
 ##.footer-network-social
 ##.footer-pin
 ##.footer-pinterest-icon
+##.footer-primary__social-media-wrapper
 ##.footer-quote-share
 ##.footer-secondary-social
 ##.footer-secondary__social
@@ -23881,6 +23880,7 @@ _backToTop.
 ##.d-newsletter
 ##.d1-article-sidebar-subscribe-msg
 ##.d1-article-subscribe
+##.daily-newsletter
 ##.daily_email_signup
 ##.divFooterEmailSignUp
 ##.divSubscrbtionBox
@@ -24049,6 +24049,7 @@ _backToTop.
 ##.hellobar-signup
 ##.home-enews-signup
 ##.home-newsletter-widget
+##.home-subscribe-col
 ##.homepage-bottom-email-signup
 ##.homepage-newsletter
 ##.homepg-newsletter-sign-up-form
@@ -24553,6 +24554,7 @@ _backToTop.
 ##.promo-newsletter
 ##.promo-newsletter-dfp
 ##.promo-subscribe
+##.promo-telegram-newsletter-desktop
 ##.promos-newsletter
 ##.psmag_subscribe_box_wrapper
 ##.psp_newsletter_subscribe
@@ -24639,6 +24641,7 @@ _backToTop.
 ##.single-post-newsletter
 ##.single-post__content__subscribe
 ##.site-foot__newsletter
+##.site-footer__newsletter
 ##.site-masthead-subscribe-wrap
 ##.site-newsletter
 ##.siteSubscribe

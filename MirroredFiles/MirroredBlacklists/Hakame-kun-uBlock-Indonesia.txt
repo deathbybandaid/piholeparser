@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 31 March 2020, 21:58:21 WIB
+! Last modified: 5 April 2020, 11:40:50 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -44,6 +44,7 @@
 ||apps.drakor.id/images/yu/2.jpg
 ||arenabetting.cc$3p
 ||areyouahuman.com$3p
+||assapebat.club$3p
 ||asiatoday.online$3p
 ||aud3g.com$3p
 ||auplod.com$3p
@@ -65,11 +66,11 @@
 ||btcmedia.co$3p
 ||bucket.id*gif$3p,domain=idfl.me
 ||c.adsco.re$3p
-||cachefly.net$3p
 ||carvarial.pro$3p
 ||casterist.info$3p
 ||caughinga.info$popup,3p
 ||caughinga.info$3p
+||cawsodpet.club$3p
 ||cdn.sendpulse.com/js/push$3p
 ||chicgar.info$3p
 ||cinemaindo.co/wp-content/uploads*gif
@@ -119,6 +120,7 @@
 ||easyhits4u.com/service-worker.js$important
 ||easyhits4u.com*gif$important
 ||easyhits4u.com/user/banners$important
+||elevenday.me$3p
 ||elexies.info$3p
 ||elthamely.com$3p
 ||emeraldbux.com$3p
@@ -147,6 +149,7 @@
 ||gdriveplayer.*ads.
 ||genderfluidsupport.com
 ||genieessp.com$3p
+||geojs.io$3p
 ||getbootstrap.com$3p
 ||getcryptotab.com$3p
 ||getlive.news
@@ -207,6 +210,7 @@
 ||linkspy.cc$3p
 ||lk21*.*gif
 ||lkalite.info$3p
+||lkddksjgih.com$3p
 ||logdown.com
 ||lucklayed.info$3p
 ||lyrical-nonsense.com$inline-script
@@ -228,6 +232,7 @@
 ||movieon21.*/wp-content/uploads*gif
 ||moviesave.net$3p
 ||my188bet.com$3p
+||nekopoi.care/wp-content/uploads*gif
 ||news-tech.xyz/download3.png
 ||newsofworld.club$3p
 ||nikitapoker.net$popup,3p
@@ -328,11 +333,13 @@
 ||webminepool.com$3p
 ||wi.cr/bn.png$image
 ||wistia.com$3p
+||wowjogsot.com$3p
 ||wp.com*gif$domain=conan.id|idxxi.top|lebahmovie.com|nonton.drakor-id.com|pusatfilm21.com
 ||wp.com*gif$important,domain=awsubstv.com
 ||x.kinja-static.com/assets/packaged-js/dollars.
 ||y-image.com$3p
 ||yhig.info$3p
+||yonashbin.com$3p
 ||zonawibu.me/data/no-ads.
 
 ! ========== * List ==========
@@ -725,6 +732,7 @@
 @@gamehouse.com$1p
 @@ganzoffen.de
 @@googleapis.com/drive$domain=acefile.co
+@@googletagmanager.com
 @@googleusercontent.com$domain=acefile.co
 @@googleusercontent.com$image,domain=a2zapk.com
 @@grabmylink.xyz$generichide
@@ -855,12 +863,15 @@ birdurls.com##body > div:nth-of-type(4)
 10khits.com,247autohits.com,bitearns.com,manyhit.com##+js(set)
 
 ! ========== Make Countdown Faster List ==========
-123link.pw,1idsly.com,a2zp30.com,ad-doge.com,adwerty.com,agoodprofit.ru,anjay.info,bercara.com,bitcoinfaucet.fun,bittube.me,bolaoke.club,closetopic.site,coindice.win,cryptoprofits.in.ua,designmyhomee.com,doge-coin.top,dogecoins.top,duit.cc,dynamicssh.com,elsfile.org,faucet.gold,faucetcrypto.com,faucetwhite.com,forthtrade.com,freebitcoin.vip,freebitcoin.win,fstore.biz,goldenfreesatoshi.ru,goodfaucet.ru,haxhits.com,hexafile.net,hikarinoakariost.info,hokiciki.org,hubcoins.xyz,idsly.*,imgsky.net,in11.site,infosehatku.club,infotrendy.me,jelajahinternet.me,lenov.ru,linkduit.net,luckybits.io,mawataki.com,mediakita.blog,merdekaid.online,muhammadyoga.me,multimining.website,naturalhealthy.xyz,news-tech.xyz,newsjizz.in,ockles.com,oploverzhome.com,ouo.io,pantauterus.me,platinmods.download,sfile.mobi,shortit.pw,speedtest.net,startxchange.com,suarankri.me,technoresults.xyz,treasurebits.net,updatetribun.org,vozdesportiva.com,wadooo.com,wicr.in,wikitrik.com##+js(nano-sib)
+123link.pw,1idsly.com,a2zp30.com,ad-doge.com,adwerty.com,agoodprofit.ru,anjay.info,bercara.com,beti.club,bitcoinfaucet.fun,bittube.me,bolaoke.club,closetopic.site,coindice.win,cryptoprofits.in.ua,designmyhomee.com,doge-coin.top,dogecoins.top,duit.cc,dynamicssh.com,elsfile.org,faucet.gold,faucetcrypto.com,faucetwhite.com,forthtrade.com,freebitcoin.vip,freebitcoin.win,fstore.biz,goldenfreesatoshi.ru,goodfaucet.ru,haxhits.com,hexafile.net,hikarinoakariost.info,hokiciki.org,hubcoins.xyz,idsly.*,imgsky.net,in11.site,infosehatku.club,infotrendy.me,jelajahinternet.me,lenov.ru,linkduit.net,luckybits.io,mawataki.com,mediakita.blog,merdekaid.online,muhammadyoga.me,multimining.website,naturalhealthy.xyz,news-tech.xyz,newsjizz.in,ockles.com,oploverzhome.com,ouo.io,pantauterus.me,platinmods.download,sfile.mobi,shortit.pw,speedtest.net,startxchange.com,suarankri.me,technoresults.xyz,treasurebits.net,updatetribun.org,vozdesportiva.com,wadooo.com,wicr.in,wikitrik.com##+js(nano-sib)
 
 xubster.com##+js(nano-stb, , , 0.01)
 
 ! ========== Unblock Element Fix Error ==========
 queenfaucet.website#@#+js(aeld, click, trigger)
+
+nekopoi.*#@#+js(aeld, , adsense)
+nekopoi.*#@#+js(acis, atob, tabunder)
 
 ! ========== Other ## List ==========
 9files.co,qtfile.com,upfile.mobi##a[href*="onamind.com"]
@@ -990,6 +1001,9 @@ bercara.com##.float-left-right
 bercara.com##.mt-30 > b
 bercara.com##.mtb-15.list-li-mr-20
 bestbitcoinfaucets.net##.modal-body > center
+beti.club##.blue-text
+beti.club##.post-body
+beti.club##.post-header
 bolaoke.club##.mh-wrapper
 btcleets.xyz,coin.mg,techcraze.online##.banner-captcha.banner
 bucin.net,coeg.in,siherp.com,siotong.com,telondasmu.com##.c-message > div:nth-of-type(1)
@@ -1052,6 +1066,8 @@ korenlovers.co##.iklan
 lebahmovie.com##.idmuvi-floatbanner-footer.idmuvi-floatbanner
 lenov.ru##.clearfix.rek-but:nth-of-type(1)
 lenov.ru##.clearfix.rek-red.rek-but
+lepiratebay.org##.clearfix.nord-message
+lepiratebay.org##.nord-stiky
 lk21c.fun##.gmr-single.gmr-box-content > table:nth-of-type(1)
 lk21c.fun##.gmr-single.gmr-box-content > table:nth-of-type(2)
 lk21c.fun##.ns-right
@@ -1092,6 +1108,7 @@ pantauterus.me##.truygiobl
 pantauterus.me##.wrapper-sticky
 pirate-bay.net##.modal
 pirate-bay.net##.sidebar-vpn
+pornhubpremium.com##.bottomNotification
 pornhubpremium.com##.sectionCarousel.sectionWrapper
 premierexxi.*##.wpb-outer-wrap
 reevown.com##.adsbygoogle
@@ -1140,6 +1157,7 @@ zonawibu.cc##.infopost
 ###abAlert
 ###ab_notice1
 ###ab_notice2
+###adb.adb
 ###adblock_screen
 ###adblockdetected
 ###ads-pop
@@ -1216,6 +1234,7 @@ kabarviral.blog###secondary
 kawanfilm21.online###content > div.container:nth-of-type(1)
 kawanfilm21.online###floating_banner_top1
 kazefuri.*###iklan-pos
+lepiratebay.org###searchResult:nth-of-type(1)
 lk21c.fun###flobwh
 lk21c.fun###tengah
 lk21c.fun###text-12
