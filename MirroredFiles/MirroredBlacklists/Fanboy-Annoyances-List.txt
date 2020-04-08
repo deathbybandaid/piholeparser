@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: dhr54Dxjk2Fv2h8cga5P9A
-! Version: 202004070021
+! Checksum: OnCJgyR8S7C5mNkOkGp7Zg
+! Version: 202004080021
 ! Title: Fanboy's Annoyance List
-! Last modified: 07 Apr 2020 00:21 UTC
+! Last modified: 08 Apr 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -5369,6 +5369,7 @@ _site_cookie_
 ###blog_subscription_unit
 ###bottomMailingListWrapper
 ###bottom_newsletter
+###bouncex-blocker
 ###box_newsletter
 ###box_nl_subscribe
 ###boxes-box-newsletter
@@ -42516,6 +42517,7 @@ start-nrw.de###cpopup
 ruegenwalder.de###csdialogbd
 ruegenwalder.de###csdialogmd2
 rentalens.ch###dabar
+neues-deutschland.de###data-protection
 interhyp.de###data-protection__layer
 sovd.de###datenschutzfenster
 shopwelt.de###dateschutzinfo
@@ -43971,6 +43973,7 @@ xhamster.com#@#.subscribe-block
 humblebundle.com#@#.subscribe-box
 oneplus.com,stackexchange.com#@#.subscribe-container
 twit.tv#@#.subscribe-panel
+batenka.ru#@#.subscribe-popup
 wtfast.com#@#.subscribe_box
 mos.ru#@#.subscription-block
 reddit.com,yesplz.coffee#@#.subscription-box
