@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: OnCJgyR8S7C5mNkOkGp7Zg
-! Version: 202004080021
+! Checksum: m/RHT+2k2HAEQBTBHmVmYA
+! Version: 202004090021
 ! Title: Fanboy's Annoyance List
-! Last modified: 08 Apr 2020 00:21 UTC
+! Last modified: 09 Apr 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -735,10 +735,12 @@ _backToTop.
 /pushly-sw.
 /pushmessageworker.
 /pushnews.min.
+/pushnote-
 /pushnotification.
 /pushNotifications.js
 /pushnotifications/*
 /pushpushgo/*
+/pushtoast-
 /pushv2.js
 /pushwoosh-
 /pushwooshNotification/*
@@ -41635,6 +41637,7 @@ morfix.co.il###morfixInstallTB_main
 auto.co.il###openButton
 gadgety.co.il###subscribefield
 globes.co.il##.article_Next_prev_title
+gov.il##.cd-top
 gadgety.co.il##.facelike
 mouse.co.il##.fbox_main
 globes.co.il##.footerN_box

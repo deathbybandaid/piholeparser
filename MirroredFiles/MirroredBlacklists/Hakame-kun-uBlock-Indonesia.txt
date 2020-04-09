@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 5 April 2020, 11:40:50 WIB
+! Last modified: 9 April 2020, 03:04:22 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -122,6 +122,7 @@
 ||easyhits4u.com/user/banners$important
 ||elevenday.me$3p
 ||elexies.info$3p
+||elfsight.com$3p
 ||elthamely.com$3p
 ||emeraldbux.com$3p
 ||enrilov.info$3p
@@ -874,6 +875,7 @@ nekopoi.*#@#+js(aeld, , adsense)
 nekopoi.*#@#+js(acis, atob, tabunder)
 
 ! ========== Other ## List ==========
+10khits.com##cloudflare-app
 9files.co,qtfile.com,upfile.mobi##a[href*="onamind.com"]
 acefile.*##+js(aopr, popjs)
 ad4msan.win##p
@@ -974,6 +976,9 @@ xcolander.com##+js(aopr, FuckAdBlock)
 ##.right.right_top_ad.widget
 ##.swal2-in.swal2-fade.swal2-container
 ! -------------------------------------
+10khits.com##.alert-dismissable
+10khits.com##.jq-toast-wrap
+10khits.com##.what-to-do
 123link.*##.i-said-no-thing-can-stop-me-warning
 21moviemania.club,cinemaindo.co,lebahmovie.com##.mfp-ready.mfp-with-zoom.mfp-no-margins.mfp-img-mobile.mfp-auto-cursor.mfp-close-btn-in.mfp-wrap
 46.166.167.16,semprot.com,semprotku.com##.semprotnenenmontok_2
@@ -1094,7 +1099,6 @@ naturalhealthy.xyz##.mh-wrapper
 naturalhealthy.xyz##.mh-header
 neonime.*##.block-player
 newsjizz.in##.taxonomy-list.comp
-ouo.io##.text-center > div
 pantauterus.me##.bc-top-style
 pantauterus.me##.bs-irp
 pantauterus.me##.entry-terms
