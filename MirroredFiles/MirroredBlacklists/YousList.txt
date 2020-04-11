@@ -3,7 +3,7 @@
 ! License: https://github.com/yous/YousList#license
 ! Title: YousList
 ! Expires: 4 days
-! Version: 20200408
+! Version: 20200410
 
 ! General element hiding rules
 ##amp-ad
@@ -1198,7 +1198,6 @@
 ||image.donga.com/dac/SPORTS/PC/*.js^$domain=sports.donga.com
 ||image.lottorich.co.kr/lottorich/partnership/
 ||image.melon.com/svc/images/main/floatingBanner/floatingBanner_*.swf^
-||image.news1.kr/system/ads_t/$domain=m.news1.kr|news1.kr
 ||image.ruliweb.com/view/view.js^$domain=bbs.ruliweb.com|m.ruliweb.com
 ||image.sportsseoul.com/ad/$domain=sportsseoul.com
 ||image.tvdaily.co.kr/banner/$domain=tvdaily.asiae.co.kr
@@ -4167,6 +4166,7 @@ m.news.nate.com##iframe[name="adtive"]
 m.news.nate.com##iframe[src^="http://networkad.nate.com/nate/mobile_news.html"]
 m.news.naver.com##div.ad_area
 m.news.naver.com##div.ad_box
+m.news1.kr##div.ad_wrap_sw
 m.news1.kr##div.ads_bizlife
 m.news1.kr##div.ads_bottom_fixed
 m.news1.kr##div.ads_clickinfo
@@ -4178,6 +4178,7 @@ m.news1.kr##div.ads_text_banner
 m.news1.kr##div.ads_text_list1
 m.news1.kr##div.article_content>div[style="float:right;margin-top:5px;margin-left:10px;width:200px;height:200px;background:#fff;"]
 m.news1.kr##div.banner01
+m.news1.kr##div.das_article15_wrap
 m.news1.kr##div.text_ad
 m.news1.kr##div[class^="ads_article"]
 m.news1.kr##div[data-widget_id="G7ZWPjlW"]
@@ -5229,6 +5230,7 @@ pixiv.net##iframe[name="header"]
 pixiv.net##iframe[src^="https://pixon.ads-pixiv.net/show"]
 pixiv.net##span.multi-ads-area
 platum.kr##div.ad-five
+platum.kr##div.platum_ad
 platum.kr##div.ppb_ads
 platum.kr##li.Grand_News_Custom_Ads
 play.afreecatv.com##a.adcon-area
@@ -5668,12 +5670,14 @@ tfnews.co.kr##div.com_ban
 tfnews.co.kr##div.top_banner
 tgd.kr##body>div[style="background: #efefef;padding:0;"]
 tgd.kr##div#article-list>div[style="background: #efefef;padding:10px 8px;"]
+tgd.kr##div#article-list>div[style="background:#efefef;padding:10px 8px;"]
 tgd.kr##div#plz-dont-block-me
 tgd.kr##div#weare-out-of-food
 tgd.kr##div.frame>a[href^="/trk/click/"][target="_blank"]
 tgd.kr##div.frame>div:not([class]):not([id])>div[style="padding:0 20px 15px;"]
 tgd.kr##div.frame>div[align="center"][style="background:#fff;"]
 tgd.kr##div.frame>div[style="background:#fff;    background: #fff;\a     padding: 20px 0;\a     margin-top: -14px;\a     text-align: center;"]
+tgd.kr##div.frame>div[style="padding:0em 1em;"]
 theappl.com##div#pop_layer_banner
 theappl.com##div#rt_banner1
 theappl.com##div#rt_banner2

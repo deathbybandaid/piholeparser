@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: N3F/IwKOr+YsZlX/y/u8lw
-! Version: 202004100021
+! Checksum: XGgXA3UiVMbMToie45U/ug
+! Version: 202004110021
 ! Title: Fanboy's Annoyance List
-! Last modified: 10 Apr 2020 00:21 UTC
+! Last modified: 11 Apr 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -748,6 +748,7 @@ _backToTop.
 /scripts/onesignal.
 /sendpulse/*
 /sendsay_push_
+/site-notification-desk.
 /sna-pushwoosh.
 /web-push-worker.
 /web-push.
@@ -8126,6 +8127,7 @@ _site_cookie_
 ###noti_subscribe_dialog
 ###notification-permission
 ###notificationPopUp
+###oiNotification
 ###onesignal-popover-container
 ###pa-push-notification-subscription
 ###popUpNotification
@@ -11992,6 +11994,7 @@ _site_cookie_
 ##.block-block-socialmedia
 ##.block-ec_facebook
 ##.block-ec_social
+##.block-facebook
 ##.block-facebook-inner
 ##.block-fb-social
 ##.block-fb_like
@@ -12023,6 +12026,7 @@ _site_cookie_
 ##.block-socials
 ##.block-socialsharingblock
 ##.block-trinity-social
+##.block-twitter
 ##.block-umhs-share
 ##.blockSocial
 ##.blockSocialLink
@@ -28334,6 +28338,7 @@ _site_cookie_
 ##.confirm_cookies_box
 ##.connect-cookie-bar
 ##.consent-banner
+##.consent-bar
 ##.consent-confirmation-banner
 ##.consent-container
 ##.consent-container--banner
@@ -32597,7 +32602,7 @@ _site_cookie_
 ||antenna.is^$third-party
 ||apester.com^$third-party
 ||api.branch.io^$third-party
-||api.flattr.com^$third-party
+||api.giphy.com^*/related?$third-party
 ||api.search.live.net^$third-party,domain=~bing.com
 ||api.traq.li^$third-party
 ||app.e2ma.net^$third-party
@@ -36264,6 +36269,7 @@ dnaindia.com##.next-node
 guff.com##.next-prev
 businesstech.co.za,mybroadband.co.za##.next-previous-article
 filehippo.com,slate.com,straitstimes.com##.next-story
+shoko.fr##.next-up
 usatoday.com##.next-wrap
 contactmusic.com,gizbot.com##.nextArticle
 cnet.com##.nextPreview
@@ -44933,7 +44939,7 @@ unicode.org#@#div[data-nconvert-cookie]
 @@||evidon.com/sitenotice/$domain=etonline.com|popsugar.co.uk|telegraph.co.uk
 @@||flowbox.io/wp-content/plugins/uk-cookie-consent/
 @@||gearbest.com/static/dist/minjs/jcookie.js
-@@||geolocation.onetrust.com/cookieconsentpub/$script,domain=cnn.com|tvguide.com
+@@||geolocation.onetrust.com/cookieconsentpub/$script
 @@||hellenicbank.com/portalserver/*/cookies-consent.js$script
 @@||hp.com^*/caas-privacy-cookie-$script
 @@||impossible3ds.com/wp-content/plugins/uk-cookie-consent/js/uk-cookie-consent-js

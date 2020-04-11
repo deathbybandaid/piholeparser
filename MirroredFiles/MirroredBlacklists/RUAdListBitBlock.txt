@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: I3YCoRN8c0Mc/aMGkcSakg
-! Version: 202004100020
+! Checksum: giL/R/x0t38kVfPRok5xpg
+! Version: 202004110020
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 10 Apr 2020 00:20 UTC
+! Last modified: 11 Apr 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1084,6 +1084,7 @@ factroom.ru##div[class*="likely"]
 milnavigator.com.ua##div[class*="sfsi_"]
 99px.ru##div[class*="shareicon"]
 takprosto.cc##div[class*="widget_essbsocial"]
+www.fontanka.ru#?#div[class]:-abp-has(> h5 ~ ul > li ~ li)
 hightech.plus##div[class^="article-social"]
 ekabu.ru##div[class^="f-social-container"]
 bombardir.ru##div[class^="flyin-"]
@@ -1844,6 +1845,7 @@ _userbar_$image
 ||anilibria.tv/upload/test/
 ||anime-rus.ru/templates/Anime-RUS/js/scripts.js
 ||apihost.ru/js/function.js|$script,domain=apihost.ru
+||assets.alicdn.com/g/AE-RU/privacy-policy-banner/main.js
 ||asus.com^*/banner/
 ||aum.news/themes/default/inc/t3-assets/
 ||autoexpert.com.ua^*/MrScrollUp_
@@ -1885,7 +1887,6 @@ _userbar_$image
 ||filearchive.cnews.ru/*promo$media,domain=cnews.ru
 ||filmomax.com/logo-
 ||fishki.net/items_informer/
-||fontanka.ru/tpl/localbanners/
 ||football.kulichki.net/banner/
 ||forum.adguard.com/styles/custom/adguard/logo.$image,domain=forum.adguard.com
 ||forum.ixbt.com/rc_data.js
@@ -1906,6 +1907,7 @@ _userbar_$image
 ||gismeteo.*/static/ny/
 ||google.com/async/*&async=encoded_cache_key$xmlhttprequest,domain=google.com
 ||google.ru/async/*&async=encoded_cache_key$xmlhttprequest,domain=google.ru
+||gorod.dp.ua/js/cookie.js
 ||gorodche.ru/misc/popinfo/
 ||gramma.ru/include/dcpy.js
 ||hawaii-kirillovka.com/misc/js/please.js
@@ -2928,6 +2930,7 @@ sports.ru#?#article > .news-item__content > p:-abp-has(a[href^="https://trbna.co
 animaunt.org##article > .sub-info > .sb-submit
 sports.ru#?#article.piwikTrackContent:-abp-has(a[href^="https://trbna.co/"])
 sports.ru#?#article.piwikTrackContent:-abp-has(span:-abp-contains(Спецпроект))
+www.fontanka.ru##aside + div > section + aside > div[class]:nth-of-type(-n+2)
 eg.ru##aside > noindex
 kino-teatr.ua##aside a[href^="https://play.google.com/"]
 www.kinopoisk.ru##aside.dialog
@@ -2993,6 +2996,8 @@ gamer-info.com##div[class*="ads"][class*="overlay"]
 1plus1.ua##div[class*="popup"][class*="subscribe"]
 1tv.ru##div[class*="promo"][class$="place"]
 gdekluet.ru##div[class*="ui-widget"]
+www.fontanka.ru#?#div[class]:-abp-has(> [href="/format/fproject/"] > h3)
+www.fontanka.ru#?#div[class]:-abp-has(> div > button + [href="/pressrelease/"])
 google.com,google.com.ua,google.ru##div[class][jsaction^="dismiss_warmup"]
 mail.rambler.ru##div[class^="NewsBlock-root"]
 mail.rambler.ru##div[class^="Profile-banner"]
@@ -3677,6 +3682,7 @@ prom.ua#@#img[alt="facebook"]
 /scripts/onesignal.
 /sendpulse/*
 /sendsay_push_
+/site-notification-desk.
 /sna-pushwoosh.
 /web-push-worker.
 /web-push.
@@ -3715,6 +3721,7 @@ _revotas_push.
 ###noti_subscribe_dialog
 ###notification-permission
 ###notificationPopUp
+###oiNotification
 ###onesignal-popover-container
 ###pa-push-notification-subscription
 ###popUpNotification
@@ -10846,6 +10853,7 @@ _youtube_social_
 ##.block-block-socialmedia
 ##.block-ec_facebook
 ##.block-ec_social
+##.block-facebook
 ##.block-facebook-inner
 ##.block-fb-social
 ##.block-fb_like
@@ -10877,6 +10885,7 @@ _youtube_social_
 ##.block-socials
 ##.block-socialsharingblock
 ##.block-trinity-social
+##.block-twitter
 ##.block-umhs-share
 ##.blockSocial
 ##.blockSocialLink
@@ -25872,7 +25881,7 @@ _backToTop.
 ||antenna.is^$third-party
 ||apester.com^$third-party
 ||api.branch.io^$third-party
-||api.flattr.com^$third-party
+||api.giphy.com^*/related?$third-party
 ||api.search.live.net^$third-party,domain=~bing.com
 ||api.traq.li^$third-party
 ||app.e2ma.net^$third-party
