@@ -14,8 +14,8 @@ account-reconfirm-secure.com216541261958151621261651495815.smk-diponegoro.sch.id
 acehsentral.id
 ad.kaskus.co.id
 adha.untirta.ac.id
-adi.ilkom.unsri.ac.id
 adistyshop.co.id
+aditv.co.id
 adplus.co.id
 adr.adplus.co.id
 ads.promo.web.id
@@ -131,6 +131,7 @@ batikdiajengsolo.co.id
 batikhap.co.id
 batualamridhoillahi.id
 baturvolcano.id
+bbconline.co.id
 bccsolution.co.id
 bcol.barclaycard.co.uk.ecom.as2.initiallogon.do.x.49.y.35tc.qxbca23302.y.35tc.qxbca23302.y.35tc.qxbca23302.y.35tc.qxbca23302.tokodidik.co.id
 beardtaichan.id
@@ -157,6 +158,7 @@ biotis.co.id
 biroiklan.biz.id
 biroyatulhuda.sch.id
 bkd.penajamkab.go.id
+bkdd.enrekangkab.go.id
 bkpp.kalbarprov.go.id
 blangcut.id
 blh.lamandaukab.go.id
@@ -166,12 +168,14 @@ bpb.unnes.ac.id
 bpdbali.co.id
 bpm.unmuha.ac.id
 bpmpkb.padang.go.id
+bprkoperindojaya.id
 bptpm.sragenkab.go.id
 brandingcity.co.id
 btik.web.id
 bukhari.or.id
 bursatiket.id
 busainoac.co.id
+bussinespage20.my.id
 butiksaida.co.id
 butiksyaripemalang.co.id
 bystoreid.co.id
@@ -236,7 +240,6 @@ desythashop.co.id
 deviwijiyanti.web.id
 dewimaharani.co.id
 digilib.stiesurakarta.ac.id
-digilib.usm.ac.id
 dilijayacell.id
 dim.unsyiah.ac.id
 dinkes.acehprov.go.id
@@ -260,6 +263,7 @@ duniagaya.id
 dutadharma.co.id
 dwebdesign.web.id
 dwimitraselaras.co.id
+e-absen.id
 e-perpus.sidoarjokab.go.id
 eadministrasi.untirta.ac.id
 echijafra.co.id
@@ -281,6 +285,7 @@ faschooler.id
 fatmajaya.co.id
 fauzi-babud.co.id
 feb.untirta.ac.id
+fecebook-support-inbox.my.id
 fenika.id
 fiestaparfume.id
 finalopsion.id
@@ -300,11 +305,13 @@ ganeshabakery.id
 garuda-creative.id
 garudaflyff.web.id
 gda-eksplorasi.co.id
+gemateknindoperkasa.co.id
 geocean.co.id
 ghemayuder.co.id
 gicibusinessschool.ac.id
 gkiklasisjakartautara.or.id
 globalbrandforum.co.id
+globalfeednusantara.co.id
 globalmediatama.co.id
 globissys.co.id
 gogogo.id
@@ -336,6 +343,7 @@ hmja.undip.ac.id
 hmpip.or.id
 homes.co.id
 hrcraf.id
+hydration.id
 iais.ac.id
 iam-creative.co.id
 ibnuchairul.co.id
@@ -377,6 +385,7 @@ jasapembuatanbillboard.web.id
 jastipshandra.id
 jatservis.co.id
 javatex.co.id
+jdih.sambas.go.id
 je79-ane.id
 jelekong.co.id
 jelungasem.id
@@ -386,6 +395,7 @@ jkrecord.co.id
 jodanssupplyco.id
 jodev.or.id
 jogjadebatingforum.or.id
+joingrupwhatsapp.new9.my.id
 joinpas.id
 journal.noesa.co.id
 journal.p-adri.or.id
@@ -408,6 +418,7 @@ kaoskaos.co.id
 kaospolosdiora.co.id
 karateinkai.ukm.undip.ac.id
 karisma.id
+kartikaestetika.id
 karuniabinainsani-16.co.id
 katanews.id
 kats_surrender.blogspot.co.id
@@ -438,6 +449,7 @@ kitebersama.web.id
 kobagroup.co.id
 koiadang.co.id
 kominfo.okukab.go.id
+konawekepulauankab.id
 konsultanaplikasiandroid.web.id
 konveksipromosi.co.id
 koperasinelayanpintar.id
@@ -620,6 +632,7 @@ pigtailsroundass.blogspot.co.id
 pigtailsroundasses.blogspot.co.id
 pionirbooks.co.id
 pje.co.id
+pkk.depok.go.id
 pks-setiabudi.or.id
 plagading.edufa.id
 playtech.id
@@ -712,6 +725,7 @@ sdalirsyad02cilacap.sch.id
 sditazzahra.sch.id
 sdjejeran.sch.id
 sdlematanglestari.sch.id
+sdn003kaubun.sch.id
 sdn1kaliawi.sch.id
 sdn1rajabasaraya.sch.id
 sdn2perumnaswaykandis.sch.id
@@ -744,11 +758,11 @@ sexyporngirls.blogspot.co.id
 sgx3.cloudhost.id
 share31.co.id
 sharianewsinstitute.co.id
-shinta-elektronik.my.id
 shop.ismartv.id
 siakad.stimikkupang.ac.id
 sign.berkahwisata.co.id
 siklushidupsejahtera.co.id
+simpakan.ditjenpkh.pertanian.go.id
 simpatik.kkp.go.id
 simperizinan.sragenkab.go.id
 sjtvcable.id
@@ -840,6 +854,7 @@ tekindustri.upnjatim.ac.id
 teknik.univpancasila.ac.id
 teumpeun.id
 thamarbengkel.co.id
+thebadui.co.id
 thefctry.co.id
 tiarabakery.co.id
 tiasentosa.co.id
@@ -890,9 +905,11 @@ wallacea.or.id
 warkopbundu.id
 warungmakanbulikin.id
 warunknasakita.co.id
+webaccess.co.id
 webartikelbaru.web.id
 welkguessqata.myrating.id
 wellsfargo.widowati.staff.unja.ac.id
+whatsapp-group.claim.my.id
 widyadrive.co.id
 windicatering.co.id
 wingkosoerobojo.co.id

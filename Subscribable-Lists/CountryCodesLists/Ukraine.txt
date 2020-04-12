@@ -7,7 +7,6 @@
 120.mbn.com.ua
 13r.lg.ua
 160.mbn.com.ua
-3929313.kl.com.ua
 3r.com.ua
 42eb9.pp.ua
 5infall.zzz.com.ua
@@ -25,7 +24,6 @@ abbytrus.in.ua
 abdal.com.ua
 abipro.com.ua
 ac.adpro.com.ua
-academy.movies-hd.pp.ua
 acainom.com.ua
 acct-service12.at.ua
 acquaintround.org.ua
@@ -238,6 +236,7 @@ b.c8.net.ua
 b.digital-tv.com.ua
 babs.com.ua
 bac.in.ua
+backup.tamga.net.ua
 balkon.com.ua
 balon.com.ua
 bambi.ck.ua
@@ -549,9 +548,10 @@ dolcevitahotel.dn.ua
 dom-pchely.com.ua
 dom.sferacomforta.com.ua
 dominantainvest.com.ua
-donplitka.in.ua
+done.kl.com.ua
 doppodre.com.ua
 download.net.ua
+dreamkr.com.ua
 drikler.com.ua
 driooper.com.ua
 driving.kiev.ua
@@ -560,7 +560,7 @@ drugstoreschools.com.ua
 dslkioer.com.ua
 dsoperni.com.ua
 dsskjjo.com.ua
-dsvist.zzz.com.ua
+dukhovnist.in.ua
 dumka.if.ua
 dveripolese.com.ua
 dvr.biz.ua
@@ -734,6 +734,7 @@ friend-moon.net.ua
 frienddacha.net.ua
 ftdoctor.pl.ua
 fusion-school.com.ua
+g4supplements.com.ua
 g5h9a6s5.at.ua
 g6h54as5dw.at.ua
 gaffer.pp.ua
@@ -762,7 +763,6 @@ gluon.com.ua
 gndoctor.pl.ua
 goldensotka.com.ua
 goldenwedding.com.ua
-golosyi.zzz.com.ua
 gomedabove.pl.ua
 gomedaccurate.pl.ua
 gomedad.pl.ua
@@ -1003,6 +1003,7 @@ ingoshina.com.ua
 inmedic.pl.ua
 inmorep.com.ua
 inome.com.ua
+insta54.kl.com.ua
 instella.biz.ua
 instroy.com.ua
 intentionanybody.pl.ua
@@ -1195,7 +1196,6 @@ luckyshop.net.ua
 lux-bn.com.ua
 luxtrafik.com.ua
 luxury-light.com.ua
-m.rawpowerlifting.com.ua
 mabila.com.ua
 macrofarb.com.ua
 madetova.com.ua
@@ -2068,6 +2068,7 @@ pls-findme.net.ua
 plsfind-me.net.ua
 pnel1718.at.ua
 pochyma.com.ua
+poddon.in.ua
 poeryutj.com.ua
 poiret.com.ua
 polandsad.com.ua
@@ -2338,6 +2339,7 @@ spartania.com.ua
 spirtnoe.org.ua
 sportovets.com.ua
 sql.eth.pp.ua
+sqs.zzz.com.ua
 srepli.com.ua
 ssdoctor.pl.ua
 ssl.istore-recheckbill-idwmid46589.sslservices110mb7025646548.haga.com.ua
@@ -2450,7 +2452,6 @@ transit.in.ua
 treekeen.pl.ua
 treniow.com.ua
 trickleflora.pl.ua
-trinity.net.ua
 trion.od.ua
 triumphmound.pl.ua
 trubochist.kiev.ua
@@ -2481,6 +2482,7 @@ ummedic.pl.ua
 ummedics.com.ua
 unicombud.kiev.ua
 unite-ourhearts.net.ua
+unitus.mk.ua
 universals.com.ua
 update-info-fi.at.ua
 updatefbs-1bfc.at.ua
@@ -2654,7 +2656,6 @@ zoe.co.ua
 zolotinka.com.ua
 zona-sezona.com.ua
 zoofun.com.ua
-zosh.pp.ua
 zphcr.pp.ua
 zrdom.com.ua
 zupermarket.uz.ua

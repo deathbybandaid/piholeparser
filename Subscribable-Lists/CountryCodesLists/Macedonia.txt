@@ -17,7 +17,6 @@ ecampus.mk
 elsgroup.mk
 exo.mk
 flowershop.com.mk
-formpost2.arthaus.com.mk
 gamebox.com.mk
 geshtalt.mk
 giromamas.mk
@@ -38,6 +37,7 @@ marsisdata.mk
 metrics.marketing365.mk
 mirjananikoloska.mk
 mk.marketing365.mk
+montenegro-macedonia.mk
 mr.com.mk
 naps.com.mk
 ndm.org.mk

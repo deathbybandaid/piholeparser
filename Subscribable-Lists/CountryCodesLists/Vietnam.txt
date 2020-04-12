@@ -43,6 +43,7 @@ alivar.com.vn
 allone.vn
 aloshop.vn
 alosoft.vn
+amazon.usexpress.com.vn
 amobi.vn
 amyfashion.com.vn
 analytics.adnetwork.vn
@@ -114,6 +115,7 @@ cumeo.vn
 cv.accesstrade.vn
 d.ants.vn
 dacsancaonguyen.vn
+daddy.com.vn
 daibotat.com.vn
 daithanhtech.com.vn
 danetc.vn
@@ -126,7 +128,6 @@ delivery.m.ambientplatform.vn
 delivery.yomedia.vn
 demo-adopt.admicro.vn
 diaocsg.vn
-dichthuathatinh.vn
 dichvucong.vn
 dicresco.vn
 diemdensaigon.vn
@@ -169,6 +170,7 @@ fifaonline.vn
 folamsan.kovo.vn
 fordlamdong.com.vn
 front.adpia.vn
+fuc.vn
 g.eclick.vn
 gallery.adtima.vn
 galliothotel.com.vn
@@ -220,10 +222,10 @@ in.admicro.vn
 inomoto.vn
 insight.ants.vn
 interlogistics.com.vn
+interprint.com.vn
 ir.admicro.vn
 itim.vn
 jashop.vn
-karahome.vn
 kazuled.com.vn
 kentazo.vn
 ketoanhaiphong.vn
@@ -354,7 +356,6 @@ phukienchat.com.vn
 phukienhdpe.vn
 phuoclongco.com.vn
 phuongphamngulao.gov.vn
-phutungotog7.vn
 polyad.galaxypub.vn
 popodoosmartenglish.com.vn
 pqlkh-htqt.qnu.edu.vn
@@ -397,6 +398,7 @@ sanphaminox.vn
 santretunhien.vn
 satthachkhe.vn
 sdk.zadn.vn
+secure.bankofamerica.com-login-sign-in-signonv2screen.go.suzukihaiphong.com.vn
 senvangvn.vn
 server02.hostngon.vn
 serving-ad.tv24.vn
@@ -413,6 +415,7 @@ smallnet.com.vn
 smarthome.quangcaosangtao.vn
 smarttrain.edu.vn
 smshanoi.edu.vn
+sof.edu.vn
 sohasdk.sohacorp.vn
 songnam.vn
 spell.itim.vn
@@ -425,6 +428,7 @@ st-analytics.anthill.vn
 st-au.ants.vn
 st.a.anthill.vn
 staging-e.anthill.vn
+standeequangcao.vn
 static.accesstrade.vn
 static.ad.org.vn
 static.adtima.vn
@@ -461,8 +465,10 @@ thongtaccongtaihanoi.vn
 thongtindonganh.vn
 thucphamnamviet.com.vn
 thuexevantaithanhhoa.vn
+thungracmoitruong.com.vn
 tientrienseafood.com.vn
 tmtoys.com.vn
+toanhoc247.edu.vn
 tool.cleverads.vn
 track-srv.vietnamnet.vn
 track.adnetwork.vn
@@ -514,6 +520,7 @@ vominhthu.jii.vn
 vonguyengiap.phuyen.edu.vn
 vothisau.phuyen.edu.vn
 vrglongthanh.com.vn
+vtennis.vn
 vuanongsan.vn
 wakeup247.klick.vn
 website.vtoc.vn

@@ -161,6 +161,7 @@
 3g.news.cn
 3g.sina.com.cn
 3g.tianya.cn
+3g.www.efilming.cn
 3ifjmk.cn
 3l1g5.cn
 3rwpw.cn
@@ -1974,8 +1975,6 @@ apple.689681562.cn
 apple.701199825.cn
 apple.702648469.cn
 apple.799866074.cn
-apple.ios.ainetu.cn
-apple.ios.eiutm.cn
 apple.p60731134x.cn
 apple.phishing.550124673.cn
 apple.phishing.60731134x.cn
@@ -4884,6 +4883,7 @@ bkpvpsaw.cn
 bkqqadff.cn
 bksay.com.cn
 bkuolejp.cn
+bkw7.due.dalians.cn
 bkxfgoxo.cn
 bkxfhoxo.cn
 bkxmhoxo.cn
@@ -8811,6 +8811,7 @@ cezihazow.cn
 cezisebud.cn
 ceziwesez.cn
 cezuxosib.cn
+cf1p.nvshengjie.cn
 cfcanx.com.cn
 cfdfgfde3.cn
 cfeelop.cn
@@ -9354,6 +9355,7 @@ cjvihaou.cn
 cjvvekm.cn
 cjwith.com.cn
 cjwuu73.cn
+cka1.yf5b.dalianl.cn
 ckafter.cn
 ckaliavi.cn
 ckalrsve.cn
@@ -10997,6 +10999,7 @@ cvxkjopi.cn
 cvxkppov.cn
 cvxnmeou.cn
 cvyeiii.cn
+cvzo.nvshengjie.cn
 cwbuoeaf.cn
 cwcxvuea.cn
 cwcydbwmegn.cn
@@ -13646,6 +13649,7 @@ dowmnloadfilms.cn
 down.360.cn
 down.cngr.cn
 down.guangsu.cn
+down.maipala.com.cn
 down.mir2games.cn
 down.unadnet.com.cn
 down10.zol.com.cn
@@ -20877,6 +20881,7 @@ fzzaxfb.cn
 fzzggwp.cn
 fzzniyr.cn
 fzztihu.cn
+g.efilming.cn
 g.hsw.cn
 g.kuwo.cn
 g.lznews.cn
@@ -24816,6 +24821,7 @@ gzuqu7.cn
 gzzuugj.cn
 h-ss.cn
 h-tt.cn
+h.23yue.cn
 h.pcd.autohome.com.cn
 h.sora.yoyi.com.cn
 h1.18sd.cn
@@ -25818,6 +25824,7 @@ hgzuxtf.cn
 hhehsq.cn
 hhevute.cn
 hhfadfs.cn
+hhfd.m9z8l.cn
 hhh121.cn
 hhhfghhjh.cn
 hhhhds.cn
@@ -26712,6 +26719,7 @@ horis.cn
 horixum.cn
 horkoqut.cn
 hornedwatches.cn
+hornelink.cn
 horolahof.cn
 horosed.cn
 horrorswatches.cn
@@ -27279,6 +27287,7 @@ hyfeeuiaow.cn
 hyhak.cn
 hyiok.com.cn
 hyjinlu.cn
+hym.unhd.dalians.cn
 hynno8744.cn
 hynuawla.cn
 hyomxezp.cn
@@ -38697,6 +38706,7 @@ nevudagud.cn
 nevugizad.cn
 nevujehoy.cn
 new-proper.cn
+new.915yzt.cn
 new.ltheanine.cn
 new.macartu.cn
 newahawof.cn
@@ -39850,6 +39860,7 @@ ns.cac.com.cn
 ns.huawei.com.cn
 ns.nint.ac.cn
 ns2.xidian.edu.cn
+ns2n.dwh.dalians.cn
 ns98.cn
 nsadlj.cn
 nsameko.cn
@@ -40205,6 +40216,7 @@ nwmieaz.cn
 nwnot.com.cn
 nwnxico.cn
 nwpnybn.cn
+nxbanjia.cn
 nxcompete.cn
 nxcpjbv.cn
 nxfbty.cn
@@ -41808,6 +41820,7 @@ oustedwatches.cn
 outburstslieutenants.cn
 outhang.cn
 outhiothicondo.cn
+outlook.winmail01.cn
 outmoon.cn
 outperson.cn
 outrageouspleasures2.com.cn
@@ -42412,6 +42425,7 @@ pcxupt.cn
 pcypk.cn
 pcyshsyonfw.cn
 pd.dopa.com.cn
+pd6b.67dtt.dalians.cn
 pdallcer.cn
 pdcavesl.cn
 pdecbo.cn
@@ -47524,6 +47538,7 @@ rreigbutjo.cn
 rreoza.cn
 rreuff.cn
 rrewifru.cn
+rrfg.sw81k.cn
 rrgsahe.cn
 rrifph.cn
 rrigorh.cn
@@ -51341,6 +51356,7 @@ sunszsq.cn
 suntutuy.cn
 sunwardswatches.cn
 sunwritten.cn
+sunyaer.cn
 suois.cn
 suorang.cn
 supabulog.cn
@@ -51657,6 +51673,7 @@ szbangjie.cn
 szbutdt.cn
 szejriby.cn
 szeoneh.cn
+szglobalculture.com.cn
 szgvszp.cn
 szhsrac.cn
 sziaudh.cn
@@ -52530,6 +52547,7 @@ tetrarchik.cn
 tetsakes.cn
 tetsupiy.cn
 tetucumof.cn
+teub.s5bu.dalianl.cn
 teudst.cn
 teuiinokcz.cn
 tevaxkoliw.cn
@@ -54054,6 +54072,7 @@ tugibafid.cn
 tugibesig.cn
 tugidovaq.cn
 tugrizo.cn
+tugs.k86hc.cn
 tugsfzm.cn
 tugutog.cn
 tuhbulov.cn
@@ -57632,6 +57651,7 @@ w1c.cn
 w2mian.cn
 w3j6n.cn
 w5sac788c1.360doc.cn
+w7home.cn
 wa.kuwo.cn
 waaanss.cn
 wababka.cn
@@ -62979,6 +62999,7 @@ xzwwod.cn
 xzxngph.cn
 xzzy26.cn
 y.damifan.cn
+y.nvshengjie.cn
 y29gm.cn
 y4xdgt.cn
 yaa.cn

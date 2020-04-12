@@ -1,6 +1,7 @@
 1.login.security.appleid.icloud.com-valid-informations.md58djdbx7ejd7djdd6d.lumtech.gr
 1001paixnidia.gr
 123paixnidia.gr
+17gymnasio.gr
 2lyk-stavroup.thess.sch.gr
 2winbet.gr
 32above.gr
@@ -109,7 +110,6 @@ ceramicdesign.gr
 chaniafood.gr
 chase.online.logon.validate.psoma.gr
 chzb.gr
-cityfm92.gr
 clickbanner.gr
 computernetworks.gr
 conduct.gr
@@ -155,6 +155,7 @@ educate.theowl.gr
 eilid.com.gr
 eisagwgiki.gr
 ejsood_biomek.gr
+elegantshop.gr
 ellinikamarket.gr
 emfsys.gr
 emporikohaidari.gr
@@ -163,6 +164,7 @@ epiplagrafeiou.com.gr
 epsxanthis.gr
 ergonomia.net.gr
 ermis-suites.gr
+eset-store.gr
 etairikavideo.gr
 eurowood.gr
 evomagazine.gr
@@ -210,7 +212,6 @@ hellascosmetique.gr
 heraklia.gr
 hermes-apartments.gr
 homeodentist.gr
-hometime.gr
 horizonsolutions.gr
 hotclima.gr
 hotelkochili.gr
@@ -304,7 +305,6 @@ nyfikoxtenisma-thessaloniki.gr
 obj.adman.gr
 officenetworks.gr
 ole24.gr
-ondietclub.gr
 online-games.gr
 ontheair.gr
 opap.gr
@@ -422,6 +422,7 @@ themeliovida.gr
 themoment.gr
 thermopompoi-agora.gr
 thessalikoiek.gr
+thesspsychologos.gr
 thundernet.gr
 tokelari.gr
 topekdromes.gr
@@ -442,7 +443,9 @@ victoria-makrigialos.gr
 villantzakislaw.gr
 vitalaikiathinon.gr
 volissos.gr
+vostbaddleschoi1973.blogspot.gr
 voulastudios.gr
+webabout.gr
 webfile-document.homoeopathy.gr
 wellsfargo.com-0.syfanet-offers.gr
 whatsapp.areospolis.gr

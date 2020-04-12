@@ -170,7 +170,6 @@ mercedesign.no
 mobiletech.no
 modulo-beton.no
 mpproductions.no
-myjacqueline.no
 myrseth-multimedia.no
 najaden.no
 netoil.no
@@ -187,6 +186,7 @@ oml-motorsport.no
 omsorgskafeen.no
 onlune.no
 openads.tvnorge.no
+otaplast.no
 oyelege.no
 paypal.limitedremoved.culinae.no
 peopleinmotion.datasenter.no
@@ -203,6 +203,7 @@ portside.no
 ppcannonsering.no
 proco.no
 publish.bonzaii.no
+rabita.no
 recmedia.no
 rig.idg.no
 rikstoto.no

@@ -333,6 +333,7 @@ bisex.cc
 bitcoin.securepayment.cc
 bitcoincash.securepayment.cc
 bitcoinz.minerspool.cc
+bitcovid-3x.cc
 bitq.suprnova.cc
 bitz.suprnova.cc
 bixxx.cc
@@ -603,13 +604,26 @@ cool-search.cc
 coolwebsearch.cc
 cordstrap.cc
 cornerhes.cc
+coronabit.cc
+coronacraft.cc
+coronapandemic.cc
+coronavirus-cure.cc
+coronavirus.cc
+coronavirusnow.cc
 coufntysell.cc
 coundioekfbl.usa.cc
 count.1133.cc
 count.cc
 count.yourmusic.cc
 couponclippingservice.co.cc
+covid19.minsky.cc
+covid19news.cc
+covid19talk.cc
+covid19tracker.cc
+covidmutualaid.cc
+covidtest.cc
 cp.suprnova.cc
+cpa.downworld.cc
 cpuconsulting.co.cc
 crave.suprnova.cc
 crds.suprnova.cc
@@ -1161,7 +1175,6 @@ hardddrive-safety-deleted.flu.cc
 hardsex.cc
 hash.suprnova.cc
 hashbag.cc
-hasspetroleum.com.johneclarkeholdings.cc
 haven.ingest-asia.cryptoknight.cc
 haven.ingest.cryptoknight.cc
 havven.cc
@@ -1419,6 +1432,7 @@ l7s.suprnova.cc
 ladailynews.co.cc
 lakan.cc
 lakehug.cc
+lamourautempsducorona.cc
 land.purifier.cc
 latex-sex.cc
 latexsex.cc
@@ -1480,6 +1494,7 @@ lockskxis.usa.cc
 loco.suprnova.cc
 loer.cc
 log2.adop.cc
+login.microsoftonline.com.o0s.cc
 loglogincloths.usa.cc
 logs.mobiletop.cc
 lojasamericanassuves3.oni.cc
@@ -1720,6 +1735,7 @@ nodx.suprnova.cc
 nonnude.cc
 nope.suprnova.cc
 noramaea.cc
+novelcoronavirus.cc
 nrn.suprnova.cc
 ns1.riviera.cc
 ns1.wordsx.cc
@@ -1784,6 +1800,7 @@ onlineteam.cc
 onlinetwins.cc
 onylolly.cc
 oo.suprnova.cc
+ooi.cc
 oooabterast0.co.cc
 opec.suprnova.cc
 openskiesairlines.co.cc
@@ -1825,6 +1842,8 @@ payer.suprnova.cc
 paypal-help-verify-id-log-in.nut.cc
 paypal.com.information-center.nut.cc
 paypal.com.suspiciousaccount-information.usa.cc
+paypal.p0q7.cc
+paypal.q1l.cc
 paypall.cc
 paypals.cc
 pca.cc
@@ -1949,6 +1968,7 @@ qrk.suprnova.cc
 qrurl.cc
 qtl.suprnova.cc
 qualitycontrol.cc
+quarantine.cc
 quickchange.cc
 quilts.cc
 quit.suprnova.cc
@@ -1966,6 +1986,7 @@ rasiert.cc
 raven.suprnova.cc
 raw.suprnova.cc
 raybanjpsale.cc
+rayvvin.cc
 rbit.suprnova.cc
 rddc.suprnova.cc
 rdn.suprnova.cc

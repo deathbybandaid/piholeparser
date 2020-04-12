@@ -17,6 +17,7 @@ enmx.cu.ma
 eu.ma
 facearabe.ma
 fondation-aboubakrelkadiri.ma
+foods.ma
 fr.ma
 giac-tertiaire.ma
 gold-shipping.ma
@@ -29,6 +30,7 @@ interfacerh.ma
 jazmany.cu.ma
 jeux.co.ma
 justart.ma
+khalij.ma
 led-maroc.ma
 licorne.ma
 loterie.ma

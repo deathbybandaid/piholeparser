@@ -34,6 +34,7 @@
 44ever-go.cf
 461073-deu-gast-sicherheit-benutzer.sicherheitshilfe-sicherheitssystem.cf
 496362-deutschland-nutzung-sicher-benutzer.vorkehrung-sicherheitssystem.cf
+4mysecure-facebookcovid19petition.cf
 579287-deu-verbraucher-mitteilung-konto_identity.sicherheitsvorbeugung-vorbeugung.cf
 588775-de-prob-angabe-nachweis.hilfeservice-sicherheitssystem.cf
 5feataet.cf
@@ -70,6 +71,7 @@ account-restro-limted.cf
 acesso-bb-online.cf
 acme-challenge.cf
 admintadministre.cf
+adobeappupdate.cf
 adobedetails.cf
 adulttricks.cf
 adzjzewsma.cf
@@ -85,12 +87,12 @@ amazon.nj60l9.cf
 amazon.o24l0.cf
 amazon.swi5m1.cf
 amazon.webdirect.cf
-americanas-ame.cf
 americanas-online.cf
 amirnes.cf
 amranoof.cf
 anticcolonial.cf
 ants.cf
+aol3m6.cf
 aosj.conoakosi.cf
 appinvest-club.cf
 apple-securestore.cf
@@ -109,6 +111,7 @@ attcarsint.cf
 audioztrendhx.cf
 aunmd.cf
 authorization-de.cf
+avast.com.pt.renovar.app-loginjps.cf
 avtzofv.cf
 awerjstfhgd.cf
 awiredrive.fliatsracheers.cf
@@ -141,6 +144,7 @@ bdlife.cf
 bdzdfsdf.cf
 beauty-picz.cf
 bejbumr.cf
+beneficiosparavc.cf
 berufsunfaehig.cf
 bestchoice.cf
 bestkfiledxd.cf
@@ -152,6 +156,8 @@ binm.cf
 blockchains.cf
 bnm.cf
 bnnvzrz.cf
+boken-xtel4.cf
+boosoegrplofo.cf
 bot.jefferyworks.cf
 boundprofit.cf
 bovxbpo.cf
@@ -192,6 +198,7 @@ cibcon.cf
 cibconline.cf
 cielopromocional.cf
 cipjtpg.cf
+classbantle.cf
 classicdomainlife.cf
 cnn.datapath-uk.cf
 coinpirate.cf
@@ -204,6 +211,7 @@ confirmyourspage.cf
 confrim-page-recovery05.cf
 coolmed.cf
 coonfrim21.regist3r2.cf
+coronavirus-facebook.cf
 costing.cf
 costomer-financial-databasedashbord06auth.cf
 courtrightx.cf
@@ -239,6 +247,7 @@ dnmade.cf
 dogged.cf
 doneperfect.cf
 dotcom.cf
+double-thumb.cf
 download9.cf
 downloaddd.cf
 drobebill.tranchespay.cf
@@ -312,6 +321,7 @@ gooldog.cf
 grand-avenue.cf
 grati.cf
 grensena.cf
+grub-whatsapp.whatxapp.cf
 gthrrdgsd.cf
 gzxrykv.cf
 h-drums.cf
@@ -321,6 +331,7 @@ hangtieudung.cf
 hbperfumes.cf
 help-bofa-online-restore.cf
 help-ijuuuuy.cf
+help.instagram.com.v48x940518db8038a593.cf
 helps-122.verifikasi-fanpage-suport982.cf
 herehloadibs.cf
 hhkfrjr.cf
@@ -338,16 +349,20 @@ iccornacircri.cf
 ignaciozius.cf
 imauli.cf
 imdaginea.cf
+imindmyshitalways.cf
 inativo-fgts.cf
 inativosconsulteaqui.cf
 inc-fbpages-verify-submit-required.cf
 info-3299.paypal.de-sicherheitszentrumcheck.cf
 informasicreditcard.cf
+instagram.helpteam.cf
 iotiot.cf
 iranjo.cf
 irc.bteam.cf
 irs-governments.cf
 ismtrum.cf
+itaucardclick.cf
+itiappvalida.cf
 itrevolution.cf
 jaeger-automotive.cf
 janokam.cf
@@ -369,6 +384,7 @@ kabelbw.cf
 kachi.cf
 kamlaish.cf
 kashmirbasket.cf
+kaso.cf
 kawasaki.cf
 kcdn.cf
 kekene.cf
@@ -442,6 +458,7 @@ mcredi.cf
 mdlznke.cf
 megabanners.cf
 mehmmus.cf
+memotech.cf
 meribatsuno.cf
 mersh.cf
 messagerie-orange-fr.cf
@@ -479,6 +496,7 @@ networkrx-shop365.cf
 networkrxbuy724.cf
 networkrxfuture365.cf
 nevvs.cf
+new-claim.cf
 newdebiandebian.cf
 nhovlrx.cf
 niceforyou.cf
@@ -515,6 +533,7 @@ onlinecustomerserver.cf
 onlinerxfavorite724.cf
 onlinerxsolutions724.cf
 oooxxx.cf
+ouats.cf
 ovqc.cf
 ownshop.cf
 page-setting.cf
@@ -524,12 +543,14 @@ pagesfbnotification.cf
 pageviolation2017.cf
 pakaka.cf
 pardesindocs.cf
+parkstmgcasbc.cf
 partnexrs.cf
 patientsmedicalpills.cf
 paude-daude.cf
 payanoix.cf
 paypal-reseter.cf
 paypal-security-service.cf
+paypal-security-session.cf
 paypal-summaryservice-customerlimited.cf
 paypal.com.case-id-fgg-39721831.cf
 paypal.com.signin.webapps.com-unsualactivity.cf
@@ -591,7 +612,6 @@ resellerspanel.cf
 rfjtumostvds.cf
 rhvkegv.cf
 rianz.cf
-ricchoassets.cf
 rivncau.cf
 rjczzmj.cf
 rjxzpjr.cf
@@ -600,7 +620,6 @@ rnicrosofteam.cf
 rollingxmeadows.cf
 rottenwhorememe.cf
 ruksnabaji.cf
-rupe.cf
 rurxrefillseek365.cf
 rxcenter-extra365.cf
 rxnetpreferred365.cf
@@ -671,6 +690,7 @@ taleohio.cf
 tamatar.cf
 team-storeapple.cf
 teamtrim.cf
+tellmethemeaningofl.cf
 tempdisable.cf
 tempdisableacc.cf
 tempviolation.cf
@@ -696,6 +716,7 @@ ubbvkzn.cf
 uelandoran.cf
 uhpsekh.cf
 unchartedbey.cf
+unipositupos1.cf
 unltdshop.cf
 update-new-site.cf
 updateacc-information.cf
@@ -712,8 +733,10 @@ usersecurity-de.cf
 ussearche.cf
 uvzoou.cf
 uzxgegt.cf
+validarmilhasapp.cf
 verification.account-reminder.solved-id.cf
 verification.prima2.cf
+verifylogin.cf
 vidious5.cf
 vietjetair.cf
 violationpage2017.cf

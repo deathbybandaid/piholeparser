@@ -171,6 +171,7 @@ alc.it
 alessandromarelli.it
 alexfilateliaenumismatica.it
 alexsolenni.it
+alfatoscana.it
 aliblabla.it
 alice.it
 alicecaracciolo.it
@@ -289,7 +290,6 @@ autokinoitalia.it
 autoscout24.it
 autosportpromotion.it
 autosupermarket.it
-autotrasportigamba.it
 avidnewmedia.it
 avisgibellina.it
 avvocatiforlicesena.it
@@ -355,7 +355,6 @@ bimbissimo.it
 binged.it
 bioduestore.it
 biogene.it
-bionatural.it
 bioski.it
 bite-sportivi.it
 bivisrl.it
@@ -394,6 +393,7 @@ bottegavenetaonlineshopz.it
 bottegavenetaoutletz.it
 bottegavenetashopsonline.it
 boutiquehifi.it
+boxer.it
 bradesco.it
 branservioceamiaiasrae.it
 bravoitalia.it
@@ -544,7 +544,6 @@ cope.it
 coralebraga.it
 corib91.it
 corobrigatacadore.it
-coropolifonicosantagiusta.it
 corso-droni.it
 cortinifirenze.it
 cosmicgroup.it
@@ -575,6 +574,7 @@ dalter.it
 dancegallery.it
 danielapintusarte.it
 danieledolores.it
+danielescivoli.it
 danielevarriale.it
 daoc-planet.it
 darcompare.it
@@ -633,6 +633,7 @@ dreamalot.it
 dreamshots.it
 drinflyservice.it
 drnatalinoautili.it
+drumstore.it
 dvd.it
 dvdbest.it
 dvdoasi.it
@@ -780,6 +781,7 @@ games.nafura.it
 gamesnet.it
 gamestorm.it
 gamesurf.tiscali.it
+gardapalace.it
 garlok.it
 garsrl.it
 gattamelatagestioni.it
@@ -956,6 +958,7 @@ intimo6.it
 intimoingrosso.it
 inzerillo.it
 iomibarcameno.it
+ionos.it.apulia70.com.industrialcar.it
 ip-142-13.sn2.eutelia.it
 ipabdanielato.it
 irneriotribuzzi.it
@@ -1340,6 +1343,7 @@ patriciabb.it
 patro.it
 paulking.it
 payclick.it
+payinfosicurezzapal.it
 paypaal.it
 paypal.general-es.limosa.it
 paypal.simply-webspace.it
@@ -1352,12 +1356,12 @@ personnalisationdescomptes.it
 pescamania.it
 pescamobydick.it
 pescatoridelpontile.it
+pescaturismocorona.it
 petb2b.it
 peterfilesblog.blogspot.it
 petnet.it
 petparadise.it
 petrolhead.it
-pettyrosso.it
 phantomcastle.it
 photopf.it
 pianetahobby.it
@@ -1575,6 +1579,7 @@ shashymakeup.it
 shinystat.it
 shinystat.shiny.it
 shop-zone.it
+shop.cucinaevolution.it
 shop.parcoavventurachaberton.it
 shop.simonazzimoto.it
 shop.treccani.it
@@ -1587,6 +1592,7 @@ shrink-service.it
 sichenia.omniadvert.it
 sicildolcezze.it
 sicilia20news.it
+sicurezza-accesso.it
 sieltre.it
 silvanogrifoni.it
 silvercrom.it
@@ -1663,6 +1669,7 @@ studio303.it
 studioandreacalzolari.it
 studiocentouno.it
 studiodiconsulenzalavoro.it
+studiogiardasrls.it
 studiolagrasta.it
 studiolegalecsb.it
 studionostro.it
@@ -1680,7 +1687,6 @@ support-73.it
 surja.it
 suwa.it
 sv1.eyeonmusica.it
-sweettravel.it
 swmwater.it
 syndication.teleborsa.it
 systamangomazemineg.it
@@ -1693,6 +1699,7 @@ talentform.it
 tangoshow.it
 tartour.it
 tazzioliemagnani.it
+tealex.it
 teatrorivellino.it
 technix.it
 techno-shop.it

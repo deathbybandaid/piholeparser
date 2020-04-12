@@ -1,5 +1,6 @@
 ad.proxy.sh
 apu.sh
+clever-bed.surge.sh
 coin-hive-proxy-ybydcnjgkl.now.sh
 coin-hive-stratum-bqywuwxwij.now.sh
 coin-hive-stratum-cilswgfvet.now.sh
@@ -21,6 +22,7 @@ pornvideo.wap.sh
 proxy-ddsjfhkmnk.now.sh
 proxy-khlizawelj.now.sh
 qoo.sh
+rabid-wealth.surge.sh
 refunding-server.wap.sh
 rinat.sh
 sxcdn02.now.sh
@@ -30,6 +32,7 @@ sxcdn06.now.sh
 sxcdn3.now.sh
 sxcdn4.now.sh
 sxcdn6.now.sh
+tny.sh
 turnsocial.now.sh
 urht.sh
 vani.sh

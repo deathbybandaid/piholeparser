@@ -8,7 +8,6 @@ diabetespal.ps
 falcon.ps
 freedom.ps
 gazacham.ps
-http.ps
 laptop.com.ps
 pioneer.ps
 zane.ps

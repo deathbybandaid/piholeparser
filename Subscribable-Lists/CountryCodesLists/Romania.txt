@@ -111,6 +111,7 @@ autochemicals.ro
 autocosmi.ro
 autodemitrans.ro
 autogarametropoli.ro
+autograff.ro
 automatizari-online.ro
 automotorsa.ro
 autoseven.ro
@@ -182,6 +183,7 @@ calypso.ro
 camaramea.ro
 caminulgradinabunicilor.ro
 campanie.go.ro
+campuspride.ro
 capital.count.brat-online.ro
 carbonfiber.ro
 carcfrifn.ro
@@ -189,7 +191,6 @@ cartfest.ro
 carto.ro
 casabilius.ro
 catalingagiu.ro
-cazanele-dunarii.ro
 ccilfov.ro
 cciroenfr.ro
 centru-inchiriere.ro
@@ -216,6 +217,7 @@ cmn5uuql6bhafukwc05r.viomil.ro
 cniptmoldovanoua.ro
 cnvv.ro
 coaching-essence.ro
+cocerhan.ro
 cofetariagalaxy.rocolectii.ro
 coilprofil.ro
 com-authdll3029901.home.ro
@@ -230,6 +232,7 @@ consultantafirme.ro
 conteelegant.ro
 contestapp.a1.ro
 contserv.ro
+coronavirus.h28.ro
 cosmetice-farduri.ro
 cotidianul.count.brat-online.ro
 counter.clubnet.ro
@@ -239,6 +242,7 @@ creativeads.ro
 criscat.ro
 cronicaviseuana.ro
 crxart.go.ro
+cs-s.hi2.ro
 csikszentmihaly.ro
 csrj-ah.rau.ro
 cufarulculenjerii.ro
@@ -335,6 +339,7 @@ executor-termure-bujor.ro
 exide.ro
 exigostrategic.ro
 expertmedia.ro
+eyedrops.ro
 ezptntfdueb6coblmfca.viomil.ro
 facebook.comunatudora.ro
 falla.ro
@@ -358,7 +363,6 @@ fr.westernunion.com.fr.fr.session-expired.html.trupaartizan.ro
 frbadminton.ro
 frumoasafoc.ro
 frumuseanudaniela.go.ro
-ftpbuzau.hi2.ro
 funny-postcards10.home.ro
 funplay.ro
 fx.gtop.ro
@@ -378,6 +382,7 @@ glassiri.ro
 gmp.home.ro
 gnj.ro
 goldenlife.ro
+googlecovid-19.ro
 gostats.ro
 gradinitaallegria.ro
 grafstat.ro
@@ -411,6 +416,7 @@ img.neogen.ro
 in.go.ro
 incercari.icedesign.ro
 indivizual.ro
+infosantioana.hi2.ro
 ingservice.ro
 inspireconsulting.ro
 instagram-media.ro
@@ -440,6 +446,7 @@ joinfree.ro
 judetulgorj.ro
 jugl.ro
 julian-g.ro
+k.solatic.ro
 k5dwwsm3u5kd2kjkm42l.viomil.ro
 kidsmedia.ro
 kikidoor.ro
@@ -473,9 +480,6 @@ lucibad.home.ro
 lucidius.ro
 lumitech.ro
 luxcart.ro
-m-visa.com-undergo-aujhbhthgo.eyedrops.ro
-m-visa.com-undergo-aujhbhthqgo.eyedrops.ro
-m-visa.com-undergo-aujhbhthqo.eyedrops.ro
 m.cyberplusserice.banquepopulaire.fr.alpes.icgauth.websso.bp.13806.emparecoin.ro
 m.n.wld.onepoint.ro
 mag33.icehost.ro
@@ -662,6 +666,7 @@ rescueremedy.ro
 respondtothequestion.go.ro
 restaurant-bucovina.ro
 restaurant-traditional.ro
+retezy-vam.ro
 revelionsibiu.ro
 riders.ro
 rmsarat.ro
@@ -734,6 +739,7 @@ soma.3xforum.ro
 soxorok.ddospower.ro
 sp2.ro
 spalatoriehotel.ro
+spidersolutions.ro
 sport.count.brat-online.ro
 sportclubtiger.ro
 sportmania.com.ro
@@ -748,6 +754,7 @@ static.gtop.ro
 statistici.ro
 status.bacm.ro
 stefanaki.ro
+stil-proiect.ro
 stomatologievalcea.ro
 stoneinteriors.ro
 storage.icorp.ro

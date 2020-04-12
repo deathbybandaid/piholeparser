@@ -1,5 +1,7 @@
 adsco.re
 aeroport-travaux.re
+anti-coronavirus.re
+anticoronavirus.re
 bnompre.re
 carokane.re
 com-featu.re

@@ -56,6 +56,7 @@ accounting.ceramikaczary.pl
 accounts-cynthia.org.pl
 ace.jamba.pl
 ace.jamster.pl
+acebook.cba.pl
 ach-dziennik.cba.pl
 acneuro.pl
 acovipgrandtime.pl
@@ -247,7 +248,6 @@ akpgrandtime.pl
 akpwebcash.pl
 akpwebcity.pl
 akpwebtime.pl
-aktualizacja.jst.pl
 akuna.pl
 akustycznaradiostacja.pl
 alandrubygrand.pl
@@ -536,7 +536,6 @@ boksy.onet.pl
 bon-do-marketu.pl
 bonares.pl
 bonjo.bmbsklep.pl
-bontonobuwie.pl
 bony-zakupowe.pl
 bony.uyp.pl
 bonypodarunkowe.com.pl
@@ -615,6 +614,7 @@ chargelity.pl
 cheapmedpills.pl
 cheats4u.pl
 chelmy.cba.pl
+childalertfakt.pl
 childcarepill.pl
 chilkiewicz.pl
 chipo.republika.pl
@@ -783,6 +783,7 @@ desjardinss.pl
 deviltorrents.pl
 dfyhnddsalog.7m.pl
 dgc.coinmine.pl
+dhl24.com.pl
 di.com.pl
 diamentebianco.pl
 dicky.pl
@@ -812,6 +813,7 @@ dobrymotor.pl
 dochodyzmap.pl
 docments.nstrefa.pl
 docufile.pl
+docusign19840531.7m.pl
 dodaivirgin.fora.pl
 dodatki-krawieckie.pl
 dofinansowania-jezykowe.pl
@@ -890,7 +892,6 @@ dupy.qii.pl
 duzeformaty.com.pl
 dva.wp.pl
 dwmargo.pl
-dwor-zawiszy.pl
 dworekwdolinie.pl
 dywany.slask.pl
 dziedzic-nieruchomosci.pl
@@ -1037,6 +1038,7 @@ enicelinebetday.pl
 enicenetbetday.pl
 eniro.hit.gemius.pl
 enklawy.pl
+enkrypt.pl
 entryhit.wp.pl
 eonline.pl
 epegasus.pl
@@ -1128,6 +1130,7 @@ fab.interia.pl
 face-kolor.rdx.pl
 face-vip.ujm.pl
 facebook-color.5v.pl
+facebook-com-pl-profile.5v.pl
 facebook-photo-fbc.5v.pl
 facebook-photos.pl
 facebook-uzaleznienie.wirtualnie.pl
@@ -1144,6 +1147,7 @@ familandia.pl
 familyfit.pl
 familymedicinepill.pl
 familymedicinerx.pl
+fanina-tools.pl
 fanskoda.pl
 fargofinanse.pl
 farmawiatrowaniewolno.pl
@@ -1838,6 +1842,7 @@ inkubator.biz.pl
 inningmedicare.pl
 innsat.pl
 inssep.pl
+instaqram.5v.pl
 instytut-pomocy.pl
 instytutmed.pl
 intactro.adocean.pl
@@ -1854,6 +1859,7 @@ intymna.pl
 investoradbg.hit.gemius.pl
 investorbg.adocean.pl
 ipnt.pl
+iporwaniedziecka24.com.pl
 ipowereliterubypalace.pl
 ipzd.pl
 iq-testuj.pl
@@ -2012,6 +2018,7 @@ kinoseans.pl
 kinotek.pl
 kinowepremiery.pl
 kinujemy.pl
+kirim.artplus.pl
 kjhkgh.skroc.pl
 kkpbingotime.pl
 kkpgrandtime.pl
@@ -2054,6 +2061,7 @@ konto1.cal24.pl
 kopertada.eu.interiowo.pl
 kopsnij.pl
 koreksound.pl
+korona.augustow.pl.ela-travel.sldc.pl
 kosmetyczka-radzymin.pl
 kosmetycznysklep.pl
 kosmetyki-naturalne-annarella.pl
@@ -2156,6 +2164,7 @@ liczba-dzieci.wirtualnie.pl
 liczbawiadomosci.pl
 lifanpower.pl
 life-star.pl
+ligezowscy.pl
 lightcloud.pl
 lightforest.pl
 lightmusic.pl
@@ -2319,6 +2328,7 @@ mezczyzna-trendy.pl
 mf-mojafirma.pl
 mgops-konskie.pl
 mice.pl
+michpol95.5v.pl
 microstatic.pl
 miedzyrzec-online.pl
 mieszkania-pokoje-wynajem.pl
@@ -2362,6 +2372,7 @@ mojtlumacz.pl
 mokmiedzyrzecz.pl
 monidopo.bee.pl
 monikakarasewicz.bialan.pl
+monikareplin.pl
 monkeyball.osa.pl
 monta.pl
 montazowniakatowice.pl
@@ -2389,6 +2400,7 @@ msecurity.pl
 msphack.com.pl
 msphack.pl
 mstudioreklamy.pl
+mta-sts.szadowiakzs.nazwa.pl
 mtgurgul.pl
 mtjkqwedqkk.pl
 mtsas.freehost.pl
@@ -2626,6 +2638,7 @@ ns-us-02.coinmine.pl
 ntslab.pl
 nu7.pl
 nudevista.com.pl
+nuiso.vot.pl
 nvc.coinmine.pl
 nvcd.pl
 nwemonica.az.pl
@@ -2804,6 +2817,7 @@ panel.adtify.pl
 panel.utylimed.pl
 paniepo40.pl
 papla.pl
+parafiaczarkow.ns48.pl
 parafiamecina.pl
 pardonmypolish.pl
 parisel.pl
@@ -2942,10 +2956,13 @@ polsatboxingnight-transmisjahd.ujm.pl
 polsetk.pl
 polska-tv.pl
 polska.travel.pl
+polskaporwania.com.pl
+polskaporwania.net.pl
 polskiecipki.com.pl
 polskikapital.com.pl
 polubish.pl
 polzamech.pl
+pomagajmypl.net.pl
 pomaranczowapomoc.pl
 pomoc-drogowa.cba.pl
 pomorzesrodkowe.pl
@@ -2968,6 +2985,7 @@ pornotivi.pl
 pornozilla.pl
 portalbcpmillenium-pt-com.unicloud.pl
 portiernie.biz.pl
+portkierowcy.pl
 posciele.za.pl
 pospr.waw.pl
 poswieciekuchni.pl
@@ -3415,7 +3433,11 @@ senseiwolf.pl
 seriale.org.pl
 serialefilmy.pl
 server.idreams.pl
+server078515.nazwa.pl
+server836207.nazwa.pl
+server905483.nazwa.pl
 serwer1650017.home.pl
+serwer1690390.home.pl
 serwer1819004.home.pl
 serwer1827616.home.pl
 serwer1837541.home.pl
@@ -3679,7 +3701,6 @@ stratum-sg15.coinmine.pl
 stratum-us-01.coinmine.pl
 stratum-us08.coinmine.pl
 stratum-us10.coinmine.pl
-straz.brzozakrolewska.pl
 stream-online.com.pl
 stream24.com.pl
 streamgo.pl
@@ -3718,6 +3739,7 @@ sys.zief.pl
 systemrma.pl
 szada-art.pl
 szaloneupusty.pl
+szalpol.com.pl
 szamponrevita.pl
 szczecin.komornik.pl
 szklo.olkusz.pl
@@ -3822,6 +3844,7 @@ tomasztelej.pl
 top-deal.com.pl
 top-rank.pl
 topescortpoland.pl
+topeshop.pl
 toplista.xonx.pl
 topseans.pl
 topsecrets.com.pl
@@ -4513,6 +4536,7 @@ zastrzyk-gotowki.waw.pl
 zbierajnagrody.bo.pl
 zbigniewzaleski.pl
 zbmzory.pl
+zbyk.drl.pl
 zckupila.republika.pl
 zcl.coinmine.pl
 zclpool01.coinmine.pl
@@ -4521,6 +4545,7 @@ zcoviplivemoney.pl
 zcovipstarnet.pl
 zcoviptopcash.pl
 zdaj-to.pl
+zdjecie-facebook-zdj3425jeio.dkonto.pl
 zdrowie-blog.pl
 zec-as.coinmine.pl
 zec-eu.coinmine.pl

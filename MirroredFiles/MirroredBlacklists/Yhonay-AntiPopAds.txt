@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 11783
+! Version: 11795
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -640,6 +640,7 @@
 ||bfcazxhkofa.club^
 ||bfdihioj.com^
 ||bfeofwzszuis.com^
+||bfezsiok.com^
 ||bfhlxjwc.com^
 ||bfidvcsuazwy.com^
 ||bfjwdxeakfifak.com^
@@ -2454,6 +2455,7 @@
 ||evfzxjiqg.com^
 ||evgdkvrzn.com^
 ||evghlumwjasu.com^
+||evgywgur.com^
 ||evhvoeqfrlsb.com^
 ||evimfftxa.com^
 ||evlpfjro.com^
@@ -4087,6 +4089,7 @@
 ||hzyvjghy.bid^
 ||hzyxaqdr.bid^
 ||hzyxmywj.com^
+||hzzevwlmjji.com^
 ||hzzmoouuqb.com^
 ||iaatzkkqyv.com^
 ||iacexhglty.com^
@@ -4654,6 +4657,7 @@
 ||jccjaosi.com^
 ||jccszmkabdean.com^
 ||jcgvmfaby.bid^
+||jchgcipyywszqt.com^
 ||jchhompudl.com^
 ||jciieszytnk.bid^
 ||jcjrcmaunbqxg.com^
@@ -5555,6 +5559,7 @@
 ||kuqlhzmdek.com^
 ||kuqonhmcwaiot.com^
 ||kuqylnamtv.bid^
+||kutjilsi.com^
 ||kutlvuitevgw.com^
 ||kuvlikgekekwp.com^
 ||kuwlmrggxrznky.com^
@@ -7231,6 +7236,7 @@
 ||nzkumtaiw.com^
 ||nzkxmphfbqrfzs.com^
 ||nzlydrgumirn.com^
+||nzopgzncs.com^
 ||nzpjatzkwdzb.com^
 ||nzssjqjv.bid^
 ||nzvbcznobb.com^
@@ -8717,6 +8723,7 @@
 ||qzcpotzdkfyn.com^
 ||qzdexbmyq.com^
 ||qzfnuwdc.com^
+||qzgbhuelut.com^
 ||qzhaqsxb.com^
 ||qzismxssqf.com^
 ||qzizjjyvsa.com^
@@ -9120,6 +9127,7 @@
 ||ruqckzdjsoe.bid^
 ||rurjxaovebr.bid^
 ||rustqlclwuebif.bid^
+||ruuwkftrtegqj.com^
 ||ruzrkjnd.com^
 ||ruzttiecdedv.com^
 ||ruzwwrkgthfobd.com^
@@ -9788,6 +9796,7 @@
 ||tdxipgdorydvzo.com^
 ||tdxqgpfkiye.bid^
 ||tdxuojiufz.bid^
+||teasfwda.com^
 ||teefpagayhb.com^
 ||teemacfznt.com^
 ||tefwraudu.bid^
@@ -10759,6 +10768,7 @@
 ||vqqvpouifhv.com^
 ||vqsggzvcaujh.com^
 ||vqzqkhumdad.com^
+||vriwjpzvh.com^
 ||vrmuyscnqgsg.com^
 ||vrvyearwxo.com^
 ||vsbvvcyxz.com^
@@ -11335,6 +11345,7 @@
 ||yebojewh.com^
 ||yebpettlkcqm.com^
 ||yecxfxsbkb.com^
+||yeegsxcwbnn.com^
 ||yefttzzn.com^
 ||yenlubragf.com^
 ||yennwmfmbnfz.com^
@@ -11423,6 +11434,7 @@
 ||yodyfofkb.com^
 ||yofyzgkoktwlc.com^
 ||yonmzzszhf.com^
+||yoqpnkhl.com^
 ||yoxrhwtvyqt.com^
 ||ypecfkbqgldzq.com^
 ||ypictqesjuib.com^

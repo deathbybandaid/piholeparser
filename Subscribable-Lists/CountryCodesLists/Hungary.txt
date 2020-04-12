@@ -63,7 +63,6 @@ aladin.hu
 albertpeter.hu
 alestes.hu
 alkatreszar.hu
-alkoholszondanagyker.hu
 allround-service.hu
 altaweb.hu
 alternativhirek.blogspot.hu
@@ -125,7 +124,6 @@ budapest-masszazs.hu
 buk-furdo.hu
 bulla2000.hu
 bumper-ball.hu
-businesstart.hu
 butor-butorok.hu
 buycar.hu
 bvacontionline.pe.hu
@@ -167,7 +165,6 @@ diaflora.hu
 dialektika.extra.hu
 dkgeast.hu
 dmdamedia.hu
-dogmarketing.hu
 dorotheaprh.pe.hu
 drzalai.hu
 dsejl.pe.hu
@@ -314,8 +311,10 @@ lap.reklam.hu
 lashandlashes.hu
 laszloiparcikk.hu
 ledobbensz.blogspot.hu
+leguanok.hu
 lemuria.hu
 lesbian.hu
+lib.hu
 limitedpaypalservicesaccount.pe.hu
 linkpps.pe.hu
 litakbona.pe.hu
@@ -466,6 +465,7 @@ stat.mystat.hu
 stat.p24.hu
 stat.segitek.hu
 statsector.hu
+steamhacker.uw.hu
 sttc.affiliate.hu
 studysurf.hu
 supermoto.hu

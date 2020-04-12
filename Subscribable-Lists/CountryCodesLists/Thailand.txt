@@ -11,7 +11,6 @@ ads3.bangkokpost.co.th
 aes.co.th
 aiccard.co.th
 alumni.bu.ac.th
-ampthailand.co.th
 antivirus.co.th
 assess.vet.cmu.ac.th
 atdi.in.th
@@ -31,7 +30,10 @@ cwf.co.th
 deti.co.th
 dl-vip.pcfaster.baidu.co.th
 edu.tsu.ac.th
+educationthai.co.th
+en.rmu.ac.th
 enagic.co.th
+firstfertility.co.th
 framehouse.in.th
 gdap.crma.ac.th
 gloriajeanscoffees.co.th
@@ -106,6 +108,7 @@ secondary36.obec.go.th
 server3.sourcecode.co.th
 siriwat.co.th
 smilingfish.co.th
+smss.chaiyaphum3.go.th
 srf.ais.co.th
 stat.matichon.co.th
 statmt.matichon.co.th
@@ -116,6 +119,7 @@ tccs.co.th
 teacher2.aru.ac.th
 techno2.bu.ac.th
 tehmag.co.th
+tepcian.utcc.ac.th
 thaisuperphone.atcreative.co.th
 thaiyonei.co.th
 thungchang.go.th
@@ -132,6 +136,7 @@ tsnwires.co.th
 turner.co.th
 unilife.co.th
 vispac.co.th
+webkc.dede.go.th
 welltechgroup.co.th
 wmsjournal.wu.ac.th
 ws-adv.ais.co.th
@@ -142,3 +147,4 @@ www.scglobal.co.th
 www.signal49.dev.dusit.ac.th
 www.stats.in.th
 www.tme.in.th
+xfinity.com-sign-in-secure-cpessfile-appmail.2bpnmedia.co.th

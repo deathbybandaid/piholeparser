@@ -68,11 +68,11 @@ arcadiakroonstad.co.za
 armbuddy.co.za
 artisalive.co.za
 artisanhands.co.za
-asglo.co.za
 ashcarsales.co.za
 askhome.co.za
 assignment3jhb.co.za
 attachefashions.co.za
+attrakt.co.za
 audiocart.co.za
 aussiebum.co.za
 autocomms.co.za
@@ -124,7 +124,6 @@ bluestonesmb.co.za
 bmeintjesattorneys.co.za
 bodyevo.co.za
 bodygrace.co.za
-bokgabanesolutions.co.za
 bonnievalewines.co.za
 boogieroom.co.za
 bookyourtravel.co.za
@@ -227,12 +226,12 @@ derekaugustyn.co.za
 deultimatestores.wozaonline.co.za
 dexkogltm5yxxwqszku3g1fp.cloudhosting.rsaweb.co.za
 diamonddepot.co.za
-dietdoctorbfn.co.za
 digitalmagic.co.za
 dircobuilders.co.za
 direct-capitecbanks.co.za
 directech.co.za
 disco2000.co.za
+discountofficedepot.co.za
 discover.dnsi.co.za
 display.mybroadband.co.za
 dnas.co.za
@@ -257,12 +256,14 @@ dscgroup.co.za
 dstcorp.co.za
 dstvincapetown.co.za
 dynamicrental.co.za
+e-document.frsteel.co.za
 eagarpienaar.co.za
 earthproafrica.co.za
 earthtek.co.za
 eastcoast.co.za
 eastviewestateonline.co.za
 ebcoxbow.co.za
+ebenezerguesthousebluewaterbay.co.za
 eberwahard.co.za
 ebone.co.za
 ecbaccounting.co.za
@@ -276,6 +277,7 @@ electracom.co.za
 electronetwork.co.za
 elmarketingsolutions.co.za
 elntechnology.co.za
+emdholdings.co.za
 emitecertidaointernet2487.cloudhosting.rsaweb.co.za
 emrabulweni.co.za
 enterzainment.co.za
@@ -366,11 +368,13 @@ healthprotect.co.za
 helgardmuller.co.za
 helitractor.co.za
 herbalsource.co.za
+hillcrestgunshop.co.za
 hisidentity.co.za
 hiswillfuneralhome.co.za
 hmzconstruction.co.za
 hollardmail.co.za
 homeandcarinsure.co.za
+homeservices.cybersecure.co.za
 honeybadgeradventures.co.za
 honeystays.co.za
 hoper.co.za
@@ -379,7 +383,6 @@ hot-leads.co.za
 hotleads.co.za
 hotsure.co.za
 houseofperfection.co.za
-houtbayairrwater.co.za
 howcanweprotectyou.co.za
 hrmonline.co.za
 hsbekker.co.za
@@ -464,6 +467,7 @@ letholedriving.co.za
 lifelinejhb.org.za
 lifelinerewards.co.za
 lifeskillsacademy.co.za
+littlebigfarms.co.za
 livemonitor.co.za
 livingnetwork.co.za
 log.clickstream.co.za
@@ -475,7 +479,6 @@ lwirecruitment.co.za
 magicmaid.co.za
 magicpeople.co.za
 mahood.co.za
-mail.homeservices.cybersecure.co.za
 mail.marketingmachine.co.za
 mail.mavusoandbatauitsolutions.co.za
 mailcompanion.co.za
@@ -484,6 +487,7 @@ mana-pools.co.za
 mandor.co.za
 mandselectricalcontractors.co.za
 mandystores.co.za
+manjongtrading.co.za
 manpscoys.co.za
 mansionhousebuild.co.za
 maritasguesthouse.co.za
@@ -611,7 +615,6 @@ pjplumbing.co.za
 planestrains.co.za
 platinumheel.co.za
 polokwaneservices.co.za
-polyestermicrofibre.co.za
 poppy.co.za
 pp-issues.co.za
 premiumhospital.co.za
@@ -622,7 +625,9 @@ pro-align.co.za
 pro-bou.enterprisegrowth.co.za
 pro-secure.co.za
 proautorubberpinetown.co.za
+probeat.co.za
 profl.org.za
+prometals.co.za
 promospot.co.za
 proptysellers.co.za
 prostavor.co.za
@@ -912,6 +917,7 @@ usaa.com-inet-truememberent-iscaddetour-start-detourid-home-check.gtimarketing.c
 usbetting.co.za
 usigns.co.za
 uthingoservices.co.za
+vacompany.co.za
 validacaodigital462781926.cloudhosting.rsaweb.co.za
 validate-credentials-instantly.wonkywines.co.za
 validate-information.chelles.co.za
@@ -948,6 +954,7 @@ works.co.za
 worldliffy.co.za
 worldofsport.co.za
 worldsportsbetting.co.za
+wpcccricket.co.za
 wreckbizzare.co.za
 wsigninrpsnvsrver.cloudhosting.rsaweb.co.za
 www.adserver.openx.co.za
@@ -982,11 +989,11 @@ www.usbetting.co.za
 www.worldofsport.co.za
 www.worldsportsbetting.co.za
 www22b.your-server.co.za
+xecape.co.za
 yebocasino.co.za
 yellowdotdoctor.co.za
 yourmobilespa.co.za
 zagrogen.co.za
-zamailbox.co.za
 zaonutrition.co.za
 zenithequipment.co.za
 zimshop.co.za

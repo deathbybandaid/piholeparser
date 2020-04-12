@@ -30,7 +30,6 @@ domzdravljasd.rs
 dzzrenjanin.rs
 enterstudio.rs
 fishin.rs
-flavena.co.rs
 getget.rs
 grandgroup.co.rs
 greenvillage.edu.rs
@@ -62,6 +61,7 @@ neipori.co.rs
 neosmarmaras.co.rs
 news.intertours.org.rs
 oglasihalo.co.rs
+ordinacijailic.co.rs
 ossubotinac.edu.rs
 outdoor-fitness.rs
 paradigma.rs

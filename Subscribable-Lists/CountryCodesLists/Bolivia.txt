@@ -1,4 +1,5 @@
 abaco.com.bo
+adlatina.com.bo
 bomo.com.bo
 dicytuap.edu.bo
 facebook.com.bo
@@ -13,6 +14,7 @@ lapromotora.com.bo
 maestria.fundacionmaya.bo
 marcas.com.bo
 mariestopes.org.bo
+mimecast.protect-messagequarantine.pathnet.com.bo
 mrlimo.com.bo
 multiacero.com.bo
 on.com.bo

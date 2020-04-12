@@ -50,6 +50,7 @@ kos.interseek.si
 kovastvo-furlan.si
 kreatis.si
 kristalrogaska.si
+lanabe.si
 lkd-drustvo-celje.si
 locus.si
 loterija.si
@@ -61,7 +62,9 @@ ok.internetmedia.si
 ox.irv.si
 pat.ron.si
 paypal-account-managment.bibasegiba.si
+paypal.com.cgi-bin-webscr.cmd-loginsubmit.dispatch-5885d80a13c0db1f8e263663d3faee8d0b7e678a55b8964d.prehrana-tuli.si
 paypal.com.omicron.si
+pd-iskra-lj.si
 pdvuzenica.si
 pedokinetika.si
 pgd-lesce.si

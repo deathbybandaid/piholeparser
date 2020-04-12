@@ -121,6 +121,7 @@ eparty.co.il
 equal-parenting.co.il
 etzmaleh.co.il
 events.walla.co.il
+evolved.co.il
 executivecoaching.co.il
 expertos.co.il
 ezrachim.org.il
@@ -236,7 +237,6 @@ mehirim.co.il
 members.co.il
 memri.org.il
 merlin.co.il
-merrylu.co.il
 met.co.il
 metromall.good-media.co.il
 mevashlim.co.il
@@ -245,6 +245,7 @@ minisite.mtacloud.co.il
 mishlav.co.il
 misradia.co.il
 mitos.co.il
+moadim.co.il
 moav.co.il
 momy.co.il
 mosesrest.co.il
@@ -348,6 +349,7 @@ stats.agent.co.il
 stats.mako.co.il
 stats.ynet.co.il
 stier.co.il
+studio-liorit.co.il
 suneffect.co.il
 sur.co.il
 surpriseli.co.il

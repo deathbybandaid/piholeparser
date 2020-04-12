@@ -197,7 +197,6 @@ imagxnqndfqqcib.la
 imcpdpxvu.la
 img.users.51.la
 inimage.carambo.la
-internetfriends.la
 inyjntsmcoudihceajmcd.la
 iouqmfytvm.la
 itduwbeswfot.la
@@ -357,6 +356,7 @@ pb.carambo.la
 pcigswo.la
 pffidpddkpgpdlldyfvp.la
 phavusacehuiuk.la
+pili.la
 pixel.carambo.la
 pmwvvkjhrssryysms.la
 pnqanennuylapxqoq.la
@@ -488,6 +488,7 @@ xgndtwaf.la
 xhdaqwcddiccskkbfufcx.la
 xidcecuotnfmoiyw.la
 xjbouxbcaacusjok.la
+xn--bakofamerica-3t1f.la
 xnnreoqwnqdinjvc.la
 xnqifvnjmkkegicpitn.la
 xr.h4ck.la
