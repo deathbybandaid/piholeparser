@@ -1,7 +1,7 @@
 # Title: nurcan Türk ad-list
 # Format: Hosts
-# Released: 31.03.2020
-# Entries: 7799
+# Released: 12.04.2020
+# Entries: 7816
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -1489,6 +1489,7 @@
 127.0.0.1 filekeeper.topupload.ru
 127.0.0.1 fileturko.net
 127.0.0.1 filmfiz.com
+127.0.0.1 filmmoz.net
 127.0.0.1 find-my-great-life.com
 127.0.0.1 fingahvf.top
 127.0.0.1 fingersoft-log.scientificrevenue.com
@@ -1584,6 +1585,7 @@
 127.0.0.1 getalinkandshare.com
 127.0.0.1 getapplicationmy.info
 127.0.0.1 getshar.es
+127.0.0.1 getyourprz14.live
 127.0.0.1 gez.io
 127.0.0.1 gfe.nvidia.com
 127.0.0.1 ggagqobykjh.com
@@ -2292,6 +2294,7 @@
 127.0.0.1 milanobet158.com
 127.0.0.1 milkshot.xyz
 127.0.0.1 millionaire-club.perrlqnm9t.top
+127.0.0.1 mindfullnora.hatenablog.com
 127.0.0.1 minently.com
 127.0.0.1 minireklam.com
 127.0.0.1 miplus.com.tr
@@ -2693,8 +2696,10 @@
 127.0.0.1 pdfindirmek.com
 127.0.0.1 pdfindiroku.site
 127.0.0.1 pdfindiroku.xyz
+127.0.0.1 pdfizy.com
 127.0.0.1 pdfkitap.ga
 127.0.0.1 pdfkitaparsivi.tk
+127.0.0.1 pdfkitapdunyam.com
 127.0.0.1 pdfkitaphanem.blogspot.com
 127.0.0.1 pdfkitapindirelim.net
 127.0.0.1 pdfkitapindirokuekitap.blogspot.com
@@ -2773,6 +2778,7 @@
 127.0.0.1 playwetten8.com
 127.0.0.1 plista.com
 127.0.0.1 plsppushme.com
+127.0.0.1 plugrush.com
 127.0.0.1 plutonium.icu
 127.0.0.1 plvlp.lovechats.org
 127.0.0.1 pmelon.com
@@ -3395,6 +3401,7 @@
 127.0.0.1 terrasdsdstd.com
 127.0.0.1 testcenter.com.tr
 127.0.0.1 theadx.com
+127.0.0.1 thebestgame2020.com
 127.0.0.1 thedragonbahis.com
 127.0.0.1 themediamove.com
 127.0.0.1 thintiturring.tk
@@ -3529,6 +3536,7 @@
 127.0.0.1 twilightturk.com
 127.0.0.1 tybukonaju.gq
 127.0.0.1 tynt.com
+127.0.0.1 u21drwj6mp.com
 127.0.0.1 ua.supersonicads.com
 127.0.0.1 ubanulydijo.tk
 127.0.0.1 ubbvkzn.cf
@@ -3909,6 +3917,7 @@
 127.0.0.1 www.adbetclickin.pink
 127.0.0.1 www.adbetnet.advertserve.com
 127.0.0.1 www.adbetnet.com
+127.0.0.1 www.adbetnetwork.com
 127.0.0.1 www.adbooks.ru
 127.0.0.1 www.adbreak.cdn.ubeei.com
 127.0.0.1 www.adbreak.cubecdn.net
@@ -5201,6 +5210,7 @@
 127.0.0.1 www.fightclubturkey.com
 127.0.0.1 www.fileturko.net
 127.0.0.1 www.filmfiz.com
+127.0.0.1 www.filmmoz.net
 127.0.0.1 www.find-my-great-life.com
 127.0.0.1 www.fingahvf.top
 127.0.0.1 www.fingersoft-log.scientificrevenue.com
@@ -5296,6 +5306,7 @@
 127.0.0.1 www.getalinkandshare.com
 127.0.0.1 www.getapplicationmy.info
 127.0.0.1 www.getshar.es
+127.0.0.1 www.getyourprz14.live
 127.0.0.1 www.gez.io
 127.0.0.1 www.gfe.nvidia.com
 127.0.0.1 www.ggagqobykjh.com
@@ -6003,6 +6014,7 @@
 127.0.0.1 www.milanobet158.com
 127.0.0.1 www.milkshot.xyz
 127.0.0.1 www.millionaire-club.perrlqnm9t.top
+127.0.0.1 www.mindfullnora.hatenablog.com
 127.0.0.1 www.minently.com
 127.0.0.1 www.minireklam.com
 127.0.0.1 www.miplus.com.tr
@@ -6401,8 +6413,10 @@
 127.0.0.1 www.pdfindirmek.com
 127.0.0.1 www.pdfindiroku.site
 127.0.0.1 www.pdfindiroku.xyz
+127.0.0.1 www.pdfizy.com
 127.0.0.1 www.pdfkitap.ga
 127.0.0.1 www.pdfkitaparsivi.tk
+127.0.0.1 www.pdfkitapdunyam.com
 127.0.0.1 www.pdfkitaphanem.blogspot.com
 127.0.0.1 www.pdfkitapindirelim.net
 127.0.0.1 www.pdfkitapindirokuekitap.blogspot.com
@@ -6481,6 +6495,7 @@
 127.0.0.1 www.playwetten8.com
 127.0.0.1 www.plista.com
 127.0.0.1 www.plsppushme.com
+127.0.0.1 www.plugrush.com
 127.0.0.1 www.plutonium.icu
 127.0.0.1 www.plvlp.lovechats.org
 127.0.0.1 www.pmelon.com
@@ -7102,6 +7117,7 @@
 127.0.0.1 www.terrasdsdstd.com
 127.0.0.1 www.testcenter.com.tr
 127.0.0.1 www.theadx.com
+127.0.0.1 www.thebestgame2020.com
 127.0.0.1 www.thedragonbahis.com
 127.0.0.1 www.themediamove.com
 127.0.0.1 www.thintiturring.tk
@@ -7234,6 +7250,7 @@
 127.0.0.1 www.twilightturk.com
 127.0.0.1 www.tybukonaju.gq
 127.0.0.1 www.tynt.com
+127.0.0.1 www.u21drwj6mp.com
 127.0.0.1 www.ua.supersonicads.com
 127.0.0.1 www.ubanulydijo.tk
 127.0.0.1 www.ubbvkzn.cf

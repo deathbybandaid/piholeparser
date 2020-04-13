@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 11795
+! Version: 11803
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -2659,6 +2659,7 @@
 ||ffpyofnpq.com^
 ||ffqpdpezdmnpb.com^
 ||ffrsfowwxtlbu.com^
+||fftpzrscirdagr.com^
 ||ffvbcwueh.com^
 ||ffvghouburgijz.bid^
 ||ffvvapasfcoha.bid^
@@ -3526,6 +3527,7 @@
 ||gwqkliacsn.bid^
 ||gwquuagkjxbq.com^
 ||gwucenxvmkowap.com^
+||gwwhheahisrtld.com^
 ||gwwzlwibbws.com^
 ||gwxaulcgmizcq.com^
 ||gwywsuemmf.com^
@@ -7775,6 +7777,7 @@
 ||pdgxtdughbeks.com^
 ||pdidbylbwghsr.com^
 ||pdippmqmrkvn.com^
+||pdmtmribgaqctz.com^
 ||pdmucolwl.com^
 ||pdnoucwb.com^
 ||pdoijgyoxcjob.com^
@@ -8341,6 +8344,7 @@
 ||qgnakeddgtdw.com^
 ||qgnlbjkxrzb.com^
 ||qgnneaeagxaypp.com^
+||qgnqsebea.com^
 ||qgpmtdrm.com^
 ||qgraprebabxo.com^
 ||qgrazpvofra.com^
@@ -8869,6 +8873,7 @@
 ||rgahmllbgubakm.com^
 ||rgbeppxd.bid^
 ||rgcblgor.com^
+||rgdhiucvbtkpou.com^
 ||rgegqcdakbe.com^
 ||rgejlqtlr.com^
 ||rgiijsfm.com^
@@ -9161,6 +9166,7 @@
 ||rwfqhbwkxpewc.com^
 ||rwgvulisul.com^
 ||rwkxvess.com^
+||rwlfznyvivh.com^
 ||rwlyiedd.com^
 ||rwlzbswwmmh.com^
 ||rwmttawspapqcy.com^
@@ -11366,6 +11372,7 @@
 ||ygemknajajg.com^
 ||ygnftomdh.com^
 ||ygngaqihz.com^
+||yguuoibdsscki.com^
 ||ygvuinirwqnl.com^
 ||ygzkedoxwhqlzp.com^
 ||yhaztdufgmw.com^
@@ -11791,6 +11798,7 @@
 ||zygrlkimddjzd.com^
 ||zyikzhgqzjyvgu.com^
 ||zylotcosp.com^
+||zyrjagscswahgz.com^
 ||zywfpkagwwpm.com^
 ||zyxmnqkt.com^
 ||zzfycxsu.com^

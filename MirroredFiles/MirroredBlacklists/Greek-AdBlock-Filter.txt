@@ -3,12 +3,12 @@
 ! Version: 2019041300
 ! Expires: 2 days
 ! Homepage: https://github.com/kargig/greek-adblockplus-filter
-! License: http://creativecommons.org/licenses/by-sa/3.0/
+! License: https://creativecommons.org/licenses/by-sa/4.0/
 ! Redirect: https://www.void.gr/kargig/void-gr-filters.txt
 !
 ! Ad blocking filter for Greek sites by adblock[at]void[dot]gr
 ! supplement for EasyList
-! 
+!
 ! Please report unblocked ads or mistakenly blocked content
 !
 2mdn.net/2629844/*
@@ -190,7 +190,7 @@ zougla.gr/uploads/thomas/travel_city_banner*
 ||contra.gr/incoming/article4110736.ece/BINARY/original/stoiximan_contra.png
 ||contra.gr/latest/article1196807.ece/BINARY/*
 ||contra.gr/livematches/article1559168.ece/BINARY/original/contra_mc_opel_logo.png
-||contra.gr/multimedia/article3498428.ece/binary/original/contra-articlepng.png 
+||contra.gr/multimedia/article3498428.ece/binary/original/contra-articlepng.png
 ||contra.gr/multimedia/article3498429.ece/BINARY/original/sport24HP-left.png
 ||contra.gr/multimedia/article3508528.ece/BINARY/original/stoiximan.png
 ||contra.gr/multimedia/article3679751.ece/BINARY/original/contra-fasa-hp.png
@@ -590,6 +590,8 @@ ethnos.gr##DIV#promotext
 ethnos.gr##DIV.banner300250
 ethnos.gr##DIV.underphoto
 ethnos.gr##div[class="agores300"]
+eviaportal.gr##.bos_searchbox_widget_class
+eviaportal.gr###custom_html-2
 fimotro.blogspot.com##.widget-content
 flix.gr##.banner.medrect
 flix.gr##.banner.minirect
