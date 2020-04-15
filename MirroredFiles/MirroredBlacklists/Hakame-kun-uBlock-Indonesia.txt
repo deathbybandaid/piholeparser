@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 9 April 2020, 03:04:22 WIB
+! Last modified: 14 April 2020, 19:49:53 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -40,6 +40,7 @@
 ||androidrepublic.org/js/siropu/chat
 ||anibatch.me*gif
 ||animebatch.web.id*gif
+||animelist.pw$inline-script
 ||app.pegel.pw/wp-content/uploads
 ||apps.drakor.id/images/yu/2.jpg
 ||arenabetting.cc$3p
@@ -48,6 +49,7 @@
 ||asiatoday.online$3p
 ||aud3g.com$3p
 ||auplod.com$3p
+||backlinkr.net/img/adblock-
 ||ban-host.ru$3p
 ||bercara.com/download*.png
 ||bercara.com*.png
@@ -444,6 +446,7 @@
 *$3p,domain=marocclickers.network
 *$3p,domain=megaurl.xyz
 *$3p,domain=melovin.site
+*$3p,domain=mirrored.to
 *$3p,domain=mm1.ink
 *$3p,domain=nekopoi.care
 *$3p,domain=neobux.com
@@ -638,7 +641,7 @@
 @@/libs/show_ads.js?v=
 @@/ping^$xmlhttprequest,domain=speedtest.net
 @@/safelink$domain=detikbintang.blogspot.com|razorlink.us|safelink-49.blogspot.com
-@@/showads.js$domain=heliohost.org|nawalakarsa.id
+@@/showads.js$domain=backlinkr.net|heliohost.org|nawalakarsa.id
 @@/Sites/admin/Scripts/md5.min.js
 @@/themes$domain=iceimg.net|imgfile.net
 @@/themes*js/adsbygoogle.js
@@ -665,11 +668,13 @@
 @@allcoins.pw$generichide
 @@api.solvemedia.com
 @@api-secure.solvemedia.com
+@@apibay.org/q.php?q=
 @@apis.google.com$domain=easyhits4u.com
 @@app.infinityfree.net/js/ads.js
 @@applixir.com$1p
 @@bercara.com$generichide
 @@bitsfree.net$generichide
+@@bitmedia.io$1p
 @@bitsroll.com$generichide
 @@blitzcoiner.com$generichide
 @@blockadblock.com/js/colorpicker$1p
@@ -761,12 +766,15 @@
 @@marocclickers.network$generichide
 @@maxcdn.bootstrapcdn.com
 @@media.net$1p
+@@mellowads.com$1p
+@@members.popcash.net$1p
 @@moremoney.io$generichide
 @@neobux.com$1p
 @@nsimg.net$domain=pornhubpremium.com
 @@ouo.io/css/bootstrap.css
 @@pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
 @@popads.net$1p
+@@popcash.net$1p
 @@popunder.net$1p
 @@privatelink.de$3p
 @@ptcwall.com$domain=kickasstraffic.com
@@ -786,7 +794,9 @@
 @@superrewards-offers.com$domain=hit4hit.org
 @@systweak.com$1p
 @@technoresults.xyz$generichide
+@@thepiratebay.org$1p
 @@tinyupload.com/ct/js/ct_adsense.js
+@@torrindex.net$domain=thepiratebay.org
 @@traffboost.net$1p
 @@unlockapk.com*ads.js
 @@unpkg.com
@@ -839,7 +849,7 @@
 ! Unblock Elements --------------------
 drive.ad4msan.win#@#p
 simply-hentai.com#@#+js(aeld, , [native code])
-aospextended.com,drive.ad4msan.win#@#.adsbygoogle
+aospextended.com,drive.ad4msan.win,redv.co#@#.adsbygoogle
 cointiply.com#@#.ad-panel
 cointiply.com#@#.adsbox
 cryptofxflash.com#@#.banner-728x90
@@ -864,7 +874,7 @@ birdurls.com##body > div:nth-of-type(4)
 10khits.com,247autohits.com,bitearns.com,manyhit.com##+js(set)
 
 ! ========== Make Countdown Faster List ==========
-123link.pw,1idsly.com,a2zp30.com,ad-doge.com,adwerty.com,agoodprofit.ru,anjay.info,bercara.com,beti.club,bitcoinfaucet.fun,bittube.me,bolaoke.club,closetopic.site,coindice.win,cryptoprofits.in.ua,designmyhomee.com,doge-coin.top,dogecoins.top,duit.cc,dynamicssh.com,elsfile.org,faucet.gold,faucetcrypto.com,faucetwhite.com,forthtrade.com,freebitcoin.vip,freebitcoin.win,fstore.biz,goldenfreesatoshi.ru,goodfaucet.ru,haxhits.com,hexafile.net,hikarinoakariost.info,hokiciki.org,hubcoins.xyz,idsly.*,imgsky.net,in11.site,infosehatku.club,infotrendy.me,jelajahinternet.me,lenov.ru,linkduit.net,luckybits.io,mawataki.com,mediakita.blog,merdekaid.online,muhammadyoga.me,multimining.website,naturalhealthy.xyz,news-tech.xyz,newsjizz.in,ockles.com,oploverzhome.com,ouo.io,pantauterus.me,platinmods.download,sfile.mobi,shortit.pw,speedtest.net,startxchange.com,suarankri.me,technoresults.xyz,treasurebits.net,updatetribun.org,vozdesportiva.com,wadooo.com,wicr.in,wikitrik.com##+js(nano-sib)
+123link.pw,1idsly.com,a2zupload.com,ad-doge.com,adwerty.com,agoodprofit.ru,anjay.info,bercara.com,beti.club,bitcoinfaucet.fun,bittube.me,bolaoke.club,closetopic.site,coindice.win,cryptoprofits.in.ua,designmyhomee.com,doge-coin.top,dogecoins.top,duit.cc,dynamicssh.com,elsfile.org,faucet.gold,faucetcrypto.com,faucetwhite.com,forthtrade.com,freebitcoin.vip,freebitcoin.win,fstore.biz,goldenfreesatoshi.ru,goodfaucet.ru,haxhits.com,hexafile.net,hikarinoakariost.info,hokiciki.org,hubcoins.xyz,idsly.*,imgsky.net,in11.site,infosehatku.club,infotrendy.me,jelajahinternet.me,lenov.ru,linkduit.net,luckybits.io,mawataki.com,mediakita.blog,merdekaid.online,muhammadyoga.me,multimining.website,naturalhealthy.xyz,news-tech.xyz,newsjizz.in,ockles.com,oploverzhome.com,ouo.io,pantauterus.me,platinmods.download,sfile.mobi,shortit.pw,speedtest.net,startxchange.com,suarankri.me,technoresults.xyz,treasurebits.net,updatetribun.org,vozdesportiva.com,wadooo.com,wicr.in,wikitrik.com##+js(nano-sib)
 
 xubster.com##+js(nano-stb, , , 0.01)
 
@@ -998,6 +1008,7 @@ awsubstv.com##.kln
 awsubstv.com##.minipusat
 awsubstv.com##.pusat728
 batch.id##.klan300
+beermoneyforum.com##.samBackgroundItem
 bercara.com##.adsbygoogle
 bercara.com##.col-lg-8.col-md-12 > div:nth-of-type(1)
 bercara.com##.col-md-6
@@ -1034,6 +1045,7 @@ cu5.io##.short
 cryptofxflash.com##.banner-inner
 downloadbatch.com##.idblog-topbanner-aftermenu
 dutchycorp.ovh##.row > center:nth-of-type(1)
+eterbase.exchange##.app-footer
 gigapurbalingga.net##.code-block-1.code-block
 gigapurbalingga.net##.code-block-2.code-block
 grabmylink.xyz##.iklan-kiri

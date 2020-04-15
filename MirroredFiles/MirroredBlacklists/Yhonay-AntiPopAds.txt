@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 11810
+! Version: 11821
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -1423,6 +1423,7 @@
 ||csyjaajr.com^
 ||csyngxtkifrh.com^
 ||ctcpwymaeuwnqd.com^
+||ctdhylltfighs.com^
 ||ctfscglqjzkfe.com^
 ||ctgoivpnnze.bid^
 ||ctimfrfrmqip.com^
@@ -2505,6 +2506,7 @@
 ||exrmlhihaj.com^
 ||exrnrdnebas.com^
 ||exsuqfxv.bid^
+||extyoasigus.com^
 ||exucfbmppagqta.bid^
 ||exvgzhwssyivz.bid^
 ||exvmxqexedomi.com^
@@ -4697,6 +4699,7 @@
 ||jdtufqcyumvb.com^
 ||jducqfnxeypyw.com^
 ||jdwimtfp.com^
+||jdwxjtwue.com^
 ||jdzmcidlajwwzi.bid^
 ||jeakofzseo.com^
 ||jebfktzfjqghv.bid^
@@ -4888,6 +4891,7 @@
 ||jmxjqlagfwz.com^
 ||jmxjwyqnelvzwu.com^
 ||jmxphjxsxd.com^
+||jmykbogg.com^
 ||jnchbwtzbrrf.com^
 ||jncjzdohkgic.com^
 ||jndclagxkvpn.com^
@@ -6268,6 +6272,7 @@
 ||mbajaazbqdzc.com^
 ||mbbjrwsl.com^
 ||mbcperyc.com^
+||mbctxigml.com^
 ||mbezfrwrimjy.bid^
 ||mbflncteg.bid^
 ||mbfvfdkawpoi.com^
@@ -6836,6 +6841,7 @@
 ||ndemlviibdyc.com^
 ||ndfegyhf.com^
 ||ndgmwuxzxppa.com^
+||ndikvccwz.com^
 ||ndilzwjgblea.com^
 ||ndkaxtyhxy.com^
 ||ndkvzncsuxgx.com^
@@ -8051,6 +8057,7 @@
 ||prmvrxcn.bid^
 ||prncfucwvi.bid^
 ||prnxtmtbbqs.bid^
+||probanzfbbdix.com^
 ||prpkhpjxghhn.com^
 ||prqqmfkedev.com^
 ||prrpfmrz.com^
@@ -8233,6 +8240,7 @@
 ||qbfzmwamsid.com^
 ||qbhcfxxivcdfm.com^
 ||qbjnwjtbfrxceq.com^
+||qbkzvophvva.com^
 ||qbldzsktv.com^
 ||qblpxxcjusgmq.bid^
 ||qblttqtvn.bid^
@@ -8562,6 +8570,7 @@
 ||qqylzyrqnewl.com^
 ||qqztmozc.bid^
 ||qrcsppwzjryh.com^
+||qrcvlmxqu.com^
 ||qrecxvdoewmztq.com^
 ||qregqtqtuisj.com^
 ||qreoifgajnoor.com^
@@ -10582,6 +10591,7 @@
 ||uvomthuqsqx.com^
 ||uvosubgxhws.com^
 ||uvppdseel.com^
+||uvscqwzysqm.com^
 ||uvsxjyokgfz.com^
 ||uvzfodimtska.com^
 ||uwdtibwk.com^
@@ -11280,6 +11290,7 @@
 ||xtmjaetqtbm.com^
 ||xtsnbxwak.com^
 ||xudfxpvm.com^
+||xunkhuczqnuf.com^
 ||xuqdbqkqgj.com^
 ||xvapnjwhofiv.com^
 ||xvgfmbrifa.com^
