@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 11821
+! Version: 11833
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -2706,6 +2706,7 @@
 ||fhylnqzxwsbo.com^
 ||fhzgapsfnlsvx.bid^
 ||fiaehdnnx.com^
+||fialzlpkww.com^
 ||fiarnvygamgpqf.com^
 ||ficrwcptjvfpd.com^
 ||fieejwanbrv.com^
@@ -3707,6 +3708,7 @@
 ||hfslmsbj.com^
 ||hftyrwqjknhzoa.com^
 ||hfubvezyoyqs.com^
+||hfxofvdykkmq.com^
 ||hfydxmahpllyx.com^
 ||hfyqolbetdprw.bid^
 ||hfzikiht.com^
@@ -4996,6 +4998,7 @@
 ||jrdxlxdnohjzs.bid^
 ||jrecvuklrjpli.com^
 ||jrikmexrknmxy.com^
+||jrkuzeyfiztvos.com^
 ||jrlnmyorquny.bid^
 ||jrlsithadutpm.com^
 ||jrltmnxpj.com^
@@ -6138,6 +6141,7 @@
 ||luraclhaunxv.com^
 ||lusfrsxgxopm.com^
 ||luvkkodlpxou.bid^
+||luvnrybocrcgl.com^
 ||luvstnqpw.com^
 ||luysvlnrb.com^
 ||luztinhsbzggvr.com^
@@ -6471,6 +6475,7 @@
 ||mlaxgqosoawc.com^
 ||mlbzafthbtsl.com^
 ||mldsiekmhy.com^
+||mlehvwpk.com^
 ||mlfvoqwjvbzy.bid^
 ||mlgrrqymdsyk.com^
 ||mlgtlxyicweqn.com^
@@ -7560,6 +7565,7 @@
 ||opoefqthl.bid^
 ||oppcgcqytazs.com^
 ||opyyykrdyuum.com^
+||opzdbhjvd.com^
 ||oqaghvocticy.com^
 ||oqbxbautpu.com^
 ||oqfoiwjwysbffe.com^
@@ -8173,6 +8179,7 @@
 ||pxlqyrteuuh.com^
 ||pxphhwnmwuey.com^
 ||pxpndcfntwb.com^
+||pxqxbkqcohsy.com^
 ||pxthyfgzm.com^
 ||pxvnhcdzuozqn.com^
 ||pxxxyhum.com^
@@ -8411,6 +8418,7 @@
 ||qjdgrcupkaqvqe.bid^
 ||qjgqelsvt.com^
 ||qjgrrysppkqrbl.bid^
+||qjkxoniuj.com^
 ||qjlgyiuesk.com^
 ||qjmearsroiyn.com^
 ||qjmkidiwbndolx.com^
@@ -10929,6 +10937,7 @@
 ||wfzvjbdicihe.com^
 ||wgaycnmfz.com^
 ||wghmgbjpxmlxa.com^
+||wgimuuqvlumvyy.com^
 ||wglbucuhxxxj.com^
 ||wgpsethooknqv.com^
 ||wgpsjcpdulptl.com^
@@ -11370,6 +11379,7 @@
 ||yecxfxsbkb.com^
 ||yeegsxcwbnn.com^
 ||yefttzzn.com^
+||yemdmtwnpspgy.com^
 ||yenlubragf.com^
 ||yennwmfmbnfz.com^
 ||yeouakimhubraf.com^
@@ -11667,6 +11677,7 @@
 ||zjllvkfa.com^
 ||zjncvhnkh.com^
 ||zjnmgmidmx.com^
+||zjqymhsk.com^
 ||zjsbdjkdtjzoxh.com^
 ||zjsbeont.com^
 ||zjsnrqxltqk.com^
@@ -11801,6 +11812,7 @@
 ||zxbzuyuifdqj.com^
 ||zxcvxmtzs.com^
 ||zxczritytzsjz.com^
+||zxdardwpsuf.com^
 ||zxdgmcgpp.com^
 ||zxevjtzvqlxy.com^
 ||zxeyqwgwsfv.com^
