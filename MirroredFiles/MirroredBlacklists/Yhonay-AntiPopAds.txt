@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 11833
+! Version: 11845
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -985,6 +985,7 @@
 ||bwvigmkn.com^
 ||bwwfncfuzahpg.com^
 ||bwzohoomljs.com^
+||bxaddbia.com^
 ||bxejeqyudkgum.com^
 ||bxexufifrsfr.com^
 ||bxfsdzpffy.bid^
@@ -2281,6 +2282,7 @@
 ||emszbghugzw.bid^
 ||emvdlnwph.com^
 ||emxbuugvudofbc.bid^
+||emxdnfvdnwzx.com^
 ||emxfructugey.com^
 ||emxwkunx.bid^
 ||emxyuehfnlssg.com^
@@ -3013,6 +3015,7 @@
 ||fvkdatbzswo.bid^
 ||fvozquqvnuv.bid^
 ||fvpluqipfjcsf.com^
+||fvptlxwm.com^
 ||fvrbloxygbrv.com^
 ||fvrvxmksxhut.com^
 ||fvsdvxjpxi.com^
@@ -5342,6 +5345,7 @@
 ||kjmddlhlejeh.com^
 ||kjnkmidieyrb.com^
 ||kjqyvgvvazii.com^
+||kjrjvvxcg.com^
 ||kjsedplonmifbe.com^
 ||kjtcdiyzd.com^
 ||kjzprdqjrhjz.com^
@@ -7143,6 +7147,7 @@
 ||ntjcrsfvszoen.com^
 ||ntkuokicthbxc.com^
 ||ntlhrttump.com^
+||ntlzbnmyukos.com^
 ||ntndubuzxyfz.com^
 ||ntnjaxoov.com^
 ||ntnlawgchgds.com^
@@ -7630,6 +7635,7 @@
 ||oubibahphzsz.com^
 ||oubriojtpnps.com^
 ||oucywciij.com^
+||oudccdjvh.com^
 ||ougesqknoehod.com^
 ||ougfkbyllars.com^
 ||oughaoxixcfe.com^
@@ -8327,6 +8333,7 @@
 ||qfeorrrf.com^
 ||qfgcmddmwrrkmj.bid^
 ||qfhjthejwvgm.com^
+||qfigzwpgzzkf.com^
 ||qfijmgalopofbj.com^
 ||qfkvnnzcyanwqo.com^
 ||qflhwgqkegsojx.com^
@@ -8717,6 +8724,7 @@
 ||qxykytqzwagqj.com^
 ||qybzvfvqzpmxpu.com^
 ||qycxhqkddcc.com^
+||qydhjirz.com^
 ||qydpcilzljej.bid^
 ||qydylxmzlnqw.com^
 ||qydzycrxlkdlin.com^
@@ -8803,6 +8811,7 @@
 ||rbuppjvcn.com^
 ||rbvfibdsouqz.com^
 ||rcappkszvgwxx.com^
+||rcblkkhfvrxyn.com^
 ||rcdmxfpefz.bid^
 ||rcemsoiyil.com^
 ||rcjthosmxldl.com^
@@ -9724,6 +9733,7 @@
 ||sywwplqqumjgm.com^
 ||sywyknkojoj.bid^
 ||syxcbevp.com^
+||syxcwxur.com^
 ||syxojpztar.com^
 ||szausichl.com^
 ||szdfteyb.com^
@@ -10785,6 +10795,7 @@
 ||vptgnqpknpdyq.com^
 ||vptkyunlzfy.com^
 ||vpwdweham.com^
+||vpwlynobnnqg.com^
 ||vpyrfomwel.com^
 ||vqaizaukh.com^
 ||vqamufkhkin.com^
@@ -10982,6 +10993,7 @@
 ||wlgkqespz.com^
 ||wlhbgwzgep.com^
 ||wlhgopaqpmwah.com^
+||wlnxskclqr.com^
 ||wlrzptntiqez.com^
 ||wlszodcfwqk.com^
 ||wlvjwquv.com^
