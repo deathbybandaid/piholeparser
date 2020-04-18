@@ -572,6 +572,7 @@ d30s0lx1onfwyh.cloudfront.net
 d31nb97nd8ha11.cloudfront.net
 d36sxvmjoflc2i.cloudfront.net
 d38dub.ru
+d3c3uihon9kmp.cloudfront.net
 d3c8l61zd5ltf8.cloudfront.net
 d3p2b5qewrnsyv.cloudfront.net
 d3pb9zw46rm6zr.cloudfront.net
@@ -755,7 +756,6 @@ fkhkjhj.biz
 fkr63eryj6sp4.ru
 flascom.com
 flashteaser.com
-flawless.com.ua
 flebolab.ru
 flushmviolent.org
 fly-shops.ru

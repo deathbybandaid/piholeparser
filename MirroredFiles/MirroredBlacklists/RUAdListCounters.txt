@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: lw2hf/uwgQvmvGt8JePJsA
-! Version: 202004140030
+! Checksum: B+UGOf8JYIo89tjOdigGmg
+! Version: 202004180020
 ! Title: RU AdList: Counters
-! Last modified: 14 Apr 2020 00:30 UTC
+! Last modified: 18 Apr 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -115,6 +115,7 @@ yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##div[class*="turbo-advert_type
 radioprofusion.com##footer > .counter
 4pda.ru##html:not([style]) > body:not([itemscope]) > div[id]:not([href]) > [href="#"]:empty ~ [href^="http"]
 4pda.ru##html[style] > body [class]:not([id]):not(div):not([style]) > div ~ :not(div)[id][class][style=""]
+4pda.ru##html[style] > body:not([style=";background-color:#E6E7E9!important"]) [id][class] > .slider-list:nth-child(-n+5) + div[class]
 lena-miro.*,livejournal.*,levik.blog,varlamov.*#?#+js(set-constant.js, Object.prototype.Begun, undefined)
 yandex.*#?#+js(abort-on-property-read.js, Object.prototype.adPlacementOptions)
 yandex.*#?#+js(abort-on-property-read.js, Object.prototype.getHoneypot)
@@ -426,6 +427,7 @@ _pagespeed_beacon?
 ||gigatop.net/c.php?
 ||gismeteo.*/static/js/xgemius*.js|
 ||gismeteo.ru/stat.js
+||gloxstore.com^$third-party
 ||go-mpulse.net^$third-party
 ||go.freeanalyzer.ru^
 ||goha.ru^*&geodata=
@@ -652,6 +654,7 @@ _pagespeed_beacon?
 ||spywap.net/ct/
 ||stat.adlabs.ru^
 ||stat.eagleplatform.com^
+||stat.media^$third-party
 ||stat.sports.ru/piwik*.js
 ||stat.su^$third-party
 ||stat.tvigle.ru/track/
