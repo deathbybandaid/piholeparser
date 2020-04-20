@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 11860
+! Version: 11873
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -678,6 +678,7 @@
 ||bgwucxto.com^
 ||bgxjypaeyocjy.bid^
 ||bgybufwnfxkcr.bid^
+||bgzdrgliwew.com^
 ||bgzyppwk.com^
 ||bhbkfoybvrl.bid^
 ||bhcpmowwxwbv.com^
@@ -751,6 +752,7 @@
 ||bjzegkfv.com^
 ||bkdurgyahjhb.com^
 ||bkedsknecp.com^
+||bkembwdgujzp.com^
 ||bkeueifcqeicli.bid^
 ||bkfilgmhnnbq.com^
 ||bkgesylgvrgf.com^
@@ -2290,6 +2292,7 @@
 ||emzotevsto.com^
 ||emzxewhgjt.com^
 ||enavtfdjjcmgy.com^
+||enbvylulfg.com^
 ||encogcfklrcpqw.com^
 ||encvhiseje.bid^
 ||endcgwkclhtnk.com^
@@ -4088,6 +4091,7 @@
 ||hyzncftkveum.com^
 ||hzcrhwmi.com^
 ||hzivfezfltago.com^
+||hzkachqd.com^
 ||hzlewuunwm.com^
 ||hzlsghfoqsvawe.com^
 ||hzsmmfohtye.com^
@@ -4153,6 +4157,7 @@
 ||iclbkrgjdstqt.com^
 ||icltessfskwle.bid^
 ||iclytswtff.com^
+||icmlfqdb.com^
 ||icpfrrffsenr.com^
 ||icqvwlelvzldh.bid^
 ||icrnyafg.bid^
@@ -4722,6 +4727,7 @@
 ||jepmdqcn.com^
 ||jeqixokniyny.com^
 ||jertwakjcaym.com^
+||jeshnpdqy.com^
 ||jetmhrcy.com^
 ||jeuqrslzoxdcz.com^
 ||jevijshpvnwm.com^
@@ -5294,6 +5300,7 @@
 ||khaklikrt.com^
 ||khdmabhykmj.com^
 ||khefhmgfwnnqgv.com^
+||khewwakrywmgxr.com^
 ||khexythfkw.com^
 ||khgsbhdw.bid^
 ||khgwakmfavzch.bid^
@@ -8721,6 +8728,7 @@
 ||qxekuavasuzgfc.com^
 ||qxfzgftkfgukkp.com^
 ||qxgoedqwr.bid^
+||qxkwtmrvnbqxf.com^
 ||qxlohjsxaaq.com^
 ||qxmecqgzrgdh.com^
 ||qxnniyuuaxhv.com^
@@ -9970,6 +9978,7 @@
 ||tkfsmiyiozuo.com^
 ||tkfusktjaok.bid^
 ||tkhoazslm.com^
+||tkickhhylnvm.com^
 ||tkjdwcigpyazr.com^
 ||tkkfmqbisu.com^
 ||tkncbgwor.com^
@@ -10710,6 +10719,7 @@
 ||vfousvlr.com^
 ||vfsirfnosdx.com^
 ||vfsyklhwbxgq.com^
+||vfvdsati.com^
 ||vfxkeagns.com^
 ||vgbvsduys.com^
 ||vghjsrae.com^
@@ -10803,6 +10813,7 @@
 ||vplvywqxsm.com^
 ||vpndcpxavg.com^
 ||vppabbakjzxmz.com^
+||vptggenzv.com^
 ||vptgnqpknpdyq.com^
 ||vptkyunlzfy.com^
 ||vpwdweham.com^
@@ -10822,6 +10833,7 @@
 ||vqzqkhumdad.com^
 ||vriwjpzvh.com^
 ||vrmuyscnqgsg.com^
+||vrsngcuwiiiho.com^
 ||vrvyearwxo.com^
 ||vsbvvcyxz.com^
 ||vsgvivozec.com^
@@ -10838,6 +10850,7 @@
 ||vtbyvtmabpclx.com^
 ||vtcxhnri.com^
 ||vtemaaftwexu.com^
+||vtfdfdldethe.com^
 ||vtgcvsmzxiyoz.com^
 ||vtgdjgtwl.com^
 ||vthhmbfo.com^
