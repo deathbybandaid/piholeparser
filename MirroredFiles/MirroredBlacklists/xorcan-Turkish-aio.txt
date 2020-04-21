@@ -1,7 +1,7 @@
 # Title: nurcan Türk ad-list
 # Format: Hosts
-# Released: 12.04.2020
-# Entries: 7816
+# Released: 20.04.2020
+# Entries: 7832
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -683,6 +683,7 @@
 127.0.0.1 b6roqgi.com
 127.0.0.1 babaeskiziraatodasi.org
 127.0.0.1 bahcesehirevleri.com
+127.0.0.1 bahisbeluga5.com
 127.0.0.1 bahisciler.co
 127.0.0.1 bahreyn.tk
 127.0.0.1 bahsegel.sportdigi.com
@@ -887,6 +888,7 @@
 127.0.0.1 bolumutluturizm.com
 127.0.0.1 bookfinder.top
 127.0.0.1 booksandtoys.com.tr
+127.0.0.1 booksurfers.co.uk
 127.0.0.1 bool.com.tr
 127.0.0.1 boomads.com
 127.0.0.1 boost.maxdevzone.com
@@ -1683,6 +1685,7 @@
 127.0.0.1 hayvancilikhaber.com
 127.0.0.1 hb.bizmrg.com
 127.0.0.1 hbjwzb.com
+127.0.0.1 hddiziport.com
 127.0.0.1 hdfastplay.com
 127.0.0.1 hdmobilizle.com
 127.0.0.1 hdxmedia.site
@@ -2056,6 +2059,7 @@
 127.0.0.1 kosel.com.tr
 127.0.0.1 kralfilm.com
 127.0.0.1 kriptoparahaber.matomo.cloud
+127.0.0.1 krsk-kvest.ru
 127.0.0.1 krxd.net
 127.0.0.1 ksu.com.tr
 127.0.0.1 kuaforpazari.com
@@ -2493,6 +2497,7 @@
 127.0.0.1 nhovlrx.ml
 127.0.0.1 nhovlrx.tk
 127.0.0.1 nigdecumhuriyetim.com
+127.0.0.1 nigthyoustr10.live
 127.0.0.1 ninjagod.com
 127.0.0.1 nizamogluevdenevenakliyat.com
 127.0.0.1 nizansigorta.com
@@ -2543,6 +2548,7 @@
 127.0.0.1 odr.mookie1.com
 127.0.0.1 offergold.online
 127.0.0.1 offinator.com
+127.0.0.1 ofphanpytor.com
 127.0.0.1 oix.net
 127.0.0.1 ojmyxee.cf
 127.0.0.1 ojmyxee.ga
@@ -3501,6 +3507,7 @@
 127.0.0.1 tulipbet102.com
 127.0.0.1 tuminsaat.com
 127.0.0.1 turbofileindir.com
+127.0.0.1 turbotractor.ru
 127.0.0.1 turhantarim.com
 127.0.0.1 turinr.eb2a.com
 127.0.0.1 turiqeri.com
@@ -3690,6 +3697,7 @@
 127.0.0.1 wapkalip.tk
 127.0.0.1 watchmygirlfriend.tv
 127.0.0.1 watergreen.com.tr
+127.0.0.1 wattmooi.nl
 127.0.0.1 waust.at
 127.0.0.1 wayadanana.com
 127.0.0.1 wbidder.online
@@ -4407,6 +4415,7 @@
 127.0.0.1 www.b6roqgi.com
 127.0.0.1 www.babaeskiziraatodasi.org
 127.0.0.1 www.bahcesehirevleri.com
+127.0.0.1 www.bahisbeluga5.com
 127.0.0.1 www.bahisciler.co
 127.0.0.1 www.bahreyn.tk
 127.0.0.1 www.bahsegel.sportdigi.com
@@ -4611,6 +4620,7 @@
 127.0.0.1 www.bolumutluturizm.com
 127.0.0.1 www.bookfinder.top
 127.0.0.1 www.booksandtoys.com.tr
+127.0.0.1 www.booksurfers.co.uk
 127.0.0.1 www.bool.com.tr
 127.0.0.1 www.boomads.com
 127.0.0.1 www.boost.maxdevzone.com
@@ -5403,6 +5413,7 @@
 127.0.0.1 www.hayvancilikhaber.com
 127.0.0.1 www.hb.bizmrg.com
 127.0.0.1 www.hbjwzb.com
+127.0.0.1 www.hddiziport.com
 127.0.0.1 www.hdfastplay.com
 127.0.0.1 www.hdmobilizle.com
 127.0.0.1 www.hdxmedia.site
@@ -5776,6 +5787,7 @@
 127.0.0.1 www.kosel.com.tr
 127.0.0.1 www.kralfilm.com
 127.0.0.1 www.kriptoparahaber.matomo.cloud
+127.0.0.1 www.krsk-kvest.ru
 127.0.0.1 www.krxd.net
 127.0.0.1 www.ksu.com.tr
 127.0.0.1 www.kuaforpazari.com
@@ -6212,6 +6224,7 @@
 127.0.0.1 www.nhovlrx.ml
 127.0.0.1 www.nhovlrx.tk
 127.0.0.1 www.nigdecumhuriyetim.com
+127.0.0.1 www.nigthyoustr10.live
 127.0.0.1 www.ninjagod.com
 127.0.0.1 www.nizamogluevdenevenakliyat.com
 127.0.0.1 www.nizansigorta.com
@@ -6262,6 +6275,7 @@
 127.0.0.1 www.odr.mookie1.com
 127.0.0.1 www.offergold.online
 127.0.0.1 www.offinator.com
+127.0.0.1 www.ofphanpytor.com
 127.0.0.1 www.oix.net
 127.0.0.1 www.ojmyxee.cf
 127.0.0.1 www.ojmyxee.ga
@@ -7215,6 +7229,7 @@
 127.0.0.1 www.tulipbet102.com
 127.0.0.1 www.tuminsaat.com
 127.0.0.1 www.turbofileindir.com
+127.0.0.1 www.turbotractor.ru
 127.0.0.1 www.turhantarim.com
 127.0.0.1 www.turinr.eb2a.com
 127.0.0.1 www.turiqeri.com
@@ -7403,6 +7418,7 @@
 127.0.0.1 www.wapkalip.tk
 127.0.0.1 www.watchmygirlfriend.tv
 127.0.0.1 www.watergreen.com.tr
+127.0.0.1 www.wattmooi.nl
 127.0.0.1 www.waust.at
 127.0.0.1 www.wayadanana.com
 127.0.0.1 www.wbidder.online

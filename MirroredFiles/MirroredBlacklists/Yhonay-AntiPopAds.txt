@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 11873
+! Version: 11886
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -16,6 +16,7 @@
 ||aajychvi.bid^
 ||aallycspkdf.com^
 ||aamejtdlmk.com^
+||aamhrnptzw.com^
 ||aanvxbvkdxph.com^
 ||aaomstbnbiqo.com^
 ||aapxtnrhq.bid^
@@ -428,6 +429,7 @@
 ||aumrrwoile.com^
 ||auqefmhsutnldv.com^
 ||aurhgaees.com^
+||aurjueeh.com^
 ||authmoumrl.com^
 ||autkmgrbdlbj.com^
 ||auwqdpbyl.com^
@@ -995,6 +997,7 @@
 ||bxhevqnz.com^
 ||bxknvtbmzsqc.com^
 ||bxkpkskdox.com^
+||bxmfuxxiqmw.com^
 ||bxniyvvxufxyoy.com^
 ||bxodbythc.com^
 ||bxoemfpetyqi.bid^
@@ -3446,6 +3449,7 @@
 ||grykuutktgaun.com^
 ||gsdolqvdjr.com^
 ||gsdsccoo.com^
+||gseyriwpozfxf.com^
 ||gsezbakx.com^
 ||gsfvzgnu.com^
 ||gsghbxydcyum.com^
@@ -4420,6 +4424,7 @@
 ||ipntpfokhkrh.com^
 ||ippninrrcl.com^
 ||ippwkczttno.com^
+||ipqjjrnciyi.com^
 ||iptrkboffhf.com^
 ||ipuckjvccooync.com^
 ||ipvvitntvja.com^
@@ -5525,6 +5530,7 @@
 ||ksbewtjuqitxg.bid^
 ||ksevfixrkqdx.com^
 ||ksevqmggaxtxt.bid^
+||ksfubacmhdcc.com^
 ||kshysnypina.com^
 ||kshzzbmgbmoqad.com^
 ||ksihafqopndbq.com^
@@ -9333,6 +9339,7 @@
 ||scofnjymyym.bid^
 ||scrltyokacghvd.bid^
 ||scsklzqwme.com^
+||scswlgxttvekd.com^
 ||scvdxxgbvoz.com^
 ||scvonjdwad.bid^
 ||scxxbyqjslyp.com^
@@ -9415,6 +9422,7 @@
 ||sgxaqysyilwkiu.com^
 ||sgycfrrkz.com^
 ||sgzlmagzrrk.com^
+||sgzzlojrhivs.com^
 ||shacupwelhehqc.com^
 ||shapzwwy.com^
 ||shasnvadkustw.com^
@@ -9991,6 +9999,7 @@
 ||tlecwkrygjas.com^
 ||tlfloruou.com^
 ||tlgprhsl.com^
+||tlgvoeeuhxsd.com^
 ||tlhadcbtntr.com^
 ||tlhiatdhw.com^
 ||tlijmtzosfhdsz.bid^
@@ -10491,6 +10500,7 @@
 ||ukwoxufaepbhn.com^
 ||ukxeudykhgdi.com^
 ||ukxpwwdnnbmqzu.bid^
+||ukyyjicbqdx.com^
 ||ulbriabm.com^
 ||uldhfvzyw.com^
 ||uldwcpscwzkis.com^
@@ -11217,6 +11227,7 @@
 ||xhgqgbomrrfstv.com^
 ||xhhfpakexs.com^
 ||xhjtggrtkzo.com^
+||xhkuhzqvtcadz.com^
 ||xhstxnpemardz.com^
 ||xhyjlfbqnbr.com^
 ||xidxivhiior.com^
@@ -11613,6 +11624,7 @@
 ||yyvvnutdokptca.com^
 ||yywctdppuncv.com^
 ||yyxntcpxxvtpuk.com^
+||yyxrezickph.com^
 ||yyyghfmjkz.com^
 ||yyywwbpkf.com^
 ||yzesxnzfhyy.com^
@@ -11661,6 +11673,7 @@
 ||zcovfcongwmn.com^
 ||zcwjasfrog.com^
 ||zcyclbncgubccl.com^
+||zdajdudqfq.com^
 ||zdgmhsahttsj.com^
 ||zdhnepeadrwetg.com^
 ||zdjkzqwpqvwcmc.com^
