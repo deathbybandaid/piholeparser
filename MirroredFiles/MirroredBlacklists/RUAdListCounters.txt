@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: B+UGOf8JYIo89tjOdigGmg
-! Version: 202004180020
+! Checksum: 7snMr4zc/M4Mn6jx0pUerg
+! Version: 202004220030
 ! Title: RU AdList: Counters
-! Last modified: 18 Apr 2020 00:20 UTC
+! Last modified: 22 Apr 2020 00:30 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -78,10 +78,10 @@ happy-hack.ru#?##side_right > .block_r:-abp-has(noindex > center)
 e.mail.ru###theme #LEGO #leftcol-banners
 animedub.ru#@#*
 joyreactor.cc,pornreactor.cc,reactor.cc#?#+js(abort-on-property-read.js, Joyreactor.show_ads)
-ivi.ru#?#+js(abort-on-property-read.js, Object.prototype.getAd)
 otzovik.com#?#+js(abort-on-property-read.js, Object.prototype.rtb)
 yastatic.net#?#+js(abort-on-property-read.js, Ya.preloadVPAIDAd)
 yastatic.net#?#+js(abort-on-property-read.js, getVPAIDAd)
+ivi.ru#?#+js(set-constant.js, Object.prototype.hasAdv, noopFunc)
 rp5.by,rp5.co.uk,rp5.kz,rp5.lt,rp5.lv,rp5.md,rp5.ru,rp5.ua#?#+js(setTimeout-defuser.js, xvb)
 militaryreview.su##.bbanerr
 uniongang.net,uniongang.org#?#.block:-abp-has(> .block-title:-abp-contains(Счётчики))
@@ -99,6 +99,7 @@ yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.sport-advert
 4pda.*##html[style] > body :not(div)[class][id][style]:matches-css(height: /^89\./)
 4pda.*##html[style] > body [class]:matches-css(height: /^403\./)
 4pda.*#?#+js(abort-current-inline-script.js, setTimeout, removeAttribute)
+@@/^https?://yandex\.ru\/turbo\?/*[^\s]+(news\.ru|publy\.ru|tsargrad\.tv)/$csp=script-src
 @@||www.inoreader.com/adv/$domain=www.inoreader.com
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz#?#[class$="segment__container"] > div > .card:-abp-has(> div[class] div[id] + script)
 rutracker.appspot.com,rutracker.net,rutracker.nl,rutracker.org,zerkalo-torrent.tk##[class^="internal-promo-"]
@@ -110,13 +111,14 @@ mail.ru##body > .zeropixel ~ * .searchContainer ~ [class] > .tabs-content ~ div 
 4pda.ru#?#body article ~ article[itemscope]:-abp-has(a[title][target="_blank"])
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body.b-page > .b-page__container .card.content__adv.card
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="b-page"] .main.widgets div ~ div ~ div ~ div[class=""] ~ :not(div) > * > :not([class*="widget"])
-championat.com,eda.ru,gazeta.ru,lenta.ru,motor.ru,passion.ru,quto.ru,rambler.*,rns.online,wmj.ru#?#+js(set-constant.js, Object.prototype.getPrefixes, undefined)
+championat.com,eda.ru,gazeta.ru,lenta.ru,letidor.ru,motor.ru,passion.ru,quto.ru,rambler.*,rns.online,wmj.ru#?#+js(set-constant.js, Object.prototype.getPrefixes, undefined)
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##div[class*="turbo-advert_type_"]
 radioprofusion.com##footer > .counter
 4pda.ru##html:not([style]) > body:not([itemscope]) > div[id]:not([href]) > [href="#"]:empty ~ [href^="http"]
 4pda.ru##html[style] > body [class]:not([id]):not(div):not([style]) > div ~ :not(div)[id][class][style=""]
 4pda.ru##html[style] > body:not([style=";background-color:#E6E7E9!important"]) [id][class] > .slider-list:nth-child(-n+5) + div[class]
 lena-miro.*,livejournal.*,levik.blog,varlamov.*#?#+js(set-constant.js, Object.prototype.Begun, undefined)
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz#?#script[data-message*="/turbo"] ~ * div[class]:-abp-has(> [class^="loader"][class*="__loader"])
 yandex.*#?#+js(abort-on-property-read.js, Object.prototype.adPlacementOptions)
 yandex.*#?#+js(abort-on-property-read.js, Object.prototype.getHoneypot)
 yandex.*#?#+js(abort-on-property-read.js, Object.prototype.loaderVer)
@@ -125,14 +127,10 @@ yandex.*#?#+js(abort-on-property-read.js, yaads.adRenderedCount)
 yandex.*#?#+js(set-constant.js, Object.prototype.AdvertPartner, falseFunc)
 yandex.*#?#+js(set-constant.js, __AAB__, false)
 ||browserleaks.com/proxy$csp=script-src 'unsafe-inline'
-||googletagmanager.com/gtm.js$domain=echo.msk.ru|gazeta.ru|nur.kz|tjournal.ru|vc.ru
+||googletagmanager.com/gtm.js$domain=echo.msk.ru|gazeta.ru|livejournal.com|nur.kz|tjournal.ru|vc.ru
 ||kp.yandex.net/images/bnnr/brand/$domain=www.kinopoisk.ru
 ||kp.yandex.net/js/brand$domain=www.kinopoisk.ru
-||lena-miro.ru^*&callback=*=$script,xmlhttprequest,domain=lena-miro.ru
-||levik.blog^*&callback=*=$script,xmlhttprequest,domain=levik.blog
-||livejournal.com^*&callback=*=$script,xmlhttprequest,domain=livejournal.com
 ||strm.yandex.ru/get/$script,domain=yastatic.net
-||varlamov.ru^*&callback=*=$script,xmlhttprequest,domain=varlamov.ru
 !
 ! = Общие фильтры (блокировка по маске) =======================================
 .com/a.gif?
@@ -228,7 +226,7 @@ _pagespeed_beacon?
 ||ru/cnt/?
 ||ru/count/$domain=~yandex.by|~yandex.kz|~yandex.ru|~yandex.ua|~yandex.uz
 ||ru/img.php?id
-||ru/stat/$domain=~allsocial.ru|~fb.ru|~metrika.yandex.ru|~proships.ru|~sms-track.ru|~sports.ru|~syl.ru|~wordstat.yandex.ru
+||ru/stat/$domain=~allsocial.ru|~metrika.yandex.ru|~proships.ru|~sms-track.ru|~sports.ru|~wordstat.yandex.ru
 ||su/stat/
 ||ua/stat/$domain=~fotomag.com.ua
 !
@@ -692,6 +690,7 @@ _pagespeed_beacon?
 ||strm.yandex.ru/log/?
 ||stts.rbc.ru^
 ||sumome.com^$third-party
+||syl.ru/misc/js/global/tracker.js
 ||sync.rambler.ru/*?partner_id=adsymptotic
 ||t.delfi.ee^
 ||t.delfi.lt^
