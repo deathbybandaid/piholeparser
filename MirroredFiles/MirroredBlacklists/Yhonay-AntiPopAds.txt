@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 11911
+! Version: 11916
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -1965,6 +1965,7 @@
 ||duuewwbntvl.com^
 ||duumdqyt.bid^
 ||duvyjbofwfqh.com^
+||duwomuonxosyjf.com^
 ||duwrigndkjp.com^
 ||duxyrxhfwilv.com^
 ||duyxfipwgrzwwd.bid^
@@ -4474,6 +4475,7 @@
 ||irmfncjihlb.com^
 ||iroktywi.bid^
 ||irpaknbwgif.com^
+||irqtkzvyhmmtyw.com^
 ||irrhjkuantnaa.bid^
 ||irrttzthsxot.com^
 ||irtxsagfqrg.com^
@@ -8482,6 +8484,7 @@
 ||qjwanedlhedm.com^
 ||qjwkyhlxa.com^
 ||qkarmotdhhgeuy.com^
+||qkbwatmx.com^
 ||qkdywnhtmpgc.com^
 ||qkfhfuua.com^
 ||qkfqyqczawyb.com^
@@ -8791,6 +8794,7 @@
 ||qzfnuwdc.com^
 ||qzgbhuelut.com^
 ||qzhaqsxb.com^
+||qziqnfwzk.com^
 ||qzismxssqf.com^
 ||qzizjjyvsa.com^
 ||qzljxgufyvmupa.com^
@@ -10203,6 +10207,7 @@
 ||turyvfzreolc.com^
 ||tusfzbkirabi.com^
 ||tuthokcb.com^
+||tuwuyppwdj.com^
 ||tuxbpnne.com^
 ||tuxdipdej.com^
 ||tuxgnhcrhyugjf.com^

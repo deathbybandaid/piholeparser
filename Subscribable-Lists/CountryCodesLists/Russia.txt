@@ -643,6 +643,7 @@ adsclick.ru
 adsdk.yandex.ru
 adseller.hop.ru
 adsense-google.ru
+adservice.google.ru
 adskape.ru
 adsmart.ru
 adsmo.ru
@@ -6185,6 +6186,9 @@ lasted.ru
 lasvegasplay2008.ru
 latabu.ru
 latebin.ru
+latest-458959.takyake.ru
+latest-469682.takyake.ru
+latest-470281.takyake.ru
 laudit.ru
 laurettaisabelle.ru
 lav-expert.ru
@@ -11786,6 +11790,7 @@ www.adylalahb.ru
 www.afdjljiyagf.ru
 www.ai-ai.ru
 www.amhixwqagiz.ru
+www.an.yandex.ru
 www.anonymousnews.ru
 www.antalya.ru
 www.arabio.ru

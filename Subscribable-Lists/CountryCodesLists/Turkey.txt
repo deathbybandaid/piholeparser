@@ -336,6 +336,7 @@ hoteldedemin.com.tr
 hotshot.com.tr
 humanplus.com.tr
 hygienix.com.tr
+id.google.com.tr
 idema.com.tr
 idriskoylu.com.tr
 ifilo.com.tr
@@ -657,6 +658,7 @@ www.aciklise.web.tr
 www.action.com.tr
 www.ad.logro.com.tr
 www.ad.realist.gen.tr
+www.ad.webservis.gen.tr
 www.ad.zaman.com.tr
 www.ad01.tmgrup.com.tr
 www.adaboya.com.tr
@@ -679,6 +681,7 @@ www.ads5.admatic.com.tr
 www.ads5.sabah.com.tr
 www.adserver.adklik.com.tr
 www.adserver1.adtech.com.tr
+www.adservice.google.com.tr
 www.adsim.sabah.com.tr
 www.adsp.ciner.com.tr
 www.adworld.com.tr
@@ -925,6 +928,7 @@ www.li-dermakine.com.tr
 www.lidersahtebalik.com.tr
 www.liladecor.com.tr
 www.limanyapidenetim.com.tr
+www.logo.webservis.gen.tr
 www.longline.com.tr
 www.mahalliidareleregitimmerkezi.com.tr
 www.malatyakayisipazari.com.tr

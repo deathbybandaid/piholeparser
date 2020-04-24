@@ -1,11 +1,11 @@
-[Adblock Plus 2.0]
-! Title: Nopelist
-! Author: Gene Diaz | http://genediazjr.com
-! Version: 1.0
-! Expires: 7 days
-! Support: https://github.com/genediazjr/nopelist/issues
-! Licence: https://github.com/genediazjr/nopelist/blob/master/LICENSE
-!
+# [Adblock Plus 2.0]
+# ! Title: Nopelist
+# ! Author: Gene Diaz | http://genediazjr.com
+# ! Version: 1.0
+# ! Expires: 7 days
+# ! Support: https://github.com/genediazjr/nopelist/issues
+# ! Licence: https://github.com/genediazjr/nopelist/blob/master/LICENSE
+# !
 azeozrjk.com
 fieldpprofile.com
 geranew.info

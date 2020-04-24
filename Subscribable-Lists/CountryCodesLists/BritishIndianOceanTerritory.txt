@@ -130,6 +130,7 @@ ad-us-east-1.pxlad.io
 ad.1rx.io
 ad.abema.io
 ad.bitmedia.io
+ad.impactify.io
 ad.kissanime.io
 ad.kisscartoon.io
 ad.pxlad.io
@@ -190,6 +191,7 @@ analytics.kaggle.io
 analytics.kongregate.io
 analytics.liftoff.io
 analytics.luckypool.io
+analytics.oned.io
 analytics.soup.io
 analytics.suggestv.io
 analytics.tiltingpoint.io
@@ -835,7 +837,21 @@ gsdk.vectaury.io
 gtm.intercom.io
 gwenedocliteo.cfapps.io
 h1d8fvw9-android.mobile-sdk-api.intercom.io
+h9tkd.rdtk.io
 hack.in.backtrace.io
+haggler-mopub609-us-e-ec2.liftoff.io
+haggler-mopub611-us-e-ec2.liftoff.io
+haggler-mopub618-us-e-ec2.liftoff.io
+haggler-mopub621-us-e-ec2.liftoff.io
+haggler-mopub630-us-e-ec2.liftoff.io
+haggler-mopub636-us-e-ec2.liftoff.io
+haggler-mopub637-us-e-ec2.liftoff.io
+haggler-mopub649-us-e-ec2.liftoff.io
+haggler-mopub651-us-e-ec2.liftoff.io
+haggler-mopub652-us-e-ec2.liftoff.io
+haggler-mopub664-us-e-ec2.liftoff.io
+haggler-mopub670-us-e-ec2.liftoff.io
+haggler-mopub686-us-e-ec2.liftoff.io
 hal.dnb.io
 hashcoin.io
 hashflare.io

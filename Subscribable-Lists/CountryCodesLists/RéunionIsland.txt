@@ -3,6 +3,7 @@ aeroport-travaux.re
 anti-coronavirus.re
 anticoronavirus.re
 bnompre.re
+c.adsco.re
 carokane.re
 com-featu.re
 huit.re
