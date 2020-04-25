@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202004060559
+! Version: 202004240855
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 06 Apr 2020 05:59 UTC
+! Last modified: 24 Apr 2020 08:55 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -19,7 +19,6 @@
 ||2go7v1nes8.com^
 ||34667c8ece5.com^
 ||64p3am9x95ct.com^$popup
-||6942f24115b63.com^
 ||9eb10b7a3d04a.com^$popup
 ||9icmzvn6.website^$popup
 ||a.brand.ad^$third-party
@@ -31,7 +30,6 @@
 ||addesigner.com^$third-party
 ||adflazz.com^$third-party
 ||admarketplace.net^$popup,third-party
-||admessage.support^$third-party
 ||admp.io^$third-party
 ||adnety.com^$popup,third-party
 ||adplus.co.id^$third-party
@@ -42,16 +40,12 @@
 ||ads-link.net^$third-party
 ||ads.indosatooredoo.com^$third-party
 ||adsbingo.com^$third-party
-||adsco.re^$popup
 ||adscpm.site^$third-party
 ||adshost.site^$third-party
 ||adskom.com^$third-party
 ||adslop.com^$third-party
 ||adtimeselaras.com^$popup
 ||adtimeselaras.com^$third-party
-||adtival.com^$third-party
-||adtival.network^$third-party
-||aenan.pw^$third-party
 ||afbcashidr.com^$popup,third-party
 ||ahcnxuepput.com^$popup
 ||aj1052.online^$popup
@@ -60,8 +54,6 @@
 ||ampclicks.com^$popup,third-party
 ||anekaiklan.com^$third-party
 ||aopxnvrugx.com^$popup
-||ashaidbit.club^$third-party
-||ashamparm.site^$third-party
 ||auredzeon.com^$popup
 ||axzsd.pro^$popup,third-party
 ||azxsd.pro^$popup,third-party
@@ -75,7 +67,6 @@
 ||click.eclk.club^$popup
 ||clickmedia.co.id^$third-party
 ||craydark.pw^$third-party
-||cryaptall.club^$script,third-party
 ||d0p21g2fep.com^
 ||d2405b0jymm2dk.cloudfront.net^
 ||d24afgsm39csxt.cloudfront.net^
@@ -98,13 +89,16 @@
 ||eclkmpbn.com^$third-party
 ||eclkmpsa.com^$third-party
 ||edomz.com^$third-party
+||elfirkelk.com^$script
 ||epfcfhtjxqd.com^$popup
 ||etoads.net^$popup
 ||etoads.net^$third-party
 ||flexterkita.com^$third-party
 ||fnkyyrgraizy.com^$popup
+||frpiksdeygy.com^$popup
+||frpiksdeygy.com^$third-party
+||fryawlauk.com^$script
 ||furocmay.com^$popup
-||fuyuap.xyz^
 ||groucign.com^$third-party
 ||groupiklan.com^$third-party
 ||grushashuka.pro^$popup
@@ -114,7 +108,6 @@
 ||herdethi.net^$third-party
 ||hitadsmedia.com^$third-party
 ||hoegutvie.com^$popup
-||iidfyyelvijfk.com^
 ||iklan-laris.com^$third-party
 ||iklanads.com^$third-party
 ||iklanbarisgratis.com^$third-party
@@ -162,7 +155,6 @@
 ||mesiniklan.andipublisher.com^$third-party
 ||motosal.net^$popup
 ||mousheen.net^$third-party
-||mpyiiswvgxz.com^
 ||mybannermaker.com^$third-party
 ||naetoris.pw^$popup
 ||newsupdatewe.info^$third-party
@@ -247,7 +239,7 @@
 ||yesads.com^$third-party
 ||yhig.info^$third-party
 ||yllix.com^$popup,third-party
-||ys3e965d.top^
+||ys3e965d.top^$third-party
 ||yx-ads6.com^$third-party
 ||zukxd6fkxqn.com^$popup
 ! *** abpindo:src/advert/thirdparty.txt ***
@@ -487,7 +479,6 @@ $xmlhttprequest,domain=mangacanblog.com
 ||lapak-online.net^$popup,third-party
 ||layarkaca21.*/assets/*.gif$image
 ||layarkaca21.net/anow.js$script,domain=cinemaindo.web.id
-||layshyjar.com^$script,domain=anime-indo.id
 ||lendir.org/banner/
 ||link.ganool.co.in/links.js$domain=ganool.run
 ||linkgenerator.xyz$script,third-party
@@ -829,7 +820,7 @@ kawanfilm21.org#@#+js(abort-current-inline-script, adtival_base64_encode)
 @@||novelgo.id^$generichide
 @@||omahkpop.com^$generichide
 @@||otakuindo.net^$generichide
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ad4msan.win|animenyus.com|animexin.jin-7.com|belajarbro.id|datasekolah.co.id|dukun-cit.com|illyasave.com|indozone.me|lewat.club|modecepat.com|sedot.link|www.infolokerserang.com|www.nekopoi.web.id
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ad4msan.win|animenyus.com|animexin.jin-7.com|belajarbro.id|datasekolah.co.id|dukun-cit.com|illyasave.com|indozone.me|lewat.club|modecepat.com|sedot.link|www.infolokerserang.com|www.nekopoi.web.id|www.pugam.com
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
 @@||radarlombok.co.id^$generichide
 @@||rawcdn.githack.com/KecoaTerbank/safelink/$script,domain=eleventhlevelinteractive.com
@@ -946,8 +937,6 @@ woof.tube#@#.adsbox
 ##.ad-right-image
 ##.ad_primex
 ##.adace-slot
-##.adcontainer
-##.ads-container
 ##.ads-head
 ##.ads-pop
 ##.ads__side
@@ -1320,7 +1309,7 @@ loveindonesia.com##.ad_990_80
 terkini.id##.adbox
 bharian.com.my##.adbtm
 file.rocks##.add
-192.99.70.18,22cinema.com,dapurpacu.com,dewanontons.com,download-lagu-mp3.com,dunia21.ltd,duniafilm21.com,embed.dramacool.es,embed.dramanices.com,k-vid.net,kompas.com,neumanga.tv,otakuindo.net,smallencode.com,topgans.blogspot.com##.ads
+192.99.70.18,22cinema.com,95.216.163.177,dapurpacu.com,dewanontons.com,download-lagu-mp3.com,dunia21.ltd,duniafilm21.com,embed.dramacool.es,embed.dramanices.com,k-vid.net,kompas.com,neumanga.tv,otakuindo.net,smallencode.com,topgans.blogspot.com##.ads
 republika.co.id##.ads-160
 republika.co.id##.ads-160-600
 republika.co.id##.ads-300-video
@@ -1394,6 +1383,7 @@ bharian.com.my##.bh-ad
 bharian.com.my##.block-bh-googledfp
 indoxx1.pw,indoxxi.pictures,sukanonton.online##.blocker.jquery-modal
 ceklink.co##.blog-content
+103.194.171.75,idtube.me##.bm.overlay
 anime17.net,www.cosmogirl.co.id##.bnr
 bioskop99.me##.bot.ads
 beritagar.id##.bottom-20.box-widget.right-300.banner300x250.banner
@@ -1576,12 +1566,14 @@ www.medcom.id##.widebanner.banner
 cdramabase.com##.wpa
 nontonlk21.live##.wpb-outer-wrap
 dwa21.org##[class*="banner"]
+kurina.vip##[class="sc__wrp"]
 jalantikus.com##[class^="ad-"][class*="-container"]
+mydramalist.com##[class^=spnsr-top-]
+mydramalist.com##[class^=spnsr-wrapper-]
 neonime.net##[data-src^="https://neonime.net/wp-content/"]:xpath(..)
 omberbagi.com##[href$="/omberbagi"]
 nontoncinema.org##[href$="/referral/nontoncinema"]
 sukamovie.club##[href$="/sukamovieclub"]
-www.senimovie.co##[href="http://bit.ly/zenwinseni"]
 idfl.top##[href="http://dewanmas.com/"]
 idfl.top##[href="http://menangvip.org/"]
 kazefuri.blogspot.com##[href="http://www.cocobet."]
@@ -2350,7 +2342,6 @@ zonabola.*##a[href^="http://bit.ly/"]
 /luxury-top.$image,third-party
 /m88domino.$image,third-party
 /mabesqq.$image,third-party
-/macaubet.$image
 /macaubet.$image,third-party
 /mahkotabola.$image,third-party
 /mahkotaqq.$image,third-party
@@ -2852,7 +2843,6 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||astonbola.$image,third-party
 ||astonbola.$popup
 ||astonwin.$image,third-party
-||astonwin.$popup
 ||astrototo.$image,third-party
 ||astrototo.$popup
 ||auxbet.$image,third-party
@@ -3850,7 +3840,6 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||mabosbet.$popup
 ||macan365.$image,third-party
 ||macantogel.$image,third-party
-||macaubet.$image,third-party
 ||maenpokerasli.$image,third-party
 ||maenpokerasli.$popup
 ||mahkotabola.$image,third-party
@@ -4071,7 +4060,6 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||oppabet.$image,third-party
 ||oppopoker.$image,third-party
 ||opuspoker.$image,third-party
-||opuspoker.$popup
 ||orientalpoker.$image,third-party
 ||orientalpoker.$popup
 ||otto4d.$image,third-party
@@ -4512,7 +4500,6 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||star88bola.$image,third-party
 ||star88bola.$popup
 ||star88win.$image,third-party
-||star88win.$popup
 ||starbola88.$image,third-party
 ||starcasino88.$image,third-party
 ||starcasino88.$popup
@@ -4868,6 +4855,8 @@ zonabola.*##a[href^="http://bit.ly/"]
 ###judi
 ###togel
 ##.judi
+##.lazyloaded.dominowalet
+##.lazyloaded.happypoker
 ##.togel
 ##[href$="/exsapoker"]
 ##[href=^"http://imcqq."]
@@ -4888,6 +4877,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##[href^="http://www.permainanvip.com"]
 ##[href^="http://www.rumahcash7.com"]
 ##[href^="http://www.semogauntung.com"]
+##[href^="http://www.untungvip.com"]
 ##[href^="https://2capsaqq.com"]
 ##[href^="https://3mkartu.com"]
 ##[href^="https://99cashbali.com"]
@@ -4900,6 +4890,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##[href^="https://fivestarsbet.com"]
 ##[href^="https://hahatogel.net"]
 ##[href^="https://hokianda.com"]
+##[href^="https://indoxbet.com"]
 ##[href^="https://jcapsa.com"]
 ##[href^="https://judiayambangkok.net"]
 ##[href^="https://m303bet."]
@@ -4918,6 +4909,8 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##[href^="https://www.mpo189.org"]
 ##[href^="https://zetapoker99.com"]
 ##[href^="https://zeuspkv.com"]
+##a[alt="AHABET" i]
+##a[alt="INDOTOGEL" i]
 ##a[alt="QQJOKER" i]
 ##a[alt="Texaspoker" i]
 ##a[alt="capsapro" i]
@@ -6482,6 +6475,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[title="7naga toto" i]
 ##a[title="AFAPOKER" i]
 ##a[title="AGEN JUDI" i]
+##a[title="AHABET" i]
 ##a[title="AVOQQ" i]
 ##a[title="AWBET" i]
 ##a[title="AduQQ" i]
@@ -6562,6 +6556,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[title="IBUQQ" i]
 ##a[title="ID88.Com" i]
 ##a[title="IMCQQ" i]
+##a[title="INDOTOGEL" i]
 ##a[title="ISOPOKER " i]
 ##a[title="ITCBET" i]
 ##a[title="Ibosport" i]
@@ -6841,6 +6836,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##img[alt="7naga toto" i]
 ##img[alt="AFAPOKER" i]
 ##img[alt="AGEN JUDI" i]
+##img[alt="AHABET" i]
 ##img[alt="AVOQQ" i]
 ##img[alt="AWBET" i]
 ##img[alt="AduQQ" i]
@@ -6919,6 +6915,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##img[alt="HokiQQ" i]
 ##img[alt="IBUQQ" i]
 ##img[alt="IMCQQ" i]
+##img[alt="INDOTOGEL" i]
 ##img[alt="ISOPOKER " i]
 ##img[alt="Ibosport" i]
 ##img[alt="Indomaxbet" i]
@@ -7195,10 +7192,13 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##img[class="happypoker" i]
 ##img[src="http://livesgp."]
 ##img[title=" situs judi bola" i]
+##img[title="AHABET" i]
+##img[title="INDOTOGEL" i]
 ##img[title="PLAY303" i]
 ##img[title="QQHOK" i]
 ##img[title="kokipoker" i]
 ##img[title="luxury111" i]
+##img[title="mewahbet" i]
 ##img[title="oriqq" i]
 ##img[title="pokerlounge99" i]
 ! *** abpindo:src/annoyances/annoyance_general_block.txt ***
@@ -7403,7 +7403,6 @@ zonabola.*##a[href^="http://bit.ly/"]
 /jasagol-$image
 /jasaqq-$image
 /jaya-bet-$image
-/jayapoker.gif$image
 /jempolqq-$image
 /josbet-$image
 /josbet88-$image

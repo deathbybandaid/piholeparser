@@ -12795,6 +12795,10 @@ myshopblocks.com
 // Submitted by Craig McMahon <craig@shopitcommerce.com>
 shopitsite.com
 
+// shopware AG : https://shopware.com
+// Submitted by Jens Küper <cloud@shopware.com>
+shopware.store
+
 // Siemens Mobility GmbH
 // Submitted by Oliver Graebner <security@mo-siemens.io>
 mo-siemens.io
@@ -13134,5 +13138,9 @@ bss.design
 basicserver.io
 virtualserver.io
 enterprisecloud.nu
+
+// Mintere : https://mintere.com/
+// Submitted by Ben Aubin <security@mintere.com>
+mintere.site
 
 // ===END PRIVATE DOMAINS===
