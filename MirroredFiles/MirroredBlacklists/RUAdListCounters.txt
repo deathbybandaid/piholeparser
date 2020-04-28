@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: bRlPJx0VwIzn8KHdD/BMSA
-! Version: 202004260020
+! Checksum: icx38fYcrhX4r6QJoZ9yGg
+! Version: 202004280030
 ! Title: RU AdList: Counters
-! Last modified: 26 Apr 2020 00:20 UTC
+! Last modified: 28 Apr 2020 00:30 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -99,7 +99,7 @@ yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.sport-advert
 4pda.*##html[style] > body :not(div)[class][id][style]:matches-css(height: /^89\./)
 4pda.*##html[style] > body [class]:matches-css(height: /^403\./)
 4pda.*#?#+js(abort-current-inline-script.js, setTimeout, removeAttribute)
-@@/^https?://yandex\.ru\/turbo\?/*[^\s]+(news\.ru|publy\.ru|tsargrad\.tv)/$csp=script-src
+@@/^https?://yandex\.ru\/turbo\?/*[^\s]+(fishki\.net|news\.ru|publy\.ru|tsargrad\.tv)/$csp=script-src
 @@||www.inoreader.com/adv/$domain=www.inoreader.com
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz#?#[class$="segment__container"] > div > .card:-abp-has(> div[class] div[id] + script)
 rutracker.appspot.com,rutracker.net,rutracker.nl,rutracker.org,zerkalo-torrent.tk##[class^="internal-promo-"]
@@ -118,18 +118,17 @@ radioprofusion.com##footer > .counter
 4pda.ru##html[style] > body [class]:not([id]):not(div):not([style]) > div ~ :not(div)[id][class][style=""]
 4pda.ru##html[style] > body:not([style=";background-color:#E6E7E9!important"]) [id][class] > .slider-list:nth-child(-n+5) + div[class]
 lena-miro.*,livejournal.*,levik.blog,varlamov.*#?#+js(set-constant.js, Object.prototype.Begun, undefined)
+nova.rambler.*#?#+js(abort-on-property-read.js, Object.prototype.AdvManager)
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz#?#script[data-message*="/turbo"] ~ * div[class]:-abp-has(> [class^="loader"][class*="__loader"])
-yandex.*#?#+js(abort-on-property-read.js, Object.prototype.adPlacementOptions)
 yandex.*#?#+js(abort-on-property-read.js, Object.prototype.getHoneypot)
 yandex.*#?#+js(abort-on-property-read.js, Object.prototype.loaderVer)
 yandex.*#?#+js(abort-on-property-read.js, Ya.loaderVer)
-yandex.*#?#+js(abort-on-property-read.js, yaads.adRenderedCount)
 yandex.*#?#+js(set-constant.js, Object.prototype.AdvertPartner, falseFunc)
+yandex.*#?#+js(set-constant.js, Object.prototype.hasPreroll, noopFunc)
 yandex.*#?#+js(set-constant.js, __AAB__, false)
 ||browserleaks.com/proxy$csp=script-src 'unsafe-inline'
-||google-analytics.com^$domain=rambler.ru
-||googletagmanager.com/gtm.js$domain=echo.msk.ru|gazeta.ru|livejournal.com|nur.kz|tjournal.ru|vc.ru
-||googletagmanager.com/gtm.js$domain=rambler.ru
+||google-analytics.com^$domain=cdnvideo.ru|igromania.ru|rambler.ru
+||googletagmanager.com/gtm.js$domain=echo.msk.ru|gazeta.ru|livejournal.com|nur.kz|rambler.ru|tjournal.ru|vc.ru
 ||kp.yandex.net/images/bnnr/brand/$domain=www.kinopoisk.ru
 ||kp.yandex.net/js/brand$domain=www.kinopoisk.ru
 ||strm.yandex.ru/get/$script,domain=yastatic.net
@@ -228,7 +227,7 @@ _pagespeed_beacon?
 ||ru/cnt/?
 ||ru/count/$domain=~yandex.by|~yandex.kz|~yandex.ru|~yandex.ua|~yandex.uz
 ||ru/img.php?id
-||ru/stat/$domain=~allsocial.ru|~metrika.yandex.ru|~proships.ru|~sms-track.ru|~sports.ru|~wordstat.yandex.ru
+||ru/stat/$domain=~allsocial.ru|~be1.ru|~metrika.yandex.ru|~proships.ru|~sms-track.ru|~sports.ru|~wordstat.yandex.ru
 ||su/stat/
 ||ua/stat/$domain=~fotomag.com.ua
 !
@@ -765,6 +764,7 @@ _pagespeed_beacon?
 ||wapstats.net^$third-party
 ||wapstok.ru/cnt/
 ||warlog.info^$third-party
+||waust.at^$third-party
 ||webalta.net/reliancebutton?
 ||webanalizer.ru^$third-party
 ||weblog.com.ua^$domain=~weblog.com.ua

@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 11916
+! Version: 11929
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -52,6 +52,7 @@
 ||acduswfvyjylzq.com^
 ||achsijkc.com^
 ||acinfxei.com^
+||acirtpkh.com^
 ||aclhagvngkjf.com^
 ||aclsqdpgeaik.com^
 ||aclwlkyzxxhn.com^
@@ -1100,6 +1101,7 @@
 ||ccemeoqbqb.com^
 ||ccmoxtwauruz.bid^
 ||ccpnzfts.com^
+||ccqgkbnbpdrxf.com^
 ||ccrkqqnxmnwlm.com^
 ||ccscpyeeiqhs.bid^
 ||ccvewygyjqbq.bid^
@@ -2926,6 +2928,7 @@
 ||frmwbxzynkrswj.com^
 ||frmxnnjejpzbr.com^
 ||frpguidmetp.com^
+||frpiksdeygy.com^
 ||frqmnrlqk.com^
 ||frsqgvwmzjnun.com^
 ||frtfwlvwuw.com^
@@ -4008,6 +4011,7 @@
 ||huewmezzodzdv.com^
 ||hufaymllqce.club^
 ||hugjupzdpvuzdr.com^
+||huhkfzino.com^
 ||huhrxmgiofzna.com^
 ||huigyetqu.com^
 ||huirnbrfj.com^
@@ -8018,6 +8022,7 @@
 ||pnjeolgxsimj.com^
 ||pnkdlqeibm.com^
 ||pnkrtgea.com^
+||pnmoclqxtcsbw.com^
 ||pnmxoeztls.bid^
 ||pnobsmeio.com^
 ||pnrblholty.com^
@@ -8798,6 +8803,7 @@
 ||qzismxssqf.com^
 ||qzizjjyvsa.com^
 ||qzljxgufyvmupa.com^
+||qzownvqgn.com^
 ||qzpxhebrm.com^
 ||qzpzspna.bid^
 ||qzvgrwayranpn.com^
@@ -9223,6 +9229,7 @@
 ||rvtxrtzbswdji.com^
 ||rvvslhmmbor.com^
 ||rvwhtjxnn.com^
+||rvwtpwmtnfj.com^
 ||rvyvkjqffmdp.com^
 ||rvzudtgpvwxz.com^
 ||rwalomjwgyljqj.com^
@@ -9446,6 +9453,7 @@
 ||shapzwwy.com^
 ||shasnvadkustw.com^
 ||shftscdisov.com^
+||shfutnjqshzw.com^
 ||shgvuhvf.com^
 ||shhngaasah.com^
 ||shhrbeffgz.com^
@@ -9619,6 +9627,7 @@
 ||sqnezuqjdbhe.com^
 ||sqnkkpba.com^
 ||sqopuafrwvnouz.bid^
+||sqpgncbm.com^
 ||sqrmweiehtpwp.com^
 ||sqsdyfgyjdjbx.com^
 ||sqwyxzrajzsxpx.com^
@@ -10668,6 +10677,7 @@
 ||uwdtibwk.com^
 ||uwehcnmbnfr.com^
 ||uwkwhedvie.com^
+||uwtafumi.com^
 ||uwxldrvqyk.com^
 ||uwyxmjfqlvhqoy.com^
 ||uxideepwawz.com^
@@ -11157,6 +11167,7 @@
 ||wxiwegwffls.com^
 ||wxmpekoil.com^
 ||wxrotkricj.com^
+||wxspfkln.com^
 ||wxtrzeizpnp.com^
 ||wxwbvytlvabs.com^
 ||wyaeyjaqx.com^
@@ -11166,6 +11177,7 @@
 ||wykskkpplgfi.com^
 ||wylblxhn.com^
 ||wymoviciyvj.com^
+||wynzuadujkd.com^
 ||wyvyikcnalvil.com^
 ||wyycgfyum.com^
 ||wyyrjymqewhulr.com^
@@ -11727,6 +11739,7 @@
 ||zfptnwcwyl.com^
 ||zfrpmiqby.com^
 ||zfutrfvgfdr.com^
+||zfvadntnx.com^
 ||zfvrrodxfb.com^
 ||zgcplfvjpixarg.com^
 ||zgeuzenogpy.com^

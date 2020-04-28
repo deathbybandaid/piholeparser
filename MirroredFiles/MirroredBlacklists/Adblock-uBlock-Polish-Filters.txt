@@ -9,9 +9,9 @@
 ! Wsparcie:
 !   Patronite ==> https://patronite.pl/polskiefiltry
 !   PayPal ==> https://www.paypal.com/pools/c/87zNJ8OJ3I
-! Last modified: 24 April 2020
+! Last modified: 27 April 2020
 ! Expires: 1 day
-! Version: 2020042401
+! Version: 2020042704
 ! Support:
 !   Email >> errorsfilters@certyficate.it
 !   Github >> https://github.com/MajkiIT/polish-ads-filter/issues
@@ -19,7 +19,7 @@
 ! License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ! Copyright © 2020 Certyficate IT
 ! Najnowsza wersja zawsze na: https://www.certyficate.it/adblock
-! v.2020042401 aktualizacja: ptk, 24 kwietnia 2020, 10:15:00
+! v.2020042704 aktualizacja: pon, 27 kwietnia 2020, 20:45:00
 !
 !
 !1#-----------------------General advert blocking filters-----------------------!
@@ -224,7 +224,7 @@ pl##.reklama_gora
 pl##.reklamastoproc
 pl##.single_ad_300x250
 pl,starnowa.tv##.td-a-rec
-pl##[href*="s.click.aliexpress.com/"]
+~pepper.pl,pl##[href*="s.click.aliexpress.com/"]
 pl##[id^="ad_widget"]
 pl##a[href*="://clicks.fortunaaffiliates.com/"]
 pl##a[href^="http://tc.tradetracker.net/"]
@@ -458,7 +458,6 @@ bham.pl##a[href^="http://bham.pl/sea/www/send/"]
 bia24.pl##[class^="iframee-R"]
 bialystok.com.pl##div#showcase.w3-container
 biedronka.pl##.app-link
-biedronka.pl##.position9x1
 bieganieuskrzydla.pl##.c-advertaisment
 bielski24.pl###JtfRightBox
 bielskiedrogi.pl###block-block-11
@@ -475,6 +474,7 @@ bielsko.info,tychy.info,czecho.pl##.resizable970x90
 bielsko.info,tychy.info,czecho.pl##[id^="linki-sponsorowane-col-group-"]
 bilgorajska.pl###box_r
 bilgorajska.pl##.czytaj_dalej
+buliba.pl###internal-block > div > span
 binary24.pl###topbanner > .przypis
 binary24.pl##[id^="black-studio-tinymce-"]
 binary24.pl,my3miasto.pl##[id^="text-"]
@@ -747,6 +747,7 @@ domiporta.pl###DetaleZakladki > .ingLinkDesktop[href^="http://tracking.mediaeffe
 domiporta.pl###iFrameResizer0
 domiporta.pl##.navidom-widget, #campaign-openfinance
 domowyprzedszkolak.pl##.sb15
+domyseniora.pl##.js-reklama-box.sidebar__widget, .js-reklama-baner-grupa
 domzdrowia.pl##.jf--shown
 dooktor.pl###r_top_container
 doradcasmaku.pl##.add-recipe-wrapper
@@ -1533,6 +1534,7 @@ kosmetykaaut.pl##.ipsAreaBackground_light.ipsResponsive_inlineBlock.ipsResponsiv
 koszalininfo.pl,wlkp24.info,wwl24.info,b2-biznes.pl,sporteuro.pl,metropoliabydgoska.pl,brzeg24.pl,pabianice.tv,zambrowiacy.pl,e-play.pl,wrc.net.pl,dziennik.walbrzych.pl,asta24.pl,nswiecie.pl,blogtransportowy.pl,portalprzemyski.pl,wzielonej.pl,mikrokontroler.pl,naszawielkopolska.pl,radio-wrzesnia.pl,life4style.pl,zachodniemazowsze.info,mlecznepodroze.pl,ziemiadebicka.pl,szydlowiecki.eu,skarzyski.eu,konecki24.pl,starachowicki.eu,swiatmotocykli.pl,magazyn.elubin.pl,topmejt.co.uk,starachowicka.pl##.g
 kronikamontrealska.com##.textwidget > A
 kryptoporadnik.pl##.stm_sidebar > p
+krytykapolityczna.pl##.kppromowidget.widget
 kozaczek.pl##.nsg_ad_box
 kozaczek.pl##img[src^="data:image/jpeg;base64"]
 kozienice24.pl###adocr
@@ -4180,7 +4182,7 @@ horrortube.fun##A[href*="viliaff.com"], .col-md-8 > A
 ||b54m4qbmt0b9.com^
 ||bodelen.com^
 ||ebd.cda.pl^$xmlhttprequest,domain=cda.pl
-||click.aliexpress.com^
+||click.aliexpress.com^$domain=~pepper.pl|~click.aliexpress.com
 ||dexessee.com^
 ||electro-torrent.pl/over*.js$script
 ||electro-torrent.pl/resizeIframe.js$script
@@ -4325,6 +4327,8 @@ pilot.wp.pl##SCRIPT + DIV.row
 poczta.wp.pl##.ContainerBox .NativeLinkGroup
 poczta.wp.pl##.ContainerBox native-feed[ng-if^="ListDirectiveController.currentLabel.id"]
 poczta.wp.pl##.sidebar__outline > sidebar-feed
+poczta.wp.pl##[slot^=BOX_LEFT_]
+poczta.wp.pl##[slot=SKY]
 pogoda.wp.pl##A[href*=".wp.pl/"][target="_blank"] > DIV:last-child
 pogoda.wp.pl##DIV#stgHeader + * > :first-child + DIV[class]
 pogoda.wp.pl##DIV.stamp + * + DIV[class]
