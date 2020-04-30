@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: icx38fYcrhX4r6QJoZ9yGg
-! Version: 202004280030
+! Checksum: nEa88o/RXTtje+I+F68g7Q
+! Version: 202004300020
 ! Title: RU AdList: Counters
-! Last modified: 28 Apr 2020 00:30 UTC
+! Last modified: 30 Apr 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -117,7 +117,7 @@ radioprofusion.com##footer > .counter
 4pda.ru##html:not([style]) > body:not([itemscope]) > div[id]:not([href]) > [href="#"]:empty ~ [href^="http"]
 4pda.ru##html[style] > body [class]:not([id]):not(div):not([style]) > div ~ :not(div)[id][class][style=""]
 4pda.ru##html[style] > body:not([style=";background-color:#E6E7E9!important"]) [id][class] > .slider-list:nth-child(-n+5) + div[class]
-lena-miro.*,livejournal.*,levik.blog,varlamov.*#?#+js(set-constant.js, Object.prototype.Begun, undefined)
+lena-miro.ru,levik.blog,livejournal.*,olegmakarenko.ru,varlamov.*#?#+js(set-constant.js, Object.prototype.Begun, undefined)
 nova.rambler.*#?#+js(abort-on-property-read.js, Object.prototype.AdvManager)
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz#?#script[data-message*="/turbo"] ~ * div[class]:-abp-has(> [class^="loader"][class*="__loader"])
 yandex.*#?#+js(abort-on-property-read.js, Object.prototype.getHoneypot)
