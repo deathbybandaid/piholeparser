@@ -245,6 +245,7 @@ banksinfo.kiev.ua
 banner.echo.com.ua
 banner.kiev.ua
 banner.ool.ua
+banner.org.ua
 banner.ua
 banners.uct.ua
 bard-real.com.ua

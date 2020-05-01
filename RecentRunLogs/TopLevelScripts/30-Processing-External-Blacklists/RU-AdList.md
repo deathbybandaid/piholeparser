@@ -14,3 +14,7 @@ ____________________________________
 ## Checking File Header
 ## Determining Host Availability
 ## Checking If List Updated Online
+## Determining Download Attempt
+## Attempting To Download List
+## Checking File Size
+* RU-AdList List Was An Empty File After Download. Fri May  1 00:31:31 UTC 2020

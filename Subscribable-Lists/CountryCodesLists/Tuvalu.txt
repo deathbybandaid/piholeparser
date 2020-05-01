@@ -1263,6 +1263,7 @@ www.in-star.videoplaza.tv
 www.in-starlive-preroll.videoplaza.tv
 www.in-starlive.videoplaza.tv
 www.in-viacom18.videoplaza.tv
+www.ipuss.tv
 www.ispot.ispot.tv
 www.ispot.tv
 www.istatistik.skorer.tv

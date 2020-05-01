@@ -78,6 +78,7 @@ disal-group.kz
 discounttaxi.kz
 donor-kostanay.kz
 dosmarket.kz
+drive.staticcontent.kz
 duiskzl.websoft.kz
 duman.kz
 e-corporation.kz
@@ -105,6 +106,7 @@ gulimeo.kz
 hit.kz
 honey-bee.kz
 horseclub.kz
+host.moresecurity.kz
 hseipaa.kz
 i-service.kz
 idea-lab.kz
@@ -162,6 +164,7 @@ maslenka.kz
 massage-v-almaty.kz
 medsklad.kz
 metallcon.kz
+metric.onlinefonts.kz
 metrica.yandex.kz
 metrika.yandex.kz
 mi-point.kz
