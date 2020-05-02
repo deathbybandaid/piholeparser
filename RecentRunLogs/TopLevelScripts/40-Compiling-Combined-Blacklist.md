@@ -2,7 +2,7 @@
 [Return To Main](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 ____________________________________
 # 
-## Compiling Combined List Fri May  1 00:35:28 UTC 2020
-Process Took 51 Seconds.
+## Compiling Combined List Sat May  2 00:38:03 UTC 2020
+Process Took 46 Seconds.
 [Details If Any](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/40-Compiling-Combined-Blacklist/60-Compiling-Combined-List.md)
 

@@ -13,8 +13,34 @@ ____________________________________
 ## Pinging Source To Check Host Availability
 ## Checking File Header
 ## Determining Host Availability
+* RU-AdList List Unavailable To Download. Sat May  2 00:20:44 UTC 2020
 ## Checking If List Updated Online
 ## Determining Download Attempt
 ## Attempting To Download List
 ## Checking File Size
-* RU-AdList List Was An Empty File After Download. Fri May  1 00:31:31 UTC 2020
+## Attempting Creation Of Mirror File
+## Parsing List
+### Removing Comments
+22039 Lines After Removing Comments
+### Removing Content Filtering
+22039 Lines After Removing Content Filtering
+### Trimming HOSTS Format IP Addresses
+22039 Lines After Trimming HOSTS Format IP Addresses
+### Removing Empty Space
+19672 Lines After Removing Empty Space
+### Removing Invalid FQDN Characters
+2308 Lines After Removing Invalid FQDN Characters
+### Converting All Text To Lower Case
+2308 Lines After Converting All Text To Lower Case
+### Checking For Fully Qualified Domain Name Requirements
+2295 Lines After Checking For Fully Qualified Domain Name Requirements
+### Reverse Searching For Invalid Top Level Domains
+2294 Lines After Reverse Searching For Invalid Top Level Domains
+### Punycode Translate
+2294 Lines After Punycode Translate
+### Removing Duplicate Lines
+2292 Lines After Removing Duplicate Lines
+## Checking Parsed File Size
+## Attempting Creation Of Parsed List
+## Calculating Parse Time
+## Clearing Temp Vars
