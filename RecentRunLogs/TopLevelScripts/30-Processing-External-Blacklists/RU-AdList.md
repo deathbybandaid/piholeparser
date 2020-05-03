@@ -13,7 +13,6 @@ ____________________________________
 ## Pinging Source To Check Host Availability
 ## Checking File Header
 ## Determining Host Availability
-* RU-AdList List Unavailable To Download. Sat May  2 00:20:44 UTC 2020
 ## Checking If List Updated Online
 ## Determining Download Attempt
 ## Attempting To Download List
@@ -21,13 +20,13 @@ ____________________________________
 ## Attempting Creation Of Mirror File
 ## Parsing List
 ### Removing Comments
-22039 Lines After Removing Comments
+22046 Lines After Removing Comments
 ### Removing Content Filtering
-22039 Lines After Removing Content Filtering
+22046 Lines After Removing Content Filtering
 ### Trimming HOSTS Format IP Addresses
-22039 Lines After Trimming HOSTS Format IP Addresses
+22046 Lines After Trimming HOSTS Format IP Addresses
 ### Removing Empty Space
-19672 Lines After Removing Empty Space
+19675 Lines After Removing Empty Space
 ### Removing Invalid FQDN Characters
 2308 Lines After Removing Invalid FQDN Characters
 ### Converting All Text To Lower Case
