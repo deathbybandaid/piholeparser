@@ -669,6 +669,7 @@ s10.histas.ero-advertising.com
 s10.histats.com.ero-advertising.com
 s10paces.ero-advertising.com
 s7.adaces.ero-advertising.com
+sa.api.intl.miui.com
 sdk.adincube.com
 sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.xiaomi.com
