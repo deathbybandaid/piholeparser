@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: nEa88o/RXTtje+I+F68g7Q
-! Version: 202004300020
+! Checksum: iBlpb7fLnIdHEdgtdiz9hw
+! Version: 202005050030
 ! Title: RU AdList: Counters
-! Last modified: 30 Apr 2020 00:20 UTC
+! Last modified: 05 May 2020 00:30 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -78,7 +78,6 @@ happy-hack.ru#?##side_right > .block_r:-abp-has(noindex > center)
 e.mail.ru###theme #LEGO #leftcol-banners
 animedub.ru#@#*
 joyreactor.cc,pornreactor.cc,reactor.cc#?#+js(abort-on-property-read.js, Joyreactor.show_ads)
-otzovik.com#?#+js(abort-on-property-read.js, Object.prototype.rtb)
 yastatic.net#?#+js(abort-on-property-read.js, Ya.preloadVPAIDAd)
 yastatic.net#?#+js(abort-on-property-read.js, getVPAIDAd)
 ivi.ru#?#+js(set-constant.js, Object.prototype.hasAdv, noopFunc)
@@ -265,6 +264,7 @@ _pagespeed_beacon?
 ||admetric.io^$third-party
 ||adone.ru/cntr/
 ||adsymptotic.com^$third-party
+||adtrak.org^$third-party
 ||adx.com.ru^$third-party
 ||ag.ru/*/info/info.php?
 ||agropoisk.ru/getbanner.php?
@@ -373,6 +373,7 @@ _pagespeed_beacon?
 ||dc.services.visualstudio.com^*/track
 ||demandbase.com^$third-party
 ||diginetica.net^$third-party
+||directcrm.ru^$third-party
 ||disqus.com/api/ping$third-party
 ||dmtracker.com^$third-party
 ||dnn506yrbagrg.cloudfront.net^
@@ -728,6 +729,7 @@ _pagespeed_beacon?
 ||tracking.eurosport.com^
 ||tracking.olx-st.com^
 ||trafit.com^$third-party
+||traidet.com^$third-party
 ||trendstat.ru^$third-party
 ||triggertag.gorillanation.com^$third-party
 ||triks.info^$third-party
