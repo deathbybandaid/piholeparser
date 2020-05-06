@@ -500,6 +500,7 @@ new-claim.cf
 newdebiandebian.cf
 nhovlrx.cf
 niceforyou.cf
+nicemice.cf
 njgnbke.cf
 njwb.cf
 noda-8879.cf
@@ -690,6 +691,7 @@ taleohio.cf
 tamatar.cf
 team-storeapple.cf
 teamtrim.cf
+teknogirls.cf
 tellmethemeaningofl.cf
 tempdisable.cf
 tempdisableacc.cf
@@ -817,6 +819,7 @@ www.micros0ft.cf
 www.minelearnto.cf
 www.msdfxtk.cf
 www.nhovlrx.cf
+www.nicemice.cf
 www.njgnbke.cf
 www.nurabomefozafe.cf
 www.nxfvcxu.cf
