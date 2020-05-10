@@ -100,9 +100,11 @@
 54d2ba8c00821dbbb900000e.api.5rocks.io
 54ef5ed8333a3803e0000037.api.5rocks.io
 54f01948333a38f77e000001.api.5rocks.io
+58680dd9.ngrok.io
 5rocks.io
 6122d7a7.ngrok.io
 6177406d.ngrok.io
+6735a55d.ngrok.io
 683f1f71.ngrok.io
 6cefd847.ngrok.io
 708483f4.ngrok.io

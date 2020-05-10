@@ -7,6 +7,8 @@ coin-hive-stratum-cilswgfvet.now.sh
 coin-hive-stratum-fcwcduvpjs.now.sh
 coin-hive-stratum-yvvbqoavck.now.sh
 harvest.surge.sh
+init.sh
+is.sh
 maestr.sh
 mainid.sh
 minero-proxy-01.now.sh
@@ -25,6 +27,8 @@ qoo.sh
 rabid-wealth.surge.sh
 refunding-server.wap.sh
 rinat.sh
+rs.sh
+s.sh
 sxcdn02.now.sh
 sxcdn03.now.sh
 sxcdn04.now.sh
@@ -34,6 +38,7 @@ sxcdn4.now.sh
 sxcdn6.now.sh
 tny.sh
 turnsocial.now.sh
+updata.sh
 urht.sh
 vani.sh
 windows-defender.con.sh
