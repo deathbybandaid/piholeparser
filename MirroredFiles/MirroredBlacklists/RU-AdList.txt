@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: g18eVdotVVPL0q6Hw04MNg
-! Version: 202005100030
+! Checksum: aixKsITkDusKURGFpzqMyQ
+! Version: 202005110030
 ! Title: RU AdList
-! Last modified: 10 May 2020 00:30 UTC
+! Last modified: 11 May 2020 00:30 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1303,6 +1303,7 @@ by,~mail.ru,ru,~sportmail.ru,ua##.banner_box
 ##[data-link*="://ubar-pro"]
 ##[data-link*="amigo-browser.ru/dkit-"]
 ##[data-url*="://installpack.net"]
+##[href*="//loadbrowser.ru/"]
 ##[href*="/uni-tds.com/"]
 ##[href*="/vaigowoa.com"]
 ##[href*="/zfvklk.ru"]
@@ -13864,7 +13865,7 @@ itc.ua##.post-txt > p ~ p ~ p > a[href][class]:not([data-fancybox]) > img
 apparat.cc##.postBanner
 dermatitanet.ru##.post__entry > div[style^="background"]
 talkwebber.ru##.post_block ~ table
-tapochek.net##.post_body > div[align="center"]
+tapochek.net##.post_body div[align="center"]
 nastroy.net##.post_liked
 sportfm.ru##.post_offer
 only-soft.org##.post_wrap > center > a[href][target="_blank"]
@@ -14223,7 +14224,7 @@ news-front.info,zdravotvet.ru##.sidebar > noindex
 sonix.tk##.sidebar noindex a[href^="http"][target="_blank"]
 medialeaks.ru#?#.sidebar-3col-wrapper:-abp-has(> div[class] > div[id^="adfox_"])
 prostopleer.com##.sidebar-a330-content
-securitylab.ru,vostok.fm##.sidebar-banner
+pbembed.me,pornobomba.life,securitylab.ru,vostok.fm##.sidebar-banner
 1plus1.video##.sidebar-banner > div:empty
 glavpost.com##.sidebar-banner-block
 yummyanime.club#?#.sidebar-block:-abp-has(> .block-header:-abp-contains(Реклама))
@@ -15346,7 +15347,7 @@ ucoz.ru##a[href*="ukit-freelance.com"][target="_blank"] > img
 westudents.com.ua##a[href*="ukrskidka.com.ua"]
 all-freeload.net,alleng.org,espadaserver.ru,insanegames.ru,sonix.tk,torrentigruha.ru##a[href*="universal."]
 1tulatv.ru,agorov.org,animevost.am,animevost.org,dwg.ru,ebooktime.net,fex.net,forum.antichat.ru,lelang.ru,rusplt.ru,smotret-anime-365.ru##a[href*="utm_"]
-1snau.ru,3dnews.ru,abw.by,agronews.ua,allbasketball.org,animaunt.org,animedia.tv,anistar.org,anistar.pro,anistar1.org,anistar10.org,anistar11.org,anistar12.org,anistar13.org,anistar2.org,anistar3.org,anistar4.org,anistar5.org,anistar6.org,anistar7.org,anistar8.org,anistar9.org,app2top.ru,arsenaltula.ru,cy-pr.com,darkermagazine.ru,enovosty.com,festima.ru,film-ua.com,fishki.net,football.ua,forum.watch.ru,gnatkovsky.com.ua,grippua.com.ua,horrorzone.ru,junona.pro,landlord.ua,med2.ru,multmania.club,news.sportbox.ru,online-star.org,online-stars.org,pr-cy.ru,prodota.ru,proglib.io,prosports.kz,russorosso.ru,rusvesna.su,sdamgia.ru,shkole.net,silver.ru,smotret-anime-365.ru,solncevo.info,sovetromantica.com,stratege.ru,tlumtluda.info,uoor.com.ua,val.ua,vandrouki.by,vc.ru,vgr.by,vjazhi.ru,www.fontanka.ru,www.zoneofgames.ru,yap.ru,yaplakal.com##a[href*="utm_campai"]
+1snau.ru,3dnews.ru,abw.by,agronews.ua,allbasketball.org,animaunt.org,animedia.tv,anistar.org,anistar.pro,anistar1.org,anistar10.org,anistar11.org,anistar12.org,anistar13.org,anistar2.org,anistar3.org,anistar4.org,anistar5.org,anistar6.org,anistar7.org,anistar8.org,anistar9.org,app2top.ru,arsenaltula.ru,cy-pr.com,darkermagazine.ru,enovosty.com,festima.ru,film-ua.com,fishki.net,football.ua,forum.watch.ru,gnatkovsky.com.ua,grippua.com.ua,horrorzone.ru,junona.pro,landlord.ua,med2.ru,multmania.club,news.sportbox.ru,online-star.org,online-stars.org,playground.ru,pr-cy.ru,prodota.ru,proglib.io,prosports.kz,russorosso.ru,rusvesna.su,sdamgia.ru,shkole.net,silver.ru,smotret-anime-365.ru,solncevo.info,sovetromantica.com,stratege.ru,tlumtluda.info,uoor.com.ua,val.ua,vandrouki.by,vc.ru,vgr.by,vjazhi.ru,www.fontanka.ru,www.zoneofgames.ru,yap.ru,yaplakal.com##a[href*="utm_campai"]
 rusvesna.su##a[href*="utm_campai"] + a[href][target="_blank"]
 citrus.ua##a[href*="utm_campai"]:not([href^="https://play.google.com/"])
 dtf.ru##a[href*="utm_campai"][class]
@@ -22901,7 +22902,7 @@ pvpru.com#@##ad_global_above_footer
 newsland.com#@##ad_ph_1
 manshet.org#@##adcontent
 track24.ru#@##ads-1
-720video.tv,lenkino.org,pornobomba.life#@##ads_iframe
+720video.tv,lenkino.org,pbembed.me,pornobomba.life#@##ads_iframe
 27sysday.ru,dl2kq.de,levashove.ru,moj-pes.ru,od-news.com,ognennoetv.ru,rqnr.ru,sdelatotoplenie.ru,softfl.ru,sopsport.org,zona-iptv.ru#@##adsense
 era-igr.ru#@##adsense2
 101.ru,motogp-news.ru#@##advert-1
@@ -22920,7 +22921,7 @@ livelib.ru,mail.ru,quantrum.me,revelationonlinedb.ru,seetv.tv,track24.ru,vg672pl
 delfi.ee#@#.adbanner
 savevideo.me#@#.ads
 track24.ru#@#.ads-1
-720video.tv,lenkino.org,pornobomba.life#@#.ads-iframe
+720video.tv,lenkino.org,pbembed.me,pornobomba.life#@#.ads-iframe
 anitokyo.tv,kosmos-x.net.ru#@#.adsBox
 mks.space#@#.ads_banner
 aniqit.com,anitokyo.tv,gq.ru,helpsetup.ru,kodik.cc,kodik.info,kodikdb.com,kosmos-x.net.ru,mac-torrent-download.net,megogo.ru,readmanga.cf,readmanga.me,sports.ru,tribuna.com,videoframe.at,videoframe.space,vo-dela.su#@#.adsbox
@@ -22970,7 +22971,7 @@ buildplayer.com,bxfilm.org,delivembed.cc,embedstorage.net,filmets.life,izmailov.
 @@/js/advert.js$~third-party
 @@/pagead2.$domain=50na50.net|aa1aa.xyz|akmaya.net|amxxmodx.ru|audiotag.info|axd.semestr.ru|bestradio.fm|d-mod.ru|discounts-online.info|draug.ru|elsyst.gnomio.com|ensage-forum.ru|file-upload.cc|forum.hitechnic31.ru|forvk.space|freefotohelp.ru|freeopenvpn.org|ghame.ru|gnatkovsky.com.ua|gta-gaming.ru|hosgeldi.com|iomedia.ru|izzylaif.com|kinotube.info|kttc.ru|lb.ua|leninsw.info|math.semestr.ru|maxpark.com|minimalsy.xyz|most-dnepr.info|multoigri.ru|mysmsbox.ru|onlinemschool.com|pc-radio.ru|ph4.ru|player.starlight.digital|primpogoda.ru|profatom.ru|pvpru.com|sinref.ru|sitecoder.blogspot.ru|slushat-tekst-pesni.ru|sovremennoepravo.ru|spec-komp.com|stalker-mods.clan.su|stalker-mods.su|survarium.pro|temp-mail.org|testkrok.org.ua|tests24.ru|trialkeys.ru|tvfeed.in|vargr.ru|vimperor.ru|wotspeak.org|www.inoreader.com|zona-iptv.ru
 @@/pagead2.ads.js|$script,domain=remont-aud.net
-@@/player/player_ads.html$subdocument,domain=720video.tv|lenkino.org|pornobomba.life
+@@/player/player_ads.html$subdocument,domain=720video.tv|lenkino.org|pbembed.me|pornobomba.life
 @@/popunder_$script,~third-party,domain=pic4you.ru|pic5you.ru
 @@|http://octomarket.com/j2/$script,domain=tapochek.net
 @@||1plus1.video/static/pubads.ad?_$xmlhttprequest,domain=1plus1.video
