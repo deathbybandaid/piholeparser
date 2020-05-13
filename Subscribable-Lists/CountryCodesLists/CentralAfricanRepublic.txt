@@ -200,6 +200,7 @@ cielopromocional.cf
 cipjtpg.cf
 classbantle.cf
 classicdomainlife.cf
+clooinfor.cf
 cnn.datapath-uk.cf
 coinpirate.cf
 comcore.cf
@@ -515,6 +516,7 @@ notificationsupdate.cf
 notificationyourspage.cf
 notificatiopages.cf
 nurabomefozafe.cf
+nvfjvtntt.cf
 nwalldmntoaccssndcnnct.cf
 nxfvcxu.cf
 nzjsbyv.cf

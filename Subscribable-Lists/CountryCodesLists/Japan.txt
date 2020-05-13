@@ -273,6 +273,8 @@ baidu.jp
 bamrcv.jp
 banana2.jp
 bandaigames.channel.or.jp
+bank-japanposst.jp
+bank-japanpostpo.jp
 banner.ateam-ad.jp
 banner.nttnavi.co.jp
 banners.interq.or.jp
@@ -773,6 +775,7 @@ japancontrol.blogspot.jp
 japanking-no1ninaru.jp
 japanmetrix.jp
 japannettokyo.jp
+japanp0st.jp
 jewelleryterra.jp
 jh4bke.jp
 jig.jp
@@ -783,6 +786,8 @@ jmamusical.jp
 joenet.co.jp
 join.biglobe.ne.jp
 joylab.jp
+jp-bamk.jp
+jp-bank-japanossts.jp
 jp-labo.co.jp
 js.fout.jp
 js.rfp.fout.jp
@@ -1284,6 +1289,8 @@ ryukyu-glass.co.jp
 s-kotobuki.co.jp
 s.yjtag.jp
 sado-shogi.jp
+safetb-amazon.jp
+safety-amazon.jp
 safety-security.jp
 saidagruop.jp
 saista.jp
@@ -1312,6 +1319,7 @@ sdk.push7.jp
 se2f4fmpod.jp
 search.rakuten.co.jp
 secondhands.jp
+security-amazon.jp
 sega.jp
 segs.jp
 seibikougei.jp

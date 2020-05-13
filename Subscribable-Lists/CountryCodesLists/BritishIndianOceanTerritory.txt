@@ -183,6 +183,7 @@ alma-cmp.almamedia.io
 alphonso.us-east-1.stinger-ad.bidr.io
 amer01.sp.backtrace.io
 amer02.sp.backtrace.io
+amerisleep.github.io
 ami.iptrack.io
 amlt.coinfirm.io
 an.cliphub.io
