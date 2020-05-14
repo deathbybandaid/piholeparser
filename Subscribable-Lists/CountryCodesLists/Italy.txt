@@ -171,7 +171,6 @@ alc.it
 alessandromarelli.it
 alexfilateliaenumismatica.it
 alexsolenni.it
-alfatoscana.it
 aliblabla.it
 alice.it
 alicecaracciolo.it
@@ -200,6 +199,7 @@ analytics.magelan.it
 analytics.websolute.it
 anarkos.it
 andfir.it
+andreagiardini.it
 andreaspettoli.it
 anewservivaniseysmapall.it
 angelicabridges.too.it
@@ -220,6 +220,7 @@ antonelladellago.it
 antonello.messina.it
 anywhere.it
 aolamagna.it
+aomrottami.it
 aparthotelholiday.it
 aperuzza.it
 api.bitp.it
@@ -237,6 +238,7 @@ aquagroupsrl.it
 aquariumshop.it
 arcapet.it
 archigate.it
+archivio-lucaborgioli.belortoscana.it
 archiviodellamemoria.it
 archstudiodesign.it
 arcipelagodelgusto.it
@@ -290,6 +292,7 @@ autokinoitalia.it
 autoscout24.it
 autosportpromotion.it
 autosupermarket.it
+autotrasportigamba.it
 avidnewmedia.it
 avisgibellina.it
 avvocatiforlicesena.it
@@ -370,6 +373,7 @@ bocsa.it
 bol.it
 bolzanoprogetto.it
 bonsaiodice.it
+bordignonprogetti.it
 borrower.it
 borsalouisvuittonitalia.it
 borsebottegavenetaa.it
@@ -393,7 +397,6 @@ bottegavenetaonlineshopz.it
 bottegavenetaoutletz.it
 bottegavenetashopsonline.it
 boutiquehifi.it
-boxer.it
 bradesco.it
 branservioceamiaiasrae.it
 bravoitalia.it
@@ -536,6 +539,7 @@ consolone.it
 consorzioagrario.it
 constep.it
 consultatrapianti.fvg.it
+contoaccesso.it
 contoterzisti.it
 convoiurgencesapprobationsde.it
 cookie.aerostatonet.it
@@ -544,6 +548,7 @@ cope.it
 coralebraga.it
 corib91.it
 corobrigatacadore.it
+coropolifonicosantagiusta.it
 corso-droni.it
 cortinifirenze.it
 cosmicgroup.it
@@ -572,6 +577,7 @@ culladelbimbo.it
 cultura.comune.paullo.mi.it
 dalter.it
 dancegallery.it
+danicar.it
 danielapintusarte.it
 danieledolores.it
 danielescivoli.it
@@ -633,7 +639,6 @@ dreamalot.it
 dreamshots.it
 drinflyservice.it
 drnatalinoautili.it
-drumstore.it
 dvd.it
 dvdbest.it
 dvdoasi.it
@@ -649,6 +654,7 @@ ecialde.it
 ecodatastore.it
 ecozac.it
 ediacademy.edisoftware.it
+edicolanazionale.it
 edilperle.it
 edilstudioimmobiliare.it
 editoriasa.rda.it
@@ -659,6 +665,7 @@ elab-unibg.it
 elbashop.it
 elearning.iav.it
 elektronstore.it
+elettricistapavia.it
 elisaart.it
 ellepimmobiliare.it
 elmondin.it
@@ -681,6 +688,7 @@ erosland.it
 erreessesrl.it
 esedrarc.it
 eshirt.it
+eskaton.it
 esteticavelvetskin.it
 eties.it
 eu1.heatmap.it
@@ -707,6 +715,7 @@ expedia-centrale.it
 expedia-loginpartner.it
 extremelot.it
 eye-pack.it
+eyeover.it
 fabbricacensurata.it
 fabioarrigoni.it
 fabriziorossi.it
@@ -781,7 +790,6 @@ games.nafura.it
 gamesnet.it
 gamestorm.it
 gamesurf.tiscali.it
-gardapalace.it
 garlok.it
 garsrl.it
 gattamelatagestioni.it
@@ -841,6 +849,7 @@ golfgubbio.it
 golfmanager.it
 gommetermiche.it
 goparchiedivertimento.it
+gosia.rozen.it
 goticofotografia.it
 gotoandplay.it
 gptecno.it
@@ -852,6 +861,7 @@ gruppodoria.it
 gruppostolfaedilizia.it
 gtoworld.it
 gubbiochannel.it
+gueriniarmi.it
 gugoristobar.it
 gurrierigiovanni.it
 gustobottega.it
@@ -911,6 +921,7 @@ if.bbanner.it
 ifreenet.it
 ifunshop.it
 igenprofessional.it
+iknodrop.it
 il-cash-club.it
 ilbacocco.it
 ilbalconcino2011.it
@@ -958,6 +969,7 @@ intimo6.it
 intimoingrosso.it
 inzerillo.it
 iomibarcameno.it
+ionos.it.14c702c3pagamento.condominiopatro.it
 ionos.it.apulia70.com.industrialcar.it
 ip-142-13.sn2.eutelia.it
 ipabdanielato.it
@@ -986,6 +998,7 @@ jbdog.it
 jesertemanserviuceman.it
 jiggy.it
 jishindo.it
+jiujitsuboys.it
 jksports.it
 job.hitjob.it
 jobgroup.it
@@ -1025,6 +1038,7 @@ lamicrofusione.it
 lamsport.it
 landodepuratori.it
 lanticoforno.it
+lareggiadelladanza.it
 laruotabio-gas.it
 lassodifiori.it
 lastaffa.denunzio.it
@@ -1106,6 +1120,7 @@ luccheseteam.it
 luce.polimi.it
 luciarinaldi.it
 lunaparkperugia.it
+lunapienashop.it
 luxurybrands.it
 lynkedin.it
 m8lab.it
@@ -1124,6 +1139,7 @@ maps-store.it
 maranoinforma.it
 marcheshareplace.it
 marchi-industriale.it
+marconi-galletti.it
 marcoperrone.it
 marenoni.it
 marettimoisland.it
@@ -1134,6 +1150,7 @@ marta.martatovaglieri.it
 marypoppinscarpi.it
 massimotoracing.it
 masterseek.it
+matt-e.it
 matteopizzi.it
 mature2porn.blogspot.it
 mauriziobonanomi.it
@@ -1199,6 +1216,7 @@ mondialisatincroissances.it
 mondo-animali.it
 mondo-shopping.it
 mondonoir.it
+mondotata.it
 mondotec.it
 moniafilati.it
 montacarichi.it
@@ -1237,6 +1255,7 @@ ndtlab.it
 neaz.it
 nencinisport.it
 nesmed.it
+netherlands-icscards2016.it
 netsyscom.it
 nettarietruschi.it
 nevecalze.it
@@ -1357,7 +1376,6 @@ personnalisationdescomptes.it
 pescamania.it
 pescamobydick.it
 pescatoridelpontile.it
-pescaturismocorona.it
 petb2b.it
 peterfilesblog.blogspot.it
 petnet.it
@@ -1441,6 +1459,7 @@ profumo.it
 promos.bwin.it
 prosenectuteverona.it
 provdisarmansrvice.it
+proviamocosamanca.it
 provincia.siracusa.it
 prowoodsrl.it
 psicologiadellaudiovisivo.it
@@ -1484,12 +1503,14 @@ risparmiocasa.bz.it
 risto10.it
 ristorantegiapponeseyoshi.it
 ristoranteilcalesse.it
+ristorantepascia.it
 ristoromontebasso.it
 ritmicamente.it
 riva-ram.it
 riviera-ligure.it
 rivista.turismo-attualita.it
 rndrstudio.it
+roadrunner.valsarno.it
 robertogori.it
 robie.it
 robyandroby.it
@@ -1544,6 +1565,7 @@ scuolando.it
 scuolasci-dolomiti.it
 seat.it
 secondamano.it
+secure-getway21b63240.gemis.it
 secured.soon.it
 seedata.it
 seefrancesystamanoia.it
@@ -1560,6 +1582,7 @@ serrtavinaoiuanmali.it
 serufrancemaneisla.it
 serve.williamhill.it
 server.radiosystem.it
+serveurmobileteelcomsvr.it
 servfree.it
 servicedata.it
 services.argentishop.it
@@ -1580,7 +1603,6 @@ shashymakeup.it
 shinystat.it
 shinystat.shiny.it
 shop-zone.it
-shop.cucinaevolution.it
 shop.parcoavventurachaberton.it
 shop.simonazzimoto.it
 shop.treccani.it
@@ -1593,7 +1615,7 @@ shrink-service.it
 sichenia.omniadvert.it
 sicildolcezze.it
 sicilia20news.it
-sicurezza-accesso.it
+sicurezza-postepay.it
 sieltre.it
 silvanogrifoni.it
 silvercrom.it
@@ -1634,7 +1656,6 @@ spaziomodabologna.it
 specialmilanomoto.it
 specialsteel.it
 spediscitu.it
-speed-dating.it
 spoletoagenda.it
 sponsor.imperiapost.it
 sportacus.it
@@ -1661,6 +1682,7 @@ stats.rcsobjects.it
 stats.technopia.it
 stazilivio.it
 stefanialeto.it
+storicouilcais.it
 streetofthelife.it
 strumentieservizi.it
 studenti.unipa.it
@@ -1688,6 +1710,7 @@ support-73.it
 surja.it
 suwa.it
 sv1.eyeonmusica.it
+sweettravel.it
 swmwater.it
 syndication.teleborsa.it
 systamangomazemineg.it
@@ -1700,7 +1723,6 @@ talentform.it
 tangoshow.it
 tartour.it
 tazzioliemagnani.it
-tealex.it
 teatrorivellino.it
 technix.it
 techno-shop.it
@@ -1737,6 +1759,7 @@ top100.tuttoperinternet.it
 totalfitness.it
 totogratis.it
 touring-italy.it
+tptelecom.it
 tr.bt.matrixspa.it
 track.cedsdigital.it
 track.probolan50.it
@@ -1761,6 +1784,7 @@ transfarmandozrailasa.it
 travelmarketingandmore.it
 trc.smtrcplatform.it
 trevin.it
+trike-ws.2geeks.it
 triumphsicilia.it
 trk.m.libero.it
 trunc.it
@@ -1770,8 +1794,10 @@ tumtumroom.it
 tuositoexpress.it
 turrino.it
 tuttinudi.it
+tv4kmagazineluiza.64-b.it
 tw3.it
 u.heatmap.it
+ualsi.test3d0.it
 ucas.it
 udaremniliwritetofile.consultadelleassociazioni.it
 ugl-catania.it
@@ -1818,6 +1844,7 @@ videoshub.needz.it
 viduesrl.it
 villaducale.it
 villaggioinsicilia.it
+villamariasangano.it
 villaserenapachino.it
 vincenzofranchino.it
 vinicolacherchi.it
@@ -1825,6 +1852,7 @@ vinoinvilla.it
 visitors.dooyoo.it
 viteonlusarezzo.it
 vmservice.it
+volontariatoeuropeo.it
 vppst.iltrovatore.it
 vps-ta.tiscali.it
 w-02.th.seeweb.it
@@ -1999,6 +2027,7 @@ yhoo.it
 yourcustomerstats.it
 youtoner.it
 zadigroma.it
+zahlung.hostpoint.ch.verricars.it
 zanfo.it
 zeoiamiservicemina.it
 zero1.it

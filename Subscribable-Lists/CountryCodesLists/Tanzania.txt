@@ -19,6 +19,8 @@ imperialmedia.co.tz
 journal.tgeeks.co.tz
 kiitec.ac.tz
 laiagency.co.tz
+lakefm.co.tz
+lrct.go.tz
 mail.tgeeks.co.tz
 mainlinecarriers.co.tz
 medicaldiaspora.or.tz
@@ -38,7 +40,6 @@ tanroadsarusha.go.tz
 tct-lmisurvey.or.tz
 telemedics.co.tz
 tiesco.co.tz
-trcs.or.tz
 unityinsurance.co.tz
 wamisionariwakatoliki.or.tz
 wedding.co.tz

@@ -1,5 +1,6 @@
 alphonsor.rf.gd
 cashad2.xd.gd
+cliente74s8.rf.gd
 counter.gd
 covid19-vat.rf.gd
 dhl-france-service.fr.gd
@@ -16,9 +17,13 @@ omf.gd
 pic.gd
 r3fewdsarg3few.rf.gd
 riz.gd
+shop--covid19.rf.gd
+shops-covid-19.rf.gd
+shopscovid19.rf.gd
 soo.gd
 ta.gd
 tl.gd
+tregdsryterger.rf.gd
 viagra.gd
 wva.gd
 www.counter.gd

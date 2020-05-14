@@ -14,6 +14,7 @@ csdelux.ge
 customer-center-customer-idpp00c659.autoshine.ge
 dancesport.ge
 dev-airflow.drawbrid.ge
+dgroup.ge
 diad.ge
 doc.drawbrid.ge
 drawbrid.ge
@@ -49,15 +50,19 @@ officetechnologies.ge
 partners.drawbrid.ge
 pegas.ge
 platform.drawbrid.ge
+premiumevents.ge
 prizma.ge
 prod-airflow.drawbrid.ge
 profi.ge
 relay.drawbrid.ge
+rino.ge
 samegrelorm.ge
 sandiltd.ge
 service-paypal.com.verification.your.account.riktravel.ge
+site.pcplus.ge
 skola-graali.ge
 sprintdental.ge
+starcarrent.ge
 stargroup.ge
 supergeorgia.ge
 swaps.ge

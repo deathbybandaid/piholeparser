@@ -6,7 +6,6 @@ ads.wave.si
 adserver.vsn.si
 advertisment.unimatrix.si
 aeroklub-edvardrusjan.si
-akar.si
 alcyone.si
 antonsovre.si
 apartmaji-ptuj.si
@@ -26,6 +25,7 @@ crnivrh.si
 damjanmozetic.si
 dev.qp.si
 dropbox.mini-shop.si
+dtours.si
 elgas.si
 eloterija.si
 euro-palete.si
@@ -34,7 +34,6 @@ fasade-fasaderstvo.si
 fitvarovanje.si
 games.qp.si
 gdesignhotel.si
-gdri.si
 git.qp.si
 gostisce-jutrisa.si
 gsk-mozirje.si
@@ -50,7 +49,8 @@ kos.interseek.si
 kovastvo-furlan.si
 kreatis.si
 kristalrogaska.si
-lanabe.si
+krovst.krovstvo-tesarstvo.si
+lida.si
 lkd-drustvo-celje.si
 locus.si
 loterija.si
@@ -62,9 +62,7 @@ ok.internetmedia.si
 ox.irv.si
 pat.ron.si
 paypal-account-managment.bibasegiba.si
-paypal.com.cgi-bin-webscr.cmd-loginsubmit.dispatch-5885d80a13c0db1f8e263663d3faee8d0b7e678a55b8964d.prehrana-tuli.si
 paypal.com.omicron.si
-pd-iskra-lj.si
 pdvuzenica.si
 pedokinetika.si
 pgd-lesce.si
@@ -95,6 +93,7 @@ tk-gregoric.si
 traktorski-deli.si
 v2.dev.qp.si
 vonertabox.si
+ww.dnpg.si
 www.8000plus.si
 www.cemsenik.qp.si
 www.cookies.qp.si

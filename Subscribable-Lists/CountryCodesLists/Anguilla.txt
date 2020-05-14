@@ -13,7 +13,9 @@ end.ai
 engage.ascend.ai
 etihadtravel.id.ai
 gandariacityhotel.id.ai
+hypercube.ai
 m2d.m2.ai
+marketscan.ai
 media.ascend.ai
 metrics-api.dimensions.ai
 participant.ascend.ai

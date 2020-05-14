@@ -1,7 +1,7 @@
 1.login.security.appleid.icloud.com-valid-informations.md58djdbx7ejd7djdd6d.lumtech.gr
 1001paixnidia.gr
 123paixnidia.gr
-17gymnasio.gr
+2lyk-chort.thess.sch.gr
 2lyk-stavroup.thess.sch.gr
 2winbet.gr
 32above.gr
@@ -86,6 +86,7 @@ banners.dolcdn.gr
 baraonda.gr
 barefoot-watersports.gr
 beauty-secret.gr
+beautymeacademy.gr
 bestbuyae.gr
 bestlight.gr
 biophelia.gr
@@ -96,6 +97,7 @@ bodyhouseclub.gr
 bonne-maman.gr
 boschetto-hotel.gr
 bouquet.gr
+boutiquecars.gr
 buildingsystems.gr
 burdahellas.gr
 c5y0wwcc8.areospolis.gr
@@ -164,7 +166,6 @@ epiplagrafeiou.com.gr
 epsxanthis.gr
 ergonomia.net.gr
 ermis-suites.gr
-eset-store.gr
 etairikavideo.gr
 eurowood.gr
 evomagazine.gr
@@ -241,6 +242,7 @@ jojos.gr
 kalaitzis.gr
 kalandranis.gr
 kalliston-olive.gr
+kanteres-parts.gr
 kapetantasos.gr
 kapsoyroskoni.gr
 karamouzi.gr
@@ -315,6 +317,7 @@ orgi.gr
 originalrectifie.gr
 orpheusaudioshop.gr
 orthodoxanswers.gr
+oscl.gr
 pacman.gr
 pagonidis.gr
 paidiatrostirnavos.gr
@@ -323,6 +326,8 @@ pammachon.gr
 panagitsa-nikaias.gr
 panseraikosagrotikossillogos.gr
 parosfm.gr
+paypal.account.com.cuteideas.gr
+paypal.signin-returnuri1.rm-cloud.gr
 pellamuseum.culture.gr
 periexomenanet.gr
 perma.gr
@@ -380,6 +385,7 @@ serraikizimi.gr
 sexblue-box.gr
 sexshop.gr
 sexyporngirls.blogspot.gr
+sfotopoulos.gr
 shalomluxuryrooms.gr
 shoinas.gr
 shop.e-lisis.gr
@@ -403,6 +409,7 @@ supermarketdelivery.gr
 support.dromeas.gr
 switch.statman.gr
 synergeiokatharismou-thessaloniki.gr
+sypin.gr
 tagaras.gr
 talos.adman.gr
 tasiosgrigoris.gr
@@ -416,13 +423,13 @@ technopellet.gr
 tecnohellas.gr
 telemarketing.gr
 teleworking.gr
+tenterfacebook-gojcboklwu.mrdigital.gr
 tentoepiskevi.gr
 thegreekmoneysolution.gr
 themeliovida.gr
 themoment.gr
 thermopompoi-agora.gr
 thessalikoiek.gr
-thesspsychologos.gr
 thundernet.gr
 tokelari.gr
 topekdromes.gr
@@ -445,7 +452,6 @@ vitalaikiathinon.gr
 volissos.gr
 vostbaddleschoi1973.blogspot.gr
 voulastudios.gr
-webabout.gr
 webfile-document.homoeopathy.gr
 wellsfargo.com-0.syfanet-offers.gr
 whatsapp.areospolis.gr
@@ -474,5 +480,6 @@ zafferano.gr
 zamidis.gr
 zantidismarkets.gr
 zaxariou.gr
+zoisfashion.gr
 zoneravillas.gr
 zoo.gr

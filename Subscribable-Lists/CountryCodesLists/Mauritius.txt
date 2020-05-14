@@ -4,6 +4,7 @@ dit.mu
 dllexe.mu
 foodworks.mu
 jeux.mu
+stephenbs.ac.mu
 themes.webiz.mu
 theselfiebox.mu
 uk2a.mu

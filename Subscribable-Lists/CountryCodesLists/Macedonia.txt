@@ -6,6 +6,7 @@ ads.popularno.mk
 ads.puls24.mk
 akademija.marketing365.mk
 arkoplast.com.mk
+arthaus.com.mk
 autodiscover.marketing365.mk
 bgsoft.mk
 bibliskozdruzenie.mk
@@ -37,7 +38,6 @@ marsisdata.mk
 metrics.marketing365.mk
 mirjananikoloska.mk
 mk.marketing365.mk
-montenegro-macedonia.mk
 mr.com.mk
 naps.com.mk
 ndm.org.mk

@@ -5,7 +5,6 @@ aenbekshi.aktogaiedu.kz
 agroeconom.kz
 aidarmebel.kz
 aiog.kz
-aipm.kz
 air99.kz
 akita.kz
 aljazeera.kz
@@ -14,7 +13,6 @@ alpha.kz
 altyn-dala.kz
 amocrmkrg.kz
 anb.intcom.kz
-anti-covid19.kz
 api.outlook.kz
 aquaservice.kz
 arendakvartir.kz
@@ -45,6 +43,7 @@ beauty-eyes.kz
 berikkara.kz
 binomo.kz
 bio-market.kz
+bitex.kz
 blackops.kz
 blogos.kz
 bnmd.kz
@@ -76,7 +75,6 @@ developer.cdn.com.kz
 dft6s.kz
 disal-group.kz
 discounttaxi.kz
-donor-kostanay.kz
 dosmarket.kz
 drive.staticcontent.kz
 duiskzl.websoft.kz
@@ -114,6 +112,7 @@ ikkert.kz
 iloveeverybody.kz
 iner.kz
 info.ipkvko.kz
+infoirc.kz
 ingenicopads.kz
 inmarsat.com.kz
 istudio.kz
@@ -145,7 +144,6 @@ kopo.kz
 krmu.kz
 kt.garcom.kz
 kustanay.kz
-labsmolin.kz
 ladym.kz
 legal-line.kz
 legalsurrogacy.kz
@@ -189,6 +187,7 @@ pksk-zarya.kz
 portal.100am100.kz
 preapprovedloansoffline.kz
 preapprovedloansonline.kz
+premexpert.kz
 premiertravel.kz
 prizma.kz
 profi-center.kz
@@ -205,12 +204,14 @@ seiflombard.kz
 seo-smm.kz
 severastana.kz
 smart.cloudnetwork.kz
+smartconstruction.kz
 smartfoodsglutenfree.kz
 smartkid.kz
 snabs.kz
 soluton.kz
 sosh7.edugov.kz
 st-bo.kz
+standardchartered.com.kz
 static.apiinformation.kz
 stomline.kz
 stroytender.kz
@@ -241,4 +242,5 @@ xn--e1aahcgdjkg4aeje6j.kz
 youdesigner.kz
 zero.kz
 zhasoral.kz
+zhetysu360.kz
 zhusandyoi.websoft.kz

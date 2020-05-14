@@ -103,6 +103,7 @@ dnwhubpjibg.la
 dnywwrnfp.la
 dohnpadvudftjncwcdm.la
 domsivww.la
+dpt-hph.gov.la
 dqtbomasvdal.la
 dukggpuflvbwsugtdb.la
 duvlpvjowbensfut.la
@@ -225,6 +226,7 @@ jwoncmgosesiclkbs.la
 jxtuanpjblbcbjmbaw.la
 jxvdefqcxoioohcoji.la
 jyclivmrbgvvlrltktdgd.la
+kaleummai-sek.gov.la
 kandmilhbqvqev.la
 kartclubrubygrand.la
 kaxewaxllhpfjgfn.la
@@ -232,6 +234,7 @@ kcemcwncypbatlbum.la
 kcvwgvwegntbqkhtc.la
 kfksaoluhwqauitfbq.la
 kfqujjabiegwaqjchyl.la
+khammouane.gov.la
 kikjwcaplswnetuec.la
 kivpkvtgbkcqewmmbxt.la
 kjlrbjgckdfoipcj.la
@@ -269,6 +272,7 @@ lniokynjltwegulnhpo.la
 logging.carambo.la
 lonjjdy.la
 lotpnmqgvn.la
+lpryu.gov.la
 lrmrillvfxiqjeiikx.la
 lsydcjydxtn.la
 lulnjwsxkdmxomguqn.la
@@ -356,7 +360,6 @@ pb.carambo.la
 pcigswo.la
 pffidpddkpgpdlldyfvp.la
 phavusacehuiuk.la
-pili.la
 pixel.carambo.la
 pmwvvkjhrssryysms.la
 pnqanennuylapxqoq.la

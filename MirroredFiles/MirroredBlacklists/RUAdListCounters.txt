@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mNa7v6eG8ILpwuDediLNXg
-! Version: 202005100030
+! Checksum: Tmymjatpd1wdNghDze6BQw
+! Version: 202005140030
 ! Title: RU AdList: Counters
-! Last modified: 10 May 2020 00:30 UTC
+! Last modified: 14 May 2020 00:30 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -88,6 +88,7 @@ uniongang.net,uniongang.org#?#.block:-abp-has(> .block-title:-abp-contains(Сч�
 yakusubstudio.home-forum.com,yakusubstudio.ru##.contbaner
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz#?#.content > .card:-abp-has(> div > div[id][class] + script[nonce])
 segodnya.ua##.counters
+rambler.ru##.disableAdvButton__container
 zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz#?#.feed > .feed__row:-abp-has(.cutify-text-view)
 ok.ru#?#.feed-list > .feed-w:-abp-has(.feed_ava ~ div div > [class] ~ [class] ~ [class] ~ [class] ~ [class] ~ [class])
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.mg-page-layout-item div[class^="sport-"] > div[class^="turbo-"]

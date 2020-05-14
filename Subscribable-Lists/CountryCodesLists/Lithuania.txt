@@ -14,6 +14,7 @@ adsplius.lt
 afb-services.96.lt
 alfacrewing.lt
 appelsupport.96.lt
+aservisas.lt
 auto.rusvile.lt
 autoabs.lt
 avitela.lt
@@ -37,6 +38,7 @@ ccrm.lt
 collision.lt
 counter.top.dating.lt
 counter.top100.penki.lt
+covidkaukes.lt
 cs.balticum-tv.lt
 cus.lt
 custom.bnc.lt
@@ -63,6 +65,7 @@ elos.lt
 emailrinkodara.lt
 epsilon.thirdparty.bnc.lt
 euk.lt
+eurologus.lt
 farmville2.visits.lt
 favilnius.lt
 fb.darbo.uzrasai.lt
@@ -87,6 +90,7 @@ ipautorisatie.96.lt
 irenta.lt
 itpartner.lt
 ix.lt
+jaunimoform.wgsystems.lt
 kanticzkos.bernardinai.lt
 keiciuosi.lt
 keytarget.adnet.lt
@@ -129,6 +133,7 @@ parkogalerija.lt
 photomatch100.96.lt
 pirkis.lt
 play.alt.indigital.lt
+player-moderator.us.lt
 powergymclub.lt
 proxy.dlf.lt
 re-activation.96.lt

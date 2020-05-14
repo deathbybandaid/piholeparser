@@ -6,6 +6,7 @@ boomerang.do
 carabela.com.do
 debuguean.do
 dok.do
+duranbello.com.do
 feed.snap.do
 fundecoluz.org.do
 gizmo.do
@@ -13,6 +14,7 @@ inposdom.gob.do
 itgins.do
 jalao.do
 levapan.com.do
+link.do
 maunaloa.com.do
 megasol.com.do
 metrigo.zalan.do

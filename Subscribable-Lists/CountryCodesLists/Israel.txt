@@ -70,6 +70,7 @@ becl23.b2.gns.co.il
 benezer.co.il
 best-air.co.il
 bestelectric.co.il
+bestravelor.co.il
 bezashiloov.co.il
 bezrachim.org.il
 bigelectric.co.il
@@ -121,7 +122,6 @@ eparty.co.il
 equal-parenting.co.il
 etzmaleh.co.il
 events.walla.co.il
-evolved.co.il
 executivecoaching.co.il
 expertos.co.il
 ezrachim.org.il
@@ -149,6 +149,7 @@ gold-sys.co.il
 goopshop.co.il
 granit-mesima.co.il
 graphicard.co.il
+guitarpro.co.il
 guyline.co.il
 guyoffice.co.il
 hadvesalat.co.il
@@ -214,6 +215,7 @@ ktl.co.il
 lac.w2go.co.il
 lamps.co.il
 laptopsale.co.il
+learnseo.co.il
 linicom.co.il
 lior-tzalamim.co.il
 liormany.co.il
@@ -237,6 +239,7 @@ mehirim.co.il
 members.co.il
 memri.org.il
 merlin.co.il
+merrylu.co.il
 met.co.il
 metromall.good-media.co.il
 mevashlim.co.il
@@ -245,7 +248,6 @@ minisite.mtacloud.co.il
 mishlav.co.il
 misradia.co.il
 mitos.co.il
-moadim.co.il
 moav.co.il
 momy.co.il
 mosesrest.co.il
@@ -326,6 +328,7 @@ sexmovie.co.il
 sexportal.co.il
 sexstyle.co.il
 sexxes.co.il
+shacked.webdepot.co.il
 sharonnim.co.il
 shay-li.co.il
 shedate.co.il
@@ -349,7 +352,6 @@ stats.agent.co.il
 stats.mako.co.il
 stats.ynet.co.il
 stier.co.il
-studio-liorit.co.il
 suneffect.co.il
 sur.co.il
 surpriseli.co.il
@@ -361,6 +363,7 @@ tdo.co.il
 tech4less.co.il
 televoice.co.il
 theoutlet.co.il
+tishreycarmelim.co.il
 tixit.co.il
 tomprinting.co.il
 totalchat.co.il

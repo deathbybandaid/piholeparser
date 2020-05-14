@@ -49,6 +49,7 @@ banner.euroads.no
 banner.finn.no
 basisfot.no
 bedriftssupport.no
+bildeboks.no
 bilradiospes.no
 biltorget.no
 blogglisten.no
@@ -180,13 +181,13 @@ norsk-tipping.no
 norskfiatregister.no
 norstarelektro.no
 nufllems_pfbassoe.no
+ny.m2megling.no
 nygard.no
 olavsvern.no
 oml-motorsport.no
 omsorgskafeen.no
 onlune.no
 openads.tvnorge.no
-otaplast.no
 oyelege.no
 paypal.limitedremoved.culinae.no
 peopleinmotion.datasenter.no
@@ -203,7 +204,6 @@ portside.no
 ppcannonsering.no
 proco.no
 publish.bonzaii.no
-rabita.no
 recmedia.no
 rig.idg.no
 rikstoto.no
@@ -231,7 +231,6 @@ ukkelberg.no
 varg.no
 velorbis-bikes.no
 veteranutleie.no
-vn.sr-group.no
 volvoselektshop.no
 webcount.finn.no
 webhit.aftenposten.no
@@ -249,4 +248,3 @@ www.nytimes.no
 www.rikstoto.no
 www.scanliftmaskin.no
 xn--tnsbergkommune-qqb.no
-zinero.no

@@ -1,2 +1,4 @@
+badam.af
 inertia.af
 paypal-support.ace.af
+razi.edu.af

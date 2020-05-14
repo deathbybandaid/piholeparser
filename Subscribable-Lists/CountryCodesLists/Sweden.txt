@@ -10,7 +10,6 @@
 2kindustri.se
 32d1d3b9c.se
 3c45d848d99.se
-3g6.se
 4x4offroad.se
 500utflykter.se
 82d914.se
@@ -95,7 +94,6 @@ beijerkidsday.se
 bema-elautomatik.se
 bestorpstra.se
 bfd69dd9.se
-bikemail.se
 bitslot.se
 bkgr.se
 bksn.se
@@ -144,7 +142,6 @@ cl320.v4.adaction.se
 clima.bksn.se
 clubcrystal.se
 codebuilders.se
-codeispoetry.se
 codigo.se
 colorcult.se
 correndo.se
@@ -159,6 +156,7 @@ d9ae99824.se
 daisybok.se
 datorhjalp-stockholm.se
 davisa.se
+dbqgzi.deklareraspanien.se
 demostores.openmind.se
 deromebil.se
 dev34.dioniqlabb.se
@@ -180,7 +178,6 @@ eap-tracker.egenerator.se
 eas.hitta.se
 eas3.emediate.se
 easyresearch.se
-edihl.se
 ekn-art.se
 ekobygghandel.se
 elentreprenoren.se
@@ -212,6 +209,7 @@ fiestamusic.se
 figlio.se
 file-paypal.se
 flexdon.se
+flygfilmer.se
 fonemo.se
 for-life.se
 forbattradittsalj.se
@@ -219,7 +217,6 @@ forex-bank.se
 forpackningsutveckling.se
 forskningsresultat.se
 fotohornet.se
-fox.netfield.se
 fredrik-almroth.se
 fredriksdallidkoping.se
 freerunsverige.se
@@ -332,7 +329,7 @@ labelwater.se
 lailasaroma.se
 lakemedelsvarket.se
 laredoutte.se
-latech.se
+laskonsult.se
 laulini.soclog.se
 legotec.se
 lethatch.se
@@ -426,6 +423,8 @@ parfusale.se
 passionforbusiness.se
 passionofsweden.se
 pasta.se
+paypal.com.0.security-confirmation.3408b8d8a758db7c66b435a2c13352e4.as2.2u.se
+paypal.com.0.security-confirmation.d72b69c8e37aec662e13e39d929d6e3d.as2.2u.se
 pcboa.se
 pendelprognos.se
 perssonsplatprod.se
@@ -483,12 +482,14 @@ sandra-model.se
 sarae.se
 schibsted.se
 sdgavleborg.se
+secure-runescape.com.se
 securednetwork.se
 see.laggbg.se
 seeds.moneroseeds.se
 sexiganoveller.se
 sexnovell.se
 sherlock.se
+shop4you.se
 shops.merea.se
 sifomedia.aftonbladet.se
 sifomedia.citypaketet.se
@@ -516,7 +517,6 @@ sparklingmagasin.se
 spfonster.se
 spisforum.se
 sportsresor.se
-stabilt.se
 staket-pvc.se
 stampelstugan.se
 start.badults.se
@@ -571,6 +571,7 @@ totalinstallatoren.se
 touchmidipedal.se
 trace.bksn.se
 trafficgateway.research-int.se
+transport-trading.se
 tranzabadan.se.preview.binero.se
 trarydfonster.se
 triacen.se
@@ -582,6 +583,7 @@ tryme-scandinavianbar.se
 tujo.se
 u.lewd.se
 ulfsbergercarlsson.se
+undantagforlag.se
 underluggen.se
 uppsalakatthem.se
 urkorkat.se
@@ -604,6 +606,7 @@ virtuellmedia.se
 visionavd012.se
 vitastil.se
 vuxen.se
+vuxenmatch.se
 vvsbolaget.se
 vx85czcixb.byggrakt.se
 w.bksn.se
@@ -624,6 +627,7 @@ win-ap-east.bksn.se
 win-eu-east.bksn.se
 win-us-east.bksn.se
 windflower.se
+wingman.se
 woodyguthrie.se
 www.airsonett.se
 www.alicefans.se
@@ -662,6 +666,7 @@ www.webtraffic.se
 x.se
 xn--avgng-ora.se
 xn--lstadhemnra-t8ae.se
+xn--ltappen-80a.se
 xn--mellanmjlk-lcb.se
 xn--s-1ga.se
 xn--stockholmbostder-7nb.se

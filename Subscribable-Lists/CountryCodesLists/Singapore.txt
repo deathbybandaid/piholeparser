@@ -1,4 +1,3 @@
-146.202-63-131.unknown.qala.com.sg
 1express.com.sg
 4edges.sg
 a1commodities.com.sg
@@ -64,6 +63,7 @@ bigkidinc.sg
 bigmacproductions.sg
 bigmacrealm.sg
 biomedicworld.sg
+bondbuild.com.sg
 buycanadianmusic.sg
 buycanadiannow.sg
 buydrugsdot.sg
@@ -121,7 +121,6 @@ cloudtech.com.sg
 clubmedocean.sg
 clubmedor.sg
 clubmedphoto.sg
-cm41.gamma187.maxonline.com.sg
 cmp.com.sg
 coldtherapyonline.sg
 collegeclubstore.sg
@@ -145,6 +144,7 @@ cooldocworld.sg
 coolpixguide.sg
 coolstuffdocguide.sg
 corroshield.estb.com.sg
+cosyliving.com.sg
 cpgroup.com.sg
 crazydeal.com.sg
 curemedication.sg
@@ -157,6 +157,7 @@ dilmah.sg
 dinghysailing.com.sg
 discreetpillsonline.sg
 discreetwebmeds.sg
+doc.sg
 doctordoconline.sg
 doctordoctorlist.sg
 drinkgusto.sg
@@ -220,6 +221,7 @@ horny.sg
 hualong.com.sg
 icampaign.com.sg
 icape.com.sg
+icon.sg
 idplus.sg
 iemail.com.sg
 ilovemybaby.com.sg
@@ -231,9 +233,11 @@ innovativemedicalclinic.sg
 intercfood.sg
 interlab.com.sg
 intermedhospital.sg
+irf.org.sg
 irlen.com.sg
 j2trading.com.sg
 jackson.com.sg
+justclickshop.com.sg
 kapresidences.sg
 kensingtonsquare.com.sg
 khsecurity.sg
@@ -248,7 +252,6 @@ lrussell.com.sg
 luckyplaza.com.sg
 lumierehealthcare.com.sg
 lxtrading.com.sg
-m2e.com.sg
 made4baby.com.sg
 malemedicalclinic.sg
 mdsjob.sg
@@ -258,7 +261,6 @@ medicaldoc.sg
 medicaldoctor.sg
 medicalzoohospital.sg
 medifast.com.sg
-mediwatch.com.sg
 medspecialist.sg
 medvisiondoctor.sg
 medwaydoc.sg
@@ -311,7 +313,6 @@ smiledoctor.com.sg
 soo.sg
 standard.com.sg
 sun-light.com.sg
-superdsl.com.sg
 superhealthspa.sg
 superiormedclinic.sg
 synad.nuffnang.com.sg

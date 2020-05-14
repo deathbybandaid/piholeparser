@@ -60,9 +60,11 @@ agriaegeszseg.hu
 ahadoj.pe.hu
 ajandekozz.hu
 aladin.hu
+alba-pollux.hu
 albertpeter.hu
 alestes.hu
 alkatreszar.hu
+alkoholszondanagyker.hu
 allround-service.hu
 altaweb.hu
 alternativhirek.blogspot.hu
@@ -98,6 +100,7 @@ banner.terminal.hu
 banner.webtar.hu
 bannerserver.hu
 banquetshop.hu
+bbknet.hu
 bbt-update.pe.hu
 bbuacontinental.pe.hu
 bcpzonasegurar-viabcp.pe.hu
@@ -124,6 +127,7 @@ budapest-masszazs.hu
 buk-furdo.hu
 bulla2000.hu
 bumper-ball.hu
+businesstart.hu
 butor-butorok.hu
 buycar.hu
 bvacontionline.pe.hu
@@ -143,11 +147,14 @@ citymediamagazin.hu
 claim-fb-gift-card.pe.hu
 classic.bannerbank.hu
 clicaretorcer.pe.hu
+complan.hu
 continental-afilia-enline.pe.hu
 converse-shop.hu
 counter.jasmin.hu
+crm.probago.hu
 csepelihaziko.hu
 csszsz.hu
+csw.hu
 ctnetwork.hu
 customerservice.pe.hu
 cwb337.pe.hu
@@ -165,7 +172,9 @@ diaflora.hu
 dialektika.extra.hu
 dkgeast.hu
 dmdamedia.hu
+dogmarketing.hu
 dorotheaprh.pe.hu
+dropbox.co.uk-online-receipt-id-91234.ltakarito.hu
 drzalai.hu
 dsejl.pe.hu
 dvdabc.hu
@@ -191,6 +200,7 @@ eskuvotervezo.hu
 etarget.hu
 eurocompkft.hu
 eveangel.hu
+experi-ment.hu
 expressz.hu
 extracemkft.hu
 eztalmodtam.hu
@@ -235,6 +245,7 @@ gootmp.pe.hu
 govconsulta.pe.hu
 gportal.hu
 gpr.hu
+grsilver.hu
 gtalarm.hu
 gyerekkonyv.hu
 gyermekneurologia.hu
@@ -242,6 +253,7 @@ gyongyszemfoto.hu
 hajierpoil8.pe.hu
 hakkendesign.hu
 hasbean.hu
+hasznaltgumivetel.hu
 hayalegal.pe.hu
 hefa.hu
 help-info-us.pe.hu
@@ -252,6 +264,7 @@ hirfolyam24.blogspot.hu
 hirturi.blogspot.hu
 hitelterkep.hu
 hodito.hu
+hokibolt.hu
 holloko-fazekashaz.hu
 honfoglalo.hu
 horgaszto.gak.hu
@@ -311,10 +324,8 @@ lap.reklam.hu
 lashandlashes.hu
 laszloiparcikk.hu
 ledobbensz.blogspot.hu
-leguanok.hu
 lemuria.hu
 lesbian.hu
-lib.hu
 limitedpaypalservicesaccount.pe.hu
 linkpps.pe.hu
 litakbona.pe.hu
@@ -323,6 +334,8 @@ lock-vkcom-hd6dhdajda67dsfsdf45g.pe.hu
 lopatarsrl.pe.hu
 madeinheavensound.hu
 magyarvizslaklub.hu
+makosoft.hu
+mamat.hu
 marc.pe.hu
 maskepp.hu
 matfussli.pe.hu
@@ -337,6 +350,7 @@ melospub.hu
 member.icloud-confirm.2017.csabaikispalyas.hu
 mentalfitolbolt.hu
 menyasszonyismink.hu
+meregtelenites-fogyokura.hu
 meunovoacesso.pe.hu
 mezeiaron.hu
 mindenajanlo.hu
@@ -357,6 +371,7 @@ namecard.hu
 napi-humor.hu
 napitrend.blogspot.hu
 napiujsag.hu
+negyremete.hu
 neovo.hu
 netdepo.hu
 netextra.hu
@@ -436,6 +451,7 @@ rowe-mineraloel.pe.hu
 rozsater.hu
 rtl-most.blogspot.hu
 rum.marquardmedia.hu
+s-and-j.hu
 sebestyenferenc.hu
 sergeypetrov.pe.hu
 service-info.pe.hu
@@ -465,13 +481,13 @@ stat.mystat.hu
 stat.p24.hu
 stat.segitek.hu
 statsector.hu
-steamhacker.uw.hu
 sttc.affiliate.hu
 studysurf.hu
 supermoto.hu
 support-inbox.pe.hu
 support-info.pe.hu
 surl.hu
+szallodaverseny.hu
 szeged.suvido.hu
 szegedihadipark.hu
 szelszi.hu
@@ -486,6 +502,7 @@ szexrandi.hu
 szexshop.hu
 szin-jatekos.hu
 szinek.hu
+szinesgyongyok.hu
 szinhaz.hu
 szinhazak.hu
 szlavikmez.hu
@@ -508,6 +525,7 @@ tinggalkan-grup.pe.hu
 tooraktrans.hu
 tophirek.hu
 toplista.mw.hu
+torokfa.hu
 tothcsirke.hu
 totszentmarton.hu
 tr.affiliate.hu
@@ -525,9 +543,11 @@ uraltrak.hu
 usaa-online.pe.hu
 usamalam2016.pe.hu
 users.atw.hu
+uvegteglaker.hu
 varrokneked.hu
 vbasova.pe.hu
 vcontacte.pe.hu
+vegancenter.hu
 vehhh.pe.hu
 vendiak.hu
 vercukor.hu

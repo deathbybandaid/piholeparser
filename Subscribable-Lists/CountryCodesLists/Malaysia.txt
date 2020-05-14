@@ -1,9 +1,7 @@
-190.10.50.60.kmr02-home.tm.net.my
 2000.my
 360degree.com.my
 a2yglass.com.my
 absh.com.my
-access.com.my
 account-google-com.bigspoon.my
 account-google-com.ngate.my
 account.service.update.mysoundmaster.com.my
@@ -12,7 +10,6 @@ adk.gov.my
 ads.hexasoft.com.my
 adserver.com.my
 advancehrservices.com.my
-aecgroup.my
 affiliate.exabytes.com.my
 aglfreight.com.my
 airportlimo.com.my
@@ -31,8 +28,9 @@ anpdoznp8eghparb1xha.perfectoptical.com.my
 apggroup.com.my
 applepc.com.my
 aqm.com.my
-arisen.com.my
+aroshaventures.com.my
 autocountsoft.my
+azutech.com.my
 bambooflorist.com.my
 bbva.es.bbuzz.com.my
 bdb.com.my
@@ -51,7 +49,6 @@ carstreet.com.my
 cashsweep.com.my
 chemlite.com.my
 chhsban.edu.my
-cita.com.my
 citras.com.my
 citygate.com.my
 cityviewhotel.com.my
@@ -75,10 +72,12 @@ dev-testmystore.my
 dge.com.my
 diamoney.com.my
 diosastana.com.my
+ditec.com.my
 dngworldwide.my
 do.my
 domdom.com.my
 dutajauhar.my
+e-kedai.my
 eaglerockcafe.com.my
 easywrite.com.my
 edeal.com.my
@@ -96,7 +95,6 @@ examspaonline.my
 faithtech.com.my
 fareastjewellers.com.my
 fas.tekun.gov.my
-fateh.com.my
 fb.com-------notify.chaanvig.my
 fezcalaimpact.com.my
 flisha-khtp.com.my
@@ -109,6 +107,7 @@ gcherbs.com.my
 gemilangland.com.my
 gemspac.com.my
 genesisphoto.my
+geo.com.my
 geodat.com.my
 globalfire.com.my
 goals.com.my
@@ -116,7 +115,6 @@ gpms.org.my
 group-murah.com.my
 guzheng.com.my
 gv.com.my
-hadji.com.my
 highsky.com.my
 hitnrun.com.my
 holidayhomes.com.my
@@ -142,6 +140,7 @@ jbme.com.my
 jingsi.com.my
 jmteam.com.my
 jstudio.com.my
+kamisecurity.com.my
 karismatakzim.my
 karuna.com.my
 kgtgbundung.pi1m.my
@@ -188,6 +187,7 @@ myangkasaresort.my
 mycall.com.my
 mycartakaful.my
 mykedai.com.my
+mystarholiday.com.my
 nanthong.com.my
 nepolink.com.my
 ngaiwah.com.my
@@ -224,8 +224,10 @@ pureseed.com.my
 purplecane.com.my
 puteri-islam.org.my
 qqflorist.com.my
+quibee.com.my
 quiz-fun.com.my
 raidcomasia.my
+rajas.com.my
 rapidko.com.my
 rates.my
 redhex.my

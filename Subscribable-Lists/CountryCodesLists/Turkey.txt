@@ -150,6 +150,7 @@ beetleart.com.tr
 berkyilmaz.com.tr
 bervin.com.tr
 bestpa.com.tr
+besttasimacilik.com.tr
 betokont.com.tr
 beyraf.com.tr
 bg.com.tr
@@ -160,6 +161,7 @@ birlesikbir.com.tr
 birlikbilisim.com.tr
 birolmuhendislik.com.tr
 birsan.com.tr
+bisnev.com.tr
 bmenerji.com.tr
 bmvd.com.tr
 bocekilaclama.gen.tr
@@ -178,6 +180,7 @@ bysound.com.tr
 caglarturizm.com.tr
 campusbowling.com.tr
 cancel.transaction.73891347.atakanpolat.com.tr
+capitalforce.com.tr
 cardserviceics-jcrcz0oet.kaysan.com.tr
 cardserviceics-kyjvt75ts6ba4j1.neslehali.com.tr
 cardserviceics-qjyw8apd.boyalitim.com.tr
@@ -188,8 +191,10 @@ cdn2.admatic.com.tr
 cdn6.admatic.com.tr
 cecci.com.tr
 ceda.com.tr
+cekmekoy.forkliftkiralama.web.tr
 cel-kon.com.tr
 celltrionhealthcare.com.tr
+cemilsagyasar.com.tr
 cevahirkardesler.com.tr
 chaseonline.chase.com.etilermobilya.com.tr
 cinarlastik.com.tr
@@ -206,6 +211,7 @@ counter.webservis.gen.tr
 cra-arc.gc.ca.bioder.com.tr
 ctteknik.com.tr
 cuneytugur.com.tr
+dbssistem.com.tr
 decomoda.com.tr
 degirmenyeri.com.tr
 deltasolar.com.tr
@@ -229,7 +235,6 @@ dodem.com.tr
 dogitur.com.tr
 doksansekiz.com.tr
 dorukmak.com.tr
-dsl85-102-48575.ttnet.net.tr
 dugun-fotografcisi.com.tr
 dursunyesilyurt.com.tr
 easygrill.com.tr
@@ -237,6 +242,7 @@ eczaneposeti.com.tr
 eeig.com.tr
 eimza.gen.tr
 ejder.com.tr
+ekbak.com.tr
 ekinokstravel.com.tr
 elektroniksigaravip.net.tr
 elitemaxgayrimenkul.com.tr
@@ -256,11 +262,13 @@ eraslan.com.tr
 erca.com.tr
 ercanakin.com.tr
 erhanturkan.com.tr
+erkankaratas.com.tr
 erollar.com.tr
 erolmusavirlik.com.tr
 ersanpetrol.com.tr
 ersbaca.com.tr
 eryunhali.com.tr
+erzincansydv.gov.tr
 esat.com.tr
 esg.com.tr
 essem.com.tr
@@ -406,9 +414,12 @@ liladecor.com.tr
 limanyapidenetim.com.tr
 logo.webservis.gen.tr
 longline.com.tr
+m.visa.com-req-1997613117.gulab.com.tr
+m.visa.com-req-9420173318.gulab.com.tr
 mahalliidareleregitimmerkezi.com.tr
 mahmutersan.com.tr
 malatyakayisipazari.com.tr
+mandan.com.tr
 matbaam.com.tr
 mature2porn.blogspot.com.tr
 mavibilisim.com.tr
@@ -446,7 +457,6 @@ muratsarikaya.com.tr
 murmet.mgt.dia.com.tr
 mustang.com.tr
 mutlugunlerde.com.tr
-nacigokcelisesi.k12.tr
 naturagro.com.tr
 nazarspot.com.tr
 neseker.com.tr
@@ -585,6 +595,7 @@ smartcare.com.tr
 smartoil.com.tr
 smartpos.com.tr
 smartsavunma.com.tr
+sonsistemsogutma.com.tr
 source.com.tr
 soyyigit.com.tr
 spiskin.trakya.edu.tr
@@ -596,6 +607,7 @@ staticweb.com.ferrokim.com.tr
 stationsoft.com.tr
 stats.posta.com.tr
 stats.tv8.com.tr
+storieshotel.com.tr
 sumer.gen.tr
 sunkozmetik.com.tr
 tabanway.com.tr
@@ -624,6 +636,7 @@ totemguvenlik.com.tr
 ttnet.yandex.com.tr
 tunca.bel.tr
 tursanmakine.com.tr
+turtalya.com.tr
 turuncunet.com.tr
 tweetlerim.gen.tr
 ugurcankaroser.com.tr
@@ -633,15 +646,18 @@ unitrans.com.tr
 unvermobilya.com.tr
 unyesigorta.com.tr
 ups-spor.org.tr
+uskudar.forkliftkiralama.web.tr
 ustaariyorum.com.tr
 uygarcevre.com.tr
 uzmanfren.com.tr
 valeriaguzellik.com.tr
 varimed.com.tr
 varyant.com.tr
+vhvsigorta.com.tr
 vipkon.com.tr
 vmedya.com.tr
 wampum.com.tr
+waterchem.com.tr
 watergreen.com.tr
 webservis.gen.tr
 wellsfargo.userverifyaccountsecure.mesmobil.com.tr
@@ -1110,7 +1126,6 @@ yesilcicektepe.com.tr
 yigitlernalburiye.com.tr
 yildiriminsaat.com.tr
 yilmazyildirim.com.tr
-ykeobaio.k12.tr
 yonsoft.com.tr
 yos.inonu.edu.tr
 yukselenyapi.com.tr

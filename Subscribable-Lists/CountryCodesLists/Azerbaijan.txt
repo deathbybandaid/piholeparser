@@ -1,3 +1,4 @@
+aeroflot.az
 arhun.az
 azfilmizle1.azermedia.az
 b.turbo.az
@@ -15,6 +16,8 @@ horizont.az
 ipoteka.az
 kazaki.az
 kijabeastara.az
+mkontakt.az
+omega.az
 oralar.az
 pacific.az
 qaynarinfo.az

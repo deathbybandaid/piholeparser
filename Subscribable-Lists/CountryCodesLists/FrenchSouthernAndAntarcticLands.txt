@@ -35,9 +35,7 @@ f-trafficimf.tf
 g-gtrafficim.tf
 h-trafficimg.tf
 hausfrauen4u.de.tf
-hsbc.int.tf
 i-itrafficim.tf
-icloud.com-es.tf
 j-trafficimj.tf
 k-gtralficim.tf
 l-trafhicimg.tf
