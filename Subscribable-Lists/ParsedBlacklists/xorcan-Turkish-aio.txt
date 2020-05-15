@@ -213,7 +213,6 @@ addtoany.com
 addwords.com.tr
 ade.googlesyndication.com
 adeko.mobi
-adeventtracker.spotify.com
 adexchangegate.com
 adform.net
 adformdsp.net
@@ -275,7 +274,6 @@ adrervice.google.com
 adroll.com
 adrttt.com
 adrunnr.com
-ads-fa.spotify.com
 ads-hl.noktamedya.com.tr
 ads-player.com
 ads-rouge.haber7.com
@@ -527,6 +525,7 @@ amazon-adsystem.com
 ambelbet.com
 amnatu.info
 amobil.online
+amorenetwork.com
 amp-error-reporting.appspot.com
 amplifinder.biz
 ams-ads-cornerstone-creatives.s3.amazonaws.com
@@ -555,7 +554,6 @@ analytics.oned.io
 analytics.porn-tube.club
 analytics.query.yahoo.com
 analytics.rayjump.com
-analytics.spotify.com
 analytics.twitter.com
 analytics.yahoo.com
 analytics.yeniakit.com.tr
@@ -705,7 +703,6 @@ atlasins.com.tr
 atomictrivia.ru
 aturkantorku.com
 auction.unityads.unity3d.com
-audio2.spotify.com
 autolinkmaker.itunes.apple.com
 avazunativeads.com
 avcilarescortking.com
@@ -752,6 +749,7 @@ bahisbeluga5.com
 bahisciler.co
 bahreyn.tk
 bahsegel.sportdigi.com
+bahsegel189.com
 bahsegel19.com
 baipagid.com
 bakirkoytercume.com.tr
@@ -1193,7 +1191,6 @@ cnm008.com
 cntadvertising.com
 coatsba.com
 code.createjs.com
-code.highcharts.com
 codeadnetwork.com
 codeonclick.com
 coderturk.com
@@ -1227,7 +1224,6 @@ cpatrendreklam.com
 cpdafetdjtdsy.com
 cpi-istanbul.com
 cqaiylftp.com
-crashdump.spotify.com
 crashlytics.com
 crazyegg.com
 creative.wwwpromoter.com
@@ -1326,7 +1322,6 @@ depo.realist.gen.tr
 derinsunakliyat.com
 dertbeats.com
 designgroup.com.tr
-desktop.spotify.com
 destekfx5.com
 destekfx6.com
 detect.rayjump.com
@@ -1464,10 +1459,12 @@ emrecengiz.com.tr
 emvdlnwph.com
 en.jineplast.com.tr
 en.yeksan.com.tr
+endirom.com
 energyworld.com.tr
 enerjisan.com.tr
 engageya.com
 engine.spotscenered.info
+englishtorrent.com
 enmutlukare.com
 enoughts.info
 ensighten.com
@@ -1619,6 +1616,7 @@ free-girls-vids.com
 free.classicgift.download
 freegeoip.net
 freemacware.com
+friennity.com
 fsuseaad1.blob.core.windows.net
 fula.com.tr
 fullhdfilmsitesi.pw
@@ -1643,6 +1641,7 @@ gadgmyi.tk
 galataiplik.com.tr
 games1p.xyz
 gaming-guide-online.com
+ganfoninjomo.files.wordpress.com
 gannmarkets5.com
 garanti-bankasi.ml
 garantiinsaat.net
@@ -1715,6 +1714,7 @@ gokturklerauto.com
 goldenangels.com.tr
 goldenplus.com.tr
 gonenyapi.com.tr
+good4all.ru
 gooddrink.com.tr
 google-analytics.com
 googleadapis.l.google.com
@@ -1812,6 +1812,7 @@ hdxvipizle.site
 hellobar.com
 hellofromhony.com
 hendico.com
+henry-james.site
 hepsibahis351.com
 hepsibahis71.com
 hepsibahis94.com
@@ -2270,6 +2271,7 @@ linetotime102.life
 link-redirect.xyz
 linkz.net
 lipimuteyupalo.cf
+liragadin.over-blog.com
 live.rezync.com
 liveadexchanger.com
 livechatinc.com
@@ -2286,7 +2288,6 @@ log.apk.v-mate.mobi
 log.mobpowertech.com
 log.pinterest.com
 log.quora.com
-log.spotify.com
 log.trendingnow.video
 log.user-grey.com
 logger-01.vty.dailymotion.com
@@ -2324,6 +2325,7 @@ lpocfzn.ml
 lpocfzn.tk
 lptag.liveperson.net
 lubitpiva.jdevcloud.com
+luckyforbet.com
 lunabit105.com
 lvodomi.info
 lxcfaekywx.com
@@ -2762,7 +2764,6 @@ ontek-serv.com
 onthe.io
 onurcanemlak.com
 opelservisibodrum.com
-open.spotify.com
 openamp-error-reporting.appspot.com
 openinstall.io
 openshare.topupload.ru
@@ -3383,6 +3384,7 @@ sisliklima.com
 sislinikah.com
 sistemmedya.com.tr
 sit.com.tr
+site-2298918-9622-3459.mystrikingly.com
 sivasithan.com
 sivasithanscreation.com
 sivasithansworld.com
@@ -3443,7 +3445,6 @@ sonic.maltoka.com
 sonobi.com
 sosyal.rlink.live
 soyyigit.com.tr
-spclient.wg.spotify.com
 special-offers.online
 special-promotions.online
 speeder.biz
@@ -3456,6 +3457,7 @@ spoods.rce.veeseo.com
 sport-1xbet.mobi
 sport1xbet.mobi
 sportdigi.com
+sportingcupmp.com
 sportlijn.net
 sportpelli.com
 sports-look.com
@@ -3542,6 +3544,7 @@ svbsoet.tk
 sw1block.com
 swbdds.com
 sweeps8612.nonameland67.live
+sweetriturce.over-blog.com
 sxrwqytqajwpt.com
 sync.adaptv.advertising.com
 sync.adkernel.com
@@ -3641,6 +3644,7 @@ tr-apk.com
 tr-books.softwarer.us
 tr-gameland.com
 tr.bannersdf.com
+tr.englishtorrent.com
 tr.hit.gemius.pl
 tr.ucretsiz-ekitaplar.site
 tr3reklam.com
@@ -3912,7 +3916,6 @@ wd.adcolony.com
 web.redhelper.ru
 webanalyzer.bussion.com
 webinstats.com
-weblb-wg.gslb.spotify.com
 webservis.gen.tr
 webspectator.com
 webtemsilcisi.com
@@ -4164,7 +4167,6 @@ www.adds.tippartner.com
 www.addserver.mtv.com.tr
 www.addwords.com.tr
 www.adeko.mobi
-www.adeventtracker.spotify.com
 www.adform.net
 www.adformdsp.net
 www.adfox.ru
@@ -4220,7 +4222,6 @@ www.adrazzi.com
 www.adrecover.com
 www.adroll.com
 www.adrttt.com
-www.ads-fa.spotify.com
 www.ads-hl.noktamedya.com.tr
 www.ads-rouge.haber7.com
 www.ads-twitter.com
@@ -4443,6 +4444,7 @@ www.amazon-adsystem.com
 www.ambelbet.com
 www.amnatu.info
 www.amobil.online
+www.amorenetwork.com
 www.amp-error-reporting.appspot.com
 www.amplifinder.biz
 www.ams-ads-cornerstone-creatives.s3.amazonaws.com
@@ -4467,7 +4469,6 @@ www.analytics.mopub.com
 www.analytics.olay.com.tr
 www.analytics.query.yahoo.com
 www.analytics.rayjump.com
-www.analytics.spotify.com
 www.analytics.yahoo.com
 www.analytics.yeniakit.com.tr
 www.anamimyjyp.tk
@@ -4611,7 +4612,6 @@ www.atlasins.com.tr
 www.atomictrivia.ru
 www.aturkantorku.com
 www.auction.unityads.unity3d.com
-www.audio2.spotify.com
 www.autolinkmaker.itunes.apple.com
 www.avazunativeads.com
 www.avcilarescortking.com
@@ -4657,6 +4657,7 @@ www.bahisbeluga5.com
 www.bahisciler.co
 www.bahreyn.tk
 www.bahsegel.sportdigi.com
+www.bahsegel189.com
 www.bahsegel19.com
 www.baipagid.com
 www.bakirkoytercume.com.tr
@@ -5087,7 +5088,6 @@ www.cnm008.com
 www.cntadvertising.com
 www.coatsba.com
 www.code.createjs.com
-www.code.highcharts.com
 www.codeadnetwork.com
 www.codeonclick.com
 www.coderturk.com
@@ -5119,7 +5119,6 @@ www.cpatrendreklam.com
 www.cpdafetdjtdsy.com
 www.cpi-istanbul.com
 www.cqaiylftp.com
-www.crashdump.spotify.com
 www.crashlytics.com
 www.crazyegg.com
 www.creative.wwwpromoter.com
@@ -5217,7 +5216,6 @@ www.depo.realist.gen.tr
 www.derinsunakliyat.com
 www.dertbeats.com
 www.designgroup.com.tr
-www.desktop.spotify.com
 www.destekfx5.com
 www.destekfx6.com
 www.detect.rayjump.com
@@ -5349,10 +5347,12 @@ www.emrecengiz.com.tr
 www.emvdlnwph.com
 www.en.jineplast.com.tr
 www.en.yeksan.com.tr
+www.endirom.com
 www.energyworld.com.tr
 www.enerjisan.com.tr
 www.engageya.com
 www.engine.spotscenered.info
+www.englishtorrent.com
 www.enmutlukare.com
 www.enoughts.info
 www.ensighten.com
@@ -5500,6 +5500,7 @@ www.free-girls-vids.com
 www.free.classicgift.download
 www.freegeoip.net
 www.freemacware.com
+www.friennity.com
 www.fsuseaad1.blob.core.windows.net
 www.fula.com.tr
 www.fullhdfilmsitesi.pw
@@ -5524,6 +5525,7 @@ www.gadgmyi.tk
 www.galataiplik.com.tr
 www.games1p.xyz
 www.gaming-guide-online.com
+www.ganfoninjomo.files.wordpress.com
 www.gannmarkets5.com
 www.garanti-bankasi.ml
 www.garantiinsaat.net
@@ -5594,6 +5596,7 @@ www.gokturklerauto.com
 www.goldenangels.com.tr
 www.goldenplus.com.tr
 www.gonenyapi.com.tr
+www.good4all.ru
 www.gooddrink.com.tr
 www.google-analytics.com
 www.googleads.g.doubleclick.net
@@ -5671,6 +5674,7 @@ www.hdxvipizle.site
 www.hellobar.com
 www.hellofromhony.com
 www.hendico.com
+www.henry-james.site
 www.hepsibahis351.com
 www.hepsibahis71.com
 www.hepsibahis94.com
@@ -6113,6 +6117,7 @@ www.linetotime102.life
 www.link-redirect.xyz
 www.linkz.net
 www.lipimuteyupalo.cf
+www.liragadin.over-blog.com
 www.live.rezync.com
 www.liveadexchanger.com
 www.livechatinc.com
@@ -6126,7 +6131,6 @@ www.localgirldating.com
 www.localytics.com
 www.locejodawoyujey.tk
 www.log.mobpowertech.com
-www.log.spotify.com
 www.log.trendingnow.video
 www.log.user-grey.com
 www.logger-01.vty.dailymotion.com
@@ -6164,6 +6168,7 @@ www.lpocfzn.ml
 www.lpocfzn.tk
 www.lptag.liveperson.net
 www.lubitpiva.jdevcloud.com
+www.luckyforbet.com
 www.lunabit105.com
 www.lvodomi.info
 www.lxcfaekywx.com
@@ -6595,7 +6600,6 @@ www.ontek-serv.com
 www.onthe.io
 www.onurcanemlak.com
 www.opelservisibodrum.com
-www.open.spotify.com
 www.openamp-error-reporting.appspot.com
 www.openinstall.io
 www.openx.net
@@ -7200,6 +7204,7 @@ www.sisliklima.com
 www.sislinikah.com
 www.sistemmedya.com.tr
 www.sit.com.tr
+www.site-2298918-9622-3459.mystrikingly.com
 www.sivasithan.com
 www.sivasithanscreation.com
 www.sivasithansworld.com
@@ -7258,7 +7263,6 @@ www.sonic.maltoka.com
 www.sonobi.com
 www.sosyal.rlink.live
 www.soyyigit.com.tr
-www.spclient.wg.spotify.com
 www.special-offers.online
 www.special-promotions.online
 www.speeder.biz
@@ -7271,6 +7275,7 @@ www.spoods.rce.veeseo.com
 www.sport-1xbet.mobi
 www.sport1xbet.mobi
 www.sportdigi.com
+www.sportingcupmp.com
 www.sportlijn.net
 www.sportpelli.com
 www.sports-look.com
@@ -7349,6 +7354,7 @@ www.svbsoet.tk
 www.sw1block.com
 www.swbdds.com
 www.sweeps8612.nonameland67.live
+www.sweetriturce.over-blog.com
 www.sxrwqytqajwpt.com
 www.sync.adaptv.advertising.com
 www.sync.adkernel.com
@@ -7444,6 +7450,7 @@ www.tr-apk.com
 www.tr-books.softwarer.us
 www.tr-gameland.com
 www.tr.bannersdf.com
+www.tr.englishtorrent.com
 www.tr.hit.gemius.pl
 www.tr3reklam.com
 www.track-p958o4.link
@@ -7708,7 +7715,6 @@ www.wd.adcolony.com
 www.web.redhelper.ru
 www.webanalyzer.bussion.com
 www.webinstats.com
-www.weblb-wg.gslb.spotify.com
 www.webservis.gen.tr
 www.webspectator.com
 www.webtemsilcisi.com
