@@ -145,6 +145,7 @@ antes.in.ua
 antje.in.ua
 antonella.in.ua
 antonovich-design.com.ua
+ap0stal.zzz.com.ua
 apde.com.ua
 apdoctor.pl.ua
 api.visicom.ua
@@ -569,7 +570,6 @@ drugstoreschools.com.ua
 dslkioer.com.ua
 dsoperni.com.ua
 dsskjjo.com.ua
-dukhovnist.in.ua
 dumka.if.ua
 dveripolese.com.ua
 dvr.biz.ua
@@ -1152,6 +1152,7 @@ lasthoi.com.ua
 latengineering.com.ua
 lbdoctor.pl.ua
 lbperjmd.com.ua
+ld.zzz.com.ua
 ldmedic.pl.ua
 ledlife.com.ua
 leftns.org.ua
@@ -2183,6 +2184,7 @@ reniopf.com.ua
 renucid.com.ua
 reoipfr.com.ua
 repair-service.com.ua
+repairguide.com.ua
 resdoctors.com.ua
 reset.dn.ua
 rethymno.biz.ua

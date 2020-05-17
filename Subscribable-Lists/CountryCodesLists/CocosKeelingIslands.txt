@@ -1093,6 +1093,7 @@ gift.suprnova.cc
 gigaspace.cc
 gimp.suprnova.cc
 girlclub.cc
+git.rongtai.cc
 gizmo.suprnova.cc
 glb.suprnova.cc
 globalmoney.cc
@@ -1901,6 +1902,7 @@ play.site.flashx.cc
 pleb.suprnova.cc
 pln.suprnova.cc
 poise.cc
+polarr.cc
 poly.suprnova.cc
 pool.hashbag.cc
 pool.somec.cc
@@ -2514,6 +2516,7 @@ v1.ujian.cc
 vacsye.cc
 vagina.cc
 vairlines.co.cc
+van.photo-web.cc
 vape.suprnova.cc
 vasem.cc
 vault.suprnova.cc

@@ -122,6 +122,7 @@ cv.accesstrade.vn
 d.ants.vn
 dacsancaonguyen.vn
 daddy.com.vn
+dai.vn
 daibotat.com.vn
 daithanhtech.com.vn
 danetc.vn
@@ -144,7 +145,6 @@ dl.logging.admicro.vn
 dmaris.vn
 dmp.eclick.vn
 dobadongthap.vn
-dochoiphuchung.com.vn
 dogooccho.com.vn
 dongthanhcompany.vn
 doowood.vn
@@ -166,7 +166,6 @@ e-vcdn.anthill.vn
 e.eclick.vn
 ebay.de.phodo.vn
 eclick.vn
-ecodrink.vn
 ecotourhoian.com.vn
 emailadvertising.vn
 emarketing.eclick.vn
@@ -370,6 +369,7 @@ p.anthill.vn
 p.ants.vn
 pacolano.com.vn
 pano4you.vn
+pccc114.vn
 petech.com.vn
 phformula.com.vn
 phubaotours.com.vn
@@ -380,6 +380,7 @@ phukienhdpe.vn
 phuoclongco.com.vn
 polyad.galaxypub.vn
 popodoosmartenglish.com.vn
+pptech.com.vn
 pqlkh-htqt.qnu.edu.vn
 premieroffice.com.vn
 president-sign.auviet.edu.vn
@@ -442,7 +443,6 @@ smarttrain.edu.vn
 smshanoi.edu.vn
 sof.edu.vn
 sohasdk.sohacorp.vn
-solart.vn
 songnam.vn
 sonvietmy.com.vn
 sophiaskyhotel.vn

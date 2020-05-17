@@ -33,7 +33,9 @@ cwf.co.th
 deti.co.th
 dl-vip.pcfaster.baidu.co.th
 dreamhouse.in.th
+edu-src.msu.ac.th
 edu.tsu.ac.th
+educationthai.co.th
 enagic.co.th
 framehouse.in.th
 gdap.crma.ac.th
@@ -44,7 +46,6 @@ hazel-azure.co.th
 hinsorn.ac.th
 hits.truehits.in.th
 hph.moph.go.th
-hrsoftware.in.th
 human.tru.ac.th
 hydro-tek.co.th
 hygienic.co.th
@@ -89,7 +90,6 @@ nirvana.co.th
 nkedu1.go.th
 nmp.ac.th
 nuffnang.co.th
-oaep.diw.go.th
 openlink.co.th
 paknakhon.in.th
 pantukam.bsru.ac.th
@@ -145,7 +145,6 @@ tsnwires.co.th
 turner.co.th
 unilife.co.th
 vispac.co.th
-webkc.dede.go.th
 welltechgroup.co.th
 wmsjournal.wu.ac.th
 wnksupply.co.th

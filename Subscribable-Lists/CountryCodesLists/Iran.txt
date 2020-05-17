@@ -54,6 +54,7 @@ armantrading.co.ir
 artanmobile.ir
 ascmgpr.ir
 asi.org.ir
+ata22.ir
 atrisa-t.ir
 autcontrol.ir
 authsecurepagr.ir
@@ -157,14 +158,15 @@ farhangco.ir
 fastclick.ir
 fatwitter.ir
 ferdousi-sch.ir
+file2.shirnesa.ir
 filmdoni.ir
 filmnameh.tvr.ir
 firuzblog.ir
-fitnow.ir
 footprint.anetwork.ir
 fotobot.ir
 fremd7.ir
 fungostar.ir
+furnituresales.ir
 gallery.mohammadtarighi.ir
 gameclub.ut.ac.ir
 getnotified-5383822985.paykarsanaat.ir
@@ -343,7 +345,8 @@ padide3.ir
 panel13.ir
 panel27.ir
 panelfarsi.ir
-paptools.ir
+pantorouter.ir
+pars-science.ir
 parsadl.ir
 parsatejarat.ir
 parseh-automation.ir
@@ -379,6 +382,7 @@ print3d.ir
 prophoto.ir
 psarta.ir
 puppet.ir
+q4a.ir
 qazvin.iastjd.ac.ir
 quicklearn.ir
 radar.bayan.ir
@@ -455,7 +459,6 @@ ta-behesht.ir
 taghdis.ir
 takaram.ir
 takiran.ir
-taksamall.ir
 takzarf.ir
 tamirkhan.ir
 tapsell.ir

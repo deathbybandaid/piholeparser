@@ -19,6 +19,7 @@ diad.ge
 doc.drawbrid.ge
 drawbrid.ge
 ebay.listing.seller.smudge360.motor.programs.hostcom.ge
+facebook.nac.ge
 forpersonal.site.ge
 freegames.gol.ge
 galion.ge
@@ -49,6 +50,7 @@ now.ge
 officetechnologies.ge
 partners.drawbrid.ge
 pegas.ge
+phlogenzym.ge
 platform.drawbrid.ge
 premiumevents.ge
 prizma.ge

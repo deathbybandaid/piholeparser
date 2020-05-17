@@ -155,7 +155,6 @@ bonbonboutique.ro
 boom.ro
 bosman.pluto.ro
 brandexpress.ro
-brasov.adventist.ro
 brat-online.ro
 brochure.rmpszfelso3szek.ro
 brom-build.ro
@@ -366,7 +365,6 @@ ghidmamaia.ro
 ghidneamt.ro
 giafastfood.ro
 glassiri.ro
-glc17.hostico.ro
 gmp.home.ro
 gnj.ro
 goldenlife.ro
@@ -399,7 +397,6 @@ imex.cezard.imcserver.ro
 img.neogen.ro
 incercari.icedesign.ro
 indivizual.ro
-indochina-art.ro
 ingservice.ro
 inspireconsulting.ro
 instagram-media.ro
@@ -410,6 +407,7 @@ intelicasa.ro
 intreprinde.ro
 investitiispatiiverzis3.ro
 invitationpro-edit-via-docu-signii.myhomeplace.ro
+ioanamadidumitrescu.ro
 iovel.ro
 ip.ro
 ipaper.ro
@@ -584,6 +582,7 @@ pdpconsulting.ro
 pe-stoc.ro
 pedavo.ro
 pensiunea-casa-noastra.ro
+pensiunea-roxana.ro
 pentrucristian.ro
 personal.editura-amsibiu.ro
 personalizate-promotionale.ro
@@ -785,7 +784,6 @@ thevision.ro
 tiboo.ro
 tiff.ro
 tiki-taka.ro
-toaletaeco.ro
 top.skyzone.ro
 top1.ro
 top100.ro
@@ -838,6 +836,7 @@ viagraviagra.3xforum.ro
 video-detect.ro
 vines.ebrodat.ro
 vintagegold.ro
+virtual-callcenter.ro
 visaeurope.irsud.ro
 visaeurope.tiglametalicagerard.ro
 vitromed.ro

@@ -1,3 +1,4 @@
+81.17.16.122zeros6x.sh
 ad.proxy.sh
 apu.sh
 coin-hive-proxy-ybydcnjgkl.now.sh

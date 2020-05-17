@@ -11,7 +11,6 @@ aakmanggalajogja.web.id
 ab.kaskus.co.id
 abonikantunacoid.masterweb.id
 abriakid.co.id
-acc-recovery-support-live.my.id
 access-dropboxx.atonupvc.co.id
 account-reconfirm-secure.com216541261958151621261651495815.smk-diponegoro.sch.id
 acehsentral.id
@@ -165,6 +164,7 @@ bhokepz69.id
 bibarakastore.id
 biced.iainbukittinggi.ac.id
 billingproblem-cl-appid.itsmepuput.id
+binainsanitour.co.id
 bintangbarutama.co.id
 biocert.co.id
 biotek.ukdw.ac.id
@@ -226,6 +226,7 @@ chat-grup1.new9.my.id
 chat.whatsqpp.new9.my.id
 chatgrup18.guied7.my.id
 chatgrupbok3pwhatssap.xnxxx.my.id
+chatwhatsapp-invitee.join-wa18.my.id
 chatx-whatsapp.guied7.my.id
 cibconlineuser.hiseru.id
 cincinpermata.co.id
@@ -410,6 +411,7 @@ ibnuchairul.co.id
 icasset.id
 iclouds.fadly.id
 icsot.na.its.ac.id
+id912312313.login.authorities.xtra.co.nz.coster.id
 iddc.co.id
 identitypages0420.my.id
 ijmamurtika.id
@@ -462,7 +464,6 @@ join-groupwhatsapp.guied7.my.id
 join-grup.new9.my.id
 join-grupwa18.xnxxx.my.id
 join-grupwhatsapp-bokep-terbaru2020.xnxxx.my.id
-join-wa18.my.id
 joingrupbok3pwa.viyyy.my.id
 joingrupcbokep18.viyyy.my.id
 joingrupwa.guied7.my.id
@@ -514,7 +515,6 @@ kerjadigital.my.id
 kertarajasa.co.id
 ketanggungan.desabrebes.id
 ketapangsukaesih.co.id
-khairamakeup.co.id
 khudzaifah.id
 kiarrasejati.co.id
 kiiksafety.co.id
@@ -673,7 +673,6 @@ office.com.authentocate.argamode.id
 omahcorp.co.id
 omahyangti.co.id
 online.tesco.creditcardaccounts.co.ukonlinebanking.multimediasmkalhudakdr.id
-onlinepreneur.id
 ookatthat.tokofawaid.co.id
 opac.fteol-ukit.ac.id
 optikhani.co.id
@@ -751,6 +750,7 @@ progotemanggungrivertubing.co.id
 programmerpsw.id
 promotoyota.co.id
 props.id
+protectionpages2020.my.id
 psnursehacoid.masterweb.id
 pt-tmu.co.id
 ptberkat.co.id
@@ -772,6 +772,7 @@ rahmadillahi.id
 rajajamourmutiara.co.id
 raneevahijab.id
 ratnawulandaricoid.masterweb.id
+recovery-page.my.id
 recoverypage-help.my.id
 rekbersakukita.co.id
 rellorifla.co.id
@@ -804,6 +805,7 @@ rusyatamareload.web.id
 s3ilmupeternakan.pps.unud.ac.id
 s3managemen.pps.unud.ac.id
 sahabatqurancenter.or.id
+sahurbareng.my.id
 salimahcikupaols.id
 salman.or.id
 salmfood.co.id
@@ -836,6 +838,7 @@ securelogin.verifica.portaletitolari.poste.it.a7378449.multitrendindo.id
 securfb20.my.id
 securityupgrade.sumitro.my.id
 segopecel24.id
+seimmanpd.id
 sekolah-kesatuan.sch.id
 sekretariat.undip.ac.id
 semarmas.co.id
@@ -877,7 +880,6 @@ sman1tembilahanhulu.sch.id
 smansaduri.sch.id
 smapgripangkalankersik.sch.id
 smartdigi.id
-smartschoolonline.id
 smk1nglipar.sch.id
 smkfadris.sch.id
 smkkartika2sby.sch.id
@@ -908,11 +910,11 @@ smrindonesia.co.id
 smtijogja.sch.id
 smubatik1-slo.sch.id
 snp2m.poliupg.ac.id
+society-depart.my.id
 sofiashouse.web.id
 sokarajatengah.or.id
 solidfashion.co.id
 solusiholistic.id
-solusindo.biz.id
 speaker.id
 spectracentre.co.id
 speedtest.dsi.unair.ac.id

@@ -26,4 +26,5 @@ smart-ways.tn
 sooq.tn
 teskerti.tn
 vada.tn
+wallstreetenglish.tn
 www.rivaderm.tn

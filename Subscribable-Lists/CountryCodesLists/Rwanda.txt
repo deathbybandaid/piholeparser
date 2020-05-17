@@ -1,6 +1,8 @@
 blueoceans.rw
 brighteducationcenter.org.rw
+e-dbms.org.rw
 ispg.ac.rw
+mail.auca.ac.rw
 mailhub.minaffet.gov.rw
 paypal.mhc.rw
 shyirahospital.rw

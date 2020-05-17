@@ -31,7 +31,6 @@ interfacerh.ma
 jazmany.cu.ma
 jeux.co.ma
 justart.ma
-khalij.ma
 led-maroc.ma
 licorne.ma
 loterie.ma

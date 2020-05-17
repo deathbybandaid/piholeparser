@@ -24,6 +24,7 @@ hmywwogw.bloger.index.hr
 hranafina.sfzg.hr
 humbaur.hr
 image.lobopharm.hr
+industrial-elements.hr
 inmark.hr
 josipdol.hr
 karuseltisak.hr
@@ -51,7 +52,6 @@ pskcijdc.bloger.index.hr
 qcstrtvt.bloger.index.hr
 rajanpromet.hr
 rfd-split.hr
-runtic.com.hr
 savjetodavna.hr
 skylink.hr
 slavonska-burza.hr
@@ -60,7 +60,6 @@ soic-dizajn.hr
 sound-and-vision.com.hr
 spinavita.hr
 split.karmel.hr
-stelladecoro.hr
 syzygys.hr
 tim-izolacije.hr
 traffic.styria.hr

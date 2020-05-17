@@ -353,7 +353,6 @@ aptbrylant.pl
 apteka2000.com.pl
 apteka2000.pl
 apteka24.strefa.pl
-aquai.pl
 aquariumrawa.pl
 arbeiten.pl
 arbo.hit.gemius.pl
@@ -554,6 +553,7 @@ bot.coinmine.pl
 botoks-caly-film-online.htw.pl
 bozenan.swk.vectranet.pl
 brainyczestochowa.pl
+brainykoszalin.pl
 bramen.pl
 bramka-sms-za-darmo.pl
 brans.pl
@@ -651,6 +651,7 @@ clickad.com.pl
 clickad.eo.pl
 clickonometrics.pl
 clk.onet.pl
+cloudserver009964.home.pl
 cloudserver090070.home.net.pl
 cmielow.info.pl
 cnt.tmefekt.pl
@@ -914,7 +915,6 @@ dziubeka.cba.pl
 e-avanti.e-maco.pl
 e-cda.pl
 e-dworzecporwaniepl.pl
-e-efaktygwalt.pl
 e-eporwaniedziecka.pl
 e-faktyzaginiecie24.pl
 e-fohow.pl
@@ -922,6 +922,7 @@ e-fotodtp.pl
 e-kasa.w8w.pl
 e-kinoman.pl
 e-kwiaciarz.pl
+e-newsgwalt24.pl
 e-poszukiwananatalka.pl
 e-poszukiwania.pl
 e-serwisfoto.pl
@@ -969,10 +970,7 @@ eeu.pl
 eextrabingoseurodice.pl
 eextracasheurodice.pl
 eextratopeudice.pl
-efaktygwalt.com.pl
-efaktygwalt.net.pl
-efaktygwalt.pl
-efaktygwalt.waw.pl
+efaktgwalt24.pl
 eforsa.pl
 efototapety24.pl
 ego-odszkodowania.pl
@@ -1393,6 +1391,7 @@ gayporno.pl
 gazdowkauzajaca.pl
 gazeta.hit.gemius.pl
 gazetainfo.pl
+gazetalubuski.pl
 gberbhjerfds.osa.pl
 gckkargowa.pl
 gdanskie-centrum-laptopow.pl
@@ -1808,7 +1807,6 @@ hydroservis.pl
 i-cda.pl
 i-chomik.pl
 i-dworzecporwaniepl.pl
-i-efaktygwalt.pl
 i-iporwania.pl
 i-mobi.pl
 i-podgladacz.pl
@@ -1824,7 +1822,6 @@ icorpadro.hit.gemius.pl
 ideadom.pl
 idg.hit.gemius.pl
 idm.hit.gemius.pl
-iefaktygwalt.pl
 ifaktyzaginiecie24.pl
 igoldenvivaeurodice.pl
 igoldringhitcash.pl
@@ -2819,6 +2816,7 @@ osa.pl
 oseriale.pl
 osiedle-polna.pl
 oslony-okienne.pl
+osobyzagionione.pl
 ospkarlino.bulls.net.pl
 ostancenadziei.pl
 ostarextrasfestival.pl
@@ -2903,6 +2901,7 @@ petersbud.pl
 petrodom.pl
 petrusserwis.pl
 petycje.lokatorzy.info.pl
+pfst.nazwa.pl
 pglneydi.pl
 pgnigonline.pl
 pharmakeen.pl
@@ -3482,6 +3481,7 @@ senseiwolf.pl
 seriale.org.pl
 serialefilmy.pl
 server.idreams.pl
+server038725.nazwa.pl
 server082057.nazwa.pl
 server221450.nazwa.pl
 server271250.nazwa.pl
@@ -3490,7 +3490,6 @@ server375674.nazwa.pl
 server730889.nazwa.pl
 server753306.nazwa.pl
 server836207.nazwa.pl
-server839704.nazwa.pl
 server905483.nazwa.pl
 server968099.nazwa.pl
 serwer1650017.home.pl

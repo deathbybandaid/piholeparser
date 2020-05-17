@@ -60,7 +60,6 @@ colop.com.pk
 controltechnology.com.pk
 copierrentalkarachi.pk
 coriofootwear.com.pk
-corujera-manuel.freeweb.pk
 cottagefoods.com.pk
 cpp.com.pk
 cric.com.pk
@@ -200,6 +199,7 @@ pasa.org.pk
 paypal.com.iman.com.pk
 peanuts.pk
 perfume.pk
+pesl.pk
 physiocare.pk
 picnicustad.pk
 pie.net.pk
@@ -217,6 +217,7 @@ ptoti.pk
 pureherbs.pk
 qims.edu.pk
 randlaw.com.pk
+realtime.com.pk
 rice.com.pk
 riit.edu.pk
 rise.edu.pk

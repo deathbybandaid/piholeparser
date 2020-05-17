@@ -31,9 +31,11 @@ dllst.ec
 dllst.net.ec
 ebay.ec
 ecosur.ec
+fernandez.ec
 freeones.ec
 goe.gov.ec
 gotrade.com.ec
+gymconstructora.com.ec
 hgdc.gob.ec
 hope.org.ec
 hotelbrisasdelpacifico.com.ec
@@ -47,6 +49,7 @@ loteria.com.ec
 lstdata.net.ec
 maxilar.ec
 mercadolibre.com.ec
+naranjito.gob.ec
 onlynatural.com.ec
 porno.com.ec
 porno.ec

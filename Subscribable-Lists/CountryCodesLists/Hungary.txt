@@ -60,7 +60,6 @@ agriaegeszseg.hu
 ahadoj.pe.hu
 ajandekozz.hu
 aladin.hu
-alba-pollux.hu
 albertpeter.hu
 alestes.hu
 alkatreszar.hu
@@ -113,6 +112,7 @@ bfarbarafassi.pe.hu
 bgyarmatplebania.hu
 bitupont.hu
 bizsu24.hu
+bkgroup.hu
 blog.toszkantaska.hu
 blszsz.hu
 bodog.hu
@@ -525,7 +525,6 @@ tinggalkan-grup.pe.hu
 tooraktrans.hu
 tophirek.hu
 toplista.mw.hu
-torokfa.hu
 tothcsirke.hu
 totszentmarton.hu
 tr.affiliate.hu

@@ -117,6 +117,7 @@
 683f1f71.ngrok.io
 6cefd847.ngrok.io
 708483f4.ngrok.io
+74d0c9c8.ngrok.io
 7t9dw.codesandbox.io
 885c93586e11cccacd647adc490c00a4.getforge.io
 8bd94a95.ngrok.io
@@ -354,6 +355,7 @@ b2b.youpool.io
 b2n.youpool.io
 b2x.luckypool.io
 b3e33m1x-android.mobile-sdk-api.intercom.io
+b41040ce.ngrok.io
 b4nyh34o-android.mobile-sdk-api.intercom.io
 bab.frb.io
 backend.adjust.io
@@ -602,6 +604,7 @@ db35y.codesandbox.io
 deadz.io
 dealerx.prod.bidr.io
 deals.hashflare.io
+delivery-on-demand.github.io
 delivery.rtk.io
 dell-outlet.extole.io
 demo.dable.io
@@ -754,6 +757,7 @@ extlabs.io
 extole.io
 extremereach.io
 f5cf0adc.ngrok.io
+f67598a6.ngrok.io
 f680f9f9.ngrok.io
 fabric.io
 facebook.ap-northeast-1.stinger-ad.bidr.io
@@ -849,6 +853,7 @@ go.branch.io
 go2.branch.io
 gold.uax.io
 goload.wecloud.io
+goo.io
 goodblock.gladly.io
 google.east-s2s.1rx.io
 gotenna.extole.io
@@ -1101,6 +1106,7 @@ luka.youpool.io
 lydian.io
 lytics.io
 lzvzs.codesandbox.io
+m-facebookcom-profilephp00133547895.github.io
 m.burt.io
 m3global.io
 m84id2e2-android.mobile-sdk-api.intercom.io
@@ -1910,7 +1916,6 @@ wsback2b.prod.cloud.ogury.io
 wsback2c.prod.cloud.ogury.io
 wsm.ghash.io
 wtfpb.faucethub.io
-www-acesso-seguro.cloud-fr1.unispace.io
 www.5rocks.io
 www.a-v2.presage.io
 www.adapt.io

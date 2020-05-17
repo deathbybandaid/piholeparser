@@ -72,6 +72,7 @@ account-restro-limted.cf
 accounts.xn--gogle-jye.cf
 acesso-bb-online.cf
 acme-challenge.cf
+acount-page-dlsabled.cf
 admintadministre.cf
 adobedetails.cf
 adulttricks.cf
@@ -174,11 +175,11 @@ brokabexer.cf
 broken2.cf
 broken3.cf
 broken4.cf
+broken7.cf
 bsouljo.cf
 bta-daune.cf
 budoro.cf
 bujetzt.cf
-bundle66.cf
 buscaloaqui.cf
 butland.cf
 buv2014.cf
@@ -190,13 +191,13 @@ caixafgts.cf
 californianews.cf
 carinsur.cf
 cavin.cf
-cbox.cf
 celular-cadastro.cf
 central-safe-pages.cf
 centrometafisico.cf
 changpong.cf
 chase-confirm.cf
 chase.file23953.cf
+chat-whatsapp-free-fire.bundle66.cf
 chat-whatsapp.holl45.cf
 chat-whatsapp18.hol11.cf
 check-privacy-log.cf
@@ -240,6 +241,7 @@ costing.cf
 costomer-financial-databasedashbord06auth.cf
 courtrightx.cf
 cousk.cf
+credentrawsheq.cf
 credinow.cf
 creditc.cf
 csgocase.cf
@@ -353,6 +355,7 @@ grati.cf
 grensena.cf
 groupbokepmarioojawa.mld7.cf
 grub-whatsapp.whatxapp.cf
+grubwhatsapp.new89.cf
 grup-whatsap24.gets01.cf
 grup69.cf
 grupnewsexindo19.free17.cf
@@ -385,6 +388,7 @@ hotelresnikz.cf
 hujii.qplanner.cf
 ib.absa.co.za.absa-online.login.jsp.zarmobilefx.cf
 iccornacircri.cf
+ifreegive.cf
 ignaciozius.cf
 imauli.cf
 imdaginea.cf
@@ -535,7 +539,6 @@ moviezbonkerssk.cf
 msdfxtk.cf
 mulla.cf
 munnabhai.cf
-mview-jp-chastoreitemwebh-webath-003948102037.cf
 my.account.instagram.com.198663092739365.cf
 mymatchpictures.musictrup.cf
 myobi.cf
@@ -549,7 +552,6 @@ networkrx-shop365.cf
 networkrxbuy724.cf
 networkrxfuture365.cf
 nevvs.cf
-new89.cf
 newdebiandebian.cf
 nhovlrx.cf
 niceforyou.cf
@@ -578,6 +580,7 @@ ofertaamericanas-j7.cf
 oglody.cf
 oiortipori.cf
 ojmyxee.cf
+ollxear.cf
 olsiyll.cf
 omibngf.cf
 omybestdo.cf
@@ -607,6 +610,7 @@ paypal-reseter.cf
 paypal-security-service.cf
 paypal-security-session.cf
 paypal-summaryservice-customerlimited.cf
+paypal-verify-account1.cf
 paypal.com.case-id-fgg-39721831.cf
 paypal.com.signin.webapps.com-unsualactivity.cf
 paypal.com.webapps-signin-country.cf
@@ -663,7 +667,6 @@ ratkoaokhwbm.cf
 reactivation.cf
 realdmnalltoaccss.cf
 recipesexciting.cf
-recoveryunispot6.cf
 reevsxs.cf
 regis-fanpaqee.dev-fanpage23.cf
 registerelogiin.cf
@@ -828,6 +831,7 @@ vn-share.cf
 vorkehrung-sicherheitssystem.cf
 voycczf.cf
 vvdliv.cf
+wakaba.cf
 warniiing05.devetol23.cf
 web.classica-il.cf
 webcore.cf

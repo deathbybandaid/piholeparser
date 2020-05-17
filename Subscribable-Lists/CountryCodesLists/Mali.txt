@@ -174,7 +174,6 @@ authe3-microsoftmailaccounts.ml
 auto-atendimento.ml
 autoatendimento-bb.ml
 autolikesandfreefb.ml
-avaceklpterms.ml
 avtzofv.ml
 ayjp.sisplm.ml
 azadtehsil.ml
@@ -241,12 +240,12 @@ bluetickverification.ml
 bmcm.ml
 bnm.ml
 bnnvzrz.ml
+bokepwhatsapp-invitee.wa-jos.ml
 bollingoes.ml
 boomcoins.ml
 bovxbpo.ml
 brasil.mo-bi.ml
 btcbozdurma.ml
-budi01.ml
 bursas.ml
 bvpulhb.ml
 bysecirgf.nzgerhievplkzcqksrlo.ml
@@ -270,6 +269,7 @@ centralworldz.ml
 centrometafisico.ml
 change-password.ml
 chaseonline.com.mygadget.ml
+chat-whatsaap.getclaim89.ml
 chat-whatsapp-bokep-18.ups1.ml
 chat-whatsapp-grub-bokep.grup67.ml
 chat-whatsapp.ocry2020.ml
@@ -277,6 +277,7 @@ chat-whatsapp1.grup-wa69.ml
 chat-whatsapp18.xord.ml
 chat-whatsapp7.grup-wa69.ml
 chat-whatsapp9.grup-wa69.ml
+chats-whatsaap-gruphot.otozo99.ml
 check-pro.ml
 checkaccountid.ml
 checkstorenow.ml
@@ -341,14 +342,15 @@ datasitcherheit.ml
 dative.ml
 datumu.ml
 davitaindustries.ml
+ddft.ml
 de-bitcoin.ml
 de-safe-transaction-pp.ml
 deep-secureinfo.ml
 densefox.ml
 deposayim.ml
 desbloquear-online.ml
-deskjump.ml
 dev-supoort00.regis-fanpageee-confirm.ml
+dhlsecureserver7.ml
 di.aruh.ml
 diyngabvouche.ml
 djtepos.ml
@@ -387,6 +389,7 @@ ethereum.smart.contract.myeltherwallet.ml
 euro-forest.ml
 eventsguru.ml
 exmops.ml
+exodus.io123782.ml
 eyzpiel.ml
 f.chat.whatsappgroups.sex-wa.ml
 facbok.ml
@@ -409,6 +412,7 @@ ff-gg.ml
 ffdgbserv.ml
 ffdpogservgbunity.ml
 ffercyqxah.nyrhmajkcckbensqnrb.ml
+fgfhbjnkml.ml
 fhoc.ml
 filto.ml
 finixgroup.ml
@@ -420,6 +424,7 @@ flyhotels.ml
 fo-keteyy.ml
 fotka10.ml
 frankinty.ml
+free94.ml
 freeastuce.ml
 freebitcoin-bot.ml
 freeuploader.ml
@@ -440,7 +445,6 @@ geikbbh.ml
 geindaosldx.ml
 genration.ml
 get-ethereum.ml
-getclaim89.ml
 getrichquick.ml
 ggdrop1.ml
 gigead.ml
@@ -528,6 +532,7 @@ jkypevx.ml
 jmxjstn.ml
 johnsonstreetxa.ml
 join-grup-chat-dewasa18.silver1.ml
+join78.ml
 joincrypro.ml
 joingrupbokep23.new-claim7.ml
 joinngrup-whatsapp.joins20.ml
@@ -547,6 +552,7 @@ kdhema.ml
 keissy.ml
 keng.ml
 kenilt.ml
+ketos-71.ml
 keybase.ml
 kideng.ml
 kilunhe.ml
@@ -830,6 +836,7 @@ offq.ml
 ojmyxee.ml
 okeyletsgo.ml
 olsiyll.ml
+omfgskins.ml
 omibngf.ml
 on-lineshop.ml
 online-income-tax-service.wirlip.ml
@@ -840,7 +847,7 @@ onlineservices.wellsfargo.com.tld-client.ml
 or-peetey-or.ml
 ormort.ml
 ostaz.ml
-otozo99.ml
+page-acount-disabled.ml
 page-confrim-safe.ml
 page.limited.account.page-console.ml
 pamz.ml
@@ -848,6 +855,7 @@ paper.tandilhack.ml
 partnercoin.ml
 partycity.ml
 pay-pallogin.ml
+payapall.ml
 paypal-costomer-service.ml
 paypal-service-info.ml
 paypal.com-cgi-bin-update-your-account-andcredit-card.check-loginanjeeeng.ml
@@ -1092,6 +1100,7 @@ supportverifiedbadges.ml
 svbsoet.ml
 sxxmn-pagefb.ml
 szczhal.ml
+talkmoredear.ml
 tamat-812.ml
 tccsemdrama-inscricao.ml
 tenwhinilci.ml
@@ -1162,7 +1171,6 @@ voulor.ml
 voultesk-knife.ml
 voycczf.ml
 vpnethost.ml
-wa-jos.ml
 wachtsgroups.frezze.ml
 wardruz.ml
 warning405.facebok-securtity.ml
@@ -1178,6 +1186,7 @@ weed-forums.ml
 welcome-store.ml
 wellmark.ml
 wells.reverifi-ca-tio-n.ml
+wetransfer-docutrack6.ml
 wetransfer-plus7.ml
 wetransfer-plussecure3.ml
 wetransfer-plussecure5.ml
@@ -1186,12 +1195,12 @@ wgwoks.ml
 whatsapp-grup2020.grop-wa90.ml
 whatsapp-joinade.wa-bokep18.ml
 whatsappgroup19.linkk.ml
+whatsappgroups62.otozo99.ml
 whatsappgrupnew18.holl01.ml
 windowsupdatefree.ml
 wohkamkiyakaregi12.ml
 woodworkingeasytools.ml
 worldlulz.ml
-worldskins.ml
 ws1.bmcm.ml
 ws2.bmcm.ml
 wtwetwerq.ml
@@ -1353,6 +1362,7 @@ yjnkeckj.iefmhwiqjnfus.ml
 yl.indextiming.ml
 ynbrhyi.ml
 youraccountverify.ml
+yrfvideos.ml
 yrtuhf.frewdsjcvykiyiktjl.ml
 ysfzois.ml
 ytregjhijgj.ml

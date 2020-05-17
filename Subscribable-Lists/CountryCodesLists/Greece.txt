@@ -1,7 +1,6 @@
 1.login.security.appleid.icloud.com-valid-informations.md58djdbx7ejd7djdd6d.lumtech.gr
 1001paixnidia.gr
 123paixnidia.gr
-2lyk-chort.thess.sch.gr
 2lyk-stavroup.thess.sch.gr
 2winbet.gr
 32above.gr
@@ -128,6 +127,7 @@ cuttingpower.gr
 cvcsd.emporikohaidari.gr
 dael.gr
 dap.ntua.gr
+das-home.gr
 deh.ourwork.gr
 desite.gr
 diabitiki-poria.gr
@@ -301,6 +301,7 @@ myprisma.gr
 naftiliaki.gr
 nailprocare.gr
 neotheatro.gr
+nextpointer.gr
 nfbooster.gr
 noether.math.uoa.gr
 nyfikoxtenisma-thessaloniki.gr
@@ -355,6 +356,7 @@ pornopoly.blogspot.gr
 pornvtope.blogspot.gr
 potamitis.gr
 pouliakis.gr
+pouliostherm.gr
 procareinsurance.gr
 productionhouse.gr
 promo.gpoint.com.gr
@@ -385,7 +387,6 @@ serraikizimi.gr
 sexblue-box.gr
 sexshop.gr
 sexyporngirls.blogspot.gr
-sfotopoulos.gr
 shalomluxuryrooms.gr
 shoinas.gr
 shop.e-lisis.gr
@@ -423,7 +424,6 @@ technopellet.gr
 tecnohellas.gr
 telemarketing.gr
 teleworking.gr
-tenterfacebook-gojcboklwu.mrdigital.gr
 tentoepiskevi.gr
 thegreekmoneysolution.gr
 themeliovida.gr
@@ -448,6 +448,7 @@ vasilakis-george.gr
 vasilakisorologia.gr
 victoria-makrigialos.gr
 villantzakislaw.gr
+vintagetoys.gr
 vitalaikiathinon.gr
 volissos.gr
 vostbaddleschoi1973.blogspot.gr

@@ -1,4 +1,5 @@
 agrepres.com.py
+altaja.com.py
 apcarreteras.org.py
 balanzas.com.py
 basanews.com.py

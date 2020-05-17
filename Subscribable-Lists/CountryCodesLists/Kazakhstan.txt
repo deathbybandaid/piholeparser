@@ -9,6 +9,7 @@ air99.kz
 akita.kz
 aljazeera.kz
 all-news.kz
+allergoclinic.kz
 alpha.kz
 altyn-dala.kz
 amocrmkrg.kz
@@ -43,7 +44,6 @@ beauty-eyes.kz
 berikkara.kz
 binomo.kz
 bio-market.kz
-bitex.kz
 blackops.kz
 blogos.kz
 bnmd.kz

@@ -2,5 +2,7 @@ cciad.sn
 cosetam.sn
 entraco.sn
 isosoft.sn
+maristepostbac.sn
 portdakar.sn
 sagam.sn
+yeri.sn
