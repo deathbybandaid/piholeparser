@@ -1,7 +1,7 @@
 # Title: nurcan Türk ad-list
 # Format: Hosts
-# Released: 14.05.2020
-# Entries: 8159
+# Released: 18.05.2020
+# Entries: 8175
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -240,6 +240,7 @@
 127.0.0.1 adfox.ru
 127.0.0.1 adgain-publisher.com
 127.0.0.1 adhood.com
+127.0.0.1 adhouse.cubecdn.net
 127.0.0.1 adhunter.media
 127.0.0.1 adimage.media
 127.0.0.1 adimg.rekmob.com
@@ -266,6 +267,7 @@
 127.0.0.1 admitlead.ru
 127.0.0.1 admob.com
 127.0.0.1 admost.com
+127.0.0.1 admoxi.com
 127.0.0.1 adnamo.net
 127.0.0.1 adnangul.av.tr
 127.0.0.1 adnatro.com
@@ -277,6 +279,7 @@
 127.0.0.1 adnxs.com
 127.0.0.1 adobecorp.sc.omtrdc.net
 127.0.0.1 adocean.pl
+127.0.0.1 adon.io
 127.0.0.1 adopexchange.com
 127.0.0.1 adoutput.com
 127.0.0.1 adplxmd.com
@@ -291,6 +294,7 @@
 127.0.0.1 adrayon.net
 127.0.0.1 adrazzi.com
 127.0.0.1 adrecover.com
+127.0.0.1 adreda.com
 127.0.0.1 adrervice.google.com
 127.0.0.1 adroll.com
 127.0.0.1 adrttt.com
@@ -420,6 +424,7 @@
 127.0.0.1 adsrv.eacdn.com
 127.0.0.1 adsupp.network
 127.0.0.1 adsymptotic.com
+127.0.0.1 adtarget.com.tr
 127.0.0.1 adtech.com
 127.0.0.1 adtech.de
 127.0.0.1 adtiming.com
@@ -1719,6 +1724,7 @@
 127.0.0.1 gkmforex4.com
 127.0.0.1 global.appnext.com
 127.0.0.1 global.msads.net
+127.0.0.1 gmgreklam.com
 127.0.0.1 gndrglsn.com
 127.0.0.1 go-mpulse.net
 127.0.0.1 go.admost.com
@@ -3438,6 +3444,7 @@
 127.0.0.1 smopy.com
 127.0.0.1 smrtbnr.club
 127.0.0.1 smrtbnr.com
+127.0.0.1 smrtbnr.info
 127.0.0.1 smrtbnr.net
 127.0.0.1 smrtbnr.org
 127.0.0.1 smrtbnr.site
@@ -4200,6 +4207,7 @@
 127.0.0.1 www.adfox.ru
 127.0.0.1 www.adgain-publisher.com
 127.0.0.1 www.adhood.com
+127.0.0.1 www.adhouse.cubecdn.net
 127.0.0.1 www.adhunter.media
 127.0.0.1 www.adimage.media
 127.0.0.1 www.adimg.rekmob.com
@@ -4224,6 +4232,7 @@
 127.0.0.1 www.admitlead.ru
 127.0.0.1 www.admob.com
 127.0.0.1 www.admost.com
+127.0.0.1 www.admoxi.com
 127.0.0.1 www.adnamo.net
 127.0.0.1 www.adnangul.av.tr
 127.0.0.1 www.adnatro.com
@@ -4233,7 +4242,9 @@
 127.0.0.1 www.adnimo.com
 127.0.0.1 www.adnium.com
 127.0.0.1 www.adnxs.com
+127.0.0.1 www.adobecorp.sc.omtrdc.net
 127.0.0.1 www.adocean.pl
+127.0.0.1 www.adon.io
 127.0.0.1 www.adopexchange.com
 127.0.0.1 www.adoutput.com
 127.0.0.1 www.adplxmd.com
@@ -4248,6 +4259,8 @@
 127.0.0.1 www.adrayon.net
 127.0.0.1 www.adrazzi.com
 127.0.0.1 www.adrecover.com
+127.0.0.1 www.adreda.com
+127.0.0.1 www.adrervice.google.com
 127.0.0.1 www.adroll.com
 127.0.0.1 www.adrttt.com
 127.0.0.1 www.ads-hl.noktamedya.com.tr
@@ -4356,6 +4369,7 @@
 127.0.0.1 www.adsrv.eacdn.com
 127.0.0.1 www.adsupp.network
 127.0.0.1 www.adsymptotic.com
+127.0.0.1 www.adtarget.com.tr
 127.0.0.1 www.adtech.com
 127.0.0.1 www.adtech.de
 127.0.0.1 www.adtiming.com
@@ -5609,6 +5623,7 @@
 127.0.0.1 www.gkmforex4.com
 127.0.0.1 www.global.appnext.com
 127.0.0.1 www.global.msads.net
+127.0.0.1 www.gmgreklam.com
 127.0.0.1 www.gndrglsn.com
 127.0.0.1 www.go-mpulse.net
 127.0.0.1 www.go.admost.com
@@ -7265,6 +7280,7 @@
 127.0.0.1 www.smopy.com
 127.0.0.1 www.smrtbnr.club
 127.0.0.1 www.smrtbnr.com
+127.0.0.1 www.smrtbnr.info
 127.0.0.1 www.smrtbnr.net
 127.0.0.1 www.smrtbnr.org
 127.0.0.1 www.smrtbnr.site

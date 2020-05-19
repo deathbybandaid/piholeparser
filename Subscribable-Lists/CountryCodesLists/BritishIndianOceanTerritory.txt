@@ -163,6 +163,7 @@ admin.lytics.io
 admin.superbuzz.io
 admp.io
 adobe-creative-cloud.extole.io
+adon.io
 ads.avocet.io
 adserve-ams.1rx.io
 adserve-nj.1rx.io
@@ -1924,6 +1925,7 @@ www.adjust.io
 www.adless.io
 www.admin.superbuzz.io
 www.admp.io
+www.adon.io
 www.ads.avocet.io
 www.app.graphly.io
 www.app.superbuzz.io

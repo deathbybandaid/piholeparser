@@ -44,6 +44,7 @@ adservice.google.com.tr
 adsim.sabah.com.tr
 adsp.ciner.com.tr
 adspace.zaman.com.tr
+adtarget.com.tr
 adtech.com.tr
 adworld.com.tr
 afkim.com.tr
@@ -700,6 +701,7 @@ www.adserver1.adtech.com.tr
 www.adservice.google.com.tr
 www.adsim.sabah.com.tr
 www.adsp.ciner.com.tr
+www.adtarget.com.tr
 www.adworld.com.tr
 www.agito.com.tr
 www.agkoleksiyon.com.tr
