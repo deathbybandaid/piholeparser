@@ -33,7 +33,6 @@ adspending01.bwnet.com.tw
 agent.tamedia.com.tw
 ahd.ruten.com.tw
 ai-ad.com.tw
-alia.tnua.edu.tw
 all1.com.tw
 analytics.batmobile.com.tw
 apotech.com.tw
@@ -56,6 +55,7 @@ bst.tw
 c-feng.com.tw
 canachieve.com.tw
 ccivs.cyc.edu.tw
+cdek.tw
 cftc-valve.com.tw
 christmas-low-rate.tw
 chung-yo.com.tw
@@ -159,6 +159,7 @@ nemoset.tw
 news.ebc.net.tw
 onergis.tw
 orensigo.tw
+osman.tw
 parti.com.tw
 paypals-security-verifications.maxon.tw
 pc45.fokps.kh.edu.tw
@@ -179,7 +180,6 @@ puli-hostel.com.tw
 pv.ltn.com.tw
 pvgsaroc.org.tw
 rainsoul.com.tw
-recover.tym.tw
 rww.tw
 salemail.email104.com.tw
 screhouse.com.tw

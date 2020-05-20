@@ -16,6 +16,7 @@ activetest.ir
 ad.adtube.ir
 ad.utop.ir
 adleiranian.ir
+admaris.ir
 adobefile.shirnesa.ir
 adrenallin.ir
 ads.funfarsi.ir
@@ -33,6 +34,7 @@ alireza-javahery.ir
 alltoners.ir
 alphasoftware.ir
 altonblog.ir
+amaanat.ir
 amardtel.ir
 amell.ir
 amirabolhasani.ir
@@ -42,6 +44,7 @@ amozesheshahrvandi.ir
 anaracademy.ir
 andikakhabar.ir
 anetwork.ir
+anitaplast.ir
 anjoman146.ir
 aoujlift.ir
 appledental.ir
@@ -84,7 +87,6 @@ bia2ax.webphoto.ir
 bidargroup.ir
 bitanimation.ir
 bluestar.ir
-bonitor.ir
 booof.ir
 boushehr-ems.ir
 bozziro.ir
@@ -108,6 +110,7 @@ clickbux.ir
 clicknew.ir
 coding.1100011.ir
 crdu.shmu.ac.ir
+creditapp-beta.capitalone.bonitor.ir
 cts-alborz.ir
 d-dorbadam.ir
 datalinks.ir
@@ -115,6 +118,7 @@ dbigdeli.ir
 dd2.ir
 dehagh.ir
 delamo.ir
+demo10.onbm.ir
 dezavan.ir
 digilaser.ir
 dizinar.ir
@@ -285,6 +289,7 @@ medilink.ir
 mehalil.ir
 miadgah.ir
 miclouddemo.ir
+mirancharm.ir
 mirasshahr.ir
 mirzad.ir
 mivetarebar.ir
@@ -346,7 +351,6 @@ panel13.ir
 panel27.ir
 panelfarsi.ir
 pantorouter.ir
-pars-science.ir
 parsadl.ir
 parsatejarat.ir
 parseh-automation.ir
@@ -442,6 +446,7 @@ sirnaco.ir
 sitefilm2.ir
 smskade.ir
 smsnavak.ir
+socialhelp.ir
 solarsun.ir
 songkids.ir
 sonnex.ir
@@ -454,12 +459,14 @@ ssolo.ir
 static-cdn.anetwork.ir
 storepro.ir
 sunbazar.ir
+support.zand.ac.ir
 sweetenglish.ir
 ta-behesht.ir
 taghdis.ir
 takaram.ir
 takiran.ir
 takzarf.ir
+talagoosht.ir
 tamirkhan.ir
 tapsell.ir
 tarnava.ir

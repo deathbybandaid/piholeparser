@@ -17,7 +17,9 @@ appelsupport.96.lt
 aservisas.lt
 auto.rusvile.lt
 autoabs.lt
+automobiliusupirkimas.lt
 avitela.lt
+baidaremis.lt
 balosa.lt
 baltela.lt
 bancestad0.96.lt
@@ -104,6 +106,7 @@ kursiuklinika.lt
 lifecoaching.lt
 lokpin.96.lt
 lr.urvas.lt
+lvzssakiai.lt
 m4hkota.jw.lt
 mamabar.lt
 mantika.lt

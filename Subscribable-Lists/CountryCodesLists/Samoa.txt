@@ -109,6 +109,7 @@ globalwagering.ws
 glscorp.ws
 googlanalytics.ws
 google-analitics.ws
+gpssicredi.hospedagemdesites.ws
 gram.ws
 great-value.ws
 guernica.ws

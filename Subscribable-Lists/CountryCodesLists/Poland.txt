@@ -6,6 +6,8 @@
 15minlt.adocean.pl
 2.googlenews.xorg.pl
 24-fakty.pl
+24gwaltfakt.com.pl
+24gwaltfakt.pl
 24ratownik.hit.gemius.pl
 24tm.pl
 2boys.pl
@@ -353,6 +355,7 @@ aptbrylant.pl
 apteka2000.com.pl
 apteka2000.pl
 apteka24.strefa.pl
+aquai.pl
 aquariumrawa.pl
 arbeiten.pl
 arbo.hit.gemius.pl
@@ -915,10 +918,13 @@ dziubeka.cba.pl
 e-avanti.e-maco.pl
 e-cda.pl
 e-dworzecporwaniepl.pl
+e-efaktygwalt.pl
+e-emonitoring24.pl
 e-eporwaniedziecka.pl
 e-faktyzaginiecie24.pl
 e-fohow.pl
 e-fotodtp.pl
+e-gwaltwiadomosc.pl
 e-kasa.w8w.pl
 e-kinoman.pl
 e-kwiaciarz.pl
@@ -931,6 +937,7 @@ e-udanezakupy.pl
 e-update-greujy.pl
 e-uprowadzeniedworzec.pl
 e-uprowadzniezdworca.pl
+e24gwaltfakt.pl
 eamory.pl
 easydownload.pl
 ebd.cda.pl
@@ -970,7 +977,8 @@ eeu.pl
 eextrabingoseurodice.pl
 eextracasheurodice.pl
 eextratopeudice.pl
-efaktgwalt24.pl
+efaktygwalt.pl
+efaktygwalt.waw.pl
 eforsa.pl
 efototapety24.pl
 ego-odszkodowania.pl
@@ -983,6 +991,7 @@ egoldringskyweb.pl
 egoldringvip.pl
 egoldringweb.pl
 eguma.pl
+egwaltwiadomosc.pl
 ehepi.pl
 ehotdicebonushit.pl
 eiporwania.pl
@@ -1041,6 +1050,7 @@ emerge.imstore.pl
 emisja.adsearch.pl
 emisja.contentstream.pl
 emisjawidgeet.onet.pl
+emonitoring24.net.pl
 empe3net7.neostrada.pl
 emptyus.trixy.pl
 emticall.pl
@@ -1070,6 +1080,7 @@ eplotery.pl
 epm.pl
 eporwaniedziecka.com.pl
 eporwaniedziecka.net.pl
+eporwaniedziecka.pl
 eporwaniedziecka.waw.pl
 epzu4ebrmh.ivertiipolska.com.pl
 eqs.pl
@@ -1172,6 +1183,7 @@ faithfull.kdm.pl
 fajnarzecz.pl
 faktopedia.com.pl
 fakty24-stolica.pl
+faktycodziennie.com.pl
 faktyonet-24.pl
 faktyzaginiecie24.com.pl
 faktyzaginiecie24.net.pl
@@ -1338,6 +1350,7 @@ gakz.hit.gemius.pl
 galaktykastarachowice.pl
 galanteriafutrzana.pl
 galb.hit.gemius.pl
+galeria-nagosci.ct8.pl
 galeriaanna.pl
 galeriakamienica.pl
 galindia.hit.gemius.pl
@@ -1738,9 +1751,13 @@ gtlv.hit.gemius.pl
 gttr.hit.gemius.pl
 guminska.pl
 gw.firesub.pl
+gwaltwiadomosc.com.pl
+gwaltwiadomosc.net.pl
+gwaltwiadomosc.pl
 haberekw.cba.pl
 hackidogier.pl
 hacks24.pl
+hagus.home.pl
 hakerr.pl
 halodzwonek.pl
 halopozyczka.pl
@@ -1806,7 +1823,9 @@ hydroplanet.pl
 hydroservis.pl
 i-cda.pl
 i-chomik.pl
+i-dpd.pl
 i-dworzecporwaniepl.pl
+i-efaktygwalt.pl
 i-iporwania.pl
 i-mobi.pl
 i-podgladacz.pl
@@ -1822,6 +1841,7 @@ icorpadro.hit.gemius.pl
 ideadom.pl
 idg.hit.gemius.pl
 idm.hit.gemius.pl
+ifaktygwalt.com.pl
 ifaktyzaginiecie24.pl
 igoldenvivaeurodice.pl
 igoldringhitcash.pl
@@ -1899,9 +1919,12 @@ intrack.pl
 intymna.pl
 investoradbg.hit.gemius.pl
 investorbg.adocean.pl
+invois.pl
 ionetporwanie.pl
 ipnt.pl
 iporwania-24.pl
+iporwania.com.pl
+iporwania.net.pl
 iporwania.pl
 iporwanie.pl
 iporwanie.waw.pl
@@ -1940,6 +1963,7 @@ iwestbetdaylife.pl
 iwestclubbetday.pl
 iwestlinebetday.pl
 iwestnetbetday.pl
+iwiadomoscigwalt.pl
 iworldrubypalace.pl
 iworms.pl
 jacekozdoba.pl
@@ -2369,6 +2393,7 @@ mf-mojafirma.pl
 mgops-konskie.pl
 mice.pl
 michpol95.5v.pl
+microhost.com.pl
 microstatic.pl
 miedzyrzec-online.pl
 mieszkania-pokoje-wynajem.pl
@@ -2433,6 +2458,7 @@ moviestarplanet-hacki.pl
 moviestarplanet-haki-i-kody.crazylife.pl
 moviestarplanethack.net.pl
 moviestarplanethacks.pl
+moz-bud.pl
 mpcnet.com.pl
 mr-concept.pl
 mreg.hit.gemius.pl
@@ -2440,6 +2466,7 @@ ms-podatki.pl
 msecurity.pl
 msphack.com.pl
 msphack.pl
+mst.5v.pl
 mstudioreklamy.pl
 mtgurgul.pl
 mtjkqwedqkk.pl
@@ -2626,6 +2653,10 @@ newmedscialis.pl
 newpillmed.pl
 newrutor.org.pl
 newsgeek.pl
+newsgwalt.net.pl
+newsgwalt.pl
+newsgwalt24.pl
+newsywiadomosci.5v.pl
 newuyuy2012.osa.pl
 newwave.orge.pl
 nextclick.pl
@@ -2641,6 +2672,7 @@ nieruchomosci-surzynski.pl
 nieruchomosci.wwwstudio.pl
 niezalegamy-2019.pl
 nikanels.pl
+nikepolskasklep.pl
 ninjah47.home.pl
 niunie.qii.pl
 nk-net.pl
@@ -2656,6 +2688,7 @@ novem.onet.pl
 novem.pl
 novumedical.pl
 nowaupadlosc.pl
+nowefakty24online.pl
 nowexbhp.pl
 nowicki.olsztyn.pl
 nowoczesneploty.pl
@@ -2787,6 +2820,7 @@ openx.tai.pl
 openx.xenium.pl
 oplaca-sie.pl
 oplata360.pl
+oplaty-wp.pl
 opole.pl
 opolsat.pl
 opowereliterubypalace.pl
@@ -2816,7 +2850,6 @@ osa.pl
 oseriale.pl
 osiedle-polna.pl
 oslony-okienne.pl
-osobyzagionione.pl
 ospkarlino.bulls.net.pl
 ostancenadziei.pl
 ostarextrasfestival.pl
@@ -2930,6 +2963,7 @@ pinkstar.pl
 piotrprzewozy.pl
 piotruspan.com.pl
 pisanie-online.pl
+pisarz.internetdsl.pl
 pitbull-video.ujm.pl
 pitbull.ek1.pl
 pitbullwestcoast.pl
@@ -2962,6 +2996,7 @@ ploch.net.pl
 plusrubydream.pl
 plywam-leszno.pl
 pm4lipno.pl
+pmpj.pl
 pobeiranie.pl
 pobieralnia.com.pl
 pobieram-plik.pl
@@ -2974,6 +3009,7 @@ pobierzgo.pl
 pobierzpliki.pl
 pobierzse.pl
 pobraniowo.pl
+poczta.bydnet.com.pl
 poczta.savatrade.com.pl
 podkogucikiem.pl
 podroz-wedwoje.pl
@@ -3025,6 +3061,7 @@ pornozilla.pl
 portalbcpmillenium-pt-com.unicloud.pl
 portiernie.biz.pl
 porwaniapolska.pl
+porwanie-malopolska.pl
 porwanienatalki.pl
 posciele.za.pl
 pospr.waw.pl
@@ -3360,6 +3397,7 @@ ringieradrs.hit.gemius.pl
 ringierro.adocean.pl
 ringierrs.adocean.pl
 rlisowska.pl
+rneo.pl
 ro.adocean.pl
 ro.hit.gemius.pl
 ro1adro.hit.gemius.pl
@@ -3485,6 +3523,7 @@ server038725.nazwa.pl
 server082057.nazwa.pl
 server221450.nazwa.pl
 server271250.nazwa.pl
+server292369.nazwa.pl
 server328687.nazwa.pl
 server375674.nazwa.pl
 server730889.nazwa.pl
@@ -3496,6 +3535,7 @@ serwer1650017.home.pl
 serwer1819004.home.pl
 serwer1827616.home.pl
 serwer1837541.home.pl
+serwer2082113.home.pl
 serwery-nas.pl
 serwis-laptopow-powisle.pl
 serwis-laptopow.org.pl
@@ -3700,6 +3740,7 @@ spt.coinmine.pl
 spwkrzem.edu.pl
 sq2jk.pl
 src.coinmine.pl
+srodkidlagastronomii.pl
 srodmiescie-napraw-laptopa.warszawa.pl
 ssl.bezpieczne-platnosci.pl
 st.hit.gemius.pl
@@ -3859,6 +3900,7 @@ tennisowo.glt.pl
 terapiadotykiem.pl
 terazdobrze.pl
 terminatorzy.cba.pl
+test.filmbaza.pl
 test.maciejdudek.com.pl
 test.wikija.pl
 testclub.pl
@@ -4009,6 +4051,7 @@ ugoldringskyvip.pl
 ugoldringvip.pl
 ugoldringweb.pl
 uio7.pl
+ukfis.pl
 ukpbingocash.pl
 ukpbingotime.pl
 ukpbonuscash.pl
@@ -4102,6 +4145,7 @@ vcxz.pl
 vda.wp.pl
 vdula.czystykod.pl
 vectranet.pl
+vega-online.pl
 vegatestsklep.pl
 vegoria.pl
 vendimob.pl
@@ -4158,6 +4202,7 @@ wapster.pl
 warco.pl
 wargaming.all-stars.pl
 warmiainkaso.pl
+warszawa-gov24.pl
 warszawa-info24.pl
 warszawski-serwis-laptopow.warszawa.pl
 warszowka.pl
@@ -4190,6 +4235,9 @@ wesole-nutki.pl
 wgrajka.pl
 wiad-info.5v.pl
 wiadomosci-lokalne.5v.pl
+wiadomoscigwalt.com.pl
+wiadomoscigwalt.net.pl
+wiadomoscigwalt.pl
 wiadomoscix8.pl
 widget-eforsa.pl
 widzew.com.pl
@@ -4237,6 +4285,7 @@ wpkoszyk.wp.pl
 wpoplawski.pl
 wroclaw.paulini.pl
 wroclawski.com.pl
+wruka.pl
 wrutor.org.pl
 wrzucacz.pl
 wspolnie.com.pl
@@ -4246,6 +4295,7 @@ wt.bankmillennium.pl
 wtc.wat.edu.pl
 wtyczkapodgladacz.bo.pl
 wulkanizacjaszymanski.pl
+wuteh.a100.com.pl
 www.3500gb.pl
 www.7218.pl
 www.72933.pl
@@ -4497,7 +4547,9 @@ xmr.coinmine.pl
 xn--czogi-m7a.pl
 xn--e-faktygwat-25b.pl
 xn--efaktygwat-i0b.pl
+xn--faktygwat-xub.com.pl
 xn--faktygwat-xub.net.pl
+xn--faktygwat-xub.pl
 xn--onetgwat-dpb.waw.pl
 xn--srahah-bua.pl
 xstat.pl
@@ -4618,6 +4670,7 @@ zastrzyk-gotowki.waw.pl
 zbierajnagrody.bo.pl
 zbigniewzaleski.pl
 zbmzory.pl
+zbyk.drl.pl
 zckupila.republika.pl
 zcl.coinmine.pl
 zclpool01.coinmine.pl

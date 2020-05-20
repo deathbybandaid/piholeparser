@@ -2,6 +2,7 @@ adsl-62-48-192-81.adsl.iam.net.ma
 adsl-66-101-192-81.adsl2.iam.net.ma
 alhiraf.ma
 altituderh.ma
+artopiel.ma
 azebony.cu.ma
 benfidesf.cu.ma
 blacknred.ma
@@ -31,6 +32,7 @@ interfacerh.ma
 jazmany.cu.ma
 jeux.co.ma
 justart.ma
+khalij.ma
 led-maroc.ma
 licorne.ma
 loterie.ma
@@ -50,9 +52,11 @@ purenice.ma
 rabita-chorafa-adarissa.ma
 rbc-royalbank-online-services-security-update-cananda.jecreemonentreprise.ma
 royalair.koom.ma
+siri.ma
 six.ma
 sportech.ma
 sushistore.ma
+taalim.ma
 tonsite.ma
 triangle.ma
 venteexpress.ma

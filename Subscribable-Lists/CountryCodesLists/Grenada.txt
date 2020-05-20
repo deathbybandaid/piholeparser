@@ -17,8 +17,10 @@ omf.gd
 pic.gd
 r3fewdsarg3few.rf.gd
 riz.gd
+sfght534t23qrewsa.rf.gd
 shop--covid19.rf.gd
 shops-covid-19.rf.gd
+shopscovid19.rf.gd
 soo.gd
 ta.gd
 tl.gd

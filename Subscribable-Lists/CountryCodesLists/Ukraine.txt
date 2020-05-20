@@ -245,7 +245,6 @@ b.c8.net.ua
 b.digital-tv.com.ua
 babs.com.ua
 bac.in.ua
-backup.tamga.net.ua
 balon.com.ua
 bambi.ck.ua
 banana.dp.ua
@@ -467,6 +466,7 @@ dadashov.org.ua
 dadoctor.pl.ua
 damilk.com.ua
 dance.zp.ua
+darkuser.zzz.com.ua
 darmebel.com.ua
 darservice.com.ua
 dataincorrect.at.ua
@@ -567,9 +567,11 @@ driooper.com.ua
 driving.kiev.ua
 drugsnetw.com.ua
 drugstoreschools.com.ua
+ds234hnf45a.pp.ua
 dslkioer.com.ua
 dsoperni.com.ua
 dsskjjo.com.ua
+dukhovnist.in.ua
 dumka.if.ua
 dveripolese.com.ua
 dvr.biz.ua
@@ -910,6 +912,7 @@ h-truck.olimp-motors.com.ua
 h.holder.com.ua
 h2.eth.pp.ua
 h5464574.at.ua
+hacker3456.zzz.com.ua
 halogen.dp.ua
 hanata.pp.ua
 handonu.pp.ua
@@ -1011,10 +1014,12 @@ inmedic.pl.ua
 inmorep.com.ua
 inome.com.ua
 insta54.kl.com.ua
+instahram.zzz.com.ua
 instella.biz.ua
 instroy.com.ua
 intentionanybody.pl.ua
 interest-money-goods.com.ua
+invalid666.zzz.com.ua
 iomedic.pl.ua
 iphoneservices.com.ua
 iqs.biz.ua
@@ -1859,7 +1864,6 @@ mnn0gofilueus.dvvarf.pp.ua
 moat.kiev.ua
 mobicover.com.ua
 mobility.lviv.ua
-mobystore.com.ua
 modaforyou.com.ua
 modonyashka.com.ua
 moget.com.ua
@@ -2146,6 +2150,7 @@ qwwmii.com.ua
 radoctor.pl.ua
 ragdoll.net.ua
 ramona.net.ua
+ramprulad.com.ua
 range.dp.ua
 raquel.net.ua
 raschtextil.com.ua
@@ -2184,7 +2189,6 @@ reniopf.com.ua
 renucid.com.ua
 reoipfr.com.ua
 repair-service.com.ua
-repairguide.com.ua
 resdoctors.com.ua
 reset.dn.ua
 rethymno.biz.ua
@@ -2303,6 +2307,7 @@ sensor.org.ua
 setup.kiwi.net.ua
 sevenjens.com.ua
 sexnow.com.ua
+sgs-tl.com.ua
 shdoctor.pl.ua
 shema.org.ua
 shinikiev.com.ua
@@ -2552,6 +2557,7 @@ visit2013.in.ua
 vizag.kharkov.ua
 vizavi.kh.ua
 vjiretu.com.ua
+vk-com-com.zzz.com.ua
 vkauth.kl.com.ua
 vkbot.zzz.com.ua
 vkfreestickers.zzz.com.ua

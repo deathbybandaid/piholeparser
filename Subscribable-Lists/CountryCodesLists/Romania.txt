@@ -17,6 +17,7 @@ abgoldish.ro
 academiademasaj.ro
 acardesign.ro
 acccount-verification.ecart.com.ro
+accenttv.ro
 activation-il.ucoz.ro
 activewatch.ro
 ad2.ip.ro
@@ -90,6 +91,7 @@ arestetic.ro
 aripipentruingeri.ro
 artas.ro
 artasoimaritului.ro
+artdecorstudio.ro
 as-tech.ro
 ascortimisoara.ro
 asdfsadf.viomil.ro
@@ -106,6 +108,7 @@ autochemicals.ro
 autocosmi.ro
 autodemitrans.ro
 autogarametropoli.ro
+autograff.ro
 automatizari-online.ro
 automotorsa.ro
 autoseven.ro
@@ -127,6 +130,7 @@ banners.kappa.ro
 barbarossa.ro
 bardavavillage.ro
 bc-tour.ro
+bcaffe.ro
 bde1wtzxfho2d9krz0ar.viomil.ro
 beautybyena.ro
 bee-store.ro
@@ -202,6 +206,8 @@ climatizareonline.ro
 cloud305.mxserver.ro
 clubdiesel.ro
 clubnet.ro
+clubulnautic.ro
+clubulnauticroman.ro
 cmn5uuql6bhafukwc05r.viomil.ro
 cniptmoldovanoua.ro
 cnvv.ro
@@ -212,6 +218,7 @@ com-undergo-aujhbhthgo.eyedrops.ro
 com-undergo-aujhbhthqgo.eyedrops.ro
 comandor-impex.ro
 comsertim.ro
+comunaghergheasa.ro
 concurs.kzh.hi2.ro
 conferintahrb.ro
 consacre.ro
@@ -241,6 +248,7 @@ czjrhhpnigalslkpztv1.viomil.ro
 dalepietra.ro
 danor.ro
 dantranscar.ro
+danubetravel.ro
 daxa.ro
 dbs.autolatest.ro
 dealul-lomb.ro
@@ -391,12 +399,15 @@ hytorc.ro
 icpet-intrometic.ro
 ikjncdnfjr.ro
 iliebike.ro
+illitrading.ro
 iloveitaly.ro
 images.top66.ro
 imex.cezard.imcserver.ro
 img.neogen.ro
 incercari.icedesign.ro
 indivizual.ro
+indochina-art.ro
+infosantioana.hi2.ro
 ingservice.ro
 inspireconsulting.ro
 instagram-media.ro
@@ -741,6 +752,7 @@ sspbike.ro
 stailapoza.ro
 stampile-constanta.ro
 stampile-sibiu.ro
+starfix.ro
 startec-paris.ro
 startex.ro
 startupbiz.ro
@@ -784,6 +796,7 @@ thevision.ro
 tiboo.ro
 tiff.ro
 tiki-taka.ro
+toaletaeco.ro
 top.skyzone.ro
 top1.ro
 top100.ro
@@ -836,7 +849,6 @@ viagraviagra.3xforum.ro
 video-detect.ro
 vines.ebrodat.ro
 vintagegold.ro
-virtual-callcenter.ro
 visaeurope.irsud.ro
 visaeurope.tiglametalicagerard.ro
 vitromed.ro

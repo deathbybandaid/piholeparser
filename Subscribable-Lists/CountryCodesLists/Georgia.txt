@@ -40,6 +40,7 @@ juventus.ge
 kadmixer.ge
 kmwine.ge
 kondi.ge
+krevetebi.ge
 lagi.ge
 links.boom.ge
 login.drawbrid.ge
@@ -61,7 +62,6 @@ rino.ge
 samegrelorm.ge
 sandiltd.ge
 service-paypal.com.verification.your.account.riktravel.ge
-site.pcplus.ge
 skola-graali.ge
 sprintdental.ge
 starcarrent.ge

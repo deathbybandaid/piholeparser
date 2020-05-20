@@ -6,6 +6,7 @@
 15uaer.coragem.cf
 164227-de-prob-sicher-konto_identity.sicherheitssystem-hilfeservice.cf
 172109-germany-nutzung-sicherheit-nachweis.schutz-sicherheitshilfe.cf
+198663092739365.cf
 198696-deu-verbraucher-angabe-validierung.sicherheitsvorbeugung-vorbeugung.cf
 1limited-account.cf
 200452-deu-gast-sicher-account.sicherheitsabwehr-sicher.cf
@@ -70,6 +71,8 @@ access-recovery-pp-de.cf
 account-restro-info.cf
 account-restro-limted.cf
 accounts.xn--gogle-jye.cf
+accountsadobe.cf
+accountverifie.cf
 acesso-bb-online.cf
 acme-challenge.cf
 acount-page-dlsabled.cf
@@ -91,6 +94,7 @@ amazon.o24l0.cf
 amazon.swi5m1.cf
 amazon.webdirect.cf
 americanas-online.cf
+americanaspromocoes.cf
 amirnes.cf
 amranoof.cf
 anticcolonial.cf
@@ -191,12 +195,14 @@ caixafgts.cf
 californianews.cf
 carinsur.cf
 cavin.cf
+cbox.cf
 celular-cadastro.cf
 central-safe-pages.cf
 centrometafisico.cf
 changpong.cf
 chase-confirm.cf
 chase.file23953.cf
+chat-watsaap-18.jooiinn.cf
 chat-whatsapp-free-fire.bundle66.cf
 chat-whatsapp.holl45.cf
 chat-whatsapp18.hol11.cf
@@ -230,6 +236,7 @@ confirmupdatepage.cf
 confirmyourspage.cf
 conflitbean.cf
 confrim-page-recovery05.cf
+confrime-supportme9.cf
 confrimrecovery.cf
 confrimrecovery0.cf
 confrimrecovery0012.cf
@@ -241,7 +248,6 @@ costing.cf
 costomer-financial-databasedashbord06auth.cf
 courtrightx.cf
 cousk.cf
-credentrawsheq.cf
 credinow.cf
 creditc.cf
 csgocase.cf
@@ -264,8 +270,10 @@ desbloqueioacesso.cf
 dev3lop2er.fanpage112.cf
 devel0per11.regisconfrim.cf
 dhlexp.cf
+dhltracking-online.cf
 dia.crypto9coin.cf
 dietpillsgenerics.cf
+direct-facebook.cf
 disablepage2017.cf
 dishtvpartners.cf
 djffrpz.cf
@@ -292,6 +300,7 @@ ejasekej.cf
 eleletieleleparthard.cf
 eljyiej.cf
 email-update00.cf
+en-view-storeitemwebh-webh-id93278687618.cf
 englishteachingcourse.cf
 epicnetwork.cf
 ertfjgcjfkgkkgvkgkfdxcfc.cf
@@ -337,6 +346,7 @@ freegiftcardcodes.cf
 from-register23.d3v-fanpag3.cf
 fromonetilltwo.cf
 fucabook.cf
+funnyheart.cf
 fv-gwapxp.cf
 gadgmyi.cf
 geikbbh.cf
@@ -349,6 +359,7 @@ girlhot.cf
 glacedo.cf
 gmail.com89162589125.cf
 go.megabanners.cf
+goldstrength.cf
 gooldog.cf
 grand-avenue.cf
 grati.cf
@@ -362,7 +373,9 @@ grupnewsexindo19.free17.cf
 grupwhatsaap.joins20.cf
 grupwhatsaapbokep.newjoin.cf
 grupwhatsapp18.joss20.cf
+grupwhatsappbokepviral.groupsjoins9.cf
 grupwhatsapprpl.bonuss.cf
+grupwhatsappxxx2020.wakaba.cf
 gthrrdgsd.cf
 gzxrykv.cf
 h-drums.cf
@@ -539,7 +552,6 @@ moviezbonkerssk.cf
 msdfxtk.cf
 mulla.cf
 munnabhai.cf
-my.account.instagram.com.198663092739365.cf
 mymatchpictures.musictrup.cf
 myobi.cf
 mytestwp.cf
@@ -561,6 +573,7 @@ njwb.cf
 noda-8879.cf
 nomerounddec.cf
 nomnyz.cf
+notftrak.cf
 noticeaccounts.cf
 notificationaccountpages.cf
 notificationsfbpage.cf
@@ -580,7 +593,6 @@ ofertaamericanas-j7.cf
 oglody.cf
 oiortipori.cf
 ojmyxee.cf
-ollxear.cf
 olsiyll.cf
 omibngf.cf
 omybestdo.cf
@@ -596,6 +608,7 @@ ovqc.cf
 ownshop.cf
 page-setting.cf
 pageaccounts3curiity.bisulan.cf
+pages-user-blocked2.cf
 pagesecurecheck2017.cf
 pagesfbnotification.cf
 pageviolation2017.cf
@@ -667,6 +680,8 @@ ratkoaokhwbm.cf
 reactivation.cf
 realdmnalltoaccss.cf
 recipesexciting.cf
+recoveryunispot6.cf
+recytechs.cf
 reevsxs.cf
 regis-fanpaqee.dev-fanpage23.cf
 registerelogiin.cf
@@ -831,13 +846,14 @@ vn-share.cf
 vorkehrung-sicherheitssystem.cf
 voycczf.cf
 vvdliv.cf
-wakaba.cf
+wa-bokebhotbarat.vvipx05.cf
 warniiing05.devetol23.cf
 web.classica-il.cf
 webcore.cf
 webinc.cf
 webpaisucre.cf
 whatsap-bkp18.gets01.cf
+whatsap-grup20.clam-free.cf
 whatsapgrupbokepjoincrot.infoitem.cf
 whatsapp-grup.bkpnew.cf
 whatsapp-grup.gya78.cf
@@ -848,6 +864,7 @@ window-close.cf
 wmasters.cf
 wvwbcpzonaseguira-bcp.cf
 wvwbcpzonasegura-viabcp.cf
+www-cdek.cf
 www.2016bobo.cf
 www.aifetxe.cf
 www.arjzndx.cf

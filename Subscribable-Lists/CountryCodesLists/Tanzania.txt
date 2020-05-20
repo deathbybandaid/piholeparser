@@ -5,6 +5,7 @@ binattorneys.co.tz
 businesstimes.co.tz
 cafe.tgeeks.co.tz
 canossa.ac.tz
+choicecomputers.co.tz
 cvyangu.co.tz
 daima.co.tz
 dumatoursafaris.co.tz
@@ -42,4 +43,5 @@ telemedics.co.tz
 tiesco.co.tz
 unityinsurance.co.tz
 wamisionariwakatoliki.or.tz
+weberms.co.tz
 wedding.co.tz

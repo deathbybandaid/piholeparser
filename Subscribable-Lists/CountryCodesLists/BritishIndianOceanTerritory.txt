@@ -4,7 +4,6 @@
 0ba7bb7e.ngrok.io
 0nf91.codesandbox.io
 1.top4top.io
-1df71a18.ngrok.io
 1rx.io
 2.top4top.io
 22lco.codesandbox.io
@@ -16,6 +15,7 @@
 3d0cb547.spacebrony.dnb.io
 4.top4top.io
 43e40a32.ngrok.io
+45kr4.codesandbox.io
 47ec386a.ngrok.io
 4abb1a39.ngrok.io
 4aca8caf.ngrok.io
@@ -117,7 +117,6 @@
 683f1f71.ngrok.io
 6cefd847.ngrok.io
 708483f4.ngrok.io
-74d0c9c8.ngrok.io
 7t9dw.codesandbox.io
 885c93586e11cccacd647adc490c00a4.getforge.io
 8bd94a95.ngrok.io
@@ -356,8 +355,8 @@ b2b.youpool.io
 b2n.youpool.io
 b2x.luckypool.io
 b3e33m1x-android.mobile-sdk-api.intercom.io
-b41040ce.ngrok.io
 b4nyh34o-android.mobile-sdk-api.intercom.io
+b8822493.ngrok.io
 bab.frb.io
 backend.adjust.io
 backend.youpool.io
@@ -549,6 +548,7 @@ console.backtrace.io
 console.rtk.io
 copay.io
 coralex.io
+coronavirusprotection.io
 cosmi.io
 couch.ams.coinfirm.io
 countbertwistdisp26.soup.io
@@ -605,7 +605,6 @@ db35y.codesandbox.io
 deadz.io
 dealerx.prod.bidr.io
 deals.hashflare.io
-delivery-on-demand.github.io
 delivery.rtk.io
 dell-outlet.extole.io
 demo.dable.io
@@ -620,6 +619,7 @@ dev-cdn.districtm.io
 dev-dmx.districtm.io
 dev-fbapps.pantheonsite.io
 dev-fewfewfewfew.pantheonsite.io
+dev-rabo-loginnu.pantheonsite.io
 dev-service-free.pantheonsite.io
 dev.branch.io
 dev.cdn.districtm.io
@@ -649,6 +649,7 @@ doapzoa0sa.frb.io
 documentation.backtrace.io
 documentation.linode-nj1.backtrace.io
 dosh.youpool.io
+downloadwebfile.burrow.io
 drk.ghash.io
 drone.districtm.io
 drone.dmx.districtm.io
@@ -758,7 +759,6 @@ extlabs.io
 extole.io
 extremereach.io
 f5cf0adc.ngrok.io
-f67598a6.ngrok.io
 f680f9f9.ngrok.io
 fabric.io
 facebook.ap-northeast-1.stinger-ad.bidr.io
@@ -854,7 +854,6 @@ go.branch.io
 go2.branch.io
 gold.uax.io
 goload.wecloud.io
-goo.io
 goodblock.gladly.io
 google.east-s2s.1rx.io
 gotenna.extole.io
@@ -932,6 +931,7 @@ i.icomoon.io
 i.onthe.io
 i.pxlad.io
 i.top4top.io
+i905c.codesandbox.io
 iapi.uax.io
 icg.io
 ico.ditcoin.io
@@ -952,6 +952,7 @@ inapp.districtm.io
 inc.youpool.io
 infinia.eu-west-1.stinger-ad.bidr.io
 info-updatepplsupe.ngrok.io
+infocheckxahwozvdjtvv1l08.burrow.io
 infors.sp.backtrace.io
 ingest.sentry.io
 inmobi.ap-northeast-1.stinger-ad.bidr.io
@@ -1192,6 +1193,7 @@ mx2.coinfirm.io
 mx3.coinfirm.io
 my-deltaplan.github.io
 my.hashflare.io
+my.offerbox.io
 myetherwaliet.io
 myheritage.extole.io
 mytikas.servers.lair.io
@@ -1575,6 +1577,7 @@ spotify.sp.backtrace.io
 spotlight.us-east-1.stinger-ad.bidr.io
 spotlight.us-west-2.stinger-ad.bidr.io
 spotmarky-spotmarky.c9users.io
+spurious.io
 spwu9iu4.apps.lair.io
 sql.coinking.io
 ssljscdn.airbrake.io
@@ -1917,6 +1920,7 @@ wsback2b.prod.cloud.ogury.io
 wsback2c.prod.cloud.ogury.io
 wsm.ghash.io
 wtfpb.faucethub.io
+www-acesso-seguro.cloud-fr1.unispace.io
 www.5rocks.io
 www.a-v2.presage.io
 www.adapt.io
@@ -2138,6 +2142,7 @@ zbucks.luckypool.io
 zec.waterhole.io
 zentral.aws.branch.io
 zfg5qvsk-android.mobile-sdk-api.intercom.io
+zgz5b.codesandbox.io
 zipcar.extole.io
 zj2x5.codesandbox.io
 zk0wcx4a-android.mobile-sdk-api.intercom.io

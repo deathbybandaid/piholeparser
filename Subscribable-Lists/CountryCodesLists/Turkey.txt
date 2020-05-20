@@ -263,6 +263,7 @@ erca.com.tr
 ercanakin.com.tr
 erhanturkan.com.tr
 erkankaratas.com.tr
+erkantarhan.com.tr
 erollar.com.tr
 erolmusavirlik.com.tr
 ersanpetrol.com.tr
@@ -321,6 +322,7 @@ gramaltinstore.com.tr
 greentools.com.tr
 grifa.com.tr
 gtsteknoloji.com.tr
+gulab.com.tr
 gulegule.com.tr
 gulucuk.com.tr
 gumusevi.com.tr
@@ -414,8 +416,6 @@ liladecor.com.tr
 limanyapidenetim.com.tr
 logo.webservis.gen.tr
 longline.com.tr
-m.visa.com-req-1997613117.gulab.com.tr
-m.visa.com-req-9420173318.gulab.com.tr
 mahalliidareleregitimmerkezi.com.tr
 mahmutersan.com.tr
 malatyakayisipazari.com.tr
@@ -591,6 +591,7 @@ sineplus.com.tr
 sinerjias.com.tr
 sistemmedya.com.tr
 sit.com.tr
+smard.com.tr
 smartcare.com.tr
 smartoil.com.tr
 smartpos.com.tr
@@ -653,7 +654,6 @@ uzmanfren.com.tr
 valeriaguzellik.com.tr
 varimed.com.tr
 varyant.com.tr
-vhvsigorta.com.tr
 vipkon.com.tr
 vmedya.com.tr
 wampum.com.tr

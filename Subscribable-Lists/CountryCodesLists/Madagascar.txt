@@ -1,3 +1,4 @@
 allinone-mada.mg
+irinaraza.mg
 madagascar-voyages.mg
 nysekolintsika.mg

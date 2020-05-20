@@ -1,5 +1,6 @@
 acpe.edu.np
 akstha.com.np
+amda.org.np
 annapurnasaving.com.np
 arcoiris.com.np
 bhojendra.com.np
@@ -22,6 +23,7 @@ facebook.com.twostartraders.com.np
 frenzdigital.com.np
 futurestarnepal.edu.np
 glazeentertainment.com.np
+globaldriving.com.np
 graca.com.np
 hbsnepal.com.np
 hkafle.com.np
@@ -45,6 +47,7 @@ mstarmovies.com.np
 nakshetra.com.np
 namastekarnali.com.np
 ndri.org.np
+nepan.org.np
 neupane.com.np
 niceoverseas.com.np
 nirojthapa.com.np
