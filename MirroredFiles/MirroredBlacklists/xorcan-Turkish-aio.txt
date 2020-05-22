@@ -1,7 +1,7 @@
 # Title: nurcan Türk ad-list
 # Format: Hosts
-# Released: 18.05.2020
-# Entries: 8175
+# Released: 21.05.2020
+# Entries: 8177
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -43,6 +43,7 @@
 127.0.0.1 1xbahislvfw.com
 127.0.0.1 1xbahisnuul.com
 127.0.0.1 1xbeettuyelik.xyz
+127.0.0.1 1xbet-won.com
 127.0.0.1 1xbet.mobi
 127.0.0.1 1xbetcom.mobi
 127.0.0.1 1xbetlat.mobi
@@ -4024,6 +4025,7 @@
 127.0.0.1 www.1xbahislvfw.com
 127.0.0.1 www.1xbahisnuul.com
 127.0.0.1 www.1xbeettuyelik.xyz
+127.0.0.1 www.1xbet-won.com
 127.0.0.1 www.1xbet.mobi
 127.0.0.1 www.1xbetcom.mobi
 127.0.0.1 www.1xbetlat.mobi
