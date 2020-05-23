@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 2T9JDRlQzDOKnnwR0yovuA
-! Version: 202004040030
+! Checksum: Iin5XK6SyQ/YYOXsend/+w
+! Version: 202005230020
 ! Title: Liste AR
 ! Expires: 2 days
 ! Description: القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس، مكمِّلة للقائمة الفرنسية و الإنجليزية
@@ -1242,6 +1242,9 @@ $popup,domain=aflamsexnek.com|aflamyz.com|anime2001.com|arabincest.com|cima4up.c
 ||algomhuria.net.eg^*/adv/
 ||aliahmedali.com/almohasben.js
 ||aliqtisadi.ps^*/nbc_banner/
+||aljazair24.com/wp-content/uploads/2019/04/computing-4.jpg
+||aljazair24.com/wp-content/uploads/2019/04/sans-titre-1-16.png
+||aljazair24.com/wp-content/uploads/2019/09/djezzy_confort-unipole300-250ar.png
 ||aljazairalyoum.com/ooredoo/
 ||aljazairalyoum.com/wp-content/uploads/2017/05/ngaous1.jpg
 ||alkhabar.tv/pub/
@@ -2131,7 +2134,7 @@ sat-dz.com##a > img[width="460"][height="60"]
 arabs-up.com##a > img[width="585"][height="80"]
 afriqa-sat.com##a > img[width="624"][height="60"]
 al3abtab5.com##a > img[width="70"][height="35"]
-dzayerinfo.com,masrawysat.com##a > img[width="728"][height="90"]
+aljazair24.com,dzayerinfo.com,masrawysat.com##a > img[width="728"][height="90"]
 bernama.com##a[class^="banner_photo_"]
 m-4u.net##a[class^="hcne_ads"]
 ibda3gate.com##a[href*="/Direct Link.html"]
