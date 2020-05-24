@@ -186,6 +186,7 @@ gsem.ir
 gsmobile.ir
 hackerz.ir
 hadinic.ir
+hajizadehmelk.ir
 hamiyannews.ir
 herman-co.ir
 heyatealiakbar.ir
@@ -264,6 +265,7 @@ lampkaran.ir
 lgroup.ir
 lib.urd.ac.ir
 livecard.ir
+login.its.txstate.edu.tejaratdaran.ir
 lookbeauty.ir
 loostershop.ir
 ltms.estrazavi.ir
@@ -396,6 +398,7 @@ rameshco.ir
 rapidnet.ir
 rayan-sanat.ir
 rezaazizi.ir
+rf-hospital.ir
 roosta-mohammadieh.ir
 roozbehmd.ir
 roshanhesab.ir
@@ -524,4 +527,5 @@ yousefasgarpour.ir
 zack.ir
 zakatnews.ir
 zaresanatnovin.ir
+zigguratmarket.ir
 zist-konkur.ir

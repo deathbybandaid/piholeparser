@@ -2,6 +2,7 @@ alphonsor.rf.gd
 cashad2.xd.gd
 cliente74s8.rf.gd
 counter.gd
+covid19---shop.rf.gd
 covid19-vat.rf.gd
 dhl-france-service.fr.gd
 dogepool.rf.gd
@@ -12,6 +13,7 @@ is.gd
 itau-card-2020.rf.gd
 lasolutionfinance.fr.gd
 lnk.gd
+money-back-guarantee-ebay.rf.gd
 neo.rf.gd
 omf.gd
 pic.gd
@@ -26,6 +28,7 @@ ta.gd
 tl.gd
 tregdsryterger.rf.gd
 viagra.gd
+w327.rf.gd
 wva.gd
 www.counter.gd
 www.dogepool.rf.gd

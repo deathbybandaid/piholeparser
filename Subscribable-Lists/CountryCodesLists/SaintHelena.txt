@@ -21,6 +21,7 @@ mainid.sh
 minero-proxy-01.now.sh
 minero-proxy-02.now.sh
 minero-proxy-03.now.sh
+mkbnetbankar-hu.surge.sh
 mxcdn1.now.sh
 mxcdn2.now.sh
 npcdn1.now.sh

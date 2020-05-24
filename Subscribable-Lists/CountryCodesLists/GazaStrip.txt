@@ -14,5 +14,6 @@ init.ps
 isso.ps
 laptop.com.ps
 pioneer.ps
+rbedu.ps
 zane.ps
 zediah.ps

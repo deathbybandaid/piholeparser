@@ -201,5 +201,6 @@ www.top100.lt
 www.visits.lt
 xbox.visits.lt
 zaidimai-zaidimai.lt
+zaliaskaimas.lt
 zemindar.lt
 zemynapm.lt

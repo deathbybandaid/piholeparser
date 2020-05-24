@@ -46,6 +46,8 @@ links.boom.ge
 login.drawbrid.ge
 marketplace.drawbrid.ge
 misc.drawbrid.ge
+mnsglobal.ge
+nanostyle.ge
 newmetekhi.ge
 now.ge
 officetechnologies.ge

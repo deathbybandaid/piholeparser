@@ -445,6 +445,7 @@ babie.pl
 badusound.pl
 badv.wp.pl
 badznaptak.pl
+bajer.info.pl
 bajkowedekoracje.pl
 baktria.pl
 banery.acr.pl
@@ -474,6 +475,7 @@ bdsmanonse.com.pl
 bdt.com.pl
 be-wild.pl
 beamrzezba.pl
+bednarscy.pl
 beka.pl
 bellsandroses.pl
 beloinox.pl
@@ -789,6 +791,7 @@ demo.website.pl
 denaros.pl
 denoncocoon.pl
 dent-lux.com.pl
+dentalline.pl
 deviltorrents.pl
 dfyhnddsalog.7m.pl
 dgc.coinmine.pl
@@ -902,6 +905,7 @@ duzeformaty.com.pl
 dva.wp.pl
 dwmargo.pl
 dworekwdolinie.pl
+dworzecfakt.pl
 dworzecfakt.waw.pl
 dworzeconline24.com.pl
 dworzeconline24.waw.pl
@@ -921,6 +925,7 @@ e-dworzecporwaniepl.pl
 e-efaktygwalt.pl
 e-emonitoring24.pl
 e-eporwaniedziecka.pl
+e-faktgwalt24.pl
 e-faktyzaginiecie24.pl
 e-fohow.pl
 e-fotodtp.pl
@@ -977,6 +982,7 @@ eeu.pl
 eextrabingoseurodice.pl
 eextracasheurodice.pl
 eextratopeudice.pl
+efaktgwalt24.pl
 efaktygwalt.pl
 efaktygwalt.waw.pl
 eforsa.pl
@@ -1181,6 +1187,8 @@ facevook.5v.pl
 facezbook.y0.pl
 faithfull.kdm.pl
 fajnarzecz.pl
+faktgwalt24.pl
+faktgwalt24.waw.pl
 faktopedia.com.pl
 fakty24-stolica.pl
 faktycodziennie.com.pl
@@ -1751,6 +1759,9 @@ gtlv.hit.gemius.pl
 gttr.hit.gemius.pl
 guminska.pl
 gw.firesub.pl
+gwaltmonitoring.com.pl
+gwaltmonitoring.pl
+gwaltpolska.com.pl
 gwaltwiadomosc.com.pl
 gwaltwiadomosc.net.pl
 gwaltwiadomosc.pl
@@ -1841,6 +1852,7 @@ icorpadro.hit.gemius.pl
 ideadom.pl
 idg.hit.gemius.pl
 idm.hit.gemius.pl
+ifaktgwalt24.pl
 ifaktygwalt.com.pl
 ifaktyzaginiecie24.pl
 igoldenvivaeurodice.pl
@@ -2342,6 +2354,7 @@ max-host.pl
 maxfashion.pl
 maxmaximus.pl
 mazex.com.pl
+mazowieckie-info.pl
 mazowieckiecentrummedyczne.pl
 mazurfotografuje.pl
 mazury4x4.pl
@@ -2656,6 +2669,7 @@ newsgeek.pl
 newsgwalt.net.pl
 newsgwalt.pl
 newsgwalt24.pl
+newsgwalt24.waw.pl
 newsywiadomosci.5v.pl
 newuyuy2012.osa.pl
 newwave.orge.pl
@@ -2773,6 +2787,7 @@ okazjoteka.pl
 okiemkibica.pl
 okleinyvescom.pl
 okna-katowice.pl
+oknogrup.pl
 oknomat.com.pl
 okpbingocash.pl
 okpbingotime.pl

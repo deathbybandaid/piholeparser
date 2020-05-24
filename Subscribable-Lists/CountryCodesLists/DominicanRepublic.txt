@@ -26,6 +26,7 @@ po.do
 raquelguzman.com.do
 search.snap.do
 segurnet.com.do
+superviajes.do
 toner.com.do
 voce.com.do
 welcome.do

@@ -63,6 +63,8 @@ access-uid2455.mixh.jp
 access-uid26332.mixh.jp
 access.journal.mycom.co.jp
 access.news.mynavi.jp
+account-update.amazon.co.jp.access-uid26332.mixh.jp
+account-update.amazon.co.jp.apl.mixh.jp
 account.will.be.charged.when.the.merchant.processes.your.payment.rangdeindia.jp
 accountgoback.mixh.jp
 ack.mynv.jp
@@ -1438,6 +1440,7 @@ sunmarine.co.jp
 sunnystep.co.jp
 sunrefre.jp
 support.dolphin-browser.jp
+support10000.mixh.jp
 surugaya.co.jp
 suzuka-web333.akita.jp
 suzuto.co.jp

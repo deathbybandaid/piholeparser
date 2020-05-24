@@ -1,6 +1,7 @@
 blueoceans.rw
 brighteducationcenter.org.rw
 e-dbms.org.rw
+gec.rw
 ispg.ac.rw
 mail.auca.ac.rw
 mailhub.minaffet.gov.rw
