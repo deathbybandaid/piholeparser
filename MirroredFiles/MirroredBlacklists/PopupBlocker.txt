@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: NFAViFOgGTh5httDAc0iaA
+! Checksum: Sf7Dc/gOkZovi0/F03I5BQ
 ! Title: Polskie Filtry Elementów Irytujących
 ! Polish Annoyance Filters
 ! Codename: Annoyance - Main
 ! Description: Filtry ukrywające i blokujące wyskakujące okienka, widgety, newslettery, powiadomienia push, strzałki, otagowane linki wewnętrzne, które są nie na temat artykułów (np. link do pracy w Bydgoszczy w artykule o pogodzie) i inne drażniące elementy (Polskie Filtry RODO-Ciasteczkowe oryginalnie stworzone przez MajkiIT są już w nich zawarte).
 ! Required: Do poprawnego działania wymagana jest lista lub rozszerzenie I don't care about cookies!
-! Last modified: Sat, 23 May 2020, 12:01 UTC+02
-! Version: 2020.5.23.0
+! Last modified: Sun, 24 May 2020, 23:00 UTC+02
+! Version: 2020.5.24.2
 ! Expires: 2 days
 ! Najnowsza wersja zawsze na: https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters
 ! Zgłoszenia:
@@ -14,7 +14,7 @@
 !   GitHub => https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/deed)
 ! Copyright © 2020 Polish Filters Team
-! Aktualizacja: sob, 23 maj 2020, 12:01 UTC+02
+! Aktualizacja: nie, 24 maj 2020, 23:00 UTC+02
 !
 !
 ! Newslettery (nie popupy)
@@ -1888,7 +1888,7 @@ naekranie.pl###welcome_screen-content
 naszawyspa.com#?#.wpb_content_element.wpb_widgetised_column:-abp-has(#wpsb_email)
 nawado.pl##.fadein.wpoi-show.inc_optin_1.inc_optin.wpoi-animate.inc_opt_popup
 nawado.pl##.wpoi-show.fadein.wpoi-animate.wpoi-overlay-mask.undefined.inc_optin_1
-nawakacje.eu##.ays-fpl-modals
+nawakacje.eu,rytmynatury.pl##.ays-fpl-modals
 nawiedzone.pl,polskieszosy.pl,swiatfilmikow.pl##[data-title="Social Form - Popup #02"]
 nawozy.eu##.newsletterPopup
 nbsklep.pl##.sp-fancybox-wrap
@@ -4213,6 +4213,7 @@ pasazer.com##.fixed-search-tabs
 pep.pl##.work-offers
 piaseczno.eu###acp-toggle-toolbar
 pieknojestwtobie.com,zbiorowy.info##.more-stories
+pinterest.com#?#div[role="main"] > div[class] > div[class] > div[class][style^="box-shadow"]:-abp-has( > div > div > div > button > div:-abp-contains(/^Pobierz$/))
 pityver.pl##.widget-allergo
 pit.pl##.floater[id^="floater"]
 pkobp.pl###smartbanner-desktop
@@ -4461,6 +4462,7 @@ z-hotel.com###repuso_floating
 ||leaselink.pl/js/slide-button-shoper.js
 ||morele.unifiedfactory.com/widget/config.js
 ||niezbednik.mediraty.pl/img/widget_duzy_button_1.png
+||platformafinansowa.pl/assets/other/widget.png$third-party
 ||ppstatic.pl/assets/gratka/*/images/logoPromo.svg$image
 ||ppstatic.pl/assets/gratka/*/promoButton.css$stylesheet
 ||ppstatic.pl/p/css/boks_magazyn.css$domain=naszemiasto.pl
