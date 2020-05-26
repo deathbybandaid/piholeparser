@@ -444,6 +444,7 @@ mettek.com.tr
 mevzuat.com.tr
 mgt.dia.com.tr
 mikronet.com.tr
+milenyumpark.com.tr
 minisan.com.tr
 miplus.com.tr
 mirzalar.com.tr
@@ -607,6 +608,7 @@ spkkursu.gen.tr
 st.tmgrup.com.tr
 sta.com.tr
 stantonchase.com.tr
+starmak.com.tr
 staticweb.com.ferrokim.com.tr
 stationsoft.com.tr
 stats.posta.com.tr

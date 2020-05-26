@@ -14,5 +14,6 @@ somcast.so
 spielothek.so
 tabaarak.so
 thefappening.so
+u870797.nvpn.so
 www.bos.so
 www.thefappening.so

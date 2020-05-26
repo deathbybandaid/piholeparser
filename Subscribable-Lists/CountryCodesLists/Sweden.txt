@@ -331,7 +331,6 @@ kvismaren.se
 labelwater.se
 lailasaroma.se
 lakemedelsvarket.se
-lantligstil.se
 laredoutte.se
 laskonsult.se
 laulini.soclog.se
@@ -385,6 +384,7 @@ nagellackonline.se
 nanogroup.se
 nanotvatt.se
 nastanhemma.se
+natiq.se
 neonhair.se
 nesscorporation.se
 netkomp.se

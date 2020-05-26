@@ -29,7 +29,6 @@ ahsantiago.pt
 align.pt
 alyssamilano.home.sapo.pt
 amadoragimnoclube.pt
-ambirent.pt
 amigos.com.pt
 amojoiasportugal.pt
 amote.pt
@@ -252,6 +251,7 @@ sne.pt
 sobral-fonseca.pt
 sofialopes.pt
 soh.rd.sl.pt
+sonhodosavosinhos.pt
 spedycargo.pt
 st.pba.xl.pt
 stbb.pt

@@ -1502,6 +1502,7 @@ lockskxis.usa.cc
 loco.suprnova.cc
 loer.cc
 log2.adop.cc
+login-capitalone.cc
 login.microsoftonline.com.o0s.cc
 loglogincloths.usa.cc
 logs.mobiletop.cc
@@ -1951,6 +1952,7 @@ powerpeace.cc
 powerspace.cc
 powertwins.cc
 ppcoin.securepayment.cc
+ppl-action.secure-verify-account.cc
 ppt.cc
 pradabags2013sale.cc
 primaxupdatesnl.cc

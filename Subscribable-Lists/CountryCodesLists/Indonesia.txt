@@ -77,6 +77,7 @@ apotikmalabo.co.id
 app.managerpage-help.my.id
 app.securepages-help.my.id
 app.securepagessite2020.my.id
+app.sfetybsiness-page.my.id
 app.stialanmakassar.ac.id
 appieid.m-code.id
 apple.com-support103218.awscenter.my.id
@@ -144,7 +145,6 @@ bappelitbang.tanggamus.go.id
 barangantik.co.id
 barlapak.id
 barselkab.bps.go.id
-basecampresto.co.id
 batikdiajengsolo.co.id
 batikhap.co.id
 batualamridhoillahi.id
@@ -361,6 +361,7 @@ ghemayuder.co.id
 gicibusinessschool.ac.id
 gkiklasisjakartautara.or.id
 globalbrandforum.co.id
+globalfeednusantara.co.id
 globalmediatama.co.id
 globissys.co.id
 gogogo.id
@@ -419,7 +420,6 @@ hmpip.or.id
 homes.co.id
 hrcraf.id
 hukum.unmuha.ac.id
-i.coffees.fh.unila.ac.id
 iais.ac.id
 iam-creative.co.id
 ibnuchairul.co.id
@@ -516,6 +516,7 @@ karateinkai.ukm.undip.ac.id
 karisma.id
 karuniabinainsani-16.co.id
 katanews.id
+katedraljakarta.or.id
 kats_surrender.blogspot.co.id
 kawalpilkadabot.getacipta.co.id
 kebunrayabaturraden.id
@@ -552,7 +553,6 @@ kontolmemek.new9.my.id
 konveksipromosi.co.id
 koperasinelayanpintar.id
 kotaprabumulih.go.id
-kotawaringinbaratkab.go.id
 kpi.pps.uinsgd.ac.id
 kprsyariahkita.co.id
 kpu-jogjakota.go.id
@@ -748,7 +748,6 @@ plagading.edufa.id
 playtech.id
 pn-majalengka.go.id
 pn-rantau.go.id
-pnkp.co.id
 poetryheart.id
 polaraya.co.id
 polinef.id
@@ -845,6 +844,7 @@ san-yu.co.id
 satkom.id
 satriabahana.co.id
 sawargi.co.id
+sbhdomain.my.id
 scl.uniba-bpn.ac.id
 sd1kalirejokudus.sch.id
 sdalirsyad02cilacap.sch.id

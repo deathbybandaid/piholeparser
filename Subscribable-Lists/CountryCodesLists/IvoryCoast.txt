@@ -1,9 +1,11 @@
 ageroute.ci
 c2i.ci
 comete.ci
+fdecor.ci
 ivoiretechnocom.ci
 kimexfinances.ci
 leclaireur.ci
+mail.anare.ci
 mkconstruction.ci
 preventis.ci
 pub.rti.ci

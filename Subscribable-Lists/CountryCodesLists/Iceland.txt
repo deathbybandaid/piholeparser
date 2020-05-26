@@ -48,6 +48,7 @@ saemark.is
 safnis.is
 savior.mypen.is
 sg.kano.is
+shorturl.is
 static.bordar.is
 stratum.kano.is
 stratum2.kano.is

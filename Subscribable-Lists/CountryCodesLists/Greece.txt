@@ -73,6 +73,7 @@ arhodiko.gr
 aris-petroupolis.gr
 arpac-hellas.gr
 artalumin.gr
+asteriassa.gr
 asterix.gr
 autodreams.gr
 avrakougioumtzi.gr
@@ -428,6 +429,7 @@ tasiosgrigoris.gr
 tasosrepair.gr
 tavari.gr
 taverna-zisis.gr
+taxagent.gr
 taxi-dimos.gr
 technocom.gr
 technomould.gr
