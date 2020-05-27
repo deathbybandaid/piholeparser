@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Version: 202005230912
+! Version: 202005260532
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 23 May 2020 09:12 UTC
+! Last modified: 26 May 2020 05:32 UTC
 ! Expires: 4 days (update frequency)
-! Homepage: http://abpindo.blogspot.com/
+! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
 ! 
 ! Please report any unblocked adverts or problems
@@ -49,7 +49,6 @@
 ||afbcashidr.com^$popup,third-party
 ||ahcnxuepput.com^$popup
 ||aj1052.online^$popup
-||ajangiklangratis.com^$third-party
 ||alertpay.com^$third-party
 ||ampclicks.com^$popup,third-party
 ||anekaiklan.com^$third-party
@@ -90,15 +89,12 @@
 ||eclkmpbn.com^$third-party
 ||eclkmpsa.com^$third-party
 ||edomz.com^$third-party
-||elfirkelk.com^$script
 ||epfcfhtjxqd.com^$popup
 ||etoads.net^$popup
 ||etoads.net^$third-party
 ||flexterkita.com^$third-party
 ||fnkyyrgraizy.com^$popup
 ||frpiksdeygy.com^$popup
-||frpiksdeygy.com^$third-party
-||fryawlauk.com^$script
 ||furocmay.com^$popup
 ||groucign.com^$third-party
 ||groupiklan.com^$third-party
@@ -121,7 +117,6 @@
 ||iklanhemat.com^$third-party
 ||iklanhoki.com^$third-party
 ||iklanoke.com^$third-party
-||iklantanpadaftar.com^$third-party
 ||iklantelevisi.com^$third-party
 ||iklantext.com^$third-party
 ||iklantop.net^$third-party
@@ -166,7 +161,6 @@
 ||ojeergoy.com^
 ||olkrzytv.com^$popup
 ||olmsoneenh.info^$popup
-||olmsoneenh.info^$third-party
 ||onclkds.com^$popup,third-party
 ||openadserving.com^$third-party
 ||padssup.com^$third-party
@@ -213,7 +207,6 @@
 ||syndopop.com^$popup
 ||teliad.com^$third-party
 ||theclickers.net^$third-party
-||thesandonesof.info^$third-party
 ||tidnqztumpnk.com^$popup
 ||tinfunshe.club^$script
 ||tinggalklik.com^$third-party
@@ -237,7 +230,6 @@
 ||whjibbprhng.com^$popup,third-party
 ||window-close.cf^$popup,third-party
 ||window-close.ga^$popup,third-party
-||wizliebeg.com^$script
 ||www.iwtserve.com^$popup
 ||www.olenation.org^$popup
 ||yesads.com^$third-party
@@ -588,8 +580,11 @@ $xmlhttprequest,domain=mangacanblog.com
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ||zonawibu.me/data/ngentod.js$script,domain=zonawibu.cc
+! *** abpindo:src/advert/specific_adblockplus.txt ***
+! Snippet filters for Adblock Plus 3.3 (https://help.eyeo.com/adblockplus/snippet-filters-tutorial)
+bagas31.info#$#abort-on-property-write atob
 ! *** abpindo:src/advert/specific_ublock.txt ***
-! Filters optimized for uBlock (https://github.com/uBlockOrigin/uAssets)
+! Scriptlets filters for uBlock (https://github.com/gorhill/uBlock/wiki/Resources-Library)
 1idsly.com##+js(nano-setInterval-booster)
 ac-mo.com,higud.com##+js(window.open-defuser)
 ad4msan.com##+js(abort-on-property-read, anOptions)
@@ -607,6 +602,7 @@ animersindo.net##+js(abort-current-inline-script, Math, zfgloaded)
 anitoki.com##+js(abort-on-property-read, Base64.encode)
 anjay.info##+js(nano-setInterval-booster)
 anoboy.us##+js(abort-on-property-write, _pop)
+awnime.net##+js(window.open-defuser)
 awsubs.tv##+js(abort-current-inline-script, Math, zfgloaded)
 awsubs.tv##+js(abort-on-property-read, popjs)
 bagas31.info##+js(abort-current-inline-script, atob, decodeURIComponent)
@@ -615,6 +611,7 @@ blackavelic.com##+js(addEventListener-defuser, load, 2000)
 blog.taryo.net##+js(nobab)
 blogrp.me##+js(abort-on-property-read, app_vars.force_disable_adblock)
 blogrp.me,ceklink.co,machineworlds.me,shrinkme.io##+js(abort-on-property-read, app_vars.force_disable_adblock)
+bolasport.com##+js(acis, document.addEventListener, iframe-network)
 ceklink.co##+js(abort-on-property-read, tampilkanUrl)
 cepmuzikindir.me##+js(addEventListener-defuser, load, onload)
 cinemamkv.net##+js(abort-on-property-read, go_get_url)
@@ -649,6 +646,8 @@ justjared.com##+js(abort-on-property-read, $getWin)
 kabarviral.blog##+js(noeval)
 kabarviral.blog##+js(window.open-defuser)
 kawanfilm21.org##+js(abort-current-inline-script, adtival_base64_encode)
+kawanfilm21.org#@#+js(abort-current-inline-script, adtival_base64_encode)
+kawanfilm21.pro##+js(abort-on-property-read, $.magnificPopup.open)
 komikcast.com##+js(abort-on-property-read, document.onclick)
 komikcast.com##+js(addEventListener-defuser, load, onload)
 komikindo.web.id##+js(addEventListener-defuser)
@@ -661,6 +660,7 @@ kompasiana.com##+js(abort-current-inline-script, document.addEventListener, ifra
 kompasiana.com##+js(abort-current-inline-script, setTimeout, iframeTestTimeMS)
 kompasiana.com##+js(abort-on-property-read, $getWin)
 kompasiana.com##+js(abort-on-property-read, initAdserver)
+kurina.vip##+js(window.open-defuser)
 kuyhaa-me.com##+js(abort-on-property-read, protected_links)
 layarkeren.org##+js(abort-on-property-read, $.magnificPopup.open)
 lebahmovie.com##+js(abort-on-property-read, $.magnificPopup.open)
@@ -685,6 +685,7 @@ merdekaid.online##+js(addEventListener-defuser, load, 2000)
 merdekaid.online##+js(nano-setInterval-booster)
 movienear.me##+js(abort-on-property-read, app_vars.force_disable_adblock)
 movienear.me##+js(window.open-defuser)
+movieon21.biz##+js(window.open-defuser)
 muhammadyoga.me##+js(addEventListener-defuser, load, onload)
 muhammadyoga.me##+js(nano-setInterval-booster)
 naturalhealthy.xyz##+js(nano-setInterval-booster)
@@ -699,6 +700,7 @@ njiir.com##+js(set-constant, safelink.adblock, false)
 nonton33.tech##+js(abort-on-property-read, $.magnificPopup.open)
 nontonfilmdrama.*##+js(abort-current-inline-script, $, popup)
 nontonsub.cc##+js(window.open-defuser)
+nontonsub.top##+js(window.open-defuser)
 obengplus.com##+js(nobab)
 oko.sh##+js(abort-on-property-read)
 oploverz.in##+js(abort-current-inline-script, Object.defineProperty, vocabulary)
@@ -719,6 +721,7 @@ sharetvr.my.id##+js(nano-setInterval-booster)
 shrink.vip##+js(abort-on-property-read, app_vars.force_disable_adblock)
 shrtfly.net##+js(abort-on-property-read, tabUnder)
 smallencode.com##+js(abort-on-property-write, _pop)
+sobatkeren.net##+js(window.open-defuser)
 streamxxi.com##+js(nobab)
 suarankri.me##+js(addEventListener-defuser, load, onload)
 suarankri.me##+js(nano-setInterval-booster)
@@ -733,13 +736,6 @@ updatetribun.org##+js(addEventListener-defuser, load, onload)
 updatetribun.org##+js(nano-setInterval-booster)
 wikitrik.com##+js(nano-setInterval-booster)
 yusepjaelani.blogspot.com##+js(no-setTimeout-if, Debug)
-movieon21.biz##+js(window.open-defuser)
-bolasport.com##+js(acis, document.addEventListener, iframe-network)
-sobatkeren.net##+js(window.open-defuser)
-nontonsub.top##+js(window.open-defuser)
-kurina.vip##+js(window.open-defuser)
-awnime.net##+js(window.open-defuser)
-kawanfilm21.org#@#+js(abort-current-inline-script, adtival_base64_encode)
 ! *** abpindo:src/advert/whitelist.txt ***
 @@.gif#/*/ad/$image,domain=ljutkeunvpn.blogspot.com|www.mangacanblog.com
 @@.jpg#$image,domain=komikcast.com
@@ -860,6 +856,7 @@ qqcinema21.com#@#.headads
 short.awsubs.co#@#.iklan
 sporcle.com#@#.remodal
 woof.tube#@#.adsbox
+www.eramuslim.com#@#.adsbygoogle
 ! ----------------------- element hiding rules ------------------------!
 ! *** abpindo:src/elementhide/general_hide.txt ***
 ###Box-Banner-ads
@@ -1332,7 +1329,7 @@ lk21.host##.ads_2l
 gridoto.com##.ads__boxr
 grid.id##.ads_sky
 www.eramuslim.com##.adsbyadop
-apkmod.id,hightech.web.id,nama.web.id,novelgo.id,paraedu.id,radarlombok.co.id,www.eramuslim.com##.adsbygoogle
+apkmod.id,hightech.web.id,nama.web.id,novelgo.id,paraedu.id,radarlombok.co.id##.adsbygoogle
 www.pontianakpost.co.id##.adsense
 www.ganol.si##.adsincenter
 kshowid.com##.adssingle
@@ -1565,7 +1562,6 @@ klikseru.com##.textwidget img[width="300"][height="250"]
 utusan.com.my##.tonal__standfirst
 dewabioskop21.org,idxxx1.com,lapar.com,nontonitu.com##.top-banner
 xx1.me##.top-bnner.lazy
-kazefuri.web.id##.top_index_block_adnow
 bioskopxxi.net,sinemakaca.com##.ujipopup
 128.199.102.111##.under-player-ad-mobile
 128.199.232.232##.video-archive-ad
@@ -2542,7 +2538,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /togellounge.$image,third-party
 /togeltoto.$image,third-party
 /toppoker789.$image,third-party
-/totobet.$,image
+/totobet.$image
 /totohoki.$image,third-party
 /totojek.$image,third-party
 /totokita.$image,third-party
@@ -4870,6 +4866,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##.lazyloaded.dominowalet
 ##.lazyloaded.happypoker
 ##.togel
+##[href$="/exsapoker"]
 ##[href^="http://1001win.fun"]
 ##[href^="http://99rolet.net"]
 ##[href^="http://aduqq55."]
@@ -4891,7 +4888,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##[href^="http://toto228.com"]
 ##[href^="http://toyoqq88.net"]
 ##[href^="http://www.6qpoker99c.com"]
-##[href^="http://www.audisipoker88e.com]
+##[href^="http://www.audisipoker88e.com"]
 ##[href^="http://www.hokicashwin.com"]
 ##[href^="http://www.king88hoki.com"]
 ##[href^="http://www.kokipoker.net"]
@@ -8151,7 +8148,6 @@ zonabola.*##a[href^="http://bit.ly/"]
 /obobet-$image
 /olopoker-$image
 /opuspoker-$image
-/oriqq728x90.gif|$image
 /pemainkasino-$image
 /pendekarqq-$image
 /pkutama2-$image

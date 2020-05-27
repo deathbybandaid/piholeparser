@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Japanese Site Adblock Filter ver 2
-! Homepage: http://qme.mydns.jp/adblock.html
+! Homepage: https://qme.mydns.jp/adblock.html
 ! Expires: 7 days
 
 !---------------- BLOCK : ANALYTICS, AREA TARGETING
@@ -64,8 +64,10 @@
 ||silveregg.net^
 ||sitesnapi.com^
 ||sitetracker.jp^$third-party
+||scorecardresearch.com^
 ||swcs.jp^
 ||tacoda.net^
+||tags.bkrtx.com^
 ||trackword.
 ||travelsmarter.net^
 ||treasuredata.com^
@@ -107,6 +109,7 @@
 ||rubiconproject.com^
 ||serving-sys.com^
 ||socdm.com^
+||yjtag.jp^
 !----
 ||2mdn.net^
 ||a-cast.jp^
@@ -176,6 +179,7 @@
 ||iogous.com^
 ||isboost.co.jp^$third-party
 ||j-a-net.jp^$third-party
+||js.mediams.mb.softbank.jp^$third-party
 ||ladsp.com^
 ||link-a.net^$third-party
 ||liveads.jp^$third-party
@@ -239,7 +243,7 @@
 ##a[href*="rd.ane.yahoo.co.jp/rd"]
 ##a[href*="valuecommerce.com/"]
 !----
-/[^\w%]ad(-v|[\d]+|4u|s[\dv]?)?\W/$domain=~ad.jp
+/[^\w%]ad(-v|[\d]+|4u|s[\dv]?)?[^\w]/$domain=~ad.jp
 ^affiliate
 ^click
 
@@ -259,6 +263,7 @@
 ||share.gree.jp/share
 ||b.st-hatena.com/js/bookmark_button
 ||b.st-hatena.com/images/entry-button/
+||line-scdn.net^$domain=~line.me
 ||line-scdn.net/r/web/social-plugin/js/widget/
 ||timeline.line.me/social-plugin-widget/
 ||static.mixi.jp/js/share.js
@@ -286,6 +291,7 @@
 ||gigya.com^
 ||instagram.com^$third-party
 ||instagram.com/logging_client_events
+||intljs.rmtag.com^
 ||livedoor.jp^$~stylesheet,third-party
 ||liverail.com^
 ||minimini-t.com^$third-party
@@ -297,9 +303,11 @@
 ||weblio.jp^$third-party
 ||webparts.newsmart.jp^
 ||widget.cx^
+jquery-migrate
 
 !---------------- BLOCK : API
 ||krxd.net^
+||mouseflow.com^
 ||onesignal.com^
 
 !---------------- BLOCK : etc.
@@ -333,8 +341,9 @@ biglobe.ne.jp##div[class*="-ad-"]
 @@||google.co.jp/url?$~third-party
 @@|blob:https://www.google.
 ||google.*/complete/search$script
+||google.*/js/platform.js
 ||google.*/*_204^$image
-||googletagmanager.com^
+!||googletagmanager.com^
 ||googletagservices.com^
 ||googlesyndication.
 ||invitemedia.com^
@@ -374,18 +383,27 @@ nhk.or.jp##*[class*="share"]
 @@||nicodic.jp/e/__nicopedia_api_*_AD_$domain=nicovideo.jp
 @@||res.nimg.jp/js/$script
 @@|blob:http://live2.nicovideo.jp/
+nicovideo.jp##aside[class*="ad"]
+nicovideo.jp##aside[class*="billboard-banner"]
 
 !---------------- CUSTOM : Rakuten
+@@||rakuten.co.jp/*ad$script
+@@||static.card.jp.rakuten-static.com/r-enavi/js/$script,domain=www.rakuten-card.co.jp
 ||rakuten.co.jp^$domain=~infoseek.co.jp|~rakuten.co.jp|~rakuten.ne.jp|~rakuten-card.co.jp
-||bookmark.rakuten.^$domain=~my.bookmark.rakuten.co.jp
+||bookmark.rakuten.$domain=~my.bookmark.rakuten.co.jp
+||books.rakuten.co.jp/pzd_contents/tmpl/e-book/js/topPc.bundle.min.js
 ||etool.rakuten.
+||event.rakuten.$third-party
 ||ias.rakuten.
 ||pointmail.rakuten.co.jp/tie-up/common/special_iframe_coupon.html
 ||pzd.rakuten.
+||rat.rakuten.
 ||rd.rakuten.
 ||recommend.rakuten.
 ||rt.rakuten.
+||r.r10s.jp^*/sidepanel/$domain=www.rakuten.co.jp
 ||sdashiato.
+||www.rakuten.co.jp/com/rat/plugin/external/
 pointmail.rakuten.co.jp##div#special_iframe_couponArea
 
 !---------------- CUSTOM : Twitter
@@ -394,6 +412,7 @@ pointmail.rakuten.co.jp##div#special_iframe_couponArea
 
 !---------------- CUSTOM : Yahoo! Japan
 @@||yimg.jp^$stylesheet
+@@||api.mapbox.com^$image
 ||ai.yimg.jp^
 ||b.yahoo.
 ||bc.geocities.yahoo.
@@ -410,12 +429,17 @@ yahoo.co.jp##div#adcm
 yahoo.co.jp##div#ult
 
 !---------------- CUSTOM : etc.
+@@||access.line.me/
+@@||adobedtm.com/$domain=nhk.or.jp|radiko.jp
 ||exblog.jp/js/
-||nikkei.com/$script
+||googletagmanager.com^$domain=47news.jp|jiji.com|mag2.com
+||mag2.com/js/swf.js
+||map.goo.ne.jp/api/nttdata_getadstr.php
+||map.goo.ne.jp/glbs/ams900.goo.ne.jp/xml_2016.php
+!||nikkei.com/$script
 afpbb.com##aside[class="bnr"]
 cnn.co.jp##div[id^="ad-"]
 asahi.com##div[class="AdMod"]
 jiji.com##div[class="ArticleAdSide"]
 sankei.com##*[id^="ad"]
-shimotsuke.co.jp##*[id*="Kokoku"]
 tenki.jp##*[class*="-ad-"]

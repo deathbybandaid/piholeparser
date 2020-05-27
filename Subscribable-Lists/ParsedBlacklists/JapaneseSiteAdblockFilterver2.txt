@@ -62,7 +62,6 @@ genieesspv.jp
 gigya.com
 go-mpulse.net
 googleadservices.com
-googletagmanager.com
 googletagservices.com
 gsspat.jp
 gsspcln.jp
@@ -73,6 +72,7 @@ href.asia
 i2ad.jp
 im-apps.net
 interactive-circle.jp
+intljs.rmtag.com
 invitemedia.com
 iogous.com
 japanmetrix.jp
@@ -91,6 +91,7 @@ mathtag.com
 medi-8.net
 mojidepa.com
 moras.jp
+mouseflow.com
 mtburn.com
 navicast.jp
 netmng.com
@@ -111,6 +112,7 @@ revsci.net
 rfihub.com
 rtoaster.jp
 rubiconproject.com
+scorecardresearch.com
 serving-sys.com
 silveregg.net
 sitesnapi.com
@@ -123,6 +125,7 @@ swcs.jp
 sy.ameblo.jp
 taboolasyndication.com
 tacoda.net
+tags.bkrtx.com
 tamgrt.com
 team-rec.jp
 tgknt.com
@@ -146,6 +149,7 @@ xlisting.jp
 yads.c.yimg.jp
 yads.yahoo.co.jp
 yieldmanager.com
+yjtag.jp
 zenoviaexchange.com
 zero-zone.jp
 zucks.net
