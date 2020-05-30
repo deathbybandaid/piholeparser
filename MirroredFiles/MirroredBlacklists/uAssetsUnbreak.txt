@@ -3638,3 +3638,10 @@ order-order.com#@#.tag-sponsored
 
 ! https://github.com/NanoMeow/QuickReports/issues/3970
 ||cdn.parsely.com/keys/nfl.com/p.js$script,important,redirect=noop.js,domain=nfl.com
+
+! https://forums.lanik.us/viewtopic.php?p=154888#p154888
+*$popup,domain=uptobox.com,badfilter
+
+! https://suicidegirlsfree.com/show/4437721--milliesummers--call-me-a-safe-bet
+.com/ad/$~third-party,domain=~blogs.technet.microsoft.com|~channel4.com|~cspace.com|~linkedin.com|~mediaplex.com|~namemc.com,badfilter
+.com/ad/$~third-party,domain=~blogs.technet.microsoft.com|~channel4.com|~cspace.com|~linkedin.com|~mediaplex.com|~namemc.com|~suicidegirlsfree.com

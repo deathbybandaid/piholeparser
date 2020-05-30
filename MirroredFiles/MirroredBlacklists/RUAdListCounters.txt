@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: PkhSAYlJEo3Z6b/6EGYo/g
-! Version: 202005290050
+! Checksum: Brnbux8n6ulsQKdQcYJYiA
+! Version: 202005300030
 ! Title: RU AdList: Counters
-! Last modified: 29 May 2020 00:50 UTC
+! Last modified: 30 May 2020 00:30 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -416,7 +416,7 @@ _pagespeed_beacon?
 ||feedburner.com/~r/
 ||feedjit.com^$third-party
 ||feedsportal.com/c/
-||flagcounter.com^$third-party
+||flagcounter.com^$third-party,domain=~websdr.space
 ||fleshlight-russia.com/fbl.gif
 ||flocktory.com^$third-party
 ||fortrader.ru^$third-party,image
@@ -500,6 +500,7 @@ _pagespeed_beacon?
 ||intercounter.website^$third-party
 ||interzet.ru/log.php?
 ||io.userlook.com^$third-party
+||ip-api.com^$third-party
 ||ip2phrase.com^$third-party
 ||ipcounter.de^$third-party
 ||ipify.org^$third-party
@@ -520,6 +521,7 @@ _pagespeed_beacon?
 ||krutilka.price.ru/count_
 ||kz24.net/top/?
 ||l.ivi.ru/logger/px/
+||l2.io/ip.js
 ||libo.ru/rat/img/
 ||lifestats.ru^$third-party
 ||livejournal.com^*/pagestats/
