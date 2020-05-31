@@ -12,7 +12,6 @@ bgsoft.mk
 bibliskozdruzenie.mk
 billboards.marketing365.mk
 creativepool.mk
-diendicure.mk
 dimitarvlahov.edu.mk
 e-dom.mk
 ecampus.mk
@@ -43,7 +42,6 @@ mk.marketing365.mk
 mr.com.mk
 naps.com.mk
 ndm.org.mk
-newpages.com.mk
 newsletter.marketing365.mk
 newstar.com.mk
 nikelinoxgroup.com.mk

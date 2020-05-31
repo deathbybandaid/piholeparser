@@ -66,6 +66,7 @@
 961236--verbraucher-kenntnis-benutzer.sicherheitssystem-sicher.cf
 986731-germany-prob-mitteilung-benutzer.sicherheitsvorbeugung-hilfeservice.cf
 99proxy.cf
+aapfbbseguro.com.br-aapf-login.cf
 acccountpage1222.confrimsuportfanpage9888.cf
 access-recovery-pp-de.cf
 account-restro-info.cf
@@ -84,6 +85,7 @@ afkjabfk-sohw.cf
 agoock.cf
 aifetxe.cf
 airtickets.cf
+ajustconta.cf
 akredit.cf
 alexyer.cf
 alspi.cf
@@ -127,6 +129,7 @@ auth-secur30-chasmainid000391005.cf
 authentverificationauth-incoming-paypal-payment-mbxgbmd20bm.cf
 authorization-de.cf
 autoback-71.cf
+avsecure.avsecure.cf
 avtzofv.cf
 awerjstfhgd.cf
 awiredrive.fliatsracheers.cf
@@ -307,6 +310,7 @@ ejasekej.cf
 eleletieleleparthard.cf
 eljyiej.cf
 email-update00.cf
+emailaccount-updates.cf
 en-view-storeitemwebh-webh-id93278687616.cf
 en-view-storeitemwebh-webh-id93278687618.cf
 englishteachingcourse.cf
@@ -320,6 +324,7 @@ explorer.crypto9coin.cf
 eyzpiel.cf
 f.pooling.cf
 facebook-homes.cf
+facebook-log.cf
 facebook-pelangi.cf
 facebook-r.cf
 facebook.com.astikya.cf
@@ -391,7 +396,6 @@ hacktcg.cf
 hagels-71.cf
 hajnkuqkamaca.cf
 hangtieudung.cf
-hanl.cf
 hbperfumes.cf
 help-bofa-online-restore.cf
 help-ijuuuuy.cf
@@ -443,6 +447,7 @@ jkypevx.cf
 jmxjstn.cf
 jmxmetal-com.cf
 joelws.cf
+joingrubanaksma18plusviral.login-wa18.cf
 joinngrupp18.vvipx08.cf
 josjxdv.cf
 jozaloxibi.cf
@@ -560,7 +565,9 @@ moviesex.cf
 moviezbonkerssk.cf
 msdfxtk.cf
 mulla.cf
+multitraction.cf
 munnabhai.cf
+my.account.instagram.com.198663092739365.cf
 mymatchpictures.musictrup.cf
 myobi.cf
 mytestwp.cf
@@ -569,6 +576,7 @@ nafilvima.cf
 nailart.cf
 nakankorunamoo.cf
 nemelg.cf
+nepossupport.cf
 networkrx-shop365.cf
 networkrxbuy724.cf
 networkrxfuture365.cf
@@ -577,6 +585,7 @@ newdebiandebian.cf
 nhovlrx.cf
 niceforyou.cf
 nicemice.cf
+nipolikernipo.cf
 njgnbke.cf
 njwb.cf
 noda-8879.cf
@@ -628,6 +637,7 @@ patientsmedicalpills.cf
 paude-daude.cf
 payanoix.cf
 payments.xn--gogle-jye.cf
+paypal-account-verify.cf
 paypal-reseter.cf
 paypal-security-service.cf
 paypal-security-session.cf
@@ -688,6 +698,7 @@ rakhkghaseto.cf
 ratkoaokhwbm.cf
 reactivation.cf
 realdmnalltoaccss.cf
+realestate-page-7854000004376323468.cf
 recipesexciting.cf
 recoveryunispot6.cf
 recytechs.cf
@@ -780,6 +791,7 @@ support-account123.cf
 support.instagram.com.id-198663092739365.cf
 supportaccounts.cf
 supporte32-here.fanpagge-confrim.cf
+supportpages22211.cf
 supports-confrimesu22.cf
 suspendaccount.cf
 suuporrt53.confrim-fanpage111.cf
@@ -847,6 +859,7 @@ verification.prima2.cf
 vidious5.cf
 vietjetair.cf
 violationpage2017.cf
+vipno.cf
 viruscheckmake.cf
 vivalingard.cf
 vjgnxuo.cf
@@ -1016,6 +1029,7 @@ yspihdy.cf
 ytewporgdy.cf
 yxchczdy.cf
 yzftkgr.cf
+zacks.cf
 zagrebstoreiz.cf
 zanjhrhhyh.cf
 zarpac-com.cf

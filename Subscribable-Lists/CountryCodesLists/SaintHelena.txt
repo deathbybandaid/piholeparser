@@ -37,6 +37,7 @@ refunding-server.wap.sh
 rinat.sh
 rs.sh
 s.sh
+secretive-invention.surge.sh
 sugilicali.zbel50.now.sh
 sxcdn02.now.sh
 sxcdn03.now.sh
@@ -76,3 +77,4 @@ www.sxcdn3.now.sh
 www.sxcdn4.now.sh
 www.sxcdn6.now.sh
 www.turnsocial.now.sh
+xfinitly-r6aeb171o.now.sh

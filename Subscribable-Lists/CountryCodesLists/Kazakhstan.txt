@@ -188,6 +188,7 @@ pksk-zarya.kz
 portal.100am100.kz
 preapprovedloansoffline.kz
 preapprovedloansonline.kz
+premexpert.kz
 premiertravel.kz
 prizma.kz
 profi-center.kz

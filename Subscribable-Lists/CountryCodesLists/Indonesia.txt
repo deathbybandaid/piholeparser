@@ -26,7 +26,6 @@ ads.promo.web.id
 ads.xl.co.id
 adsrv.adplus.co.id
 adstars.co.id
-adventkjkt.or.id
 aerocom.co.id
 afrikocell.co.id
 agenkoranku.id
@@ -74,6 +73,7 @@ anugrahabadi.co.id
 anzshoesoriginal.co.id
 aphien.id
 apotikmalabo.co.id
+app-support-pages-2020.my.id
 app.managerpage-help.my.id
 app.securepages-help.my.id
 app.securepagessite2020.my.id
@@ -145,6 +145,7 @@ bappelitbang.tanggamus.go.id
 barangantik.co.id
 barlapak.id
 barselkab.bps.go.id
+basecampresto.co.id
 batikdiajengsolo.co.id
 batikhap.co.id
 batualamridhoillahi.id
@@ -204,7 +205,6 @@ bptpm.sragenkab.go.id
 brandingcity.co.id
 brigifraider9-tniad.mil.id
 btik.web.id
-btsa.co.id
 bukhari.or.id
 bursatiket.id
 busainoac.co.id
@@ -301,7 +301,6 @@ dkwm.suwan.co.id
 docsign.libra.id
 domisothi.id
 downloadlagu.or.id
-dpparki.or.id
 dpupr.lomboktengahkab.go.id
 dpw.co.id
 driand.web.id
@@ -361,7 +360,6 @@ ghemayuder.co.id
 gicibusinessschool.ac.id
 gkiklasisjakartautara.or.id
 globalbrandforum.co.id
-globalfeednusantara.co.id
 globalmediatama.co.id
 globissys.co.id
 gogogo.id
@@ -420,6 +418,7 @@ hmpip.or.id
 homes.co.id
 hrcraf.id
 hukum.unmuha.ac.id
+i.coffees.fh.unila.ac.id
 iais.ac.id
 iam-creative.co.id
 ibnuchairul.co.id
@@ -516,7 +515,6 @@ karateinkai.ukm.undip.ac.id
 karisma.id
 karuniabinainsani-16.co.id
 katanews.id
-katedraljakarta.or.id
 kats_surrender.blogspot.co.id
 kawalpilkadabot.getacipta.co.id
 kebunrayabaturraden.id
@@ -608,6 +606,7 @@ man2jakarta.sch.id
 manage.mitrakreasi.co.id
 mandiriiiicellid.masterweb.id
 mandirijayapersada.co.id
+mandirimco.co.id
 manmagelang.sch.id
 manreok.sch.id
 mapena.ac.id
@@ -627,7 +626,6 @@ matatinta.co.id
 matchpixvxz.coffeelajang.id
 mature2porn.blogspot.co.id
 maya-ad.co.id
-media.bigpond-telstra.com.au.pa-pangkalanbalai.go.id
 meidianahijab.id
 member.smpasbsolo.sch.id
 mentariilmukarawang.sch.id
@@ -712,6 +710,7 @@ pandansari120.id
 panjebarsemangat.co.id
 paparazzi-filth-exposed-celebs.blogspot.co.id
 parameswari.co.id
+partiicipatioonadmin.my.id
 pasarseluler.co.id
 pascasarjana.uniba-bpn.ac.id
 pauditgerbang.sch.id
@@ -864,7 +863,6 @@ sdnkeranggantangsel.sch.id
 sdnpakis5surabaya.sch.id
 sdnpudakpayung02semarang.sch.id
 sdnrambaykulon.sch.id
-sdnunurulquranbanyuwangi.sch.id
 securelogin.verifica.portaletitolari.poste.it.a7378449.multitrendindo.id
 securfb20.my.id
 securityupgrade.sumitro.my.id
@@ -981,6 +979,7 @@ superherbal.id
 support.apple.com.br-my.id
 suryaselindo.co.id
 suryo1234store.belihosting.co.id
+swpofficial.co.id
 syahrayavectorpestcontrol.co.id
 ta-menengah.lab.gunadarma.ac.id
 talent.ismartv.id
@@ -1013,6 +1012,7 @@ tiwulgatotarjuna.co.id
 tkislamelsyifa.co.id
 tkjarea51.web.id
 tksurabaya2.id
+tlmi.co.id
 tlni.co.id
 tmlewin.id
 tokodirin.co.id

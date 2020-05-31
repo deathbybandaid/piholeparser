@@ -172,7 +172,6 @@ tarpgeliu.lt
 teise.lt
 tempinfo.96.lt
 terrasport.lt
-testnpost.nsoft.lt
 thirdparty.bnc.lt
 tingiunoriu.lt
 toniteradio.lt
@@ -185,7 +184,6 @@ tradecharm.lt
 travelmaster.lt
 triusiai.lt
 v2.ads3.ipon.lt
-vaikoateitis.lt
 valdis.puslapiai.lt
 vipalt.lt
 visits.lt
@@ -203,6 +201,5 @@ www.top100.lt
 www.visits.lt
 xbox.visits.lt
 zaidimai-zaidimai.lt
-zaliaskaimas.lt
 zemindar.lt
 zemynapm.lt

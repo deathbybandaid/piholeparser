@@ -118,6 +118,7 @@ adkontekst.pl
 adlon24.pl
 adlt.hit.gemius.pl
 adlv.hit.gemius.pl
+admassive-group.pl
 admin-admin.admin-admin.progresspzoo.pl
 admwarszawa.pl
 adnet.hit.gemius.pl
@@ -445,7 +446,6 @@ babie.pl
 badusound.pl
 badv.wp.pl
 badznaptak.pl
-bajer.info.pl
 bajkowedekoracje.pl
 baktria.pl
 banery.acr.pl
@@ -760,7 +760,6 @@ dash-as.coinmine.pl
 dash-eu.coinmine.pl
 dash.coinmine.pl
 datasmierci.pl
-datempus.pl
 davidcandy.website.pl
 dbl.coinmine.pl
 dc.sabela.com.pl
@@ -847,6 +846,7 @@ domyzbali-roztocze.pl
 dont.pl
 dopenews.pl
 doradcazabrze.pl
+doradztwo-kredytowe.pl
 doregeneracji.pl
 dot.wp.pl
 dotacja-dolnoslaskie.pl
@@ -873,7 +873,6 @@ downloaded.adeforsa.pl
 downloadfiles.pl
 downloaduj.pl
 dpcdn-s06.pl
-dpdpolska.pl
 dps-nysa.pl
 dpsdomnadziei.pl
 dpsjonkowo.pl
@@ -932,6 +931,7 @@ e-faktyzaginiecie24.pl
 e-fohow.pl
 e-fotodtp.pl
 e-gwaltwiadomosc.pl
+e-ifaktygwalt.pl
 e-kasa.w8w.pl
 e-kinoman.pl
 e-kwiaciarz.pl
@@ -1058,6 +1058,7 @@ emerge.imstore.pl
 emisja.adsearch.pl
 emisja.contentstream.pl
 emisjawidgeet.onet.pl
+emonitoring.poczta-polska2.pl
 emonitoring24.net.pl
 empe3net7.neostrada.pl
 emptyus.trixy.pl
@@ -1070,6 +1071,7 @@ energetix.com.pl
 energosp.idl.pl
 energyplanet.pl
 energyway.com.pl
+enewsgwalt24.pl
 englishforyou1.home.pl
 enicebetdaylife.pl
 enicecashvipsp.pl
@@ -1284,7 +1286,6 @@ flash.studiomultimedia.pl
 flewer.pl
 flinsut.pl
 fmg.pl
-foliar.pl
 fon-gsm.pl
 food-safety.pl
 forkids.pl
@@ -1471,6 +1472,7 @@ glebokiegardla.pl
 gloryfactory.pl
 glosowanie.ujm.pl
 glx.coinmine.pl
+gminasiedlce.home.pl
 gmviagra.pl
 gngginininlook.7m.pl
 go.kbsolution.home.pl
@@ -1763,7 +1765,10 @@ gtlv.hit.gemius.pl
 gttr.hit.gemius.pl
 guminska.pl
 gw.firesub.pl
+gwaltmonitoring.com.pl
+gwaltmonitoring.pl
 gwaltpolska.com.pl
+gwaltpolska.pl
 gwaltwiadomosc.com.pl
 gwaltwiadomosc.net.pl
 gwaltwiadomosc.pl
@@ -1839,6 +1844,7 @@ i-chomik.pl
 i-dpd.pl
 i-dworzecporwaniepl.pl
 i-efaktygwalt.pl
+i-ifaktygwalt.pl
 i-iporwania.pl
 i-mobi.pl
 i-podgladacz.pl
@@ -1992,6 +1998,7 @@ jamster.pl
 janbud-jankowiak.pl
 jania.pl
 jankowskismigiel.pl
+janskowron.ct8.pl
 jaret.pl
 jasmin.pl
 jawal.com.pl
@@ -2087,6 +2094,7 @@ keymedicare.pl
 kgc.coinmine.pl
 kgile.grejt.pl
 kgoldringskyweb.pl
+kiancar.lh.pl
 kickboxing.cba.pl
 kielak.szkola-rocka.com.pl
 kierowca-praca.pl
@@ -2358,7 +2366,6 @@ max-host.pl
 maxfashion.pl
 maxmaximus.pl
 mazex.com.pl
-mazowieckie-info.pl
 mazowieckiecentrummedyczne.pl
 mazurfotografuje.pl
 mazury4x4.pl
@@ -2791,7 +2798,6 @@ okazjoteka.pl
 okiemkibica.pl
 okleinyvescom.pl
 okna-katowice.pl
-oknogrup.pl
 oknomat.com.pl
 okpbingocash.pl
 okpbingotime.pl
@@ -2987,6 +2993,7 @@ pitbull-video.ujm.pl
 pitbull.ek1.pl
 pitbullwestcoast.pl
 piwiarniawarka.opole.pl
+piwo.pl
 pixel.homebook.pl
 pixel.wp.pl
 pjm.guidesign.pl
@@ -3761,7 +3768,6 @@ sq2jk.pl
 src.coinmine.pl
 srodkidlagastronomii.pl
 srodmiescie-napraw-laptopa.warszawa.pl
-ssl-paybylink.pl
 ssl.bezpieczne-platnosci.pl
 st.hit.gemius.pl
 st1.hit.gemius.pl
@@ -3901,6 +3907,7 @@ tapicerstwo-samochodowe.com.pl
 tarnowskiegory.pl
 tarotmagow.pl
 teatrinnabajka.pl
+tech-in.com.pl
 tech-wiert.pl
 techkonkurs.pl
 technokontakt.com.pl
@@ -3961,6 +3968,7 @@ tik.info.pl
 time4s.pl
 tiny.pl
 tix.coinmine.pl
+tkozlowski.ct8.pl
 tlumacztaniej.pl
 tlumaczymyszwedzki.pl
 tob-instal.pl
@@ -4738,6 +4746,7 @@ zlektorem.pl
 zmien-kolor.pl
 zmotoryzowani24.pl
 znajdz-numer.pl
+znajdz-prace.co.pl
 znany-lekarz.pl
 zobacz24.pl
 zobaczto.pisz.pl

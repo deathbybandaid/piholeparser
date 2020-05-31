@@ -18,6 +18,7 @@ files.cat
 gay.cat
 imp.rtb.cat
 kavavak.cat
+labotiguetadelmig.cat
 lgtebre.cat
 lluismansilla.cat
 marmitaco.cat

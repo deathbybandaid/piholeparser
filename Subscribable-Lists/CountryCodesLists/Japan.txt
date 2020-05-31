@@ -65,7 +65,6 @@ access.journal.mycom.co.jp
 access.news.mynavi.jp
 account-update.amazon.co.jp.access-uid26332.mixh.jp
 account-update.amazon.co.jp.apl.mixh.jp
-account-update.mixh.jp
 account.will.be.charged.when.the.merchant.processes.your.payment.rangdeindia.jp
 accountgoback.mixh.jp
 ack.mynv.jp
@@ -913,6 +912,7 @@ letsbigin2.jp
 lineme.thick.jp
 linne.co.jp
 lino-mat.jp
+lism-shop.jp
 listing.yahoo.co.jp
 ln.ameba.jp
 locksmith.jp
@@ -1238,7 +1238,6 @@ pressa.jp
 prhythm.co.jp
 pricelab.jp
 priceplus.jp
-prime.mixh.jp
 primelabo.jp
 printbag.co.jp
 printex1.jp
@@ -1276,6 +1275,7 @@ rakuten.co.jp
 rakuten.co.jp.suppor.memeber.jp
 rakuten.gcocco.jp
 rakutenecard.jp
+rakutenhtadmin.jp
 rams-marks.jp
 rangsjapan.co.jp
 rarara.co.jp
@@ -1534,6 +1534,11 @@ uranainoyakata2019.jp
 urc.live.nicovideo.jp
 ureshino-lab.jp
 users173.lolipop.jp
+usid-08423.mixh.jp
+usid-1592.mixh.jp
+usid-92821.mixh.jp
+usid-94821.mixh.jp
+usid-99821.mixh.jp
 uthu68.jp
 utlab.jp
 v2st.shinobi.jp

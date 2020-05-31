@@ -7,6 +7,7 @@
 4girls.co.il
 4price.co.il
 4x4led.co.il
+72dpi.co.il
 89-139-27-51.bb.netvision.net.il
 a.co.il
 a.jquerycdn.co.il
@@ -150,6 +151,7 @@ goopshop.co.il
 granit-mesima.co.il
 graphicard.co.il
 guitarpro.co.il
+gurandgo.co.il
 guyline.co.il
 guyoffice.co.il
 hadvesalat.co.il
@@ -248,6 +250,7 @@ minisite.mtacloud.co.il
 mishlav.co.il
 misradia.co.il
 mitos.co.il
+mizug-mahir.co.il
 moav.co.il
 momy.co.il
 mosesrest.co.il
@@ -356,6 +359,7 @@ studio-liorit.co.il
 suneffect.co.il
 sur.co.il
 surpriseli.co.il
+swf.co.il
 talamos.co.il
 tamarsgallery.co.il
 tami4.co.il

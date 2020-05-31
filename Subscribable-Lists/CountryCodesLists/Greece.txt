@@ -16,6 +16,7 @@ ad.xe.gr
 ad2.linkwise.gr
 ad4mat.gr
 adbanner.gr
+adidasgr.gr
 adman.gr
 adman.in.gr
 adman.kathimerini.gr
@@ -73,7 +74,6 @@ arhodiko.gr
 aris-petroupolis.gr
 arpac-hellas.gr
 artalumin.gr
-asteriassa.gr
 asterix.gr
 autodreams.gr
 avrakougioumtzi.gr
@@ -164,6 +164,7 @@ educate.theowl.gr
 eilid.com.gr
 eisagwgiki.gr
 ejsood_biomek.gr
+elegantshop.gr
 ellinikamarket.gr
 emfsys.gr
 emporikohaidari.gr
@@ -183,6 +184,7 @@ exohi-sarti.gr
 eye-laser.gr
 eystathiosluxuryapartments.gr
 ezigarettenkaufen1.pagina.gr
+farma-bafeiadi.gr
 fastfashion.gr
 feriki.oikodomus.gr
 flexografic.gr
@@ -355,7 +357,6 @@ plataniaspalace.gr
 platinumdeals.gr
 playboy.gr
 polikona.gr
-politikesgeuseis.gr
 pornofreedom.blogspot.gr
 pornographo.blogspot.de.blogspot.gr
 pornographo.blogspot.de.br.blogspot.gr
@@ -429,7 +430,6 @@ tasiosgrigoris.gr
 tasosrepair.gr
 tavari.gr
 taverna-zisis.gr
-taxagent.gr
 taxi-dimos.gr
 technocom.gr
 technomould.gr

@@ -11,6 +11,7 @@
 174987-de-prob-kenntnis-nachweis.sicherheitsvorbeugung-vorbeugung.ga
 183809-de-gast-mitteilung-benutzer.sicherheitshilfe-hilfeservice.ga
 199731-de-gast-angabe-validierung.sicherheitsabwehr-sicher.ga
+1filesharing.ga
 206292-de-gast-sicherheit-account.hilfeservice-sicherheitshilfe.ga
 213306-germany-gast-sicherheit-benutzer.vorbeugung-sicher.ga
 236313--prob-kenntnis-validierung.sicherheitssystem-sicher.ga
@@ -105,6 +106,7 @@
 981319-de-prob-angabe-benutzer.sicherheitsvorbeugung-vorbeugung.ga
 aaa.sunk000.ga
 aaalinked.ga
+aatsta-71.ga
 access-set-verify-info-updat.ga
 account1lmited.ga
 accountpage211.merpatikan.ga
@@ -201,6 +203,7 @@ bofa-online-enauth.ga
 bofa-udirectverification.ga
 bofaonnline-access-resolve.ga
 boinvc.ga
+bokepterbaru-whatsappindonesiahot.wa-xxx18.ga
 bonodium.ga
 bonoseguroperu2.ga
 bordargroup-com.ga
@@ -477,14 +480,17 @@ goverwood.ga
 gqqfree.ga
 grade-preliminary.ga
 gratispulsa.ga
+greenpays.ga
 greenwood.ga
 grillaserv.ga
 grouphot-whatsapp.joinsgroup9.ga
 grta.ga
 grub-whastapp18.tollzz.ga
 grub-whatsapp.frezze.ga
+grubramadhan.whtsapp55.ga
 grubwaku.ga
 grup-bkp.holl53.ga
+grup-wa69.ga
 grup-whastapp01.sex-wa.ga
 grup-whastapp02.sex-wa.ga
 grup-whastapp12.free78.ga
@@ -580,8 +586,12 @@ jkypevx.ga
 jmxjstn.ga
 jocily.ga
 join-group-whatsaap-2020.xnxx.ga
+join-groupwhatsaapsbudi01gamingiw.ga
+join-whtsappgrupebkp18.hitsss76.ga
 joinbokep.xnxx.ga
 joinchatwhatsapp.joinss.ga
+joingrupwhatsap18.join-4wa.ga
+joinwhatsapp.eventss-official.ga
 joomlaa.ga
 josjxdv.ga
 jovwiels.ga
@@ -627,6 +637,7 @@ lokalfed.ga
 lolutope.ga
 londparig.ga
 lorf.ga
+loyaler.ga
 lpocfzn.ga
 lpvuum.ga
 lrowetu.ga
@@ -667,6 +678,7 @@ minmissy.ga
 mkiasadmol.ga
 mlcros0ft.ga
 mobile-bancodobrasil.ga
+mobile-cyberplus.ga
 mohdhage.ga
 moneone.ga
 moquite.ga
@@ -680,6 +692,7 @@ multishop.ga
 myfavoredrxnet724.ga
 mypictures.daytonsw.ga
 myskintop.ga
+naikedjoice.ga
 nandaanbird.ga
 navalid.ga
 navicsgo.ga
@@ -741,14 +754,18 @@ p4yp4l.ga
 pabgina.ga
 pacifique.ga
 page-unresponsive-notice.ga
+page-user-block3.ga
 pagehelpwarningg.nabatere.ga
 pages-user-blocked3.ga
+pages-user-blocked6.ga
 panelfollowersindo.ga
 parverentia.ga
 payipalupdatesecurity.ga
 paypal-to-btc.ga
 paypal-update-information.ga
 paypal.3dsecure-accounnt-review.pilotbit.ga
+paypal.com.accountinformation.ga
+paypal.com.manage-accountverification7123.ga
 paypal.com.verification.services.accounts-recovery.ga
 paypal.login.access.for.help.eshop-access.ga
 paypalaccountlocked.ga
@@ -764,7 +781,6 @@ pegild.ga
 pendingfnbaccept.ga
 pepto.ga
 personal-sitcherheit.ga
-pery.ga
 ph-shoponline.ga
 phlomy.ga
 photo-land.ga
@@ -812,6 +828,7 @@ pumpme.ga
 punish-post.ga
 punistrict.ga
 qo-zeseel-qo.ga
+qotyta-71.ga
 quaitsoa.ga
 qughsa.ga
 quit-smoking.ga
@@ -839,6 +856,7 @@ rfvtgbyhn.ga
 rhvkegv.ga
 rideordie.ga
 rimpol.ga
+rinodebti.ga
 rivncau.ga
 rjczzmj.ga
 rjvc.com.wilasef.ga
@@ -847,6 +865,7 @@ rjzcfoc.ga
 rockandmort.ga
 rocletis.ga
 rororamp.ga
+roseamot.ga
 rt-nwbjwy.ga
 ruqpio.ga
 s.bledea.us.mhqo.ga
@@ -946,6 +965,7 @@ support1.support1.support1.support2.mail.supportie.ga
 support1.trocable.ga
 support2.trocable.ga
 support232.confrim-fanpage111.ga
+support3.trecable.ga
 supportab0ut.ga
 supporty7.regis-fanpageee-confirm.ga
 svbsoet.ga
@@ -1048,7 +1068,6 @@ whatsapp-khususdewasa18plus.viral-xxx.ga
 whatsapp.grup18.vvipx77.ga
 whatsapp172.zxc696.ga
 whattsap-group.hol78.ga
-whtsapp55.ga
 wine837-puppy837.ga
 wmasters.ga
 wodasoone.ga
@@ -1206,7 +1225,5 @@ znuestu.ga
 zodldoc.ga
 zonasegura.bcpmovil.ga
 zonasegura1bn-com-pe.ga
-zonasegurapromos1bn.ga
-zonasegvra1bn-com-pe.ga
 zonasegvra1bnperu.ga
 zxdtdhl.ga

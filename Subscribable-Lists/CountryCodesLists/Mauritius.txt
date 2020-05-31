@@ -1,5 +1,4 @@
 advertise.mu
-albel.intnet.mu
 channelit.mu
 dit.mu
 dllexe.mu

@@ -9,7 +9,6 @@ biosmile.uy
 bordados.com.uy
 cadenadelsol.com.uy
 ceccatouruguay.com.uy
-cine.com.uy
 clinicaser.com.uy
 clubempleadosbancoitau.com.uy
 colorfm.com.uy
@@ -17,6 +16,7 @@ cqsoft.com.uy
 dilussoelectrohogar.com.uy
 ega.com.uy
 etiquetas.uy
+federal.com.uy
 filmetal.com.uy
 fmp.com.uy
 gabrielconde.com.uy

@@ -72,6 +72,7 @@ allvisas.ro
 almatours.ro
 along.ro
 alpes.icgauth.cyberplus.banquepopulaire.fr.websso.bp.13807.emparecoin.ro
+alpreco.ro
 ambacart.ro
 amedeea.ro
 amoni.pisynailart.ro
@@ -775,7 +776,6 @@ studiodin.ro
 studiofusion.ro
 supermeditatii.ro
 suruburi-autoforante.ro
-susai.ro
 suub-sper.ro
 sweeties.ro
 swrnotificationsoshmobile.webnode.ro

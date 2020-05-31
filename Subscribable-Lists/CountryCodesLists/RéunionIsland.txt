@@ -3,7 +3,6 @@ aeroport-travaux.re
 bnompre.re
 c.adsco.re
 carokane.re
-cli.re
 com-featu.re
 huit.re
 ico.re

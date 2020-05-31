@@ -124,6 +124,7 @@ acccount-req11s.regis-fanpage1.ml
 account-limted-info.ml
 account-restro-limted.ml
 acelerabr.ml
+acessar-conectarcontapaypal.ml
 acesso-bb-atendimento.ml
 acesso-bb.ml
 acesso.pfpersonalite.ml
@@ -136,7 +137,6 @@ aifetxe.ml
 airbnb.co.uk-rooms.ml
 airjaldinet.ml
 ajsfbajkaf-aslfknafla.ml
-aldf.ml
 alfredsonsir.ml
 aliance.ml
 aliminksrl.ml
@@ -178,7 +178,6 @@ authref-historypay-enid0973611.ml
 auto-atendimento.ml
 autoatendimento-bb.ml
 autolikesandfreefb.ml
-autotendimento.ml
 avaceklpterms.ml
 avtzofv.ml
 ayjp.sisplm.ml
@@ -264,6 +263,8 @@ c3nter989.neww-d3vel0per44.ml
 cadastrar-imobile.ml
 cadjetbums.ml
 call8-win64systemerrorservice.ml
+cameronr.ml
+cameronw.ml
 capitalone-alert.beast9x.ml
 cardinalcorp.ml
 carinsurance.ml
@@ -356,8 +357,10 @@ dankew.ml
 data-protection-de.ml
 datasitcherheit.ml
 dative.ml
+datmagic.ml
 datumu.ml
 davitaindustries.ml
+ddft.ml
 de-bitcoin.ml
 de-safe-transaction-pp.ml
 deep-secureinfo.ml
@@ -392,8 +395,8 @@ duduk-reed.ml
 duration.ml
 dverapple.ml
 ealohck.ml
+eastt.ml
 eemylt.fmgupbjivsvtyh.ml
-egoism-71.ml
 ekute.ml
 elite-crack.ml
 eljyiej.ml
@@ -401,8 +404,10 @@ encomtrading-net.ml
 eqbryum.ml
 equator-motorsport.ml
 eraser.ml
+errorcode-12404.ml
 errorcode-15041.ml
 ethereum.smart.contract.myeltherwallet.ml
+ettta-71.ml
 euro-forest.ml
 eventsguru.ml
 exmops.ml
@@ -426,12 +431,14 @@ fashionindeed.ml
 fb-security-info.ml
 fb.pages.update.20038846.ml
 fectmone.ml
+feetto-81.ml
 fertile.ml
 ff-gg.ml
 ffdgbserv.ml
 ffdpogservgbunity.ml
 ffercyqxah.nyrhmajkcckbensqnrb.ml
 fgfhbjnkml.ml
+fheyo.ml
 fhoc.ml
 filto.ml
 finixgroup.ml
@@ -474,7 +481,11 @@ go.ssgsip.ml
 good-deal.ml
 gotaginos.ml
 gotoout.ml
+gov.caixa.servicoprime-br.ml
+grubmabar-whatsapp2020.grup26.ml
+grup-wahtsapp18.hot49.ml
 grup-whatsapp-bokep-terbaru.ho9v.ml
+grupbkpwhatsapp178.pornvideo18.ml
 grupbokepindonesia.event20.ml
 grupbokepwhatsapp2020.otzo29.ml
 grupwhatsapp18.homesex18.ml
@@ -499,6 +510,7 @@ hi-shop.ml
 hima.ml
 hiyadocs.ml
 hkmicsy.ml
+hol3.ml
 homeofserviceweb.ml
 honestypoint.ml
 honestypolic.ml
@@ -508,7 +520,6 @@ hostinglist.ml
 hotelzbeauty.ml
 hotgrupbokepwhatsapp-join.vvipx09.ml
 hubloot.ml
-hunfreedwe.ml
 huntll.ml
 ib.nab.com.au.bankmain.ml
 ib.nab.com.au.verify-acc.ml
@@ -535,7 +546,6 @@ instagramverifyblueteak.ml
 instagramverifysbadge.ml
 institutskastreet.ml
 invoke.ml
-iremoscombaterocovid.ml
 isbank-isube.ml
 iscep-turkiye.ml
 ismtrum.ml
@@ -544,14 +554,17 @@ itacontracovid-19.ml
 itau-vantagens.ml
 itaucard.atendimentonline.ml
 itaulinkseguro.ml
+itaupersonnalitelinkseguro.ml
 itechzone.ml
 itibonuscad.ml
 itibonusresgate.ml
 iverson55.ml
 iy2.ooeqys.ml
 iykelinkx.ml
+jameskube.ml
 java-brasil.ml
 jeeurte.ml
+jentsh.ml
 jianghuchi.ml
 jiftechnology.ml
 jjnarxs.ml
@@ -560,11 +573,15 @@ jmxjstn.ml
 johnsonstreetxa.ml
 joiingrup-whatsapp.chat12.ml
 join-grup-chat-dewasa18.silver1.ml
+join-whatsaaphot2020.hotwa18.ml
+join-whatsappfat.grup67.ml
+joinbkp.whatsaap7.ml
 joincrypro.ml
 joingrouwhatsapp.vvipz5.ml
 joingrupbokep23.new-claim7.ml
 joingrupsekporno.xxxjos.ml
 joinngrup-whatsapp.joins20.ml
+joinsgrup.ml
 josjxdv.ml
 jozaloxibi.ml
 jpmorgan-chase.ml
@@ -624,6 +641,7 @@ lovebig2.ml
 loygf-33.ml
 lpocfzn.ml
 lsced.ml
+luizamagaluonline.ml
 lumanajaska.ml
 m45c.ml
 madoline.ml
@@ -646,10 +664,8 @@ mechanisms.ml
 medik.ml
 medokofo.ml
 meet-people.ml
-megadesconto-maga.ml
 megadoc.ml
 meganet.ml
-mesdasmaesonlineameri.ml
 metallurgical.ml
 meujeitoonlinemamae.ml
 mgqfmjuc.nzgerhievplkzcqksrlo.ml
@@ -667,7 +683,7 @@ mlcr0soft.ml
 mmedc.kbgswwogodd.ml
 mnlo.ml
 mobich.ml
-mobiklogas.ml
+mobikzmal.ml
 mobilefree-service.ml
 mobileif-atualiza.ml
 modatest.ml
@@ -681,6 +697,7 @@ msvy0.ml
 musicallew.ml
 myaccountsservice.ml
 myeltherwallet.ml
+mylogicbd.ml
 mynewwebsite.ml
 myserversss.ml
 myslohochpinn.ml
@@ -853,6 +870,7 @@ newsy-ben24.ml
 ngentot18.ml
 nhovlrx.ml
 nightqueen.ml
+nipolikernis.ml
 njgnbke.ml
 nonow.ml
 nordeondol.ml
@@ -949,6 +967,7 @@ protection-block.ml
 proxy.mineshaft.ml
 prutixb.ml
 psnlptt.ml
+pubg19.ml
 purple-review.ml
 pyfbzc.gvhaqzryeeaqqvktboki.ml
 qashdgs.ml
@@ -956,6 +975,8 @@ qo-zeesel.ml
 quickvids.ml
 quizbuzz.ml
 qvalibest.ml
+r-cube-plus5.ml
+r-cube-plus8.ml
 r3gistere22.fanpage112.ml
 rabo-login.ml
 raeadnt.ml
@@ -989,9 +1010,9 @@ rolexkings.ml
 rusiapromo2018.ml
 rusoolw.ml
 rutor.ml
-rwgwebsensd.ml
 s3.gasolina.ml
 sakixx.ml
+saldao-de-ofertas.ml
 saldodeofertas.ml
 salonduchat.ml
 santadernetibe.ml
@@ -1079,7 +1100,6 @@ servjfniwjsitencj.ml
 servpecdbnfjr.ml
 servyhdncjpecdbn.ml
 sethichans.ml
-seudesconto.ml
 sgsyeku.ml
 shiringnaeyf.ml
 sicher-sicherheitsvorbeugungs.ml
@@ -1163,6 +1183,7 @@ theslots.ml
 thomsun.ml
 thrany.ml
 thugesh.ml
+tioguards.ml
 tlfdnkgsitepog.ml
 torture.ml
 tqmbuying.ml
@@ -1195,7 +1216,6 @@ upmadano.ml
 ups.com.rkmcentere.ml
 usaa.com.allconditioner.ml
 usemycredit.ml
-usifilsdjffjjfdl.ml
 utube.ml
 uwhfdsndcjdn.ml
 uzxgegt.ml
@@ -1246,6 +1266,7 @@ wgwoks.ml
 whatsapp-grup2020.grop-wa90.ml
 whatsapp-joinade.wa-bokep18.ml
 whatsapp.sexx99.ml
+whatsappdewasa18join.wa-log90.ml
 whatsappgroup19.linkk.ml
 whatsappgroups62.otozo99.ml
 whatsappgrupnew18.holl01.ml
@@ -1426,6 +1447,7 @@ zakodujbiznes.ml
 zeboux.ml
 zfreefblite.ml
 zicuwos.ml
+zilaty.ml
 zipnbus.ml
 ziraat-bireysel.ml
 ziraatbankasi.ml

@@ -1,6 +1,4 @@
 badam.af
-fhlcc.af
 inertia.af
-knu.edu.af
 paypal-support.ace.af
 razi.edu.af

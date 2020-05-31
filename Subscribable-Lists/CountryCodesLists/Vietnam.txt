@@ -65,6 +65,7 @@ api.sdk.zadn.vn
 apinas.nct.vn
 atrack-a.anthill.vn
 auto.vinaweb.vn
+b2bsalesonline.bcoaching.vn
 babe.ants.vn
 bacsise.vn
 balotuixach.vn
@@ -93,7 +94,6 @@ brightstarcorp.com.vn
 c1pson-nt.khanhhoa.edu.vn
 cameli.vn
 campaign.accesstrade.vn
-canzy.com.vn
 capdiendavico.vn
 ceo-sign.auviet.edu.vn
 ceochallenges.vn
@@ -292,10 +292,12 @@ logging.galaxypub.vn
 logging.phunuonline.com.vn
 logsbin.dantri.com.vn
 logv2.mp3.zing.vn
+lomo.com.vn
 longvanceramics.com.vn
 lopandam.kidsplaza.vn
 luongyvovanvinh.vn
 luutruviet.vn
+mahena.vn
 mamnonkinderhouse.edu.vn
 mamnonwonderland.edu.vn
 marinacity.com.vn
@@ -345,6 +347,7 @@ muavere.com.vn
 namviethn.edu.vn
 namyen.vn
 nangmuislinedep.com.vn
+navyfederalcreditunionalerts.mtcar.com.vn
 nbc.com.vn
 nchdanang.com.vn
 newwayit.vn
@@ -526,9 +529,7 @@ truelovetattoo.vn
 truongdaylaixeotob2.edu.vn
 truonghai.kovo.vn
 truongtaynama.edu.vn
-truongthanglong.edu.vn
 truyenhinhnhanai.vn
-truyxuat.smartcheck.vn
 tsivn.com.vn
 ttkgroup.vn
 tungshinggroup.com.vn

@@ -43,6 +43,7 @@ medness.ma
 monarchitecte.ma
 myfitness.ma
 networksgates.ma
+novancia.ma
 officeon.ch.ma
 pneumorek.ma
 poly-tech.ma
