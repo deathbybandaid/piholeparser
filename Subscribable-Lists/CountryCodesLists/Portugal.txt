@@ -236,7 +236,6 @@ pubserver.xl.pt
 pwp.netcabo.pt
 radiolagoa.pt
 raivel.pt
-redeenergia.pt
 relief.pt
 revive.workmedia.pt
 rijomotor.pt

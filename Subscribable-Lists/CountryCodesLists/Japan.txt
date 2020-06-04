@@ -65,6 +65,7 @@ access.journal.mycom.co.jp
 access.news.mynavi.jp
 account-update.amazon.co.jp.access-uid26332.mixh.jp
 account-update.amazon.co.jp.apl.mixh.jp
+account-update.mixh.jp
 account.will.be.charged.when.the.merchant.processes.your.payment.rangdeindia.jp
 accountgoback.mixh.jp
 ack.mynv.jp
@@ -191,6 +192,7 @@ amaretto.jp
 amarzonahktadmindan.jp
 amarzonahktadminday.jp
 amazon.co.jp
+amazon.co.jp.account-update.access-openid.mixh.jp
 amazon.co.jp.account-update.jpaccess.mixh.jp
 amazon.co.jp.account-update.lzjse.mixh.jp
 amazon5050.jp
@@ -335,6 +337,7 @@ blog.sanowlabs.jp
 blogclick.jp
 bloom-s.co.jp
 blue-port.jp
+blue-yame-5396.penne.jp
 bluedjpa.jp
 bluedragonfx.jp
 blueskytrading.jp
@@ -464,6 +467,8 @@ daiichi-engei.co.jp
 daiichisankyo-hc.co.jp
 daikoku.ebis.ne.jp
 daj.ne.jp
+dalemmirgribacheev4.jp
+dalemmirgribacheev5.jp
 dan-ball.jp
 dante.co.jp
 dapump-usasaikou24.jp
@@ -492,6 +497,7 @@ don4nod.jp
 double-knot.co.jp
 doubleclick.ne.jp
 downpanda.jp
+dry-saga-5349.jellybean.jp
 ds.advg.jp
 dsa.er.cyberwing.co.jp
 dsp.fout.jp
@@ -1239,6 +1245,7 @@ prhythm.co.jp
 pricelab.jp
 priceplus.jp
 primelabo.jp
+primeworks.co.jp
 printbag.co.jp
 printex1.jp
 prism-hk.jp
@@ -1517,6 +1524,7 @@ tres-star.jp
 truecombat.jp
 trustclick.ne.jp
 tsuuhan-labo.jp
+tumago.jp
 twpro.jp
 u52j8p.jp
 uad-api.nicovideo.jp

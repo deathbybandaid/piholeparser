@@ -2020,6 +2020,7 @@ apple.702648469.cn
 apple.799866074.cn
 apple.com-ioster.cn
 apple.com.apuoz.cn
+apple.com.eimag.cn
 apple.com.f-rid.cn
 apple.com.hxsra.cn
 apple.com.iosx-a.cn
@@ -9049,6 +9050,7 @@ china-inflatables.cn
 china-inflatables.com.cn
 china-jhy.cn
 chinadn.org.cn
+chinadryer.cn
 chinaenter.cn
 chinafsw.cn
 chinaing.org.cn
@@ -9964,7 +9966,6 @@ colxuxab.cn
 colyahod.cn
 colytval.cn
 com.arshcg.cn
-com.trzid.cn
 com122.cn
 com143.cn
 com332.cn
@@ -27840,6 +27841,7 @@ ifnickasg.cn
 ifnote.cn
 ifootbgall.cn
 ifootpgrint.cn
+iforgot.apple.xcezt.cn
 ifotjshhsve.cn
 ifpoblemline.cn
 ifpooiwq.cn
@@ -29416,6 +29418,7 @@ itueytco.cn
 ituner5.cn
 ituner7.cn
 ituner8.cn
+itunes.antoe.cn
 itunes.appssx.cn
 itunes.losua.cn
 itunes.yiuar.cn
@@ -30467,6 +30470,7 @@ jjobpm.cn
 jjorzneu.cn
 jjpugee.cn
 jjpuzjzo.cn
+jjscdc.cn
 jjtoee.cn
 jjujpnuq.cn
 jjukqpx.cn
@@ -46837,6 +46841,7 @@ replacedwatches.cn
 replactionervalushadagoessx.cn
 replicacartierwatch.cn
 replicahublot.cn
+replicarolexwatch.cn
 replicastorial.cn
 replicastorigrators.cn
 replicastorpher.cn
@@ -57933,7 +57938,6 @@ w1c.cn
 w2mian.cn
 w3j6n.cn
 w5sac788c1.360doc.cn
-w7home.cn
 wa.kuwo.cn
 waaanss.cn
 wababka.cn
@@ -62572,6 +62576,7 @@ xjafeogh.cn
 xjaskjoi.cn
 xjbaugifzp.cn
 xjesfc.cn
+xjgyedu.cn
 xjhilsehip.cn
 xjlnxoylmce.cn
 xjnjiuw.cn
@@ -65842,6 +65847,7 @@ zjbuisaylw.cn
 zjdpwppkwzaf.cn
 zjevglea.cn
 zjghacro.cn
+zjgsyds.cn
 zjholooz.cn
 zjhqrw.cn
 zjjjjti.cn
@@ -66631,6 +66637,7 @@ zzhc.vnet.cn
 zzjjzri.cn
 zzjogojz.cn
 zzlrux.cn
+zzmailsoft56.cn
 zzmzruo.cn
 zznljeai.cn
 zzopiirj.cn

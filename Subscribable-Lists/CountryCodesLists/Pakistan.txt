@@ -31,6 +31,7 @@ asjayz.pk
 askaria.edu.pk
 assetplus.com.pk
 attt.mppl.pk
+automationhub.pk
 baazar.com.pk
 babulhawaij.com.pk
 bacr.com.pk
@@ -58,7 +59,6 @@ clubm.com.pk
 cneec.com.pk
 coldstar.pk
 colop.com.pk
-com.gofresh.com.pk
 controltechnology.com.pk
 copierrentalkarachi.pk
 coriofootwear.com.pk
@@ -298,7 +298,6 @@ verificatucuentalbcp.mobilemoods.pk
 verify.almamaterschool.pk
 vputin.pk
 wearthis.pk
-weightlossfood.pk
 wfc.com.pk
 wholesomefoods.com.pk
 wilsons.pk

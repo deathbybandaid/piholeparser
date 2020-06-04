@@ -15,7 +15,9 @@ is.gd
 itau-card-2020.rf.gd
 item-number-69683367881.rf.gd
 lasolutionfinance.fr.gd
+limiteextraltaucard.rf.gd
 lnk.gd
+money-back-guarantee-ebay.rf.gd
 neo.rf.gd
 omf.gd
 pic.gd

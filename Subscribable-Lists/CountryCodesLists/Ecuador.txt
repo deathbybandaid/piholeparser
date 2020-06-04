@@ -59,7 +59,6 @@ sabel.ec
 safetygroup.com.ec
 saintdominic.edu.ec
 sanpablodellago.gob.ec
-signo.com.ec
 sistemas.ucacue.edu.ec
 solinfor.ec
 techs.ec

@@ -37,6 +37,7 @@ edu-src.msu.ac.th
 edu.tsu.ac.th
 educationthai.co.th
 enagic.co.th
+fdx.co.th
 framehouse.in.th
 gdap.crma.ac.th
 gloriajeanscoffees.co.th
@@ -86,6 +87,7 @@ mice.co.th
 mis.nbcc.ac.th
 mkho.moph.go.th
 mpmec.co.th
+mrcurtain.co.th
 mrs.ac.th
 mrtrecycling.co.th
 nfc-sukhothai.or.th

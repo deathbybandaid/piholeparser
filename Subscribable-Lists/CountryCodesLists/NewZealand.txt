@@ -168,6 +168,7 @@ pools.cryptopia.co.nz
 pools1.cryptopia.co.nz
 pools2.cryptopia.co.nz
 prelive.cryptopia.co.nz
+primetech.nz
 propcare.co.nz
 propertyservicesqueenstown.co.nz
 proplast.co.nz

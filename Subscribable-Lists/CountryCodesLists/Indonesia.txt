@@ -26,6 +26,7 @@ ads.promo.web.id
 ads.xl.co.id
 adsrv.adplus.co.id
 adstars.co.id
+adventkjkt.or.id
 aerocom.co.id
 afrikocell.co.id
 agenkoranku.id
@@ -139,6 +140,7 @@ bank-of-america.angkasasakti.co.id
 bankandara.co.id
 bankmaluku.co.id
 bankofamerica.justusianet.id
+banualawas.tabalongkab.go.id
 bappeda.dharmasrayakab.go.id
 bappeda.palangkaraya.go.id
 bappelitbang.tanggamus.go.id
@@ -167,6 +169,7 @@ berbagicatatan.web.id
 berkahinternasional.co.id
 berkahjaya.id
 berthacoid.masterweb.id
+beverlyhillspoloclub.co.id
 bhokepz69.id
 bibarakastore.id
 biced.iainbukittinggi.ac.id
@@ -205,6 +208,7 @@ bptpm.sragenkab.go.id
 brandingcity.co.id
 brigifraider9-tniad.mil.id
 btik.web.id
+btsa.co.id
 bukhari.or.id
 bursatiket.id
 busainoac.co.id
@@ -248,6 +252,7 @@ confirmation-official-accounts.my.id
 confuciuswisdom.id
 connecthing.id
 continue-now.id
+coster.id
 covermobil.web.id
 css.pasangkacafilm.co.id
 ctsl.untirta.ac.id
@@ -301,6 +306,7 @@ dkwm.suwan.co.id
 docsign.libra.id
 domisothi.id
 downloadlagu.or.id
+dpparki.or.id
 dpupr.lomboktengahkab.go.id
 dpw.co.id
 driand.web.id
@@ -430,6 +436,7 @@ icsot.na.its.ac.id
 id912312313.login.authorities.xtra.co.nz.coster.id
 iddc.co.id
 identitypages0420.my.id
+ie.feb.unri.ac.id
 ijmamurtika.id
 ijsc.co.id
 iloveukrupuk.co.id
@@ -515,6 +522,7 @@ karateinkai.ukm.undip.ac.id
 karisma.id
 karuniabinainsani-16.co.id
 katanews.id
+katedraljakarta.or.id
 kats_surrender.blogspot.co.id
 kawalpilkadabot.getacipta.co.id
 kebunrayabaturraden.id
@@ -626,6 +634,7 @@ matatinta.co.id
 matchpixvxz.coffeelajang.id
 mature2porn.blogspot.co.id
 maya-ad.co.id
+media.bigpond-telstra.com.au.pa-pangkalanbalai.go.id
 meidianahijab.id
 member.smpasbsolo.sch.id
 mentariilmukarawang.sch.id
@@ -908,6 +917,7 @@ smaltochimica.co.id
 sman1bajawa.sch.id
 sman1candiroto.sch.id
 sman1tembilahanhulu.sch.id
+sman44jkt.sch.id
 smansaduri.sch.id
 smapgripangkalankersik.sch.id
 smartdigi.id
@@ -942,7 +952,9 @@ smrindonesia.co.id
 smtijogja.sch.id
 smubatik1-slo.sch.id
 snp2m.poliupg.ac.id
+social-center-identify.my.id
 society-depart.my.id
+society-recovery.my.id
 sofiashouse.web.id
 sokarajatengah.or.id
 solidfashion.co.id
@@ -1012,7 +1024,6 @@ tiwulgatotarjuna.co.id
 tkislamelsyifa.co.id
 tkjarea51.web.id
 tksurabaya2.id
-tlmi.co.id
 tlni.co.id
 tmlewin.id
 tokodirin.co.id

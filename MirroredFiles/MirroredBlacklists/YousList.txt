@@ -3,7 +3,7 @@
 ! License: https://github.com/yous/YousList#license
 ! Title: YousList
 ! Expires: 4 days
-! Version: 20200601
+! Version: 20200603
 
 ! General element hiding rules
 ##amp-ad
@@ -2104,6 +2104,7 @@ animeid.tv##iframe[src^="//static.animeid.tv/ads/"]
 animoe.me##div#hd_pop
 answers.com##div.ad_unit
 answers.com##div.adhesion_dom
+api.dable.io##div.item-promotion
 api.dable.io##div.item-sp
 api.dable.io##td.item-sp
 appleblog.co.kr##ins.adsbygoogle
@@ -2478,6 +2479,7 @@ class.orbi.kr##div.oxad:not(.global_top)
 class.orbi.kr##li.listAd
 clien.net##div#hongboInfoList
 clien.net##div#naverAd
+clien.net##div.ad_fix
 clien.net##div.footer_ad
 clien.net##div.list_bottom_ad
 clien.net##div.list_center_ad
@@ -2488,6 +2490,7 @@ clien.net##div.naver_ad
 clien.net##div.side_ad
 clien.net##div.view_bottom_ad
 clien.net##div.view_center_ad
+clien.net##div.view_top_ad
 cm.asiae.co.kr##div.adsv_banner
 cm.asiae.co.kr##div.con_ad_module
 cm.asiae.co.kr##div.floating_ban3
@@ -2539,9 +2542,13 @@ cultofmac.com##div.ad-region
 cultofmac.com##div.ezo_ad
 cultofmac.com##section.ad-region
 cyberciti.biz##aside#secondary>section#custom_html-4
+cyberciti.biz##aside#secondary>section#custom_html-5
+cyberciti.biz##aside#secondary>section#custom_html-6
 cyberciti.biz##aside#secondary>section#text-384338394
 cyberciti.biz##aside#secondary>section#text-384338398
+cyberciti.biz##div.entry-content>center>div[style="border: 1px solid #e9ecef; border-radius: 3px; padding: 3px; color: #999999;"]
 cyberciti.biz##div.entry-content>center>div[style="width: 100%; background-color: #FAFAFA; border: 1px solid #f3f3f3; color: #CCC; font-size: 10px; clear: both; display: inline-block; text-align: center; "]
+cyberciti.biz##div.entry-content>div[style="border: 1px solid #e9ecef; border-radius: 3px; padding: 3px; color: #999999;"]
 cyberciti.biz##div.entry-content>p[style="background-color: #FAFAFA; border: 1px solid #f3f3f3; color: #CCC; font-size: 10px; clear: both; width: 100%; display: inline-block; text-align: center;"]
 daboja19.com##div.basic-banner
 daejonilbo.com##div#banner_main_right180
@@ -4510,6 +4517,9 @@ m.ytn.co.kr##div.banner_ad
 m.ytn.co.kr##div.newsview_ad
 m.ytn.co.kr##div.newsview_ad_bnr
 m.ytn.co.kr##div.photo_bottom_ad
+m.ytn.co.kr##div.text_ad_type_1
+m.ytn.co.kr##div.text_ad_type_2
+m.ytn.co.kr##li.ad_area
 m.zbn.donga.com##iframe[src^="/banner/ad_cauly_hotnews.asp"]
 m.zdnet.co.kr##body>div[style="padding:50px 0px 0px 0px;"]
 m.zdnet.co.kr##div#ad_div_bottom
@@ -6182,9 +6192,11 @@ wordpress.com##p.inline-ad-slot
 wowhead.com##div.banner-ad
 wowtv.co.kr##div#divTopBanner
 wowtv.co.kr##div.adv-area
+www-clien-net.cdn.ampproject.org##div.ad_fix
 www-clien-net.cdn.ampproject.org##div.list_bottom_ad
 www-clien-net.cdn.ampproject.org##div.list_center_ad
 www-clien-net.cdn.ampproject.org##div.list_top_ad
+www-clien-net.cdn.ampproject.org##div.view_top_ad
 www-hankyung-com.cdn.ampproject.org##amp-embed[data-widget-id="QXeK4Z7e"]
 www-hankyung-com.cdn.ampproject.org##aside.ad
 www-hankyung-com.cdn.ampproject.org##aside.amp-bottom-ad

@@ -151,7 +151,6 @@ goopshop.co.il
 granit-mesima.co.il
 graphicard.co.il
 guitarpro.co.il
-gurandgo.co.il
 guyline.co.il
 guyoffice.co.il
 hadvesalat.co.il
@@ -185,6 +184,7 @@ intersurf.co.il
 invitations.co.il
 iou.co.il
 israeliposters.co.il
+israeltraveler.co.il
 itzuvim.co.il
 izraelim.co.il
 jcu.org.il

@@ -447,6 +447,7 @@ reklamcsere.hu
 reprocopy.hu
 reroute.c3.hu
 resgateseusfundos2017.pe.hu
+rigotech.hu
 robinireland.pe.hu
 rokus-tgy.hu
 romvarimarton.hu
@@ -559,6 +560,7 @@ vendiak.hu
 vercukor.hu
 vernyomasgondok.hu
 veszedrendben.hu
+vetesigimnazium.hu
 vezer.hu
 viabcp-bancasegura.pe.hu
 vidamsag.postr.hu

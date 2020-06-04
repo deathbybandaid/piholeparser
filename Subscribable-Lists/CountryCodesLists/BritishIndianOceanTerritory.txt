@@ -626,7 +626,6 @@ dev-cdn.districtm.io
 dev-dmx.districtm.io
 dev-fbapps.pantheonsite.io
 dev-fewfewfewfew.pantheonsite.io
-dev-online23.pantheonsite.io
 dev-rabo-loginnu.pantheonsite.io
 dev-service-free.pantheonsite.io
 dev.branch.io
@@ -924,7 +923,6 @@ hhhc2occ.apps.lair.io
 hit-pool.upscore.io
 hit.getforge.io
 ho.io
-hoktt.github.io
 horseshows.io
 hosp.luckypool.io
 hosp.youpool.io

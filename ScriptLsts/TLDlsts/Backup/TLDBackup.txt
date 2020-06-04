@@ -1436,6 +1436,7 @@ xn--bck1b9a5dre4c
 xn--c1avg
 xn--c2br7g
 xn--cck2b3b
+xn--cckwcxetd
 xn--cg4bki
 xn--clchc0ea0b2g2a9gcd
 xn--czr694b
@@ -1471,6 +1472,7 @@ xn--io0a7i
 xn--j1aef
 xn--j1amh
 xn--j6w193g
+xn--jlq480n2rg
 xn--jlq61u9w7b
 xn--jvr189m
 xn--kcrx77d1x4a
