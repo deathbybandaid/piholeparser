@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 02 June 2020, 22:23:30 WIB
+! Last modified: 08 June 2020, 16:21:23 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -1053,6 +1053,8 @@ closetopic.site##.idblog-core.idblog-related-post
 closetopic.site##.idblog-social-share
 closetopic.site##.posted-on
 coin.mg##.box-main > center
+coingecko.com##.sponsored
+coingecko.com##.top-header
 cointiply.com##.fl-ad-left
 cu5.io##.col-md-8
 cu5.io##.faq
@@ -1246,6 +1248,7 @@ closetopic.site###footer-container
 closetopic.site###masthead
 coin.mg###link-view > div:nth-of-type(2)
 coin.mg###link-view > div:nth-of-type(4)
+coingecko.com###top-banner
 cryptobite.site,faucethero.com,grabmylink.xyz,topbtc.club###captcha-adspace
 cryptobite.site,faucethero.com,grabmylink.xyz,topbtc.club###middle-adspace
 cryptofxflash.com###tamvan1
