@@ -11734,12 +11734,11 @@ global.ssl.fastly.net
 
 // FASTVPS EESTI OU : https://fastvps.ru/
 // Submitted by Likhachev Vasiliy <lihachev@fastvps.ru>
-fastpanel.direct
 fastvps-server.com
-myfast.space
+fastvps.host
 myfast.host
 fastvps.site
-fastvps.host
+myfast.space
 
 // Featherhead : https://featherhead.xyz/
 // Submitted by Simon Menke <simon@featherhead.xyz>
@@ -11843,6 +11842,10 @@ githubusercontent.com
 // GitLab, Inc.
 // Submitted by Alex Hanselka <alex@gitlab.com>
 gitlab.io
+
+// Gitplac.si - https://gitplac.si
+// Submitted by Aljaž Starc <me@aljaxus.eu>
+gitpage.si
 
 // Glitch, Inc : https://glitch.com
 // Submitted by Mads Hartmann <mads@glitch.com>
