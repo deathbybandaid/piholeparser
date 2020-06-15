@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: VV3PU5qtRi4+bk4GJkpONg
+! Checksum: NNhjHaPqG+rhL4wPpA8K6w
 ! Title: Polskie Filtry Elementów Irytujących
 ! Polish Annoyance Filters
 ! Codename: Annoyance - Main
 ! Description: Filtry ukrywające i blokujące wyskakujące okienka, widgety, newslettery, powiadomienia push, strzałki, otagowane linki wewnętrzne, które są nie na temat artykułów (np. link do pracy w Bydgoszczy w artykule o pogodzie) i inne drażniące elementy (Polskie Filtry RODO-Ciasteczkowe oryginalnie stworzone przez MajkiIT są już w nich zawarte).
 ! Required: Do poprawnego działania wymagana jest lista lub rozszerzenie I don't care about cookies!
-! Last modified: Sat, 13 Jun 2020, 20:00 UTC+02
-! Version: 2020.6.13.2
+! Last modified: Sun, 14 Jun 2020, 20:05 UTC+02
+! Version: 2020.6.14.3
 ! Expires: 2 days
 ! Najnowsza wersja zawsze na: https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters
 ! Zgłoszenia:
@@ -14,7 +14,7 @@
 !   GitHub => https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/deed)
 ! Copyright © 2020 Polish Filters Team
-! Aktualizacja: sob, 13 cze 2020, 20:00 UTC+02
+! Aktualizacja: nie, 14 cze 2020, 20:05 UTC+02
 !
 !
 ! Newslettery (nie popupy)
@@ -425,6 +425,7 @@ etam.pl##.footer_nsw
 eura7.com,pl.malwarebytes.com###newsletter-signup
 eurobuty.com.pl##.section--newsletter
 eurogamer.pl###newsletter-promo
+euromat.com.pl###tws_s_100000
 euroogrod.com.pl##.menu_newsletter_text
 europacentralna.eu,sare.pl##.nlblock
 euro.com.pl,oleole.pl#?##footer-shops > .column:-abp-contains(newsletter)
@@ -855,6 +856,7 @@ norauto.pl##div.s-info_item:nth-of-type(1)
 noskinoski.pl##.footer__block-item--newsletter
 notino.pl##.exponea-popup-banner.exponea-banner
 nowakonfederacja.pl###newsletter-header-box
+nowela.pl,teletorium.pl##.newslet
 nowiny.com.pl##.col-md-3:nth-of-type(7) > .info > .bottom > ul > li:nth-of-type(3)
 nowymarketing.pl##.footTools > li:nth-of-type(5)
 nowyobywatel.pl,taniejdladomu.pl###mailchimp
@@ -995,8 +997,8 @@ portalgames.pl##.columns.mimi-form.widget
 portalkryminalny.pl##footer > .container > div.row:nth-of-type(2) > div:nth-last-of-type(1)
 portalkryminalny.pl##h3:nth-of-type(11), .moduletable:nth-of-type(11)
 portalpszczelarski.pl##.element.col-3-7
-portalspozywczy.pl#?#.tabs-2.tabs > .navi > a:-abp-has(img[src*="mail"])
-portalspozywczy.pl#?#.tabs-2.tabs > .panes > .one:-abp-contains(NEWSLETTER)
+portalspozywczy.pl,sadyogrody.pl#?#.tabs-2.tabs > .navi > a:-abp-has(img[src*="mail"])
+portalspozywczy.pl,sadyogrody.pl#?#.tabs-2.tabs > .panes > .one:-abp-contains(NEWSLETTER)
 poscielone.pl##.newsletter-forms
 posnania.eu##.footer__form > div[id^="wpf-contact-form"]
 potplayerclub.pl##.ribosome_widget_suscripcion_email
@@ -1019,6 +1021,7 @@ print-me.pl#?#section .elementor-top-column.elementor-column.elementor-element >
 prnews.pl##.newsletter-header, [href*="/newsletter"]
 proclasse.pl##.newsletterForDesktop.newsletterColumn
 profeto.pl###part-newsletter > h2, #part-newsletter > form
+projektowanie-wnetrz-online.pl##.elementor-widget-heading.elementor-element-26db4425, .elementor-column.elementor-element-1c1d6194, .elementor-column.elementor-element-68d87f5e
 proline.pl#?#td:nth-of-type(2) > .cell-round-title:nth-of-type(2):-abp-contains(Newsletter)
 promapolska.pl###newsletter_footer_form_ajax
 promienieslonca.pl###footer-in > .row > .col-sm-12.col-md-4
@@ -1247,7 +1250,6 @@ teksciory.interia.pl##.newsroom
 telekarma.pl###footerInfo-newsletter
 telepolis.pl,tlp.is##footer > .footer-1 > .container > .row > .col-xl-3.col-12
 telepolska.pl###box_1
-teletorium.pl##.newslet
 telewizja-cyfrowa.com##.textwidget > p:nth-of-type(2)
 telix.pl###mailster_signup-3
 telko.in##ul > li > .tip[data-tip="Biuletyny TELKO.in"]
@@ -1388,6 +1390,7 @@ www.mazury.pl##.footer .stopka-prawa
 www.milmag.pl##.formNewsletter
 www.milmag.pl##div.foldMid.span_4_of_12.col:nth-of-type(2) > h3.footerLabel:nth-of-type(2)
 www.onet.pl##.popupNotif > .bellIcon
+www.ozogtomczykowski.pl##div.footer-col-left:nth-of-type(2) > .footer-tytul, div.footer-col-left:nth-of-type(2) > div:nth-of-type(-n+2)
 www.pfm.pl##div.footer-box:nth-of-type(1)
 www.philips.pl#?#section[id] section[data-background="{}"][style*="min-height"]:-abp-has(section.u65-newsletter-registration)
 www.porta.com.pl##.additional-links.row > form, .newsleter-box
@@ -1985,6 +1988,8 @@ muratordom.pl###nlt_popup
 mydetoxtea.pl###siteCover
 mylomza.pl###fadeinbox
 myloview.pl##.subskrypcja, .ui-widget-overlay
+myob.pl###popup-message-background
+myob.pl#?##popup-message-window:-abp-has(p > a >img[src*="popup_desktop"])
 mysize.com.pl###popup_box, #overlay
 m.czesciauto24.pl##.cps_app
 m.smaker.pl##.apkInfoPopup
@@ -3385,7 +3390,7 @@ angelsadvertising.pl,baccata.com.pl,www.sendbean.pl###sendbean
 anton-paar.com###footer-contact-us
 anton-paar.com,bisnode.pl###iframe-designstudio-button
 apaczka.pl##.ekomi-widget-container
-apartamentyzdrowie.pl##.telefon, .sendmail
+apartamentyzdrowie.pl###aside a:not(.Facebook)
 apteline.pl###lz_overlay_preview
 apteline.pl###lz_overlay_wm
 apteline.pl##.chat-fixed__wrapper
@@ -3448,7 +3453,7 @@ confronter.pl###cfModalOpen
 consumer.huawei.com##.nps-survey
 containex.pl###togglePopup, #contactPopup
 corona-fishing.pl##.baner-right-sliding
-cosinus.pl###dc-tab-button
+cosinus.pl,toyotabank.pl###dc-tab-button
 creative.media.pl##.side_contact_us
 czescidobmw.pl##.closegg
 czytio.pl###qcf-btn
@@ -3473,10 +3478,12 @@ domesta.com.pl##.ask
 domiporta.pl##.chatbot
 domisad.pl,eduweb.pl,eneba.com,kappahl.com,oneskyapp.com###launcher
 doniczki-poznan.pl##.cd-nav-trigger
+dormeo.pl,topshop.pl###slider_k2c
 dreamtours.pl###info-box
 dreamtours.pl##.popup-call-me-now > .widget
 dressinn.com##.chat_icono
 drukarniawolf.pl##.binotelHide, #bingc-phone-button-tooltip, #bingc-active, #bingc-phone-button
+dulux.pl###as-wc-id
 easygo.pl###reportBug, .reportBug
 ebeactive.pl###iw-tab-label
 eccoholiday.com###szybki_kontakt_tag, .szybki_kontakt_link
@@ -3568,6 +3575,7 @@ instalhurt.sklep.pl###widget_shop5
 interwencja.polsatnews.pl##.icon-mail.platform__link
 inter-kop.pl##.phone
 intimissimi.com##.js-bubble-open.botton-bubble
+investkomfort.pl###videocall-trigger
 isl.pl###contact-link, #lz_overlay_chat
 isl.pl###lz_eye_catcher
 ismserwis.pl###awesome-live-chat
@@ -3635,8 +3643,10 @@ monedo.pl###satellite
 morele.net##.why-us-widget
 motocombo.pl,tylkostylowe.pl###widget_shop2
 msn.com##.floatingfeedback
+msn.com##a[class*="feedback_link_default"][class*="button"]
 mtp.pl###mtp-chat
 multilampy.pl##.ceneo
+muzykanawesela.pl###sugeester
 myjki.com###zamow-rozmowe-btn, #lhc_status_container
 myownconference.pl##.fzom
 nafciarze.info###suggest-news
@@ -3646,6 +3656,7 @@ naukawpolsce.pap.pl###social > ul > .mail, .social > .mail
 niebieski.net##.slidebar, #livesite_engage_button
 nn.pl##.btn-opaque.floating-button-wrapper
 nordglass.pl###altar-chat-div-container, #altar-eye-catcher-div-container
+nowela.pl###contact-popup
 nuzle.pl###btn-suggest
 nvt.pl##.buttonWycena
 odnowa.jezuici.pl##.tab-contact
@@ -3662,6 +3673,7 @@ parkrozrywkizawada.pl,poklocki.pl,quantec.pl##.fa-paper-plane
 partyworld.pl,pomadziarz.pl###grw_sidebox
 pasland.pl###panel
 payukraine.com###jvlabelWrap
+pbgorski.pl##.call-back
 pbkm.pl##.side-bar__item--phone
 pccentre.pl###zak_error
 pcprojekt.pl##.knowledgebase-slide-btn, .whyus-tab
@@ -3688,6 +3700,7 @@ pracatobie.pl###ankieta1
 pracuj.pl###shareOpinionSticker
 profinfo.pl##.right-fix-widget > a[href*="sugestie"]
 projektgamma.pl###face-slider3
+projektowanie-wnetrz-online.pl#?#.elementor-location-popup:-abp-has(p:-abp-contains(/^Napisz do nas:$/))
 proshop.pl###dixa-widget-wrapper, #dixa-iframe-wrapper
 psprices.com###chatra
 pupillo.pl###opinie
@@ -3762,7 +3775,6 @@ the-first.pl###side_social_icons > ul > li:nth-of-type(2)
 ticketco.events##.tc-support-button
 tim.pl##[data-toolkit="toolkit-page-bugs"]
 tme.eu###feedback-widget
-topshop.pl###slider_k2c
 tourist.pl###sc2_all_container
 trans.info##.wall-add-news
 travelplanet.pl##.open--feedback--popup
@@ -3852,6 +3864,7 @@ zrzutka.pl##.uv-bottom-right
 ||papis.pl/livechat/php/app.php
 ||pcaction.pl/inne/allegro_komentarze.php
 ||pcaction.pl/szablony/standardowy.rwd/obrazki/zakladki/allegro.png
+||projektowanie-wnetrz-online.pl/wp-content/uploads/*/*/*-Wyslij-Zapytanie*$image
 ||qdecor.pl/img/ceneo-widget.png
 ||salesmanago.pl/static/chunk/chat.js
 ||secure.livechatinc.com^$third-party

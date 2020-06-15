@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 08 June 2020, 16:21:23 WIB
+! Last modified: 14 June 2020, 23:01:05 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -566,7 +566,7 @@
 /jserror?
 /JuraganFinal/images/300ads.
 /JuraganFinal/images/hads.
-/jquery$script,domain=anichin.my.id|imgfile.net
+/jquery$script,domain=imgfile.net
 /keremiyav4/js/lockscript.js
 /kita/busa.php
 /layarkaca21/js/lk21ads.js
@@ -797,6 +797,7 @@
 @@satoshisera.com$generichide
 @@semawur.com$generichide
 @@seo-stat.info$generichide
+@@shareaholic.com$1p
 @@sharethis.com$1p
 @@shorte.st$1p
 @@stackpath.bootstrapcdn.com/bootstrap
@@ -817,12 +818,12 @@
 @@vizury.com$domain=jd.id
 @@vjs.zencdn.net$domain=sendit.cloud
 @@vozdesportiva.com$generichide
+@@w3schools.com*css
 @@want2crypto.com$generichide
 @@wegner.tech$generichide
 @@wicr.in$generichide
 @@wl.jd.com
 @@wp.com$domain=samehadaku.vip
-@@www.w3schools.com*css
 @@yllix.com$1p
 @@zdassets.com
 @@zendesk.com
@@ -905,6 +906,8 @@ nekopoi.*#@#+js(acis, atob, tabunder)
 acefile.*##+js(aopr, popjs)
 ad4msan.win##p
 ahexa.com##h2
+anichin.my.id##tr
+anichin.my.id,kazefuri.me##+js(aeld, /^(?:click|mousedown|touchstart)$/, pop)
 awsubstv.com##div.section.widget_text:nth-of-type(2)
 bercara.com##p
 birdurls.com,bitearns.com,btcleets.xyz,dutchycorp.ovh,dutchycorp.space,mm1.ink,urle.io##[id*="ScriptRoot"]
@@ -937,7 +940,6 @@ in11.site##p:nth-of-type(n)
 justlikeyojna.com##center:nth-of-type(1) > strong
 kabarviral.blog##center:nth-of-type(2)
 kazefuri.me##div.section:nth-of-type(5)
-kazefuri.me##+js(aeld, /^(?:click|mousedown|touchstart)$/, pop)
 kvador.com##+js(aeld, /^(?:click|mousedown|touchstart)$/, pop)
 linkpoi.*##+js(abort-current-inline-script, addEventListener)
 lk21c.fun##table:nth-of-type(3)
@@ -1053,6 +1055,8 @@ closetopic.site##.idblog-core.idblog-related-post
 closetopic.site##.idblog-social-share
 closetopic.site##.posted-on
 coin.mg##.box-main > center
+coingecko.com##.ad-spacer
+coingecko.com##.selected
 coingecko.com##.sponsored
 coingecko.com##.top-header
 cointiply.com##.fl-ad-left
@@ -1142,6 +1146,7 @@ pantauterus.me##.truygiobl
 pantauterus.me##.wrapper-sticky
 pirate-bay.net##.modal
 pirate-bay.net##.sidebar-vpn
+pornhub.com##.abovePlayer
 pornhubpremium.com##.bottomNotification
 pornhubpremium.com##.sectionCarousel.sectionWrapper
 premierexxi.*##.wpb-outer-wrap
@@ -1184,6 +1189,7 @@ wadooo.com##.entry-title
 wadooo.com##.mb30
 wadooo.com##.sidebar
 wegner.tech##.adsbygoogle
+youtube.com##.ytd-search-pyv-renderer
 zapme.top##.overlay
 zippyshare.com##.slickbox > .center
 zonawibu.cc##.infopost
@@ -1258,6 +1264,8 @@ drakorindofilms.tv,inidramaku.com###ouibounce-modal
 dutchycorp.ovh,dutchycorp.space###sad-1
 dutchycorp.space###boxes
 easyhits4u.com###countDown
+google.com###bottomads
+google.com###tads
 grabmylink.xyz###top_adspace
 healthproper.blogspot.com###adb
 idfl.*###ad_global_below_navbar
@@ -1295,4 +1303,5 @@ wadooo.com###comments
 wadooo.com###header
 wadooo.com###footer
 webtoons.com###footer
+youtube.com###masthead-ad
 zippyshare.com###qrCode
