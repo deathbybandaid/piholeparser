@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: pJk/Nq7Brd0DnRbdczdlKg
+! Checksum: JJjDbavt2SuDBBlG1NtNlg
 ! Title: Polskie Filtry Elementów Irytujących
 ! Polish Annoyance Filters
 ! Codename: Annoyance - Main
 ! Description: Filtry ukrywające i blokujące wyskakujące okienka, widgety, newslettery, powiadomienia push, strzałki, otagowane linki wewnętrzne, które są nie na temat artykułów (np. link do pracy w Bydgoszczy w artykule o pogodzie) i inne drażniące elementy (Polskie Filtry RODO-Ciasteczkowe oryginalnie stworzone przez MajkiIT są już w nich zawarte).
 ! Required: Do poprawnego działania wymagana jest lista lub rozszerzenie I don't care about cookies!
-! Last modified: Mon, 15 Jun 2020, 20:00 UTC+02
-! Version: 2020.6.15.0
+! Last modified: Tue, 16 Jun 2020, 19:36 UTC+02
+! Version: 2020.6.16.1
 ! Expires: 2 days
 ! Najnowsza wersja zawsze na: https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters
 ! Zgłoszenia:
@@ -14,7 +14,7 @@
 !   GitHub => https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/deed)
 ! Copyright © 2020 Polish Filters Team
-! Aktualizacja: pon, 15 cze 2020, 20:00 UTC+02
+! Aktualizacja: wto, 16 cze 2020, 19:36 UTC+02
 !
 !
 ! Newslettery (nie popupy)
@@ -1826,7 +1826,7 @@ greenasia.eu,saluti.pl,uzywki.expert##.wceapp_popup.modal, .wceapp_popup.mask
 greenelka.pl###cfblb_modal
 growbox.pl###pf_bg, .pf_sub
 grywalizacja24.pl,iurico.pl###itro_popup, #itro_opaco
-gymeltoro.pl,manorhouse.pl,meblejedrus.eu,sklep.fanex.pl,sklep.krosno.com.pl##.popup
+gymeltoro.pl,manorhouse.pl,meblejedrus.eu,sklep.fanex.pl,sklep.krosno.com.pl,zabka.pl##.popup
 haart.pl,serialowy.info##.wph-modal
 hael.pl,modrzewiowy-dwor.pl##.fancybox-overlay
 hafija.pl##.dgd_overlay, .dgd_stb_box
@@ -3992,6 +3992,7 @@ beskidlive.pl###dj-suggester-in
 beskidzka24.pl##.page-preloader-cover
 bgsw.pl##.left.ltr.a11y-toolbar.a11y-non-responsive
 bieganieuskrzydla.pl##.c-card--dock
+bigbaddice.pl,gizchina.com.pl##.vw-more-articles
 bigbrother.tvn.pl##.__ipPerunElement[style^="position"]
 bikeboard.pl###magazine-btn
 bilbordy.info###tab
@@ -4176,7 +4177,6 @@ germany.travel##.popover-country
 getinbank.pl##.quickMenuRow.row
 getinbank.pl##.sticky-buttons__wrapper
 github.com##.gh-header .gh-header-sticky.is-stuck, .gh-header .gh-header-sticky.is-stuck + .gh-header-shadow
-gizchina.com.pl##.vw-more-articles
 gksjastrzebie.com,zulawytv.pl##.sp-pre-loader
 global4net.com##.implementation-catalog
 globalna.info##.single-navigation[class*="post"]
@@ -4743,8 +4743,8 @@ polishannoyancefilters.netlify.app,polishannoyancefilters.netlify.com###pafdetec
 !@ Required: Do poprawnego działania wymagana jest lista lub rozszerzenie I don't care about cookies!
 !@ Collaborators: MajkiIT, F4z, xxcriticxx, blocker999, hawkeye116477, krystian3w
 !@ Homepage: https://www.certyficate.it/
-!@ Version: 2020.6.13.0
-!@ Last modified: Sat, 13 Jun 2020, 15:44 UTC+02
+!@ Version: 2020.6.16.0
+!@ Last modified: Tue, 16 Jun 2020, 19:36 UTC+02
 !@ Expires: 2 days
 !@ Support:
 !@   Email => errors@certyficate.it
@@ -4755,7 +4755,7 @@ polishannoyancefilters.netlify.app,polishannoyancefilters.netlify.com###pafdetec
 !@ License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0)
 !@ Copyright © 2020 Certyficate IT & Polish Filters Team
 !@ Najnowsza wersja zawsze na: https://www.certyficate.it/adblock/
-!@ v.2020.6.13.0 aktualizacja: sob, 13 cze 2020, 15:44 UTC+02
+!@ v.2020.6.16.0 aktualizacja: wto, 16 cze 2020, 19:36 UTC+02
 !@
 !@
 !@ Specyficzne reguły ukrywające
@@ -4961,7 +4961,7 @@ avcraft.pl##.cookiesEU-inner
 avmarket.eu,delllow.com,dronexpert.eu,drukowanie.net,ethnostudio.eu,interlumen.com,kegel-aj.com,madys.eu,meble-jarocin.com,sprzetjezdziecki.com###InfoCookie
 avon.pl##.CookieSection
 azure.microsoft.com###cookie-prompt
-baborow.pl##.page-cookie
+baborow.pl,przemysl.pl##.page-cookie
 babytvchannel.info###cookieStandart
 baby.nivea.pl##.policy-info, .privacy-policy-change
 bacca.pl###CookieLawInfoPlugin
@@ -5962,8 +5962,7 @@ licytacje.komornik.pl###sign_up, body > div[style*="margin-top: 100px"]
 lifepointspanel.com##.cookie_banner_notification
 lightbox.pl##.cookies-bottom
 limango-outlet.pl##.lilayout-header-cookiebar
-limango.pl###footer-container ~ div[class*="shop"]:last-of-type:not([style])
-limango.pl##.floating_notification
+limango.pl###footer-container ~ div[class*="shop"]:last-of-type:not([style]), .floating_notification
 linkedin.com###artdeco-global-alert-container > artdeco-global-alert[severity="notice"]
 linkedin.com###global-alert-queue > .alert, #notice-cookie-policy, .global-alert
 linkhouse.pl##.popup_wrapper, .popup_background
@@ -6011,6 +6010,7 @@ malwaretips.com,xiaomi.eu##.notice--cookie
 malybelgrad.pl##.june2018cookies
 mamadha.pl,maxonactive.pl###page-cookie-bar
 mamaplus.pl###ue-cookie-warning
+mango.pl##div[class^="cookieMonster-wrapper-"]
 manusite.pl##div[style="width:960px;height:100px;background:#0F0F0F;font-size:15px;text-align:center;padding:10px auto;"]
 maratony24.pl##div#privacyPolicy
 marczewski.pl,michal.kosmulski.org###ustawaCiasteczkowa
@@ -8003,6 +8003,8 @@ gg.pl#@#body > div:nth-of-type(2) > div
 pl#@##catapult-cookie-bar
 pl#@#.ccc-widget:not(body):not(html)
 pl#@#.cookie-msg-box
+uniroyal.pl#@#.js-cookie-banner:not(body):not(html)
+uniroyal.pl#@#.privacyhint:not(body):not(html)
 volcano.pl#@##cookiesModal
 @@||bitner.com.pl/plugins/cookiebar/jquery.cookiebar.js
 !@
