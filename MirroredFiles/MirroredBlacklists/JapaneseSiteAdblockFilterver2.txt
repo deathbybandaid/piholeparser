@@ -408,6 +408,7 @@ pointmail.rakuten.co.jp##div#special_iframe_couponArea
 
 !---------------- CUSTOM : Twitter
 @@||pbs.twimg.com/media/$image
+@@||mobile.twitter.com^$image
 @@||twitter.com/i/cards/$~third-party
 
 !---------------- CUSTOM : Yahoo! Japan

@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: JJjDbavt2SuDBBlG1NtNlg
+! Checksum: gTnb2PzIdxe6PBJ37l95sw
 ! Title: Polskie Filtry Elementów Irytujących
 ! Polish Annoyance Filters
 ! Codename: Annoyance - Main
 ! Description: Filtry ukrywające i blokujące wyskakujące okienka, widgety, newslettery, powiadomienia push, strzałki, otagowane linki wewnętrzne, które są nie na temat artykułów (np. link do pracy w Bydgoszczy w artykule o pogodzie) i inne drażniące elementy (Polskie Filtry RODO-Ciasteczkowe oryginalnie stworzone przez MajkiIT są już w nich zawarte).
 ! Required: Do poprawnego działania wymagana jest lista lub rozszerzenie I don't care about cookies!
-! Last modified: Tue, 16 Jun 2020, 19:36 UTC+02
-! Version: 2020.6.16.1
+! Last modified: Wed, 17 Jun 2020, 20:00 UTC+02
+! Version: 2020.6.17.1
 ! Expires: 2 days
 ! Najnowsza wersja zawsze na: https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters
 ! Zgłoszenia:
@@ -14,7 +14,7 @@
 !   GitHub => https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/deed)
 ! Copyright © 2020 Polish Filters Team
-! Aktualizacja: wto, 16 cze 2020, 19:36 UTC+02
+! Aktualizacja: śro, 17 cze 2020, 20:00 UTC+02
 !
 !
 ! Newslettery (nie popupy)
@@ -174,6 +174,7 @@ bissole.pl##a[href="#newsletter"]
 bissole.pl,foodarea.pl,pierwszynamapie.pl,rozsadnibracia.pl###text-6
 bitcoin-online.pl#?#.block-title:-abp-contains(Newsletter)
 bithub.pl##.widget_bs-newsletter-mailchimp
+biuroprasowe.pl#?#.right-col p:nth-of-type(2) > b:-abp-contains(newsletter)
 biznesalert.pl,czaszegarkow.pl,fasardi.com,sirt.pl,sklep.granna.pl,superprezenty.pl##.subscribe
 blip.pl###salesmanagoIframe
 blip.pl##.front-newsletter
@@ -964,6 +965,7 @@ pl.pandora.net##.bottom-email-signup
 pl.primo.com##footer .p-columns:nth-of-type(2)
 pl.ryobitools.eu##[id*="RyobiFooterSignUp_txt"], [id$="RyobiFooterSignUp_lblTitle"], [id$="RyobiFooterSignUp_btnSignUp"]
 pl.sportsdirect.com##.signup-wrapper
+pl.weekendmaxmara.com##.newsletter.box
 pocztazdrowia.pl##.pull-right.col-xs-12.col-sm-12.col-md-5.col-lg-4
 podrywaj.org###block-block-34
 podyplomie.pl##.footer > .section > .row > div:nth-of-type(1) > .form-flex
@@ -1158,7 +1160,6 @@ slimebox.pl##.newsletter-widget-5
 slimwallet.pl##.newsletter-block-footer
 slusarczyk-bmw.pl###musli > li:nth-of-type(3)
 smaczny.pl##.stopka-smaczny > .col-md-8.col-xs-24:nth-of-type(1)
-smakowitychleb.pl###r-newsleeter-content, .bg-newsletter
 smalltronic.pl##.NaglowekNewsletter, .ModulNewsletter
 smyk.com##.border__gradient--right-green-calltoaction-bar.border__gradient--left-green-calltoaction-bar
 sniadaniezkadra.onet.pl##.footerMenuBoxNewsletter
@@ -1453,6 +1454,8 @@ zus.pox.pl##.moduletable:nth-of-type(5)
 zyciepabianic.pl###col1 > .widget:nth-of-type(3)
 zyciepabianic.pl###widget-newsletter
 !decathlon.pl###footer div[class*="column"]:nth-of-type(3) .ct-appBox
+||biuroprasowe.pl/userfiles/_CMS_/EPR3/baner_newsletter.jpg
+||biuroprasowe.pl/userfiles/_CMS_/EPR/biuroprasowe-reklama.jpg
 ||carry.pl//themes/default/img/newsletter1.png
 ||dobremiejsce.org/wp-content/themes/dobremiejsce_org_pds/images/s2-980.jpg
 ||forms.freshmail.io/f/$subdocument,domain=wei.org.pl
@@ -2007,7 +2010,7 @@ nawado.pl##.fadein.wpoi-show.inc_optin_1.inc_optin.wpoi-animate.inc_opt_popup
 nawado.pl##.wpoi-show.fadein.wpoi-animate.wpoi-overlay-mask.undefined.inc_optin_1
 nawakacje.eu,rytmynatury.pl##.ays-fpl-modals
 nawiedzone.pl###sgpb-popup-dialog-main-div-wrapper, .sgpb-popup-overlay
-nawiedzone.pl,polskieszosy.pl,swiatfilmikow.pl##[data-title="Social Form - Popup #02"]
+nawiedzone.pl,polskieszosy.pl##[data-title="Social Form - Popup #02"]
 nawozy.eu##.newsletterPopup
 nbsklep.pl##.sp-fancybox-wrap
 neo24.pl,neonet.pl##.snrs-modal-show.snrs-modal-wrapper
@@ -2077,6 +2080,7 @@ pl.aleteia.org##.newsletter-popups
 pl.gearbest.com##.newUserPop, #layui-layer-shade1
 pl.geofumadas.com,webmastah.pl##.ulp-window, .ulp-overlay
 pl.vivre.eu##.js-modal-newsletter-1
+pl.weekendmaxmara.com##.newsletter.modal, .jquery-modal
 pocztazdrowia.pl###overlay2, #overlayFlex22
 poczta.interia.pl##.appPromo-container
 poczta.interia.pl##.push-prompt.overlay, #overlay-background
@@ -2342,6 +2346,7 @@ zuch.media###spu-10366, #spu-bg-10366
 ||a-masterlease.youlead.pl/api/query/popup/SettingsForPopups$script,domain=master1.pl
 ||a.mailmunch.co/app/$script,third-party
 ||brilum24.pl/skins/user/rwd_shoper_1/js/remodal.min.js
+||brytol.com/wp-content/plugins/auto-fb-popup/assets/remodal.min.js
 ||call.novocall.co/v1/widgets$script,domain=krainawody.pl|pij-wode.pl
 ||centrumprasowe.pap.pl/cp/pl/ajax/popup/*$xmlhttprequest
 ||chamskie.pl/compress/popupFacebook.js
@@ -2380,6 +2385,7 @@ zuch.media###spu-10366, #spu-bg-10366
 ||mocak.pl/subscribe/newsletter/new$xmlhttprequest
 ||modea.pl/html/bioep.js
 ||modea.pl/js/CoverPop.min.js
+||motywujemy24.pl/compress/popupFacebook.js
 ||m-wierchomla.youlead.pl/ylcustom.js
 ||nawozy.eu/js/jquery.lockscroll.min.js
 ||phf-bosch.pl/kartki/kartki.js
@@ -2413,12 +2419,10 @@ zuch.media###spu-10366, #spu-bg-10366
 ||woblink.com/js/newsletterPopup.js
 ||wszystkookotach.pl/wp-content/plugins/popslide/assets/js/front.js
 ||www1.grouponcdn.com/app/subscriptions/assets/email_zip_main_*.js
-||www.brytol.com/wp-content/plugins/auto-fb-popup/assets/remodal.min.js
 ||www.claritine.pl/static/js/image_gallery/jquery.colorbox.js
 ||www.izigsm.pl/js/newsletterpop.js
 ||www.kuchenny.com.pl/popup/js/jquery.simplemodal.js
 ||www.makita.sklep.pl/szablony/standardowy.rwd/exit-popup/scripts/main.js
-||www.motywujemy24.pl/compress/popupFacebook.js
 ||www.nivea.pl/-/proxy/web/*/nivea-club-pf/popup/*$xmlhttprequest
 ||www.super-toys.pl/javascript/banner_popup.php
 ||www.wymarzonyogrod.pl/popup-newsletter/*
@@ -3557,6 +3561,7 @@ grafiqa.pl,puch-kotlowski.pl,treningkrakow.pl##.side-tab-widget > a[href="kontak
 grechmoto.pl##.jfab_main_btn
 greenhousedevelopment.pl,sew-eurodrive.pl,super-soco.pl##.contact
 gromar.eu##.contact-widget
+grupazero.pl##.contact-btn
 grywalizacja24.pl###wpfb-contact
 hafija.pl##.bonfire-slideout-button, .bonfire-slideout-button-triangle-background
 happydental.pl###phone-call
@@ -3591,7 +3596,6 @@ kajakom.pl###help
 kammar24.pl###druga_ikona
 karchercenter-ocean.pl,merida.com.pl,swiss.com.pl,wspa.pl###lhc_status_container
 kawaly.tja.pl,tapeciarnia.pl###div_okienko_shoutbox_schowane
-kawaly.tja.pl,tja.pl###div_wysuwany_opinia
 kegel-aj.com##.b24-widget-button-wrapper
 king-poligrafia.pl###face-slider
 klimacold.com.pl###ssb-btn-0,#ssb-btn-1, #ssb-btn-2, #ssb-btn-4
@@ -3741,7 +3745,6 @@ shopalike.pl###feedback-btn
 siligan.pl###widget_5, #widget_6
 siligan.pl##.widget_contact
 sklephonda.pl###phone_widget
-sklepmaniek.pl,zegarki-online.pl###allegro_ikona
 sklepsportowy.pila.pl###fc_frame
 sklep-agrohandel.pl##.contact_email
 sklep-muzyczny.com.pl###widget_shop9
@@ -3777,6 +3780,7 @@ tesa.com##.js-open-contact.icon-mail
 the-first.pl###side_social_icons > ul > li:nth-of-type(2)
 ticketco.events##.tc-support-button
 tim.pl##[data-toolkit="toolkit-page-bugs"]
+tja.pl###div_wysuwany_opinia
 tme.eu###feedback-widget
 tourist.pl###sc2_all_container
 trans.info##.wall-add-news
@@ -4551,7 +4555,6 @@ superkopia.pl##.eraty-layer
 support.microsoft.com##.ng-scope.survey-background[style*="position"][style*="fixed"]
 suwalki24.pl###sideCard
 swiatbaterii.pl###growls
-swiatkwiatow.pl##.punica-shadow-box > #wyskakujaca
 swiatseriali.interia.pl##.recommend-flybar-button
 sympatia.onet.pl###iconsBar
 szkolajazdykoronamm.pl##.spjwidget-double a[href$="/szkola-jazdy-korona-mm,20821.htm?widget=register"]
