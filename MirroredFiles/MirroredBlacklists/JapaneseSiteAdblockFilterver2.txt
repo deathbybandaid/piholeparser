@@ -397,6 +397,7 @@ nicovideo.jp##aside[class*="billboard-banner"]
 ||ias.rakuten.
 ||pointmail.rakuten.co.jp/tie-up/common/special_iframe_coupon.html
 ||pzd.rakuten.
+||rakuten-static.com/1/grp/banner/
 ||rat.rakuten.
 ||rd.rakuten.
 ||recommend.rakuten.
