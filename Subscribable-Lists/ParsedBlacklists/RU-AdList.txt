@@ -133,7 +133,6 @@ adres21.ru
 adru.net
 ads.bid
 ads2rtb.com
-adsclick.ru
 adsellers.net
 adshostnet.com
 adsmeda.com
@@ -2141,6 +2140,7 @@ viniki.ru
 vinov24.com
 vinregle.com
 vipaccess.su
+vipicmou.net
 visitscounter.ru
 vitos.freezfiles.ru
 viva-vanna.ru
