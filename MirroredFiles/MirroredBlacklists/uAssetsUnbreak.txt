@@ -3750,3 +3750,12 @@ getcoloringpages.com#@#.adsBlock
 
 ! https://github.com/NanoMeow/QuickReports/issues/4172
 .net/ads/$badfilter
+
+! bloomberg.com CNAME
+!#if env_firefox
+@@||cdx.cedexis.net^$domain=bloomberg.com
+!#endif
+
+! https://github.com/NanoMeow/QuickReports/issues/2057
+nfmovies.com#@#+js(aopr, $myui)
+@@||nfmovies.com/static/side.jpg$xhr,1p
