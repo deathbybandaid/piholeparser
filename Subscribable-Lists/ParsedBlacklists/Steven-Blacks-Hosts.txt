@@ -1118,6 +1118,7 @@ ledampenergy.net
 libjs.inquirerjs.com
 libjss.inquirerjs.com
 link-js.link
+link.getmailspring.com
 linux.cocoss2d.com
 linux.css2.com
 linux.unitys3d.com
