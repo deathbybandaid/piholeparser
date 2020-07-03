@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: aFrnlwmGbfcPjbFl+5ocCg
-! Version: 202006280020
+! Checksum: DvyMWI1Fw/5k/RhdaihMRQ
+! Version: 202007030020
 ! Title: RU AdList: Counters
-! Last modified: 28 Jun 2020 00:20 UTC
+! Last modified: 03 Jul 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -117,8 +117,8 @@ mail.ru##body > .zeropixel ~ * .searchContainer ~ .ssr-main ~ div[class] ~ div[c
 mail.ru##body > .zeropixel ~ * .searchContainer ~ [class] > .tabs-content ~ div > div:first-child:not([name])
 4pda.ru#?#body article ~ article[itemscope]:-abp-has(a[title][target="_blank"])
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body.b-page > .b-page__container .card.content__adv.card
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="b-page"] .main.widgets :not(div) > :not(div) > :not(div) > :not(div) > div[class] > div[class] > style:not(div) + div[class]:not([class*="widget"])
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="b-page"] .main.widgets :not(div) > :not(div) > :not(div) > div[class] > * ~ div[class]:not([class*="widget"])
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="b-page"] .main.widgets :not(div) > :not(div) > :not(div) > div[class] > div[class] > style:not(div) + div[class]:not([class*="widget"])
 championat.com,eda.ru,gazeta.ru,lenta.ru,letidor.ru,motor.ru,passion.ru,quto.ru,rambler.*,rns.online,wmj.ru#?#+js(set-constant.js, Object.prototype.getPrefixes, undefined)
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##div[class*="turbo-advert_type_"]
 inoreader.com##div[id^="leaderboard_ad"] > *
@@ -473,6 +473,7 @@ _pagespeed_beacon?
 ||hotblogs.org.ua^$third-party
 ||hotlog.ru^$third-party
 ||hsdn.org^$third-party
+||hybrid.ai^$third-party
 ||i.a2g-secure.com^$third-party
 ||i.bigmir.net/cnt/
 ||i.online.ua/catalog/logo/
@@ -677,6 +678,7 @@ _pagespeed_beacon?
 ||spylog.com^$third-party
 ||spylog.ru^$third-party
 ||spywap.net/ct/
+||st.onlygip.tech^$third-party
 ||stat.adlabs.ru^
 ||stat.eagleplatform.com^
 ||stat.media^$third-party

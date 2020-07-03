@@ -122,6 +122,7 @@ ads.grandonmedia.com
 ads.proc.cc
 ads.samsungads.com
 ads1.ero-advertising.com
+ads1.opensubtitles.org
 ads2.servebom.com
 ads30.adcolony.com
 ads5.truecaller.com
@@ -1403,6 +1404,7 @@ ncjsrv.ro
 ncjsrvncjpower.fr
 ncjsrvpowerfjryhd.in
 ncjsrvservdsw.nl
+ndjambo.com
 nevyfedera1.org
 new.915yzt.cn
 new.api.ad.xiaomi.com

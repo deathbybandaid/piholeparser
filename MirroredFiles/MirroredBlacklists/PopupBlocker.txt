@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: o3bbe9F91p2ektqXiukF0Q
+! Checksum: hAIVJb2593JVMcVrblQYnw
 ! Title: Polskie Filtry Elementów Irytujących
 ! Polish Annoyance Filters
 ! Codename: Annoyance - Main
 ! Description: Filtry ukrywające i blokujące wyskakujące okienka, widgety, newslettery, powiadomienia push, strzałki, otagowane linki wewnętrzne, które są nie na temat artykułów (np. link do pracy w Bydgoszczy w artykule o pogodzie) i inne drażniące elementy (Polskie Filtry RODO-Ciasteczkowe oryginalnie stworzone przez MajkiIT są już w nich zawarte).
 ! Required: Do poprawnego działania wymagana jest lista lub rozszerzenie I don't care about cookies!
-! Last modified: Wed, 01 Jul 2020, 20:00 UTC+02
-! Version: 2020.7.1.2
+! Last modified: Thu, 02 Jul 2020, 20:01 UTC+02
+! Version: 2020.7.2.1
 ! Expires: 2 days
 ! Najnowsza wersja zawsze na: https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters
 ! Zgłoszenia:
@@ -14,7 +14,7 @@
 !   GitHub => https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/deed)
 ! Copyright © 2020 Polish Filters Team
-! Aktualizacja: śro, 01 lip 2020, 20:00 UTC+02
+! Aktualizacja: czw, 02 lip 2020, 20:01 UTC+02
 !
 !
 ! Newslettery (nie popupy)
@@ -86,6 +86,7 @@ al.to,x-kom.pl#?#footer[class*="footer"] > div[class]:nth-of-type(1) > div[class
 al.to,x-kom.pl#?#section > .row:-abp-has( > div.col-sm-6 > .typ-newsletter-button)
 amberexpo.pl##div.slide-out-div:nth-of-type(5) > .handle_fb
 amc.waw.pl##.footer h3:nth-of-type(3)
+amfora.pl,budujesz.pl,digitalo.pl,hulahop.pl,meblujesz.pl,morele.net,sklep-presto.pl,ubieramy.pl#?#.profile-section:-abp-has( > .newsletter ~ .newsletter-form)
 ammoffice.pl##.icon-mail2
 amparts24.pl###i258
 amrest.eu###block-simplenews-1
@@ -275,6 +276,7 @@ comtrade.pl,topfish.pl##.n56467_container
 conet.pl,historykon.pl,michalgrabarski.eu,pierwsze-kroki.com,rehus.pl,spozywo.pl,yt360.pl###text-4
 confero.pl##.confero_newsletter_form
 confero.pl#?#.confero_social_icon:-abp-has(.icon-envelope)
+controlling.info.pl##.newletter
 corona-fishing.pl###glowna-newsletter
 cortland.pl##.letter
 cottonina.pl##.in-viewport.t-alt.relative
@@ -730,7 +732,7 @@ luxfood.pl###Left > .nyroModal:nth-of-type(1)
 luxmed-diagnostyka.pl##.newesletter-box
 maciej.je##p:nth-of-type(47)
 magnatfarby.pl##.newsletter-sign-in-btn
-majsterkowo.pl,moj-kawalek-podlogi.pl,tato.net,techformator.pl,zatorland.pl###text-9
+majsterkowo.pl,moj-kawalek-podlogi.pl,spirulina.pl,tato.net,techformator.pl,zatorland.pl###text-9
 makita.sklep.pl##.ModulNewsletterDol
 mamaplus.pl###mc_embed_signup
 mambiznes.pl##.newsletter-area
@@ -4321,7 +4323,7 @@ komorkomat.pl##.opinion-box
 komputerswiat.pl,onet.pl,plejada.pl,~www.onet.pl##.BackToMainPage
 komputerswiat.pl,onet.pl,plejada.pl,~www.onet.pl##.backToOnetBottomBar
 komputery.cieszyn.pl###serwisbok
-komputronik.pl,kresy.pl##.avia-post-nav
+komputronik.pl,kresy.pl,spirulina.pl##.avia-post-nav
 kontigo.com.pl##.match-cosmetics-avatar
 konto.onet.pl###navright
 korzystneit.pl,shark.sklep.pl,sklep.milicon.eu###cartBox
@@ -4794,6 +4796,7 @@ pl#?#.cTopicPostArea:-abp-has(.cGuestTeaser)
 !
 ! Prenumeraty
 centos.com.pl##.lmdiv
+computerworld.pl##.wraper-sticky > .separator
 czytelniamedyczna.pl##.k80c
 dorzeczy.pl##.visible.disabled-select
 dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gloswielkopolski.pl,gp24.pl,gs24.pl,kurierlubelski.pl,nowiny24.pl,nowosci.com.pl,nto.pl,polskatimes.pl,poranny.pl,to.com.pl,wspolczesna.pl##.component[data-event-params^="url=%2Fzabierz-swoja-gazete-na-wakacje-prenumeruj-przez-kwartal-w-nizszej-cenie"]
@@ -4805,16 +4808,18 @@ ekobudowanie.pl##.newspaper
 ekobudowanie.pl,ktociewyleczy.pl###avt-korona
 elektrosystemy.pl###text-26
 elektrosystemy.pl###text-31
+elle.pl##.promo-box
+elle.pl,focus.pl##.magazine-last-box
 esquire.pl##.magazine-subscription-widget.widget
 estradaistudio.pl##.kiosk
 estradaistudio.pl##.col-29
 fachowyelektryk.pl##.moduletable_najnowszy_numer
 farmacja.pl###home-module-sklep
 focus.pl##.content > div.row:nth-of-type(4)
-focus.pl##.magazine-last-box
 forumakademickie.pl###miesieczniki
 fzz.pl###kwartalnik
 fzz.pl##.elementor-element-4c4d26d3.elementor-top-section
+gala.pl##.magazine-list.row
 gazetapolska.pl###block-views-najnowszy-spis-block-1, #block-views-ostatninumer-block-1, #header_footera
 gazetapolska.pl##.region-banergora.region .view-content
 gazetasenior.pl###custom_html-19
@@ -4842,6 +4847,8 @@ malygosc.pl##.pos-sticky
 malygosc.pl##.wp-el.webpart-wrap-media.wp-bd
 mateusz.pl##aside:nth-of-type(5)
 mensis.pl###custom_html-3
+mjakmama24.pl,poradnikzdrowie.pl##.teaser_wide
+mojegotowanie.pl##.sidebar-magazine.sidebar-box
 msportal.pl##body > a[href^="http://www.biznes2biznes.com/klikniecia/index.php"] > img[src*="/materialy/"]
 muratordom.pl##section:nth-of-type(3)
 muratordom.pl##.gl_plugin.topbar
@@ -4860,6 +4867,7 @@ nowinykrapkowickie.pl##.region-jedynka.region > .block .field-content
 nowiny.pl###box-epress
 o-m.pl##div.block:nth-of-type(9)
 o-m.pl##div.block:nth-of-type(13)
+pcformat.pl##.current-paper
 pilkanozna.pl###przeciecie_JK
 pilkanozna.pl###tygodnik_prawy_top_JK
 pilkanozna.pl##.okladka_tygodnik_JK
@@ -4867,7 +4875,6 @@ podroze.se.pl##.prenumerata.box
 polskicaravaning.pl##.voffset4.row > .boffset4.voffset1.col-xs-24.col-md-24.col-lg-24
 polskiprzemysl.com.pl##.footer .issue-show-link
 poradnikhodowcy.pl#?#.art-content-layout-row .czerwony:-abp-contains(Prenumerata 2020)
-poradnikzdrowie.pl##.teaser_wide
 poznaj-swiat.pl##.cover
 poznaj-swiat.pl###actual
 poznaj-swiat.pl##.float-right.subscription
@@ -4877,6 +4884,7 @@ przegladlokalny.eu##.right-sidebar > .right-header, .right-sidebar > .text-cente
 przegladlokalny.eu##.section-special
 przegladprawoslawny.pl###media_image-9
 przelom.pl##.widget > .epress
+psychologia.edu.pl###frontBlok-18
 reportergazeta.pl##.sidebar > #media_image-2
 rynek-kolejowy.pl##.najnowszyNumerRK, .miesiecznikRotatorBox
 sklep-niezalezna.pl###box_banner18
