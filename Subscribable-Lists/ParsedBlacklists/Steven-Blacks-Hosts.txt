@@ -71,6 +71,7 @@ ad.adapter.kaffnet.com
 ad.api.kaffnet.com
 ad.apsalar.com
 ad.click.kaffnet.com
+ad.samsungadhub.com
 ad.wynk.in
 ad0.adspaces.ero-advertising.com
 ad0.api.ero-advertising.com
@@ -442,6 +443,7 @@ com-notice.info
 comericac.com
 compdate.my03.com
 comssite.com
+config.samsungads.com
 configsysrc.info
 conhostservice.com
 console.rtk.io
@@ -637,6 +639,7 @@ eul.s.360.cn
 event.ksosoft.com
 events.appsflyer.com
 events.redditmedia.com
+events.samsungads.com
 events.startappservice.com
 events3.adcolony.com
 events3alt.adcolony.com
@@ -775,6 +778,7 @@ gj.applog.uc.cn
 gj.track.uc.cn
 gjapplog.uc.cn
 gjtrack.ucweb.com
+gld.samsungosp.com
 globalapi.ad.xiaomi.com
 globalpagee-prod-webex.com
 glt-app.net
@@ -798,6 +802,7 @@ google-activity.pw
 googlephoto.vip
 goooooooooogle.com
 govaj.com
+gpm.samsungqbe.com
 grabascoop.com
 grabify.link
 grandmods.com
@@ -931,6 +936,7 @@ instaboom-hello.site
 install.ddns.info
 instory-log.ucnews.ucweb.com
 intext.ero-advertising.com
+invitation.samsungiotcloud.com
 invoke.ml
 ioads.ero-advertising.com
 ios.0pengl.com
@@ -1129,6 +1135,11 @@ livecheckpointsrs.com
 livetus.com
 lli.nrvyzj.com
 load.collegesmooch.com
+log-1.samsungacr.com
+log-2.samsungacr.com
+log-3.samsungacr.com
+log-ingestion-eu.samsungacr.com
+log-ingestion.samsungacr.com
 log.apk.v-mate.mobi
 log.getdropbox.com
 log.snapdeal.com
@@ -1507,6 +1518,8 @@ oawyr.com
 oawyri.com
 odaiw3dda.bestnewsworld.info
 oderstrg.site
+oempprd.samsungcloudsolution.com
+oempprd.samsungcloudsolution.net
 oi8ytfzxa.appspot.com
 onlineapi.youappi.com
 opads.ero-advertising.com
@@ -1518,6 +1531,7 @@ ora.studiolegalebasili.com
 orabbix.zabbixmonitor.net
 orion.iad.appboy.com
 orzk.net
+osb-ussvc.samsungqbe.com
 osheoufhusheoghuesd.ru
 otpe.bestnewsworld.info
 ottocap.org
@@ -1690,6 +1704,7 @@ rabianbrother.com
 rakuten.jp-bankq.com
 rata.ero-advertising.com
 rc-room.com
+rd.samsungadhub.com
 rdi.eu.criteo.com
 redirect.ero-advertising.com
 register.appsflyer.com
@@ -2139,6 +2154,7 @@ uy6x.bestnewsworld.info
 uy6x.c3y5-tools.com
 v10c.events.data.microsoft.com
 vamsoupowoa.com
+vdterms.samsungcloudsolution.com
 vdtrack.com
 verywellfitnesse.com
 vhguyeu.ml
