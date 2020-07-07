@@ -1122,6 +1122,7 @@ m-facebookcom-profilephp00133547895.github.io
 m.burt.io
 m3global.io
 m84id2e2-android.mobile-sdk-api.intercom.io
+macro.adnami.io
 mafo.adalliance.io
 mail.sparechange.io
 man.luckypool.io

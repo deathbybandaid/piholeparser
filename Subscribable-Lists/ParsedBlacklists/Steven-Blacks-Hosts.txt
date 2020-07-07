@@ -66,6 +66,7 @@ accountsx.bounceme.net
 acdn.adnxs.com
 acrdb.alphonso.tv
 acspaces.ero-advertising.com
+ad-dev.globalnoticias.pt
 ad.360in.com
 ad.adapter.kaffnet.com
 ad.api.kaffnet.com
@@ -144,6 +145,7 @@ adspcces.ero-advertising.com
 adsspaces.ero-advertising.com
 adstaces.ero-advertising.com
 adtekmedia.com
+adtracker.mkjigsaw.com
 adv.axiatraders.com
 adv.grandonmedia.com
 adv.sec.intl.miui.com
@@ -280,6 +282,7 @@ authorizecdn.com
 avrenew.com
 aws-update.net
 b.zabbixx.com
+backend-ssp.adstudio.cloud
 bacr.com.pk
 badoo-account-security.com
 ban3ers.ero-advertising.com
@@ -413,6 +416,7 @@ chrome-redirect.top
 cionx.inteleksys.com
 ciscocheckapi.com
 citywlnery.org
+cl-ad.x-flow.app
 clearcovid19virus.com
 cleardefencewin.com
 click.axiatraders.com
@@ -1138,6 +1142,7 @@ load.collegesmooch.com
 log-1.samsungacr.com
 log-2.samsungacr.com
 log-3.samsungacr.com
+log-ads.r7.com
 log-ingestion-eu.samsungacr.com
 log-ingestion.samsungacr.com
 log.apk.v-mate.mobi
@@ -1171,6 +1176,7 @@ m0bile.net
 ma1310-r.analytics.edgekey.net
 ma312-r.analytics.edgesuite.net
 mackeeperapp.zeobit.com
+macro.adnami.io
 mage-checkout.org
 magejavascripts.com
 magescripts.pw
@@ -1267,6 +1273,7 @@ microsoftupdateswin.com
 milkmovemoney.com
 mioniough.com
 misshaus.org
+mjp.zimad.com
 mktg.tvpage.com
 mnp.nkr.am
 mobile.pipe.aria.microsoft.com
@@ -2673,6 +2680,7 @@ wzrkt.com
 xasf32easzx.appspot.com
 xda-developers.us
 xizr.inteleksys.com
+xm0siulufost.com
 xmeeting.com
 xmh57jrzrnw6insl.onion.pet
 xml.plaimedia.com
