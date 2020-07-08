@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: KA4jPfEev3plJtPJ5jlznQ
+! Checksum: 4It/PlydJjuAd5K7rXVcZw
 ! Title: Polskie Filtry Elementów Irytujących
 ! Polish Annoyance Filters
 ! Codename: Annoyance - Main
 ! Description: Filtry ukrywające i blokujące wyskakujące okienka, widgety, newslettery, powiadomienia push, strzałki, otagowane linki wewnętrzne, które są nie na temat artykułów (np. link do pracy w Bydgoszczy w artykule o pogodzie) i inne drażniące elementy (Polskie Filtry RODO-Ciasteczkowe oryginalnie stworzone przez MajkiIT są już w nich zawarte).
 ! Required: Do poprawnego działania wymagana jest lista lub rozszerzenie I don't care about cookies!
-! Last modified: Mon, 06 Jul 2020, 23:27 UTC+02
-! Version: 2020.7.6.2
+! Last modified: Tue, 07 Jul 2020, 20:00 UTC+02
+! Version: 2020.7.7.2
 ! Expires: 2 days
 ! Najnowsza wersja zawsze na: https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters
 ! Zgłoszenia:
@@ -14,7 +14,7 @@
 !   GitHub => https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/deed)
 ! Copyright © 2020 Polish Filters Team
-! Aktualizacja: pon, 06 lip 2020, 23:27 UTC+02
+! Aktualizacja: wto, 07 lip 2020, 20:00 UTC+02
 !
 !
 ! Newslettery (nie popupy)
@@ -147,7 +147,7 @@ bankier.pl###boxNewsletterFlyfooter, #articleNewsletter
 bankmillennium.pl###buttonSelectorChat
 bankobranie.blogspot.com###topNewsletter
 baramundi.pl##.footer-content-1 > .inner
-barokko.pl###tws_i_1
+barokko.pl,electro-outlet.pl###tws_i_1
 bartoszkrawczykdemczuk.pl###tve_editor
 basenymineralne.pl##.foo-box-mid
 bass-sklep.pl###box-5
@@ -1855,7 +1855,7 @@ forumneurologiczne.pl,forumpediatryczne.pl,forumstomatologiczne.pl,psychiatria.p
 forum.duolingo.com#?#body > div.ReactModalPortal:not(:empty):-abp-has(img[src$="/images/duo_wave.svg"])
 forum.grywamtu.pl###pop-slap[data-hello-text], .bg-pop-over
 forum.joomla.pl###fancybox-overlay, #fancybox-wrap
-fotografwdrodze.pl###exitpopup-modal
+fotografwdrodze.pl,skladaniekomputera.pl###exitpopup-modal
 fotoprzyroda.pl###sosinvision_popup
 francuskie.pl##.greensboro-optin-visible
 fundacjajoannyradziwill.pl##.freshmail_popup
@@ -3519,6 +3519,8 @@ bonami.pl,notino.pl###daktela-chat, #daktela-web
 booksy.com###page > a[class^="_"][href$="/viewform"]
 born2be.pl,renee.pl##.helpButton
 bosch-extra.pl,extra-program.pl###contact-bar
+braclowiecka.pl##a.shop:nth-of-type(2)
+braclowiecka.pl##.icon-bar > a.shop:nth-of-type(1)
 brakestock.pl###zcwMiniButton
 brandvital.eu,ciagutek.pl###callnowbutton
 brewa.pl,iautomatyka.pl###chatContentHolder
@@ -3691,6 +3693,7 @@ king-poligrafia.pl###face-slider
 klimacold.com.pl###ssb-btn-0,#ssb-btn-1, #ssb-btn-2, #ssb-btn-4
 klinikawitaminowa.pl##div.js--phone-button.ic-phone-button:nth-of-type(15)
 klinikawitaminowa.pl##div.js--phone-button.ic-phone-button:nth-of-type(22)
+klinikawitaminowa.pl##.js--contact-box-fixed
 klonowypark.pl###belka_phone2, #belka_mail2, #belka_map2, #belka_form2
 knall.com.pl##.socialTabs-tab--contact.socialTabs-tab
 kodologia.pl###cq-suggestion
@@ -3717,6 +3720,7 @@ lighting.philips.pl##aside[class$="support-contact-details"]
 lightonline.pl###fixedBtn > .savBtn
 lincoln.edu.pl##.s_kontakt
 linuxpl.com###phplive_automatic_chat_invite_wrapper
+listwy-dekoracyjne.pl###kontaktbox
 lizengo.pl##.userlike-chatbutton
 lnb.pl###opinionIco
 lodzkie.pl##.jj_sl_custom1
@@ -3821,6 +3825,7 @@ reaktor.pwn.pl##.tab.mail, .tab.phone
 recepta.pl##.help-widget
 redosystem.com.pl###customer-chat-iframe
 regalka.pl###gr-spnotifications
+rena.pl###contactFixed
 rivieraparkmarvipol.pl##.messenger
 roseville.pl###banner_contact
 r.pl##.divCallback
@@ -4187,7 +4192,6 @@ dochodzeniewierzytelnosci.pl##.related
 dolbyatmos.eu,dts24.pl,goldenmark.com##.recommend-box
 dolnoslaska.policja.gov.pl###PContentP201P1303
 dolsat.pl##.migowyButton, .niedowidzButton
-domhobbyogrod.pl###tws_a_100000
 domiogrod.e-sas.pl###zmien_dzial
 domiporta.pl##.notus-widget__tab
 domodi.pl##.dm-sticky-buttons
@@ -4208,7 +4212,6 @@ eccoholiday.com###schowek
 echodnia.eu###graton-main-container.promoContainer
 echodnia.eu###poza-szkieletem
 echodnia.eu###toolbar
-efutro.com.pl,melbo.pl###tws_i_2
 egospodarka.pl##.ego-okienko
 eholiday.pl##.box-promofixed
 ekai.pl##.show.extra-article
@@ -4305,6 +4308,7 @@ godealla.pl###top-offers, .hand
 godstoys.pl##.master-loading-overlay
 gomobi.pl##.blog-head
 goodair.pl###bestsellers_panel
+gosc.pl##.fixedBottom
 gospodarkamorska.pl##.tb-gmtv
 gowork.pl##.js-banner-hate-aside
 gracz.org##.boxzilla-container > .boxzilla
@@ -4448,6 +4452,7 @@ meblohurt.eu,sklep.hultajpolski.pl###MX_hotinfo
 meblosfera.pl##.wp-side-menu-item:nth-of-type(n+2):nth-of-type(-n+4)
 media2.pl###news-readmore, #news-suggest
 mediasystem-tdi.pl##.right.ltr.a11y-toolbar
+melbo.pl###tws_i_2
 meritum.gda.pl###smallCart
 meskiegacie.pl###counter_holder_top.counter_container[style^="position: fixed;"]
 mettosport.eu###wpbs_slider
@@ -4524,6 +4529,7 @@ nocowanie.pl##.btn--signup
 nocowanie.pl##.hidden-sm.hidden-xs.tc:nth-of-type(3)
 nocowanie.pl##.js-nav-prev-next, .sticky__element
 noizz.pl###floatingShareWithNextArticle
+nowegumy.pl###wysuwacz_reklama, #wysuwacz
 nowiny24.pl##.article-inset
 nowiny.com.pl##.slide-right
 nowodworskiestates.pl###asystent
@@ -4646,6 +4652,7 @@ sieradz.eu###site-loader
 siglo.pl##.lws-widget-container
 silesion.pl##.art-tripwire-big
 siligan.pl##.widget_cartbox, .widget_left_wrapper
+skladaniekomputera.pl###dgd_scrollbox-10511
 sklepbaterie.pl##.naskroty
 sklep-muzyczny.com.pl,sklep.wodna-kraina.pl###widget_shop4
 sklep-rolnicze.eu###oiTab
@@ -4865,14 +4872,19 @@ pl#?#.cTopicPostArea:-abp-has(.cGuestTeaser)
 aptekarzpolski.pl##.jnews_module_24236_10_5eff0ce4694de.jeg_alignleft.jeg_block_heading_2.jeg_block_heading
 aptekarzpolski.pl##.jnews_module_24236_11_5eff0ce469931.jeg_col_1o3.jeg_pagination_disable.jeg_module_hook.jeg_postblock.jeg_postblock_10
 astromagia.pl##.other-services
+audio.com.pl,automatykab2b.pl,budujemydom.pl,elektronikab2b.pl,ep.com.pl,estradaistudio.pl,magazyngitarzysta.pl##.kiosk
 audio.com.pl,ekobudowanie.pl##.newspaper
-audio.com.pl,estradaistudio.pl##.kiosk
+automatykab2b.pl,elektronikab2b.pl##.recommended-articles-aside.col-lg-3
 auto-motor-i-sport.pl##.new-hitbox-extra.part-1-4.item
 auto-motor-i-sport.pl##.visible-lg.visible-md.visible-sm.hidden-xs.footer-bar
 avtest.pl###position-7 > div.module:nth-of-type(1)
 braclowiecka.pl##section.content:nth-of-type(1) > .wrapper > .main-content-wrapper > .main-content
 braclowiecka.pl###w-main-sections > .paragraph-row > div.column6:nth-of-type(1)
+budujemydom.pl##.d-lg-block.d-none.header__magazyn
+budujemydom.pl##.monthly-magazine
+budujemydom.pl,ekobudowanie.pl,elektronikab2b.pl,ep.com.pl,ktociewyleczy.pl,magazyngitarzysta.pl###avt-korona
 centos.com.pl##.lmdiv
+charaktery.eu,o-m.pl##div.block:nth-of-type(9)
 claudia.pl##.content-sidebar.col-lg-3.col-md-4.col-sm-12 > div.sidebar-box:nth-of-type(1)
 computerworld.pl##.wraper-sticky > .separator
 czytelniamedyczna.pl##.k80c
@@ -4885,11 +4897,13 @@ dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,ec
 dziennikelblaski.pl###prenumerata
 dziennikelblaski.pl,wm.pl#?#.highlight:-abp-has(.box-ewydanie)
 dziennikwschodni.pl##.read-us-widget
-ekobudowanie.pl,ktociewyleczy.pl###avt-korona
 elektrosystemy.pl###text-26
 elektrosystemy.pl###text-31
 elle.pl##.promo-box
 elle.pl,focus.pl##.magazine-last-box
+ep.com.pl##.magazine
+ep.com.pl##.e-magazine
+ep.com.pl##.new-number
 esquire.pl##.magazine-subscription-widget.widget
 estradaistudio.pl##.col-29
 eurostudent.pl##.mainfooter-publ.row
@@ -4903,8 +4917,11 @@ fzz.pl###kwartalnik
 fzz.pl#?#section.elementor-top-section:-abp-has(h3:-abp-contains(/^Zamów prenumeratę$/))
 gala.pl##.magazine-list.row
 gazetaolsztynska.pl##.block-gazeta
+gazetapolska.pl##div#footer_wrapper:nth-of-type(2)
 gazetapolska.pl###block-views-najnowszy-spis-block-1, #block-views-ostatninumer-block-1, #header_footera
+gazetapolska.pl###sidebar-first > div.column:nth-of-type(1)
 gazetapolska.pl##.region-banergora.region .view-content
+gazetapolska.pl##.view-dom-id-31c1eed7b1515cd435d96893fb167f28.view-display-id-block_4.view-id-baner.view-baner.view > .view-content
 gazetasenior.pl###custom_html-19
 gazeta-mosina.pl##.first.mod-shadowbox.module
 globenergia.pl###content_sklep
@@ -4926,6 +4943,7 @@ kuriergmin.pl##.kurie-po-tresci
 kuriergmin.pl##.vc_column_container.td_uid_13_5efc95f44739b_rand.vc_column.wpb_column
 kuriergmin.pl##.vc_column_container.td_uid_39_5efc95f490fc6_rand.vc_column.td-is-sticky
 liberte.pl##.entry-leftside > .headline, .entry-leftside > .headline + .row, .box-magazyn2
+magazyngitarzysta.pl##.new-newspaper.module
 magazynt3.pl###mvp-side-wrap
 magazynt3.pl##.mvp-top-sub-text
 malygosc.pl##.pos-sticky
@@ -4951,7 +4969,11 @@ ngodkrywca.pl##.banner__main-slider
 ngodkrywca.pl##.subscription--dark.widget-section.subscription.triptyca
 nienawisc.pl###before-content-area
 nienawisc.pl###custom_html-10
+niezalezna.pl##div.row:nth-of-type(29)
 niezalezna.pl##.columnRight > a[href^="https://prenumerata.gazetapolska.pl/"]
+niezalezna.pl##[src="/images/page/gpcodziennie_lato.jpg?1"]
+niezalezna.pl##[src="/images/page/prenumerata_1140.jpg"]
+nowakonfederacja.pl##.col-lg-4.d-lg-block.d-none
 nowakonfederacja.pl##.mt-3.section-3.row
 nowaruda24.pl##.region-top-right.region .views-row-last.views-row-first.views-row > .row
 nowaruda24.pl#?#.region-sidebar-second.region > .block > .block-title:-abp-contains(/^W najnowszym numerze gazety$/)
@@ -4959,7 +4981,6 @@ nowaruda24.pl#?#.region-sidebar-second.region > .block:-abp-has( > .block-title:
 nowinykrapkowickie.pl##.region-jedynka.region > .block .field-content
 nowiny.pl###box-epress
 noworudzianin.pl###text-6
-o-m.pl##div.block:nth-of-type(9)
 o-m.pl##div.block:nth-of-type(13)
 pcformat.pl##.current-paper
 pilkanozna.pl###przeciecie_JK
@@ -4977,6 +4998,7 @@ prawo.gazetaprawna.pl##.buySubscription
 prestizszczecin.pl##.pane-views-magazyn-okladka-aktualna.pane-block.panel-pane
 przegladlokalny.eu##.right-sidebar > .right-header, .right-sidebar > .text-center
 przegladlokalny.eu##.section-special
+przegladpiaseczynski.pl##.td_block_padding.td-column-1.td_block_template_1.td-pb-border-top.tdi_27_556.td_block_3.td_block_wrap
 przegladprawoslawny.pl###media_image-9
 przelom.pl##.widget > .epress
 psychologia.edu.pl###frontBlok-18
@@ -4987,7 +5009,9 @@ reportergazeta.pl##.sidebar > #media_image-2
 rozaniec.eu##.widget_latest-publication.latest-publication-2.widget
 rynekzdrowia.pl##.head > h2
 rynekzdrowia.pl##.list-43 > li:nth-of-type(1)
+rynek-kolejowy.pl##.Wklejka
 rynek-kolejowy.pl##.najnowszyNumerRK, .miesiecznikRotatorBox
+skladaniekomputera.pl##div[id^="dgd_scrollbox-"], #footer-widgets > .widget:nth-of-type(1)
 sklep-niezalezna.pl###box_banner18
 spaeden.pl##div.moduletable:nth-of-type(4), div.moduletable:nth-of-type(7), div.moduletable:nth-of-type(9)
 staleo.pl###homepage-right-widgets > section:nth-of-type(2)
