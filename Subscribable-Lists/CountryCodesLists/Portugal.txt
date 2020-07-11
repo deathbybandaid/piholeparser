@@ -9,6 +9,7 @@ acquasul.pt
 acusticamedica.pt
 ad-dev.globalnoticias.pt
 ad.clix.pt
+ad.dnoticias.pt
 adimgs.sapo.pt
 adj3.pt
 admob.pt
@@ -319,6 +320,7 @@ www.xmr.pt
 www.xxx.harem.pt
 www.zerinho.pt
 www.zonaintima.pt
+xad.dnoticias.pt
 xmr.pt
 xnat.pt
 youspeak.pt

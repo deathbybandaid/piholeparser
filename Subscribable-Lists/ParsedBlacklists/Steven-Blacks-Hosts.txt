@@ -72,6 +72,7 @@ ad.adapter.kaffnet.com
 ad.api.kaffnet.com
 ad.apsalar.com
 ad.click.kaffnet.com
+ad.dnoticias.pt
 ad.samsungadhub.com
 ad.wynk.in
 ad0.adspaces.ero-advertising.com
@@ -149,6 +150,7 @@ adtracker.mkjigsaw.com
 adv.axiatraders.com
 adv.grandonmedia.com
 adv.sec.intl.miui.com
+advert.puzzles.mkjigsaw.com
 advertising-cdn.dpgmedia.cloud
 adw.ero-advertising.com
 adwpaces.ero-advertising.com
@@ -483,6 +485,7 @@ d3dkhq0wwdwodv.cloudfront.net
 da032opzasz.appspot.com
 daaa.ero-advertising.com
 dabmaster.wm01.to
+dadsats.com
 daea.ero-advertising.com
 dahlie.org
 daia.ero-advertising.com
@@ -2679,6 +2682,7 @@ www2.myishop.co.uk
 wwww.playamo28.com
 wy.adyboh.com
 wzrkt.com
+xad.dnoticias.pt
 xasf32easzx.appspot.com
 xda-developers.us
 xizr.inteleksys.com
