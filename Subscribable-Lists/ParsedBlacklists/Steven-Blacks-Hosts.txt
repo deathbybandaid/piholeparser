@@ -146,6 +146,7 @@ adspcces.ero-advertising.com
 adsspaces.ero-advertising.com
 adstaces.ero-advertising.com
 adtekmedia.com
+adtrack.voicestar.com
 adtracker.mkjigsaw.com
 adv.axiatraders.com
 adv.grandonmedia.com
@@ -167,6 +168,7 @@ aircovid19virus.com
 airjaldinet.ml
 akashdayalgroups.com
 akibaol.com
+akr.usesfathom.com
 alexandr01299.xyz
 alibaba.zzux.com
 alidnx.com
@@ -257,6 +259,7 @@ apps.id.net
 apps3.cointraffic.io
 ar500arnor.com
 arcartall.club
+archsmarter.usesfathom.com
 aresboot.xyz
 arjoflor.com
 arjoflos.com
@@ -359,6 +362,7 @@ bucket.rtk.io
 bunnyland.cc
 bur.vueleslie.com
 busyserviceinc.com
+butshesagirl.usesfathom.com
 buzzclicks.com
 bwlkup.alphonso.tv
 byfleur.myftp.org
@@ -367,6 +371,7 @@ c.adskeeper.co.uk
 c.webengage.com
 c2i-cdn.startappnetwork.com
 cachecdn.moegoo.com
+calltracking.fathomseo.com
 camsoda.com
 camteens.to
 candygirls.cc
@@ -397,6 +402,7 @@ cdn.insurads.com
 cdn.moengage.com
 cdn.mxpnl.com
 cdn.tsyndicate.com
+cdn.usefathom.com
 cdn5.userzoom.com
 cdnassels.com
 cdnjs.tvpage.com
@@ -440,6 +446,7 @@ cmytuok.top
 cnnmedia.servepics.com
 coffemokko.com
 coffetea.org
+collect.usefathom.com
 com-auth.site
 com-enter.site
 com-fasting.live
@@ -482,6 +489,7 @@ d-and-h.com
 d.applovin.com
 d01fa.net
 d3dkhq0wwdwodv.cloudfront.net
+d3lvir7538n0oi.cloudfront.net
 da032opzasz.appspot.com
 daaa.ero-advertising.com
 dabmaster.wm01.to
@@ -768,6 +776,7 @@ gainblox.com
 gamblerush.com
 garant-help.com
 gata.ero-advertising.com
+gateguardian.usesfathom.com
 gbgbr.cn
 gbrgbsitenews.ml
 gbrserv.ru
@@ -920,6 +929,7 @@ ikjyhdservpbn.com
 ikjyhdservpbnjfn.nl
 imbc.onthewifi.com
 imeds.ero-advertising.com
+img3.usefathom.com
 imp.startappservice.com
 imprhkmp.taboola.com
 imprlatbmp.taboola.com
@@ -1036,7 +1046,9 @@ jppost.jp-bankq.com
 js-cloud.com
 js.ads.ero-advertising.com
 js34dc10.gamooga.com
+jsfiddle.usesfathom.com
 jthnx5wyvjvzsxtu.onion.pet
+justin.usesfathom.com
 k5market.com
 k87yfgsdaa.appspot.com
 kandypens.net
@@ -1549,6 +1561,7 @@ ovc2-ustokyyneikyfasnm.stackpathdns.com
 p.s.360.cn
 pagepeel.ero-advertising.com
 pakistanelevators.pk
+paleoleap.usesfathom.com
 parentelement.tk
 parks.su
 parnerimcarpich.com
@@ -1601,6 +1614,7 @@ peacelist.ignorelist.com
 pecdbnfjriwjdfyhd.ml
 pecdbnjfnpowerpower.tk
 perf.mmstat.com
+perroverde.usesfathom.com
 pervas.top
 petitelady.top
 pf4y2a54hx.com
@@ -2003,6 +2017,7 @@ stats.data2.ero-advertising.com
 stats.ero-advertising.com
 stats.jpush.cn
 stats.speedclicks.ero-advertising.com
+stats.usesfathom.com
 status.search-sslkey-flush.com
 status.verifyingbycf.com
 stealthedeal.com
@@ -2206,6 +2221,7 @@ wf.taboola.com
 whia7g.acquafufheirybveru.online
 wiki.adspaces.ero-advertising.com
 wiki.ero-advertising.com
+wildcard.directtrack.com.wipext.digitalriverws.com
 wind.windmilldrops.com
 windefenceinfo.com
 windefens.com

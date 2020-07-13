@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: 7aeoiJFE/xfw+joz7klNMQ
+! Checksum: ItWKsEKf7TirawWp4xzR4w
 ! Title: Polskie Filtry Elementów Irytujących
 ! Polish Annoyance Filters
 ! Codename: Annoyance - Main
 ! Description: Filtry ukrywające i blokujące wyskakujące okienka, widgety, newslettery, powiadomienia push, strzałki, otagowane linki wewnętrzne, które są nie na temat artykułów (np. link do pracy w Bydgoszczy w artykule o pogodzie) i inne drażniące elementy (Polskie Filtry RODO-Ciasteczkowe oryginalnie stworzone przez MajkiIT są już w nich zawarte).
 ! Required: Do poprawnego działania wymagana jest lista lub rozszerzenie I don't care about cookies!
-! Last modified: Sat, 11 Jul 2020, 20:01 UTC+02
-! Version: 2020.7.11.1
+! Last modified: Sun, 12 Jul 2020, 20:00 UTC+02
+! Version: 2020.7.12.2
 ! Expires: 2 days
 ! Najnowsza wersja zawsze na: https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters
 ! Zgłoszenia:
@@ -14,7 +14,7 @@
 !   GitHub => https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/deed)
 ! Copyright © 2020 Polish Filters Team
-! Aktualizacja: sob, 11 lip 2020, 20:01 UTC+02
+! Aktualizacja: nie, 12 lip 2020, 20:00 UTC+02
 !
 !
 ! Newslettery (nie popupy)
@@ -564,6 +564,7 @@ gtbicycles.pl###mailinglist_container
 gumtree.pl##.btm-alertEmail, .left-o-alertEmail
 haart.pl,kryptopomocnik.pl,ostatniatawerna.pl,stomatologianews.pl###custom_html-2
 hackintosh.com.pl##.mailchimp
+hairstore.pl###stopka_newsletter
 handluj.com###footer_top > .container > .row > div:nth-of-type(1)
 hanet.com.pl##.wce_newsletter.overall
 harting.com#?#.footer__pane > .footer__container:-abp-has( > .footer__newsletter-form)
@@ -810,6 +811,7 @@ modbis.pl###menu_newsletter2
 modea.pl##.footer_wrap .col-md-5
 modile.pl#?#.footer-column:-abp-has(.footerNewsletterForm)
 mojacukrzyca.org##table:nth-of-type(3) > tbody > tr > td:nth-of-type(1) > table:nth-of-type(1)
+mojagazetka.com##.social-media-card
 mojegotowanie.pl##.sidebar-box-newsletter
 mojewypiekiinietylko.com##.widget_simplesubscribe.widget
 mojmac.pl##.et_pb_code > .bloom-privacy
@@ -1619,7 +1621,7 @@ adeste.eu##.cp-direct-download-container
 adresy.um.warszawa.pl,mapa.um.warszawa.pl,ulice.um.warszawa.pl###init_info[style], #komunikat[style]
 adria-art.pl###overlay, .popup.newsletter
 agamasmaka.pl##.et_bloom_auto_popup.et_bloom_flyin
-agd-czesci.com.pl##.mbank-top-layer, .mask
+agd-czesci.com.pl,sklepbazant.pl,swiatmodeli.eu##.mbank-top-layer, .mask
 agrobex.pl#?#.fancybox-overlay:-abp-has(.fancybox-type-inline)
 agrofakt.pl##.seattle-simple.optin-monster-saas-overlay
 agromix.agro.pl##.nivo-lightbox-overlay
@@ -1635,6 +1637,7 @@ alkalicznystylzycia.com,angelius.pl,inspiringsolutions.pl,passion.pl,qagile.pl##
 allmedica.pl###modalbox-1, .modalbox-overlay
 alpinsklep.pl,blueskypolska.pl,candleworld.com.pl,denicler.eu,megazoologiczny.pl,surgepolonia.pl###tws_i_100000
 analizy.pl##.nl_toplayer.ui-draggable.ui-widget-content.ui-widget.ui-dialog
+angelgold.pl##.modal
 apaczka.pl##.popupPromoBox
 apaczka.pl###sgpb-popup-dialog-main-div-wrapper
 apaczka.pl##.sgpb-popup-overlay-11671
@@ -1704,7 +1707,7 @@ blog.atrakcjenaimprezy.pl###boxes
 bluecity.pl##.popupContent
 bluecity.pl,wearmedicine.com,word.czest.pl###cboxOverlay
 blueskypolska.pl###tws_i_0.mobile_toplayer, #toplayer_newsletter
-bodyland.pl###newsletter-lightbox-holder
+bodyland.pl,hairstore.pl###newsletter-lightbox-holder
 bogulandia.pl,cosslodkiego.com.pl,efutro.com.pl,eswiatzabawek.pl,gratoria.pl,groomer.com.pl,kupbuty.com###tws_i_1
 bolix.pl,pushpushgo.com###ebook-popup
 born2be.pl,renee.pl##.snrs-modal-wrapper
@@ -2028,8 +2031,10 @@ media-tech.eu,polskimarket.de,vanitysklep.pl###Overlay
 media-tech.eu,polskimarket.de,vanitysklep.pl###rc_window_squeeze
 media-tech.eu,vanitysklep.pl###OverlayContainer_rcw
 medicenter.pl###formillaFacebookPopupContainer, #formillaModalBackground
+medonetmarket.pl##.safety-popup-rectangle
 medonet.pl##.pushNotifiPopup
 medonet.pl##.withPNP:before
+mencare.pl###fx-popup
 metin2list.pl###news_popup
 mgprojekt.com.pl##.orlando-whiteboard.orlando-background, .jupiter-entrance.jupiter-background.optin-monster-saas-overlay
 mhtm.pl###spu-1417, #spu-bg-1417
@@ -2106,6 +2111,7 @@ ono24.info##.bts-popup
 opencard.pl###trialModal, .modal-backdrop
 opensubtitles.org###fadeSub, #lightSub
 opinie-perfumy.pl###lepopup-popup-15, #lepopup-popup-15-overlay
+opolshe.ru###dropbox
 optiland.pl##.mod_popup, .bg_shadow
 orange.pl###advertslice
 osada-sniezka.pl###popModal, .modal-backdrop
@@ -2227,7 +2233,6 @@ siligan.pl###contentWindow
 sillydesign.pl###blanket, #popUpDiv
 sjp.pwn.pl,slowniki.pwn.pl###floater
 sklepbaterie.pl##.wyskakujacypopup
-sklepbazant.pl,swiatmodeli.eu##.mask, .mbank-top-layer
 sklepdrapieznik.pl###backgroundPopup, #toPopup
 sklepikdzieciecy.pl###oknoPopUp, #tloPopUp
 sklepkokosowy.pl###js-popup
@@ -2652,7 +2657,7 @@ pl###pushwoosh-subscription-widget-root
 ! Scrollujące filmiki
 abczdrowie.pl,autokult.pl,fotoblogia.pl,gadzetomania.pl,komorkomania.pl,money.pl,o2.pl,parenting.pl,~poczta.o2.pl,~poczta.wp.pl,pudelek.pl,wp.pl,www.dobreprogramy.pl,~www.wp.pl##.floating[id^="Player"]
 agrii.pl###panel
-auto-swiat.pl,businessinsider.com.pl,fakt.pl,komputerswiat.pl,medonet.pl,noizz.pl,onet.pl,plejada.pl##.player-floating, .player-move-up
+auto-swiat.pl,businessinsider.com.pl,fakt.pl,komputerswiat.pl,medonet.pl,noizz.pl,ofeminin.pl,onet.pl,plejada.pl,przegladsportowy.pl##.player-floating, .player-move-up
 dziennik.pl##.video.widget > .videoScroll, .video.widget > .videoScroll ~ .closeVideoBtn
 gry.pl,waznygry.pl##.wt-notification-container, #veediWTbtn
 interia.pl,interia.tv,~m.interia.pl,pomponik.pl,styl.pl##.floating-player-started > .xlink-floating-wsx
@@ -3065,6 +3070,7 @@ mct.com.pl##.px-btn-to-top-fix
 mediaexpert.pl###go_top
 mediamarkt.pl###js-scrollTopDesktop
 medicover.pl##.scrollTopArrow
+medonetmarket.pl##.back2top
 medonet.pl##.goToTop
 merida.com.pl##.scroll-top-up
 metalgearsolid.pl###return_top
@@ -4568,7 +4574,7 @@ noworudzianin.pl###coronabar
 o2.pl##a[data-st-area^="ST-goToO2"], a[data-st-area^="ST-backToO2"]
 odjazdowenaklejki.pl##.sm-panel > div[id^="side"]:nth-of-type(4)
 oees.pl###floating-button-en
-ofeminin.pl##.backToOnet
+ofeminin.pl,przegladsportowy.pl##.backToOnet
 ofertapracy.monsterpolska.pl###AppliesFooterHolder, #iaactionfixed
 oksport.pl##.best-of-week
 olagosciniak.pl,psychetee.pl###post-navigation > a > div[class]:not(id)
@@ -4910,6 +4916,7 @@ audio.com.pl,ekobudowanie.pl##.newspaper
 automatykab2b.pl,elektronikab2b.pl##.recommended-articles-aside.col-lg-3
 auto-motor-i-sport.pl##.new-hitbox-extra.part-1-4.item
 auto-motor-i-sport.pl##.visible-lg.visible-md.visible-sm.hidden-xs.footer-bar
+auto-swiat.pl##aside[class*="float"].promoFrame
 avtest.pl###position-7 > div.module:nth-of-type(1)
 braclowiecka.pl##section.content:nth-of-type(1) > .wrapper > .main-content-wrapper > .main-content
 braclowiecka.pl###w-main-sections > .paragraph-row > div.column6:nth-of-type(1)
