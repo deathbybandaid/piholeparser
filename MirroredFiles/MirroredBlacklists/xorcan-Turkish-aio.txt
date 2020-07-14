@@ -1,7 +1,7 @@
 # Title: nurcan Türk ad-list
 # Format: Hosts
-# Released: 21.05.2020
-# Entries: 8177
+# Released: 13.07.2020
+# Entries: 8256
 # Details: https://github.com/xorcan/hosts/
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -296,15 +296,12 @@
 127.0.0.1 adrazzi.com
 127.0.0.1 adrecover.com
 127.0.0.1 adreda.com
-127.0.0.1 adrervice.google.com
 127.0.0.1 adroll.com
 127.0.0.1 adrttt.com
 127.0.0.1 adrunnr.com
 127.0.0.1 ads-hl.noktamedya.com.tr
 127.0.0.1 ads-player.com
 127.0.0.1 ads-rouge.haber7.com
-127.0.0.1 ads-twitter.com
-127.0.0.1 ads.ak.facebook.com.edgesuite.net
 127.0.0.1 ads.altitude-arena.com
 127.0.0.1 ads.api.vungle.com
 127.0.0.1 ads.avocarrot.com
@@ -322,14 +319,12 @@
 127.0.0.1 ads.exoclick.com
 127.0.0.1 ads.exoclick.haptube.com
 127.0.0.1 ads.exosrv.com
-127.0.0.1 ads.facebook.com
 127.0.0.1 ads.finzoom.com.tr
 127.0.0.1 ads.flurry.com
 127.0.0.1 ads.garga.biz
 127.0.0.1 ads.gercekgundem.com
 127.0.0.1 ads.gittigidiyor.com
 127.0.0.1 ads.gold
-127.0.0.1 ads.google.com
 127.0.0.1 ads.haberler.com
 127.0.0.1 ads.heyzap.com
 127.0.0.1 ads.ihaberadserver.com
@@ -363,7 +358,6 @@
 127.0.0.1 ads.trafficjunky.net
 127.0.0.1 ads.travelaudience.com
 127.0.0.1 ads.trisier.com
-127.0.0.1 ads.twitter.com
 127.0.0.1 ads.uniblue.com
 127.0.0.1 ads.usa-media.net
 127.0.0.1 ads.videonap.com
@@ -406,8 +400,6 @@
 127.0.0.1 adserver.unityads.unity3d.com
 127.0.0.1 adserver.xpanama.net
 127.0.0.1 adserver1.adtech.com.tr
-127.0.0.1 adservice.google.com
-127.0.0.1 adservice.google.com.tr
 127.0.0.1 adservice.google.nl
 127.0.0.1 adservice.google.ru
 127.0.0.1 adshare3.freedocast.com
@@ -468,6 +460,9 @@
 127.0.0.1 aff3.gittigidiyor.com
 127.0.0.1 affibtm.com
 127.0.0.1 affiliate-api.gamingtec.com
+127.0.0.1 affiliate.anadolucasino.com
+127.0.0.1 affiliate.anadolucasino188.com
+127.0.0.1 affiliate.anadolucasino189.com
 127.0.0.1 affiliate.domaindirect.net
 127.0.0.1 affiliate.funsmobi.com
 127.0.0.1 affiliate.superbahis657.com
@@ -560,6 +555,9 @@
 127.0.0.1 an.yandex.ru
 127.0.0.1 an07.chuckyluck.com
 127.0.0.1 anadolu-yapi.xyz
+127.0.0.1 anadolucasino.com
+127.0.0.1 anadolucasino188.com
+127.0.0.1 anadolucasino189.com
 127.0.0.1 anadoluelektrik.com.tr
 127.0.0.1 anadolufilms.com.tr.ht
 127.0.0.1 anadoluhotel.net
@@ -570,7 +568,6 @@
 127.0.0.1 analytics.cervellio.com
 127.0.0.1 analytics.edgekey.net
 127.0.0.1 analytics.edgesuite.net
-127.0.0.1 analytics.google.com
 127.0.0.1 analytics.liftoff.io
 127.0.0.1 analytics.live.com
 127.0.0.1 analytics.localytics.com
@@ -581,7 +578,6 @@
 127.0.0.1 analytics.porn-tube.club
 127.0.0.1 analytics.query.yahoo.com
 127.0.0.1 analytics.rayjump.com
-127.0.0.1 analytics.twitter.com
 127.0.0.1 analytics.yahoo.com
 127.0.0.1 analytics.yeniakit.com.tr
 127.0.0.1 anamimyjyp.tk
@@ -765,7 +761,6 @@
 127.0.0.1 aziweb.com
 127.0.0.1 azizeistanbul.com
 127.0.0.1 azizinsaat.com
-127.0.0.1 b-graph.facebook.com
 127.0.0.1 b.cdn.md
 127.0.0.1 b.misslk.com
 127.0.0.1 b.scorecardresearch.com
@@ -847,6 +842,7 @@
 127.0.0.1 beauty-op-istanbul.de
 127.0.0.1 beckmann.com.tr
 127.0.0.1 becsystem.com.tr
+127.0.0.1 bedavapdfkitap.com
 127.0.0.1 bedavayuz.com
 127.0.0.1 beelert.com
 127.0.0.1 bejbumr.cf
@@ -864,6 +860,7 @@
 127.0.0.1 bestdataresu1ts.com
 127.0.0.1 bestdataresu2ts.com
 127.0.0.1 bestdataresults.com
+127.0.0.1 bestdatingclubs.com
 127.0.0.1 bestpa.com.tr
 127.0.0.1 bet1x.mobi
 127.0.0.1 betasus123.com
@@ -958,7 +955,6 @@
 127.0.0.1 bmenerji.com.tr
 127.0.0.1 bmre.work
 127.0.0.1 bn1.bcvcrdr.space
-127.0.0.1 bnc.lt
 127.0.0.1 bnewsblite.me
 127.0.0.1 bnnvzrz.cf
 127.0.0.1 bnnvzrz.ga
@@ -1066,6 +1062,7 @@
 127.0.0.1 can-turkey-or-chicken-cause-bloating.jmai6.zik.dj
 127.0.0.1 canakkalehotelguide.com
 127.0.0.1 cancel.transaction.73891347.atakanpolat.com.tr
+127.0.0.1 canikom.site
 127.0.0.1 cankayaerkekyurdu.com
 127.0.0.1 canlialem.com
 127.0.0.1 canpazari.com
@@ -1152,8 +1149,40 @@
 127.0.0.1 ceda.com.tr
 127.0.0.1 cedexis.com
 127.0.0.1 cel-kon.com.tr
+127.0.0.1 celeritascdn.com
 127.0.0.1 celltrionhealthcare.com.tr
 127.0.0.1 cemeteryreaction.info
+127.0.0.1 cepsohbetler.online
+127.0.0.1 cepsohbetler01.online
+127.0.0.1 cepsohbetler02.online
+127.0.0.1 cepsohbetler03.online
+127.0.0.1 cepsohbetler04.online
+127.0.0.1 cepsohbetler05.online
+127.0.0.1 cepsohbetler06.online
+127.0.0.1 cepsohbetler07.online
+127.0.0.1 cepsohbetler08.online
+127.0.0.1 cepsohbetler09.online
+127.0.0.1 cepsohbetler1.online
+127.0.0.1 cepsohbetler10.online
+127.0.0.1 cepsohbetler11.online
+127.0.0.1 cepsohbetler12.online
+127.0.0.1 cepsohbetler13.online
+127.0.0.1 cepsohbetler14.online
+127.0.0.1 cepsohbetler15.online
+127.0.0.1 cepsohbetler16.online
+127.0.0.1 cepsohbetler17.online
+127.0.0.1 cepsohbetler18.online
+127.0.0.1 cepsohbetler19.online
+127.0.0.1 cepsohbetler2.online
+127.0.0.1 cepsohbetler20.online
+127.0.0.1 cepsohbetler3.online
+127.0.0.1 cepsohbetler4.online
+127.0.0.1 cepsohbetler5.online
+127.0.0.1 cepsohbetler6.online
+127.0.0.1 cepsohbetler7.online
+127.0.0.1 cepsohbetler8.online
+127.0.0.1 cepsohbetler9.online
+127.0.0.1 cepsohbetleri.online
 127.0.0.1 ceptensohbetnosu.info
 127.0.0.1 cesmehaberi.com
 127.0.0.1 cetsohbet.com
@@ -1263,7 +1292,6 @@
 127.0.0.1 crptgate.com
 127.0.0.1 crrepo.com
 127.0.0.1 crwdcntrl.net
-127.0.0.1 cse.google.com
 127.0.0.1 csi.gstatic.com
 127.0.0.1 ctemall.com
 127.0.0.1 ctteknik.com.tr
@@ -1435,7 +1463,6 @@
 127.0.0.1 ecpms.net
 127.0.0.1 ecs4.engageya.com
 127.0.0.1 ed-tradepad-pro.tr.aptoide.com
-127.0.0.1 edge-mqtt.facebook.com
 127.0.0.1 edgead.woomedya.com
 127.0.0.1 edgership-widscott.com
 127.0.0.1 edirneyuzme.com
@@ -1584,7 +1611,6 @@
 127.0.0.1 eyzpiel.ml
 127.0.0.1 eyzpiel.tk
 127.0.0.1 f369a60bf483bcc9.com
-127.0.0.1 facebook.com.hocalihaber.com
 127.0.0.1 faggrim.com
 127.0.0.1 faktoryapi.com.tr
 127.0.0.1 fancywap.com
@@ -1641,6 +1667,7 @@
 127.0.0.1 fotos-paisajes.net
 127.0.0.1 foxpush.com
 127.0.0.1 fpsdbfo.paylasimnet.com
+127.0.0.1 free-download.fun
 127.0.0.1 free-girls-vids.com
 127.0.0.1 free.classicgift.download
 127.0.0.1 freegeoip.net
@@ -1653,6 +1680,7 @@
 127.0.0.1 fungiers.com
 127.0.0.1 funnwebs.com
 127.0.0.1 funtikapa.info
+127.0.0.1 funzcdn.com
 127.0.0.1 furtherne.com
 127.0.0.1 fvbaffiliate.com
 127.0.0.1 fvkdatbzswo.bid
@@ -1748,7 +1776,6 @@
 127.0.0.1 good4all.ru
 127.0.0.1 gooddrink.com.tr
 127.0.0.1 google-analytics.com
-127.0.0.1 googleadapis.l.google.com
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 googleads2.g.doubleclick.net
 127.0.0.1 googleads4.g.doubleclick.net
@@ -1764,8 +1791,6 @@
 127.0.0.1 grafit.com.tr
 127.0.0.1 granantrade1.com
 127.0.0.1 grand-ads.com
-127.0.0.1 graph.facebook.com
-127.0.0.1 graph.instagram.com
 127.0.0.1 gravityrd-services.com
 127.0.0.1 greatdexchange.com
 127.0.0.1 greedseed.world
@@ -1778,7 +1803,6 @@
 127.0.0.1 gricreative.com
 127.0.0.1 grifa.com.tr
 127.0.0.1 grimex.net
-127.0.0.1 gstaticadssl.l.google.com
 127.0.0.1 gtarcade.com
 127.0.0.1 gtaturkcomv10.ourtoolbar.com
 127.0.0.1 gtaturkmania.mytowntoolbar.com
@@ -1790,6 +1814,7 @@
 127.0.0.1 gurmakmakina.com.tr
 127.0.0.1 guvenagro.com.tr
 127.0.0.1 guzelsanatlar.trakya.edu.tr
+127.0.0.1 guzelservers.com
 127.0.0.1 gxkwwbqzsg.com
 127.0.0.1 gxxcbj.com
 127.0.0.1 gzxrykv.cf
@@ -1845,6 +1870,15 @@
 127.0.0.1 hendico.com
 127.0.0.1 henry-james.site
 127.0.0.1 hepsibahis351.com
+127.0.0.1 hepsibahis590.com
+127.0.0.1 hepsibahis591.com
+127.0.0.1 hepsibahis592.com
+127.0.0.1 hepsibahis593.com
+127.0.0.1 hepsibahis594.com
+127.0.0.1 hepsibahis595.com
+127.0.0.1 hepsibahis596.com
+127.0.0.1 hepsibahis597.com
+127.0.0.1 hepsibahis598.com
 127.0.0.1 hepsibahis71.com
 127.0.0.1 hepsibahis94.com
 127.0.0.1 hepsiburada01.webtrekk.net
@@ -1859,7 +1893,6 @@
 127.0.0.1 hicpm10.com
 127.0.0.1 highertpushs.com
 127.0.0.1 histats.com
-127.0.0.1 history.google.com
 127.0.0.1 hit.8digits.com
 127.0.0.1 hit.dogannet.tv
 127.0.0.1 hit.gemius.pl
@@ -1917,10 +1950,7 @@
 127.0.0.1 iclikoftesiparisalinir.com
 127.0.0.1 ico.minently.com
 127.0.0.1 icxturkey.com
-127.0.0.1 id.google.com
-127.0.0.1 id.google.com.tr
 127.0.0.1 id.google.nl
-127.0.0.1 id.l.google.com
 127.0.0.1 id.rlcdn.com
 127.0.0.1 iddanismanlikbursa.com
 127.0.0.1 idema.com.tr
@@ -1962,6 +1992,7 @@
 127.0.0.1 indirads.com
 127.0.0.1 indirads.org
 127.0.0.1 indirads.work
+127.0.0.1 indirdepo.mobi
 127.0.0.1 indirdirek.org
 127.0.0.1 indirimpazarim.com
 127.0.0.1 indirimtakibi.com
@@ -2597,7 +2628,6 @@
 127.0.0.1 mppmnetwork.com
 127.0.0.1 mpptr.com
 127.0.0.1 mpx.mopub.com
-127.0.0.1 mqtt-mini.facebook.com
 127.0.0.1 mradx.net
 127.0.0.1 mrticketyardim.com
 127.0.0.1 ms-49.monitornotifyfriends.info
@@ -2816,7 +2846,9 @@
 127.0.0.1 osmani.com.tr
 127.0.0.1 osmaniyesevgi.com.tr
 127.0.0.1 oteuforum.com
+127.0.0.1 otnolatrnup.com
 127.0.0.1 ouloutso.net
+127.0.0.1 ourkeyskylierou.info
 127.0.0.1 ourkusadasi.com
 127.0.0.1 outcome.supersonicads.com
 127.0.0.1 ovcksawwem.com
@@ -2845,7 +2877,6 @@
 127.0.0.1 p.skimresources.com
 127.0.0.1 p232207.clksite.com
 127.0.0.1 p31770.clksite.com
-127.0.0.1 pagead.l.google.com
 127.0.0.1 pagead2.googleadservices.com
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 pagead46.l.doubleclick.net
@@ -2860,7 +2891,6 @@
 127.0.0.1 parsely.com
 127.0.0.1 partner.googleadservices.com
 127.0.0.1 partner.superbahisaffiliates248.com
-127.0.0.1 partnerad.l.google.com
 127.0.0.1 partneriste.net
 127.0.0.1 partnermatrix.com
 127.0.0.1 partners.betbooaffiliates.com
@@ -2889,6 +2919,10 @@
 127.0.0.1 pcgiujk.gq
 127.0.0.1 pcgiujk.ml
 127.0.0.1 pcgiujk.tk
+127.0.0.1 pdf.indirdepo.mobi
+127.0.0.1 pdf0.indirdepo.mobi
+127.0.0.1 pdf1.indirdepo.mobi
+127.0.0.1 pdf2.indirdepo.mobi
 127.0.0.1 pdfarsivindir.com
 127.0.0.1 pdfekitapevi.blogspot.com
 127.0.0.1 pdfhemenindir.com
@@ -3179,7 +3213,6 @@
 127.0.0.1 reports.crashlytics.com
 127.0.0.1 req.startappservice.com
 127.0.0.1 rereegny.net
-127.0.0.1 res.cloudinary.com
 127.0.0.1 res1.applovin.com
 127.0.0.1 resim006.tk
 127.0.0.1 restbet321.com
@@ -3461,6 +3494,7 @@
 127.0.0.1 softwarer.us
 127.0.0.1 sohbetara25.xyz
 127.0.0.1 sohbetara69.xyz
+127.0.0.1 sohbetcepte.com
 127.0.0.1 sohbetesi1.com
 127.0.0.1 sohbetesi2.com
 127.0.0.1 sohbetesiniz.com
@@ -3519,7 +3553,6 @@
 127.0.0.1 static-addtoany-com.cdn.ampproject.org
 127.0.0.1 static-ads.akamaized.net
 127.0.0.1 static.addtoany.com
-127.0.0.1 static.ads-twitter.com
 127.0.0.1 static.adsafeprotected.com
 127.0.0.1 static.adxadserv.com
 127.0.0.1 static.criteo.net
@@ -3588,7 +3621,6 @@
 127.0.0.1 syndication.exdynsrv.com
 127.0.0.1 syndication.exoclick.com
 127.0.0.1 syndication.exosrv.com
-127.0.0.1 syndication.twitter.com
 127.0.0.1 syndicpop.com
 127.0.0.1 system-security-com.xyz
 127.0.0.1 szczhal.cf
@@ -4262,13 +4294,10 @@
 127.0.0.1 www.adrazzi.com
 127.0.0.1 www.adrecover.com
 127.0.0.1 www.adreda.com
-127.0.0.1 www.adrervice.google.com
 127.0.0.1 www.adroll.com
 127.0.0.1 www.adrttt.com
 127.0.0.1 www.ads-hl.noktamedya.com.tr
 127.0.0.1 www.ads-rouge.haber7.com
-127.0.0.1 www.ads-twitter.com
-127.0.0.1 www.ads.ak.facebook.com.edgesuite.net
 127.0.0.1 www.ads.altitude-arena.com
 127.0.0.1 www.ads.avocarrot.com
 127.0.0.1 www.ads.avocet.io
@@ -4283,13 +4312,11 @@
 127.0.0.1 www.ads.exdynsrv.com
 127.0.0.1 www.ads.exoclick.com
 127.0.0.1 www.ads.exosrv.com
-127.0.0.1 www.ads.facebook.com
 127.0.0.1 www.ads.finzoom.com.tr
 127.0.0.1 www.ads.flurry.com
 127.0.0.1 www.ads.garga.biz
 127.0.0.1 www.ads.gercekgundem.com
 127.0.0.1 www.ads.gittigidiyor.com
-127.0.0.1 www.ads.google.com
 127.0.0.1 www.ads.haberler.com
 127.0.0.1 www.ads.heyzap.com
 127.0.0.1 www.ads.ihaberadserver.com
@@ -4356,8 +4383,6 @@
 127.0.0.1 www.adserver.unityads.unity3d.com
 127.0.0.1 www.adserver.xpanama.net
 127.0.0.1 www.adserver1.adtech.com.tr
-127.0.0.1 www.adservice.google.com
-127.0.0.1 www.adservice.google.com.tr
 127.0.0.1 www.adshare3.freedocast.com
 127.0.0.1 www.adsim.sabah.com.tr
 127.0.0.1 www.adslidango.com
@@ -4409,6 +4434,9 @@
 127.0.0.1 www.aff3.gittigidiyor.com
 127.0.0.1 www.affibtm.com
 127.0.0.1 www.affiliate-api.gamingtec.com
+127.0.0.1 www.affiliate.anadolucasino.com
+127.0.0.1 www.affiliate.anadolucasino188.com
+127.0.0.1 www.affiliate.anadolucasino189.com
 127.0.0.1 www.affiliate.domaindirect.net
 127.0.0.1 www.affiliate.funsmobi.com
 127.0.0.1 www.affiliate.superbahis657.com
@@ -4496,6 +4524,9 @@
 127.0.0.1 www.an.yandex.ru
 127.0.0.1 www.an07.chuckyluck.com
 127.0.0.1 www.anadolu-yapi.xyz
+127.0.0.1 www.anadolucasino.com
+127.0.0.1 www.anadolucasino188.com
+127.0.0.1 www.anadolucasino189.com
 127.0.0.1 www.anadoluelektrik.com.tr
 127.0.0.1 www.anadolufilms.com.tr.ht
 127.0.0.1 www.anadoluhotel.net
@@ -4506,7 +4537,6 @@
 127.0.0.1 www.analytics.cervellio.com
 127.0.0.1 www.analytics.edgekey.net
 127.0.0.1 www.analytics.edgesuite.net
-127.0.0.1 www.analytics.google.com
 127.0.0.1 www.analytics.live.com
 127.0.0.1 www.analytics.mobile.walmart.com
 127.0.0.1 www.analytics.mopub.com
@@ -4771,6 +4801,7 @@
 127.0.0.1 www.beauty-op-istanbul.de
 127.0.0.1 www.beckmann.com.tr
 127.0.0.1 www.becsystem.com.tr
+127.0.0.1 www.bedavapdfkitap.com
 127.0.0.1 www.bedavayuz.com
 127.0.0.1 www.beelert.com
 127.0.0.1 www.bejbumr.cf
@@ -4788,6 +4819,7 @@
 127.0.0.1 www.bestdataresu1ts.com
 127.0.0.1 www.bestdataresu2ts.com
 127.0.0.1 www.bestdataresults.com
+127.0.0.1 www.bestdatingclubs.com
 127.0.0.1 www.bestpa.com.tr
 127.0.0.1 www.bet1x.mobi
 127.0.0.1 www.betasus123.com
@@ -4881,7 +4913,6 @@
 127.0.0.1 www.bmenerji.com.tr
 127.0.0.1 www.bmre.work
 127.0.0.1 www.bn1.bcvcrdr.space
-127.0.0.1 www.bnc.lt
 127.0.0.1 www.bnewsblite.me
 127.0.0.1 www.bnnvzrz.cf
 127.0.0.1 www.bnnvzrz.ga
@@ -4986,6 +5017,7 @@
 127.0.0.1 www.can-turkey-or-chicken-cause-bloating.jmai6.zik.dj
 127.0.0.1 www.canakkalehotelguide.com
 127.0.0.1 www.cancel.transaction.73891347.atakanpolat.com.tr
+127.0.0.1 www.canikom.site
 127.0.0.1 www.cankayaerkekyurdu.com
 127.0.0.1 www.canlialem.com
 127.0.0.1 www.canpazari.com
@@ -5070,8 +5102,40 @@
 127.0.0.1 www.ceda.com.tr
 127.0.0.1 www.cedexis.com
 127.0.0.1 www.cel-kon.com.tr
+127.0.0.1 www.celeritascdn.com
 127.0.0.1 www.celltrionhealthcare.com.tr
 127.0.0.1 www.cemeteryreaction.info
+127.0.0.1 www.cepsohbetler.online
+127.0.0.1 www.cepsohbetler01.online
+127.0.0.1 www.cepsohbetler02.online
+127.0.0.1 www.cepsohbetler03.online
+127.0.0.1 www.cepsohbetler04.online
+127.0.0.1 www.cepsohbetler05.online
+127.0.0.1 www.cepsohbetler06.online
+127.0.0.1 www.cepsohbetler07.online
+127.0.0.1 www.cepsohbetler08.online
+127.0.0.1 www.cepsohbetler09.online
+127.0.0.1 www.cepsohbetler1.online
+127.0.0.1 www.cepsohbetler10.online
+127.0.0.1 www.cepsohbetler11.online
+127.0.0.1 www.cepsohbetler12.online
+127.0.0.1 www.cepsohbetler13.online
+127.0.0.1 www.cepsohbetler14.online
+127.0.0.1 www.cepsohbetler15.online
+127.0.0.1 www.cepsohbetler16.online
+127.0.0.1 www.cepsohbetler17.online
+127.0.0.1 www.cepsohbetler18.online
+127.0.0.1 www.cepsohbetler19.online
+127.0.0.1 www.cepsohbetler2.online
+127.0.0.1 www.cepsohbetler20.online
+127.0.0.1 www.cepsohbetler3.online
+127.0.0.1 www.cepsohbetler4.online
+127.0.0.1 www.cepsohbetler5.online
+127.0.0.1 www.cepsohbetler6.online
+127.0.0.1 www.cepsohbetler7.online
+127.0.0.1 www.cepsohbetler8.online
+127.0.0.1 www.cepsohbetler9.online
+127.0.0.1 www.cepsohbetleri.online
 127.0.0.1 www.ceptensohbetnosu.info
 127.0.0.1 www.cesmehaberi.com
 127.0.0.1 www.cetsohbet.com
@@ -5487,7 +5551,6 @@
 127.0.0.1 www.eyzpiel.ml
 127.0.0.1 www.eyzpiel.tk
 127.0.0.1 www.f369a60bf483bcc9.com
-127.0.0.1 www.facebook.com.hocalihaber.com
 127.0.0.1 www.faggrim.com
 127.0.0.1 www.faktoryapi.com.tr
 127.0.0.1 www.fancywap.com
@@ -5542,6 +5605,7 @@
 127.0.0.1 www.fotos-paisajes.net
 127.0.0.1 www.foxpush.com
 127.0.0.1 www.fpsdbfo.paylasimnet.com
+127.0.0.1 www.free-download.fun
 127.0.0.1 www.free-girls-vids.com
 127.0.0.1 www.free.classicgift.download
 127.0.0.1 www.freegeoip.net
@@ -5554,6 +5618,7 @@
 127.0.0.1 www.fungiers.com
 127.0.0.1 www.funnwebs.com
 127.0.0.1 www.funtikapa.info
+127.0.0.1 www.funzcdn.com
 127.0.0.1 www.furtherne.com
 127.0.0.1 www.fvbaffiliate.com
 127.0.0.1 www.fvkdatbzswo.bid
@@ -5682,6 +5747,7 @@
 127.0.0.1 www.gurmakmakina.com.tr
 127.0.0.1 www.guvenagro.com.tr
 127.0.0.1 www.guzelsanatlar.trakya.edu.tr
+127.0.0.1 www.guzelservers.com
 127.0.0.1 www.gxkwwbqzsg.com
 127.0.0.1 www.gxxcbj.com
 127.0.0.1 www.gzxrykv.cf
@@ -5724,6 +5790,15 @@
 127.0.0.1 www.hendico.com
 127.0.0.1 www.henry-james.site
 127.0.0.1 www.hepsibahis351.com
+127.0.0.1 www.hepsibahis590.com
+127.0.0.1 www.hepsibahis591.com
+127.0.0.1 www.hepsibahis592.com
+127.0.0.1 www.hepsibahis593.com
+127.0.0.1 www.hepsibahis594.com
+127.0.0.1 www.hepsibahis595.com
+127.0.0.1 www.hepsibahis596.com
+127.0.0.1 www.hepsibahis597.com
+127.0.0.1 www.hepsibahis598.com
 127.0.0.1 www.hepsibahis71.com
 127.0.0.1 www.hepsibahis94.com
 127.0.0.1 www.hepsiburada01.webtrekk.net
@@ -5831,6 +5906,7 @@
 127.0.0.1 www.indirads.com
 127.0.0.1 www.indirads.org
 127.0.0.1 www.indirads.work
+127.0.0.1 www.indirdepo.mobi
 127.0.0.1 www.indirdirek.org
 127.0.0.1 www.indirimpazarim.com
 127.0.0.1 www.indirimtakibi.com
@@ -6668,7 +6744,9 @@
 127.0.0.1 www.osmani.com.tr
 127.0.0.1 www.osmaniyesevgi.com.tr
 127.0.0.1 www.oteuforum.com
+127.0.0.1 www.otnolatrnup.com
 127.0.0.1 www.ouloutso.net
+127.0.0.1 www.ourkeyskylierou.info
 127.0.0.1 www.ourkusadasi.com
 127.0.0.1 www.outcome.supersonicads.com
 127.0.0.1 www.ovcksawwem.com
@@ -6697,7 +6775,6 @@
 127.0.0.1 www.p.skimresources.com
 127.0.0.1 www.p232207.clksite.com
 127.0.0.1 www.p31770.clksite.com
-127.0.0.1 www.pagead.l.google.com
 127.0.0.1 www.pagead2.googlesyndication.com
 127.0.0.1 www.pagead46.l.doubleclick.net
 127.0.0.1 www.paibopse.com
@@ -6711,7 +6788,6 @@
 127.0.0.1 www.parsely.com
 127.0.0.1 www.partner.googleadservices.com
 127.0.0.1 www.partner.superbahisaffiliates248.com
-127.0.0.1 www.partnerad.l.google.com
 127.0.0.1 www.partneriste.net
 127.0.0.1 www.partnermatrix.com
 127.0.0.1 www.partners.betbooaffiliates.com
@@ -6740,6 +6816,10 @@
 127.0.0.1 www.pcgiujk.gq
 127.0.0.1 www.pcgiujk.ml
 127.0.0.1 www.pcgiujk.tk
+127.0.0.1 www.pdf.indirdepo.mobi
+127.0.0.1 www.pdf0.indirdepo.mobi
+127.0.0.1 www.pdf1.indirdepo.mobi
+127.0.0.1 www.pdf2.indirdepo.mobi
 127.0.0.1 www.pdfarsivindir.com
 127.0.0.1 www.pdfekitapevi.blogspot.com
 127.0.0.1 www.pdfhemenindir.com
@@ -7025,7 +7105,6 @@
 127.0.0.1 www.remas-tr.com
 127.0.0.1 www.report.appmetrica.yandex.net
 127.0.0.1 www.rereegny.net
-127.0.0.1 www.res.cloudinary.com
 127.0.0.1 www.res1.applovin.com
 127.0.0.1 www.resim006.tk
 127.0.0.1 www.restbet321.com
@@ -7296,6 +7375,7 @@
 127.0.0.1 www.softwarer.us
 127.0.0.1 www.sohbetara25.xyz
 127.0.0.1 www.sohbetara69.xyz
+127.0.0.1 www.sohbetcepte.com
 127.0.0.1 www.sohbetesi1.com
 127.0.0.1 www.sohbetesi2.com
 127.0.0.1 www.sohbetesiniz.com
@@ -7843,6 +7923,7 @@
 127.0.0.1 www.xmtrk.com
 127.0.0.1 www.xn--altnoran-vkb.com.tr
 127.0.0.1 www.xn--poplerbahissiteleri-79b.com
+127.0.0.1 www.xn--yapkredi-vkb.com
 127.0.0.1 www.xnbfan.com
 127.0.0.1 www.xozifo.icu
 127.0.0.1 www.xsport.mobi
@@ -8035,6 +8116,7 @@
 127.0.0.1 xmtrk.com
 127.0.0.1 xn--altnoran-vkb.com.tr
 127.0.0.1 xn--poplerbahissiteleri-79b.com
+127.0.0.1 xn--yapkredi-vkb.com
 127.0.0.1 xnbfan.com
 127.0.0.1 xozifo.icu
 127.0.0.1 xsport.mobi
@@ -8150,9 +8232,6 @@
 127.0.0.1 yzftkgr.gq
 127.0.0.1 yzftkgr.ml
 127.0.0.1 yzftkgr.tk
-127.0.0.1 z-p4-graph.facebook.com
-127.0.0.1 z-p4.graph.instagram.com
-127.0.0.1 z-p42.graph.instagram.com
 127.0.0.1 z.moatads.com
 127.0.0.1 zddxlih.com
 127.0.0.1 zen.yandex.com.tr

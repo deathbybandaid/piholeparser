@@ -348,7 +348,6 @@ hoteldedemin.com.tr
 hotshot.com.tr
 humanplus.com.tr
 hygienix.com.tr
-id.google.com.tr
 idema.com.tr
 idriskoylu.com.tr
 ifilo.com.tr
@@ -704,7 +703,6 @@ www.ads5.admatic.com.tr
 www.ads5.sabah.com.tr
 www.adserver.adklik.com.tr
 www.adserver1.adtech.com.tr
-www.adservice.google.com.tr
 www.adsim.sabah.com.tr
 www.adsp.ciner.com.tr
 www.adtarget.com.tr
