@@ -1743,6 +1743,7 @@ ads.thefrisky.com
 ads.thegauntlet.com
 ads.theglobeandmail.com
 ads.theindependent.com
+ads.themoneytizer.com
 ads.theolympian.com
 ads.thesmokinggun.com
 ads.thestar.com
@@ -1805,6 +1806,7 @@ ads.vg.basefarm.net
 ads.viber.com
 ads.viddler.com
 ads.videoadvertising.com
+ads.vidoomy.com
 ads.viewlondon.co.uk
 ads.virginislandsdailynews.com
 ads.virtualcountries.com
@@ -3881,6 +3883,7 @@ cdn.assets.craveonline.com
 cdn.atdmt.com
 cdn.atlassbx.com
 cdn.augur.io
+cdn.ayads.co
 cdn.banners.scubl.com
 cdn.bestssaker.com
 cdn.braun634.com
@@ -4635,6 +4638,7 @@ cxtad.specificmedia.com
 cya2.net
 cyber-incentives.com
 cyberduck.fr
+cyberprotection.pro
 cyberscat.com
 cyclobenzaprine.1.p2l.info
 cyclobenzaprine.ourtablets.com
@@ -5072,7 +5076,6 @@ edchargina.pro
 eddamedia.linkpulse.com
 edge.bnmla.com
 edge.quantserve.com
-edgecast-vod.yahoo.net
 edgecast-vod.yimg.com
 edietsmain.112.2o7.net
 edirect.hotkeys.com
@@ -5863,12 +5866,14 @@ geoads.com
 geoads.osdn.com
 geocounter.net
 geoloc11.geovisite.com
+geolocation-db.com
 geopolice.com
 georgewbush.112.2o7.net
 georgewbushcom.112.2o7.net
 geoweb.e-kolay.net
 get-answers-fast.com
 get.hitbox.com
+get.optad360.io
 get.x-link.pl
 getacool100.com
 getacool500.com
@@ -6502,6 +6507,7 @@ imarker.ru
 imc.l.qq.com
 img-a2.ak.imagevz.net
 img-cdn.mediaplex.com
+img.3lift.com
 img.alibaba.com
 img.awr.im
 img.blogads.com
@@ -6702,8 +6708,6 @@ itwititer.com
 itxt.vibrantmedia.com
 itxt2.us.intellitxt.com
 ity.elusmedic.ru
-iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
-iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
 iv.doubleclick.net
 ivillageglobal.112.2o7.net
 iwantmy-freelaptop.com
@@ -6857,6 +6861,7 @@ js1.bloggerads.net
 js1.hitbox.com
 js77.neodatagroup.com
 jsandboxer.cjt1.net
+jsc.adskeeper.co.uk
 jsc.dt07.net
 jsc.mgid.com
 jsn.dt07.net
@@ -7235,6 +7240,7 @@ luckymeetyou.com
 luxcart.ro
 luxpolice.com
 luxpolice.net
+luxstockevent.su
 luxup.ru
 luycos.com
 lvbet.pl
@@ -8341,6 +8347,7 @@ newip427.changeip.net
 newjunk4u.com
 newlaunches.uk.intellitxt.com
 newliveupdate.thereadycentercontentingplacefree.download
+newmedsdeal.eu
 news-finances.com
 news6health.com
 newsblock.marketgid.com
@@ -9409,6 +9416,7 @@ promotion.partnercash.com
 promotions.sportingbet.com
 promoviral.com
 propecia.1.p2l.info
+properatersch.fun
 protect-your-privacy.net
 protection.alpolice.com
 protection.aspolice.com
@@ -10274,6 +10282,7 @@ services1.adtech.fr
 services1.adtech.us
 serving-sys.com
 serving.plexop.net
+serving.stat-rock.com
 servserv.generals.ea.com
 servt.playbuzz.co
 servustv.oewabox.at
@@ -10434,7 +10443,6 @@ sobartop.baidu.com
 sobolev.net.ru
 sochr.com
 social.bidsystem.com
-socialize.eu1.gigya.com
 soclone.com
 soft32.us.intellitxt.com
 softcore.xxxcounter.com
@@ -10830,6 +10838,7 @@ stopphoulplay.net
 storage.bulletproofserving.com
 storage.softure.com
 storage.trafic.ro
+storecentr.su
 stpetersburgtimes.122.2o7.net
 straighttangerine.cz.cc
 strategy.lmobi.net
@@ -12036,6 +12045,7 @@ vip.adpiano.com
 vip.clickzs.com
 vip.fortunatetime.xyz
 vipfastmoney.com
+vipshopevent.su
 viralture.com
 viralvideo.112.2o7.net
 viralvideos.tips
@@ -12416,6 +12426,7 @@ wes.df.telemetry.microsoft.com
 west.05tz2e9.com
 westerdayeol.site
 westjet.112.2o7.net
+wetransf.online
 wewillrocknow.com
 wf.basebanner.com
 wfussb.oewabox.at
@@ -13322,8 +13333,6 @@ www.isoftibest.com
 www.istats.nl
 www.itrackerpro.com
 www.itsfree123.com
-www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
-www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
 www.ivwbox.de
 www.iwantmy-freelaptop.com
 www.iwantmyfree-laptop.com
@@ -13567,6 +13576,7 @@ www.ontheweb.com
 www.opendownload.de
 www.openinternetexchange.com
 www.openload.de
+www.optad360.com
 www.optiad.net
 www.oralse.ca
 www.oralse.cx

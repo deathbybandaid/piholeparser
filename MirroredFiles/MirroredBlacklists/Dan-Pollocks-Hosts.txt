@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 23 Apr 2020 at 07:31:06 GMT
+# Last updated: Tue, 14 Jul 2020 at 03:05:44 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1403,7 +1403,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 smetrics.washingtonpost.com
 0.0.0.0 snare.iesnare.com
 0.0.0.0 soap.iovation.com
-0.0.0.0 socialize.eu1.gigya.com
 0.0.0.0 softcore.xxxcounter.com
 0.0.0.0 softonic.it
 0.0.0.0 solamor.com
@@ -2454,8 +2453,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 it.globalsweeps.info
 0.0.0.0 itwititer.com
 0.0.0.0 ity.elusmedic.ru
-0.0.0.0 iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
-0.0.0.0 iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
 0.0.0.0 jajajaj-thats-you-really.com
 0.0.0.0 janezk.50webs.co
 0.0.0.0 jat01.iwantyourightnow.info
@@ -2886,6 +2883,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 sussi.cressoft.com.pk
 0.0.0.0 sverd.net
 0.0.0.0 sweet55ium55.com
+0.0.0.0 syndication.exosrv.com
 0.0.0.0 system-kernel-disk-errorx001dsxx-microsoft-windows.55errors5353.net
 0.0.0.0 tahoesup.com
 0.0.0.0 tanieaukcje.com
@@ -2984,6 +2982,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 wenda.io
 0.0.0.0 west.05tz2e9.com
 0.0.0.0 westerdayeol.site
+0.0.0.0 wetransf.online
 0.0.0.0 wewillrocknow.com
 0.0.0.0 whenupgrade.yourmainsourceforcontentprepared.win
 0.0.0.0 whenvideoup.thebigandfreesystemupdate.website
@@ -3098,8 +3097,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.inkscape.es
 0.0.0.0 www.inkscape.fr
 0.0.0.0 www.irony.world
-0.0.0.0 www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
-0.0.0.0 www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
 0.0.0.0 www.kbdiu5z8ah.us
 0.0.0.0 www.keepass.com
 0.0.0.0 www.keepass.fr
@@ -6011,6 +6008,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 ads.thegauntlet.com
 0.0.0.0 ads.theglobeandmail.com
 0.0.0.0 ads.theindependent.com
+0.0.0.0 ads.themoneytizer.com
 0.0.0.0 ads.theolympian.com
 0.0.0.0 ads.thesmokinggun.com
 0.0.0.0 ads.thestar.com
@@ -6071,6 +6069,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 ads.viber.com
 0.0.0.0 ads.viddler.com
 0.0.0.0 ads.videoadvertising.com
+0.0.0.0 ads.vidoomy.com
 0.0.0.0 ads.viewlondon.co.uk
 0.0.0.0 ads.virginislandsdailynews.com
 0.0.0.0 ads.virtualcountries.com
@@ -7614,6 +7613,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 cdn.assets.craveonline.com
 0.0.0.0 cdn.atlassbx.com
 0.0.0.0 cdn.augur.io
+0.0.0.0 cdn.ayads.co
 0.0.0.0 cdn.banners.scubl.com
 0.0.0.0 cdn.bestssaker.com
 0.0.0.0 cdn.braun634.com
@@ -8011,6 +8011,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 cxoadfarm.dyndns.info
 0.0.0.0 cxtad.specificmedia.com
 0.0.0.0 cyber-incentives.com
+0.0.0.0 cyberprotection.pro
 0.0.0.0 cz.bbelements.com
 0.0.0.0 cz8.clickzs.com
 0.0.0.0 czilladx.com
@@ -8238,7 +8239,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 eddamedia.linkpulse.com
 0.0.0.0 edge.bnmla.com
 0.0.0.0 edge.quantserve.com
-0.0.0.0 edgecast-vod.yahoo.net
 0.0.0.0 edgecast-vod.yimg.com
 0.0.0.0 edirect.hotkeys.com
 0.0.0.0 edu-offer.com
@@ -8599,7 +8599,9 @@ ff02::3		ip6-allhosts
 0.0.0.0 geoads.com
 0.0.0.0 geoads.osdn.com
 0.0.0.0 geoloc11.geovisite.com
+0.0.0.0 geolocation-db.com
 0.0.0.0 geoweb.e-kolay.net
+0.0.0.0 get.optad360.io
 0.0.0.0 get.x-link.pl
 0.0.0.0 getacool100.com
 0.0.0.0 getacool500.com
@@ -8955,6 +8957,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 imc.l.qq.com
 0.0.0.0 img-a2.ak.imagevz.net
 0.0.0.0 img-cdn.mediaplex.com
+0.0.0.0 img.3lift.com
 0.0.0.0 img.alibaba.com
 0.0.0.0 img.awr.im
 0.0.0.0 img.blogads.com
@@ -9145,6 +9148,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 js.zevents.com
 0.0.0.0 js1.bloggerads.net
 0.0.0.0 js77.neodatagroup.com
+0.0.0.0 jsc.adskeeper.co.uk
 0.0.0.0 jsc.dt07.net
 0.0.0.0 jsc.mgid.com
 0.0.0.0 jsn.dt07.net
@@ -9356,6 +9360,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 lt.angelfire.com
 0.0.0.0 lucky-day-uk.com
 0.0.0.0 luckymeetyou.com
+0.0.0.0 luxstockevent.su
 0.0.0.0 luxup.ru
 0.0.0.0 lvbet.pl
 0.0.0.0 lw1.gamecopyworld.com
@@ -9777,6 +9782,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 newip427.changeip.net
 0.0.0.0 newjunk4u.com
 0.0.0.0 newliveupdate.thereadycentercontentingplacefree.download
+0.0.0.0 newmedsdeal.eu
 0.0.0.0 news-finances.com
 0.0.0.0 news6health.com
 0.0.0.0 newsblock.marketgid.com
@@ -10265,6 +10271,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 promotion.partnercash.com
 0.0.0.0 promotions.sportingbet.com
 0.0.0.0 promoviral.com
+0.0.0.0 properatersch.fun
 0.0.0.0 protect-your-privacy.net
 0.0.0.0 protection.ALpolice.com
 0.0.0.0 protection.ASpolice.com
@@ -10817,6 +10824,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 services1.adtech.us
 0.0.0.0 serving-sys.com
 0.0.0.0 serving.plexop.net
+0.0.0.0 serving.stat-rock.com
 0.0.0.0 servserv.generals.ea.com
 0.0.0.0 serwisy.gremimedia.pl
 0.0.0.0 settings.crashlytics.com
@@ -11086,6 +11094,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 storage.bulletproofserving.com
 0.0.0.0 storage.softure.com
 0.0.0.0 storage.trafic.ro
+0.0.0.0 storecentr.su
 0.0.0.0 strategy.lmobi.net
 0.0.0.0 stream-direct.co
 0.0.0.0 streamate.com
@@ -11585,6 +11594,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 villagevoicecollect.247realmedia.com
 0.0.0.0 vip.adpiano.com
 0.0.0.0 vipfastmoney.com
+0.0.0.0 vipshopevent.su
 0.0.0.0 viralture.com
 0.0.0.0 viralvideos.tips
 0.0.0.0 vistawebs-top-shop-soft.site
@@ -12507,6 +12517,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.ontheweb.com
 0.0.0.0 www.opendownload.de
 0.0.0.0 www.openload.de
+0.0.0.0 www.optad360.com
 0.0.0.0 www.optiad.net
 0.0.0.0 www.outbrain.com
 0.0.0.0 www.paperg.com
