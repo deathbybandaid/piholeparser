@@ -167,6 +167,7 @@ admp.io
 adobe-creative-cloud.extole.io
 adon.io
 ads.avocet.io
+ads.missena.io
 adserve-ams.1rx.io
 adserve-nj.1rx.io
 adserve-sjo.1rx.io

@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 14 Jul 2020 at 03:05:44 GMT
+# Last updated: Mon, 20 Jul 2020 at 15:29:26 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -5773,6 +5773,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 ads.miniclip.com
 0.0.0.0 ads.mininova.org
 0.0.0.0 ads.mircx.com
+0.0.0.0 ads.missena.io
 0.0.0.0 ads.mixi.jp
 0.0.0.0 ads.mixtraffic.com
 0.0.0.0 ads.mlive.com
