@@ -2513,6 +2513,7 @@ adtigerpl.adspirit.net
 adtlgc.com
 adtology3.com
 adtotal.pl
+adtrack.appcpi.net
 adtracking.vinden.nl
 adtrader.com
 adtrak.net
@@ -2764,19 +2765,23 @@ an.mlb.com
 an.tacoda.net
 an.yandex.ru
 analysis.fc2.com
+analytics-ingress-global.bitmovin.com
 analytics-static.ugc.bazaarvoice.com
 analytics.admob.com
+analytics.global.sky.com
 analytics.ku6.com
 analytics.kwebsoft.com
 analytics.msnbc.msn.com
 analytics.myfinances.com
 analytics.onesearch.id
+analytics.ooyala.com
 analytics.percentmobile.com
 analytics.prx.org
 analytics.publitas.com
 analytics.rayjump.com
 analytics.services.kirra.nl
 analytics.shareaholic.com
+analytics.sleeknote.com
 analytics.spotta.nl
 analytics.verizonenterprise.com
 analytics.vodafone.co.uk
@@ -2885,6 +2890,7 @@ api.uprivaladserver.net
 api.viglink.com
 api.zhy333.com
 api2.murdoog.com
+apiadapter.ad5track.com
 apis.murdoog.com
 apnonline.112.2o7.net
 apodir.oewabox.at
@@ -5340,6 +5346,7 @@ etype.adbureau.net
 eu-gmtdmp.gd1.mookie1.com
 eu-pn4.adserver.yahoo.com
 eu-sonar.sociomantic.com
+eu-track.inside-graph.com
 eu.track.digitaladsystems.com
 eu.xtms.net
 eu1.recompenses.win
@@ -5724,6 +5731,7 @@ gam.adnxs.com
 gambero3.cs.tin.it
 game-online-video.petrovka.info
 game0516.cdn8-traffic68-server10.top
+gameanalysis.appcpi.net
 gameconsolerewards.com
 gamelights.ru
 gamerz123.com
@@ -8194,6 +8202,7 @@ my2.teknoter.com
 myanyone.net
 myao.adocean.pl
 myasiantv.gsspcln.jp
+mybbc-analytics.files.bbci.co.uk
 mybinaryoptionsrobot.com
 mycamptrack.com
 mycashback.co.uk
@@ -9417,6 +9426,7 @@ promotion.partnercash.com
 promotions.sportingbet.com
 promoviral.com
 propecia.1.p2l.info
+propeller-tracking.com
 properatersch.fun
 protect-your-privacy.net
 protection.alpolice.com
@@ -11501,6 +11511,7 @@ tracker.awr.im
 tracker.baidu.com
 tracker.blueprintinteractivetest.com
 tracker.bonnint.net
+tracker.bt.uol.com.br
 tracker.cdn-analytics.host
 tracker.cl1.fidelizador.com
 tracker.clicktrade.com
@@ -11517,6 +11528,7 @@ tracker.offermarket.net
 tracker.onapps.org
 tracker.promosvc.com
 tracker.promovalue.us
+tracker.remp.impresa.pt
 tracker.svcoffer.com
 tracker.tradedoubler.com
 tracker.twenga.nl
@@ -11592,6 +11604,7 @@ tracking.trutv.com
 tracking.vcommission.com
 tracking.veoxa.com
 tracking.vindicosuite.com
+tracking.yohoads.com
 trackit.vicotech.com
 trackmail3345.com
 tracksurf.daooda.com
