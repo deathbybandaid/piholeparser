@@ -133,6 +133,7 @@ ads30.adcolony.com
 ads5.truecaller.com
 adsaccount.appcpi.net
 adsances.ero-advertising.com
+adsbydomain.fouanalytics.com
 adscan.yelabapp.com
 adservice.google.be
 adservice.google.co.in
@@ -229,6 +230,7 @@ api.collect.data.intl.miui.com
 api.d.xiaomi.com
 api.doubles.click
 api.eqmob.com
+api.fouanalytics.com
 api.grandonmedia.com
 api.hybrid.intl.xiaomi.com
 api.moengage.com
