@@ -13,8 +13,13 @@ ____________________________________
 ## Pinging Source To Check Host Availability
 ## Checking File Header
 ## Determining Host Availability
+* Bad-JAV-Sites List Unavailable To Download. Sat Jul 25 00:20:29 UTC 2020
 ## Checking If List Updated Online
 ## Determining Download Attempt
 ## Attempting To Download List
 ## Checking File Size
-* Bad-JAV-Sites List Was An Empty File After Download. Fri Jul 24 00:22:01 UTC 2020
+* Bad-JAV-Sites List Was An Empty File After Download. Sat Jul 25 00:20:31 UTC 2020
+## Attempting Creation Of Mirror File
+## Parsing List
+## Checking Parsed File Size
+* Bad-JAV-Sites List Was Killed By The Parsing Process. It will be skipped in the future. Sat Jul 25 00:20:31 UTC 2020

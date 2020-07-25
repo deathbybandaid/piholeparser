@@ -44,6 +44,7 @@ bmxs.ws
 brolaskjf.superweb.ws
 broster.ws
 brothermalw.ws
+bypassed.ws
 caelum.ws
 caiunanet.ws
 canonsupervideo4k.ws
@@ -234,7 +235,6 @@ softsale.ws
 softwareclub.ws
 solc.ws
 spektor.ws
-ssa.x1337x.ws
 starcoins.ws
 statuses.ws
 streamdream.ws

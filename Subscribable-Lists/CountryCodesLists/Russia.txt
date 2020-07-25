@@ -106,6 +106,7 @@
 1y7.ru
 1z8.ru
 2-bit.net.ru
+2.biqle.ru
 2.cataloc.msk.ru
 2000zakazov.ru
 2009-dvd.ru
@@ -10230,7 +10231,6 @@ ssp-rtb.sape.ru
 ssp.adriver.ru
 ssp.datamind.ru
 ssp.rambler.ru
-sspicy.ru
 sstroy44.ru
 ssve.ru
 st-ch.ru

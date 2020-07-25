@@ -875,6 +875,7 @@ banners.oxiads.fr
 banners.wlservices.fr
 banniere.reussissonsensemble.fr
 banquepopulaire2010.solution.weborama.fr
+bans.pornica.fr
 barbequedirect.fr
 barbok.fr
 barbydare.free.fr
@@ -3602,6 +3603,7 @@ plusjouesjeuxlimited.fr
 plusvraiquenature.fr
 pluton2084.free.fr
 pluton2087.free.fr
+plx.gameblog.fr
 pndll.fr
 pneus-online.fr
 pocketgamer.fr
@@ -4471,6 +4473,7 @@ wow-france.fr
 wowfatalerror.free.fr
 wowtcg.fr
 wpyren.fr
+wrapper.lemde.fr
 wreport.weborama.fr
 wtracy.free.fr
 www.123love.fr
