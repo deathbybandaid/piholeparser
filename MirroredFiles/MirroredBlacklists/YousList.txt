@@ -3,7 +3,7 @@
 ! License: https://github.com/yous/YousList#license
 ! Title: YousList
 ! Expires: 4 days
-! Version: 20200706
+! Version: 20200728
 
 ! General element hiding rules
 ##amp-ad
@@ -65,6 +65,7 @@
 ##div[id^="MarketGidScriptRootC"]
 ##div[id^="div-gpt-ad-"]
 ##div[id^="google_ads_iframe_"]
+##div[id^="mobonDivBanner_"]
 ##div[id^="sbaAbout"]
 ##iframe[data-src^="//ssp.realclick.co.kr/"][data-src*="c=iframe"]
 ##iframe[data-src^="http://nw.realssp.co.kr/"]
@@ -712,6 +713,7 @@
 ||api.content.ad/Scripts/widget2.aspx^
 ||api.ficm.contentlink.co.kr/api/ficm_result.php^
 ||api.ficm.contentlink.co.kr/api/ficm_result_view.php^
+||api.hiyobi.me/dist/tjqjql/*.gif^$domain=hiyobi.me
 ||api.screensharp.kr/ad/get_banner/
 ||api.uad.nicovideo.jp/UadsVideoService/getSponsorsJsonp^$domain=embed.nicovideo.jp|nicovideo.jp
 ||api.wiseclick.co.kr/api/web_directad/
@@ -919,6 +921,7 @@
 ||compass.adop.cc/assets/js/adop/adop.js^
 ||compass.adop.cc/assets/js/adop/adopHB.js^
 ||compass.adop.cc/assets/js/adop/adopJ.js^
+||compasscdn.adop.cc/js/adop_collapse_*.min.js^
 ||config.ad-brix.com/*/init.json^
 ||connect.facebook.net/en_US/fbadnw*-tag.js^
 ||connect.facebook.net/en_US/fbadnw.js^
@@ -1524,6 +1527,7 @@
 ||na.mmnneo.com/banner.widget.asp^
 ||nad1.mklaud.com/ad^
 ||nads.lumieyes.com/show/media/
+||namu.live/api/ads^$domain=namu.live
 ||namu.live/static/ad/$domain=namu.wiki
 ||nanumnews.com/data/nanumnews_com/banner/201111264931247.jpg^
 ||nanumnews.com/data/nanumnews_com/banner/2011121335056118.gif^
@@ -4848,6 +4852,8 @@ mywatchseries.to##div.block-left-home-inside[style="height:252px; text-align:cen
 mywatchseries.to##div.header-ad
 mywatchseries.to##div.sp-leader
 naitimp3.ru##div#M306352Composite624079
+namu.live##div.ad
+namu.live##iframe[src^="/api/ads"]
 namu.wiki##div.test-ad-card
 namu.wiki##iframe[src^="//namu.live/static/ad/"]
 nanumnews.com##body>div:nth-of-type(2)>table:nth-of-type(2)>tbody>tr>td:nth-of-type(4)>table:nth-of-type(2)>tbody>tr>td>table:nth-of-type(2)
@@ -5075,7 +5081,6 @@ newsen.com##div#news_banner
 newsen.com##div#right_banner
 newsen.com##div.centeringContainer
 newsen.com##div.google-auto-placed
-newsen.com##div[id^="mobonDivBanner_"]
 newsen.com##ins[data-ad-slot="2189317187"]
 newsen.com##ins[data-ad-slot="4519820470"]
 newsen.com##ins[data-ad-slot="6619516784"]
@@ -6249,7 +6254,6 @@ xportsnews.com##div.nm_list2
 xportsnews.com##div.r_ad_1
 xportsnews.com##div.rr_ad_1
 xportsnews.com##div.rr_ad_2
-xportsnews.com##div[id^="mobonDivBanner_"]
 xportsnews.com##span.ad_balloon
 xportsnews.com##ul.ad_wrap_list
 xportsnews.hankyung.com##div.btn_event

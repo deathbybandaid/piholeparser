@@ -1,20 +1,22 @@
-# Title: nurcan Türk ad-list
-# Format: Hosts
-# Released: 15.07.2020
-# Entries: 8398
-# Details: https://github.com/xorcan/hosts/
-# Issues: https://github.com/xorcan/hosts/issues
-# Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
-# License: https://raw.githubusercontent.com/xorcan/hosts/master/LICENSE
+! Title: nurcan Türk ad-list
+! Format: Hosts
+! Expires: 1 days
+! Homepage: https://github.com/xorcan/hosts
+! Released: 28.07.2020
+! Entries: 8399
+! Details: https://github.com/xorcan/hosts
+! Issues: https://github.com/xorcan/hosts/issues
+! Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
+! License: https://raw.githubusercontent.com/xorcan/hosts/master/LICENSE
 
-# Copyright 2020 xorcan
-# Reklam bildirimi / iletişim: xorcan@protonmail.com
-# Report an ad / contact: xorcan@protonmail.com
+! Copyright 2020 xorcan
+! Reklam bildirimi / iletişim: xorcan@protonmail.com
+! Report an ad / contact: xorcan@protonmail.com
 
 127.0.0.1  localhost
 ::1  localhost
 
-# xorcan/hosts başla #
+! xorcan/hosts başla
 127.0.0.1 05bursa-escortsc-com.cdn.ampproject.org
 127.0.0.1 0638.info
 127.0.0.1 0n.click
@@ -649,7 +651,6 @@
 127.0.0.1 app-analytics.snapchat.com
 127.0.0.1 app-measurement.com
 127.0.0.1 app.adjust.com
-127.0.0.1 app.link
 127.0.0.1 app.medyanetads.com
 127.0.0.1 app.networkad.net
 127.0.0.1 app.superbuzz.io
@@ -3253,6 +3254,7 @@
 127.0.0.1 rlink.xyz
 127.0.0.1 rmz-e.com
 127.0.0.1 robonik.com.tr
+127.0.0.1 roketmail.co
 127.0.0.1 rolandolan.com
 127.0.0.1 roletaryk.info
 127.0.0.1 roltek.com.tr
@@ -7145,6 +7147,7 @@
 127.0.0.1 www.rlink.xyz
 127.0.0.1 www.rmz-e.com
 127.0.0.1 www.robonik.com.tr
+127.0.0.1 www.roketmail.co
 127.0.0.1 www.rolandolan.com
 127.0.0.1 www.roletaryk.info
 127.0.0.1 www.roltek.com.tr
@@ -8413,4 +8416,4 @@
 127.0.0.1 zxmkvelyft.bid
 127.0.0.1 zzgqqdmnrhhals.com
 127.0.0.1 zzhgpbovlhinj.com
-# xorcan/hosts bitir #
+! xorcan/hosts bitir

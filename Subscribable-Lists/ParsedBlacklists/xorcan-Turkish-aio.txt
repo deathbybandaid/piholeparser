@@ -628,7 +628,6 @@ apklush.co
 app-analytics.snapchat.com
 app-measurement.com
 app.adjust.com
-app.link
 app.medyanetads.com
 app.networkad.net
 app.superbuzz.io
@@ -3229,6 +3228,7 @@ rlink.live
 rlink.xyz
 rmz-e.com
 robonik.com.tr
+roketmail.co
 rolandolan.com
 roletaryk.info
 roltek.com.tr
@@ -7114,6 +7114,7 @@ www.rlink.live
 www.rlink.xyz
 www.rmz-e.com
 www.robonik.com.tr
+www.roketmail.co
 www.rolandolan.com
 www.roletaryk.info
 www.roltek.com.tr
