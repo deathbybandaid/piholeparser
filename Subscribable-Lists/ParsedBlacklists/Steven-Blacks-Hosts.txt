@@ -126,6 +126,7 @@ ads.feedly.com
 ads.grandonmedia.com
 ads.proc.cc
 ads.samsungads.com
+ads.servenobid.com
 ads1.ero-advertising.com
 ads1.opensubtitles.org
 ads2.servebom.com
@@ -1805,6 +1806,7 @@ pub.axiatraders.com
 pub.grandonmedia.com
 pub.trads.io
 pub.welcometothepub.com
+public.servenobid.com
 pull-3045.kxcdn.com
 pushedwebnews.com
 pussysaga.com

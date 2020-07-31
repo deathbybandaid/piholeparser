@@ -3,9 +3,67 @@
 ! License: https://github.com/yous/YousList#license
 ! Title: YousList
 ! Expires: 4 days
-! Version: 20200728
+! Version: 20200730
 
 ! General element hiding rules
+##a[href*="//2020kkaggme.com"]
+##a[href*="//2020tteecaca.com"]
+##a[href*="//747-one.com"]
+##a[href*="//777bbet.com"]
+##a[href*="//bbnara.com"]
+##a[href*="//bingre-n.com"]
+##a[href*="//bit.ly/2E8QDfh"]
+##a[href*="//br-asd.com"]
+##a[href*="//bun-go5.com"]
+##a[href*="//butterkorea.com"]
+##a[href*="//ccow888.com"]
+##a[href*="//gb-555.com"]
+##a[href*="//kogamedg.com"]
+##a[href*="//lasbet24.com"]
+##a[href*="//mbc.sp644.com"]
+##a[href*="//mhd-88.com"]
+##a[href*="//mini-13.com"]
+##a[href*="//ministop77.com"]
+##a[href*="//momobet365.com"]
+##a[href*="//mss-star.com"]
+##a[href*="//mt-police04.com"]
+##a[href*="//nb-sg.com"]
+##a[href*="//noca.tri-99.com"]
+##a[href*="//noca52.com"]
+##a[href*="//od774.com"]
+##a[href*="//onca888.com"]
+##a[href*="//realplace.net"]
+##a[href*="//seda1.bet"]
+##a[href*="//sia999.com"]
+##a[href*="//slot0505.com"]
+##a[href*="//slot0508.com"]
+##a[href*="//sm-323.com"]
+##a[href*="//sms-0008.com"]
+##a[href*="//soccernxt.com"]
+##a[href*="//spin589.com"]
+##a[href*="//spin800.com"]
+##a[href*="//sureman77.com"]
+##a[href*="//sweetsimba.com"]
+##a[href*="//sy-bol.com"]
+##a[href*="//tslot5.com"]
+##a[href*="//um-e66.com"]
+##a[href*="//uro-333.com"]
+##a[href*="//wb-tt.com"]
+##a[href*="//wj-xk.com"]
+##a[href*="//wnx-ir.com"]
+##a[href*="//www.2020kkaggme.com"]
+##a[href*="//www.2020tteecaca.com"]
+##a[href*="//www.777bbet.com"]
+##a[href*="//www.kogamedg.com"]
+##a[href*="//www.lasbet24.com"]
+##a[href*="//www.momobet365.com"]
+##a[href*="//www.mt-police04.com"]
+##a[href*="//www.soccernxt.com"]
+##a[href*="//xfs-bm.com"]
+##a[href*="//yug-ko.com"]
+##a[href*="//그녀와밤.com"]
+##a[href*="//전봇대주소.com"]
+##a[href*="//탑3.com"]
 ##amp-ad
 ##amp-embed.ad_cnt
 ##div#adbay_adExpandDiv
@@ -152,6 +210,7 @@
 ##iframe[src*="//ads2.contentabc.com/ads"]
 ##iframe[src*="//ads3.tenping.kr/adbox/showadbox"]
 ##iframe[src*="//adserver.exoticads.com/cz"]
+##iframe[src*="//adserver.juicyads.com/adshow.php"]
 ##iframe[src*="//adserver.sbtrustmedia.com/"]
 ##iframe[src*="//adspaces.ero-advertising.com/banads/view.php"]
 ##iframe[src*="//adstract.adk2x.com/imp"]
@@ -354,6 +413,65 @@
 ##li.blogroll-ad-text
 ##span.ezoic-ad
 
+2020kkaggme.com#@#a[href*="//2020kkaggme.com"]
+2020kkaggme.com#@#a[href*="//www.2020kkaggme.com"]
+2020tteecaca.com#@#a[href*="//2020tteecaca.com"]
+2020tteecaca.com#@#a[href*="//www.2020tteecaca.com"]
+747-one.com#@#a[href*="//747-one.com"]
+777bbet.com#@#a[href*="//777bbet.com"]
+777bbet.com#@#a[href*="//www.777bbet.com"]
+bbnara.com#@#a[href*="//bbnara.com"]
+bingre-n.com#@#a[href*="//bingre-n.com"]
+br-asd.com#@#a[href*="//br-asd.com"]
+bun-go5.com#@#a[href*="//bun-go5.com"]
+butterkorea.com#@#a[href*="//butterkorea.com"]
+ccow888.com#@#a[href*="//ccow888.com"]
+gb-555.com#@#a[href*="//gb-555.com"]
+kogamedg.com#@#a[href*="//kogamedg.com"]
+kogamedg.com#@#a[href*="//www.kogamedg.com"]
+lasbet24.com#@#a[href*="//lasbet24.com"]
+lasbet24.com#@#a[href*="//www.lasbet24.com"]
+mhd-88.com#@#a[href*="//mhd-88.com"]
+mini-13.com#@#a[href*="//mini-13.com"]
+ministop77.com#@#a[href*="//ministop77.com"]
+momobet365.com#@#a[href*="//momobet365.com"]
+momobet365.com#@#a[href*="//www.momobet365.com"]
+mss-star.com#@#a[href*="//mss-star.com"]
+mt-police04.com#@#a[href*="//mt-police04.com"]
+mt-police04.com#@#a[href*="//www.mt-police04.com"]
+nb-sg.com#@#a[href*="//nb-sg.com"]
+noca52.com#@#a[href*="//bit.ly/2E8QDfh"]
+noca52.com#@#a[href*="//noca52.com"]
+od774.com#@#a[href*="//od774.com"]
+onca888.com#@#a[href*="//onca888.com"]
+realplace.net#@#a[href*="//realplace.net"]
+seda1.bet#@#a[href*="//seda1.bet"]
+sia999.com#@#a[href*="//sia999.com"]
+slot0505.com#@#a[href*="//slot0505.com"]
+slot0508.com#@#a[href*="//slot0508.com"]
+sm-323.com#@#a[href*="//sm-323.com"]
+sms-0008.com#@#a[href*="//sms-0008.com"]
+soccernxt.com#@#a[href*="//soccernxt.com"]
+soccernxt.com#@#a[href*="//www.soccernxt.com"]
+sp644.com#@#a[href*="//mbc.sp644.com"]
+spin589.com#@#a[href*="//spin589.com"]
+spin800.com#@#a[href*="//spin800.com"]
+sureman77.com#@#a[href*="//sureman77.com"]
+sweetsimba.com#@#a[href*="//sweetsimba.com"]
+sy-bol.com#@#a[href*="//sy-bol.com"]
+tri-99.com#@#a[href*="//noca.tri-99.com"]
+tslot5.com#@#a[href*="//tslot5.com"]
+um-e66.com#@#a[href*="//um-e66.com"]
+uro-333.com#@#a[href*="//uro-333.com"]
+wb-tt.com#@#a[href*="//wb-tt.com"]
+wj-xk.com#@#a[href*="//wj-xk.com"]
+wnx-ir.com#@#a[href*="//wnx-ir.com"]
+xfs-bm.com#@#a[href*="//xfs-bm.com"]
+yug-ko.com#@#a[href*="//yug-ko.com"]
+그녀와밤.com#@#a[href*="//그녀와밤.com"]
+전봇대주소.com#@#a[href*="//전봇대주소.com"]
+탑3.com#@#a[href*="//탑3.com"]
+
 ! URL filters
 *-ads.openx.net/w/1.0/acj^
 *-ads.openx.net/w/1.0/afr^
@@ -393,6 +511,7 @@
 ||218.153.11.175^
 ||3407.tm.zedo.com/v1/*/atm.js^
 ||58.120.226.147^
+||5rs-wc21.com/imgs/banner/*.gif^$domain=5rs-wc21.com
 ||7fkm2r4pzi.com/*/*/*/*.js^
 ||a.adtng.com/get/
 ||a.bf-ad.net/makabo/js_ng/adplayer/js/adplayer.min.js^
@@ -646,6 +765,7 @@
 ||adserver.adtechus.com^
 ||adserver.exoticads.com/cz^
 ||adserver.genesismediaus.com/ac^
+||adserver.juicyads.com/adshow.php^
 ||adserver.juicyads.com/js/jads.js^
 ||adserver.sbtrustmedia.com^
 ||adserver.uniqube.tv^
@@ -986,6 +1106,7 @@
 ||dangdangnews.com/banner/$domain=dangdangnews.com
 ||danmee.chosun.com/common/event2016/index.html^$domain=danmee.chosun.com
 ||databucket.duckdns.org:*/images/ads/$domain=databucket.duckdns.org
+||daumd03.net/_img/ad/$domain=daumd03.net
 ||daypic.ru/banners/banners.js^
 ||dcd.adotsolution.com/dcd/creative.skp^
 ||deepdivead.zum.com/cgi-bin/PelicanC.dll^
@@ -1113,6 +1234,7 @@
 ||franecki.net/js/lib.js^
 ||fs.jtbc.co.kr/common/ui/ad/
 ||fs.jtbc.joins.com/common/ui/ad/
+||funbe.space/bann/$domain=funbe.space
 ||g.163.com/r^$domain=163.com
 ||g.163.com/ur^$domain=163.com
 ||g.ezoic.net/ezosuigeneris.js^
@@ -1654,6 +1776,7 @@
 ||polinews.co.kr/data/banner/$domain=polinews.co.kr
 ||polltest.azurewebsites.net/Polls/Ads^
 ||pop.site3.co.kr/poco.js^
+||poweredby.jads.co/js/jads.js^
 ||ppdxyz.info/script-2/license.ppdxyz.js^
 ||ppdxyz.info/script-2/new_script.js^
 ||ppomppu.co.kr/banner/_loader_bbs_list_origin.php^$domain=ppomppu.co.kr
@@ -1777,6 +1900,7 @@
 ||smartadserver.com/ac^
 ||smartadserver.com/h/nshow^
 ||smartposting.net/keyword/api/
+||smpeople.net/mappy/ad/$domain=smpeople.net
 ||smrmembers-smr.smartmediarep.com/smc/smrmembers/$domain=~allvod.sbs.co.kr|~news.sbs.co.kr|~news.tvchosun.com|~onair.imbc.com|~play-tv.kakao.com|~programs.sbs.co.kr
 ||sndkorea.nowcdn.co.kr/emart/
 ||sndkorea.nowcdn.co.kr/media/
@@ -1888,6 +2012,8 @@
 ||thepiratebay.bid/static/ads/$domain=thepiratebay.bid
 ||thepiratebay.org/static/ads/$domain=thepiratebay.org
 ||ti-center.co.kr^
+||tkor.host/bann/$domain=tkor.host|tkor.tax
+||tkor.tax/bann/$domain=tkor.host|tkor.tax
 ||tl.mmnneo.com/neovcm.js^
 ||tm.interworksmedia.co.kr/ads.sx/
 ||todayan.com/banner/roll_*.html^$domain=todayan.com
@@ -2064,6 +2190,9 @@
 4players.de##aside#werbung-banner
 4th.kr##div#divBanner
 4th.kr##div.banner-ad-area
+5rs-wc21.com##div.left_banner
+5rs-wc21.com##div.right_banner
+5rs-wc21.com##div.spon_banner
 67k8k.com##aside.advert
 67k8k.com##div.ad-pc
 67k8k.com##div.ad-site
@@ -2649,6 +2778,7 @@ daum.net##div#adMain
 daum.net##div#daumAd
 daum.net##div.advert_bnr
 daum.net##div.advert_shoppingbox
+daumd03.net##a[href^="/partner/i_view.php"]
 dcinside.com##div#dgn_content_de>div[style="padding-top: 16px;padding-bottom:30px;text-align: center"]
 dcinside.com##div.ad_top
 dcnewsj.joins.com##div.promotion_banner
@@ -3030,6 +3160,10 @@ france24.com##div.m-interstitial__ad
 france24.com##div.o-ad-container
 ft.com##div.o-ads
 ftoday.co.kr##div.banner_box
+funbe.space##div.main_top_bann
+funbe.space##div.main_top_bann2
+funbe.space##section.top_banner
+fxfx19.com##div.top-banner
 g-enews.com##div#sliding_adop
 g-enews.com##div#sliding_adopP
 g-enews.com##div.daisy
@@ -4693,6 +4827,8 @@ minitoon.net##div.g_banner
 minitoon.net##div.m_banner
 minitoon.net##div.n_banner
 minitoon.net##div.s_banner
+minor.town,namu.live##div.ad
+minor.town,namu.live##iframe[src^="/api/ads"]
 mk.co.kr##div.ad_footer
 mk.co.kr##div.ad_rightbottom
 mk.co.kr##div.ad_rightview
@@ -4852,8 +4988,6 @@ mywatchseries.to##div.block-left-home-inside[style="height:252px; text-align:cen
 mywatchseries.to##div.header-ad
 mywatchseries.to##div.sp-leader
 naitimp3.ru##div#M306352Composite624079
-namu.live##div.ad
-namu.live##iframe[src^="/api/ads"]
 namu.wiki##div.test-ad-card
 namu.wiki##iframe[src^="//namu.live/static/ad/"]
 nanumnews.com##body>div:nth-of-type(2)>table:nth-of-type(2)>tbody>tr>td:nth-of-type(4)>table:nth-of-type(2)>tbody>tr>td>table:nth-of-type(2)
@@ -5560,6 +5694,12 @@ smallbusiness.chron.com##div#radlinks
 smallbusiness.chron.com##div#s-300
 smallbusiness.chron.com##div#top-300
 smallbusiness.chron.com##div.leaderboard
+smpeople.net##div#boxer
+smpeople.net##div.ada
+smpeople.net##div.fancybox-wrap
+smpeople.net##div.left_side_banner
+smpeople.net##li.ads
+smpeople.net##li.side_banner_common
 snopes.com##div.snopes-partner-unit
 socialcompare.com##div#scAComBox
 socialcompare.com##div#scAComT
@@ -5865,6 +6005,9 @@ time.com##div.ad-wrapper
 tip.daum.net##div#viewBottomAdWrapper
 tistory.com##div.ad250
 tistory.com##div.ad250_outter
+tkor.host,tkor.tax##div.main_top_bann
+tkor.host,tkor.tax##div.mobile_banner
+tkor.host,tkor.tax##section.top_banner
 tmz.com##div.main-leaderboard-ad
 tmz.com##div.sidebar-ad
 tnnews.co.kr##div.td-a-rec-id-content_bottom
@@ -6196,6 +6339,8 @@ weekly.khan.co.kr##div.banner_main
 weekly.khan.co.kr##div[data-widget_id="QXeKN67e"]
 weekly.khan.co.kr##div[data-widget_id="plq1JElO"]
 westword.com##div.ads
+wfwf102.com##div.top-banner
+wfwf102.com##ul.top-banner
 whatis.techtarget.com##div.ad
 whatis.techtarget.com##div.ad-embedded
 whatis.techtarget.com##div.ad-wrapper
@@ -6232,6 +6377,7 @@ wordpress.com##p.inline-ad-slot
 wowhead.com##div.banner-ad
 wowtv.co.kr##div#divTopBanner
 wowtv.co.kr##div.adv-area
+wtwt28.com##div.banner
 www-clien-net.cdn.ampproject.org##div.ad_fix
 www-clien-net.cdn.ampproject.org##div.list_bottom_ad
 www-clien-net.cdn.ampproject.org##div.list_center_ad

@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: dpm5MaVijzlUKwOYITf+KA==
+! Checksum: xU9fnDSfi3lgQNtfsbN0mA==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 22 Jun 2020 04:31 +00:00
+! Last Modified: 30 Jul 2020 01:26 +00:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -1214,6 +1214,8 @@ www.quechoisir.org###bannerCnil
 www.sentres.com##.cookies-eu
 www.tf1.fr##.banner_cookies
 www.theguardian.com##.site-message--cookies.site-message--banner.js-site-message.site-message
+www.vobadirekt.de##.lightbox--cookie-consent
+www.vobadirekt.de##:xpath(//*[contains(@class, "darken-layer") and /*//*[contains(@class, "lightbox--cookie-consent")]])
 www.wykop.pl##DIV[class="annotation type-alert type-permanent lspace m-reset-position closableContainer"]
 zenska.si#@##cookie-bar
 zonaforo.meristation.com##.inner
