@@ -2925,9 +2925,9 @@ qqcinema21.com##a[rel="nofollow"]:has(img)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/6769
 ! https://github.com/NanoMeow/QuickReports/issues/2628
-begadistrictnews.com.au,goulburnpost.com.au,newcastleherald.com.au##.subscribe-article .subscriber-hider:style(display:block!important)
-begadistrictnews.com.au,goulburnpost.com.au,newcastleherald.com.au##.subscribe-article .subscribe-truncate:style(max-height:unset!important;order:unset!important;)
-begadistrictnews.com.au,goulburnpost.com.au,newcastleherald.com.au##.subscribe-article .subscribe-truncate::before:style(background:none!important;)
+begadistrictnews.com.au,goulburnpost.com.au,maitlandmercury.com.au,newcastleherald.com.au##.subscribe-article .subscriber-hider:style(display:block!important)
+begadistrictnews.com.au,goulburnpost.com.au,maitlandmercury.com.au,newcastleherald.com.au##.subscribe-article .subscribe-truncate:style(max-height:unset!important;order:unset!important;)
+begadistrictnews.com.au,goulburnpost.com.au,maitlandmercury.com.au,newcastleherald.com.au##.subscribe-article .subscribe-truncate::before:style(background:none!important;)
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/46887
 ||googletagmanager.com/gtag/js$script,redirect=noopjs,domain=timparty.tim.it
@@ -3912,3 +3912,11 @@ humanbenchmark.com##+js(set, pubg.unload, noopFunc)
 ! moviesweb .info thunbs + player broken
 |https://$subdocument,3p,domain=moviesweb.info,badfilter
 |https://$image,3p,domain=moviesweb.info,badfilter
+
+! thememazing .com broken page
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,redirect-rule=nooptext
+
+! https://github.com/uBlockOrigin/uAssets/issues/7723
+!#if env_firefox
+@@||message-fra.sp-prod.net^$script,xhr,domain=manager-magazin.de
+!#endif
