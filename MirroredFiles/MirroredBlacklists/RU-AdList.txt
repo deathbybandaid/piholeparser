@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: noPKOMlIYR6WlBn3kA27WA
-! Version: 202008030020
+! Checksum: NE2OYKZke0epNhiNcus1sg
+! Version: 202008040020
 ! Title: RU AdList
-! Last modified: 03 Aug 2020 00:20 UTC
+! Last modified: 04 Aug 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -591,7 +591,6 @@ $popup,domain=176.114.0.126|176.114.0.132|37.220.36.15|assiatv.com|drlink.online
 ||power-braselet.ru^$popup
 ||promo.advertlock.ru^$popup
 ||rb.infox.sg^$popup
-||redir.wargaming.net^$popup
 ||relaxmybody.ru^$popup
 ||runetki.*&server=$popup
 ||runetki.com/random/$popup
@@ -629,13 +628,13 @@ $popup,domain=176.114.0.126|176.114.0.132|37.220.36.15|assiatv.com|drlink.online
 ||torr.mediaget.com^$popup
 ||track.sharkgames.com^$third-party,popup
 ||travian.com.ua/landingpage/$popup
-||trck.wargaming.net^$popup
 ||tripadvisor.ru/PriceFinderPopunder$popup
 ||velcome-club.com^$popup
 ||vezuha.me^$third-party,popup
 ||vulkan.site^*^goto=$popup
 ||w-raza.com^$popup
 ||wardogs.ru/lp?ref=$popup
+||wargaming.net^*/?pub_id=$popup
 ||warthunder.ru^*/register-for-free?r=$popup,domain=~goha.ru|~onlainigri.xyz
 ||webarbitrage.ru/?$popup
 ||winafterwin.com^$popup
@@ -11482,6 +11481,7 @@ softoroom.net###ipbwrapper > noindex
 lr-club.com###ipbwrapper > table + #userlinks
 xboxland.net###ipd-msg-wrapper + br + center
 tomat-pomidor.com###ipsLayout_contentWrapper > div[style*="min-height:"]
+disput.az###ipsLayout_mainArea > center[style]
 tomat-pomidor.com#?##ipsLayout_sidebar .ipsBox:-abp-has(> .adsbygoogle)
 tomat-pomidor.com#?##ipsLayout_sidebar .ipsBox:-abp-has(> [id^="yandex_rtb"])
 tomat-pomidor.com#?##ipsLayout_sidebar .ipsBox:-abp-has([href][target^="_blan"] > img[src*="/gra/"])
@@ -11792,6 +11792,7 @@ freepiks.ru###right-image
 lostfilm.run,lostfilm.tv,lostfilm.tw###right-pane iframe
 sia.ru###right-rand-1
 nezhatin.com.ua###right-sidebar > .widget_text:not(:first-child)
+disput.az###rightBanners
 sinoptik.ua###rightCol
 risu.org.ua###rightCommercial
 tut.by###rightLinksBlock
@@ -14057,6 +14058,7 @@ cardiologiya.com,omastopatii.ru##.offblo
 dermatitanet.ru##.offer-ac
 agro-biz.ru,ecology-of.ru##.offersblock
 mk.ru##.ok-extra
+disput.az##.okus_top
 uniondht.org##.oldest_neews > table > tbody > tr > td:not(:last-child)
 1plus1.video##.online-container > div[class$="-background"]:empty
 1plus1.video##.online-container a[class*="space-link"]
@@ -15566,7 +15568,7 @@ torrentinka.me##a[href*="://torrentinka.me/gom"]
 volnorez.com.ua##a[href*="://turagent.od.ua"]
 roskomsvoboda.org##a[href*="://vpnlove.me"]
 3ys.ru,libsib.ru,studopedia.su##a[href*="a24help.ru"]
-animesure.org,games.portal.md,kino4k.in,kinoframe.net,rg-mechanics.site,softbesplatno.net,torrentigri.xyz,torrentza.co,windowspro.ru##a[href*="aHR0c"]
+animesure.org,games.portal.md,kino4k.in,kinofanonline.net,kinoframe.net,rg-mechanics.site,softbesplatno.net,torrentigri.xyz,torrentza.co,windowspro.ru##a[href*="aHR0c"]
 trishurupa.ru##a[href*="abc-home.ru"]
 footboom.com##a[href*="abp:subscribe?"]
 gamer-info.com##a[href*="admitad"]
@@ -18928,6 +18930,7 @@ igdz1.ru^$script,domain=igdz.ru
 ||fullgames.ru^$object
 ||fursa.noob-club.ru/
 ||fvhm.ru^$object
+||fwcdn1.com/js/fwn.js$domain=disput.az
 ||fwdcdn.com/frame/partners/
 ||fwdcdn.com/img/partners/$domain=sinoptik.com.ru
 ||g-tv.ru^*&auto_play=1$domain=kino-dom.tv
@@ -23303,6 +23306,7 @@ kinogo-720.net#@#.ya-share2
 @@||unpkg.com/devextreme^*/dblclick.$xmlhttprequest
 @@||urok.1sept.ru/img/adv/$image,domain=urok.1sept.ru
 @@||usynovite.ru/f/swf/banner_$domain=usynovite.ru
+@@||utarget.ru/check_geo/|$script,domain=memepedia.ru
 @@||utkonos.mybb.ru^$script,domain=utkonos.mybb.ru
 @@||vasilisc.com/js/ad_img.js|$script,domain=vasilisc.com
 @@||vertamedia.com/vmap$xmlhttprequest,domain=vringe.com
