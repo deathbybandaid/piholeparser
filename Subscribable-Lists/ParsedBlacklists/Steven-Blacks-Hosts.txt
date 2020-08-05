@@ -134,7 +134,6 @@ ads30.adcolony.com
 ads5.truecaller.com
 adsaccount.appcpi.net
 adsances.ero-advertising.com
-adsbydomain.fouanalytics.com
 adscan.yelabapp.com
 adservice.google.be
 adservice.google.co.in
@@ -977,6 +976,7 @@ insights.alphonso.tv
 instaboom-hello.site
 install.ddns.info
 instory-log.ucnews.ucweb.com
+instui201.info
 intext.ero-advertising.com
 invitation.samsungiotcloud.com
 invoke.ml

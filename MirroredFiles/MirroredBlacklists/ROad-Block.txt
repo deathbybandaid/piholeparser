@@ -3,7 +3,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
 ! Homepage: https://www.adblock.ro
-! Last modified: 10 May 2020 14:57 UTC
+! Last modified: 04 Aug 2020 14:57 UTC
 
 /adblock.js
 /plugins/footer-pop-up-banner/*
@@ -584,7 +584,6 @@ pricy.ro##.in.fade.modal-backdrop
 evz.ro###lastmin
 evz.ro###lastmin2
 evz.ro###overlay
-evz.ro##body > .container:nth-of-type(3)
 evz.ro##.brandc
 evz.ro##.rosu:nth-of-type(6)
 evz.ro###ureche-fb
@@ -672,3 +671,5 @@ ph-online.ro##.banneritem
 ||media.timponline.ro/2016/03/2016-03-plan-b-angajare.gif$image
 ||media.timponline.ro/2019/10/2019-10-carliont-anunt-300x250.jpg$image
 ||media.timponline.ro/2015/04/virgil_rus_298x198.jpg$image
+
+newsromania.net##.background-image-clickable
