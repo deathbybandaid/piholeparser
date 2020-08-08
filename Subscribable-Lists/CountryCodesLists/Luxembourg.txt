@@ -1,5 +1,6 @@
 ads.yellow.lu
 aphl.lu
+csburo.lu
 djgiant.lu
 eml.lu
 games.graphit.lu
@@ -12,8 +13,10 @@ losfigaros.lu
 loterie.lu
 luxmassage.lu
 luxrelocation.lu
+myslv.lu
 newprom.lu
 oneaim.lu
+penlichorvoy1949.blogspot.lu
 seaside.lu
 spas.zen-concept.lu
 thhr.mjt.lu
@@ -23,3 +26,4 @@ we-cover-you.lu
 wissbeien.lu
 www.loterie.lu
 www.luxmassage.lu
+youarewelcome.lu

@@ -5,10 +5,12 @@ ads.good.is
 ads.magnetic.is
 azn.is
 basarinn.is
+betralif.saa.is
 birta.stats.is
 bittrex.is
 bks.is
 boksala.is
+cannabiscanada.is
 cdn.ns2.skima.is
 de.kano.is
 de1.kano.is
@@ -16,6 +18,7 @@ dk.kano.is
 dns.kano.is
 dutyfree.is
 eldamennska.is
+enorma.is
 events.antenna.is
 finearticeland.is
 fr.kano.is
@@ -37,6 +40,7 @@ myblogforyou.is
 mydocuments1.is
 nl.kano.is
 nonce.kano.is
+notendur.hi.is
 ny1.kano.is
 nya.kano.is
 nytt.s-j.is
@@ -47,6 +51,7 @@ s.kekk.is
 saemark.is
 safnis.is
 savior.mypen.is
+sesel.is
 sg.kano.is
 shorturl.is
 static.bordar.is

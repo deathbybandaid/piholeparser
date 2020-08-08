@@ -1,6 +1,7 @@
 api.ascend.ai
 api.cortana.ai
 api.native.ai
+apkpure.ai
 app.ascend.ai
 ascend.ai
 chatchat.ai
@@ -27,9 +28,11 @@ sdk.markable.ai
 sheratonjakartagandaria.id.ai
 tonicchambers.id.ai
 track.captivate.ai
+trgt.ai
 waa.ai
 www.5r.ai
 www.ascend.ai
 www.waa.ai
+xpresso.ai
 y.ai
 y.com.ai

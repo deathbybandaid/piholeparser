@@ -7,6 +7,7 @@ bostaneagrobio.tn
 carre.com.tn
 dmx.tn
 dorratex.tn
+doustourna.tn
 eeda.tn
 healthtech.tn
 hicast.tn
@@ -14,8 +15,10 @@ imcb.com.tn
 impotsgouvfr.tn
 isb.ens.tn
 loadbytes.tn
+maintec.tn
 marokallel.tn
 mib.tn
+oect.org.tn
 openx.tunisien.tn
 pffn.pl.tn
 proxysites.tn
@@ -25,5 +28,6 @@ sciencesinfirmieres.tn
 smart-ways.tn
 sooq.tn
 teskerti.tn
+tking.com.tn
 vada.tn
 www.rivaderm.tn

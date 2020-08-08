@@ -61,6 +61,7 @@ fututigatumati.biz.ly
 golink.biz.ly
 good.ly
 graf.ly
+halastore.ly
 hanink.biz.ly
 happenlabs.count.ly
 homeeondemand.count.ly
@@ -92,6 +93,7 @@ p.ly
 parse.ly
 percin.biz.ly
 persona.ly
+pharmex.ly
 pix.bit.ly
 post.ly
 quby.count.ly
@@ -138,6 +140,7 @@ usat.ly
 vb.ly
 waiter.count.ly
 warp.ly
+wbr.ly
 www.7.ly
 www.ccinext.count.ly
 www.cloud.count.ly

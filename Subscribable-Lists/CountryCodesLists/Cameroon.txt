@@ -2,6 +2,7 @@
 affordable.cm
 alibachir.cm
 avis.cm
+clone.affordable.cm
 cnn.cm
 dev.maverick.cm
 diplocam.cm
@@ -18,16 +19,19 @@ homedepot.cm
 icct-cameroun.cm
 irad.cm
 kingdomfestival.cm
+kingsway.cm
 latep.cm
 mail.avis.cm
 mail.cnn.cm
 mail.poker.cm
 mail.target.cm
 minee.cm
+ntas-store.cm
 omerta.cm
 poker.cm
 ringo.com.cm
 rxlist.cm
+sorepcom.cm
 statsncount.bz.cm
 target.cm
 twitter.cm

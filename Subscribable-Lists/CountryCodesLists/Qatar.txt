@@ -1,8 +1,13 @@
+3dtour.ezdanrealestate.qa
 almanara.qa
 arconint.com.qa
 fareast.qa
 guidelineservices.com.qa
 healthassistance.qa
 inframe.qa
+jib.qa
+netflix-account-membership-activate-login.etinsultan.qa
+primeshop.qa
+qatarriders.qa
 swattradingco.name.qa
 transcontinental.com.qa

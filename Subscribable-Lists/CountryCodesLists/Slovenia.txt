@@ -14,6 +14,7 @@ as.dialog.si
 aures.si
 avtoogris.si
 b.uscom.si
+bebetter.si
 bedanc.si
 biciklin.si
 blackline.si
@@ -29,6 +30,7 @@ dropbox.mini-shop.si
 dtours.si
 elgas.si
 eloterija.si
+eno.si
 euro-palete.si
 farm.usoffice.si
 fasade-fasaderstvo.si
@@ -36,11 +38,13 @@ fitvarovanje.si
 games.qp.si
 gdesignhotel.si
 git.qp.si
+google.1on.si
 gostisce-jutrisa.si
 gsk-mozirje.si
 gsm-klinika.si
 helenasoap.si
 iec56w4ibovnb4wc.onion.si
+infocenter.si
 infozia.si
 interseek.si
 judo-jaka.si
@@ -59,11 +63,15 @@ m-gast.si
 metrika.ron.si
 mnmi-zkmn.si
 mojemajice.si
+monom.si
 ok.internetmedia.si
+oki.si
 ox.irv.si
+packa.si
 pat.ron.si
 paypal-account-managment.bibasegiba.si
 paypal.com.omicron.si
+pcsvet.si
 pd-iskra-lj.si
 pdvuzenica.si
 pedokinetika.si
@@ -92,6 +100,7 @@ tas2.toboads.si
 td-kuk.si
 templates.qp.si
 tk-gregoric.si
+togras.si
 traktorski-deli.si
 v2.dev.qp.si
 vonertabox.si

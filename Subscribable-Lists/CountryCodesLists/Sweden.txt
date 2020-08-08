@@ -9,6 +9,7 @@
 29bca6cb72a665c8.se
 2kindustri.se
 32d1d3b9c.se
+365ink.se
 3c45d848d99.se
 4x4offroad.se
 500utflykter.se
@@ -47,25 +48,33 @@ adv.aftonbladet.se
 adv.svd.se
 advokatfirmancredo.se
 advokatsimrishamn.se
+afkdomainer.se
 afteonbladet.se
 aftonbladet.se
+ahealth.se
 ai.idg.se
 airsonett.se
+akilles.se
 alexapackages.se
+allamatberedare.se
+allenmarks.se
 almstakanalcafe.se
 alvidis.se
 alvtank.se
 amer.se
+amerikansktgodis.se
 amigospizzeria.se
 amphion.se
 analytics.codigo.se
 angel.se
+ankama.com.se
 ap.bksn.se
 app-le-customer.b-service.brf-fjarilen.se
 app-le-customer.b-service.excellentprogress.se
 appodeal-win-eu.bksn.se
 aquilastudios.se
 arbarkiv.se
+argosactive.se
 arkitektmuseet.se
 arstaparkbilvard.se
 artistkontoret.se
@@ -78,6 +87,7 @@ avocarrot-win-us-east.bksn.se
 ax.idg.se
 ba2b687.se
 ba2i.se
+babyproffsenvasteras.se
 bactiguard.se
 badass-customs.se
 badults.se
@@ -88,9 +98,14 @@ banner.adswap.se
 banner.linux.se
 banners.bol.se
 banners.ix.se
+bargningavesta.se
+bargningharnosand.se
 barnsemster.se
 barthelsonforlag.se
+bastutunnan.se
 bbehk.se
+bbsmobler.se
+beautychance.se
 beijerkidsday.se
 bema-elautomatik.se
 bestorpstra.se
@@ -122,6 +137,7 @@ brollopsguiden.se
 brunkullanskrog.se
 busskompaniet.se
 bw-mobler.se
+bygg.add.se
 byggrakt.se
 byme.se
 c.bksn.se
@@ -136,6 +152,7 @@ casinotown.se
 cat-walker.se
 cdn.adrotator.se
 cementaresearch.se
+chaseonline.com.secured.kafgroup.se
 cherek-ringar.se
 citypaketet.se
 cl21.v4.adaction.se
@@ -151,6 +168,8 @@ course.fashion-shop.se
 cp.bksn.se
 crocusdesign.se
 crossingfires.net.preview.crystone.se
+csgospeltips.se
+currycorner.se
 cypernhuset.se
 d1110e4.se
 d9ae99824.se
@@ -165,6 +184,7 @@ dev40.dioniqlabb.se
 dev78.dioniqlabb.se
 dignitasdata.se
 dildosex.se
+dinslips.se
 directoffers.se
 diskursbygg.se
 dmresor.se
@@ -174,6 +194,7 @@ dotred.se
 dragansmatblogg.se
 duktigaflickor.se
 duodance.se
+dwlex.se
 e2.emediate.se
 e97527f0.se
 eap-tracker.egenerator.se
@@ -184,6 +205,7 @@ ekn-art.se
 ekobygghandel.se
 elentreprenoren.se
 eliteentertainment.se
+elpa.se
 emediate.se
 emmabodakonst.se
 energy.se
@@ -211,6 +233,7 @@ fftsverige.se
 fiestamusic.se
 figlio.se
 file-paypal.se
+flaggstangsspec.se
 flexdon.se
 flygfilmer.se
 fonemo.se
@@ -227,6 +250,7 @@ frejahouse.se
 friskvardskupongen.se
 frojdafsverige.se
 fusion.bonniertidskrifter.se
+gasolspecialisten.se
 generalgauffin.se
 genrepet.se
 genuinemarine.se
@@ -242,10 +266,12 @@ goodlifehoor.se
 google-win-ap.bksn.se
 google-win-eu.bksn.se
 google-win-us.bksn.se
+gothiamekaniska.se
 gr.linkwi.se
 grabo-container.se
 gransbygdens.se
 gratisblanketter.se
+gratispresent.se
 greenmarine.se
 guldsmyckesmedjan.se
 gulmaran.se
@@ -257,6 +283,7 @@ hamnhus1.se
 happyandsmile.se
 hardyscykel.se
 hdac.se
+headquarters.se
 heartwood.se
 heatherhoney.se
 hebypark.se
@@ -268,6 +295,8 @@ hem.passagen.se
 hildinghr.se
 hipsterevents.se
 hockeysticks.se
+holfve.se
+hot-maillogginn.se
 hothor.se
 hoverboard360.se
 hoymix.se
@@ -275,6 +304,7 @@ humanistiskhalsoforskning.se
 hundpolen.se
 husariabygg.se
 huvudstakiropraktik.se
+hwfsweden.se
 hyrlastbilgoteborg.se
 i-house.se
 i.bksn.se
@@ -291,11 +321,13 @@ insidescandinavia.se
 internetstrategerna.se
 iphone4fodral.se
 irmarketing.se
+isabelleblomqvist.se
 j.bksn.se
 jackpotcitycasino.se
 jahic.se
 janerikholst.se
 jarnavedugnsbageri.se
+jasbilofritid.se
 jeannette.rojnert.se
 jkbt.se
 jl-c.se
@@ -308,9 +340,11 @@ jubba.se
 juliajaanna.se
 juventa.se
 kagghamrabygg.se
+kakbollen.se
 kardborren.se
 karl-lee.se
 kasatus.se
+kerstinthunberg.se
 kingdomculture.se
 kingscup.se
 kiviksaif.se
@@ -320,7 +354,9 @@ knullkontakt.se
 kollagen4you.se
 kolmardsservice.se
 koral.se
+kortalankar.se
 kristallgrottan.se
+kristinsvahn.se
 krosnovunderground.se
 krusebilcenter.se
 kund3.smileproduction.se
@@ -338,6 +374,7 @@ laulini.soclog.se
 legotec.se
 lethatch.se
 lev-livet.se
+levdittliv.se
 likeitsexy.se
 lilyrose.se
 lincontro.se
@@ -345,6 +382,7 @@ linksysdatakeys.se
 livinggood.se
 ljusihus.se
 lmhorse.se
+logotypfabriken.se
 lohrmontage.se
 lorensbergslakare.se
 ltseo.se
@@ -353,6 +391,7 @@ lundsprofiltryck.se
 mail.romsasjord.se
 mall2.happyandsmile.se
 malmaberg08a.se
+malmotvatt.se
 manligtharavfall.se
 mariellejensen.se
 markhuskonsult.se
@@ -370,10 +409,12 @@ mile7.smileproduktionsbyra.se
 millennial-win-us-east.bksn.se
 minilab.se
 misandesign.se
+mitchcohen.se
 mobfox-win-ap.bksn.se
 mobfox-win-us-east.bksn.se
 mobil-it.se
 mobishop.se
+moc-kompetensresurs.se
 mollancurry.se
 moneroseeds.se
 mopub-win-us-east.bksn.se
@@ -381,6 +422,7 @@ mumbaimalmo.se
 mycorelife.se
 myinstabuzz.se
 mywell.se
+nabitita1870.blogspot.se
 nagellackonline.se
 nanogroup.se
 nanotvatt.se
@@ -400,12 +442,14 @@ nordfarbo.se
 nordiwellness.se
 norrahh.se
 nosras.batdekor.se
+nsec.se
 nudevista.se
 oas.alltforforaldrar.se
 oas.dn.se
 oas.tidningsnatet.se
 odeumpharma.se
 odsmalskulturhus.se
+ohlsen-akeri.se
 okshop.se
 old.strommarnas.se
 olle-andersson.se
@@ -428,6 +472,7 @@ parfusale.se
 passionforbusiness.se
 passionofsweden.se
 pasta.se
+pasvenska.se
 paypal.com.0.security-confirmation.3408b8d8a758db7c66b435a2c13352e4.as2.2u.se
 paypal.com.0.security-confirmation.d72b69c8e37aec662e13e39d929d6e3d.as2.2u.se
 pcboa.se
@@ -458,6 +503,7 @@ pulsepoint-win-eu-central.bksn.se
 pulsepoint-win-us-east.bksn.se
 rabatt-torget.se
 radjuret21.se
+raudas.se
 razzel.sandbergs-postorder.se
 rcbfast.se
 redangels.se
@@ -476,8 +522,10 @@ richmedia.bksn.se
 rockma.se
 rodjebacken.se
 ropabarca.se
+rorserviceiskane.se
 route666.se
 rubicon-win-us-east.bksn.se
+s3sit.se
 safe-account-update.johninvest.se
 safflepastorat.se
 sallysdottrar.se
@@ -488,9 +536,11 @@ sarae.se
 schibsted.se
 sdgavleborg.se
 secure-runescape.com.se
+secure.facebook.com.drstone.se
 securednetwork.se
 see.laggbg.se
 seeds.moneroseeds.se
+seqab.se
 sexiganoveller.se
 sexnovell.se
 sherlock.se
@@ -509,6 +559,7 @@ skesm.se
 slagforhjaltar.se
 slimcase247.se
 smile4.smileproduktionsbyra.se
+smorjtekniklund.se
 snaffo.se
 snibi.se
 snickarelinkoping.se
@@ -523,6 +574,7 @@ spfonster.se
 spisforum.se
 sportsresor.se
 staket-pvc.se
+stallbyggen.se
 stampelstugan.se
 start.badults.se
 stat.cliche.se
@@ -535,6 +587,7 @@ stefanbakosab.se
 stenstroems.se
 stenstromturboracing.se
 stigarna.se
+stormwall.se
 storymedia.se
 strv.se
 survio.se
@@ -551,6 +604,7 @@ swebanalytics.eniro.se
 swedencasino.se
 swisscasino-bonus.se
 swsociety.se
+sydvision.se
 syskonenanderssonsrestaurang.se
 tabyel.se
 tailsweep.se
@@ -558,6 +612,7 @@ tandlakarcentrum.se
 tarati.se
 task.zla.se
 tenewagency.se
+test-compomill.w-software.se
 test.aretours.se
 test.kenani.se
 thedoctor.se
@@ -570,6 +625,7 @@ tommyalfredsson.se
 tommyroos.se
 topblogarea.se
 torarica.se
+torgbodenbollnas.se
 tornlundbygg.se
 torptillsalu.se
 totalinstallatoren.se
@@ -587,9 +643,12 @@ trx.bksn.se
 tryme-scandinavianbar.se
 tujo.se
 u.lewd.se
+ujeb.se
 ulfsbergercarlsson.se
 undantagforlag.se
 underluggen.se
+ungsvenskarna.se
+upplandsspar.se
 uppsalakatthem.se
 urkorkat.se
 urlawsrubicon-win-ap-northeast.bksn.se
@@ -606,11 +665,13 @@ veganmakeup.se
 verbateam.se
 veronicawesterling.se
 vibygillet.se
+vietnamresenaren.se
 vinkaellaren.se
 viplimousiner.se
 virtuellmedia.se
 visionavd012.se
 vitastil.se
+vonbygg.se
 vuxen.se
 vuxenmatch.se
 vvsbolaget.se
@@ -625,6 +686,7 @@ web3.easyresearch.se
 webbkusten.se
 webstat.se
 webtraffic.se
+wellplast.se
 wemarketing.se
 westermarkanjou.se
 westum.se
@@ -672,6 +734,7 @@ www.webtraffic.se
 x.se
 xn--avgng-ora.se
 xn--bergfstet-z2a.se
+xn--fnsterputssollentuna-39b.se
 xn--lstadhemnra-t8ae.se
 xn--ltappen-80a.se
 xn--mellanmjlk-lcb.se
@@ -680,4 +743,5 @@ xn--stockholmbostder-7nb.se
 xxxfiles.se
 xxxmovie.se
 yrkes-klader.se
+zek.se
 zenzuell.se

@@ -1,2 +1,3 @@
+news.dm
 wager.dm
 www.wager.dm

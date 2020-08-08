@@ -3,4 +3,5 @@ glidji-kpodji.tg
 glnt.tg
 haactogo.tg
 lesconcurrents.tg
+nunyalab.tg
 valeurscitoyennes.tg

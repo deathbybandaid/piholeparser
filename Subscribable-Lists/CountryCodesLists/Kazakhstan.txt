@@ -1,6 +1,8 @@
+10europconf.redcrescent.kz
 14.chehov.edugov.kz
 2x2.kz
 3d-tour.kz
+ab-platinum.kz
 aenbekshi.aktogaiedu.kz
 agroeconom.kz
 aidarmebel.kz
@@ -14,6 +16,7 @@ alpha.kz
 altyn-dala.kz
 amocrmkrg.kz
 anb.intcom.kz
+antena-uk.kz
 api.outlook.kz
 aquaservice.kz
 arendakvartir.kz
@@ -21,6 +24,7 @@ art-tour.kz
 aruakku.kz
 as-rek.kz
 ashanoil.kz
+ast-ug.kz
 astana-mazzarino.kz
 astana2050.kz
 atyraufitness.kz
@@ -44,6 +48,7 @@ beauty-eyes.kz
 berikkara.kz
 binomo.kz
 bio-market.kz
+bitex.kz
 blackops.kz
 blogos.kz
 bnmd.kz
@@ -51,9 +56,11 @@ bolat-zhol.kz
 br.kcdn.kz
 btes.kz
 burgerspendingbusiness.kz
+c-mediation.kz
 canadianonlineagreementservices.kz
 caspe.kz
 casting-ltd.kz
+cddvd.kz
 celinnaya.kz
 centr-zko.legostore.kz
 chinabridge.kz
@@ -63,6 +70,7 @@ cmd.kz
 codex.kz
 colleg15.kz
 com-tel.kz
+comfortperevozki.kz
 coolinar.kz
 counter.1i.kz
 counter.co.kz
@@ -71,6 +79,7 @@ dame-ns.kz
 dasco.kz
 dav.kz
 deltagroup.kz
+demoshop.smarty.kz
 developer.cdn.com.kz
 dft6s.kz
 disal-group.kz
@@ -82,6 +91,7 @@ duman.kz
 e-corporation.kz
 e-stroymart.kz
 ef.enu.kz
+elvin-trade.kz
 engineercenter.kz
 env-1340702.j.dnr.kz
 env-4839.j.dnr.kz
@@ -98,8 +108,11 @@ furman.kz
 glicol.kz
 globelite.kz
 globus-almaty.kz
+glores.kz
+golos.vkolibrary.kz
 greenbus.kz
 greenlandco.kz
+group.agriparts.kz
 gulimeo.kz
 hit.kz
 honey-bee.kz
@@ -147,6 +160,7 @@ kustanay.kz
 ladym.kz
 legal-line.kz
 legalsurrogacy.kz
+leika.kz
 lg-signage.kz
 liana.kz
 litmuseum.kz
@@ -160,6 +174,7 @@ manzi.kz
 marinadesign.kz
 maslenka.kz
 massage-v-almaty.kz
+master-art.kz
 medsklad.kz
 metallcon.kz
 metric.onlinefonts.kz
@@ -171,7 +186,9 @@ mmx.kz
 montaleparfums.kz
 movieofgoodies.kz
 moviepaidinfullsexy.kz
+msbc.kz
 musor.kz
+mvb.kz
 mybuh.kz
 napalmed.kz
 ndt-college.kz
@@ -184,6 +201,7 @@ omc.marketone.kz
 panelli.kz
 partner.alfa.kz
 paypal.eu.kz
+pizzoli.kz
 pksk-zarya.kz
 portal.100am100.kz
 preapprovedloansoffline.kz
@@ -192,11 +210,15 @@ premexpert.kz
 premiertravel.kz
 prizma.kz
 profi-center.kz
+proglo.kz
 progressor.kz
 proservice-almaty.kz
+rai-spa.kz
+razvivashka.kz
 rename.kz
 renhed.kz
 rentalmaty.kz
+rj-vko.kz
 rubin-astana.kz
 s-ashirov-mektep.kz
 sanapark.kz
@@ -210,7 +232,9 @@ smartfoodsglutenfree.kz
 smartkid.kz
 snabs.kz
 soluton.kz
+sopk.kz
 sosh7.edugov.kz
+srkplus.kz
 st-bo.kz
 standardchartered.com.kz
 static.apiinformation.kz
@@ -220,6 +244,7 @@ tanajihaz.kz
 tatiana.kz
 techcementservice.kz
 tel.jsapisettings.kz
+teremok.kz
 testalmanur.kz
 testim.legostore.kz
 therooms.kz
@@ -240,6 +265,7 @@ www.yumgiskor.kz
 www.zero.kz
 xn--80aab5fk.kz
 xn--e1aahcgdjkg4aeje6j.kz
+yalma.kz
 youdesigner.kz
 zero.kz
 zhasoral.kz

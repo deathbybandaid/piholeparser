@@ -1,7 +1,12 @@
+aibd.sn
+assistance.smartech.sn
 cciad.sn
+cena.sn
 cosetam.sn
 entraco.sn
 isosoft.sn
 maristepostbac.sn
 portdakar.sn
 sagam.sn
+support.smartech.sn
+yeri.sn

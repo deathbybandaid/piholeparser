@@ -3,6 +3,7 @@ alasseel.ps
 almahsiri.ps
 alqistas.ps
 awtar.ps
+bubbles.ps
 charm.ps
 cst-kh.edu.ps
 diabetespal.ps
@@ -13,6 +14,8 @@ gazacham.ps
 init.ps
 isso.ps
 laptop.com.ps
+masader.ps
+nabali.ps
 pioneer.ps
 zane.ps
 zediah.ps

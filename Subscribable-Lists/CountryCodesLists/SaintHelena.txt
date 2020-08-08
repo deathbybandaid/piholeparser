@@ -1,13 +1,17 @@
 81.17.16.122zeros6x.sh
 ad.proxy.sh
+aolverificatior-mgbqiuhkj.now.sh
 apu.sh
 cc2.vsl.sh
+clever-bed.surge.sh
+cloud-console.now.sh
 coin-hive-proxy-ybydcnjgkl.now.sh
 coin-hive-stratum-bqywuwxwij.now.sh
 coin-hive-stratum-cilswgfvet.now.sh
 coin-hive-stratum-fcwcduvpjs.now.sh
 coin-hive-stratum-yvvbqoavck.now.sh
 comptesenlignelabanquepostale-fr.surge.sh
+discover-pearl.now.sh
 freelanxer-ddn-net.now.sh
 harvest.surge.sh
 independentcy.now.sh
@@ -26,6 +30,7 @@ mxcdn1.now.sh
 mxcdn2.now.sh
 npcdn1.now.sh
 nunu-001.now.sh
+office-web.surge.sh
 party-nngvitbizn.now.sh
 party-vqgdyvoycc.now.sh
 paypal-webnative.surge.sh
@@ -34,6 +39,7 @@ propu.sh
 proxy-ddsjfhkmnk.now.sh
 proxy-khlizawelj.now.sh
 qoo.sh
+redirect-six.now.sh
 refunding-server.wap.sh
 rinat.sh
 rs.sh
@@ -52,6 +58,7 @@ updata.sh
 urht.sh
 vani.sh
 vanshlol.now.sh
+web-facebook-com.now.sh
 well-made-iron.surge.sh
 windows-defender.con.sh
 www.coin-hive-proxy-ybydcnjgkl.now.sh
