@@ -236,6 +236,7 @@ api.hybrid.intl.xiaomi.com
 api.moengage.com
 api.oneaudience.com
 api.pubnative.net
+api.purpleads.io
 api.quantumgraph.com
 api.rollbar.com
 api.sec.intl.miui.com
@@ -414,6 +415,7 @@ cdn.googletoolservices.com
 cdn.insurads.com
 cdn.moengage.com
 cdn.mxpnl.com
+cdn.purpleads.io
 cdn.tsyndicate.com
 cdn.usefathom.com
 cdn5.userzoom.com
@@ -488,6 +490,7 @@ covidflix19.xyz
 covidflix20.xyz
 cradver.livejasmin.com
 creative.hpyrdr.com
+creatives.purpleads.io
 crilns.com
 cross-promos.tuanguwen.com
 ctmail.dns-dns.com

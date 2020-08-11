@@ -315,6 +315,7 @@ api.particle.io
 api.perun.s5labs.io
 api.placer.io
 api.pubwise.io
+api.purpleads.io
 api.push.io
 api.pxlad.io
 api.qa.branch.io
@@ -530,6 +531,7 @@ cdn.logrocket.io
 cdn.luckypool.io
 cdn.onthe.io
 cdn.p2pool.io
+cdn.purpleads.io
 cdn.rocks.io
 cdn.sagent.io
 cdn.segment.io
@@ -611,6 +613,7 @@ crashreport-api.presage.io
 creative-analytics.crossinstall.io
 creativelive.extole.io
 creatives.crossinstall.io
+creatives.purpleads.io
 creatives.tabmo.io
 crmp.io
 crosspromo.hutchgames.io

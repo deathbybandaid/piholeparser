@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ZTCK1HsXvmAXEZ+/84lmUQ
-! Version: 202008070020
+! Checksum: Dt2WKhweA4oWTxN2sQP0Nw
+! Version: 202008110020
 ! Title: RU AdList: Counters
-! Last modified: 07 Aug 2020 00:20 UTC
+! Last modified: 11 Aug 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -907,7 +907,7 @@ www.kinopoisk.*#?#+js(set-constant.js, Object.prototype.getMatchidManager, noopF
 ||strm.yandex.ru/get/*?sid=*&vsid=
 ||yastatic.net/*/front-maps-static/*/index/chunks/promo/
 ||yastatic.net/yandex-video-player-iframe-api-bundles-stable/*?adsdk-try=$xmlhttprequest
-~yandex.net,yandex.*#?#+js(abort-on-property-read.js, Ya.loaderVer)
+~vh.yandex.ru,~yandex.net,yandex.*#?#+js(abort-on-property-read.js, Ya.loaderVer)
 ~yandex.net,yandex.*#?#+js(abort-on-property-read.js, ya.mediaAd)
 ~yandex.net,yandex.*#?#+js(abort-on-property-read.js, yaads.renderBlock)
 ~yandex.net,yandex.*#?#+js(abort-on-property-read.js, yaads.renderWidget)
