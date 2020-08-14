@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: HJuunmmp8ZfG9gvRXXXyGQ
-! Version: 202008120020
+! Checksum: MSEGYORahvlNdSqL8B/zZA
+! Version: 202008140020
 ! Title: RU AdList: Counters
-! Last modified: 12 Aug 2020 00:20 UTC
+! Last modified: 14 Aug 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -861,7 +861,7 @@ ok.ru#?#.feed-list > .feed-w:-abp-has(.feed_ava ~ div div > [class] ~ [class] ~ 
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.mg-page-layout-item div[class^="sport-"] > div[class^="turbo-"]
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz#?#.mg-page-layout-item ~ .mg-page-layout-item:-abp-has(> .hydro > div[class^="sport-"] > div[class^="turbo-"])
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz#?#.mg-page-layout-item ~ .mg-page-layout-item:-abp-has(> div[class^="sport-"] > div[class^="turbo-"])
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz#?#.news-app__feed > .mg-grid__col:-abp-has(> div[class^="neo-"] > div[class*="loader"] + div[id]:empty)
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz#?#.news-app__feed > .mg-grid__col:-abp-has(> div[class*="_type_native"] > div[class*="loader"] + div[id]:empty)
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.news-top-rubric-heading > span:only-child
 tv.yandex.by,tv.yandex.kz,tv.yandex.ru,tv.yandex.ua,tv.yandex.uz##.recommended-ott
 radioprofusion.com##.revolvermaps
