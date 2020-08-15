@@ -67,6 +67,7 @@
 578114-germany-verbraucher-sicher-nachweis.sicherheitshilfe-hilfeservice.ga
 589440-de-storno-angabe-benutzer.sicherheitssystem-sicher.ga
 591740-deutschland-nutzung-sicherheit-nachweis.sicherheitshilfe-hilfeservice.ga
+5f282d795dbb0.965d32.info-card.ga
 605421-de-gast-sicherheit-benutzer.sicherheitshilfe-hilfeservice.ga
 609697-deutschland-nutzung-mitteilung-validierung.sicherheitshilfe-hilfeservice.ga
 628071-deu-nutzung-kenntnis-nachweis.sicherheitssystem-hilfeservice.ga
@@ -100,6 +101,7 @@
 774365-deu-prob-mitteilung-benutzer.sicherheitshilfe-hilfeservice.ga
 778333-deu-gast-mitteilung-account.sicherheitssystem-sicher.ga
 7your.ga
+80-87-45.ga
 801946--storno-mitteilung-konto_identity.sicherheitsabwehr-schutz.ga
 840869--verbraucher-angabe-account.sicherheitsabwehr-vorkehrung.ga
 943584-deutschland-prob-sicher-nachweis.sicherheitsvorbeugung-sicherheitsabwehr.ga
@@ -123,7 +125,6 @@ acoh.ga
 acomplia365.ga
 acunt-fanpage00.plis-suport2-center.ga
 adelphids.ga
-admpaqes-secur.ga
 ads-facebook.ga
 aerfal.ga
 ahmedmohamed.ga
@@ -142,9 +143,14 @@ alloy-71.ga
 alntrta.ga
 alu23au2kfd9sd9jf20hyw2kdu3312duedo29cdu3n3kd8.ga
 amanda-porn.ga
+amazon-account-login.if-auth06.ga
 amazon-co-jp-6z1f61awfwaf1ezsfseaz135f1szdaf313reae5f1sz31f3.ga
+amazon-co-jp-amazonwwwafa1ezsfsreaz135f1szdaf313reaaeq5f1sz31f3.ga
 amazon-com-elfe.ga
 amazon-jp.ga
+amazon-support-sppapahiseuzc54nqsixbqpcnmmuhqst597o879oukcom.ga
+amazon-support-sppapahiseuzcmdnqsixbqpcnmmuhqstoreoukcom011.ga
+amazon-support-sppapahiseuzcmdnqsixbqpcnmmuhqstoreoukcom021.ga
 amazon.co.uk.security-check.ga
 amazon.de-customer-line0405.ga
 amazonrewads.ga
@@ -159,9 +165,11 @@ anymore-71.ga
 aountlimited.ga
 apasspost-upgrade.ga
 apgjzea.ga
+apple-id-com.ga
 applediagnostics.ga
 apps-resolve6.login-attempt.ga
 aquaud.ga
+ariasalersersad.ga
 arjzndx.ga
 asatechw.ga
 asb.online.logon1-verify.ga
@@ -170,6 +178,7 @@ asevt6-ascoste8.ga
 asfdgtr.ga
 ashbly.ga
 asitunature.ga
+asn-amazon-co-jp6.ga
 atipt.ga
 attachygroup.ga
 attic-bre.ga
@@ -193,6 +202,8 @@ balexco-com.ga
 bancobrasil.ga
 bancoestado-cl-credito.ga
 bancoestado-cl-datos.ga
+bancoestado-cl-portal-cl.ga
+bancoestado-cl-portal.ga
 bancoesto-bchile.ga
 bangla-chat-uk-paralud.ga
 banking-support.ga
@@ -261,6 +272,7 @@ bottprivtercess.ga
 boumanfouilles.ga
 boundless-gullible.ga
 bovxbpo.ga
+bpm-privacypolicy.ga
 brasiluber.ga
 breatin.ga
 brokenbones.ga
@@ -269,7 +281,7 @@ bsknz.ga
 bsmjz.ga
 btightyuild.ga
 btktgn.ga
-bubblepack.ga
+bugt.ga
 burn-fat.ga
 buscass.ga
 bvbcu.ga
@@ -323,6 +335,7 @@ chat-whatsapp7.sangegrup.ga
 chat-whatsappbokepsxx.ga
 chat-whatsappgrubsxx.ga
 chat-whattsap9.grup-wa69.ga
+chat.whatsaap.com.wa-18pluss.ga
 chat.whatsap.codm19.ga
 chat.whatsapp.vipx9.ga
 chat.whatsapp.wsjrgjg.rynox.ga
@@ -331,6 +344,7 @@ chatgroupwhatsaap18pronhub.viyy.ga
 chatgrroup-whatsapp.new89.ga
 chatsex20.event-getss20.ga
 chatwhatapps.18enak.getnew.ga
+chatwhatsapp-ahye6gahwkxb.mantapp2020.ga
 chatwhatsappjoinnew.ff-free.ga
 chatwhatsappsexy.xx-wa.ga
 chatx-whatsapp.new53.ga
@@ -345,6 +359,7 @@ chuckim.ga
 cillad.ga
 cipjtpg.ga
 citepucevasuxuqesu.ga
+clickrecover.ga
 clinicashaoyin.ga
 clinicayangming.ga
 cloudpassreset.ga
@@ -380,6 +395,7 @@ cosg.ga
 count.mail.163.com.maranatahijah.ga
 covid39.ga
 cpanel.grupdewasawhatsapp.ups2.ga
+cpanel.grupwhatsapps18fullgar.joinn-hot18.ga
 cpanel.joinchatwhatsapp.hollx-94.ga
 cpcontacts.supportie.ga
 craig-hallum.ga
@@ -398,7 +414,6 @@ csgo-roll.ga
 csgocases.ga
 csgomagic.ga
 ctor.ga
-cufibina.ga
 cultiva.ga
 curb-intent.ga
 cusfcsf.ga
@@ -408,6 +423,7 @@ custormer2validate.ga
 cvbnmnb.ga
 cvnty.ga
 cxslraz.ga
+cxza-71.ga
 cy-stuffs.ga
 cyber-monday.ga
 d-ns.ga
@@ -489,7 +505,6 @@ ealohck.ga
 eastkorea.ga
 ec.bancapichincha-com.ga
 ecoshore.ga
-edcvyjk.ga
 edib-medi510.ga
 ee-restored.ga
 ee-verifyauth5.ga
@@ -522,6 +537,7 @@ erode-mourn.ga
 eroti.ga
 error-09ml2a.ga
 errorcode-1304.ga
+errorcode-1906.ga
 espean.ga
 esta-mult.ga
 estauranus.ga
@@ -542,6 +558,8 @@ eyzpiel.ga
 fabulous-obscure.ga
 facebo-okvideo.ga
 facebo0k-com.ga
+facebook-security.jzonmy.ga
+facebook-security.kzvloa.ga
 facebook.nuebeyywo.ga
 facebook2020.ga
 facebookacesso.ga
@@ -552,17 +570,18 @@ fanpage-central-recovery.ga
 far-oldage.ga
 fashion-world.ga
 fastnetasb.ga
-fauribukbo.ga
 fb-account-notification.ga
 fb-com-user.ga
 fb-security-page.ga
 fbcdn.48fcdee8c65b04217afda21247fd87e9.ga
 fbnow.ga
+fbsbxtokenoauth2kygnawuvfacebook.thapar.ga
 fcdinamo.ga
 federica.ga
 federicg.ga
 federich.ga
 feitoparavoce30horas.ga
+felipetome.ga
 fesebook.ga
 fetch-outside.ga
 fheyo.ga
@@ -715,14 +734,17 @@ heartme.ga
 helloes.ga
 help-bjbbhj.ga
 help-customer-info.ga
+help-dbr57g.ga
 help-khgkytii.ga
 help-support-team.ga
+helpdesk-paypal.ga
 helpless-pursuit.ga
 helprecoveryfb.ga
 helps-confrim1777.suport-acount-confrim12.ga
 hera-step630.ga
 herbaloka.ga
 hess-lzt.ga
+hhjkjh-41.ga
 hhkfrjr.ga
 hilfservice-sicher.ga
 himkon.ga
@@ -746,6 +768,7 @@ howeverted.ga
 hstgbm.ga
 hupornm75-93.ga
 hustleman.ga
+huytrew.ga
 ib-nab.com.au.verify-inett.ga
 ib.nab.com.au-nabib.personal.nz-0ll0713.ga
 ib.nab.com.au.account-2fa.ga
@@ -767,6 +790,7 @@ ikezijik.ga
 ikonradsson.ga
 ikyxalyh.ga
 img-swrpics-ara12.ga
+imitoh.ga
 implement-analog643.ga
 in-rxmeds365.ga
 inch-apologize.ga
@@ -782,7 +806,9 @@ instagram-dv5duopvkb.igshid.ga
 instagram.galaxyjb.ga
 instagramblue.ga
 instagramcopyright-appeal.ga
+instagramhelpverifaction.ga
 instagramservicesverify.ga
+instagramverifiedhelp.ga
 instagramverifyhelp.ga
 integretes.ga
 intellae.ga
@@ -809,6 +835,7 @@ javamusicrd.ga
 jeeurte.ga
 jerscaias-71.ga
 jhfjfiwjdnfnfwwa.ga
+jhfytduy.ga
 jjnarxs.ga
 jkypevx.ga
 jmxjstn.ga
@@ -827,9 +854,12 @@ joinchatcrotsange-sangeindo18.hotz-wa11.ga
 joinchatwhatsapp.joinss.ga
 joingroupswhatsapp4646.nows88.ga
 joingroupwa.bundleffgratis.ga
+joingrup-bokepwhatsapp.newjoin.ga
+joingrupbokep452.mrbonus.ga
 joingrupbokep76.event-free73.ga
 joingrupwhatsap18.join-4wa.ga
 joingrupwhatsappsex.free17.ga
+joinnewwhatsapp.tes.gbng21.ga
 joinsexxx.wa-hotnew.ga
 joinwhatsapp.eventss-official.ga
 joinwhatsapp.joinbkp78.ga
@@ -857,6 +887,7 @@ keatl-74.ga
 khansdocument.ga
 khilji.ga
 kibuk.ga
+kidrewa.ga
 kilunhe.ga
 kimpot.ga
 kiopksjbsbzs.ga
@@ -864,6 +895,7 @@ kioury.ga
 kitapci.ga
 kliktojoingrup.join-group20.ga
 kolowanishereshit.ga
+konfirmationpaqes-apl.ga
 koprio.ga
 kranement.ga
 kserver-postrelease.ga
@@ -883,6 +915,7 @@ letha-71.ga
 letzte-chance.ga
 lgaycex.ga
 lhtoxez.ga
+lifescapeservices-inv.ga
 limerick.ga
 limited-paypal-account.vvipx-32.ga
 limites-held.ga
@@ -893,6 +926,7 @@ live-rutor.ga
 liybn.ga
 lkaloj.ga
 lnstagram-contacthelped.ga
+lnstagram-copyright.ga
 lnstagram-helps.ga
 lnstagram-verifiedsupport.ga
 locksmithdenver.ga
@@ -903,6 +937,8 @@ login-sharepointmicrsoft365.ga
 login.blockchains.getfree-ethereum-org.ga
 login.common.oauth2.authorize.espoirbridge.ga
 loginblxxslingfbvfgh600ohjm.ga
+loginig.cb.getacount.ga
+loginysharemestary00013logo.ga
 logon1-auth.ga
 lokalfed.ga
 lokvrtz.ga
@@ -948,6 +984,7 @@ medireab.ga
 meendo-free-traffic.ga
 mega-promocao-meucarrinho-maga-lu.ga
 mega25.ga
+meganmall.ga
 mercadobtc.ga
 mercy.ga
 merkez-trading.ga
@@ -957,6 +994,7 @@ meucarrinho-maga-lu-megapromocao.ga
 meucarrinho-magazine-promo2020.ga
 mgvcgyn.ga
 micros0ftonline.ga
+milaw.ga
 milchsouffledi.ga
 minelearnto.ga
 minerro23x.ga
@@ -967,6 +1005,7 @@ mitoy-71.ga
 mitsupans.ga
 mkiasadmol.ga
 mlcros0ft.ga
+mo7trfen.ga
 mobile-bancodobrasil.ga
 mobile-cyberplus.ga
 moerdent.ga
@@ -1026,6 +1065,7 @@ obligation-sheer.ga
 ocdzat.ga
 oddsye-71.ga
 oeneren.ga
+office-cloud.ga
 ogloszeniapolska24.ga
 oiyhg.ga
 oiymke.ga
@@ -1056,6 +1096,7 @@ ooin.ga
 optamenwa.ga
 oqityrovusiy.ga
 orange.fr-assurance.ga
+orange.fr-espacepro.ga
 orthelen.ga
 ortu.ga
 oslonow.ga
@@ -1091,6 +1132,7 @@ payipalupdatesecurity.ga
 paypal-authonline.ga
 paypal-com-authuk.ga
 paypal-community.com.signin.us-cgn.ga
+paypal-refunds.ga
 paypal-service.com.merchant-confirmed.ga
 paypal-to-btc.ga
 paypal-update-information.ga
@@ -1164,6 +1206,7 @@ priereikiiloik.ga
 privacypaqes-notifications1.ga
 privacypaqes-notifications2.ga
 privacypaqes-notifications4.ga
+privatspaqes123532.ga
 problemfanpage.problemhelp.ga
 problemfanpage8787.recisteer43.ga
 professionally.ga
@@ -1192,6 +1235,7 @@ qxhnhi.ga
 rabota-v-inretnete.ga
 raeadnt.ga
 rakhttakht.ga
+rakuten-co-jp-rakuten-co-jp-meei.ga
 rakuten.co.jp-seavermovecasemeeb.ga
 rakuten.co.jp.diaoyufajian.ga
 rakuten.co.jp.egwiughb3kjrgheoinisagnerasd23sidhgfe.ga
@@ -1232,6 +1276,7 @@ register-facebook.ga
 registrosmultired1bnperu.ga
 regreed.ga
 remote1.ga
+reporte3e3.ga
 resentic.ga
 resgatebeneficios.ga
 restart-recovery.ga
@@ -1256,6 +1301,7 @@ rodneyblitzer.ga
 rororamp.ga
 rostovafile.ga
 rt-nwbjwy.ga
+rto1.ga
 runawaty-71.ga
 ruqpio.ga
 s.bledea.us.mhqo.ga
@@ -1290,7 +1336,10 @@ secure-account-security.ga
 secure-checkpoint.ga
 secure.facebook.checkyourmess.ga
 secure.owa.outlookaccessvoice.ga
+secure.owavoice.ga
 secure.runescape.ss-o.ga
+securedfastnetclassic.co.nz.nz-inbk.ga
+security-accountlogin91238.ga
 seecure-regiss.d3v-fanpag3.ga
 seeksilence.ga
 segami.ga
@@ -1298,9 +1347,12 @@ sekzpkn.ga
 selverrytony.ga
 seminarygeorgia59.ga
 sendblasters.ga
+seniorcarecentersltc-auth-page.ga
+seniorcarecentersltc-auth.ga
 service-support-prime.ga
 services-uniconfrim5.ga
 services.runescape.com-i.ga
+serviceupgrade.ga
 sery.ga
 sethichans.ga
 sewebmecardest.ga
@@ -1385,6 +1437,7 @@ sunmeribapkya9.ga
 sup3rc10ud.ga
 superboulusa.ga
 supp0rtinhancedchase0.ga
+support-amazon-jp3.ga
 support-identify-ads-manager.ga
 support1.cpanel.supportie.ga
 support1.support1.support1.support2.mail.supportie.ga
@@ -1401,12 +1454,12 @@ systargent.ga
 system-win64-errorservice-call69.ga
 systemreviewaccountaccess.ga
 sytemi2m.ga
-syzpudbm.ga
 szczhal.ga
 ta-joinwhatsapp18.bkp-18.ga
 tadtobadof.ga
 taifacebookmienphi.ga
 talkcommute.ga
+tanumanu.ga
 targode.ga
 taughtcom.ga
 tcredirect.ga
@@ -1431,6 +1484,7 @@ tifi.ga
 tioq.ga
 tlckids-or.ga
 to-kessel.ga
+todospelasaude.sslap.ga
 tokyodrift.ga
 tracing.ga
 tradeskin.ga
@@ -1501,6 +1555,7 @@ viral-xxx.ga
 virtualmachine.ga
 visiondumonde.ga
 visudam.ga
+vitiba.ga
 vjgnxuo.ga
 vk-golosa.ga
 vkantakte.ga
@@ -1510,12 +1565,14 @@ voycczf.ga
 vvicabcp.ga
 vz-rp.ga
 w-amazon-com-co5.ga
+wabokep1817.hubbbb29.ga
 waftydofty.ga
 warniiing04.devetol23.ga
 warning-page-disabled.ga
 warning406.facebok-securtity.ga
 warningfacebooksecurity.ga
 watchmy.ga
+wavidhot52.ga
 wavidhot85.ga
 wavywayest.ga
 wbbwbe.ga
@@ -1537,16 +1594,20 @@ whatsapp-videoviral.ga
 whatsapp.grubsjoin.ga
 whatsapp.grup18.vvipx77.ga
 whatsapp172.zxc696.ga
+whatsappgiveawaybaimwong.ga
 whatsappgroup18.vclaims-20.ga
 whatsappgroups-budi01.log-551.ga
 whatsappgrubchat.vrt20.ga
 whatsappgrupbokepxxx2020.freedm.ga
+whatsappporn2020.ga
 whattsap-group.hol78.ga
 whystil-71.ga
+win-error5253.ga
 win-error8989.ga
 windowflod.ga
 wine837-puppy837.ga
 winnishopping.ga
+witbraun.ga
 wmasters.ga
 wodasoone.ga
 woobwoo.ga
@@ -1679,6 +1740,7 @@ xcxzc.ga
 xemphimhayhd.ga
 xgarq.ga
 xlmmsdt.ga
+xnxx-anal-clasic.claim-freefskin1.ga
 xnxx-pornhubhot.viralls98.ga
 xpologistics.ga
 xpto.ga
@@ -1706,6 +1768,7 @@ zangs.ga
 zatowog.ga
 zawsr.ga
 zempaqes-alerts3.ga
+zempaqes-nottif2.ga
 zentacher.ga
 zinterect.ga
 zinterest.ga

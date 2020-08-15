@@ -17,6 +17,7 @@ academiaprimary.co.za
 academicbooks.co.za
 accommodation-phalaborwa.co.za
 account-support-information.tcrsa.co.za
+accounting-qualifications.co.za
 activecarrental.co.za
 actpropdev.co.za
 ad-server.co.za
@@ -78,6 +79,7 @@ anysbergbiltong.co.za
 ao.co.za
 aperfectmatch.co.za
 aplacelikehome.co.za
+appleid-issueslogin-globalaccount.dstvcape.co.za
 appr0ve.bdevelop.co.za
 apronreassure.co.za
 aquageminidesign.co.za
@@ -246,7 +248,6 @@ cloud-server-updater7.co.za
 cloud-server-updater8.co.za
 cloud-server-updater9.co.za
 cmvcapital.co.za
-colourcreative.co.za
 com-----view---notification--continue.stephensonsknives.co.za
 comcosa.co.za
 commail.co.za
@@ -352,6 +353,7 @@ electronetwork.co.za
 elmarketingsolutions.co.za
 elntech.co.za
 elntechnology.co.za
+elokshinproperty.co.za
 emadamini.co.za
 emdholdings.co.za
 emitecertidaointernet2487.cloudhosting.rsaweb.co.za
@@ -364,6 +366,7 @@ esouthernafrica.co.za
 estellekitching.co.za
 evapharma.co.za
 events.cl8movement.co.za
+excelr8.co.za
 executivelogistic.co.za
 eyebuy.co.za
 eyespyprop.co.za
@@ -431,6 +434,7 @@ germistonmiraclecentre.co.za
 getcellular.co.za
 getcustomers.co.za
 gettotalcover.co.za
+ghinirent.co.za
 giantsports.co.za
 gladnotification.co.za
 glamourgirls.co.za
@@ -438,6 +442,7 @@ glare.co.za
 glit.co.za
 global-ics.co.za
 gloda.org.za
+godwinz.hashtagweb.co.za
 goeft.co.za
 gojuryukarate.co.za
 gokaretsams.co.za
@@ -446,6 +451,7 @@ gordoncsolutions.co.za
 gostavoscoth.co.za
 gotechandafricanfountanain.nmco.co.za
 gpswaypoints.co.za
+gracemercy.co.za
 grafephot.org.za
 grcc.co.za
 great-carinsurance.co.za
@@ -587,6 +593,7 @@ lebekodecor.co.za
 leenfurphy.co.za
 leibengroup.co.za
 letholedriving.co.za
+lgtmap.co.za
 lifelinejhb.org.za
 lifelinerewards.co.za
 lifeskillsacademy.co.za
@@ -601,6 +608,8 @@ louistopdesigns.co.za
 lovetv.co.za
 lowveldcompressors.co.za
 lungwetechnologies.co.za
+lura.co.za
+lwazitech.co.za
 lwirecruitment.co.za
 maccubedholdings.co.za
 magicmaid.co.za
@@ -630,12 +639,14 @@ matrixwharehouse.co.za
 mbcconnection.co.za
 mbet.co.za
 mcditworx.co.za
+mcnaughtans.co.za
 mcpf.co.za
 mcvapes.co.za
 medicalaidgymbenefit.co.za
 medicompare.co.za
 medleymaids.co.za
 meget.co.za
+melanieroux.co.za
 mercuryas.co.za
 mfj222.co.za
 mhwaterproofing.co.za
@@ -674,6 +685,7 @@ moronesitrus.co.za
 mosiamise.co.za
 mosselbaaiaftree.co.za
 motorinsurance-sa.co.za
+motsisifunerals.co.za
 moyapelo.co.za
 mrpost.co.za
 ms1-za.co.za
@@ -730,8 +742,8 @@ officeinnovations.co.za
 okaynotification.co.za
 olitron.co.za
 omegaplastics.co.za
+onex.co.za
 onlydestiny.co.za
-onmobileone.co.za
 onyx.co.za
 openquote.co.za
 openx.co.za
@@ -756,6 +768,7 @@ pasellaauctioneers.co.za
 pasmoretravelandtours.co.za
 passiongirlssa.co.za
 passmycode.co.za
+paypal-sign.account.limited-alertsactivity.jalebi.co.za
 paypal.com.au.webapps.mpp.home.signininins.australia.eserv.co.za
 pcworx.co.za
 pdf-file.co.za
@@ -858,6 +871,7 @@ saluremakers.co.za
 salute.hon-marcus.co.za
 samcanationals.co.za
 same.org.za
+samsonscpt.co.za
 sanatserv.co.za
 sanitiserfirst.co.za
 sankwela.co.za
@@ -997,6 +1011,7 @@ sinakhoessentials.co.za
 sirixengineering.co.za
 sitecreation.co.za
 siyaembili.co.za
+skynest.co.za
 skynetix.co.za
 slagrofoods.co.za
 slanderssap.co.za
@@ -1004,6 +1019,7 @@ slatercorp.co.za
 smartmobilelearning.co.za
 smartsoft-communicator.co.za
 smdistributors.co.za
+smetechnologies.co.za
 softworkvalid.co.za
 southcoastprop.co.za
 southwestdistillers.co.za
@@ -1228,4 +1244,5 @@ zimshop.co.za
 ziptrapping.co.za
 zonerszones.co.za
 zubeidajaffer.co.za
+zucchini.co.za
 zwelethembahigh.org.za

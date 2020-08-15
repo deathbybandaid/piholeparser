@@ -38,7 +38,6 @@ amazon.co.jp.update3.bfhgkg.ph
 amazon.co.jp.updatejp1-1-1.jrhwks.ph
 amazon.co.jp.updatejp1-2.xthtkb.ph
 amazon.co.jp.updatejp1.myhhkm.ph
-amazon.co.jp.wxhgkn.ph
 amazon.co.jp.zwhtkz.ph
 amazon.co.updatesqkd.mchpkh.ph
 amazon.jp.pdhckm.ph
@@ -63,7 +62,7 @@ cebumarathon.ph
 cec2aeb59ce74a933b249b838d5b182264cb6c83.ph
 chags.ph
 chrst.ph
-co.jp.ede58a142a4b5fb6e1f5aeefe69f50cb6e02bdf6.ph
+co.jp.wxhgkn.ph
 company.com.ph
 converge.ph
 creativecaboose.com.ph
@@ -82,6 +81,7 @@ dvobrgy.usep.edu.ph
 ebanan.net.ph
 ebanan.ph
 ec13b13573bbc8f85984c209a181c8bcfb568a73.ph
+ede58a142a4b5fb6e1f5aeefe69f50cb6e02bdf6.ph
 edll44.ph
 ehkdor.ph
 emafpor.ph
@@ -160,6 +160,7 @@ ovhtelecomfr.aniconplastic.com.ph
 oxychemcorporation.com.ph
 oxypro.com.ph
 pekingtrail.com.ph
+peti.com.ph
 pillmarket.ph
 planetlaundry.com.ph
 polro.org.ph
@@ -184,7 +185,6 @@ secur.ph
 server09.net.ph
 setsi.ph
 sexysites.com.ph
-skia.com.ph
 smartasia.com.ph
 sozzo.ph
 spiritjf.ph

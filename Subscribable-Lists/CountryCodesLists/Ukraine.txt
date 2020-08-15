@@ -1215,6 +1215,7 @@ kucher.pp.ua
 kulops.com.ua
 kurortnoye.com.ua
 kvartura.vn.ua
+kydeliver.pp.ua
 kyiv230school.pp.ua
 l2conect.at.ua
 ladmkus.com.ua
@@ -1272,6 +1273,7 @@ llarion.pp.ua
 lldoctor.pl.ua
 llmedic.pl.ua
 lodki-pvh.dp.ua
+log.kl.com.ua
 long-way.net.ua
 longplus.com.ua
 look-atme.net.ua
@@ -1952,6 +1954,7 @@ mobicover.com.ua
 mobility.lviv.ua
 modaforyou.com.ua
 modonyashka.com.ua
+moeller.kiev.ua
 moget.com.ua
 molopoi.com.ua
 molowo.in.ua
@@ -1968,6 +1971,7 @@ mrdjole.com.ua
 mriya-shayan.in.ua
 msl.ua
 mst.com.ua
+multinet.in.ua
 muscle-factory.com.ua
 mvduk.kiev.ua
 my-bestday.net.ua
@@ -2023,7 +2027,6 @@ nesk.zzz.com.ua
 new-project.com.ua
 new-rutor.pp.ua
 new-standart-outsourcing.com.ua
-new.sportlex.com.ua
 new4.pipl.ua
 news.gruzotaxi.dn.ua
 newsnet.in.ua
@@ -2169,6 +2172,7 @@ pharmacymedpro.com.ua
 pharmacypostonline.com.ua
 pharmacypromed.com.ua
 pharmaonline-buy.com.ua
+photoprofi.biz.ua
 phyllis.net.ua
 pictureperfectdigitalone.com.ua
 pictures-frames.com.ua
@@ -2230,6 +2234,7 @@ promocoes-americanas.kl.com.ua
 promocoes-americanas.zzz.com.ua
 promocoes-americanass.kl.com.ua
 promone.com.ua
+prostomebli.kiev.ua
 prostonews.com.ua
 prozapas.dn.ua
 psihoterapiya.com.ua
@@ -2443,6 +2448,7 @@ shopbuyauction.com.ua
 shopfishing.com.ua
 shoppex.com.ua
 shustovauto.com.ua
+sidore.com.ua
 signtwilight.pl.ua
 silenceadult.pl.ua
 silicagel.com.ua
@@ -2486,6 +2492,7 @@ spacedrugspharmacy.com.ua
 spaghtu.com.ua
 spartania.com.ua
 spirtnoe.org.ua
+sportlex.com.ua
 sportovets.com.ua
 sportwin.com.ua
 sql.eth.pp.ua
@@ -2493,6 +2500,7 @@ srepli.com.ua
 ss.icloud.co.ua
 ssdoctor.pl.ua
 ssl.istore-recheckbill-idwmid46589.sslservices110mb7025646548.haga.com.ua
+sstil.pp.ua
 stage.lviv.ua
 standardupdate.com.ua
 stanislavskiy-uvelir.if.ua
@@ -2507,6 +2515,7 @@ steamcammunitly.pp.ua
 steamcommunits.pp.ua
 steamcommunity-com.profiles-780325603260.pp.ua
 steamcommunliltiy.pp.ua
+steamcomyunity.pp.ua
 steamconmumti.pp.ua
 steelfreedom.org.ua
 stiker.kl.com.ua

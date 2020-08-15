@@ -11,6 +11,7 @@ acdstore.com.tr
 acemmadencilik.com.tr
 aciklise.web.tr
 action.com.tr
+activehand.com.tr
 ad.clicknet.com.tr
 ad.logro.com.tr
 ad.realist.gen.tr
@@ -74,6 +75,7 @@ alaca.com.tr
 alcaninsaat.com.tr
 aletedevat.com.tr
 alfaturkey.com.tr
+alfazen.com.tr
 algigrup.com.tr
 alicicek.com.tr
 alikoca.com.tr
@@ -103,6 +105,7 @@ ankaratemizlik.web.tr
 ankaratemizliksirketleri.web.tr
 antalyawebtasarim.com.tr
 antsaninsaat.com.tr
+aol.kgas.com.tr
 apple.itunes.confirm.your.account.go.first.page.now.apple.mehmetaslan.com.tr
 ar.caginerhastanesi.com.tr
 arabakiralama.net.tr
@@ -282,6 +285,7 @@ epipoint.com.tr
 eraslan.com.tr
 erca.com.tr
 ercanakin.com.tr
+ercey.com.tr
 erhanturkan.com.tr
 erkankaratas.com.tr
 erkantarhan.com.tr
@@ -315,6 +319,7 @@ firmamentum.com.tr
 fkpres.com.tr
 florapark.com.tr
 flyturk.com.tr
+forkliftkiralama.web.tr
 forum.axciteferomon.com.tr
 freeporn4everyone.blogspot.com.tr
 fuathanalbar.com.tr
@@ -371,6 +376,7 @@ hits.tv8.com.tr
 hmo.com.tr
 hoteldedemin.com.tr
 hotshot.com.tr
+hsayatirim.com.tr
 humanplus.com.tr
 hygienix.com.tr
 idema.com.tr
@@ -406,6 +412,7 @@ jennah.com.tr
 jineplast.com.tr
 jmoon.com.tr
 kadem.com.tr
+kahramanmaras.gen.tr
 kalecesme.com.tr
 kamerreklam.com.tr
 kanarya.com.tr
@@ -427,6 +434,7 @@ kitapindir.web.tr
 klimahavalandirma.com.tr
 kocasoy.com.tr
 konlas.com.tr
+korumamiss.com.tr
 kosel.com.tr
 kristalist.com.tr
 ksu.com.tr
@@ -441,6 +449,7 @@ legsfetish.blogspot.com.tr
 li-dermakine.com.tr
 liderotokiralama.com.tr
 lidersahtebalik.com.tr
+lifesmart.com.tr
 liladecor.com.tr
 limanyapidenetim.com.tr
 logex.com.tr
@@ -496,6 +505,7 @@ nesilgroup.com.tr
 netflix.update.fatihelektronik.com.tr
 netto.com.tr
 newnight.com.tr
+ninovaeczadeposu.com.tr
 nisamerve.com.tr
 noktapc.com.tr
 notification-control-fb.com.urazlife.com.tr
@@ -679,7 +689,9 @@ toramanlar.com.tr
 totemguvenlik.com.tr
 truva2007.com.tr
 ttnet.yandex.com.tr
+tunamim.com.tr
 tunca.bel.tr
+tuncambalaj.com.tr
 tursanmakine.com.tr
 turtalya.com.tr
 turuncunet.com.tr
@@ -1165,6 +1177,7 @@ yanus.com.tr
 yapikur.com.tr
 yasarlarinsaat.com.tr
 yasarsu.com.tr
+yayin.seviye.com.tr
 yelpazeinsaat.com.tr
 yemekler.com.tr
 yenimedya.com.tr

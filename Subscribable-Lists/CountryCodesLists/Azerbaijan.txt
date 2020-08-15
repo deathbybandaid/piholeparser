@@ -1,5 +1,6 @@
 1home.az
 aeroflot.az
+app.facebookphone-onvew.dreamart.az
 arhun.az
 atib.az
 azfilmizle1.azermedia.az
@@ -28,6 +29,7 @@ oralar.az
 pacific.az
 qaynarinfo.az
 radioloq.az
+seckiler.az
 url.az
 veyseloglu.az
 www-bcpzonasegurabeta.viabcp.ziraolives.az

@@ -2,7 +2,6 @@
 affordable.cm
 alibachir.cm
 avis.cm
-clone.affordable.cm
 cnn.cm
 dev.maverick.cm
 diplocam.cm
@@ -36,6 +35,7 @@ statsncount.bz.cm
 target.cm
 twitter.cm
 ul.cm
+unicc-bazar.cm
 www.avis.cm
 www.cnn.cm
 www.facebook.cm

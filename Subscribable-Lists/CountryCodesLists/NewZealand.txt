@@ -55,7 +55,6 @@ chemwashsouthauckland.co.nz
 classiccarstorage.co.nz
 cloverisland.co.nz
 cmp.pcworld.co.nz
-coastalsystems.co.nz
 collector.automote.co.nz
 comadverts.bcmpweb.co.nz
 comfortfuture.co.nz
@@ -86,7 +85,6 @@ drill.breathegroup.co.nz
 dsgn.co.nz
 earlychildhoodonstafford.co.nz
 edcorp.co.nz
-eden.it-guys.net.nz
 edvadisr.org.nz
 edwardhallmagician.co.nz
 elitews.co.nz
@@ -112,6 +110,7 @@ gourmetseafood.co.nz
 groupy.co.nz
 gujarati.nz
 hamilton150.co.nz
+hammockworld.co.nz
 hendersonglass.co.nz
 hloshi.co.nz
 holmac.co.nz
@@ -122,6 +121,7 @@ inkplus.co.nz
 inleadership.co.nz
 international-medical-recruitment.co.nz
 iserve.net.nz
+it-guys.net.nz
 jadan.co.nz
 jaguardriversbop.co.nz
 jetwaste.co.nz
@@ -160,6 +160,7 @@ n1.cryptopia.co.nz
 neighbourhoodmechanic.co.nz
 neptuneproducts.co.nz
 networkmarketingnewzealand.co.nz
+new.digilab.co.nz
 newzealandgirls.co.nz
 nodes1.cryptopia.co.nz
 nodes2.cryptopia.co.nz
@@ -218,6 +219,7 @@ sports-first.co.nz
 stajittech.co.nz
 starfishservices.org.nz
 static.groupy.co.nz
+steelandcutting.co.nz
 streetelement.co.nz
 super-drinks.co.nz
 supremehosting.co.nz
@@ -227,12 +229,14 @@ tbdistributors.co.nz
 teamdd.co.nz
 telesmart.co.nz
 tesserae.net.nz
+tessol.co.nz
 thaddecons.co.nz
 theassemblyguy.co.nz
 thecobbhotel.co.nz
 thepropertystore.co.nz
 threepoints.co.nz
 tmda.tmcdn.co.nz
+tmp.pjspaintersqt.co.nz
 tradescoachacademy.co.nz
 transformers.net.nz
 transpecservices.co.nz

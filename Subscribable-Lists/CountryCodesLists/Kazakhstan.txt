@@ -91,7 +91,6 @@ duman.kz
 e-corporation.kz
 e-stroymart.kz
 ef.enu.kz
-elvin-trade.kz
 engineercenter.kz
 env-1340702.j.dnr.kz
 env-4839.j.dnr.kz
@@ -108,7 +107,6 @@ furman.kz
 glicol.kz
 globelite.kz
 globus-almaty.kz
-glores.kz
 golos.vkolibrary.kz
 greenbus.kz
 greenlandco.kz
@@ -186,7 +184,6 @@ mmx.kz
 montaleparfums.kz
 movieofgoodies.kz
 moviepaidinfullsexy.kz
-msbc.kz
 musor.kz
 mvb.kz
 mybuh.kz
@@ -196,6 +193,7 @@ news.movieworld.kz
 nikland.kz
 nl.web-cdn.kz
 nurai-balabagsha.kz
+nurcom.kz
 okna-veka.kz
 omc.marketone.kz
 panelli.kz
@@ -226,6 +224,7 @@ secure.jscontentmaker.kz
 seiflombard.kz
 seo-smm.kz
 severastana.kz
+sirena.kz
 smart.cloudnetwork.kz
 smartconstruction.kz
 smartfoodsglutenfree.kz

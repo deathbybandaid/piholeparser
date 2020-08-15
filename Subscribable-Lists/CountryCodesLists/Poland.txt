@@ -58,7 +58,6 @@ account-security-information.autoblachy.org.pl
 account-update.hoton.pl
 accounting.ceramikaczary.pl
 accounts-cynthia.org.pl
-accounts-google-com.5v.pl
 ace.jamba.pl
 ace.jamster.pl
 acebook.cba.pl
@@ -320,6 +319,7 @@ anaglyph.pl
 analytics.ceneo.pl
 analytics.gazeta.pl
 ancla.pl
+andmak.pl
 andmax-rehabilitacja.pl
 andrzej-burdzy.pl
 anemia.xgamegodni.pl
@@ -383,6 +383,7 @@ arichrubypalace.pl
 aripaadee.hit.gemius.pl
 aripaee.adocean.pl
 arkadasklep.pl
+arkamedia.pl
 arkanabizuteria.waw.pl
 arkoch.freshsite.pl
 arkonfinance.pl
@@ -465,6 +466,7 @@ badv.wp.pl
 badznaptak.pl
 bajer.info.pl
 bajkowedekoracje.pl
+bakari.dyalcom.pl
 baktria.pl
 banery.acr.pl
 banery.bai.pl
@@ -540,6 +542,7 @@ biotechealthcarepharm.pl
 biotechealthcarepills.pl
 bip.tbs.tczew.pl
 bip.wodkan.com.pl
+birdseye.pl
 biseksualni.qii.pl
 bitcoin.fastlink.pl
 bittersweet.pl
@@ -640,6 +643,7 @@ cdsp.pl
 ce.wielkaniespodzianka.pl
 cent.coinmine.pl
 center-help02.ucoz.pl
+centerai.vot.pl
 centrum-bezpiecznej-pozyczki.waw.pl
 centrum-napraw-swojego-laptopa.warszawa.pl
 centrum-pogotowie-komputerowe.warszawa.pl
@@ -683,6 +687,7 @@ cipowisko.com.pl
 clean-service.waw.pl
 cleanupit22p.xorg.pl
 clearenergy.pl
+clevert.pl
 click-design.nazwa.pl
 click.waw.pl
 clickad.com.pl
@@ -699,6 +704,7 @@ codecommando.pl
 coffee4u.pl
 coinmine.pl
 coiptpyv.net.pl
+cojestgrane.simplicitygames.pl
 cokupicmamie.pl
 colway.pl
 communication.com.pl
@@ -761,6 +767,7 @@ czerwonystoliczek.pl
 czosnow.nazwa.pl
 czyjestemtata.pl
 czyjtonumertel.pl
+czystypiec.pl
 czyszczeniekarcherem.poznan.pl
 czyszczeniekrakow.pl
 d8x.pl
@@ -830,6 +837,7 @@ dellacasa.pl
 demetrio.pl
 demo.website.pl
 denaros.pl
+dendi.pl
 denoncocoon.pl
 dent-lux.com.pl
 dentalline.pl
@@ -849,6 +857,7 @@ diginetlt.hit.gemius.pl
 digital4adro.hit.gemius.pl
 digital4ro.adocean.pl
 digitero.pl
+dimmi.pl
 dioryt-kamieniarstwo.pl
 dirbg.hit.gemius.pl
 directpayment.pl
@@ -897,6 +906,7 @@ dopenews.pl
 doradcazabrze.pl
 doradztwo-kredytowe.pl
 doregeneracji.pl
+dosman.pl
 dostawa-dhl.pl
 dot.wp.pl
 dotacja-dolnoslaskie.pl
@@ -930,6 +940,7 @@ downloaded.adeforsa.pl
 downloadfiles.pl
 downloaduj.pl
 dpcdn-s06.pl
+dpdoplata.pl
 dpdpolska.pl
 dps-nysa.pl
 dpsdomnadziei.pl
@@ -985,6 +996,7 @@ dziewczyny.biz.pl
 dziubeka.cba.pl
 e-24gwaltfakt.pl
 e-avanti.e-maco.pl
+e-bazaosobzaginionych.pl
 e-cda.pl
 e-childalert.pl
 e-dworzeconline24.pl
@@ -1388,6 +1400,7 @@ firegifts.pl
 firesub.pl
 firma-malarska-poznan.pl
 firmaza1grosz.pl
+fixlab.pl
 fizjo-factory.pl
 fizjodent.lebork.pl
 fizjoterapia.5v.pl
@@ -1643,7 +1656,6 @@ grafdesign.pl
 grafikeria.pl
 grafiszer.pl
 grafit.pl
-grandautosalon.pl
 grandpalacegoldcasino.pl
 granpex.pl
 graomilion.pl
@@ -1962,6 +1974,7 @@ hothub.pl
 hotprizes.pl
 hous.pl
 hovibhpz.pl
+howrse.5v.pl
 hr.adocean.pl
 hr.hit.gemius.pl
 hrgde.adocean.pl
@@ -2413,6 +2426,7 @@ leadn.pl
 lechjanas.pl
 lecznicajaworzno.pl
 legalizacja.5v.pl
+legnica.lokalneinfo24.pl
 lektorcda.net.pl
 lekturymp3.pl
 lemar.home.pl
@@ -2455,6 +2469,7 @@ lo1mragowo.neostrada.pl
 loadfiles.pl
 logodlafirm.pl
 logowanie.dkonto.pl
+loguj-praca.co.pl
 lokum1985.republika.pl
 loles.neostrada.pl
 longhill.pl
@@ -2943,6 +2958,7 @@ o2.hit.gemius.pl
 o2adpl.hit.gemius.pl
 oarteliterubygrand.pl
 oas.com.pl
+oberiba.pl
 obiektywnedoradztwo.pl
 obingoextrafestival.pl
 obkzrcclean2.az.pl
@@ -3207,6 +3223,7 @@ pinkstar.pl
 piotrowskimusic.pl
 piotrprzewozy.pl
 piotruspan.com.pl
+pirenejskiepsy.pl
 pisanie-online.pl
 pisarz.internetdsl.pl
 pitbull-video.ujm.pl
@@ -3280,6 +3297,7 @@ polecammbank.pl
 polecieli.pl
 poliflex.net.pl
 polish-books.pl
+polityka-bez-cenzury.you2.pl
 polkolonieb4k.pl
 polonicakonstrukcje.com.pl
 polsatboxingnight-transmisjahd.ujm.pl
@@ -3297,6 +3315,7 @@ pomagajmypl.pl
 pomaranczowapomoc.pl
 pomoc-drogowa.cba.pl
 pomoc-fakty24.pl
+pomoc48.you2.pl
 pomorzesrodkowe.pl
 ponadkreatywnie.pl
 pontony.net.pl
@@ -3459,7 +3478,6 @@ pro.hit.gemius.pl
 pro.webstat.pl
 problemy.pl
 probolan50.pl
-produce-tech.pl
 produktw7dni.pl
 produla.czatgg.pl
 proethica.pl
@@ -3479,6 +3497,7 @@ progresspartner.pl
 projekt2019.pl
 projektviriditas.pl
 prokino.pl
+prolegis.pl
 promet-leszno.pl
 promex.info.pl
 promoclub.pl
@@ -3633,6 +3652,8 @@ rec-ir.quartic.pl
 rec.quartic.pl
 redtube.pl
 regina-kolobrzeg.pl
+region24fakty.h2g.pl
+regionalne24wydarzenia.pl
 regme.pl
 regmissin.7m.pl
 reha-vis.pl
@@ -3810,6 +3831,7 @@ server038725.nazwa.pl
 server062295.nazwa.pl
 server082057.nazwa.pl
 server144191.nazwa.pl
+server150767.nazwa.pl
 server163777.nazwa.pl
 server176400.nazwa.pl
 server200714.nazwa.pl
@@ -3826,13 +3848,21 @@ server364714.nazwa.pl
 server375674.nazwa.pl
 server428873.nazwa.pl
 server432067.nazwa.pl
+server440086.nazwa.pl
+server455405.nazwa.pl
+server529775.nazwa.pl
 server547102.nazwa.pl
+server578875.nazwa.pl
 server584025.nazwa.pl
+server684037.nazwa.pl
+server685641.nazwa.pl
 server720699.nazwa.pl
 server730889.nazwa.pl
+server740153.nazwa.pl
 server753306.nazwa.pl
 server817111.nazwa.pl
 server836207.nazwa.pl
+server870708.nazwa.pl
 server905483.nazwa.pl
 server917010.nazwa.pl
 server939608.nazwa.pl
@@ -3846,6 +3876,7 @@ serwer1819004.home.pl
 serwer1827616.home.pl
 serwer1837541.home.pl
 serwer2010029.home.pl
+serwer2060069.home.pl
 serwer2082113.home.pl
 serwery-nas.pl
 serwis-laptopow-powisle.pl
@@ -4007,6 +4038,7 @@ solek-cars.pl
 solesnok.pl
 solidmobile.pl
 solidpex.pl
+solidtrans.pl
 sollers-distribution.pl
 somiherbal.pl
 sonnenfeld.com.pl
@@ -4027,6 +4059,7 @@ sparrows.pl
 spartech.pl
 spasinski.pl
 spatiumdg.pl
+specyfika.xn.pl
 sphericalart.pl
 spider-site.yoyo.pl
 spir.hit.gemius.pl
@@ -4090,6 +4123,7 @@ stats.asp24.pl
 stats.dziennik.pl
 stats.media.onet.pl
 stats.ulixes.pl
+stawiarz.pl
 stc.coinmine.pl
 std1.hit.gemius.pl
 steamgifts.5v.pl
@@ -4269,8 +4303,10 @@ tiandewarszawa.pl
 tik.info.pl
 tik.stronnet.pl
 time4s.pl
+timpex.pl
 tiny.pl
 tix.coinmine.pl
+tkdkornik.pl
 tkozlowski.ct8.pl
 tlumacztaniej.pl
 tlumaczymyszwedzki.pl
@@ -4459,8 +4495,10 @@ uszyce.webd.pl
 uultrawestbetday.pl
 uvivaclubluxurysp.pl
 uvy3.pl
+uwaga-poszukiwania-fakty.you2.pl
 uwaga24-policja.pl
 uwaga24tv.pl
+uwaga72.you2.pl
 uwebextraeurodice.pl
 uwebextrafestival.pl
 uwebmagiceurodice.pl
@@ -4567,6 +4605,7 @@ wecgj.w.interiowo.pl
 weeb-tv.pl
 wej-dz6.edu.pl
 wellneat.pl
+welminski.pl
 welnessmedicinedrugs.pl
 welte.pl
 wentworth.pl
@@ -4619,6 +4658,7 @@ woor.pl
 woprkolobrzeg.pl
 woprlubuski.nazwa.pl
 working29.w.interiowo.pl
+workinprogress.pl
 workitout.com.pl
 worldrubypalace.pl
 wosp-zgora.pl
@@ -5010,6 +5050,7 @@ zaczytajsie.pl
 zafundujsobie.pl
 zaginioneslowo.glcs.pl
 zagle.zbaszynek.pl
+zagnet.pl
 zagranicaubezpieczenie.pl
 zagubieni24.com.pl
 zalukaj-online.pl
@@ -5057,6 +5098,7 @@ zgarniij_vouchher.skroc.pl
 zgarnijplik.pl
 zgk.dolsk.pl
 zgody.infor.pl
+zh.com.pl
 zief.pl
 zielarniakujawska.pl
 zielonakawa.info.pl

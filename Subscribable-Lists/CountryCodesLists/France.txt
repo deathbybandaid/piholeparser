@@ -541,7 +541,6 @@ adblock.fr
 adconsultants.fr
 adeisse.fr
 adforce.adtech.fr
-adhesifsuper.fr
 adidas.frwebs.fr
 adidasfrsoldes.fr
 adidasneoblanche.fr
@@ -765,6 +764,7 @@ anouslafolie.fr
 ansaerys.fr
 anstravauxsubaquatiques.fr
 antarctik.fr
+antislash.fr
 antiville.fr
 antoine-maubon.fr
 anu.vqd.fr
@@ -828,6 +828,7 @@ astuces-pour-vous.fr
 astucessurleweb.fr
 astucetriche.fr
 asvcx.fr
+atecobois.fr
 atefab.pingfiles.fr
 atelierdelaconfluence-bijoux.fr
 atelierfariboles.free.fr
@@ -882,7 +883,6 @@ azagame.fr
 azeroth.fr
 azhypso.fr
 b-l-o.fr
-b2c.regnault.free.fr
 babyfish.fr
 bache.fr
 bacheetpanenau.fr
@@ -1020,7 +1020,6 @@ bellerencontre.fr
 belles.stars.free.fr
 belotti.fr
 benbenradio2.free.fr
-benjamin.cahot.webconcepteur.fr
 benjamin.nhvvs.fr
 benny.arbeid.free.fr
 benoit.reyt.free.fr
@@ -1172,6 +1171,7 @@ cacl.fr
 cadovis.fr
 caes08.fr
 cafebarge.fr
+cahot.webconcepteur.fr
 cakedesign.fr
 caladi.fr
 calav.fr
@@ -1210,6 +1210,7 @@ capitulation.free.fr
 caplaine.fr
 capsecretariat29.fr
 captive.free.fr
+caravelleguyane.fr
 carinecarolines.fr
 carlos53ma.free.fr
 carnets-de-fond.fr
@@ -1624,6 +1625,7 @@ crwcommunication.fr
 crypto-pool.fr
 csc-gauguin.fr
 cseengiereseaux.fr
+csi-dijon.fr
 cstatic.weborama.fr
 cuseemee.free.fr
 cutillas.fr
@@ -1865,6 +1867,7 @@ ecole-pavie.fr
 ecoledansemulhouse.fr
 ecommerce-garanti.fr
 economie-du-jour.fr
+ecoterre-scop.fr
 edenprovencal.fr
 edfgroupe.solution.weborama.fr
 edh-diagnostic.fr
@@ -1951,6 +1954,7 @@ evydence-bijoux.fr
 exchange.pbem.fr
 exjuex.fr
 exobasprix.fr
+exotikcourage.fr
 exploragent.fr
 expres-eco.fr
 extase.paris.free.fr
@@ -2440,6 +2444,7 @@ hotzralphlaurenpaschersalz.fr
 houra.fr
 hpi.swiss.tcorner.fr
 hsup-france.fr
+httpfuturasciencesez.fr
 hubchannel.fr
 hugames.fr
 huiledecoprah.fr
@@ -2487,7 +2492,6 @@ ilssonten.fr
 image-success.fr
 imageprostyle-communication.fr
 imageserv.adtech.fr
-img.relais-secure.fr
 impact-studio.fr
 imperius.fr
 impimg.free.fr
@@ -2797,6 +2801,7 @@ kalimuse.fr
 kaly77.free.fr
 kamlab.fr
 karawin.fr
+kasabov.free.fr
 kaspar.free.fr
 katiagirl.free.fr
 kcnikj.fr
@@ -2967,6 +2972,8 @@ les-gros-seins.fr
 les-jeux-gratuit-en-ligne.fr
 les-meilleurs-modes-elles.fr
 les-offres-en-continu.fr
+les-offresdujour.fr
+les-offresdumoment.fr
 les-opticiennes-du-val-gelon.fr
 les-placards-en-folie.fr
 les-plans-sophie.fr
@@ -3114,6 +3121,7 @@ locationsibiza.free.fr
 lofter.free.fr
 logconfsessionloginservicefacturation.resto-rochier.fr
 logicielpirater.fr
+login-cayon-ch-cf1a1dff.agipsante.fr
 logs-qos.tf1.fr
 loisirs77.fr
 loisirsjeux10.free.fr
@@ -3386,6 +3394,7 @@ mokafsloka.fr
 molinier.etienne.free.fr
 mon-achat-malin.fr
 mon-commerce-virtuel.fr
+mon-compte-ameli.fr
 mon-design.fr
 mon-espace-bien-etre.fr
 mon-poeme.fr
@@ -3463,6 +3472,7 @@ mymetanetchcf1a1dffdomain.info-refugies.fr
 mymetanetchcf1a1dffdomain.no-k.fr
 myprice.fr
 myshoesdesign.fr
+myshop.yo.fr
 myvanessabrunofrance.fr
 nancy-informatique.fr
 naruto-le-jeu.fr
@@ -3477,7 +3487,6 @@ ncdnsrvmaindsw.fr
 ncjpowerkcn.fr
 ncjsrvncjpower.fr
 ncpmz5.fr
-nda-prod.fr
 nebonide.free.fr
 needforspeedcarbon.fr
 neocity1.free.fr
@@ -3489,6 +3498,7 @@ nestlewaters.solution.weborama.fr
 net-pratique.fr
 netdes.fr
 netflix.julien-breton.fr
+network-paying.fr
 neufweb.fr
 neuneu.fr
 new.mystellar.fr
@@ -3626,6 +3636,7 @@ orgasmixxx.free.fr
 orgixx.free.fr
 origins-return.fr
 oriongame.fr
+orm-pf060000002133.webnode.fr
 ort721.fr
 orthoptistenathalierollin.fr
 osakasushi-herblay.fr
@@ -3642,6 +3653,7 @@ p-garamond.fr
 p.houdbine.free.fr
 p.pagesjaunes.fr
 p.porn.fr
+pack-covid.fr
 pacoquines.free.fr
 padd.fr
 paiementcyon-net-5772dea2.lagrandegraine.fr
@@ -3698,6 +3710,7 @@ pausejeux.fr
 paycyon-ch-1074b887.lagrandegraine.fr
 payements.fr
 paypal-accounts.vivivato.fr
+paypal-paiement.nhx.fr
 paypal-restore.fr
 paypal-update.fr
 paypl-com.fr
@@ -4037,8 +4050,10 @@ refletdargent.free.fr
 reflexonature.free.fr
 reflexoptin.fr
 regis.foultier.free.fr
+regnault.free.fr
 rehm-textil.ch.tcorner.fr
 reisebilder.ch.tcorner.fr
+relais-secure.fr
 relaxvous.fr
 relib.fr
 remofliegner.com.tcorner.fr
@@ -4401,6 +4416,7 @@ support.carpediem.fr
 supporta7.fr
 suprem-print.fr
 supremacy1914.fr
+supremus.free.fr
 surcouf.fr
 surfeurdor.free.fr
 surfguide.fr
@@ -4482,7 +4498,6 @@ tiamat64.free.fr
 ticketnet.fr
 ticketone.fr
 ticketrestaurant-mailing.fr
-timeforcoaching.fr
 timelessdesign.fr
 tknoll.free.fr
 tlmvpsp.france2.fr
@@ -4699,6 +4714,7 @@ webmail.coronavirus-info.yj.fr
 weborama.fr
 websuper.fr
 webtrek.free.fr
+webworks.fr
 weedia.fr
 weegee.fr
 weexperts.fr
@@ -4712,7 +4728,6 @@ wii-flash.fr
 wiigen.fr
 wikiprojet.fr
 williamquilan.fr
-winsecurity7.fr
 winwise.nostalgie.fr
 wipstudio.fr
 witherrom55.eklablog.fr

@@ -29,8 +29,10 @@ ignacio.com.py
 incofrio.com.py
 jadema.com.py
 kidco.com.py
+laboratorioriera.com.py
 laovetense.com.py
 matrisoja.com.py
+mbmaquila.com.py
 money.piramideingenieria.com.py
 mujereshomemade.com.py
 negofin.com.py

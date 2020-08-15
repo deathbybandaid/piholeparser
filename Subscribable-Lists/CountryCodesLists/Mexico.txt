@@ -29,7 +29,6 @@ adsimg.t1msn.com.mx
 aedme.org.mx
 afq.com.mx
 agaa.mx
-aglomol.com.mx
 agronutrientes.com.mx
 aidco.com.mx
 aktem.com.mx
@@ -64,6 +63,7 @@ asinte.com.mx
 astromundo.com.mx
 ato.mx
 attitude.mx
+attt.cemi.mx
 aula.utrng.edu.mx
 ausubelinstituto.edu.mx
 automovilonline.com.mx
@@ -73,6 +73,7 @@ avaluosyasociados.com.mx
 avitec.com.mx
 ayrpro.com.mx
 azcarm.com.mx
+bajatel.mx
 balcam.com.mx
 banamex-bancanet.com.mx
 banamex-rl.com.mx
@@ -99,6 +100,7 @@ bocaditos.com.mx
 bodatips.com.mx
 botasbufalo.com.mx
 boveda-banamex.com.mx
+brinno.com.mx
 brlogistics.com.mx
 bruxu.com.mx
 bushing.com.mx
@@ -207,12 +209,14 @@ ctyd.com.mx
 cuadi.com.mx
 cuartaplana.com.mx
 culturaqueretaro.gob.mx
+cwa.mx
 cycc.com.mx
 cydisa.mx
 d84.com.mx
 daguia.com.mx
 danoi.com.mx
 dashboardgtr.com.mx
+dcoinmuebles.mx
 decoenvases.com.mx
 decoraciondeoficinas.mx
 deltaseguros.com.mx
@@ -225,7 +229,6 @@ dhisa.com.mx
 difasa.com.mx
 difiza.com.mx
 digitalcontent.mx
-dinero-rapido.com.mx
 diosdelared.com.mx
 disdain.archa.mx
 disfrazplanet.com.mx
@@ -233,6 +236,7 @@ divinite.mx
 dns1.alestra.net.mx
 dns2.alestra.net.mx
 dns3.alestra.net.mx
+docs.tnk.mx
 document.myvault.com.mx
 dosismedia.com.mx
 dpcinema.mx
@@ -240,6 +244,7 @@ drop.viewer.crearome.com.mx
 dsl-201-133-65-17.prod-infinitum.com.mx
 dsmconsulting.com.mx
 e-tender.com.mx
+earthnet.mx
 ebay.thorsman.mx
 ecobebe.com.mx
 edomex.portalesvip.com.mx
@@ -284,6 +289,7 @@ fiduciariobajio.com.mx
 fiestaquince.mx
 firmajuridica.com.mx
 firmeza.mx
+floresconsultores.com.mx
 follajesyflores.mx
 fonart.com.mx
 fordzapataseminuevos.com.mx
@@ -351,8 +357,10 @@ hotelmaya.mx
 hotwords.com.mx
 hrconsultores.com.mx
 hroperations.com.mx
+htlps-wwv.bancodebogota.com.co.batterycity.mx
 htocatlan.gob.mx
 humantechnology.mx
+hwork.com.mx
 i-m.mx
 ideascomunitarias.org.mx
 idegeo.centrogeo.org.mx
@@ -370,7 +378,6 @@ inicio.com.mx
 inmobiliarialevita.inmobiliarialevita.com.mx
 innovationhackers.com.mx
 instagram.almenu.mx
-intefin.mx
 inteled.com.mx
 interlamparas.com.mx
 intranet.utrng.edu.mx
@@ -380,6 +387,7 @@ ito.mx
 iusacell-movil.com.mx
 jetsi.com.mx
 jimaja.com.mx
+jimenezabogados.mx
 jlsvhuatabampo.com.mx
 jrgm.com.mx
 jude.mx
@@ -425,13 +433,16 @@ lifmexico.com.mx
 ligapremier-fmf.mx
 limpiezamecanizada.com.mx
 lish.com.mx
+litrodeluz.com.mx
 littlefriends.com.mx
 login.live.com.login.srf1.21.212.448gddfbsndhq.7910587.contact-support.com.mx
+logisafe.com.mx
 lomaalta.com.mx
 lomeliasesores.com.mx
 loscaboscoastkeeper.org.mx
 lotenal.gob.mx
 loz.mx
+lucamax.com.mx
 lugocel.com.mx
 m3mip.com.mx
 madcmx.mx
@@ -481,11 +492,13 @@ mundicasa.mx
 mypresszone.com.mx
 myrc.com.mx
 nem.edu.mx
+neoredes.com.mx
 netpub.com.mx
 newservicegold.com.mx
 nominas.utrng.edu.mx
 noticias.canal22.org.mx
 nouveau.edu.mx
+nouvellemessagerie.webnode.mx
 novacardio.com.mx
 novaideas.com.mx
 novasensor.com.mx
@@ -554,6 +567,7 @@ provisa.com.mx
 psepro.com.mx
 publicidad.eluniversal.com.mx
 pueblastars.mx
+puebloamigo.com.mx
 punset.com.mx
 puntoyoga.com.mx
 qyq.com.mx
@@ -568,6 +582,7 @@ rocafarm.com.mx
 rodolfotorres.com.mx
 roken.com.mx
 roommie.com.mx
+rosa-pastel.com.mx
 rosamaria.com.mx
 rouss.com.mx
 ruiland.com.mx
@@ -634,6 +649,7 @@ taxlegal.mx
 teasi.mx
 tecglobal.com.mx
 techihuahua.org.mx
+technest.mx
 technolead.mx
 tecnicoadomicilio.com.mx
 tecnoalarmas.mx

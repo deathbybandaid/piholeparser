@@ -43,6 +43,7 @@ bikinishop.lt
 bioanalysis.lt
 blusyne.lt
 bnc.lt
+boxinn.lt
 brabra.lt
 bvn.lt
 cache.ads.kartu.lt
@@ -156,6 +157,7 @@ noriukaledu.lt
 orakulas.lt
 ox.pigu.lt
 parkogalerija.lt
+pci.lt
 photomatch100.96.lt
 piola.lt
 pirkis.lt
@@ -168,6 +170,7 @@ raganosbrigitosdvarelis.lt
 re-activation.96.lt
 realpro.lt
 reklama.ve.lt
+remtesta.lt
 respublikosvertybes.lt
 rinkimai.lt
 roksala.lt
@@ -198,6 +201,7 @@ stalofutbolas.lt
 static.adclick.lt
 super.lt
 sveikata-jums.lt
+swat.lt
 synlab.lt
 t.delfi.lt
 tarpgeliu.lt

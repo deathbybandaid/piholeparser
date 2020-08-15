@@ -50,6 +50,7 @@ ddl.bz
 deal.bz
 dld.bz
 dns.bz
+dok.bz
 dpenedi.bz
 drweb.bz
 dvaxheti.bz

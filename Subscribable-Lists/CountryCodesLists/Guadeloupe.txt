@@ -2,3 +2,4 @@
 gear.gp
 hsbc.ma.gp
 sadipro.gp
+seafood.sa.gp

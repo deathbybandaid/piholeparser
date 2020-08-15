@@ -58,6 +58,7 @@ human.tru.ac.th
 hydro-tek.co.th
 hygienic.co.th
 ie.kbu.ac.th
+immchonburi.go.th
 industrialonline.in.th
 innogineering.co.th
 intactcorp.co.th
@@ -83,6 +84,7 @@ kstm.or.th
 labstory.in.th
 learn.vru.ac.th
 leogroup.co.th
+library.bsru.ac.th
 lmc.co.th
 ln.ac.th
 locean.co.th
@@ -120,6 +122,7 @@ phatthalung.go.th
 phayamengrai.chiangrai.doae.go.th
 phitsanulok1.go.th
 playboy.co.th
+polybond.co.th
 powerbee.co.th
 prmsd.msdbangkok.go.th
 province2.moi.go.th
@@ -173,6 +176,7 @@ tsnwires.co.th
 turner.co.th
 unilife.co.th
 urban-farming.co.th
+uss.ac.th
 vispac.co.th
 webkc.dede.go.th
 welltechgroup.co.th

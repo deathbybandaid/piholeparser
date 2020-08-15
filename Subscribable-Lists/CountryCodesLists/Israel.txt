@@ -100,6 +100,7 @@ computershop.co.il
 coral-tell.co.il
 corsage.co.il
 crazyshop.co.il
+cryobank-israel.co.il
 cyborg.co.il
 date.co.il
 dating.atraf.co.il
@@ -264,6 +265,7 @@ misradia.co.il
 mitos.co.il
 moav.co.il
 momy.co.il
+moraniz.co.il
 mosesrest.co.il
 mushi.co.il
 mybait.co.il
@@ -283,6 +285,7 @@ newbs.hutz.co.il
 newlook.co.il
 nightpeople.co.il
 nitzanhr.co.il
+nlpmasters.co.il
 north.co.il
 nrads.1host.co.il
 nuli-toys.co.il
@@ -304,6 +307,7 @@ partyclub.co.il
 pcdepot.co.il
 pcmd.co.il
 peep4free.co.il
+pellesbar.co.il
 perfect-print.co.il
 pestcontrol.co.il
 photoman.co.il
@@ -383,6 +387,7 @@ talamos.co.il
 tamarsgallery.co.il
 tami4.co.il
 tantra.co.il
+tapper.co.il
 tdo.co.il
 tech4less.co.il
 televoice.co.il

@@ -21,6 +21,7 @@ diad.ge
 doc.drawbrid.ge
 drawbrid.ge
 ebay.listing.seller.smudge360.motor.programs.hostcom.ge
+eholding.ge
 facebook.com.txelidze.ge
 facebook.infoit.ge
 facebook.nac.ge
@@ -94,6 +95,7 @@ tkgroup.ge
 ugma.ge
 unig.ge
 videoimage.ge
+western.ge
 www.drawbrid.ge
 www2.drawbrid.ge
 yoo.ge

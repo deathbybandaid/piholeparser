@@ -77,6 +77,7 @@ burdastyle.pt
 bvvagos.pt
 caferaclete.pt
 caixipor.pt
+cajocalf.pt
 calibaca.pt
 camisolaamarela.pt
 cantinhodagi.pt
@@ -175,6 +176,7 @@ livdecor.pt
 lojaonline.eurobar.pt
 lubrinor.pt
 lusosteel.pt
+lxway.pt
 mainlis.pt
 mapas.hoonicorns.pt
 marktest.pt
@@ -203,6 +205,7 @@ movieads.imgs.sapo.pt
 movielight.pt
 mpestudios.pt
 mrecontabilidade.pt
+mrmotos.pt
 mrporno.pt
 mundimarket.pt
 mx.nextpage.pt
@@ -273,6 +276,7 @@ shalom.pt
 sitesparastands.pt
 skift.pt
 skiftmedia.pt
+smartpos.pt
 sne.pt
 sobral-fonseca.pt
 sofialopes.pt

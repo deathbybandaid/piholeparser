@@ -1,5 +1,6 @@
 ackrivak.hr
 ad.rtl.hr
+agro-shop.hr
 alfacar.hr
 alpha.hanich.hr
 amalgam.hr
@@ -11,6 +12,7 @@ damara.hr
 dating.hr
 dbmkfhqk.bloger.index.hr
 dexter.monitor.hr
+dkb-banking-de.hea.hr
 domin-plin.hr
 donna.com.hr
 ds-recommender.styria.hr
@@ -32,6 +34,7 @@ industrial-elements.hr
 inmark.hr
 josipdol.hr
 karuseltisak.hr
+kkumag.hr
 klik.hr
 kndxbkdx.bloger.index.hr
 kolekt.hr
@@ -58,10 +61,12 @@ plinvtc.hr
 podrska.com.hr
 prijevoz.com.hr
 priroda-za-vas.com.hr
+prom.com.hr
 pskcijdc.bloger.index.hr
 pubweb.carnet.hr
 qcstrtvt.bloger.index.hr
 rajanpromet.hr
+rem-b.hr
 rfd-split.hr
 runtic.com.hr
 savjetodavna.hr
@@ -84,6 +89,7 @@ urccvfmc.bloger.index.hr
 usaa.com-inet-truememberent-iscaddetour-home-savings.horvat-htz.hr
 usaa.com-inet-truememberent-iscaddetour.horvat-htz.hr
 veronadue.com.hr
+villa-vilina.hr
 vita.com.hr
 www.big-game-fishing-croatia.hr
 www.klik.hr

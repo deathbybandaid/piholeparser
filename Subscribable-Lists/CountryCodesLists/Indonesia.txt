@@ -12,6 +12,7 @@ aarm-tniad.mil.id
 ab.kaskus.co.id
 abonikantunacoid.masterweb.id
 abriakid.co.id
+absepstssrvcpgs01.my.id
 acc-notification--pages.my.id
 acc-notification-security.my.id
 acc-recovery-support-live.my.id
@@ -32,12 +33,18 @@ adsrv.adplus.co.id
 adstars.co.id
 adv-repair-2020.my.id
 advanced-enable-page-certificated-2020.my.id
+advanced-enable-pages-authorized-2020.my.id
+advanced-enable-repair-pages.my.id
+advanced-pages-certificated-valid-2020.my.id
+advanced-publish-pages-certificated-a2020.my.id
+advanced-publish-pages-certificated-us2020.my.id
 adventkjkt.or.id
 aerocom.co.id
 afrikocell.co.id
 agenkoranku.id
 ageungpro.id
 agoengwibowo.co.id
+agora.id
 agorabuildingmaterials.co.id
 agribisnis.fp.uns.ac.id
 agungac.co.id
@@ -91,6 +98,7 @@ apotikmalabo.co.id
 app-suport-pages-society-depart-2020.my.id
 app-support-pages-2020.my.id
 app-support-pages-departs-2020.my.id
+app.fcgwxsadsscrtyhlp.my.id
 app.managerpage-help.my.id
 app.securepages-help.my.id
 app.securepagessite2020.my.id
@@ -101,10 +109,13 @@ apple.com-support103218.awscenter.my.id
 apple.com.br-my.id
 applebox.co.id
 appleid.apple.com-logins.id
+appleid.apple.com.signin.web.id
 appreciativeenemy.my.id
+appreqadsfbadsrws10.my.id
 apps-unblocking.my.id
 apps.admiral.co.id
 apps.confirmation-official-account.my.id
+aquahlppge01recvrcnfrm01.my.id
 aracika.id
 archicon.co.id
 architecture.pps.unud.ac.id
@@ -164,6 +175,7 @@ bankandara.co.id
 bankmaluku.co.id
 bankofamerica.justusianet.id
 banualawas.tabalongkab.go.id
+banyankoalindolestari.co.id
 bappeda.dharmasrayakab.go.id
 bappeda.palangkaraya.go.id
 bappelitbang.tanggamus.go.id
@@ -182,6 +194,8 @@ bcol.barclaycard.co.uk.ecom.as2.initiallogon.do.x.49.y.35tc.qxbca23302.y.35tc.qx
 beardtaichan.id
 beaushop.id
 beautyandkitchen.id
+bekape.co.id
+bekasiblpagsecadsfbsdef01.my.id
 belajar.prosper.web.id
 belajarhipnotis.id
 belanjabarangbandung.co.id
@@ -210,6 +224,8 @@ bkd.penajamkab.go.id
 bkpp.kalbarprov.go.id
 blangcut.id
 blck66rmh001.my.id
+blck999rmh01.my.id
+blerrorverivadsactrp1.my.id
 blh.lamandaukab.go.id
 blockchain.com-token.id
 bogamakmurgracia.co.id
@@ -238,9 +254,12 @@ bpmpkb.padang.go.id
 bprkoperindojaya.id
 bptpm.sragenkab.go.id
 brandingcity.co.id
+brfbadesecrsaverdscladdsph.my.id
+brfbadssecrsavrdskl.my.id
 brigifraider9-tniad.mil.id
 btik.web.id
 btsa.co.id
+bukatrip.id
 bukhari.or.id
 bukusunnah.id
 bung-alkaf.id
@@ -288,13 +307,13 @@ cibconlineuser.hiseru.id
 cibinong-gunungsindur.desa.id
 cincinpermata.co.id
 ciptakarya.pu.go.id
+ciputats2curepgshjsads.my.id
 citraclean.co.id
 citrasemarang.id
 claimiventincu.guied7.my.id
 clidevteam.id
 cnfirm32page1.my.id
 collaborate.att.corp.com-iinternal.ptt.co.id
-com-find-my.page-signin.id
 com-mygrub23.xvip.my.id
 comp-pay-tebakow.my.id
 confirm4ti1on-pa6es.my.id
@@ -307,6 +326,7 @@ covermobil.web.id
 cpanel.grupxx18.guied7.my.id
 cpanel.kiosgamer.guied7.my.id
 cpanel.unipinfreefire.guied7.my.id
+crm.safetymember.co.id
 css.pasangkacafilm.co.id
 ctsl.untirta.ac.id
 cugcorporate.id
@@ -365,6 +385,7 @@ dkb-banking-de.ft.ummetro.ac.id
 dkb-banking-de.jabra.id
 dkwm.suwan.co.id
 docsign.libra.id
+dofus.id
 domisothi.id
 downloadlagu.or.id
 dpparki.or.id
@@ -410,12 +431,14 @@ farizhamdan.web.id
 faschooler.id
 fatmajaya.co.id
 fauzi-babud.co.id
+fcgwxsadsscrtyhlps0.my.id
 feb.untirta.ac.id
 fecebook-support-inbox.confirmation-official-account.my.id
 fecebook-support-inbox.my.id
 fenika.id
 fiestaparfume.id
 finalopsion.id
+fitfut.id
 fitraborneo.biz.id
 fkip.unrika.ac.id
 fkip.untirta.ac.id
@@ -452,6 +475,7 @@ gojexcoffee.id
 golokadejuanda.co.id
 grahapacific.co.id
 grasi903drive43.my.id
+grasi99drive01.my.id
 greencoco.id
 greenwallpaper.co.id
 gresik.ldii.or.id
@@ -484,6 +508,7 @@ gsm.biz.id
 gstnfbcsadser.my.id
 gunjaycell.co.id
 gunungsari.co.id
+gvnalftadspgsacc.my.id
 hakimmie.co.id
 halal-lifestyle.co.id
 handayani.co.id
@@ -497,6 +522,7 @@ help-advanced-enable-pages-2020.my.id
 help-recovery-pages.my.id
 help.padipos.id
 helppages2020.my.id
+helpsaktifiity.my.id
 herdaviking.id
 herros-suplindo.co.id
 herulambang.id
@@ -509,6 +535,7 @@ himatif.pelitabangsa.ac.id
 hit-log.viva.co.id
 hjtriryotrirtuejdfjerywr7347347347347.internal-social-advanced.my.id
 hkb.co.id
+hlppge01rcvrbsns01.my.id
 hmja.undip.ac.id
 hmpip.or.id
 hmtk.ump.ac.id
@@ -523,6 +550,7 @@ iais.ac.id
 iam-creative.co.id
 ibnuchairul.co.id
 icasset.id
+icloud.com-find-my.page-signin.id
 icloud.com-findmy-location.id
 icloud.com.find-iphone.id
 icloud.com.signin.web.id
@@ -533,6 +561,7 @@ id912312313.login.authorities.xtra.co.nz.coster.id
 idcop.id
 iddc.co.id
 identitypages0420.my.id
+idhlpsrvcbsns01.my.id
 ie.feb.unri.ac.id
 ijmamurtika.id
 ijsc.co.id
@@ -556,9 +585,11 @@ indotamaconsulting.co.id
 indta.co.id
 industrid3.nusch.id
 inforeprtpages2020.my.id
+infos3cfbadsacc.my.id
 insanmadani.sch.id
 insight.props.id
 inspiran.co.id
+instagram.officials.email.mulyatitety.my.id
 instalasilistrik.co.id
 instink.smkmfsudimoro.sch.id
 interac.online1.verified.deposit-funds-canada.jaimorishop.id
@@ -606,6 +637,7 @@ joingrupwhatsap9.viyyy.my.id
 joingrupwhatsapp.new9.my.id
 joingrupwhatsapp54.waatsapp.my.id
 joinpas.id
+journal.fs.uinib.ac.id
 journal.noesa.co.id
 journal.p-adri.or.id
 jpmchaseonlinesecurity.sdn2perumnaswayhalim.sch.id
@@ -679,12 +711,14 @@ kontolmemek.new9.my.id
 konveksipromosi.co.id
 koperasinelayanpintar.id
 koranpeduli.co.id
+kotakwarna.co.id
 kotaprabumulih.go.id
 kpi.pps.uinsgd.ac.id
 kprsyariahkita.co.id
 kpu-jogjakota.go.id
 kresnak.kresnakunid.masterweb.id
 kresnakunid.masterweb.id
+krnhlppgemca01.my.id
 ksdasulsel.id
 kudewe.belihosting.co.id
 kulkultourandtravel.co.id
@@ -739,6 +773,7 @@ malwarestore.id
 mamacatering.biz.id
 mamatiencoid.masterweb.id
 mamujutengahkab.go.id
+man1bantul.sch.id
 man2jakarta.sch.id
 manage.mitrakreasi.co.id
 mandiriiiicellid.masterweb.id
@@ -779,6 +814,8 @@ meunasahkrueng.id
 meunasahmee.id
 meunasahmesjid.desa.id
 meunasahteungeh.id
+mikisrvcpgehlpbsns01.cvbpgeorghlp01.my.id
+mikisrvcpgehlpbsns01.my.id
 mimapandansari.sch.id
 minospesial.id
 miringintumpang.sch.id
@@ -803,7 +840,7 @@ muscatya.id
 mutual-resources.co.id
 myaccess.co.id
 myfunbizz.co.id
-myhms.id
+mykohlppge01rcvr01.my.id
 nabila.co.id
 nagari.or.id
 namsatu.id
@@ -850,6 +887,7 @@ omahyangti.co.id
 online.tesco.creditcardaccounts.co.ukonlinebanking.multimediasmkalhudakdr.id
 ookatthat.tokofawaid.co.id
 opac.fteol-ukit.ac.id
+opkali01recvrpge01.my.id
 optikhani.co.id
 orig.aktuaris.or.id
 otojack.co.id
@@ -876,6 +914,7 @@ parameswari.co.id
 partiicipatioonadmin.my.id
 pasarseluler.co.id
 pascasarjana.uniba-bpn.ac.id
+paseokhlp01srvcpge01.my.id
 pauditgerbang.sch.id
 paypal-account.my.id
 paypal-comarcent-virification-id-loca.soa2016.adythree.web.id
@@ -889,6 +928,7 @@ pci-sepuluh.id
 pcmsumberrejo.or.id
 pdri.or.id
 pearland.co.id
+pegesbldsbleadscfrm.my.id
 pemerintahan.ub.ac.id
 pemoeda.co.id
 pena-indonesia.id
@@ -896,13 +936,16 @@ pending-secure-account-inc.hematech.co.id
 peralatanandroid.id
 perfect.dc.unify.id
 perpustakaan.deliserdangkab.go.id
+persediaan.jogjaprov.go.id
 pesen.co.id
 pesonaalamtimur.id
 pesonamas.co.id
 petanirumahan.id
 peterfilesblog.blogspot.co.id
 petroindonesia.co.id
+pge01hlpsrvc01.my.id
 pge01sec001.biz.id
+pgsabsepstssrvc01.my.id
 pigtailsroundass.blogspot.co.id
 pigtailsroundasses.blogspot.co.id
 pionirbooks.co.id
@@ -927,6 +970,8 @@ pornographo.blogspot.it.blogspot.co.id
 pornographo.blogspot.it.br.blogspot.co.id
 pornopoly.blogspot.co.id
 pornvtope.blogspot.co.id
+portal.lomboktimurkab.go.id
+portale.titolari.logi.privati.poste.clienti.kanmolifestyle.co.id
 portale.titolari.poste.it.info.clienti.ye66349393.shophavaianas.co.id
 powerelektrik.co.id
 ppid.posokab.go.id
@@ -939,6 +984,8 @@ prestigecloth.co.id
 priivacy-recovery-identiity-society-securr.my.id
 princebakery.id
 priv-code.co.id
+priv0001hlppgesrvc01.my.id
+privacy-recovery-identiity-sociiety-secuur.my.id
 privacy-recovery-identity-sociiety-secur.my.id
 prodisosiologi.fisip.ulm.ac.id
 progotemanggungrivertubing.co.id
@@ -990,6 +1037,7 @@ recoveryhelps-page.my.id
 recoverypage-help.my.id
 recoverypages2020.my.id
 rekbersakukita.co.id
+relawan.ayobergerak.id
 rellorifla.co.id
 renatacoid.masterweb.id
 rental-kompresor.web.id
@@ -1092,6 +1140,7 @@ sevenvoldi.id
 sewamainananak.co.id
 sexyporngirls.blogspot.co.id
 sfetybsiness-page.my.id
+sftypg001hlp01.my.id
 sgx3.cloudhost.id
 share31.co.id
 sharianewsinstitute.co.id
@@ -1116,6 +1165,7 @@ skbinventory.web.id
 skeyndor.id
 skeyndorindonesia.id
 skripsi.co.id
+slanikwaterpark.co.id
 slbtunaskasih-sedayu.sch.id
 sma.sekolah-kesatuan.sch.id
 sma2pangkep.sch.id
@@ -1224,6 +1274,7 @@ stematelvideo.id
 stie-sbi.ac.id
 stikeshangtuahsby-library.ac.id
 stkipadzkia.ac.id
+stmpge01rcvr01.my.id
 stocklab.id
 store.erzet17.my.id
 stptrisakti.ac.id
@@ -1269,6 +1320,7 @@ teachingfactory.smk10smg.sch.id
 tekindustri.upnjatim.ac.id
 teknik.univpancasila.ac.id
 teknikjaya.co.id
+teknosmart.co.id
 teumpeun.id
 thamarbengkel.co.id
 thebadui.co.id
@@ -1303,9 +1355,11 @@ toyotajtb.id
 tpkklahat.id
 tracker.beritagar.id
 trimanunggalsolusindo.co.id
+trisigma.co.id
 tritunggaladikarya.co.id
 tsuzuki.co.id
 tugas2.syauqi.web.id
+turturtutrutuh5764363464354363463634634634643643643634643.notification-pages-advanced-2020.my.id
 ubs.com.ypc.or.id
 ucac.usm.ac.id
 ud-alayubi.co.id
@@ -1329,6 +1383,7 @@ valid.tokofitri.co.id
 vetrous-maju.co.id
 vibetronic.id
 viletikanjpsaputra.id
+vitslices01.my.id
 vokasi.undip.ac.id
 wallacea.or.id
 warkopbundu.id
@@ -1336,6 +1391,7 @@ warungmakanbulikin.id
 warunknasakita.co.id
 webaccess.co.id
 webartikelbaru.web.id
+weducate.paramadina.ac.id
 welkguessqata.myrating.id
 wellsfargo.widowati.staff.unja.ac.id
 whatsapku.new9.my.id
@@ -1350,6 +1406,7 @@ windicatering.co.id
 wingkosoerobojo.co.id
 wiprint.co.id
 wisataweekend.co.id
+work01fb01.my.id
 wotbatu.id
 wwbali.co.id
 www.diskominfo.asahankab.go.id
