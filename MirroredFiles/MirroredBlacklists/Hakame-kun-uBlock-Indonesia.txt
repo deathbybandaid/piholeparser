@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 17 June 2020, 10:40:46 WIB
+! Last modified: 15 August 2020, 19:27:10 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -1056,14 +1056,21 @@ closetopic.site##.idblog-social-share
 closetopic.site##.posted-on
 coin.mg##.box-main > center
 coingecko.com##.ad-spacer
+coingecko.com##.btn-promotion
 coingecko.com##.list-reset:nth-of-type(1)
+coingecko.com##.mb-4.mt-4
 coingecko.com##.sponsored
+coingecko.com##.text-secondary:nth-of-type(1)
+coingecko.com##.top-header
+coingecko.com##.topfooter
+coinmarketcap.com##.cmc-sidebar-ad
 cointiply.com##.fl-ad-left
 cu5.io##.col-md-8
 cu5.io##.faq
 cu5.io##.link > .container > .row > .text-center.col-md-12
 cu5.io##.short
 cryptofxflash.com##.banner-inner
+dashboard.honeygain.com##.gpZnYi
 downloadbatch.com##.idblog-topbanner-aftermenu
 dutchycorp.ovh##.row > center:nth-of-type(1)
 eterbase.exchange##.app-footer
@@ -1116,6 +1123,7 @@ manhwa-manga5.bid##.ai_widget
 manhwa-manga5.bid##.widget_text
 mawataki.com##.kill-adblock-hide
 mawataki.com##.mh-wrapper
+mediafire.com##.appPromo
 mediafire.com##.on.lightbox
 miningpoolstats.stream##.btn-default
 miningpoolstats.stream##.navbar
@@ -1149,10 +1157,12 @@ pornhub.com##.abovePlayer
 pornhub.com##.ad-link
 pornhub.com##.premiumPromoBannerWrapper
 pornhub.com##.removeAdsStyle
+pornhub.com##.sniperModeEngaged
 pornhubpremium.com##.bottomNotification
 pornhubpremium.com##.sectionCarousel.sectionWrapper
 premierexxi.*##.wpb-outer-wrap
 reevown.com##.adsbygoogle
+samehadaku.vip##.ads_area
 samehadaku.vip##.kwbos
 samehadaku.vip##.pencenter
 senimovie.co##.header-top-banner
@@ -1257,6 +1267,7 @@ closetopic.site###masthead
 coin.mg###link-view > div:nth-of-type(2)
 coin.mg###link-view > div:nth-of-type(4)
 coingecko.com###top-banner
+coinmarketcap.com###header-banner-wrapper
 cryptobite.site,faucethero.com,grabmylink.xyz,topbtc.club###captcha-adspace
 cryptobite.site,faucethero.com,grabmylink.xyz,topbtc.club###middle-adspace
 cryptofxflash.com###tamvan1
@@ -1306,4 +1317,5 @@ wadooo.com###header
 wadooo.com###footer
 webtoons.com###footer
 youtube.com###masthead-ad
+youtube.com###YtKevlarVisibilityIdentifier
 zippyshare.com###qrCode
