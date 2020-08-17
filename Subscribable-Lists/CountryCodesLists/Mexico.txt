@@ -48,6 +48,7 @@ amv.org.mx
 andes.org.mx
 andresjorge.com.mx
 angelsscort.com.mx
+ap45.hetznir.ventanasyaluminios.com.mx
 apikids.com.mx
 apimanzanillo.com.mx
 apple-soporte.mx
@@ -344,6 +345,7 @@ hedimesa.com.mx
 hemolab.com.mx
 herralum.com.mx
 heslimpieza.com.mx
+hetznir.ventanasyaluminios.com.mx
 hidalgoenlared.com.mx
 hisense.com.mx
 hispanopolis.mx
@@ -691,6 +693,7 @@ usaa.security.entlogon.davidquintalb.com.mx
 uvimex.com.mx
 valor.com.mx
 vazquezcontratistas.com.mx
+ventanasyaluminios.com.mx
 ventasverdevalle.com.mx
 verac.com.mx
 verification-impots.gzero.com.mx

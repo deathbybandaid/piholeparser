@@ -214,6 +214,7 @@ antivirus-covid19.site
 aoredi.com
 ap-ms.net
 ap-sonar.sociomantic.com
+ap45.hetznir.ventanasyaluminios.com.mx
 api-resource.youzicheng.net
 api-rssocks.youzicheng.net
 api.ad.intl.xiaomi.com
@@ -874,6 +875,7 @@ hb.brainlyads.com
 hbbtv.mediaset.net
 hdnewporn.com
 heixbai.com
+hetznir.ventanasyaluminios.com.mx
 hexagram.rtk.io
 hg76ytsdas.appspot.com
 hitboom.net
@@ -2289,6 +2291,7 @@ vamsoupowoa.com
 vdterms.samsungcloudsolution.com
 vdtrack.com
 veidlqdwstqpgrmbs.eu
+ventanasyaluminios.com.mx
 verywellfitnesse.com
 vhguyeu.ml
 videoplayer.vice.technology
