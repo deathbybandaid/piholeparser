@@ -93,6 +93,7 @@ et-transfer-lnterac-confirmation.periscopeandsights.com.ng
 everlastingcare.com.ng
 evesedge.com.ng
 expoking.com.ng
+facebok.com.ng
 facebook-clone-csc-17.gedev.com.ng
 facebook.com.extraok.com.ng
 facebookverifylogin.kashi.com.ng
@@ -206,13 +207,14 @@ probitybooks.com.ng
 procurement.uniabuja.edu.ng
 progitaltech.com.ng
 prognari.com.ng
+projectdatas.com.ng
 propertyhub.ng
 propertymatters.com.ng
 reator.cashtrading.com.ng
 recoverypaypal.com.ng
 remax.ng
 remoiksms.com.ng
-reviewtechdata.projectdatas.com.ng
+repair.client-configuration.uniabuja.edu.ng
 rt67.fed.ng
 salimer.com.ng
 sapphireinformation.com.ng
@@ -253,6 +255,7 @@ vitaworld.ng
 warriconnect.com.ng
 webdisk.eazybiz.ng
 webmail-msn-live1.com.ng
+webmail93949840839.com.ng
 weepnomoretv.com.ng
 wellspringuni.edu.ng
 wemail-hotmail-1.com.ng

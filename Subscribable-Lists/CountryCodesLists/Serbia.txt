@@ -42,6 +42,7 @@ efsbg.yunethosting.rs
 elsa.org.rs
 entercar.rs
 enterstudio.rs
+euroguma.rs
 faktor.rs
 fastfoodgozo.rs
 fishin.rs
@@ -58,7 +59,6 @@ importex.rs
 instruktor-voznje.rs
 jevticnekretnine.rs
 jpgastemerin.rs
-kmgroup.rs
 knjigovodstvosip.rs
 kompresoralati.rs
 kooperativa-studio.rs
@@ -66,7 +66,6 @@ krf-grcka.rs
 krizasrednjihgodina.in.rs
 kucnitrener.rs
 kupijeftino.rs
-lagershop.rs
 laserprofessional.rs
 livingston.rs
 livnicaplamen.co.rs
@@ -114,7 +113,6 @@ stavros.co.rs
 stek.rs
 storgas.co.rs
 stranijezici.edu.rs
-szrsofa.rs
 tehnopan.rs
 teorija.rs
 testing.in.rs

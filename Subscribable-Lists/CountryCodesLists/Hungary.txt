@@ -219,7 +219,6 @@ eveangel.hu
 experi-ment.hu
 expressz.hu
 extracemkft.hu
-ezerangyal.hu
 eztalmodtam.hu
 fagyongystudio.hu
 fdev.hu
@@ -402,6 +401,7 @@ mkkm.hu
 mlweb.dmlab.hu
 mobilborbar.hu
 modernotthon.hu
+moncsipirograf.hu
 motowell-robogo.hu
 multimix.hu
 munkanelkulisegetkezeloalapitvany.hu
@@ -419,6 +419,7 @@ neovo.hu
 netdepo.hu
 netextra.hu
 netpark.hu
+new.deliklinika.hu
 newad.rallywood.hu
 nlcafe.hu
 nomad-art.hu
@@ -522,7 +523,6 @@ siigkorp.pe.hu
 simonecav.pe.hu
 skank-haze.pe.hu
 skiing.hu
-sntech.hu
 somfai.uw.hu
 sorata.iweb.hu
 sorbancsaba.hu
@@ -601,7 +601,6 @@ tulikastyle.hu
 turautak.hu
 tutikutyu.hu
 twintours.hu
-uce.hu
 ujvilagtudat.blogspot.hu
 united2016king.pe.hu
 uraltrak.hu

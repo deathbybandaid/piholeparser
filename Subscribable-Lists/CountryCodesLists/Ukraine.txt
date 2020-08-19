@@ -644,6 +644,7 @@ eddoctor.pl.ua
 edia.net.ua
 edilot.com.ua
 edmedic.pl.ua
+edv.mebel-lux.kh.ua
 eemedic.pl.ua
 eeriopp.com.ua
 efcering.net.ua
@@ -1020,6 +1021,7 @@ hit.ua
 hk-tei.kl.com.ua
 hkxia.pp.ua
 hlotne.com.ua
+hm.dp.ua
 holder.com.ua
 homeshow.com.ua
 honestme.com.ua
@@ -2234,7 +2236,6 @@ promocoes-americanas.kl.com.ua
 promocoes-americanas.zzz.com.ua
 promocoes-americanass.kl.com.ua
 promone.com.ua
-prostomebli.kiev.ua
 prostonews.com.ua
 prozapas.dn.ua
 psihoterapiya.com.ua
@@ -2350,6 +2351,7 @@ rumbleavenue.pl.ua
 run-kiss.net.ua
 runcolor.net.ua
 rurik.at.ua
+rusov.in.ua
 rusplast.com.ua
 rutor.org.ua
 rutracker.pp.ua
@@ -2500,7 +2502,6 @@ srepli.com.ua
 ss.icloud.co.ua
 ssdoctor.pl.ua
 ssl.istore-recheckbill-idwmid46589.sslservices110mb7025646548.haga.com.ua
-sstil.pp.ua
 stage.lviv.ua
 standardupdate.com.ua
 stanislavskiy-uvelir.if.ua
@@ -2514,9 +2515,12 @@ stdoctor.pl.ua
 steamcammunitly.pp.ua
 steamcommunits.pp.ua
 steamcommunity-com.profiles-780325603260.pp.ua
+steamcommunitycomprofile.pp.ua
 steamcommunliltiy.pp.ua
+steamcommunnityi.pp.ua
 steamcomyunity.pp.ua
 steamconmumti.pp.ua
+steampowred.pp.ua
 steelfreedom.org.ua
 stiker.kl.com.ua
 stimul-m.com.ua
@@ -2720,6 +2724,7 @@ vod.com.ua
 vodoprovod.ua
 vopljo.com.ua
 voskresinnia.org.ua
+voyage.co.ua
 vremved.com.ua
 vrupasg.com.ua
 vs-auto.in.ua

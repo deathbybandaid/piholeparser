@@ -5,6 +5,7 @@ api.native.ai
 apkpure.ai
 app.ascend.ai
 ascend.ai
+birlasoft.threatcop.ai
 chatchat.ai
 cognitiv.ai
 decons.ai
@@ -15,6 +16,7 @@ end.ai
 engage.ascend.ai
 etihadtravel.id.ai
 gandariacityhotel.id.ai
+hyfix.ai
 hypercube.ai
 m2d.m2.ai
 marketscan.ai

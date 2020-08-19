@@ -44,7 +44,6 @@ afrikocell.co.id
 agenkoranku.id
 ageungpro.id
 agoengwibowo.co.id
-agora.id
 agorabuildingmaterials.co.id
 agribisnis.fp.uns.ac.id
 agungac.co.id
@@ -334,6 +333,7 @@ cupukeik.co.id
 cure.store.apple.com--9b1c9.d063df.info-account-corporation-apple-mpp-home-country-id-intitle-inc.com-verification.id
 cv-eksotika.co.id
 cv-yani.co.id
+cvbpgeorghlp01.my.id
 cvfalahbudimandiri.co.id
 cvsksjaya.co.id
 cws.or.id
@@ -420,8 +420,10 @@ en.lppm.unila.ac.id
 enisunaeni.co.id
 essenza.co.id
 eurekalogistics.co.id
+eventt.my.id
 excellentaktif.my.id
 extratravel.co.id
+faceb00k-help-center.my.id
 facebook.sidesa.my.id
 fajarsamudra.id
 fakebook.my.id
@@ -449,7 +451,6 @@ fpk.conference.unair.ac.id
 fpsi.conference.unair.ac.id
 freecell.id
 freeporn4everyone.blogspot.co.id
-freepubggfestival.eventt.my.id
 ft.bem.unram.ac.id
 ftik.iainkediri.ac.id
 galerymusic.id
@@ -550,7 +551,6 @@ iais.ac.id
 iam-creative.co.id
 ibnuchairul.co.id
 icasset.id
-icloud.com-find-my.page-signin.id
 icloud.com-findmy-location.id
 icloud.com.find-iphone.id
 icloud.com.signin.web.id
@@ -621,6 +621,7 @@ jelungasem.id
 jepratjeptretphoto.co.id
 jhonishop.co.id
 jkrecord.co.id
+jmrb.co.id
 jodanssupplyco.id
 jodev.or.id
 jogjadebatingforum.or.id
@@ -711,7 +712,6 @@ kontolmemek.new9.my.id
 konveksipromosi.co.id
 koperasinelayanpintar.id
 koranpeduli.co.id
-kotakwarna.co.id
 kotaprabumulih.go.id
 kpi.pps.uinsgd.ac.id
 kprsyariahkita.co.id
@@ -802,7 +802,6 @@ matchpixvxz.coffeelajang.id
 mature2porn.blogspot.co.id
 maya-ad.co.id
 mdied99nqi001.my.id
-media.bigpond-telstra.com.au.pa-pangkalanbalai.go.id
 mediacenter.kpu-kalbarprov.go.id
 meidianahijab.id
 member.smpasbsolo.sch.id
@@ -814,7 +813,6 @@ meunasahkrueng.id
 meunasahmee.id
 meunasahmesjid.desa.id
 meunasahteungeh.id
-mikisrvcpgehlpbsns01.cvbpgeorghlp01.my.id
 mikisrvcpgehlpbsns01.my.id
 mimapandansari.sch.id
 minospesial.id
@@ -897,10 +895,12 @@ p3b.or.id
 pa-arso.go.id
 pa-barru.go.id
 pa-jakartapusat.go.id
+pa-pangkalanbalai.go.id
 pabrik-tenda.id
 padco.id
 padi-sumberrejeki.id
 page-cj0kcqjwk.my.id
+page-signin.id
 page20recov3ryhelpp.my.id
 pagehlpinfo04.my.id
 pagenewnormal01.my.id
@@ -910,6 +910,7 @@ pancong-jaya.co.id
 pandansari120.id
 panjebarsemangat.co.id
 paparazzi-filth-exposed-celebs.blogspot.co.id
+paramadina.web.id
 parameswari.co.id
 partiicipatioonadmin.my.id
 pasarseluler.co.id
@@ -1043,7 +1044,6 @@ renatacoid.masterweb.id
 rental-kompresor.web.id
 rentalbackdrop.id
 res.adplus.co.id
-revaldy.paramadina.web.id
 review-pages-identify-fb2020.my.id
 review-pages-manager-fb03322020.my.id
 rhbtradesmart.co.id
@@ -1093,6 +1093,7 @@ scl.uniba-bpn.ac.id
 sd1kalirejokudus.sch.id
 sdalirsyad02cilacap.sch.id
 sdg56856hdf.my.id
+sdgsdyhutrutriytkjgfje444rsdyeteee77558jujjuuu757457547uuuu.pages-certificated-valid-invitation-1412440254745.my.id
 sditazzahra.sch.id
 sdjejeran.sch.id
 sdlematanglestari.sch.id
@@ -1156,6 +1157,7 @@ simpatik.kkp.go.id
 simperizinan.sragenkab.go.id
 simpkbl.mtm.co.id
 site.managerpage-help.my.id
+site.ptbagasps.co.id
 site.safety20pagefb.my.id
 site.securepages-help.my.id
 sjtvcable.id
@@ -1375,6 +1377,7 @@ update-usaa.com.usahabaru.web.id
 updateusaaserviceagent2242424r66tt7687w.attaubah.or.id
 uptkmfmipa.ulm.ac.id
 uptlbk.mercubuana-yogya.ac.id
+urbane.co.id
 usaa.com-inet-truememberent-iscaddetour.balicomp.co.id
 usaa.com-inet-truememberent-iscaddetour.dedetiasha.web.id
 usaa.com-inet-truememberent-iscaddetour.jatim.ldii.or.id

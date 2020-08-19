@@ -36,6 +36,7 @@ aem6.ir
 afarin100afarin.ir
 agahi.ir
 aghloeshgh.ir
+ahmadmashayekhi.ir
 ainor.ir
 akhtartoos.ir
 albarid.ir
@@ -70,7 +71,6 @@ aria-asp.ir
 arianbco.ir
 armalight.ir
 armantrading.co.ir
-artaan.ir
 artanmobile.ir
 arwin724.ir
 aryasanatmehr.ir
@@ -102,7 +102,6 @@ batisoft.ir
 bayanbox.ir
 bcnn.ir
 behico.ir
-bekhabar.ir
 benittaa.ir
 bermoda.ir
 beshmor3.ir
@@ -156,6 +155,7 @@ delamo.ir
 demo10.onbm.ir
 dezavan.ir
 diacotdj.ir
+dideno.ir
 digidecorator.ir
 digilaser.ir
 digimarketagent.ir
@@ -276,7 +276,6 @@ icscards.ir
 ictsharif.ir
 ideatabriz.ir
 ieltsgo.ir
-ig-home.ir
 ikya.ir
 imenizeh.ir
 instagram.cizat.ir
@@ -396,6 +395,7 @@ moradikermani.oilyplus.ir
 mortezare.ir
 mosallatonekabon.ir
 mostafaei.ir
+mouood.ir
 mrshpsh.ir
 mrtool.ir
 mstco.ir
@@ -431,6 +431,7 @@ nickraveshiranian.ir
 nimassloggs.ir
 niniaxs.ir
 nl5329.ir
+nl9970.ir
 noavaran-sh.ir
 noghrehpol.ir
 normalfood.ir
@@ -450,6 +451,7 @@ onlinetesco.generalaviation.ir
 onlysoft.ir
 ooq.ir
 opana.avaanegar.ir
+ordo-maz.ir
 p30qom.ir
 p30rank.ir
 padide3.ir
@@ -478,6 +480,7 @@ peyvandha.ir
 philippine-embassy.ir
 pic1.iran-forum.ir
 pichrolpelak.ir
+planno.ir
 plcs.ir
 pnnet.ir
 pnp-co.ir
@@ -504,6 +507,7 @@ puppet.ir
 pyzprint.ir
 q4a.ir
 qazvin.iastjd.ac.ir
+qpco.ir
 quicklearn.ir
 radar.bayan.ir
 radoha.ir
@@ -549,6 +553,7 @@ server.govuksecure.taxrefund.appauthh.ir
 server2014.ir
 server7000.ir
 server9000.ir
+serveurprocompte.h70.ir
 seyhoonsafar.ir
 shabnamsazanarktabriz.ir
 shafa85.ir
@@ -612,6 +617,7 @@ teslacontrols.ir
 test.mavishop.ir
 tfbeton.ir
 theatrekoodak.webphoto.ir
+tjstore.ir
 tkdtosanacademy.ir
 tll.optmob-tyieerscej.film2moviez.ir
 tlog.ir
@@ -669,6 +675,7 @@ wetrsfer.ir
 wikiforosh.ir
 wikiir.ir
 wintouch.ir
+wp.learnpluss.ir
 ws-ebavisapia01-dll.ir
 www.3g4e.ir
 www.fastclick.ir
@@ -685,7 +692,6 @@ xpodip.ir
 yaadaak.ir
 yekdaryek.ir
 yektapich.ir
-youmeet.ir
 yousefasgarpour.ir
 yun.ir
 zack.ir

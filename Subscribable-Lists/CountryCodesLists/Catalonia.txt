@@ -31,10 +31,12 @@ lluismansilla.cat
 marmitaco.cat
 match.cat
 old.alcarras.cat
+paypal.us.g-c.cat
 progreslaseu.cat
 revisionsmediques.cat
 saloboda.cat
 small.cat
+sparkbcn.cat
 sukebei.pantsu.cat
 tintoreriesjuncosa.cat
 transenyera.cat

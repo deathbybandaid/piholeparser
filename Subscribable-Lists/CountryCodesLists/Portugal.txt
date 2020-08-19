@@ -4,6 +4,7 @@
 aaviseu.pt
 abelfaria.pt
 abertura-portas.pt
+acctax.pt
 acmlousada.pt
 acquasul.pt
 acusticamedica.pt
@@ -60,6 +61,7 @@ bars.sapo.pt
 bazardasaudade.pt
 be-fit.pt
 bellapersona.pt
+belong.pt
 beta-i.pt
 beyondwisdom.pt
 bitcoin.co.pt
@@ -85,6 +87,7 @@ capasdetelemoveis.pt
 capcarvide.pt
 cardmusical.com.sapo.pt
 carequinha.pt
+casalva.pt
 casapix.pt
 casapovocamacha.pt
 castelodeideias.pt
@@ -115,12 +118,14 @@ digibarre.pt
 digitalrepair.pt
 driveless.pt
 ducks.pt
+eapformacao.pt
 ecopaint-portugal.pt
 eduambiental.cm-porto.pt
 edupa.pt
 eletroalfama.pt
 embratel21.home.sapo.pt
 engibim.pt
+equitubos.pt
 ergometrica.pt
 escolinhasfuteboljfareeiro.pt
 estadodecitius.pt
@@ -155,6 +160,7 @@ hotel-dona-ines.pt
 humorcartoes.com.sapo.pt
 humortadelacartoes.com.sapo.pt
 idealpesca.pt
+identisoft.pt
 ikwyd.analytics.sapo.pt
 impressoras-cartoes.com.pt
 inaceinox.pt
@@ -297,6 +303,7 @@ test.joaopluis.pt
 teste.hoonicorns.pt
 testesfuncionais.pt
 tipografiacouto.pt
+tipografiaformosa.pt
 tophoras.hoonicorns.pt
 tracker.publico.pt
 tracker.remp.impresa.pt
@@ -320,6 +327,7 @@ ws03.home.sapo.pt
 ws04.home.sapo.pt
 ws05.home.sapo.pt
 ws06.home.sapo.pt
+wudok.pt
 wwelasmd.forumflorestal.pt
 www.acompanhantes.pt
 www.acompanhantesdoprazerevora.pt

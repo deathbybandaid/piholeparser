@@ -7,7 +7,6 @@ baccarat.md
 barca.md
 bionorica.md
 blackjack.md
-bomba-service.md
 cadouribune.md
 casaitaliana.md
 casinos-online.md

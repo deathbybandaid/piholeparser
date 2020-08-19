@@ -160,7 +160,6 @@ n1.cryptopia.co.nz
 neighbourhoodmechanic.co.nz
 neptuneproducts.co.nz
 networkmarketingnewzealand.co.nz
-new.digilab.co.nz
 newzealandgirls.co.nz
 nodes1.cryptopia.co.nz
 nodes2.cryptopia.co.nz
@@ -183,6 +182,7 @@ paypal.apply.verifications-identity.co.nz
 pcbc.org.nz
 pense.co.nz
 peoples.co.nz
+pjspaintersqt.co.nz
 planitsolutions.co.nz
 pohe.co.nz
 pools.cryptopia.co.nz
@@ -236,7 +236,6 @@ thecobbhotel.co.nz
 thepropertystore.co.nz
 threepoints.co.nz
 tmda.tmcdn.co.nz
-tmp.pjspaintersqt.co.nz
 tradescoachacademy.co.nz
 transformers.net.nz
 transpecservices.co.nz

@@ -88,6 +88,8 @@ accountsadobe.cf
 accountverifie.cf
 acesso-bb-online.cf
 acme-challenge.cf
+acontdisabeldsacme0011.cf
+acontdisabeldsacme0012.cf
 acount-disabled-page.cf
 acount-page-dlsabled.cf
 admintadministre.cf
@@ -150,6 +152,7 @@ arjzndx.cf
 art-812.cf
 artspace.cf
 asatech.cf
+asbclassic.cf
 asbnewzealand.cf
 ashleydrive.fliatsracheers.cf
 asiote.cf
@@ -159,6 +162,7 @@ asunweelsuan.cf
 atendimento-fisico.cf
 atendimento.inicialappbb.cf
 athens-house.cf
+atlius.cf
 attcarsint.cf
 attkishoo.cf
 atualizar-acesso-netflix10.cf
@@ -186,7 +190,6 @@ baarkhan.cf
 babamaturu.cf
 baixinho11.cf
 balerji.cf
-bancoessstados.cf
 bancoesto-bchile.cf
 bancofcal.cf
 bank-of-amarica.cf
@@ -243,7 +246,6 @@ bradesco-online.cf
 brasfieldgorrie.cf
 breakin.cf
 brightol.cf
-brijdesigns.cf
 brokabexer.cf
 broken10.cf
 broken2.cf
@@ -309,9 +311,12 @@ check.autentificationpage.cf
 check12.cf
 checkinformations.cf
 checkpoint-instruction-help.cf
+checkpointaroveds-fbpages45683456.cf
+checkpointaroveds-fbpages5674568.cf
 checksecure.cf
 checkyourpages.cf
 cheeksfanpage1222.plischeksfansspage.cf
+chelatefor.cf
 chelsoto.cf
 chinaexport-ltd.cf
 ciastepselturnzetscu.cf
@@ -458,6 +463,7 @@ etcj.cf
 euromouldings.cf
 eusnex.cf
 ev0lve.cf
+event63.cf
 ewfplkgb.cf
 ex2life.cf
 expeditiongroup.cf
@@ -491,6 +497,7 @@ fefykawicyky.cf
 ffaykuck.cf
 fgts-saldoinativo.cf
 fidoetpaye.cf
+fiftolkf.cf
 file5963.cf
 filecheck.cf
 fivedwld.cf
@@ -655,6 +662,7 @@ instagram-whatshapp-business.cf
 instagram.com.iogin.cf
 instagram.helpteam.cf
 instagram.incorporation.cf
+instagramaccountsconfirm.cf
 instagrambusinessteam.cf
 instagramcopyright-team.cf
 instagramcopyrightinfringementhelpservice.cf
@@ -667,6 +675,7 @@ instagramverifycentre.cf
 instagramveriifybadge.cf
 instagramwebsecurity.cf
 internetnc2-itau.cf
+inv-paterehab.cf
 inv-swltc.cf
 invitechat18.cf
 iotiot.cf
@@ -712,7 +721,6 @@ joinbokepterbaru.grup69.cf
 joingroupwa.chatxx-18.cf
 joingrubanaksma18plusviral.login-wa18.cf
 joingrubwhatsapp-18plus.claims-71.cf
-joingrup.b88kp.event63.cf
 joingrup18.laen.cf
 joingrup18plusnew.myl8.cf
 joingrupbkp-2020.log-now7.cf
@@ -904,6 +912,7 @@ munnabhai.cf
 murky-embarrassed.cf
 mview-jp-chastoreitemwebh-webath-003948102037.cf
 mview-jp-chastoreitemwebh-webath-003948102038.cf
+myfacebooksecurity.cf
 mymatchpictures.musictrup.cf
 myobi.cf
 mytestwp.cf
@@ -966,7 +975,6 @@ oneever.cf
 onef.cf
 onemore.cf
 onermisunve.cf
-online-classic-fastnet-asb-secured.asbclassic.cf
 online-screw.cf
 online.asb.co.nz.auth.fm.nz-classic.cf
 onlinebanking.asb.co.nz-balance.cf
@@ -1012,7 +1020,6 @@ paypal.com-myaccounts-login-user-pages.cf
 paypal.com.case-id-fgg-39721831.cf
 paypal.com.eg.vst.id.4ko98eeb9a98fg.opensll.id53535223.cf
 paypal.com.signin.webapps.com-unsualactivity.cf
-paypal.com.webapps-home.bestgetsys3.cf
 paypal.com.webapps-signin-country.cf
 paypal.com.webapps-signin.mpp-pay-online.cf
 paypal.com.websapss109851.disputesecureaccount.cf
@@ -1150,7 +1157,6 @@ samething.cf
 santder.internet-banking.cf
 schutz-sicherheitsabfrage.cf
 scientificblackjack.cf
-scscdvddvbf.cf
 sdglbly.cf
 secruty-offers.cf
 secuirty-paypal.cf
@@ -1165,6 +1171,7 @@ security2017check.cf
 securityfacebookresponds.cf
 sekzpkn.cf
 selverrytony.cf
+seniorcarecentersltc-auth-page.cf
 sentoratest.cf
 serveradmin-godaddyaccount.cf
 serverserrvice.cf
@@ -1243,6 +1250,7 @@ suntrust.com.pliuer.cf
 suport-fanpage1211.suport-acount-confrim12.cf
 suportswork.cf
 support-account123.cf
+support-fbmnas.uniposupport.cf
 support-token-new.407339954babda0c.cf
 support.instagram.com.id-198663092739365.cf
 supportaccounts.cf
@@ -1254,6 +1262,7 @@ suspendaccount.cf
 suuporrt53.confrim-fanpage111.cf
 svbsoet.cf
 sweetnakedgirls.cf
+systemalert-verify.cf
 systemcicaumpaqes.cf
 systeme-config-ssl-secure-updating.cf
 systemlockedaccount.cf
@@ -1355,6 +1364,7 @@ vidxnxxpro.cf
 vietjetair.cf
 vinastardiamonds.cf
 violationpage2017.cf
+vip-free57.cf
 vipno.cf
 viruscheckmake.cf
 vivalingard.cf
@@ -1375,6 +1385,7 @@ wavidhot44.cf
 wavidhot52.cf
 wavidhot85.cf
 web.classica-il.cf
+webapps-home.bestgetsys3.cf
 webapsverifyaccountidupdated.cf
 webcore.cf
 webinc.cf

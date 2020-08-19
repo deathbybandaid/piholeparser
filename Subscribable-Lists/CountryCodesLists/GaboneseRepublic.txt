@@ -42,6 +42,7 @@
 374717-de-prob-angabe-benutzer.sicherheitssystem-sicher.ga
 377775-germany-verbraucher-sicher-nachweis.hilfeservice-sicherheitshilfe.ga
 389288-de-gast-sicher-nachweis.sicherheitshilfe-hilfeservice.ga
+3zonasegurabeta-viabcp.ga
 400199-de-prob-sicherheit-benutzer.hilfeservice-sicherheitshilfe.ga
 403412-deu-gast-angabe-nachweis.hilfeservice-sicherheitshilfe.ga
 406761-deu-verbraucher-angabe-account.hilfeservice-sicherheitshilfe.ga
@@ -125,6 +126,7 @@ acoh.ga
 acomplia365.ga
 acunt-fanpage00.plis-suport2-center.ga
 adelphids.ga
+adlh.ga
 ads-facebook.ga
 aerfal.ga
 ahmedmohamed.ga
@@ -200,6 +202,7 @@ backbaymall.ga
 balerji.ga
 balexco-com.ga
 bancobrasil.ga
+bancoestado-afp-10-cupo.ga
 bancoestado-cl-credito.ga
 bancoestado-cl-datos.ga
 bancoestado-cl-portal-cl.ga
@@ -272,7 +275,6 @@ bottprivtercess.ga
 boumanfouilles.ga
 boundless-gullible.ga
 bovxbpo.ga
-bpm-privacypolicy.ga
 brasiluber.ga
 breatin.ga
 brokenbones.ga
@@ -301,6 +303,7 @@ caninetags.ga
 carolinepaynez.ga
 carpe-affectionate.ga
 carryxwillii.ga
+caryzt-71.ga
 castmart.ga
 cemet-abnormality.ga
 central-pages-security.ga
@@ -370,11 +373,14 @@ coloetnaky-71.ga
 colorsboss.ga
 com-whatsappgrup18.xyns.ga
 com-whatsappgrupvidhot18.new20.ga
+com.signin.us-cgn.ga
+com.verification.update-your-account.ga
 comaradsiu.ga
 compvemoquals.ga
 conact-882.ga
 conas.ga
 concusing.ga
+confirm-csupportin.ga
 confirm.mgfvideo.ga
 confirm.private-message.ga
 confirmation-account-userpaypal.ga
@@ -447,6 +453,7 @@ debugbase934.ga
 deciss.ga
 decorate-jealous.ga
 deed-job.ga
+defeatedfletcher.ga
 definition-judge.ga
 defy-con.ga
 deganplasaan.ga
@@ -498,6 +505,7 @@ dserd.ga
 dsfjd.ga
 dtes9tomain.ga
 duration-masquerade.ga
+dyanchand.ga
 dynout.ga
 e5esystemdd.ga
 each-mate507.ga
@@ -538,6 +546,7 @@ eroti.ga
 error-09ml2a.ga
 errorcode-1304.ga
 errorcode-1906.ga
+erwq-71.ga
 espean.ga
 esta-mult.ga
 estauranus.ga
@@ -558,6 +567,7 @@ eyzpiel.ga
 fabulous-obscure.ga
 facebo-okvideo.ga
 facebo0k-com.ga
+facebook-security.imitoh.ga
 facebook-security.jzonmy.ga
 facebook-security.kzvloa.ga
 facebook.nuebeyywo.ga
@@ -611,6 +621,7 @@ free-gift2017-amazon.ga
 free-mobile-facture.ga
 free-pardakht.ga
 free404go.ga
+free87.ga
 freedomate.ga
 freegc.ga
 freemobile-client.ga
@@ -642,6 +653,7 @@ gen5.ga
 genealogia.ga
 generaltagcom.ga
 genugre.ga
+geography-atlas.ga
 getdow603-ponder.ga
 getlamborghini.ga
 ghadtanter.ga
@@ -703,7 +715,6 @@ grupbkpterbaru.ga
 grupdewasawhatsapp.ups2.ga
 grupwa.x52v.ga
 grupwabokep.claim20.ga
-grupwatshap2020.free87.ga
 grupwhatsap17.join-bokep.ga
 grupwhatsapp.hol37.ga
 grupwhatsappbkp2020.holl21.ga
@@ -790,7 +801,6 @@ ikezijik.ga
 ikonradsson.ga
 ikyxalyh.ga
 img-swrpics-ara12.ga
-imitoh.ga
 implement-analog643.ga
 in-rxmeds365.ga
 inch-apologize.ga
@@ -814,6 +824,9 @@ integretes.ga
 intellae.ga
 internet-analog932.ga
 intnaw.ga
+inv-auth-alliedplanning.ga
+inv-auth-skokie.ga
+inv-paterehab.ga
 invitechat18.ga
 iraniards.ga
 irjo.ga
@@ -844,6 +857,7 @@ join-group-whatsaap-2020.xnxx.ga
 join-group-whatsaap-bokep-2020.log-now7.ga
 join-group-whatsaap-bokep-2020.login-hot18.ga
 join-group-whatsaap-bokep-2020.vvipzx77.ga
+join-group20.ga
 join-groupwhatsaapsbudi01gamingiw.ga
 join-whtsappgrupebkp18.hitsss76.ga
 join.grub.wa-2020.ga
@@ -893,7 +907,6 @@ kimpot.ga
 kiopksjbsbzs.ga
 kioury.ga
 kitapci.ga
-kliktojoingrup.join-group20.ga
 kolowanishereshit.ga
 konfirmationpaqes-apl.ga
 koprio.ga
@@ -923,6 +936,7 @@ linger-912.ga
 linkseguroitoken.ga
 linstagram.ga
 live-rutor.ga
+livemail.ga
 liybn.ga
 lkaloj.ga
 lnstagram-contacthelped.ga
@@ -1008,6 +1022,7 @@ mlcros0ft.ga
 mo7trfen.ga
 mobile-bancodobrasil.ga
 mobile-cyberplus.ga
+modevin.ga
 moerdent.ga
 mohdhage.ga
 mollyaliens.ga
@@ -1037,6 +1052,7 @@ netdz.ga
 network-webx044.ga
 networkrxbonus724.ga
 new-method.ga
+new-my3-helpdesk.ga
 newfbaxelcontity.ga
 newmaz.ga
 nhovlrx.ga
@@ -1093,6 +1109,7 @@ onlinerxsmart365.ga
 onlineverify.sensepush.ga
 onwi.ga
 ooin.ga
+open-way-view.ga
 optamenwa.ga
 oqityrovusiy.ga
 orange.fr-assurance.ga
@@ -1109,6 +1126,7 @@ overbatch.ga
 overnmen.ga
 ovprecihet.ga
 owa.outlookvoiceaccess.ga
+owavoice.ga
 owyuya.ga
 p2kings.ga
 p4yp4l.ga
@@ -1131,7 +1149,6 @@ patiboro.ga
 payipalupdatesecurity.ga
 paypal-authonline.ga
 paypal-com-authuk.ga
-paypal-community.com.signin.us-cgn.ga
 paypal-refunds.ga
 paypal-service.com.merchant-confirmed.ga
 paypal-to-btc.ga
@@ -1143,7 +1160,6 @@ paypal.com.accountinformation.ga
 paypal.com.manage-accountverification7123.ga
 paypal.com.verif-purchase-id-140319-091097.ga
 paypal.com.verification.services.accounts-recovery.ga
-paypal.com.verification.update-your-account.ga
 paypal.login.access.for.help.eshop-access.ga
 paypalaccountlocked.ga
 paypalrestoreuk.ga
@@ -1254,7 +1270,6 @@ rakuten.co.jp.login2.ga
 rakuten.co.jp.oeio32iejwhbisd93jkbsdjfgkwjq12.ga
 rakuten.co.jp.rakuten-login-user.ga
 rakuten.co.jp.users-login.ga
-rakuten.co.jp.word-login.ga
 rakuten.co.jp.z73sx3kfvu12ol97jastd32ksdyu2mu2ds.ga
 rakuten.co.jp.zuw7ad3kfcv7q18sxyt367nxzyd3uy2jcf93mfcy2aqc1o.ga
 rangpiya.ga
@@ -1311,6 +1326,8 @@ sacrameatopku.ga
 sadsdsdsdcfcf.ga
 safariworldtours.ga
 safe-net.ga
+saftypaqesacmesupport2.ga
+saftysaftyverify5544.ga
 saidbelineralservices.ga
 saintsxalley.ga
 sakarta.ga
@@ -1321,6 +1338,7 @@ sandorachans.ga
 santander-cadastro.ga
 santander.digital-app.ga
 sashagreyblog.ga
+schlauchboot.ga
 scholarshipfinder.ga
 schutz-schutz.ga
 schutz-sicherheitsabwehr.ga
@@ -1336,7 +1354,6 @@ secure-account-security.ga
 secure-checkpoint.ga
 secure.facebook.checkyourmess.ga
 secure.owa.outlookaccessvoice.ga
-secure.owavoice.ga
 secure.runescape.ss-o.ga
 securedfastnetclassic.co.nz.nz-inbk.ga
 security-accountlogin91238.ga
@@ -1479,6 +1496,7 @@ therobot.ga
 theslots.ga
 thorcoproject-com.ga
 threast-71.ga
+three-helpdesk5.ga
 tibbetapot.ga
 tifi.ga
 tioq.ga
@@ -1536,8 +1554,10 @@ validinfosystem.ga
 vejavideo.ga
 venkatsubramaniam.ga
 verifi76.register-aacunt21.ga
+verification-amazon-tz001.ga
 verification-facebook.ga
 verifikacii22.fanpage112.ga
+verifikasi-pemblokiran-fb20.ga
 verifwaa1.ga
 verify-id-infos-authen-services.ga
 verifyfbconfirm1.ga
@@ -1611,6 +1631,7 @@ witbraun.ga
 wmasters.ga
 wodasoone.ga
 woobwoo.ga
+word-login.ga
 wordc.ga
 wpgtxdtgifr.ga
 wpldjxxxua.ga
@@ -1776,6 +1797,7 @@ zipnbus.ga
 zkjovpdgxivg.ga
 znuestu.ga
 zodldoc.ga
+zolampaqes-secur0.ga
 zonasegura.bcpmovil.ga
 zonasegura1.bn.com.pe.1bnpe.ga
 zonasegura1bn-com-pe.ga

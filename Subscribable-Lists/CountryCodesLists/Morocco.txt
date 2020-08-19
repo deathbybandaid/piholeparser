@@ -34,6 +34,7 @@ greentic.univcasa.ma
 gremr.ma
 groupechantah.ma
 gu.ma
+happymind.ma
 interestcustomers.cu.ma
 interfacerh.ma
 jazmany.cu.ma
@@ -53,6 +54,7 @@ nesosqhse.ma
 networksgates.ma
 nodets-huaoptcioo.cikaperformance.ma
 nodets-ykqtmtqjkd.cikaperformance.ma
+novancia.ma
 officeon.ch.ma
 originalone.ma
 paypal.ariaprint.ma

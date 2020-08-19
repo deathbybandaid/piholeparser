@@ -81,6 +81,7 @@ pkfuzinar.si
 playboy.si
 poker.qp.si
 pool.qp.si
+posta.godesic.si
 pour.kavarnabodi.si
 prenocisca-kocar.si
 pro-meritve.si
@@ -104,6 +105,7 @@ togras.si
 traktorski-deli.si
 v2.dev.qp.si
 vonertabox.si
+vrtecjesenice.si
 ww.dnpg.si
 www.8000plus.si
 www.cemsenik.qp.si

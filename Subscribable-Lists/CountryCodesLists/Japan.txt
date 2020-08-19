@@ -17,7 +17,6 @@
 210237148191.cidr.jtidc.jp
 219x113x161x53.ap219.ftth.ucom.ne.jp
 221x115x133x150.ap221.ftth.ucom.ne.jp
-227777.jp
 22cmd.jp
 241241.jp
 2c34j5.jp
@@ -506,6 +505,7 @@ dd-labo.jp
 debonosu.jp
 designlabo.co.jp
 dic.nicovideo.jp
+direct.bk.mufg.jp.berry-pop.jp
 diy-lab.jp
 diylabo.jp
 dke.jp
@@ -850,7 +850,6 @@ jewelleryterra.jp
 jh4bke.jp
 jig.jp
 jinlab.jp
-jjgastroheptlgy.jp
 jk-bic.jp
 jlab.jp
 jmamusical.jp
@@ -861,7 +860,6 @@ jp-bamk.jp
 jp-bank-japanossts.jp
 jp-labo.co.jp
 jp.coioad8975azopj0987fs7d2faf2as00adfac.jp
-jpnjgastrohepto.jp
 js.fout.jp
 js.rfp.fout.jp
 jscrp.jp
@@ -955,7 +953,6 @@ krever.jp
 kstable.jp
 kt-yh6494.blog.so-net.ne.jp
 kubikimochi.or.jp
-kuramata.co.jp
 kuraray.co.jp
 kurisumasu2018-santa.jp
 kusw.ac.jp
@@ -981,7 +978,6 @@ lion.main.jp
 lism-shop.jp
 listing.yahoo.co.jp
 live-your-life.jp
-liveheart.co.jp
 ln.ameba.jp
 locksmith.jp
 log-in1.jp
@@ -1182,7 +1178,6 @@ nicovideo.jp
 nigawa.co.jp
 nightthemoon.blog.so-net.ne.jp
 nikko-factory.co.jp
-niku-q.co.jp
 nin-sapo.or.jp
 nineoone.sakura.ne.jp
 ninja.co.jp
@@ -1476,12 +1471,12 @@ showcase-tv.jp
 sies.co.jp
 siho.or.jp
 silverpot.co.jp
-sincere-corp.jp
 site.gnavi.co.jp
 skylovehurricane.jp
 skyserv.jp
 smart-c.jp
 smartheart.co.jp
+smbc-card.com.berry-pop.jp
 smcw-member.jp
 smmlab.jp
 smp.sankei.co.jp
@@ -1528,7 +1523,6 @@ streamingtv.jp
 stylecast.jp
 sublaw.jp
 subterraneans.jp
-suenaga.jp
 suiso.jp
 sumabura-omoshiroi.jp
 sumiden-e.co.jp
@@ -1578,6 +1572,7 @@ tapiokamirukuteiganinnki.jp
 tapone.jp
 tatamilab.jp
 tatsumi-sys.jp
+tax-wewill.jp
 taxel.jp
 tbs.co.jp
 team-rec.jp

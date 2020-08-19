@@ -313,7 +313,6 @@ atleticapadrepio.it
 atoumaticservicvelanserv.it
 attenzione-secure.it
 attiamministrativi.provincia.belluno.it
-aumentofans.it
 auriagroup.it
 auroradesio.it
 auto.trovit.it
@@ -545,7 +544,6 @@ cipemiliaromagna.cateterismo.it
 circoloippicovalcesano.it
 cittadivita.it
 claea.it
-clara.letsgogo.it
 claroviento.it
 cliccaoggi.it
 cliccaraffinato.it
@@ -656,7 +654,6 @@ danielecamnasio.it
 danieledolores.it
 danielescivoli.it
 danielevarriale.it
-danilogarro.it
 daoc-planet.it
 darcompare.it
 darfocervera.it
@@ -734,10 +731,8 @@ ebayinfo.has.it
 ebmant.it
 ecialde.it
 ecodatastore.it
-ecomm-pagamento0c2a97d71sella1it128e02a5.lainternational.it
 ecomm-pagamento2957cdbb1sella1it0d25022d.fotoparitani.it
 ecomm-pagamentodec4ab2c1sella1it17d002fc.fotoparitani.it
-ecomm-sella-128e02a5.lacommediadellapentola.it
 ecommb4f22103.sella.it0d3e0235.commercialelem.it
 ecozac.it
 ediacademy.edisoftware.it
@@ -838,6 +833,7 @@ fil-money.it
 filmxxx.it
 filp3.exupery.it
 financeconsulting.it
+finedellacalvizie.it
 finestral.it
 finsolprinting.it
 fiorimilano.it
@@ -1009,7 +1005,6 @@ hostpoint.ch.17e402ff.esteticamoser.it
 hostpoint.ch.albertodionigi.it
 hostpoint.ch.informaticaits.it
 hoteledenpadova.it
-hotelgobbi.it
 hotelgrotticelle.it
 hotelpostasiracusa.it
 hotels-fattura.it
@@ -1129,6 +1124,7 @@ jiggy.it
 jishindo.it
 jiujitsuboys.it
 jksports.it
+jldroma.it
 job.hitjob.it
 jobgroup.it
 joebarteam.it
@@ -1159,10 +1155,12 @@ labobit.it
 laboratoriosca.it
 labottegadellulivo.it
 lacartaccia.it
+lacommediadellapentola.it
 lafoce-nonsolovino.it
 lafontedelpane.it
 lagbag.it
 lagranitmarble.it
+lainternational.it
 lalineasottile.it
 lamacchinadeltuono.it
 lambrusco.it
@@ -1523,7 +1521,6 @@ p2pool.soon.it
 pacom.it
 pagamenti-sella-aruba-ar63dc742e.fotoparitani.it
 pagamenti-sella-aruba-arb4f22103.noleggiobicimilano.it
-pagamenti-sella-aruba-arbfaa703d.lainternational.it
 paganocostantino.it
 paginelucirosse.it
 pagineverdibonsai.it
@@ -1731,6 +1728,7 @@ room104.it
 rosiassicurazioni.it
 rotarychieti.it
 roygroup.it
+rozen.it
 rsdm.it
 rsl2309000.explora-service.it
 rtcom.it
@@ -1763,6 +1761,7 @@ sblocko-conto.it
 sbo.it
 sc.radiofficine.it
 scambiobanner.aruba.it
+scampoligolosi.it
 scarpembtoutlets.it
 scarpesportiveonline.it
 scholacantorumsangaetano.it
@@ -1783,6 +1782,7 @@ seat.it
 secondamano.it
 secure-banca.it
 secure-getway21b63240.gemis.it
+secure-getwayda782f30.farmaciafossolo2.it
 secure-paiement236b9e3e.exhemplara.it
 securealert.it
 secured.soon.it
@@ -1915,6 +1915,7 @@ stefanialeto.it
 storicouilcais.it
 storiedamessaafuoco.it
 strato.de.emmebiarchitetture.it
+strato.de.renew.artedellameccanica.it
 streetofthelife.it
 strumentieservizi.it
 studenti.unipa.it
@@ -1928,6 +1929,7 @@ studiogiardasrls.it
 studiolagrasta.it
 studiolegalecsb.it
 studiomariano.it
+studiomascellaro.it
 studionostro.it
 studiorota.it
 studiorubera.it

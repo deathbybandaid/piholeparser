@@ -31,6 +31,7 @@ butterfly.pe
 bvt.com.pe
 byvingenieria.com.pe
 caballerobustamante.com.pe
+caberysac.com.pe
 cajpe.org.pe
 cappuno.org.pe
 casasur.pe
@@ -45,6 +46,7 @@ cle.pe
 coipac.pe
 colegiodavinci.pe
 companiamisionera.org.pe
+compusoftdata.pe
 consultora-mj.pe
 consultoriaeducativa.org.pe
 contrans.com.pe
@@ -54,7 +56,6 @@ corporacionotingsa.pe
 credinnova.pe
 croslandaccesorios.pe
 crossvalley.pe
-ctp.edu.pe
 ctsp-arequipa.org.pe
 cuadros.pe
 cuboarquitectos.com.pe

@@ -48,6 +48,7 @@ gloriajeanscoffees.co.th
 golden.pmk.ac.th
 graddip.rpu.ac.th
 greatwall.co.th
+haisokbr.go.th
 hazel-azure.co.th
 hinsorn.ac.th
 hits.truehits.in.th
@@ -58,7 +59,6 @@ human.tru.ac.th
 hydro-tek.co.th
 hygienic.co.th
 ie.kbu.ac.th
-immchonburi.go.th
 industrialonline.in.th
 innogineering.co.th
 intactcorp.co.th
@@ -121,6 +121,7 @@ petkasem.ac.th
 phatthalung.go.th
 phayamengrai.chiangrai.doae.go.th
 phitsanulok1.go.th
+phy.sci.lru.ac.th
 playboy.co.th
 polybond.co.th
 powerbee.co.th

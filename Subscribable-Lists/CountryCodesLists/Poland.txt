@@ -319,7 +319,6 @@ anaglyph.pl
 analytics.ceneo.pl
 analytics.gazeta.pl
 ancla.pl
-andmak.pl
 andmax-rehabilitacja.pl
 andrzej-burdzy.pl
 anemia.xgamegodni.pl
@@ -542,7 +541,6 @@ biotechealthcarepharm.pl
 biotechealthcarepills.pl
 bip.tbs.tczew.pl
 bip.wodkan.com.pl
-birdseye.pl
 biseksualni.qii.pl
 bitcoin.fastlink.pl
 bittersweet.pl
@@ -687,7 +685,6 @@ cipowisko.com.pl
 clean-service.waw.pl
 cleanupit22p.xorg.pl
 clearenergy.pl
-clevert.pl
 click-design.nazwa.pl
 click.waw.pl
 clickad.com.pl
@@ -1299,6 +1296,7 @@ fakt24warszawka.com.pl
 faktgwalt24.pl
 faktgwalt24.waw.pl
 faktopedia.com.pl
+fakty24-alert.you2.pl
 fakty24-informacje.pl
 fakty24-stolica.pl
 fakty24-swiat.pl
@@ -2097,6 +2095,7 @@ interia.hit.gemius.pl
 interia.pl
 interkredyty.pl
 internetowerandki.com.pl
+interwencja.you2.pl
 inteza.pl
 intrack.pl
 intymna.pl
@@ -2292,6 +2291,7 @@ kjhkgh.skroc.pl
 kkpbingotime.pl
 kkpgrandtime.pl
 kl21.pl
+klem.com.pl
 klimark.com.pl
 klimatech.rzeszow.pl
 klipex.pl
@@ -2399,6 +2399,7 @@ kwiaty.oinfo.pl
 kwiatynaboya.pl
 l-tabaco.pl
 labo.com.pl
+lacebook.pl
 laf-polska.pl
 lakp.pl
 lamacze-jezyka.pl
@@ -2655,6 +2656,7 @@ modrzejewski-bhp.pl
 mojadietanamase.pl
 moje-imiastotv.microhost.com.pl
 moje-iq.pl
+moje-miasto.you2.pl
 mojejeze.republika.pl
 mojemysli.host247.pl
 mojeweselicho.za.pl
@@ -3041,6 +3043,7 @@ omni-medica.pl
 omrolsztyn.neostrada.pl
 omultinetruby.pl
 onc.coinmine.pl
+onet-news.you2.pl
 onet-news24.pl
 onet-online.pl
 onet-zaginieni-24.pl
@@ -3315,7 +3318,6 @@ pomagajmypl.pl
 pomaranczowapomoc.pl
 pomoc-drogowa.cba.pl
 pomoc-fakty24.pl
-pomoc48.you2.pl
 pomorzesrodkowe.pl
 ponadkreatywnie.pl
 pontony.net.pl
@@ -3856,6 +3858,7 @@ server578875.nazwa.pl
 server584025.nazwa.pl
 server684037.nazwa.pl
 server685641.nazwa.pl
+server715152.nazwa.pl
 server720699.nazwa.pl
 server730889.nazwa.pl
 server740153.nazwa.pl
@@ -4123,7 +4126,6 @@ stats.asp24.pl
 stats.dziennik.pl
 stats.media.onet.pl
 stats.ulixes.pl
-stawiarz.pl
 stc.coinmine.pl
 std1.hit.gemius.pl
 steamgifts.5v.pl
@@ -4638,6 +4640,7 @@ wiltax.pl
 wilvorst.com.pl
 wimaj.pl
 winapp24.pl
+wirtualna-polska.you2.pl
 wirtualnemeble.pl
 wirtuozseksu.pl
 wirus-info24.5v.pl

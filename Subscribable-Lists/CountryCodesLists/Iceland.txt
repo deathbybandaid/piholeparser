@@ -10,6 +10,7 @@ birta.stats.is
 bittrex.is
 bks.is
 boksala.is
+bronco.is
 cannabiscanada.is
 cdn.ns2.skima.is
 de.kano.is

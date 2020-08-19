@@ -18,6 +18,7 @@ consejo.com.py
 dante.edu.py
 denuncias-vih.org.py
 elenaprono.com.py
+equisa.com.py
 estudiorivas.com.py
 fluoder.com.py
 fpuna.edu.py
