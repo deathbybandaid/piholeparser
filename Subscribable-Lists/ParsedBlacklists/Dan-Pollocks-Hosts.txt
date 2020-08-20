@@ -1010,6 +1010,7 @@ adnxs.com
 adnxs.revsci.net
 adobe.tt.omtrdc.net
 adobee.com
+adobestats.com
 adobur.com
 adobur.net
 adoburcrv.com
@@ -3418,6 +3419,7 @@ bitburg.adtech.fr
 bitburg.adtech.us
 bitcast-d.bitgravity.com
 bitcoadz.io
+bitcoinaussiesystemsoft.com
 bitcoinplus.com
 bitmedia.io
 bitonclick.com
@@ -5549,6 +5551,7 @@ flex.msn.com
 flexeril.1.p2l.info
 flextra.1.p2l.info
 fliteilex.com
+flixprice.com
 float.2693.bm-impbus.prod.ams1.adnexus.net
 floatingads.madisonavenue.com
 flonase.1.p2l.info
