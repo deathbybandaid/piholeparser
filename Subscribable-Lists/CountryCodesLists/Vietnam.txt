@@ -52,7 +52,6 @@ amobi.vn
 amyfashion.com.vn
 analytics.adnetwork.vn
 analytics.bkav.com.vn
-analytics.mecloud.vn
 analytics.yomedia.vn
 andinh.com.vn
 angkortours.vn
@@ -363,6 +362,7 @@ log.sdk.zadn.vn
 log.sggp.org.vn
 log.thanhnien.vn
 log.tienphong.vn
+log.ttbc-hcm.gov.vn
 log.vietnamnetad.vn
 log.vietnamplus.vn
 log.vov.vn
@@ -644,6 +644,7 @@ track.adnetwork.vn
 track.sendo.vn
 track.srv.vietnamnet.vn
 tracking.ad360.vn
+tracking.aita.gov.vn
 tracking.dinos.vn
 tracking.vietnamnetad.vn
 tracking.yomedia.vn

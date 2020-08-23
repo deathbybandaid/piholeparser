@@ -33,3 +33,4 @@ superviajes.do
 toner.com.do
 voce.com.do
 welcome.do
+zsi7.destinia.do

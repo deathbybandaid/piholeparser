@@ -1,4 +1,6 @@
 acta.ai
+analytics.humanautomation.ai
+analytics.jst.ai
 api.ascend.ai
 api.cortana.ai
 api.native.ai
@@ -21,7 +23,6 @@ hypercube.ai
 m2d.m2.ai
 marketscan.ai
 media.ascend.ai
-metrics-api.dimensions.ai
 participant.ascend.ai
 porno.ai
 powerad.ai
@@ -29,8 +30,10 @@ proxy.ascend.ai
 rt.ascend.ai
 sdk.markable.ai
 sheratonjakartagandaria.id.ai
+stat.glaze.ai
 tonicchambers.id.ai
 track.captivate.ai
+track.vdo.ai
 trgt.ai
 waa.ai
 www.5r.ai

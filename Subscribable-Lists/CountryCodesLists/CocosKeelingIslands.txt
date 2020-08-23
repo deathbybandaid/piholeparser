@@ -2614,6 +2614,7 @@ stat.uu.cc
 static-02.flu.cc
 static-net.nut.cc
 statistics-cyberpank.co.cc
+stats.embedcdn.cc
 stats4all.cc
 stellite.ingest-asia.cryptoknight.cc
 stellite.ingest-us.cryptoknight.cc

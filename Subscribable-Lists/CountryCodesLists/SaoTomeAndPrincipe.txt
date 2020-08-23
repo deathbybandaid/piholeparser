@@ -120,7 +120,6 @@ clear.st
 cobironec.st
 cogonphilips.st
 coirttr.st
-collector.shorte.st
 contour.isthebe.st
 cuna.st
 cuppyvaers.st
@@ -490,6 +489,7 @@ sxj8.adj.st
 sxws.adj.st
 sydneycar.st
 sysseljn.st
+t.av.st
 t.kck.st
 t64z.adj.st
 tabs.st

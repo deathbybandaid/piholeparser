@@ -247,9 +247,11 @@ analytics.kaggle.io
 analytics.kongregate.io
 analytics.liftoff.io
 analytics.luckypool.io
+analytics.myfidevs.io
 analytics.oned.io
+analytics.ostr.io
+analytics.salesanalytics.io
 analytics.soup.io
-analytics.suggestv.io
 analytics.tiltingpoint.io
 analytics.uax.io
 analytics.urx.io
@@ -417,6 +419,7 @@ bab.frb.io
 backend.adjust.io
 backend.youpool.io
 backtrace.io
+bacon.section.io
 baidut.github.io
 balance.epool.io
 balunowalamanigit.cfapps.io
@@ -432,6 +435,7 @@ bcp.luckypool.io
 bdb2e2e2.ngrok.io
 bdx.luckypool.io
 beacon.flow.io
+beacon.searchspring.io
 beacons.extremereach.io
 beast.faucethub.io
 beedev.io
@@ -741,7 +745,6 @@ drk.ghash.io
 drone.districtm.io
 drone.dmx.districtm.io
 dropboxon-lineusdocpdf.cfapps.io
-drozdovvalerij0.github.io
 dsp-1.ogury.io
 dsp.io
 dy.adserve.io
@@ -929,6 +932,7 @@ gdm.youpool.io
 gdpr.branch.io
 gdrive-141.getforge.io
 geem.youpool.io
+geo.ngtv.io
 geo.xcel.io
 get.backtrace.io
 get.optad360.io
@@ -992,6 +996,7 @@ haggler-mopub664-us-e-ec2.liftoff.io
 haggler-mopub670-us-e-ec2.liftoff.io
 haggler-mopub686-us-e-ec2.liftoff.io
 hal.dnb.io
+happen.spkt.io
 hashcoin.io
 hashflare.io
 hashpower.io
@@ -1756,6 +1761,7 @@ static.sparechange.io
 static.tabmo.io
 static.uax.io
 stats-dc1.frz.io
+stats-factory.digitregroup.io
 stats-public.grammarly.io
 stats.abbi.io
 stats.cloudwp.io
@@ -1819,6 +1825,7 @@ t-bot.io
 t-v2.presage.io
 t.admp.io
 t.adx.io
+t.castle.io
 t.sgc.io
 t2m.io
 tabmo.io
@@ -1855,6 +1862,7 @@ throtle.io
 thumb.dable.io
 tidal.sp.backtrace.io
 tiku.io
+tk.storetail.io
 tkx29.codesandbox.io
 tokensale.lydian.io
 tous-jewelry.extole.io
@@ -1870,11 +1878,9 @@ track.cux.io
 track.eu2.remerge.io
 track.hashflare.io
 track.iptrack.io
-track.mobicast.io
 track.saygames.io
 track.tenjin.io
 tracker.peerclick.io
-tracker.streamroot.io
 trackers.voodoo-analytics.io
 tracking-thirdparty.i2w.io
 tracking.adalliance.io
@@ -2315,6 +2321,7 @@ zentral.aws.branch.io
 zfg5qvsk-android.mobile-sdk-api.intercom.io
 zgz5b.codesandbox.io
 zielonatravel.io
+zion.api.cnn.io
 zipcar.extole.io
 zj2x5.codesandbox.io
 zk0wcx4a-android.mobile-sdk-api.intercom.io

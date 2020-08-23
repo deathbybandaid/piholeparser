@@ -690,10 +690,10 @@ click.waw.pl
 clickad.com.pl
 clickad.eo.pl
 clickonometrics.pl
-clk.onet.pl
 cloudserver009964.home.pl
 cloudserver090070.home.net.pl
 cmielow.info.pl
+cmp.dreamlab.pl
 cnt.tmefekt.pl
 coco-clinic.pl
 code.new.smartcontext.pl
@@ -703,6 +703,7 @@ coinmine.pl
 coiptpyv.net.pl
 cojestgrane.simplicitygames.pl
 cokupicmamie.pl
+collect.state.centrum24.pl
 colway.pl
 communication.com.pl
 comprisingmeds.pl
@@ -963,6 +964,7 @@ ds.onet.pl
 ds1.onet.pl
 ds12.pl
 dsa.pl
+dsg.interia.pl
 dsh.coinmine.pl
 dudkap6.sk1.pl
 dupcie.qii.pl
@@ -1029,6 +1031,7 @@ e-uprowadzeniedworzec.pl
 e-uprowadzniezdworca.pl
 e-zdrowieuroda.com.pl
 e24gwaltfakt.pl
+ea.pixmania.pl
 eamory.pl
 easydownload.pl
 ebd.cda.pl
@@ -1273,7 +1276,6 @@ f-ads.pl
 f-plast.pl
 f4u.pl
 faacebok.pl
-fab.interia.pl
 face-kolor.rdx.pl
 face-vip.ujm.pl
 facebook-color.5v.pl
@@ -3237,6 +3239,7 @@ piwnicapizza.pl
 piwo.pl
 pixel.homebook.pl
 pixel.wp.pl
+pixel6.wp.pl
 pjm.guidesign.pl
 pl.krainabajek.pl
 pl.lider.pl
@@ -3651,6 +3654,7 @@ realinvestment.pl
 realitateadro.hit.gemius.pl
 realitatero.adocean.pl
 rec-ir.quartic.pl
+rec-pl.quartic.pl
 rec.quartic.pl
 redtube.pl
 regina-kolobrzeg.pl
@@ -4332,7 +4336,6 @@ track.aftermarket.pl
 track.spankadoo.pl
 track.walentynkowyprezent.pl
 track.xtrasize.pl
-tracker.advisable.pl
 tracker.pracuj.pl
 trackgsm.pl
 tracking.novem.pl

@@ -803,6 +803,7 @@ aetop.ru
 aetor.ru
 afdjljiyagf.ru
 afexitip.ru
+affilate.hh.ru
 afiles2.ru
 afing.ru
 afion.ru
@@ -1080,7 +1081,6 @@ amnsreiuojy.ru
 amos-kids.ru
 amoxicillinwithoutprescription.ru
 ampk31.ru
-ams.addflow.ru
 amt-k.ru
 amulet-kmv.ru
 amulet11.ru
@@ -3001,13 +3001,11 @@ cosmowomans.ru
 cottadje.ru
 cottages-ksk.ru
 count.infoemail.gamexp.ru
-count.livetv.ru
 count.rbc.ru
 count.rin.ru
 count.yandeg.ru
 count6.rbc.ru
 counter.24log.ru
-counter.amik.ru
 counter.aport.ru
 counter.bigli.ru
 counter.credo.ru
@@ -3025,6 +3023,7 @@ counter.pr-cy.ru
 counter.promopark.ru
 counter.rambler.ru
 counter.rian.ru
+counter.sibnet.ru
 counter.topphoto.ru
 counter.wapstart.ru
 counter.wbtiger.mmska.ru
@@ -3089,6 +3088,7 @@ criskailey.ru
 cristengoldieki.ru
 cristicherri.ru
 cristyorella.ru
+crm-analytics.imweb.ru
 crm.delan.ru
 crocusterminal.ru
 crolic88.myjino.ru
@@ -3250,6 +3250,7 @@ darseo.popunder.ru
 darseykoral.ru
 dashkevichseo.ru
 data.admigo.ru
+data.glamour.ru
 data.redhelper.ru
 databasetm.ru
 datacentric.ru
@@ -3300,6 +3301,7 @@ dayz2.ru
 db-rnd-prisma-storage.rnd.gcp.datamind.ru
 db-sps.myjino.ru
 db.com.ru
+dbex-tracker-v2.driveback.ru
 dbix.clona.ru
 dbtjt.com.ru
 dc-63ec171c01e5.yandex-delivery24.ru
@@ -7540,7 +7542,6 @@ mc-sermis.ru
 mc.admetrica.ru
 mc.clona.ru
 mc.desmine.ru
-mc.webvisor.ru
 mc.yandex.ru
 mc2n.ru
 mcd-su-2.mos.ru
@@ -7910,8 +7911,6 @@ monsterhomessree.ru
 montana-nails.ru
 montazh5.ru
 montazhnic.ru
-montblanc.lenta.ru
-montblanc.rambler.ru
 montezuma.spb.ru
 montgomeri.ru
 montgomerimetyu.ru
@@ -9245,6 +9244,7 @@ pixel.adsniper.ru
 pixel.interactivesales.ru
 pixel.pool.datamind.ru
 pixel.vihub.ru
+pixels.boxberry.ru
 pizhma.ru
 pjgjfcokyf.ru
 pk-pomosch.ru
@@ -11183,14 +11183,13 @@ startscript.ru
 startstappen.ru
 startufa.ru
 starvingarctic.ru
-stat-22.medialand.ru
 stat-counter.tass-online.ru
 stat.4tools.ru
 stat.adlabs.ru
 stat.api.2gis.ru
 stat.aport.ru
+stat.bankiros.ru
 stat.clickfrog.ru
-stat.lenta.ru
 stat.newman.ru
 stat.pladform.ru
 stat.pravmir.ru
@@ -11200,7 +11199,6 @@ stat.ruvr.ru
 stat.sputnik.ru
 stat.stars.ru
 stat.tvigle.ru
-stat.woman-announce.ru
 statbank.ru
 stateika.ru
 static.cloudim.ru
@@ -11210,10 +11208,10 @@ static.fastpic.ru
 static.pochta.ru
 static.terrhq.ru
 static.traffic.ru
+statistics.fppressa.ru
 statpipe.ru
 stats.2u.ru
 stats.adsniper.ru
-stats.lifenews.ru
 stats.mos.ru
 stats.seedr.ru
 stats0.one.ru
@@ -11948,7 +11946,6 @@ top-serial.ru
 top-serialy.ru
 top-stores.ru
 top-zdorovie.ru
-top.bur-bur.ru
 top.elec.ru
 top.gde.ru
 top.list.ru
@@ -12022,7 +12019,6 @@ tovarzona.ru
 towmidar.ru
 townhouse32.ru
 tr-gdz.ru
-track.cooster.ru
 track.fabrikaonline.ru
 track.lmsadvlc.ru
 track.recreativ.ru
@@ -12036,7 +12032,6 @@ tracker.tiu.ru
 tracker24-gps.ru
 tracking-cdek.ru
 tracking.actionads.ru
-tracking.vengovision.ru
 tracy.smartfirstoutlet.ru
 tracynicole.ru
 trade-global.ru
@@ -12674,7 +12669,6 @@ videotuber.ru
 vidoshdxsup.ru
 vidroll.ru
 viebyvieby.ru
-viewstat.promoblocks.ru
 viewthisimagecle.myjino.ru
 vifone.ru
 vigind4.ru

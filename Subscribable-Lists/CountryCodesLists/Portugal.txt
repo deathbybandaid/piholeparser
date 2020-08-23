@@ -118,6 +118,7 @@ digibarre.pt
 digitalrepair.pt
 driveless.pt
 ducks.pt
+ea.hofmann.pt
 eapformacao.pt
 ecopaint-portugal.pt
 eduambiental.cm-porto.pt
@@ -296,6 +297,7 @@ sucessenvolve.pt
 switch.pt
 tascadojoel.pt
 tcmedia.pt
+tdf1.vente-unique.pt
 teiamais.pt
 tempanalise.pt
 teoriasreais.pt
@@ -318,9 +320,11 @@ uniplastica.pt
 urban-dna.pt
 vagasdesine2020.pt
 veseco.pt
+vgo.vegaoo.pt
 villa-mare.pt
 vissanti.pt
 vividus.pt
+we.wecanimal.pt
 webexperts.pt
 webstats.sapo.pt
 ws03.home.sapo.pt

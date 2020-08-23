@@ -638,6 +638,7 @@ pcplus.or.kr
 pcsafe.kr
 pctip.co.kr
 pensionwellbeing.co.kr
+performanceplay.co.kr
 petkorea.co.kr
 pgudwns1201.kro.kr
 phonepara.co.kr
@@ -821,6 +822,7 @@ uro-dr.co.kr
 usagevoicemail.co.kr
 user.fileserver.co.kr
 utildata.co.kr
+uts.auction.co.kr
 v30-62.icu.ac.kr
 vaccine-program.co.kr
 vaccineprogram.co.kr

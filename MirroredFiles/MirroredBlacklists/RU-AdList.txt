@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 5vWOKJIRmzdk/shJClhFGg
-! Version: 202008220020
+! Checksum: XK/kXsBBVWBPoC8kZYanqw
+! Version: 202008230020
 ! Title: RU AdList
-! Last modified: 22 Aug 2020 00:20 UTC
+! Last modified: 23 Aug 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -11783,6 +11783,7 @@ playground.ru###prerollDelay
 delovoy-kirov.ru###preveav
 legends.ru###pricerbig
 bloknot-khersona.ks.ua,osnovu-ved.ru###primary .textwidget noindex
+hi-tech.ua#?##primary > a[href="/article/"] ~ .single-post:-abp-has(.adsbygoogle)
 cinema-24.pro###probel
 bankiros.ru###product-best
 bookarchive.ru,headsoft.kz,micro-win.com,rl-team.net,vsetyt.us###promo
@@ -13640,6 +13641,7 @@ lostpix.com##.infotext
 europaplus.ru##.infox
 education.ua##.inl-blk
 totori.ru##.inner-wrap > #header
+newsru.com##.inner-wrap > .content > div[align="center"]
 peopletalk.ru##.inner__share-ya-zen
 onfilmz.net##.inner_box3
 vgae.ru##.innerfade
@@ -14266,7 +14268,6 @@ mmorpg.su#?#.post-list__card:-abp-has(> .popular-block)
 moika78.ru,nevasport.ru##.post-tags__yn
 moika78.ru,nevasport.ru##.post-tags__yz
 itc.ua##.post-txt > p ~ p ~ p > a[href][class]:not([data-fancybox]) > img
-news.ru##.post-wrapper > .post-content ~ :not([class="next-post"])
 apparat.cc##.postBanner
 repost.uz##.post__banner
 dermatitanet.ru##.post__entry > div[style^="background"]
@@ -16779,6 +16780,7 @@ animedub.ru##div[class^="rolic"]
 kirovnet.ru##div[class^="rsya_block"]
 kinovidos.com##div[class^="sidebar-"] > div[type="text/css"][rel="nofollow"]
 prikol.ru##div[class^="sidebar-advert-block"]
+hi-tech.ua##div[class^="single-video-reklama-"]
 kinogo-net-hd.ru,kinogo-onlain.club,kinogo-onlain.me,kinogo-onlain.net,kinogo-online.club##div[class^="smotret"]
 shikimori.one,shikimori.org##div[class^="spns"]
 telik.tv##div[class^="spu-"]
@@ -18056,7 +18058,7 @@ $xmlhttprequest,domain=happy-biock.info|happy-block.info|howto-news.info|kinohom
 /^https?://kubik3.ru\/(?!js\/|.s\/)/$script,domain=kubik3.ru
 /^https?://l2top.ru\/+(?!ajax\/|js\/|widget\.php\?id=)/$script,xmlhttprequest,domain=l2top.ru
 /^https?://maxpark\.com/[a-z]+\/[0-9]+\//$xmlhttprequest,domain=maxpark.com
-/^https?://news\.ru\/(?!assets\/|public\/)/$script,domain=news.ru
+/^https?://news\.ru\/(?!assets\/js-compress\/)/$script,domain=news.ru
 /^https?://newsland\.com/(communities|content|gidepark|hot|newsland)/$xmlhttprequest,domain=newsland.com
 /^https?://newsland\.com/[a-z]+\/[0-9]+\//$xmlhttprequest,domain=newsland.com
 /^https?://picusha.net\/(?!templates|engine|js)/$script,domain=picusha.net
@@ -21428,6 +21430,7 @@ hi-tech.mail.ru##.rb
 hi-tech.mail.ru##[data-view^="SlotView.mimic"]
 hi-tech.mail.ru##tr > .daynews__spring
 ! Разное
+~e.mail.ru,mail.ru,sportmail.ru##.article__item_slot
 games.mail.ru##.b-content__banner
 games.mail.ru##.b-main__wrapper > a.b-bg[href^="https://r.mail.ru/"]
 games.mail.ru##.b-pc__wrapper > a[class^="b-bg"][href^="https://r.mail.ru/redir/"][target="_blank"]
@@ -23196,6 +23199,7 @@ kinogo-720.net#@#.ya-share2
 @@||neutralen.nl/html5/moon/$third-party,script
 @@||newauction.ru/banners$image,domain=newauction.ru
 @@||news.mail.ru/js/common/vendor/highstock.js$script,domain=news.mail.ru
+@@||news.ru/public/common/js/jquery-3.3.1.min.js|$script,domain=news.ru
 @@||newsland.com/*_iframe_postload$subdocument
 @@||ngads.com/crossdomain.xml|$domain=kongregate.com
 @@||ngads.com/gateway_$object,domain=kongregate.com

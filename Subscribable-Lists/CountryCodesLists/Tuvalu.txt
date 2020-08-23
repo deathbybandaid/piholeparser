@@ -215,6 +215,7 @@ bis.shoofle.tv
 bis2.shoofle.tv
 bis3.shoofle.tv
 bis4.shoofle.tv
+bisko.mall.tv
 bitemp.shoofle.tv
 blacktalent.tv
 blanquirroja.tv
@@ -282,8 +283,6 @@ clockskew.alphonso.tv
 cloud.vuble.tv
 cmstrendslog.timesnow.tv
 cocks.tv
-collector.air.tv
-collector.nextguide.tv
 companion.adap.tv
 compode.tv
 control.adap.tv
@@ -368,6 +367,7 @@ event-listener.air.tv
 event-log.videe.tv
 event.ispot.tv
 events.air.tv
+events.brightline.tv
 events.cid.samba.tv
 events.ispot.tv
 everytalk.tv
@@ -554,7 +554,6 @@ koudas.alphonso.tv
 krishnaw223.alphonso.tv
 krishnaw224.alphonso.tv
 kubahifu.co.tv
-l.coincident.tv
 l0-secure.videohub.tv
 l0ve4teneric.co.tv
 ladyboy.tv
@@ -569,6 +568,7 @@ lemuruy.co.tv
 leominstertv.tv
 lesbianmedia.tv
 lesbianseduction.tv
+lg.tr.pandora.tv
 libid5.tv
 lifemotivator.tv
 likenow.tv
@@ -754,7 +754,6 @@ petrenko.tv
 pevifeze.co.tv
 piguleqa.co.tv
 pinelow.co.tv
-ping.buto.tv
 pings.blip.tv
 pinkpussy.tv
 pixel.mtrcs.samba.tv
@@ -980,7 +979,6 @@ staging-www.ispot.tv
 staging.analytics.ispot.tv
 staging.om.api.ispot.tv
 stain.tv
-stat.bilibili.tv
 stat.vidcore.tv
 static.shoofle.tv
 stats.1internet.tv
@@ -1022,6 +1020,7 @@ tagserver.extend.tv
 takingnote.learningmatters.tv
 tamilsex.tv
 tanisma.supermesaj.tv
+targeting.voxus.tv
 tarjetarojaonline.tv
 task.vuble.tv
 tasubit.co.tv
@@ -1058,7 +1057,6 @@ topporn.tv
 tozofix.co.tv
 tpax.tv
 tr.alphonso.tv
-tracking.ustream.tv
 trample.tv
 trannytube.tv
 treinta33.tv

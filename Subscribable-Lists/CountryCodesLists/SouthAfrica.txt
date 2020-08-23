@@ -1041,7 +1041,6 @@ stanrandconsulting.co.za
 starnationart.co.za
 statementsinsteelsa.co.za
 stats.absol.co.za
-stats.cdn.playfair.co.za
 stats.itweb.co.za
 stats.sharenet.co.za
 status.lanus.co.za
@@ -1234,6 +1233,7 @@ www.theearthchild.co.za
 www.usbetting.co.za
 www.worldofsport.co.za
 www.worldsportsbetting.co.za
+xtrack.capetown.gov.za
 yatesassociates.co.za
 yebocasino.co.za
 yellowdotdoctor.co.za

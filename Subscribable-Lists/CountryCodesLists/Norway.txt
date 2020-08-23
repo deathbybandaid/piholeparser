@@ -240,6 +240,7 @@ sr-rekneskap.no
 sss-cup.no
 stats.bonzaii.no
 stats.libresse.no
+stats.proff.no
 stupbratt.no
 syvertsen-da.no
 tease.no

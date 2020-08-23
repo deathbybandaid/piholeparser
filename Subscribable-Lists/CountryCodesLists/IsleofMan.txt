@@ -16,6 +16,7 @@ count.im
 cp.us.na.cloud.im
 csgojackpot.im
 diluicay.im
+direct-events-collector.spot.im
 dolager.im
 edrta.mol.im
 enjamme.im
@@ -24,6 +25,7 @@ ethihadtravel.hst.im
 etrichor.im
 events-collector.spot.im
 f.mol.im
+fathom.status.im
 feed.engage.im
 ff.im
 frankos.im
