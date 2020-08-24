@@ -1141,7 +1141,6 @@ harvester.eu.square-enix.com
 harvester.ext.square-enix-europe.com
 harvester.hbpl.co.uk
 harwichandmanningtreestandard-gb.harwichandmanningtreestandard.co.uk
-hawkeye-data-production.sciencemag.org.s3-website-us-east-1.amazonaws.com
 hbx.df-srv.de
 heartbeat.flickr.com
 hello.staticstuff.net
@@ -1242,7 +1241,6 @@ ktracker.kumparan.com
 l.m.naver.com
 l.ooyala.com
 l.player.ooyala.com
-l.popin.cc
 l.sharethis.com
 la-sync.taboola.com
 laas.americanexpress.com
@@ -1284,6 +1282,7 @@ log.china.cn
 log.cizion.com
 log.codemarketing.cloud
 log.ecgh.dk
+log.etoday.co.kr
 log.f-tra.com
 log.flight.qunar.com
 log.go.com
@@ -1312,6 +1311,7 @@ log.superweb.ws
 log.suumo.jp
 log.sv.pandora.tv
 log.tagtic.cn
+log.targetpush.co.kr
 log.ttbc-hcm.gov.vn
 log.wat.tv
 log.webnovel.com
@@ -2100,6 +2100,7 @@ stats.oui.sncf
 stats.ozwebsites.biz
 stats.pandora.com
 stats.paste2.org
+stats.phoenix-widget.com
 stats.piaggio.com
 stats.polldaddy.com
 stats.proff.no

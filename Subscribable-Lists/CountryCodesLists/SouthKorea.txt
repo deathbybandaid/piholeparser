@@ -536,9 +536,11 @@ loanchance.co.kr
 loanconsult.co.kr
 loancs.co.kr
 log.adplex.co.kr
+log.etoday.co.kr
 log.kcisa.kr
 log.kgrid.co.kr
 log.sunnyworks.co.kr
+log.targetpush.co.kr
 log1.ezday.co.kr
 logger.admixer.co.kr
 logger.cauly.co.kr
