@@ -463,6 +463,7 @@ cmytuok.top
 cnnmedia.servepics.com
 coffemokko.com
 coffetea.org
+collect.installeranalytics.com
 collect.usefathom.com
 com-auth.site
 com-enter.site

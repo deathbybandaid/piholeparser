@@ -1,6 +1,6 @@
 ### WindowsSpyBlocker - Hosts spy rules
 ### License: MIT
-### Updated: 2020-05-07T23:44:00Z02:00
+### Updated: 2020-08-24T04:31:00Z02:00
 ### Donate: https://github.com/sponsors/crazy-max ; https://www.paypal.me/crazyws
 ### More info: https://github.com/crazy-max/WindowsSpyBlocker
 
