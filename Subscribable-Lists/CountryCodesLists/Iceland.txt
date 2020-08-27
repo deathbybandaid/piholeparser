@@ -55,6 +55,7 @@ savior.mypen.is
 sesel.is
 sg.kano.is
 shorturl.is
+ssn.is
 static.bordar.is
 stratum.kano.is
 stratum2.kano.is

@@ -15,7 +15,7 @@ a.20minutes.fr
 a.mobify.com
 a.o2u.jp
 a.tovarro.com
-a2-eng.spankbang.com
+a2x-eng.spankbang.com
 a8ht.hipp.fr
 aa.avvo.com
 aax-eu-dub.amazon.com
@@ -1481,6 +1481,7 @@ ninja.onap.io
 nm.newegg.com
 nmtracking.netflix.com
 noa0.compteczam.fr
+noflake-aggregator-http.narvar.com
 nol.yahoo.com
 northwichguardian-gb.northwichguardian.co.uk
 nova.dice.net
@@ -1530,7 +1531,6 @@ p.pagesjaunes.fr
 p.tencentmind.com
 p.travelsmarter.net
 p.yotpo.com
-p2-eng.spankbang.com
 page-events-ustats.udemy.com
 pageinfo.motorsport.com
 pages-stats.rbl.ms
@@ -1660,6 +1660,7 @@ ptsc.shoplocal.com
 pub.sheknows.com
 pv.hd.sohu.com
 pv.ltn.com.tw
+pv.pjtsu.com
 pv.sohu.com
 pv.udn.com
 pv.xcar.com.cn
@@ -2634,6 +2635,7 @@ ttauri.loudersound.com
 ttauri.musicradar.com
 ttauri.nexttv.com
 ttauri.space.com
+ttauri.t3.com
 ttauri.tomsguide.com
 ttauri.tomshardware.com
 ttauri.whathifi.com
