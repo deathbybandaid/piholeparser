@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202008262354
+! Version: 202008272335
 ! Title: EasyPrivacy
-! Last modified: 26 Aug 2020 23:54 UTC
+! Last modified: 27 Aug 2020 23:35 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -68,9 +68,9 @@
 -ga-tracking/
 -gatracker.
 -geoIP.js
--google-analytics-
+-google-analytics-$domain=~whmcsadmintheme.com|~wordpress.org
 -google-analytics.
--google-analytics/
+-google-analytics/$domain=~whmcsadmintheme.com|~wordpress.org
 -google-tag-manager/$script,domain=~wordpress.org
 -heatmaps-analytics/
 -imppix/
@@ -3861,6 +3861,7 @@
 /standalone-analytics-
 /stat-adobe-
 /stat-analytics/*
+/stat-dfp.
 /stat.asmx
 /stat.aspx?
 /stat.cgi?
@@ -6230,6 +6231,7 @@ _mongo_stats/
 ||dmtracker.com^$third-party
 ||dmtry.com^$third-party
 ||dmxleo.com^$third-party
+||doceree.com^$third-party
 ||doclix.com^$third-party
 ||dojomojo.com^$third-party
 ||dojomojo.ninja^$third-party
@@ -8624,6 +8626,7 @@ _mongo_stats/
 ||attractivecap.com^$third-party
 ||audioarctic.com^$third-party
 ||automaticside.com^$third-party
+||awakebird.com^$third-party
 ||awzbijw.com^$third-party
 ||axiomaticalley.com^$third-party
 ||ayc0zsm69431gfebd.info^$third-party
@@ -8817,6 +8820,7 @@ _mongo_stats/
 ||stalesummer.com^$third-party
 ||steadfastsound.com^$third-party
 ||steepsquirrel.com^$third-party
+||stepplane.com^$third-party
 ||stiffstem.com^$third-party
 ||storesurprise.com^$third-party
 ||stormyachiever.com^$third-party
@@ -10094,6 +10098,7 @@ _mongo_stats/
 ||areyouahuman.com/kitten?
 ||argos.citruserve.com^
 ||ariane.abtasty.com^$third-party
+||asayer.io/tracker.js
 ||aserve.directorym.com^
 ||ask.com^*/i.gif?
 ||assoc-amazon.*^e/ir?t=$image
@@ -13153,6 +13158,7 @@ _mongo_stats/
 ||blinkist.com/t?
 ||blip.tv/engagement?
 ||blockchain.info/Resources/analytics.js
+||bloom.triplebyte.com^$xmlhttprequest
 ||bloomberg.com/apps/data?referrer
 ||bloxcms.com^*/tracker.js
 ||bluenile.ca/track/
@@ -13690,7 +13696,7 @@ _mongo_stats/
 ||glamourmagazine.co.uk^*/LogPageView
 ||glassmoni.researchgate.net^
 ||global.canon^*/analytics.js
-||global.ssl.fastly.net^$script,xmlhttprequest,domain=allmodern.com|argos.co.uk|birchlane.com|courierpress.com|desertsun.com|eddiebauer.com|glassesusa.com|indystar.com|jsonline.com|kurtgeiger.com|legacy.com|lenovo.com|lohud.com|mentalfloss.com|naplesnews.com|northjersey.com|perigold.com|quickship.com|quikshiptoner.com|radiotimes.com|sainsburys.co.uk|sanuk.com|ugg.com|usatoday.com|wayfair.co.uk|wayfair.com
+||global.ssl.fastly.net^$script,xmlhttprequest,domain=allmodern.com|argos.co.uk|birchlane.com|courierpress.com|desertsun.com|eddiebauer.com|glassesusa.com|indystar.com|jsonline.com|kurtgeiger.com|legacy.com|lenovo.com|lohud.com|mentalfloss.com|naplesnews.com|northjersey.com|perigold.com|quickship.com|quikshiptoner.com|radiotimes.com|sainsburys.co.uk|sanuk.com|theadvertiser.com|ugg.com|usatoday.com|wayfair.co.uk|wayfair.com
 ||globes.co.il/ga.asp
 ||globes.co.il/shared/s.ashx?
 ||globester.com^*/track.js
@@ -16702,6 +16708,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||compare.easyviaggio.com^
 ||deagostinipassion.it/collezioni/analytics.js
 ||emng.libero.it^
+||execution-ci360.rai.it^
 ||fanpage.it/views/
 ||freeonline.org/sito_track?
 ||gazzetta.it^*/stats.php?
@@ -17403,6 +17410,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||px-cdn.net/api/v2/collector/ocaptcha$xmlhttprequest
 @@||quantcast.com/wp-content/themes/quantcast/$domain=quantcast.com
 @@||quantcast.mgr.consensu.org/cmp.js$script,domain=cyclingnews.com|ladbible.com
+@@||quantcast.mgr.consensu.org^*/cmp2.js$script,domain=independent.co.uk
 @@||quantserve.com/quant.js$domain=apps.facebook.com|nymag.com
 @@||rasset.ie/dotie/js/tracker.js$domain=rte.ie
 @@||rba-screen.healthsafe-id.com/fp/tags.js$script,domain=myuhc.com

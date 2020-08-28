@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: npDhhNqSOlwd8OtgCqNaAg
+! Checksum: WbuoRV6VX7XJVxUVNbwO5w
 ! Title: Polskie Filtry Elementów Irytujących
 ! Polish Annoyance Filters
 ! Codename: Annoyance - Main
 ! Description: Filtry ukrywające i blokujące wyskakujące okienka, widgety, newslettery, powiadomienia push, strzałki, otagowane linki wewnętrzne, które są nie na temat artykułów (np. link do pracy w Bydgoszczy w artykule o pogodzie) i inne drażniące elementy (Polskie Filtry RODO-Ciasteczkowe oryginalnie stworzone przez MajkiIT są już w nich zawarte).
 ! Required: Do poprawnego działania wymagana jest lista lub rozszerzenie I don't care about cookies!
-! Last modified: Wed, 26 Aug 2020, 20:00 UTC+02
-! Version: 2020.8.26.3
+! Last modified: Thu, 27 Aug 2020, 23:00 UTC+02
+! Version: 2020.8.27.1
 ! Expires: 2 days
 ! Najnowsza wersja zawsze na: https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters
 ! Zgłoszenia:
@@ -14,7 +14,7 @@
 !   GitHub => https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/deed)
 ! Copyright © 2020 Polish Filters Team
-! Aktualizacja: śro, 26 sie 2020, 20:00 UTC+02
+! Aktualizacja: czw, 27 sie 2020, 23:00 UTC+02
 !
 !
 ! Newslettery (nie popupy)
@@ -2247,6 +2247,7 @@ projektwp.pl###ga-popup-id-2817
 proline.pl##div[style*="visibility: visible; display: block;"]
 prostowsmak.com###ffbp
 protego.pl###newsletterInfo, body[data-news-modal="open"]:after
+pro-test.pl###abonament_top
 pruszynski.com.pl###p_layer
 przedsiebiorcza.com###spu-2217, #spu-bg-2217
 przegladbaltycki.pl###simplemodal-overlay, #simplemodal-container
@@ -2855,6 +2856,7 @@ bartyla.pl,holisticclinic.pl##.trx_addons_scroll_to_top
 baterie-hurt.pl,cena33.pl,dompolpro.pl,drogeria-ekologiczna.pl,etroniks.pl,metaltech.com.pl,pmi.org.pl,postwood.pl,rebelelectro.com,sklep.yasumi.pl,staypoland.com,terazteatr.pl###to_top
 baza-firm.com.pl###goTopArrow
 bekoczesci.pl###tbScrollToTop
+benchmark.pl##.jsScrollToTop.btn--to-top
 beskidy.news,intimissimi.com,nawa.gov.pl,powiatslubicki.pl##.js-scroll-top
 betterland.pl,swiece-zaplonowe.pl###to_top_wrap
 bettingexpert.com##.slideInUp
@@ -3022,7 +3024,7 @@ goldwell.com###area-PageTop
 gomez.pl##.custom-top-fixed.btn
 goodie.pl###main-container > .ax > #header ~ footer.s5 + .hf.he > .hg
 google.com##.step-scroller
-gorke.eu,hdtvpolska.com,polako.eu,szopienice.org,twojcel.to##.go-to-top
+gorke.eu,hdtvpolska.com,pl.genesis-zone.com,polako.eu,szopienice.org,twojcel.to##.go-to-top
 gorlice.pl,wieliczka.eu###global-scrollup
 gosc.pl,promocje.al.to,promocje.x-kom.pl##.GoToTop
 gotujwstylueko.pl##.move-up
@@ -4296,6 +4298,7 @@ brief.pl##.next-prev-post, .post-related
 brodatyzbir.pl##.posts-pagination > .post-pagination
 bsigroup.com###loading-screen
 budujemydom.pl##.mod-zajawka, .box-zajawkowe, .monthly-advertisment
+burbonik.pl,popkulturysci.pl##a.g1-teaser
 bursiak.pl,flatfeefsbo.com,lionteam.pl,meblosfera.pl,network-interactive.pl,siecportali.pl,uzdrowiska-pgu.pl,wizja.net##.preloader
 businessinsider.com.pl###goback
 busko.net.pl###upPrevSlide
@@ -4757,7 +4760,6 @@ poloniawroclaw.pl##.sfl-widget--ribbon__fixed, .ys-sidebar-btn-2
 polskicaravaning.pl###\35 3419
 polstor.pl##.tax-free-shopping
 pomoc.ifirma.pl##.pokaz-info.fixed-bottom.info-rejestracja
-popkulturysci.pl##.g1-teaser
 poradnikhandlowca.com.pl##.region-page-bottom > #slidead-popup
 poranny.pl##a[href*="&utm_campaign=prenumerata-swiateczna"]
 portalhodowcy.pl##.kac-sm-panel > ul:nth-of-type(2)
@@ -5267,6 +5269,7 @@ pracedyplomowe.edu.pl###layer1[style]
 prawo.gazetaprawna.pl##.buySubscription
 prestizszczecin.pl##.pane-views-magazyn-okladka-aktualna.pane-block.panel-pane
 prestiztrojmiasto.pl##.pane-home-temat-glowny .dodatek
+pro-test.pl#?#div.blokRight:-abp-has(a:-abp-contains(/Nowość|Prenumerata/))
 przegladlokalny.eu##.right-sidebar > .right-header, .right-sidebar > .text-center
 przegladlokalny.eu##.section-special
 przegladpiaseczynski.pl##.td_block_padding.td-column-1.td_block_template_1.td-pb-border-top.tdi_27_556.td_block_3.td_block_wrap
