@@ -789,6 +789,7 @@ de-nis-ner-mi-5.info
 debug-vp.webmd.com
 deepknow.egoid.me
 dejavu.mercadolivre.com.br
+deliver.oztam.com.au
 deliver.ptgncdn.com
 desa.fkapi.net
 desb.fkapi.net

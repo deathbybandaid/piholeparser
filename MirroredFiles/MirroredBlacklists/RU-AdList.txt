@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Z6Y393xsB9LJiCm7HX8zBw
-! Version: 202008280020
+! Checksum: KVbcsTfvYnwPl7kpvIByTw
+! Version: 202008290020
 ! Title: RU AdList
-! Last modified: 28 Aug 2020 00:20 UTC
+! Last modified: 29 Aug 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -12618,7 +12618,7 @@ photoshablon.ru##.b_verh_st
 mmorpg.ua##.back1
 cossa.ru##.background-figure
 myfin.by##.background_link
-1informer.com,alau.kz,fainaidea.com##.backstretch
+1informer.com,alau.kz,fainaidea.com,mediasat.info##.backstretch
 videozal.club##.bad
 delo.ua,libertycity.ru,ntr-24.ru,sibinfo.su##.ban
 mgorod.kz##.ban-head
@@ -12663,7 +12663,7 @@ lookatme.ru##.banner-border-wrap
 rusbody.com,spartak.ru##.banner-box
 driveroff.net,samlab.ws##.banner-categories
 repost.uz##.banner-center
-job.ru,kaluga-poisk.ru,newsvl.ru,tet.tv##.banner-container
+job.ru,newsvl.ru,tet.tv##.banner-container
 para.by##.banner-cube
 biysk-ok.ru##.banner-default
 ykt.ru##.banner-desktop
@@ -12785,6 +12785,7 @@ animelend.info#?#.base:-abp-has(.r-r:-abp-has(script:-abp-contains(/^bbs_/)))
 animelend.info#?#.base:-abp-has(.r-r:-abp-has(script[src]:not([src*="/templates/"])))
 zh24.com##.baseer > .heading
 agorov.org,animevost.am,animevost.org,animevost.site,smotret-anime-365.ru##.batre
+aces.gg##.baz
 hd720kino.ru,kinopoc.me##.bazuka
 omastopatii.ru##.bb-a_b
 videoredaktor.ru##.bbbOwner
@@ -13009,6 +13010,7 @@ info.sibnet.ru##.brend_area
 info.sibnet.ru##.brend_float_link
 cpainform.ru##.brendingBg
 znanija.com##.brn-ads-box
+kaluga-poisk.ru##.brn-container
 games-tv.ru##.brndblock
 games-tv.ru##.brndlnk
 klanwin.ru,pi-c.ru##.browse
@@ -13065,7 +13067,6 @@ play.tavr.media##.channel-centre > .bottom-links ~ .d-md-block
 kinoafisha.info##.channels_item-zen
 newinform.com#?#.chapter_block:-abp-has(> div:-abp-contains(/Новости партнеров/i))
 profinance.ru##.charts-ad
-chita.ru##.chitaru__wonder__call-back
 ura.news##.cl-tooday-smi
 i.ua##.clear.logo_container
 games-archive.net##.cleared
@@ -13372,6 +13373,7 @@ vgtimes.ru##.fatad
 pravdatut.ua##.favorites-block__list
 ficbook.net##.fb-ads-block
 villaved.ru##.fbln
+hi-fi.ru##.feature__ad-block
 syl.ru#?#.featured_articles > .header:-abp-contains(/^Новости партнеров|^Также читайте/)
 fast-film.org,fast-film.ru,fast-fiml.ru,fast-torrent.club,fast-torrent.ru,fast-torrent.su,fasttorent.su,filmopotok.ru,filmpotok.ru,kinomaniac.ru,pickfilm.ru,veleto.ru##.film_page > div:not([id]):not([class]) > center
 nixp.ru##.firefox
@@ -13648,6 +13650,7 @@ upload.com.ua##.info_banner_block
 igromania.ru#?#.info_block_box:-abp-has(.info_block_botrt:-abp-contains(Особый проект))
 soft.oszone.net##.info_one
 pnp.ru##.infoblock > div[style="height: 900px;"]
+aces.gg##.infopanel_left
 uaspectr.com##.information__image
 point.md##.informer-widget
 gazeta.ua##.informer.double
@@ -13727,6 +13730,7 @@ love.e1.ru##.js-column-fixed-banner
 promodj.com##.js-core_branding
 tsn.ua##.js-gallery-aside
 shakai.ru##.js-layout__block--banner
+3dnews.ru##.js-mediator-article > p:first-child + div[style="margin-top: 15px !important;"] + hr
 minfin.com.ua##.js-modal-auction-promo
 auto.ria.com##.js-newAutoSearchItemInformer
 sportfm.ru##.js-news-partners
@@ -14438,6 +14442,7 @@ otzovik.com##.review-body > div
 tmbw.ru#?#.reviewwidget:-abp-has(.adwidget)
 medvesti.com##.rew-block
 matchtv.ru##.rexona_player_play
+budport.com.ua##.rgt-col > div[class][onclick]
 62info.ru##.rhead
 meta.ua##.riaBanner
 lostfilm-online.org##.right > .bb ~ *
@@ -15490,7 +15495,6 @@ makler.md##[id^="header_wideBann"]
 funmult.ru##[id^="icqwin_"]
 popcornnews.ru##[id^="illumination"]
 echo.msk.ru##[id^="kursvalut-com-informer"]
-gamebomb.ru##[id^="mainbackgr"]
 floradoma.com##[id^="my1kil_"]
 hitvk.mobi##[id^="n-rek-"]
 1927.kiev.ua,3dtoday.ru,5.ua,allboxing.ru,amic.ru,aratta-ukraine.com,asiaplustj.info,astrovedus.com,belaruspartisan.org,bigmir.net,bilshe.com,book-neva.narod.ru,brovary.net.ua,comments.ua,dt.ua,dv-gazeta.info,e-reading.club,echo.msk.ru,ecology.md,enovosty.com,fedpress.ru,football.by,from-ua.com,galinfo.com.ua,galka.if.ua,hdkinoteatr.com,hronika.info,i-news.kz,ictv.ua,infomir59.ru,inforesist.org,informat.com.ua,izmacity.com,kiev24.ua,korrespondent.net,kurufin.ru,liga.net,mskd-ru.net,neizvestniy-geniy.ru,news-front.info,newsone.ua,newspravda.com,nibler.ru,niknews.mk.ua,noi.md,nwcod.com,petrogazeta.ru,planetanovosti.com,prostotech.com,qiqru.org,qrz.ru,railway.kanaries.ru,real-vin.com,rusdozor.ru,rusjev.net,segodnya.ua,shans.com.ua,smolensk-i.ru,sportfm.ru,subject.com.ua,tambovnet.org,tehnowar.ru,ternopillive.com.ua,tochka.net,tyurem.net,uainfo.org,ucrazy.ru,unn.com.ua,vd-tv.ru,vedomosti-ural.ru,volynnews.com,wpristav.ru,xsport.ua,yvision.kz,zakon.kz,zi.dn.ua,zn.ua,znaj.ua##[id^="n4p_"]
@@ -16725,6 +16729,7 @@ sports.kz##div[class^="brndng"]
 24auto.ru##div[class^="brrr_"]
 lada-granta.net,lkforum.ru##div[class^="but-150"]
 umu.org.ua##div[class^="c40-reveal-modal"]
+chita.ru##div[class^="chitaru__wonder"]
 ixbt.com##div[class^="clickable_zone"]
 mobihobby.ru##div[class^="com-"]
 myanimecorner.ru##div[class^="commercials"]
@@ -17096,6 +17101,7 @@ akipress.org##div[id^="who_portal"]
 xn--c1adkjnf.net,легион.net##div[id^="widget_code_php"]
 indi1.top#?#div[id^="widget_wrapper_"]:-abp-has(#vid_vpaut_div)
 indi1.top#?#div[id^="widget_wrapper_"]:-abp-has(.widget_video_ads)
+gamebomb.ru##div[id^="wrapper"] > div > #header + div[style]
 glav.su##div[id^="ya-rtb"]
 mosday.ru##div[id^="yaad"]
 soccer0100.com,spectehinfo.ru,trudbox.com.ua##div[id^="yandex_direct"]
@@ -17104,7 +17110,6 @@ mega-stars.ru##div[id^="youtube_ad_"]
 chelny-izvest.ru##div[name="checkHideAd"]
 ura.news##div[ng-bind-html="item.right_banner"]
 avtonavideo.ru,chinimavto.ru,minecraftnavideo.ru,multivarki-redmond.ru,odezhda2.ru,piling.re,pol-video.ru,prigotovit.org,prohozhuigru.ru,remontnavideo.ru,shiny2.ru,televizor2.ru##div[onclick*="SkipR"]
-budport.com.ua##div[onclick*="banners"]
 allserial.tv##div[onclick*="document.getElementById('ambn"]
 torrentk.ru##div[onclick*="savefrom.ws"]
 mastergrad.com##div[onclick*="Кликнул по рекламе"]
