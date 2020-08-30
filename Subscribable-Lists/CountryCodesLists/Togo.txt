@@ -5,3 +5,4 @@ haactogo.tg
 lesconcurrents.tg
 nunyalab.tg
 valeurscitoyennes.tg
+woelab.tg

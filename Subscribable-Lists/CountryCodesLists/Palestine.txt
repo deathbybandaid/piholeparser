@@ -16,6 +16,7 @@ isso.ps
 kutla.ps
 laptop.com.ps
 masader.ps
+mobadarat.ps
 nabali.ps
 pioneer.ps
 zane.ps

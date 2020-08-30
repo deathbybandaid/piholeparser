@@ -186,6 +186,7 @@ brundt.ro
 bucatariioutlet.ro
 bucharestcars.ro
 buchedosa.ye.ro
+bugetareparticipativa.primariaarad.ro
 bursaforex.home.ro
 bus4rent.ro
 business.dropbox.okamotocorp.sportsmag.ro
@@ -454,7 +455,6 @@ iarpp.ro
 icpet-intrometic.ro
 ifish.ro
 ikjncdnfjr.ro
-ilcavo.ro
 iliebike.ro
 illitrading.ro
 iloveitaly.ro
@@ -466,6 +466,7 @@ incercari.icedesign.ro
 indivizual.ro
 indochina-art.ro
 infosantioana.hi2.ro
+infoturismzavoi.ro
 ingservice.ro
 innovaclean.ro
 inspireconsulting.ro
@@ -474,6 +475,7 @@ instalcons.ro
 int.bacm.ro
 integratio.ro
 intelicasa.ro
+interact-networks.ro
 intreprinde.ro
 investitiispatiiverzis3.ro
 invitationpro-edit-via-docu-signii.myhomeplace.ro
@@ -533,6 +535,7 @@ log.statistici.ro
 log.trafic.ro
 loto.ro
 lotusulalb2.ro
+lovemark.ro
 lucibad.home.ro
 lucidius.ro
 lumeasomnului.ro
@@ -579,6 +582,7 @@ mindstormstudio.ro
 mindtherapy.ro
 mini-stars.ro
 minovici.ro
+miradoors.ro
 mizag.ro
 mmdsz.ro
 moaramariei.ro
@@ -635,6 +639,7 @@ newline.brando.ro
 news.oboyle.ro
 news123.ro
 newsrevistafemei.ro
+nexi-centro-di-rilevamento-delle-frodi.ilcavo.ro
 nickvero.3x.ro
 nicolau11a-iasi.home.ro
 nistorinsolventa.ro
@@ -750,7 +755,6 @@ qds.count.brat-online.ro
 qp97se4uxsi1qbd5llp1.viomil.ro
 radionext.ro
 radioomega.ro
-raffe.ro
 ralmedia.ro
 ramnicu-valcea.ro
 ramonaraducan.ro
@@ -933,11 +937,11 @@ transilvaniatattoo.ro
 transporturi-agabaritic.ro
 transregio.ro
 treidoiunu.ro
+tricouri-brand.ro
 trustsoft.ro
 tudialactate.ro
 tulcealive.ro
 turkishkebab.ro
-twist.ro
 uggreduceri.ro
 unilite.ro
 unimed.ro
@@ -982,6 +986,7 @@ webstats.lx.ro
 whatsapp.com.livingit.ro
 whitehat.ro
 wildheart.ro
+wpmu.rmjsolutions.ro
 wusromania.home.ro
 www-bancoestado.cl.scoaladesoferi-azratim.ro
 www.3x.ro
@@ -1047,5 +1052,4 @@ zaidia.xhost.ro
 zamburi.ro
 zebramov.ro
 zefirdecor.ro
-zoratech.ro
 zughy.uv.ro

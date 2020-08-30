@@ -2,35 +2,35 @@
 [Return To Main](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 ____________________________________
 # 
-## Calculating Average Parsing Time Sat Aug 29 00:34:03 UTC 2020
-Process Took 0 Seconds.
+## Calculating Average Parsing Time Sun Aug 30 00:34:24 UTC 2020
+Process Took 1 Seconds.
 [Details If Any](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/10-Calculating-Average-Parsing-Time.md)
 
-## Calculating Average Parsing Lines Sat Aug 29 00:34:03 UTC 2020
-Process Took 1 Seconds.
+## Calculating Average Parsing Lines Sun Aug 30 00:34:25 UTC 2020
+Process Took 0 Seconds.
 [Details If Any](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/15-Calculating-Average-Parsing-Lines.md)
 
-## Calculating Total Runtime Of Script Sat Aug 29 00:34:04 UTC 2020
+## Calculating Total Runtime Of Script Sun Aug 30 00:34:25 UTC 2020
 Process Took 0 Seconds.
 [Details If Any](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/20-Calculating-Total-Runtime-Of-Script.md)
 
-## Calculating TLD Percentages Sat Aug 29 00:34:04 UTC 2020
+## Calculating TLD Percentages Sun Aug 30 00:34:25 UTC 2020
 Process Took 2 Minutes.
 [Details If Any](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/65-Calculating-TLD-Percentages.md)
 
-## Looking At What Did Not Pass TLD Test Sat Aug 29 00:36:42 UTC 2020
-Process Took 1 Seconds.
+## Looking At What Did Not Pass TLD Test Sun Aug 30 00:37:04 UTC 2020
+Process Took 0 Seconds.
 [Details If Any](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/68-Looking-At-What-Did-Not-Pass-TLD-Test.md)
 
-## Adjusting README Sat Aug 29 00:36:43 UTC 2020
+## Adjusting README Sun Aug 30 00:37:04 UTC 2020
 Process Took 0 Seconds.
 [Details If Any](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/70-Adjusting-README.md)
 
-## Removing Temporary Script Files Sat Aug 29 00:36:43 UTC 2020
+## Removing Temporary Script Files Sun Aug 30 00:37:04 UTC 2020
 Process Took 0 Seconds.
 [Details If Any](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/75-Removing-Temporary-Script-Files.md)
 
-## Pushing Lists To Locally Hosted Location Sat Aug 29 00:36:43 UTC 2020
-Process Took 0 Seconds.
+## Pushing Lists To Locally Hosted Location Sun Aug 30 00:37:05 UTC 2020
+Process Took 1 Seconds.
 [Details If Any](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/80-Pushing-Lists-To-Locally-Hosted-Location.md)
 

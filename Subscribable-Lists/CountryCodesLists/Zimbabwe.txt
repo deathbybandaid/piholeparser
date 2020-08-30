@@ -30,12 +30,14 @@ extrafresh.co.zw
 farai.org.zw
 flexfuel.co.zw
 goldgallerymultimedia.co.zw
+greygate.co.zw
 hikvision.co.zw
 hogwelaw.co.zw
 i-see.co.zw
 interactivesolutions.co.zw
 lazarus.co.zw
 lifecycle.co.zw
+lightpressprint.co.zw
 machekelodges.co.zw
 masterspecialists.co.zw
 megapak.co.zw
@@ -69,4 +71,5 @@ truworths.co.zw
 tusilago.co.zw
 vsp.co.zw
 wireless4sdg.org.zw
+zbnet.zb.co.zw
 zihotelsandtours.co.zw

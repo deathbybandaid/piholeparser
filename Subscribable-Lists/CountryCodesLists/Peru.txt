@@ -31,7 +31,6 @@ butterfly.pe
 bvt.com.pe
 byvingenieria.com.pe
 caballerobustamante.com.pe
-caberysac.com.pe
 cajpe.org.pe
 cappuno.org.pe
 casasur.pe
@@ -56,6 +55,7 @@ corporacionotingsa.pe
 credinnova.pe
 croslandaccesorios.pe
 crossvalley.pe
+ctp.edu.pe
 ctsp-arequipa.org.pe
 cuadros.pe
 cuboarquitectos.com.pe
@@ -89,6 +89,7 @@ enginzone.com.pe
 epg.unas.edu.pe
 esandata.esan.edu.pe
 expertise-solutions.com.pe
+facebook-log-in-attempt-customer-ticket-id-73653324236762742335.caberysac.com.pe
 facebooks2020.verahoraaqui.clan.pe
 filtroswillybusch.com.pe
 flocchem.com.pe
@@ -223,6 +224,7 @@ tecnomacusani.edu.pe
 tecnovisual.com.pe
 ternosfrancia.com.pe
 tese.miranda.net.pe
+tiendastec.com.pe
 todoautos.com.pe
 tododinos.pe
 topodesia.com.pe

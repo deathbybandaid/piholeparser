@@ -8,8 +8,10 @@ aludagoglichidze.ge
 answers.ambebi.ge
 assets.drawbrid.ge
 autism.org.ge
+automed.ge
 banners.aris.ge
 bursan.ge
+conferenceroom.ge
 counter.internet.ge
 counter.top.ge
 csdelux.ge
@@ -60,6 +62,7 @@ ljclinic.ge
 login.drawbrid.ge
 manuscript.ge
 marketplace.drawbrid.ge
+mbsolutions.ge
 medianews.ge
 misc.drawbrid.ge
 mnsglobal.ge
@@ -83,6 +86,7 @@ sandiltd.ge
 sante.ge
 service-paypal.com.verification.your.account.riktravel.ge
 skola-graali.ge
+skystudio.ge
 sprintdental.ge
 starcarrent.ge
 stargroup.ge

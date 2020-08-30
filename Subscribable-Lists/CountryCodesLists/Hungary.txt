@@ -60,6 +60,7 @@ adware.hu
 afb-developers.pe.hu
 agrarszakkepzes.hu
 agriaegeszseg.hu
+agtrade.hu
 ahadoj.pe.hu
 ajandekozz.hu
 aladin.hu
@@ -315,6 +316,7 @@ intraweb.hu
 invivo.hu
 iphoneszervizbudapest.hu
 iranydalmacia.hu
+itsecr.hu
 ize.hu
 izeselet.hu
 izvilagkft.hu
@@ -343,6 +345,7 @@ kisker.czisza.hu
 kivalodolgozo.hu
 klikkzsirafok.hu
 konyvnet.hu
+kosoa.hu
 kossuthlajosaltisk-mezotur.hu
 kovacsvagas.hu
 kovesszucs.atw.hu
@@ -359,6 +362,7 @@ lesbian.hu
 lib.hu
 limitedpaypalservicesaccount.pe.hu
 linkpps.pe.hu
+liska-szki.hu
 litakbona.pe.hu
 liveu.infoteka.hu
 lock-vkcom-hd6dhdajda67dsfsdf45g.pe.hu
@@ -429,7 +433,6 @@ nyugat.hu
 okker.hu
 oktatasicentrum.uw.hu
 oleksandr.pe.hu
-onemanband.hu
 organikusok.blogspot.hu
 orgonafuvo.hu
 origins.hu
@@ -569,6 +572,7 @@ szinesgyongyok.hu
 szinhaz.hu
 szinhazak.hu
 szlavikmez.hu
+szoboszlorhinos.hu
 szocrelikvia.hu
 szolnokimavse.hu
 szolnoksobarlang.hu

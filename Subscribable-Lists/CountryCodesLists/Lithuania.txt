@@ -43,7 +43,6 @@ bikinishop.lt
 bioanalysis.lt
 blusyne.lt
 bnc.lt
-boxinn.lt
 brabra.lt
 bvn.lt
 cache.ads.kartu.lt
@@ -59,6 +58,7 @@ custom.bnc.lt
 dating.lt
 dcfloraldecor.lt
 deconex.lt
+demo.boxinn.lt
 dev.bnc.lt
 digitalcore.lt
 dineka.lt

@@ -54,6 +54,7 @@ artigiani.co.il
 artlab.co.il
 asfanit.co.il
 ashop.co.il
+assaf-audio.co.il
 avshalom-inst.co.il
 babyshop.co.il
 balisex.co.il
@@ -95,6 +96,7 @@ click.inn.co.il
 clicks.walla.co.il
 clicktravel.co.il
 club-ramon.co.il
+cnaantours.co.il
 coffeeshop.co.il
 computershop.co.il
 coral-tell.co.il
@@ -180,6 +182,7 @@ iad.co.il
 ibooks.co.il
 iclaw.co.il
 id.google.co.il
+idan-online.co.il
 idfonline.co.il
 igi.ybay.co.il
 ikosher.co.il
@@ -222,6 +225,7 @@ klikcenter.co.il
 kol-sh.co.il
 koren.org.il
 koresh.co.il
+krais.co.il
 krina.co.il
 ksharim.co.il
 kst.co.il
@@ -242,7 +246,6 @@ m.uzit.co.il
 machshava.co.il
 mafdali.co.il
 mag.co.il
-magicstore.co.il
 maha.co.il
 mailjobs.co.il
 manage.free.fr-service-diagnostic-mon-compte.overbayit.co.il
@@ -266,6 +269,7 @@ misradia.co.il
 mitos.co.il
 moav.co.il
 momy.co.il
+moraniz.co.il
 mosesrest.co.il
 mushi.co.il
 mybait.co.il
@@ -320,6 +324,7 @@ powerelectric.co.il
 presidentescort.co.il
 prolink.co.il
 prosports.co.il
+qatzrin.muni.il
 rakia7.co.il
 ramadan-nights.co.il
 ramon-eng.co.il
@@ -334,6 +339,7 @@ rm.tapuz.co.il
 roome.co.il
 roshdeshe.co.il
 rri.co.il
+rsdesign.co.il
 sasson-cpa.co.il
 satlan.co.il
 savyonim-flowers.co.il

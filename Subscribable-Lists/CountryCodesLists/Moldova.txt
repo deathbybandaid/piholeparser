@@ -7,6 +7,7 @@ baccarat.md
 barca.md
 bionorica.md
 blackjack.md
+bomba-service.md
 cadouribune.md
 casaitaliana.md
 casinos-online.md
@@ -42,6 +43,7 @@ luisaspagnoli.md
 lvivske.md
 margarita.md
 member.update.account.information.aarhus.vox.md
+miradoors.md
 mobilemedia.md
 mywedding.md
 numbers.md

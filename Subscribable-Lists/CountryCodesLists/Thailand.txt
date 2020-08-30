@@ -2,6 +2,7 @@
 aaasolution.co.th
 academicplc.panyapiwat.ac.th
 accesstrade.in.th
+accounting.utc.ac.th
 admin3.rtaf.mi.th
 admission.lampangvc.ac.th
 ads.bangkokpost.co.th
@@ -28,6 +29,7 @@ byteark-analytics.thairath.co.th
 cgh.co.th
 chill.co.th
 chom.co.th
+chumchonbanrawayschool.ac.th
 comenu.ais.co.th
 consmat.co.th
 cro.moph.go.th
@@ -118,6 +120,7 @@ paco.co.th
 paknakhon.in.th
 pantukam.bsru.ac.th
 petkasem.ac.th
+ph.sci.lru.ac.th
 phatthalung.go.th
 phayamengrai.chiangrai.doae.go.th
 phitsanulok1.go.th

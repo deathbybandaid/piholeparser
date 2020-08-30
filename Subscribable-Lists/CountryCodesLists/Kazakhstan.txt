@@ -91,6 +91,7 @@ duman.kz
 e-corporation.kz
 e-stroymart.kz
 ef.enu.kz
+elvin-trade.kz
 engineercenter.kz
 env-1340702.j.dnr.kz
 env-4839.j.dnr.kz
@@ -193,7 +194,6 @@ news.movieworld.kz
 nikland.kz
 nl.web-cdn.kz
 nurai-balabagsha.kz
-nurcom.kz
 okna-veka.kz
 omc.marketone.kz
 panelli.kz
