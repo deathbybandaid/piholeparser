@@ -16,6 +16,7 @@ cameragear.lk
 cdn.2app.lk
 cea.lk
 celltronics.lk
+ceylonellataxi.lk
 chiefsec.wpc.gov.lk
 cl.lk
 clueman.lk
@@ -85,6 +86,7 @@ tmgomas.lk
 uniqueacademy.lk
 virusara.gov.lk
 vjcon.lk
+wasanacare.lk
 westgate.lk
 www.coastguard.gov.lk
 www.dlb.lk

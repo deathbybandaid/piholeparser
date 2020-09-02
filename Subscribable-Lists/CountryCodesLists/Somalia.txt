@@ -5,7 +5,6 @@ asd.projectfreetv.so
 asd2.projectfreetv.so
 bankofamerica.com.libfoobar.so
 bos.so
-eon.so
 k.5qa.so
 mogadishushippinglines.com.so
 qiimoqaran.so

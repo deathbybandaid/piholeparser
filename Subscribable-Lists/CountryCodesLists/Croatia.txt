@@ -7,6 +7,7 @@ amalgam.hr
 amphibian.edivovina.hr
 analytics.styria.hr
 bipaparfemi.hr
+bonum.hr
 cryptosistem.hr
 damara.hr
 dating.hr

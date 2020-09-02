@@ -1,7 +1,6 @@
 2mdn.net
 7w.ro
 ad.doubleclick.net
-ad.mox.tv
 adexc.net
 admonitoring.bsgroup.ro
 ado.icorp.ro
@@ -66,8 +65,5 @@ taboola.com
 tesseradigital.com
 track.atom-data.io
 tynt.com
-vy4e3jw46l.com
 www4.smartadserver.com
-xn--ldl-rma.eu
-xzipy.com
 zm232.com

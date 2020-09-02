@@ -248,6 +248,7 @@ creamgod.0pe.kr
 creamgod.kro.kr
 cross.coinone.co.kr
 crosspush.coinone.co.kr
+csedu.kr
 csi.cauly.co.kr
 custom.admixer.co.kr
 custom.cauly.co.kr
@@ -294,7 +295,6 @@ dory.co.kr
 dothost.co.kr
 down.ancamera.co.kr
 down.nowdream.kr
-down.startools.co.kr
 downinfo.cauly.co.kr
 dp25.kr
 dpoint.co.kr
@@ -414,7 +414,6 @@ hanaphoto.co.kr
 hanaskylife.co.kr
 hanul.0pe.kr
 happymoney.co.kr
-hasdobdob.csedu.kr
 hello1230.0pe.kr
 hhh0488.kro.kr
 hi1001.co.kr
@@ -839,7 +838,6 @@ viruscheck.co.kr
 visionpc.co.kr
 vitamin-loan.co.kr
 vksaodyd.kro.kr
-vniel.co.kr
 vrankendiamant.co.kr
 vtcmdr.0pe.kr
 wairyultrasound.co.kr

@@ -11,7 +11,6 @@ doustourna.tn
 eeda.tn
 healthtech.tn
 hicast.tn
-ic3m.tn
 imcb.com.tn
 impotsgouvfr.tn
 isb.ens.tn

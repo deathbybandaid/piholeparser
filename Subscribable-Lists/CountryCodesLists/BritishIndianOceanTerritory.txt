@@ -13,9 +13,9 @@
 22lco.codesandbox.io
 24e8c1f6.ngrok.io
 26c52281.ngrok.io
+28d636e3e84b.ngrok.io
 29d3bc08769a.ngrok.io
 2bc41e514f72.ngrok.io
-2dee2b9e0f5a.ngrok.io
 2hbll.codesandbox.io
 2iqzg.codesandbox.io
 2ndswing.extole.io
@@ -23,7 +23,6 @@
 354cf0bd.ngrok.io
 36236bc2d243.ngrok.io
 3bc321e6.ngrok.io
-3be5155fefba.ngrok.io
 3d0cb547.spacebrony.dnb.io
 3e63f1d9.ngrok.io
 4.top4top.io
@@ -142,11 +141,11 @@
 6e33r.codesandbox.io
 6rvpo.codesandbox.io
 708483f4.ngrok.io
+7297dbc79dce.ngrok.io
 74d0c9c8.ngrok.io
 752f7b76.ngrok.io
 75abd9f5.ngrok.io
 76c70d04637d.ngrok.io
-7b1bdf18c07f.ngrok.io
 7t9dw.codesandbox.io
 82aecc11.ngrok.io
 840e4d67.ngrok.io
@@ -469,6 +468,7 @@ bitc.youpool.io
 bitcash.luckypool.io
 bitcoadz.io
 bitcoinz.miningpool.io
+bitcolony.io
 bitcore.io
 bitmedia.io
 bitminer.io
@@ -714,6 +714,7 @@ dev-seu.pantheonsite.io
 dev-sfnlogin.pantheonsite.io
 dev-st3.pantheonsite.io
 dev-team-176.pantheonsite.io
+dev.boxia.io
 dev.branch.io
 dev.cdn.districtm.io
 dev.dmx.districtm.io
@@ -758,7 +759,6 @@ dy.adserve.io
 dynya-may.github.io
 e-v2.presage.io
 e.top4top.io
-e0b8d8dde645.ngrok.io
 e2cb3799.ngrok.io
 e52lyc3a-android.mobile-sdk-api.intercom.io
 e71290f6.ngrok.io
@@ -978,6 +978,7 @@ grafana.dmx.districtm.io
 graft.luckypool.io
 graft.uax.io
 gramview.yellow-bat-79.telebit.io
+granger.io
 graphly.io
 grf.easyhash.io
 grft.easyhash.io
@@ -1410,6 +1411,7 @@ octomerris.getforge.io
 odfknhdujd.github.io
 office-notice.github.io
 ogury.eu-west-1.stinger-ad.bidr.io
+ogz6d.codesandbox.io
 ohac.github.io
 old-bitcash.luckypool.io
 old-etn.uax.io
@@ -1513,6 +1515,7 @@ pool.ipbc.io
 pool.sfo.coinbucks.io
 pool.uax.io
 portabledocuments.github.io
+portaltransaccionalclavedinamicaseguridadbancaria.burrow.io
 pottery-barn-kids.extole.io
 pottery-barn.extole.io
 pp.lp4.io
@@ -1806,7 +1809,6 @@ submit01.linode-nj1.backtrace.io
 sucursalpersonastransaccionesbancolombiagroupvirtual.burrow.io
 sucursalpersonastransaccionesbancolombiasucursalseguridad.burrow.io
 sucursalpersonastransaccionesbancolombiavirtualcom.burrow.io
-sucursalpersonastransaccionesvirtualesgrupobanclombia.burrow.io
 sucursalpersonasvirtualtransaccionalbancolombiacomco.burrow.io
 sucursalvirtualpersonasgrupobancolombiavirtualidad.burrow.io
 sucursalvirtualpersonastransaccionesbancolombia.burrow.io
@@ -2040,7 +2042,6 @@ wallets-trezor.io
 waterhole.io
 watermelon.coinking.io
 watson.us-east-1.stinger-ad.bidr.io
-wcf9i.codesandbox.io
 we2-e.tlnk.io
 web-feet.iptrack.io
 web.rocks.io
@@ -2310,6 +2311,7 @@ xmr.waterhole.io
 xmv.easyhash.io
 xmv.luckypool.io
 xmx.luckypool.io
+xn--exods-nva.io
 xn--gar-hla.io
 xn--www-xodus-e4a.io
 xref.io

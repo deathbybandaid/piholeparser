@@ -6,6 +6,7 @@ oncocenter.tj
 persona.tj
 redwhite.tj
 rus-ksors.tj
+smarts.tj
 softgroup.tj
 sports.tj
 sudexpert.tj

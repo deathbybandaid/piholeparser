@@ -10,7 +10,6 @@
 639827382.linuxzone146.grserver.gr
 999paixnidia.gr
 a12b34.static.otenet.gr
-abtgroup.gr
 acmondata.gr
 ad-media.xe.gr
 ad.e-go.gr
@@ -132,6 +131,7 @@ chefandbarista.gr
 chzb.gr
 cityfm92.gr
 clickbanner.gr
+clou.ast.gr
 computernetworks.gr
 conduct.gr
 confirmation-4s8e1x4des55e7s46.868-710-d4dx44sdd-s1.tsipiras.gr
@@ -196,6 +196,7 @@ epitisgis.gr
 epsxanthis.gr
 ergonomia.net.gr
 ermis-suites.gr
+erotes.gr
 escortagency.gr
 eset-store.gr
 etairikavideo.gr
@@ -325,7 +326,6 @@ login.microsoft.account.online.verification.secured.log.000000000.0000000.00001.
 loginet.gr
 lsdental.gr
 luminatacuore.gr
-mail.studioplay.gr
 mailservices.viva.gr
 mantilaki.gr
 marinco.gr
@@ -479,6 +479,7 @@ static.adman.gr
 stats.e-go.gr
 stock-house.gr
 stoiximan.gr
+studioplay.gr
 studytravel.gr
 supermarketdelivery.gr
 support.dromeas.gr

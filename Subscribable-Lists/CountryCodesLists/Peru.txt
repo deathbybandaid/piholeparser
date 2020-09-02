@@ -78,6 +78,7 @@ ecoelectric.com.pe
 ectaca.com.pe
 edusac.edu.pe
 efimec.com.pe
+egacal.edu.pe
 eje3sur.pe
 ektoralx-gmrnsqrihx.cwp.com.pe
 el10.pe
@@ -100,6 +101,7 @@ gedvendo.com.pe
 gessol.com.pe
 goal.com.pe
 grupo3com.pe
+grupoactum.pe
 grupoamerica.pe
 grupocontrol.pe
 grupodpi.pe
@@ -132,6 +134,7 @@ juliorivera.com.pe
 jybsac.net.pe
 kalamarka.fm.pe
 kregalo.com.pe
+krings.com.pe
 lalupa.com.pe
 laternerita.com.pe
 lesmartfire.com.pe
@@ -143,6 +146,7 @@ lopezsistemas.com.pe
 losrodriguez.com.pe
 luxcube.com.pe
 m2m.com.pe
+mackanthem.com.pe
 maderasperuanas.com.pe
 mambrino.com.pe
 marcelinochampagnat.edu.pe
@@ -224,7 +228,6 @@ tecnomacusani.edu.pe
 tecnovisual.com.pe
 ternosfrancia.com.pe
 tese.miranda.net.pe
-tiendastec.com.pe
 todoautos.com.pe
 tododinos.pe
 topodesia.com.pe

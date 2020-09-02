@@ -263,6 +263,7 @@ b.digital-tv.com.ua
 babs.com.ua
 babybreeze.ua
 bac.in.ua
+balcon.in.ua
 balon.com.ua
 bambi.ck.ua
 banana.dp.ua
@@ -483,6 +484,7 @@ cqkio.com.ua
 credit.co.ua
 creditmoney.com.ua
 credy.co.ua
+criminology.nlu.edu.ua
 crueldeserve.pl.ua
 cruelhard.pl.ua
 cruelsuccess.pl.ua
@@ -1159,6 +1161,7 @@ kancaktiv.com.ua
 karapuz.org.ua
 karinashop.com.ua
 karl.kiev.ua
+karpatbud.com.ua
 kartprom.com.ua
 kasanova.com.ua
 katekim.od.ua
@@ -1186,6 +1189,7 @@ kiss-mepls.net.ua
 kissme-pls.net.ua
 kissmepls.net.ua
 kiyany-za-spravedluvist.com.ua
+kkkk.zzz.com.ua
 klimatika.com.ua
 klopknm.com.ua
 kluhow.com.ua
@@ -1950,6 +1954,7 @@ miretm.com.ua
 mirobuvi.com.ua
 mirshapok.com.ua
 mirstroyki.com.ua
+mjk-s.com.ua
 mkbbnet.kl.com.ua
 mkpp.com.ua
 mmi.bemobile.ua
@@ -1979,6 +1984,7 @@ mst.com.ua
 multinet.in.ua
 muscle-factory.com.ua
 mvduk.kiev.ua
+mx2.otg.kiev.ua
 my-bestday.net.ua
 mybest-day.net.ua
 mybestbeauty.net.ua
@@ -2220,6 +2226,7 @@ predmety.in.ua
 primequest.com.ua
 prioritet.odessa.ua
 private-dining.com.ua
+privokzal.com.ua
 prizztour.com.ua
 probenzo.com.ua
 procrediti.com.ua
@@ -2453,7 +2460,6 @@ shopallmart.com.ua
 shopbuyauction.com.ua
 shopfishing.com.ua
 shoppex.com.ua
-showtime-event.com.ua
 shustovauto.com.ua
 sidore.com.ua
 signtwilight.pl.ua
@@ -2593,6 +2599,7 @@ tender-woman.net.ua
 teodiarie.com.ua
 terms-page.at.ua
 terra-yug.com.ua
+test.apple-store.com.ua
 test.budresurs.org.ua
 test.eth.pp.ua
 test.speckomfrotstroi.kiev.ua

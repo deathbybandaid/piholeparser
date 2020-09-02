@@ -22,7 +22,6 @@ alliedservices.pk
 allignlogistics.com.pk
 allone.pk
 altaqwa.com.pk
-amazon.co.jp.hnss.com.pk
 americandoors.pk
 anchorgroup.com.pk
 angola.paks.pk
@@ -62,7 +61,6 @@ cadetcollegebhurban.edu.pk
 caretech.pk
 cargoart.com.pk
 cer.salu.edu.pk
-championfoods.com.pk
 chateauroyal.com.pk
 checkcheck.pk
 checktime.pk
@@ -97,6 +95,7 @@ dasp.org.pk
 deep.org.pk
 delights.pk
 deltacontrol.net.pk
+designonline.com.pk
 digital101.pk
 digitania.com.pk
 dintextile.dingroup.com.pk
@@ -170,6 +169,7 @@ hdfpakistan.org.pk
 healthybody.com.pk
 hhtransports.pk
 hiddencameras.pk
+hnss.com.pk
 homecrafts.pk
 homstore.pk
 htbuilders.pk
@@ -260,7 +260,6 @@ olxmobiles.pk
 opserver01.iti.net.pk
 orderme.com.pk
 ordernow.com.pk
-otex.pk
 pakistanelevators.pk
 pakline.pk
 pasa.org.pk
@@ -319,8 +318,10 @@ seenext.com.pk
 sellandbuy.pk
 sevenoaks.com.pk
 sgss.com.pk
+shakeel.pk
 shamsalpine.com.pk
 shaposh.pk
+shoopik.pk
 shop360.com.pk
 sihub.pk
 simorgh.org.pk
@@ -392,7 +393,6 @@ www.pakistanelevators.pk
 xpert.pk
 yahoo.anima.pk
 yaza.com.pk
-yws.org.pk
 zimbra.blackberet.com.pk
 zoomtechnology.com.pk
 zstones.com.pk

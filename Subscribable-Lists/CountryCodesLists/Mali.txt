@@ -146,6 +146,7 @@ acesso-suport.ml
 acesso.pfpersonalite.ml
 acoh.ml
 acount-page-report.ml
+actualizaciondeinformacion.ml
 acvila.ml
 addhun.ml
 adobcloud.ml
@@ -158,7 +159,6 @@ ajsfbajkaf-aslfknafla.ml
 akusatcraz.ml
 alegza.ml
 alertasydesbloqueo.ml
-alertconfrim-youracont09877.ml
 alertsuport-paqesapl0012.ml
 alertsuport-paqesapl00124.ml
 alfredsonsir.ml
@@ -168,7 +168,6 @@ aliminksrl.ml
 allegro.pl-oferta.ml
 alphabox.ml
 alphaweb.ml
-alpr.linkgate.ml
 alquiler-en-alicante.ml
 alriyadh.ml
 altere2020online.ml
@@ -184,14 +183,13 @@ amazon-support-sppapahiseuzcmdnqsixbqpcnmmuhqstoreoukcom010.ml
 amazon.co.jp.amazon-login.ml
 amazon.co.jp.z8sky3kfy92kau3mvygt9cnieo38xj8h7sawn8.ml
 amazon.com.ap.account.preferredpayment.au-ib.ml
-amazon.com.preferredmethods.nz-c0bk.ml
 amazon.cwl25i.ml
 amazon.de-cart5897-cleaner.ml
 amazon.de-gp-cssc.ml
 amazon.de-help-2904hilfe.ml
-amazon.it.accountpreferredpayments.tg-c01.ml
 amazon.ml5k2.ml
 ame-especialdasemana.ml
+amedigital.www-americanas-com.ml
 americanas.digitais.ml
 americanas.direto.cliente.cadastronovo.ml
 americanas7.seudesconto.ml
@@ -210,6 +208,7 @@ appitaucardseguranca.ml
 appjur.pddauto.ml
 appleid-secure-account.ml
 appleid-verificato-accouto.ml
+appleid.apple.com.notice-purchase.ml
 applexatauthentverificationauth-sumscriptionidd9910238.ml
 application.root.domain.server.subdomtrnsf.ml
 apps-facebooksupportinc.ml
@@ -218,6 +217,7 @@ apps.secure.update-account.jaxuan.ml
 apteka.ml
 ararst-74.ml
 arjzndx.ml
+array-bite843.ml
 arun.lavi.ml
 asatechw.ml
 asdcasdca.ml
@@ -232,6 +232,7 @@ atentbradesco.ml
 atiga01.atciga.ml
 ativar-50milpontos.ml
 atodovaloroferts.ml
+attech.ml
 attkasha.ml
 atualizar-acesso-netflix10.ml
 atualizar-cliente.ml
@@ -293,6 +294,7 @@ basvuruformu7.ml
 basvuruformu8.ml
 basvuruformu9.ml
 battlefrontstar.ml
+bausfisfo.ml
 bazald.ml
 bazkat-71.ml
 bb-acesso-web.ml
@@ -447,7 +449,6 @@ cinemasconfriregis174.ml
 cipjtpg.ml
 citextremonlin.ml
 citilpacen.ml
-claim.pubgmluckyspin2020.pubg19.ml
 classicdomainlife.ml
 cleint.ml
 clgdelivers-auth.ml
@@ -674,7 +675,6 @@ fluidou-71.ml
 flyhotels.ml
 fneh.ml
 fo-keteyy.ml
-forgerot.ml
 form-lnstagramverificationbadges.ml
 fotka10.ml
 fqcebook-video.ml
@@ -785,6 +785,7 @@ help-client-confirmation.ml
 help-dbr57g.ml
 help-eslam.ml
 help-fdsafdd.ml
+help-glory99.ml
 help-instagram-verification-security.ml
 help-instagram-verified-badge-supports.ml
 help-lnstagram-copyright-center.ml
@@ -961,12 +962,12 @@ joingrupbokep23.new-claim7.ml
 joingrupbokepviral2k2030.vidio-virall18.ml
 joingrupbokepviral2k203030.vidio-virall18.ml
 joingrupsekporno.xxxjos.ml
-joingrupsex.wa-bokep71.ml
 joingrupwhatsaap.join-69.ml
 joingrupwhatsapp.bok3pp.ml
 joingrupwhatssappbokepviral2k20.vidio-virall18.ml
 joinngrup-whatsapp.joins20.ml
 joinnow-whatsapp18.wa-groups.ml
+joinsgrup.ml
 joinwhatsappgrup.ml
 jojoast-70.ml
 josjxdv.ml
@@ -1028,14 +1029,15 @@ limitedaccount.ml
 limiteddiaenoite.ml
 limitedheld.ml
 lingergroups.ml
-link2safe.ml
 linkedin.com.overlod.ml
+linkgate.ml
 lioexceldraft.ml
 lionfiver.ml
 liqidwebsqid.ml
 liquida-smartwatch.ml
 liquidacaodejulhohoje.ml
 liquidacoesexpress.ml
+liquidasemanal-hoje.ml
 livbayn.ml
 lkjkh-71.ml
 lmn-securesharepoint.ml
@@ -1175,6 +1177,7 @@ musicallew.ml
 my-pay-pal.ml
 myaccountsservice.ml
 myappleidorders-cancelonlinesupport.ml
+myappleorder-onlinesupport.ml
 myeltherwallet.ml
 mylogicbd.ml
 mynewwebsite.ml
@@ -1370,8 +1373,6 @@ nonow.ml
 nordeondol.ml
 nordlets.ml
 notspam.ml
-novo-acesso.segurowebmail.ml
-novo.aplicativobr.ml
 novt.ml
 now-release.ml
 nseriesgpu.ml
@@ -1399,6 +1400,7 @@ ogicseistag.ml
 ojmyxee.ml
 okeyletsgo.ml
 okujyh.ml
+olaresak.ml
 oldgames.ml
 ollopled.ml
 olsiyll.ml
@@ -1510,6 +1512,7 @@ premios.promociones-viabcp.ml
 premiumgate.ml
 president-mr.ml
 pretty-brilliant.ml
+privatiiordackerch.ml
 pro.i7sistemas.ml
 profilepictures4.ml
 programme-app322.ml
@@ -1523,6 +1526,7 @@ protective-71.ml
 proxy.mineshaft.ml
 prutixb.ml
 psnlptt.ml
+pubg19.ml
 pubsmobile.ml
 puntaspararejas.ml
 puritanasok.ml
@@ -1548,6 +1552,7 @@ rabo-login.ml
 rachini.ml
 raeadnt.ml
 rafaelnadalus.ml
+rainbowlove.ml
 rakuten.co.jp.egwiughb3kjrgheoinisagnerasd23sidhgfe.ml
 rakuten.co.jp.i3oignreoibn43hidobgnoeirwngheroi034nklgneilgrenmoe.ml
 rakuten.co.jp.ieugiu3kuewgfiubsiuanfd14ukgfds45isahds.ml
@@ -1570,6 +1575,7 @@ recheckpaqes-notifications.ml
 recheckpaqes-notifications2.ml
 recoverysupport-confrimis901.ml
 recoveryunispot666.ml
+recuperemilhas.ml
 redafire.ml
 redcrosswee.ml
 redir-mega-ofertas.ml
@@ -1646,6 +1652,7 @@ secure.verify-accountapplelocked-logs-app.ml
 secure8.recovery-fanpagee.ml
 secureconnect-operation.ml
 security-resolutions.ml
+securityinstagramaccounts.ml
 securtyfanspage23333.mekarpolicy.ml
 sedsedfusin.ml
 seedorfserver.ml
@@ -1725,6 +1732,8 @@ sethisongs.ml
 setskins.ml
 sgsyeku.ml
 shannonwilli.ml
+shantpa86erh.ml
+shawers.ml
 shgeet-71.ml
 shiringnaeyf.ml
 sicher-sicherheitsvorbeugungs.ml
@@ -1832,7 +1841,6 @@ suportfanpage2.accountfanspage9888.ml
 suppor-service-partner.ml
 support-center-update.ml
 support-service-online.ml
-support.mediahelpcenter.ml
 supports-confrimesu4.ml
 supportverifiedbadges.ml
 svbsoet.ml
@@ -1857,6 +1865,7 @@ testscpp.ml
 tevhidigundem.ml
 tevkoeiace.ml
 textenadorborg.ml
+tg-c01.ml
 thantoeaung.ml
 theautoprofit.ml
 theslots.ml
@@ -1867,6 +1876,7 @@ thugesh.ml
 tiabufomduy.ml
 tigbg.ml
 tiktokpopuleracounts.ml
+tioest-771.ml
 tioguards.ml
 tlfdnkgsitepog.ml
 todaslojascontracovid19.ml
@@ -1904,6 +1914,7 @@ uhpsekh.ml
 ujysitutequpoza.ml
 ukhereweare.ml
 unfriendad.ml
+unicornsz.ml
 uninbinru.ml
 uniquecompliance.ml
 unityuntgbrffd.ml
@@ -1923,6 +1934,7 @@ usaaial.ml
 usemycredit.ml
 usercopyrightalert.ml
 users-login.ml
+ussmsmnyoaa.ml
 utube.ml
 uwhfdsndcjdn.ml
 uzxgegt.ml
@@ -1934,6 +1946,7 @@ vapeteks.ml
 vasf.ml
 vebduge.ml
 venresf.ml
+verffysaftyalert987654.ml
 verfybaddges-supports.ml
 verifi77.register-aacunt21.ml
 verificasucuenta.moonfruit.ml
@@ -1971,7 +1984,9 @@ voycczf.ml
 vpnethost.ml
 vreew1.ml
 vrefrt.ml
+vvusajua.ml
 w2bancodchile.afiliaciones.ml
+wa-bokep71.ml
 wabmail-jazz-com-4443-oaam-server-login-do.ml
 wachtsgroups.frezze.ml
 wagrubbkp671.nett13.ml
@@ -2012,7 +2027,6 @@ wetransfer-ra1.ml
 wetransfer-track-site2.ml
 wetransfer-us2.ml
 wgwoks.ml
-whatapp-web-join.grup-vyg.ml
 whatsaap-wagrupnewjoin.holl75.ml
 whatsap-grup.goskin7.ml
 whatsap-grup24.ml
@@ -2041,7 +2055,6 @@ whatsappgrupnew18.holl01.ml
 whatsappjoin.glosgel.ml
 whatsappporn2020.ml
 whatsappviral.vvipv.ml
-whatshappgrupdewasa17.joinsgrup.ml
 whattsapwa109-chansgansk.nett13.ml
 whistmenrimul.ml
 wilthywatong.ml

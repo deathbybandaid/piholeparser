@@ -215,6 +215,7 @@ k-h.co.il
 kakoon.co.il
 karakal.co.il
 kaspit.co.il
+katanvetov.co.il
 kazaa.adserver.co.il
 keep-in-touch.co.il
 keyhouse.co.il
@@ -269,7 +270,6 @@ misradia.co.il
 mitos.co.il
 moav.co.il
 momy.co.il
-moraniz.co.il
 mosesrest.co.il
 mushi.co.il
 mybait.co.il
@@ -324,7 +324,6 @@ powerelectric.co.il
 presidentescort.co.il
 prolink.co.il
 prosports.co.il
-qatzrin.muni.il
 rakia7.co.il
 ramadan-nights.co.il
 ramon-eng.co.il

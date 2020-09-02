@@ -78,7 +78,6 @@ acr8.alphonso.tv
 acr9.alphonso.tv
 acrdb.alphonso.tv
 ad.go.affec.tv
-ad.mox.tv
 ad.pandora.tv
 adam.assets.ispot.tv
 adam4adam.tv
@@ -180,6 +179,7 @@ atnmusic.tv
 aus.laola1.tv
 autodiscover.ispot.tv
 av69.tv
+ayur-sahasrara.dyndns.tv
 babes.tv
 babestation.tv
 bahn.tv

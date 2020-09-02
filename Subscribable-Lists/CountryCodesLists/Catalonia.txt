@@ -36,6 +36,7 @@ progreslaseu.cat
 revisionsmediques.cat
 saloboda.cat
 small.cat
+somcorbera.cat
 sparkbcn.cat
 sukebei.pantsu.cat
 tintoreriesjuncosa.cat

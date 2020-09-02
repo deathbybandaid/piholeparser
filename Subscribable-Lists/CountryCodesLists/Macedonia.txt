@@ -30,7 +30,6 @@ i-skygreen.mk
 info.proglasnik.mk
 inovarte.com.mk
 ireklama.mk
-ivasoft.mk
 jobs.marketing365.mk
 kreativci.marketing365.mk
 kuvar.mk
@@ -54,7 +53,6 @@ nikelinoxgroup.com.mk
 notarius.com.mk
 novamed.mk
 oprd.gov.mk
-produkcija-sidor.globalnet.mk
 rstelektrika.mk
 seougostivar.mk
 shimov.com.mk

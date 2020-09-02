@@ -94,6 +94,7 @@ loei.drr.go.th
 lvmhgroup.co.th
 lvs.truehits.in.th
 maewang.lpc.rmutl.ac.th
+majorpart.co.th
 mansolution.in.th
 mattayom31.go.th
 mds.nipa.co.th
@@ -147,6 +148,7 @@ school.obec.go.th
 secondary36.obec.go.th
 server3.sourcecode.co.th
 siriwat.co.th
+smartinterfruit.co.th
 smejump.co.th
 smilingfish.co.th
 smtasia.co.th
@@ -182,6 +184,7 @@ unilife.co.th
 urban-farming.co.th
 uss.ac.th
 vispac.co.th
+wasino.co.th
 webkc.dede.go.th
 welltechgroup.co.th
 wmsjournal.wu.ac.th

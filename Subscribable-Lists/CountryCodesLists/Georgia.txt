@@ -57,6 +57,7 @@ kmwine.ge
 kondi.ge
 krevetebi.ge
 lagi.ge
+lemonschools.ge
 links.boom.ge
 ljclinic.ge
 login.drawbrid.ge
@@ -70,6 +71,7 @@ nanostyle.ge
 newmetekhi.ge
 now.ge
 officetechnologies.ge
+okbuilding.ge
 partners.drawbrid.ge
 pegas.ge
 phlogenzym.ge
@@ -86,7 +88,6 @@ sandiltd.ge
 sante.ge
 service-paypal.com.verification.your.account.riktravel.ge
 skola-graali.ge
-skystudio.ge
 sprintdental.ge
 starcarrent.ge
 stargroup.ge

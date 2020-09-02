@@ -86,10 +86,10 @@ drill.breathegroup.co.nz
 dsgn.co.nz
 earlychildhoodonstafford.co.nz
 edcorp.co.nz
-eden.it-guys.net.nz
 edvadisr.org.nz
 edwardhallmagician.co.nz
 elitews.co.nz
+emaanpainters.co.nz
 enertech.co.nz
 equipmentservices.co.nz
 eyevet.co.nz
@@ -112,7 +112,6 @@ gourmetseafood.co.nz
 groupy.co.nz
 gujarati.nz
 hamilton150.co.nz
-hammockworld.co.nz
 hendersonglass.co.nz
 hloshi.co.nz
 holmac.co.nz
@@ -123,6 +122,7 @@ inkplus.co.nz
 inleadership.co.nz
 international-medical-recruitment.co.nz
 iserve.net.nz
+it-guys.net.nz
 jadan.co.nz
 jaguardriversbop.co.nz
 jetwaste.co.nz

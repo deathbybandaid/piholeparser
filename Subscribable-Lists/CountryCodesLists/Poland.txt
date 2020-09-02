@@ -468,6 +468,7 @@ badv.wp.pl
 badznaptak.pl
 bajer.info.pl
 bajkowedekoracje.pl
+bakari.dyalcom.pl
 baktria.pl
 banery.acr.pl
 banery.bai.pl
@@ -656,7 +657,6 @@ centrumrozrywki.5v.pl
 ceramikaczary.pl
 ceroma.pl
 cf16.pl
-ch.bakari.dyalcom.pl
 chargelity.pl
 cheapmedpills.pl
 cheats4u.pl
@@ -776,7 +776,6 @@ daarmowe-doladowania.ovp.pl
 dachbud.slask.pl
 dachyglej.pl
 daglezja-wycinkadrzew.pl
-dahouse.pl
 dakowroc.pl
 damian-wiklina.pl
 dampozyczke.pl
@@ -1127,6 +1126,7 @@ elektoralna24.pl
 elektrischezigarette1.blog.pl
 elektro24h.pl
 elektromax-serwis.pl
+elektromechanikachlodnicza.pl
 elektryczne-rozdzielnie.pl
 elektrykzyrardow.strefa.pl
 elifelinenicebetday.pl
@@ -1286,6 +1286,7 @@ faacebok.pl
 face-kolor.rdx.pl
 face-vip.ujm.pl
 facebo0k.5v.pl
+facebokk.ct8.pl
 facebook-color.5v.pl
 facebook-com-pl-profil.7m.pl
 facebook-com-pl-profile.7m.pl
@@ -1295,6 +1296,8 @@ facebook-photos.pl
 facebook-uzaleznienie.wirtualnie.pl
 facebookhack.pl
 facebookszpieg.glt.pl
+facebool.ct8.pl
+faceboook.ct8.pl
 facepodgladacz.glt.pl
 faceportal.pl
 facevook.5v.pl
@@ -2083,6 +2086,7 @@ info24.uyp.pl
 infoabi.pl
 infoerors.ucoz.pl
 infolinia-kontakt-telefon.pl
+informacje-z-polski-48.waw.pl
 informacjezkraju.pl
 informatyk-centrum.warszawa.pl
 informatyk-dla-domu.pl
@@ -2228,6 +2232,7 @@ junart.com.pl
 juniorhandling.pl
 juran.pl
 justpolska.pl
+juventum.pl
 jvivabingoseurodice.pl
 jvivacasheurodice.pl
 jvivatopeudice.pl
@@ -2347,6 +2352,7 @@ konsumenckiego.pl
 konto1.cal24.pl
 kopertada.eu.interiowo.pl
 kopsnij.pl
+koralik.lublin.pl
 koreksound.pl
 korepetycje.forge154.forgehost.pl
 kosmetyczka-radzymin.pl
@@ -3267,7 +3273,6 @@ planetsex.pl
 planowanie-spadkowe.pl
 platelab.pl
 plater-emilii.naszebanki.pl
-platnosc-payu.pl
 platnosciallegro.pl
 play-cda.pl
 play-tube.pl
@@ -3678,6 +3683,7 @@ rec.quartic.pl
 redtube.pl
 regina-kolobrzeg.pl
 region24fakty.h2g.pl
+regionalne-wydarzenia.co.pl
 regionalne24wydarzenia.pl
 regme.pl
 regmissin.7m.pl
@@ -3720,7 +3726,6 @@ ringieradro.hit.gemius.pl
 ringieradrs.hit.gemius.pl
 ringierro.adocean.pl
 ringierrs.adocean.pl
-rioforpartiers.cba.pl
 rlisowska.pl
 rneo.pl
 ro.adocean.pl
@@ -3856,7 +3861,6 @@ server033687.nazwa.pl
 server038725.nazwa.pl
 server062295.nazwa.pl
 server082057.nazwa.pl
-server102661.nazwa.pl
 server144191.nazwa.pl
 server150767.nazwa.pl
 server163777.nazwa.pl
@@ -3896,7 +3900,6 @@ server905483.nazwa.pl
 server917010.nazwa.pl
 server939608.nazwa.pl
 server944006.nazwa.pl
-server944747.nazwa.pl
 server952250.nazwa.pl
 server968099.nazwa.pl
 server986408.nazwa.pl
@@ -4090,6 +4093,7 @@ spartech.pl
 spasinski.pl
 spatiumdg.pl
 specyfika.xn.pl
+spent.com.pl
 sphericalart.pl
 spider-site.yoyo.pl
 spir.hit.gemius.pl
@@ -4245,7 +4249,6 @@ szpk.pl
 szybkapozyczkateraz.pl
 szymanski-wnetrza.pl
 szymon.insel.pl
-szymonszyperski.pl
 t210ql2sll.ivertiipolska.com.pl
 tabago.pl
 tabletkinaodchudzanie.com.pl
@@ -4696,7 +4699,6 @@ worldrubypalace.pl
 wosp-zgora.pl
 wozap.pl
 wozjxnfn.pl
-wp.digitalfactory.pl
 wp.hit.gemius.pl
 wp.webdudi.pl
 wpisz-dane.pl
@@ -4939,6 +4941,7 @@ wydawnictwozafira.pl
 wygraj-quiz.pl
 wygrywa.pl
 wygrywajglosem.com.pl
+wyklej.pl
 wykop.hit.gemius.pl
 wykop.net.pl
 wyleczpc.pl

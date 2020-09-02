@@ -159,7 +159,6 @@ classic.bannerbank.hu
 clicaretorcer.pe.hu
 cnctar.hobbycnc.hu
 complan.hu
-complanbt.hu
 continental-afilia-enline.pe.hu
 continu.hu
 converse-shop.hu
@@ -192,6 +191,7 @@ dropbox.co.uk-online-receipt-id-91234.ltakarito.hu
 drzalai.hu
 dsejl.pe.hu
 dvdabc.hu
+dwurl.hu
 ebay-com-motors-sell.pe.hu
 ebnevelde.hu
 ebolt.hu
@@ -316,7 +316,6 @@ intraweb.hu
 invivo.hu
 iphoneszervizbudapest.hu
 iranydalmacia.hu
-itsecr.hu
 ize.hu
 izeselet.hu
 izvilagkft.hu
@@ -345,7 +344,6 @@ kisker.czisza.hu
 kivalodolgozo.hu
 klikkzsirafok.hu
 konyvnet.hu
-kosoa.hu
 kossuthlajosaltisk-mezotur.hu
 kovacsvagas.hu
 kovesszucs.atw.hu
@@ -616,12 +614,15 @@ vallalkozo.hu
 varrokneked.hu
 vasifutes.hu
 vbasova.pe.hu
+vbcargo.hu
 vcontacte.pe.hu
 vegancenter.hu
 vehhh.pe.hu
 vendiak.hu
 vercukor.hu
+verityclass.hu
 vernyomasgondok.hu
+vespucci.hu
 veszedrendben.hu
 vezer.hu
 viabcp-bancasegura.pe.hu

@@ -27,6 +27,7 @@ mail.target.cm
 minee.cm
 ntas-store.cm
 omerta.cm
+onige.cm
 poker.cm
 ringo.com.cm
 rxlist.cm
