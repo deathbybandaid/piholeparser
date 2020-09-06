@@ -279,6 +279,7 @@ myluck.co.il
 mymy.co.il
 myproject.co.il
 negev-net.org.il
+negevwings.co.il
 net-games.co.il
 net2000.co.il
 netflow.co.il
@@ -473,6 +474,7 @@ y.net-games.co.il
 yad1.yad2.co.il
 yamsan.co.il
 ye-mo.org.il
+ynl.co.il
 yoi.co.il
 yoshra.co.il
 yuca.co.il

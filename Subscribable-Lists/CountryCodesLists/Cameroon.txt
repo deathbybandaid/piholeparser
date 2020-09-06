@@ -2,6 +2,7 @@
 affordable.cm
 alibachir.cm
 avis.cm
+clone.affordable.cm
 cnn.cm
 dev.maverick.cm
 diplocam.cm

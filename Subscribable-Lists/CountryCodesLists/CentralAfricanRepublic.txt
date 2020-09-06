@@ -89,8 +89,10 @@ acesso-bb-online.cf
 acme-challenge.cf
 acontdisabeldsacme0011.cf
 acontdisabeldsacme0012.cf
+acontsystem-suportacme.cf
 acount-disabled-page.cf
 acount-page-dlsabled.cf
+actualizatuinformacion.cf
 admintadministre.cf
 adobe-document.cf
 adobeappupdate.cf
@@ -109,6 +111,7 @@ akredit.cf
 alertasynotificacionesdesbloqueo.cf
 alertspaqessystem.cf
 alexyer.cf
+alloint-71.cf
 alspi.cf
 amazon-co-jp-amazonwwwafa1ezsfsreaz135f1szdaf313reaaeq5f1sz31f3.cf
 amazon-support-sppapahiseuzc54nqsixbqpcnmmuhqst197o879oukcom.cf
@@ -116,7 +119,6 @@ amazon-support-sppapahiseuzcmdnqsixbqpcnmmuhqstoreoukcom004.cf
 amazon.co.jp.uolthfjdfyheruekrtghdfhewkfgndfghsdfhshfh.cf
 amazon.co.jp.update-now.cf
 amazon.com.on.accountpreferredpayment.nz-clasic.cf
-amazon.com.preferredmethod.nz-c0bk.cf
 amazon.de.openid315561.unetutma.cf
 amazon.de.signin.verification.openid.5935156.viekofinews.cf
 amazon.ej195g.cf
@@ -141,7 +143,7 @@ aoedefinate.cf
 aoiboias.cf
 aol1ertyj756k8uiymnrte546j57utdnyftrsjkdutyte.aol3m6.cf
 aosj.conoakosi.cf
-aplicativobron.cf
+app.loginhome.cf
 app.lojasamericanasonline.cf
 appinvest-club.cf
 appitaucard.cf
@@ -151,11 +153,13 @@ applechoiceses.cf
 approach.cf
 arewagold.cf
 arjzndx.cf
+arogota-71.cf
 art-812.cf
 artspace.cf
 asatech.cf
 asbnewzealand.cf
 ashleydrive.fliatsracheers.cf
+asia-mail.cf
 asiote.cf
 assurancecoming.cf
 asteitalia.cf
@@ -238,7 +242,9 @@ bigdrives.cf
 bijo-style.cf
 binm.cf
 biology-71.cf
+bjsdja.cf
 blockchains.cf
+bncolombia-co-com-colombia.cf
 bnm.cf
 bnnvzrz.cf
 bobbyservices.cf
@@ -273,6 +279,7 @@ buv24.cf
 bvpulhb.cf
 byh200.cf
 bzetniu.cf
+caixa.aplicativobron.cf
 caixafgts.cf
 californianews.cf
 campsale.cf
@@ -376,6 +383,7 @@ cousk.cf
 cpcalendars.join-chatwhatsapp0547514824.wa-bkp99.cf
 cpcontacts.join-chatwhatsapp0547514824.wa-bkp99.cf
 cpcontacts.whatsapp-group-ind0.hostjaya-free.cf
+createanewdecksa-login.cf
 credentrawsheq.cf
 credinow.cf
 creditc.cf
@@ -386,6 +394,7 @@ csgorun.cf
 csmoneylastu.cf
 cuentabcp.zonaseguramovil.cf
 cusfcsf.cf
+customer-alert.cf
 cvdfeyt.cf
 cxslraz.cf
 cxzcv-71.cf
@@ -446,6 +455,7 @@ ebwen.cf
 eeeaksms.cf
 efdadasd.cf
 eftb.cf
+egov-trbasvural-trtr.cf
 egyprosoft.cf
 ejasekej.cf
 eleletieleleparthard.cf
@@ -463,7 +473,6 @@ enview-subscriptionitunesordernr9910237.cf
 eoce.cf
 eocie.cf
 epicnetwork.cf
-error-09m39lq.cf
 error-0m3ls.cf
 errorcode-1504.cf
 errorcode-1906.cf
@@ -477,6 +486,7 @@ eusnex.cf
 ev0lve.cf
 event63.cf
 ewfplkgb.cf
+ewoaktu-71.cf
 ex2life.cf
 expeditiongroup.cf
 explorer.crypto9coin.cf
@@ -617,9 +627,11 @@ help-dbr57g.cf
 help-ijuuuuy.cf
 help-instagram-account-check.cf
 help-instagram1.cf
+help-instagramhelpcenters.cf
 help-lnstagramform.cf
 help-lnstagramsupportt.cf
 help-resetpassword.cf
+help-verification-ig.cf
 help.instagram.com.v48x940518db8038a593.cf
 help.instagramcopyrightremove.cf
 help.verify-client.jsauwkal.cf
@@ -647,6 +659,7 @@ hotelresnikz.cf
 howfet-71.cf
 hujii.qplanner.cf
 humge.cf
+huopty.cf
 hurdfloorinmi.cf
 ib.absa.co.za.absa-online.login.jsp.zarmobilefx.cf
 iccornacircri.cf
@@ -663,6 +676,7 @@ inc-fbpages-verify-submit-required.cf
 info-3299.paypal.de-sicherheitszentrumcheck.cf
 info-facebookservices.cf
 informasicreditcard.cf
+insafe-pages-recoverys22.cf
 instagraamm.cf
 instagram-copyright-centers.cf
 instagram-copyright-form-246271937.cf
@@ -690,7 +704,9 @@ instagramcopyrigthsupport.cf
 instagramfb.cf
 instagramoriginal.cf
 instagramsecurityteams.cf
+instagramshelpteams.cf
 instagramsupportsteam.cf
+instagramsupportverified.cf
 instagramverifiedbadgesupportt.cf
 instagramverifycentre.cf
 instagramveriifybadge.cf
@@ -740,6 +756,7 @@ join-grupwabokepsmaindo.wa-58.cf
 join-grupwhatsappbkpnew2020.vidio-hotme17.cf
 join-whatsaap-18.myxyz.cf
 join-whatsapp-group.fund-friends.cf
+join-whatsappgrupvokep18.ffindo-11.cf
 joinbokepterbaru.grup69.cf
 joingroupwa.chatxx-18.cf
 joingrubanaksma18plusviral.login-wa18.cf
@@ -773,6 +790,7 @@ kashinnat.cf
 kashmirbasket.cf
 kaso.cf
 kaste-812.cf
+katario.cf
 kawasaki.cf
 kcdn.cf
 kekene.cf
@@ -780,6 +798,7 @@ kekene1.cf
 keloa97w2.fanpage-serviese2.cf
 kemetdesign.cf
 ketab-88.cf
+kfakyua.cf
 khaty-71.cf
 khheltihain.cf
 kilunhe.cf
@@ -788,6 +807,7 @@ kjdsbhfkjgskhgsdkugksbdkjs.cf
 kjhgf.cf
 kkmnikrny.cf
 kmgamex.cf
+knota-71.cf
 komusfalse.cf
 konfiguration-paqesads812.cf
 konyakrom.cf
@@ -807,6 +827,7 @@ lazo.cf
 lazylorgdy.cf
 ldztmdy.cf
 legpnnldy.cf
+lengkapi-data-url.cf
 lesbianwerewolf.cf
 letsfish.cf
 lewenslabs.cf
@@ -851,9 +872,11 @@ login-fb47.cf
 login-rakuten.cf
 login-sec-apple-secure-account-updated.cf
 login.blockchain.com1902736283.cf
+login.gmail.com18975215.cf
 login.gmail.com18975812.cf
 login.microsofteonline.cf
 login.oregonstate.edu.nlll.cf
+login1.sinbc.cf
 loginxtrsxxpolhesus300xeu.cf
 lognmd0ficeonlinecollablositesincvoice.cf
 lokalfed.cf
@@ -880,6 +903,7 @@ magplant.cf
 mail.budi01-gaming.cf
 mail.chatwhatsappgroupbkp.joinskuy.cf
 mail.facebu0k.cf
+mail.grubmabarwhatsapp01.acara719.cf
 mail.totalpackagingsolutions.cf
 mail.verifylogin.cf
 mailingserv.cf
@@ -924,8 +948,10 @@ min.imageflux.cf
 minelearnto.cf
 minhascompras-magaziineluiza-promo.cf
 minimoutne.cf
+minmyar.cf
 mitoy-71.cf
 mlhuillier1.cf
+mnhxgdy.cf
 mobile-free-france.cf
 mobileatualiza.cf
 mobilefree-tarif.cf
@@ -941,6 +967,7 @@ mulla.cf
 multitraction.cf
 munnabhai.cf
 murky-embarrassed.cf
+musicloverlys.cf
 mview-jp-chastoreitemwebh-webath-003948102037.cf
 mview-jp-chastoreitemwebh-webath-003948102038.cf
 myfacebooksecurity.cf
@@ -985,10 +1012,12 @@ notificationspages.cf
 notificationsupdate.cf
 notificationyourspage.cf
 notificatiopages.cf
+novoatendimento.cf
 nurabomefozafe.cf
 nvfjvtntt.cf
 nwalldmntoaccssndcnnct.cf
 nxfvcxu.cf
+nz-c0bk.cf
 nzjsbyv.cf
 oaspodpaskdjnghzatrffgcasetfrd.cf
 ocpm.cf
@@ -1009,6 +1038,7 @@ oneever.cf
 onef.cf
 onemore.cf
 onermisunve.cf
+onetick.cf
 online-classic-fastnet-asb-secured.asbclassic.cf
 online-screw.cf
 online.asb.co.nz.auth.fm.nz-classic.cf
@@ -1018,8 +1048,10 @@ onlinecustomerserver.cf
 onlinerxfavorite724.cf
 onlinerxsolutions724.cf
 onlinesupportwells2020.cf
+onsupport-recoveryhere0.cf
 oooxxx.cf
 oraclesvms.cf
+overcacked.cf
 ovqc.cf
 owa.exchangevoice.cf
 owa.exchangevoiceaccess.cf
@@ -1159,6 +1191,9 @@ realestate-page-9999000004376322343.cf
 realestate-page-id-14576323.cf
 recipesexciting.cf
 recoverpages-adsfb.cf
+recovery-yourspages302.cf
+recovery-yourspages305.cf
+recovery-yourspages306.cf
 recoverysupport-confrimis91.cf
 recoveryunispot6.cf
 recytechs.cf
@@ -1199,6 +1234,7 @@ s1mplify.cf
 sabinamalls.cf
 sac-atendimento.cf
 safe-pages-recovery.cf
+saftyacont-adm00066.cf
 saftyacont-adm098767.cf
 saftyalerts-systemsoperions00.cf
 saftyalerts-systemsopertions01.cf
@@ -1214,6 +1250,7 @@ secure-account-info.openvcsme.cf
 secure-facebook.7fu73ial.cf
 secure.bank-america.cf
 secure.owavoice.cf
+secure3-informationaccount.updatepaypalid.cf
 securedgames.cf
 securepage2017.cf
 securewebcc.cf
@@ -1296,9 +1333,11 @@ steanconmunity.cf
 stevevalide.cf
 stiimcanmuniti.cf
 subloader.cf
+sucursalvirtualpersonasrestablecimiento.cf
 summarycheckpoint.cf
 sunrypero.cf
 suntrust.com.pliuer.cf
+suorprtacme-pagesads8855.cf
 suport-fanpage1211.suport-acount-confrim12.cf
 suportswork.cf
 support-account123.cf
@@ -1323,10 +1362,12 @@ systemoperations-paqesapp2.cf
 systemreviewaccountaccess.cf
 systemspaqes-reconfrimsads00.cf
 systemspaqes-reconfrimsads99887890.cf
+systemverifycationis.cf
 syzphlap.cf
 syzphlapx.cf
 syzphlapxc.cf
 syzpudbm.cf
+syzpuxtopqalkwjdfb.cf
 szczhal.cf
 tabletka.cf
 taleohio.cf
@@ -1397,12 +1438,14 @@ usaa-documents.cf
 usacarinsur.cf
 usersecurity-de.cf
 ussearche.cf
+utopianseshore.cf
 uvzoou.cf
 uzxgegt.cf
 validarmilhasapp.cf
 valvegiveaway.cf
 vannisteroy.cf
 vassakta-y71.cf
+vbxfdgrt.cf
 verifacountsfb0.cf
 verification.account-reminder.solved-id.cf
 verification.prima2.cf
@@ -1432,6 +1475,7 @@ vorkehrung-sicherheitssystem.cf
 voycczf.cf
 vvdliv.cf
 wa-bokebhotbarat.vvipx05.cf
+wa-joined.grubb-whatsapp.cf
 wandaboykininbiwater.cf
 wandashopping.cf
 warniiing05.devetol23.cf
@@ -1444,6 +1488,7 @@ webapsverifyaccountidupdated.cf
 webcore.cf
 webinc.cf
 webpaisucre.cf
+weewerilikesites.cf
 wellsfargo.carefaces.cf
 wetransfer17.cf
 whatsap-bkp18.gets01.cf

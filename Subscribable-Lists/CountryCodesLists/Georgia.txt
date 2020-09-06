@@ -32,6 +32,7 @@ forpersonal.site.ge
 freegames.gol.ge
 fundraiser.ge
 galion.ge
+geobelt.ge
 globalservice.com.ge
 gnta.ge
 graphite.drawbrid.ge
@@ -88,6 +89,7 @@ sandiltd.ge
 sante.ge
 service-paypal.com.verification.your.account.riktravel.ge
 skola-graali.ge
+skystudio.ge
 sprintdental.ge
 starcarrent.ge
 stargroup.ge
@@ -99,6 +101,7 @@ test123.starcarrent.ge
 tkgroup.ge
 ugma.ge
 unig.ge
+use.ge
 videoimage.ge
 western.ge
 www.drawbrid.ge

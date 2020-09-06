@@ -1,5 +1,6 @@
 achco.org.af
 badam.af
+events.af
 fhlcc.af
 inertia.af
 knu.edu.af

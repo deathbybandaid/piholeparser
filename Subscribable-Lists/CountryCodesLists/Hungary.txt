@@ -1,3 +1,4 @@
+0-24bpautomentes.hu
 100000munkahely.hu
 15percpizza.hu
 185.205.251.212.zt.hu
@@ -158,10 +159,13 @@ claim-fb-gift-card.pe.hu
 classic.bannerbank.hu
 clicaretorcer.pe.hu
 cnctar.hobbycnc.hu
+collagenbeauty.hu
 complan.hu
+complanbt.hu
 continental-afilia-enline.pe.hu
 continu.hu
 converse-shop.hu
+copyfuti.hu
 counter.jasmin.hu
 crm.probago.hu
 csepelihaziko.hu
@@ -206,6 +210,7 @@ ekcami.hu
 elektro54.hu
 elektrobot.hu
 elotakarekossag.konnyuhitel.hu
+emamedia.hu
 en.polarklima.hu
 entergrafika.hu
 eropolis.hu
@@ -554,6 +559,7 @@ szeged.suvido.hu
 szegedihadipark.hu
 szegedimotorfeszt.hu
 szelszi.hu
+szelvezet.hu
 szerencsejatek.hu
 szervizkalkulator.hu
 szex-filmek.hu
@@ -636,6 +642,7 @@ vilagkuldetes.hu
 vilagpolgarok.blogspot.hu
 vilagunk.hu
 virtweb2.interware.hu
+vitalplanet.hu
 vk-ch174.pe.hu
 vk-lnformation.pe.hu
 vk-newtv.pe.hu
@@ -716,6 +723,7 @@ zadry.pe.hu
 zakopane.utazas.hu
 zalatajkiado.hu
 zariya.hu
+zoldkertpanzio.hu
 zoldszentgotthard.hu
 zonaseguira1-bn.pe.hu
 zonaseguralbn1.pe.hu

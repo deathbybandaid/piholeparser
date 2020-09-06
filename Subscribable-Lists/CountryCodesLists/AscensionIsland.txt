@@ -13,6 +13,7 @@ link.ac
 mainid.ac
 mygiffgaff.ac
 mysp.ac
+photoshop.ac
 proxy.ac
 say.ac
 tube.ac

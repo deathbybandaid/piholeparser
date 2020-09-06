@@ -207,6 +207,7 @@ amazon.co.jp
 amazon.co.jp.account-update.access-openid.mixh.jp
 amazon.co.jp.account-update.jpaccess.mixh.jp
 amazon.co.jp.account-update.lzjse.mixh.jp
+amazon.co.jp.account-update.usid-7458.mixh.jp
 amazon.co.jp.dalemmirgribacheev3.jp
 amazon.co.jp.dalemmirgribacheev4.jp
 amazon.co.jp.dalemmirgribacheev5.jp
@@ -498,6 +499,7 @@ daiichisankyo-hc.co.jp
 daikoku.ebis.ne.jp
 daj.ne.jp
 dan-ball.jp
+dancemusic.jp
 dante.co.jp
 dapump-usasaikou24.jp
 darling.co.jp
@@ -531,6 +533,7 @@ dourohoumu.co.jp
 downpanda.jp
 dry-saga-5349.jellybean.jp
 ds.advg.jp
+ds7.main.jp
 dsa.er.cyberwing.co.jp
 dsp.fout.jp
 dsp.logly.co.jp
@@ -753,6 +756,7 @@ hpad.infoseek.co.jp
 hpad.www.infoseek.co.jp
 hri2014.co.jp
 hro5k1zu7h.jp
+hrs-game.main.jp
 hsp-shuto.jp
 hsup.jp
 hultedina.jp
@@ -1083,7 +1087,6 @@ mimisen.jp
 min-web.jp
 mineiro.co.jp
 minimum.jp
-minne.jp
 minomiya.co.jp
 mirabakesso.jp
 miracletours.jp
@@ -1140,6 +1143,7 @@ myblanket.jp
 mymadonna.jp
 mysoftbankcom.mixh.jp
 mywife.jp
+mzplan.co.jp
 mztm.jp
 mztm.sixcore.jp
 n-kiso.co.jp
@@ -1639,6 +1643,7 @@ uinetgw.uinet.or.jp
 ujiie-ss.co.jp
 ujj.co.jp
 umedaumeda.ec-net.jp
+umeoka.co.jp
 undersun.jp
 unitedblades.co.jp
 unozgtue.jp
@@ -1672,6 +1677,7 @@ valueclick.ne.jp
 vc.ameba.jp
 veats.jp
 venuslab.jp
+vestea.jp
 vis1.shinobi.jp
 vis2.shinobi.jp
 vis3.shinobi.jp
@@ -1695,6 +1701,7 @@ webparts.newsmart.jp
 webremu-web.tokyo.jp
 webtest.jp
 webtracker.jp
+wee-s.co.jp
 wellco.jp
 wellnesslab.co.jp
 wellnesslink.jp

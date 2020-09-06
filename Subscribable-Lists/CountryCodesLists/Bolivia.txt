@@ -5,6 +5,7 @@ correos.gob.bo
 creadictos.com.bo
 dicytuap.edu.bo
 dixman.com.bo
+docentes.uto.edu.bo
 facebook.com.bo
 firstbike.com.bo
 grupofergus.com.bo
@@ -18,6 +19,7 @@ interoceanica.com.bo
 jugosbolivianos.com.bo
 juventud.lapaz.bo
 lapromotora.com.bo
+leo.bo
 maestria.fundacionmaya.bo
 marcas.com.bo
 mariestopes.org.bo

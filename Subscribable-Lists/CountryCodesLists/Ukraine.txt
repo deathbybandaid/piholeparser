@@ -26,6 +26,7 @@ a-elita.in.ua
 a-link.net.ua
 a.0day.kiev.ua
 a3.net.ua
+aapartments.com.ua
 ab.adpro.com.ua
 abbytrus.in.ua
 abdal.com.ua
@@ -1161,7 +1162,6 @@ kancaktiv.com.ua
 karapuz.org.ua
 karinashop.com.ua
 karl.kiev.ua
-karpatbud.com.ua
 kartprom.com.ua
 kasanova.com.ua
 katekim.od.ua
@@ -1950,6 +1950,7 @@ midday.net.ua
 migbud.com.ua
 miikeeor.com.ua
 mikrocement.com.ua
+miraidom.com.ua
 miretm.com.ua
 mirobuvi.com.ua
 mirshapok.com.ua
@@ -1984,7 +1985,6 @@ mst.com.ua
 multinet.in.ua
 muscle-factory.com.ua
 mvduk.kiev.ua
-mx2.otg.kiev.ua
 my-bestday.net.ua
 mybest-day.net.ua
 mybestbeauty.net.ua
@@ -2132,6 +2132,7 @@ orekhov-city.zp.ua
 orenthe.com.ua
 osbb.lviv.ua
 otdoctor.pl.ua
+otg.kiev.ua
 otmedic.pl.ua
 otrdlya.com.ua
 our-hearts.net.ua
@@ -2460,6 +2461,7 @@ shopallmart.com.ua
 shopbuyauction.com.ua
 shopfishing.com.ua
 shoppex.com.ua
+showtime-event.com.ua
 shustovauto.com.ua
 sidore.com.ua
 signtwilight.pl.ua
@@ -2525,6 +2527,7 @@ stat.lviv.ua
 stat24.meta.ua
 stdoctor.pl.ua
 steamcammunitly.pp.ua
+steamcommuniltycom.pp.ua
 steamcommunits.pp.ua
 steamcommunity-com.profiles-780325603260.pp.ua
 steamcommunitycomprofile.pp.ua
@@ -2597,6 +2600,7 @@ teman.com.ua
 temedic.pl.ua
 tender-woman.net.ua
 teodiarie.com.ua
+teploplus.dp.ua
 terms-page.at.ua
 terra-yug.com.ua
 test.apple-store.com.ua
@@ -2619,6 +2623,7 @@ timeatt.com.ua
 timotheus.ua
 tinhip.com.ua
 tlydoctors.com.ua
+tm.kpi.ua
 tmaster.com.ua
 tocan.com.ua
 today-celeste.net.ua
@@ -2723,6 +2728,7 @@ viprxsales.com.ua
 vipsalemed.com.ua
 visa.org.ua
 visit2013.in.ua
+vito.sspu.sumy.ua
 vizag.kharkov.ua
 vizavi.kh.ua
 vjiretu.com.ua
@@ -2732,6 +2738,7 @@ vkauth.kl.com.ua
 vkbot.zzz.com.ua
 vkfreestickers.zzz.com.ua
 vkonakte.zzz.com.ua
+vkru.kl.com.ua
 vksurf.zzz.com.ua
 vkvadrate.com.ua
 vod.com.ua

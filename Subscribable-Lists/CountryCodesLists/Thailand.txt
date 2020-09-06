@@ -64,6 +64,7 @@ ie.kbu.ac.th
 industrialonline.in.th
 innogineering.co.th
 intactcorp.co.th
+iooi.co.th
 ipphone.nstru.ac.th
 irbrta.pmk.ac.th
 istore.co.th
@@ -147,6 +148,7 @@ scglobal.co.th
 school.obec.go.th
 secondary36.obec.go.th
 server3.sourcecode.co.th
+siamimplement.co.th
 siriwat.co.th
 smartinterfruit.co.th
 smejump.co.th

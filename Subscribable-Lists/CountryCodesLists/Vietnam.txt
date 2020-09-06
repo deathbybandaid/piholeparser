@@ -40,6 +40,7 @@ adx.admicro.vn
 adx.kul.vn
 aeinvest.com.vn
 afp.admicro.vn
+ahavietnam.com.vn
 alac.vn
 alivar.com.vn
 allone.vn
@@ -129,16 +130,20 @@ cheohanoi.vn
 chothuenhahanoi.vn
 chovaytienmat.vn
 chungcuvinhomessmartcity.com.vn
+chuyengiacongcokhi.vn
 chuyennghiep.vn
 chuyennongvu.vn
+chuyenvanphong24h.vn
 clg.vn
 click.accesstrade.vn
 click.adpia.vn
 click.m.ambientplatform.vn
 client.vads.net.vn
 clix.vn
+cloud168-105.1hosting.com.vn
 cmctelecomdanang.vn
 cmdtech.com.vn
+cms.vicloud.vn
 code.admicro.vn
 cohas.vn
 cokhiqnta.com.vn
@@ -182,7 +187,6 @@ dienlanhtayho.vn
 dienthoaiphukien.vn
 dienthoaitot.vn
 dieukhiendieuhoa.vn
-digitalgroup.vn
 dinhdatreal.vn
 divina.vn
 dl.logging.admicro.vn
@@ -221,7 +225,7 @@ eie.edu.vn
 emailadvertising.vn
 emarketing.eclick.vn
 emitech.jones.vn
-en.entechco.com.vn
+entechco.com.vn
 envischool.vn
 euro.klick.vn
 evaxinh.edu.vn
@@ -500,6 +504,7 @@ phunguyengroup.vn
 phuoclongco.com.vn
 phuongphamngulao.gov.vn
 phuxuan.edu.vn
+plusplus.vn
 polyad.galaxypub.vn
 popodoosmartenglish.com.vn
 pptech.com.vn
@@ -605,6 +610,7 @@ stc.adtima.vn
 stspower.com.vn
 sucom.vn
 sueannbridal.vn
+sunbayhotel.vn
 suntour.com.vn
 superlite.com.vn
 svcshop.com.vn
@@ -639,6 +645,7 @@ thongke.24h.com.vn
 thongtaccongtaihanoi.vn
 thongtindonganh.vn
 thongtinduhocduc.vn
+thucphamkho.vn
 thucphamnamviet.com.vn
 thuexevantaithanhhoa.vn
 thungracmoitruong.com.vn
@@ -679,6 +686,7 @@ truyxuat.smartcheck.vn
 ts.hust.edu.vn
 tsivn.com.vn
 ttkgroup.vn
+ttson.name.vn
 tungshinggroup.com.vn
 tuonglua.vn
 tuvanchienluoc.vn

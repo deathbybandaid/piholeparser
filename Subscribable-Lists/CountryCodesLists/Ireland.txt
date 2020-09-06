@@ -175,6 +175,7 @@ stats2.rte.ie
 stillorganchamber.ie
 support-international-service.security-informations.confirm-account-online.dugganroberts.ie
 support-international-service.security-informations.home.crumlincollege.ie
+swapkit.ie
 teachingnetwork.riam.ie
 techpeople.ie
 techworldgroup.ie

@@ -313,6 +313,7 @@ az693360.vo.msecnd.net
 azg1.emalu-store.com
 b-aws.aol.com
 b.bedop.com
+b.gemini.yahoo.com
 b.imwx.com
 b.myspace.com
 bab.frb.io
@@ -1568,6 +1569,7 @@ pgt1.voyage-prive.es
 phar.gu-web.net
 phoenix.untd.com
 pi.feedsportal.com
+pi.ispot.tv
 pi.technik3d.com
 ping-dot-acp-magento.appspot.com
 ping.dozuki.com
@@ -1908,6 +1910,7 @@ sp.mycentraljersey.com
 sp.naplesnews.com
 sp.naver.com
 sp.newarkadvocate.com
+sp.news-journalonline.com
 sp.news-press.com
 sp.newsleader.com
 sp.northjersey.com
@@ -2667,6 +2670,7 @@ upt.graphiq.com
 uptpro.homestead.com
 upz1.destinia.lt
 urc.taboolasyndication.com
+urs.metacritic.com
 urtracker.q-sis.de
 useg.nextdigital.com.hk
 user-metrics.onthemarket.com
@@ -2702,6 +2706,7 @@ videoplayer2.xyz
 videostat-new.index.hu
 videostat.index.hu
 videotracker.washingtonpost.com
+views.cancan.ro
 visit.asb.co.nz
 visit.dealspwn.com
 visit.geocities.com

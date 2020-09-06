@@ -1,4 +1,5 @@
 0190-telefonsex.de.lv
+1018.lv
 24.lv
 2u.lv
 2x2.lv
@@ -201,6 +202,7 @@ rembi.lv
 research.tsi.lv
 rilathome.lv
 runvtkk.tel.lv
+sacentrs.lv
 schwangere-frauen.de.lv
 schwule.de.lv
 selonija.lv

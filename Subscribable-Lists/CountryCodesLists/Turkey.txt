@@ -146,6 +146,7 @@ aysekaya.com.tr
 ayvalik.info.tr
 bahadiroglu.com.tr
 baharbahce.com.tr
+bahr.com.tr
 bakirkoytercume.com.tr
 balakar.com.tr
 balcidede.com.tr
@@ -305,6 +306,7 @@ euphoriabeauty.com.tr
 evaksgrup.com.tr
 eventpark.com.tr
 evkurnakliyat.com.tr
+excess.web.tr
 exodor.com.tr
 facades.com.tr
 faktoryapi.com.tr
@@ -313,6 +315,7 @@ farukaksoy.com.tr
 farukyilmaz.com.tr
 fazeel-dyo.com.tr
 fbe.trakya.edu.tr
+feed-back.com.tr
 ferka.com.tr
 ferrokim.com.tr
 fetih1453.org.tr
@@ -419,6 +422,7 @@ kalecesme.com.tr
 kamerreklam.com.tr
 kanarya.com.tr
 karadenizpeyzaj.com.tr
+karahanorg.com.tr
 karapinarmahder.org.tr
 kardelentekstil.com.tr
 karenporselen.com.tr
@@ -689,6 +693,7 @@ testcenter.com.tr
 tevekkel2.mgt.dia.com.tr
 thepinkdiamond.com.tr
 tilsim.org.tr
+tiole.com.tr
 tita.com.tr
 tml.web.tr
 tmpk.org.tr

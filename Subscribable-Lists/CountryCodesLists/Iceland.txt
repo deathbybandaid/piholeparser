@@ -5,6 +5,7 @@ ads.good.is
 ads.magnetic.is
 azn.is
 basarinn.is
+bem.is
 betralif.saa.is
 birta.stats.is
 bittrex.is

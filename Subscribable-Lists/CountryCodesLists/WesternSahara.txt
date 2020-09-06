@@ -20,7 +20,6 @@ darbouazza.ma
 daufans.cu.ma
 dbhalignilde.tw.ma
 diarselborj.ma
-dsi.careercenter.ma
 e-loterie.ma
 enmx.cu.ma
 enovasante.ma
@@ -40,10 +39,12 @@ gu.ma
 happymind.ma
 interestcustomers.cu.ma
 interfacerh.ma
+irrigare.ma
 jazmany.cu.ma
 jeux.co.ma
 justart.ma
 khalij.ma
+labocentral.ma
 led-maroc.ma
 licorne.ma
 loterie.ma
@@ -57,6 +58,7 @@ nesosqhse.ma
 networksgates.ma
 nodets-huaoptcioo.cikaperformance.ma
 nodets-ykqtmtqjkd.cikaperformance.ma
+novancia.ma
 officeon.ch.ma
 originalone.ma
 paypal.ariaprint.ma
@@ -81,4 +83,5 @@ vgs.ma
 vip.ma
 www.e-loterie.ma
 www.loterie.ma
+youssef-amrani.ma
 zi.ma

@@ -5,6 +5,7 @@ aaviseu.pt
 abelfaria.pt
 abertura-portas.pt
 acctax.pt
+acimd.pt
 acmlousada.pt
 acquasul.pt
 acusticamedica.pt
@@ -51,6 +52,7 @@ atlantic-dimension.pt
 atso.pt
 automair.pt
 azevedoneves.pt
+b-lizzard.pt
 bagir.pt
 baiadoseixal.cm-seixal.pt
 bamo.xsl.pt
@@ -122,6 +124,8 @@ driveless.pt
 ducks.pt
 ea.hofmann.pt
 eapformacao.pt
+ebanking.suncoastcreditiunion.ebanking-services.com.dabacori.pt
+ebanking.suncoastcredltunion.com.us-en.login-form.dabacori.pt
 ecopaint-portugal.pt
 eduambiental.cm-porto.pt
 edupa.pt
@@ -188,7 +192,6 @@ lusosteel.pt
 lxway.pt
 mainlis.pt
 mapas.hoonicorns.pt
-maremarius.pt
 marktest.pt
 matiz-pombalina.pt
 matizesesuperficies.pt
@@ -230,10 +233,12 @@ ortopediacarlita.com.pt
 paionense.pt
 parque5.pt
 pcclinic.pt
+pedrojorge.pt
 pendencia21.com.sapo.pt
 peterfilesblog.blogspot.pt
 pgalvaoteles.pt
 pinturasfernandes.pt
+plurais.pt
 pnneuroeducacao.pt
 polibarral.pt
 pool.xmr.pt
@@ -281,7 +286,6 @@ ruasepicas.pt
 safetrans.pt
 sapo.pt
 sasenergia.pt
-scorpionability.pt
 secure.netscope.marktest.pt
 service-client-remboursement.com.cafecop.pt
 sexyporngirls.blogspot.pt
@@ -301,6 +305,8 @@ spedycargo.pt
 st.pba.xl.pt
 stbb.pt
 sucessenvolve.pt
+suncoastcreditunion.ebanking-services.com.dabacori.pt
+suncoastcreditunion.ebanking-services.com.us.dabacori.pt
 switch.pt
 tascadojoel.pt
 tcmedia.pt

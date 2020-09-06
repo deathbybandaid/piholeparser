@@ -10,6 +10,7 @@
 639827382.linuxzone146.grserver.gr
 999paixnidia.gr
 a12b34.static.otenet.gr
+abtgroup.gr
 acmondata.gr
 ad-media.xe.gr
 ad.e-go.gr
@@ -131,7 +132,6 @@ chefandbarista.gr
 chzb.gr
 cityfm92.gr
 clickbanner.gr
-clou.ast.gr
 computernetworks.gr
 conduct.gr
 confirmation-4s8e1x4des55e7s46.868-710-d4dx44sdd-s1.tsipiras.gr
@@ -161,6 +161,7 @@ diathermiki.gr
 dikastro.gr
 dim-aigeir.ach.sch.gr
 dimitrakotoula.gr
+dimitrisplatis.gr
 dimosvoiou.gr
 dinorossi.gr
 dl.netflix-com-openarea-accountpriv.metaxotypies.gr
@@ -193,6 +194,7 @@ emporikohaidari.gr
 epapsy.gr
 epiplagrafeiou.com.gr
 epitisgis.gr
+eprom.gr
 epsxanthis.gr
 ergonomia.net.gr
 ermis-suites.gr
@@ -341,6 +343,7 @@ meletes.web.auth.gr
 menon.org.gr
 metaldamage.gr
 metanor.gr
+metrobeautymedical.gr
 mikoniou.gr
 mindtheshoe.gr
 monemvasianews.gr
@@ -354,6 +357,7 @@ mtmuseum-kal.gr
 myprisma.gr
 naftiliaki.gr
 nailprocare.gr
+neapeloponnisos.gr
 neotheatro.gr
 nextpointer.gr
 nfbooster.gr
@@ -453,6 +457,7 @@ secure.bankofamerica.comapplynowbofa.ecom.purchasing.common.ui.zk.wpd.replay-vil
 secure3.areospolis.gr
 sendacake.gr
 serraikizimi.gr
+servicekouzina.gr
 sexblue-box.gr
 sexshop.gr
 sexyporngirls.blogspot.gr
@@ -531,6 +536,7 @@ vasilakisorologia.gr
 victoria-makrigialos.gr
 villantzakislaw.gr
 vitalaikiathinon.gr
+vivipapaliaga.gr
 volissos.gr
 vostbaddleschoi1973.blogspot.gr
 voulastudios.gr
@@ -559,6 +565,7 @@ xdoctor.gr
 xpower.gr
 yoda.adman.gr
 youhot.gr
+yspyropoulos.gr
 zafferano.gr
 zamidis.gr
 zantidismarkets.gr
