@@ -2,17 +2,17 @@
 [Return To Main](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 ____________________________________
 # 
-## curl Sun Sep  6 00:20:20 UTC 2020
-curl Already Installed Sun Sep  6 00:20:20 UTC 2020
-## gawk Sun Sep  6 00:20:20 UTC 2020
-gawk Already Installed Sun Sep  6 00:20:20 UTC 2020
-## idn Sun Sep  6 00:20:21 UTC 2020
-idn Already Installed Sun Sep  6 00:20:21 UTC 2020
-## p7zip Sun Sep  6 00:20:21 UTC 2020
-p7zip Already Installed Sun Sep  6 00:20:21 UTC 2020
-## sed Sun Sep  6 00:20:21 UTC 2020
-sed Already Installed Sun Sep  6 00:20:21 UTC 2020
-## tar Sun Sep  6 00:20:21 UTC 2020
-tar Already Installed Sun Sep  6 00:20:21 UTC 2020
-## wget Sun Sep  6 00:20:21 UTC 2020
-wget Already Installed Sun Sep  6 00:20:21 UTC 2020
+## curl Mon Sep  7 00:20:16 UTC 2020
+curl Already Installed Mon Sep  7 00:20:16 UTC 2020
+## gawk Mon Sep  7 00:20:16 UTC 2020
+gawk Already Installed Mon Sep  7 00:20:16 UTC 2020
+## idn Mon Sep  7 00:20:16 UTC 2020
+idn Already Installed Mon Sep  7 00:20:16 UTC 2020
+## p7zip Mon Sep  7 00:20:16 UTC 2020
+p7zip Already Installed Mon Sep  7 00:20:16 UTC 2020
+## sed Mon Sep  7 00:20:16 UTC 2020
+sed Already Installed Mon Sep  7 00:20:16 UTC 2020
+## tar Mon Sep  7 00:20:16 UTC 2020
+tar Already Installed Mon Sep  7 00:20:16 UTC 2020
+## wget Mon Sep  7 00:20:16 UTC 2020
+wget Already Installed Mon Sep  7 00:20:16 UTC 2020

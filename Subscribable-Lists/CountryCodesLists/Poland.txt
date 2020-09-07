@@ -2612,6 +2612,7 @@ meczykilive.pl
 media.adcarousel.pl
 media.lotech.pl
 media.nk-net.pl
+media.stsaff.pl
 mediafile.pl
 mediaplastyk.pl
 mediaregad.hit.gemius.pl
@@ -3094,6 +3095,7 @@ onicetopeudice.pl
 onliine.pl
 online-casino.webpark.pl
 online-ins.pl
+online-mexos.efortuna.pl
 onlyher.nazwa.pl
 onyxnet.pl
 oo.waw.pl

@@ -8,6 +8,7 @@ ad.webshark.pl
 adform.net
 adk.docer.pl
 adocean.pl
+adraker-dev.azureedge.net
 ads.gry-online.pl
 adv.herocraft.com
 adv.wp.pl
@@ -44,7 +45,9 @@ leadexpert.pl
 lib.ads4g.pl
 lijjt.com
 marketplace.ofeminin.pl
+media.stsaff.pl
 mg.steepto.com
+online-mexos.efortuna.pl
 ovh.webshark.pl
 placehold.it
 rec-ir.quartic.pl
