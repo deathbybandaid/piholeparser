@@ -3,7 +3,7 @@
 ! License: https://github.com/yous/YousList#license
 ! Title: YousList
 ! Expires: 4 days
-! Version: 20200905
+! Version: 20200907
 
 ! General element hiding rules
 ##a[href*="//10x10bet888.com"]
@@ -420,6 +420,7 @@
 ##iframe[src*="//vod.shoppingcall.me/ad_shoppingCallme.php"]
 ##iframe[src*="//vsc.send.microad.jp/delivery/afr.php"]
 ##iframe[src*="//vse-spravki.bid/aclk/banner_click.php"]
+##iframe[src*="//was.livere.me/ad"]
 ##iframe[src*="//widget.barnebys.com/widget.php"]
 ##iframe[src*="//wr.catad5959.com/text/wrcatad.t"][src*=".Text_banner.asp"]
 ##iframe[src*="//wr.catad5959.com/thumbnail/wrcatad.t"][src*=".thumbnail_banner.asp"]
@@ -2232,6 +2233,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||vsc.send.microad.jp/delivery/afr.php^
 ||vsc.send.microad.jp/delivery/ajs.php^
 ||vse-spravki.bid/aclk/banner_click.php^
+||was.livere.me/ad^
 ||watchcartoononline.com/ads*.html^
 ||watchcartoononline.com/inc/reklam/*.html
 ||watchcartoononline.io/ads/ads*.php^$domain=watchcartoononline.io
@@ -4598,6 +4600,7 @@ m.newspim.com##div#container>div[style="width: 100%; height: 250px; overflow:  h
 m.newspim.com##div#container>div[style="width: 300px; margin:auto"]
 m.newspim.com##div#slideshow
 m.newspim.com##div.ad_box
+m.newspim.com##div.bodyview>div:not([class])>div[style="width: 100%; height: 265px; overflow:  hidden; margin-bottom: 20px; text-align: center;"]
 m.newspim.com##div.viewcontents>div[style="width: 100%; height: 180px; overflow: hidden"]
 m.newspim.com##div.viewcontents>div[style="width: 100%; height: 250px; overflow:  hidden; margin-bottom: 20px; text-align: center;"]
 m.newswave.kr##div#bottom_src

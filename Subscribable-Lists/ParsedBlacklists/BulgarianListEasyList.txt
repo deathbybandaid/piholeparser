@@ -2026,6 +2026,7 @@ stat.tiara.kakao.com
 stat.tildacdn.com
 stat.tvigle.ru
 stat.uuu9.com
+stat.valica.it
 stat.web-regie.com
 stat.webevolutis.com
 stat.ws.126.net

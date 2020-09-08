@@ -1945,6 +1945,7 @@ startrek.crocevia.it
 startup-online.it
 stat.acca.it
 stat.freetool.it
+stat.valica.it
 stat.webtool.it
 static.itrack.it
 statistiche.it
