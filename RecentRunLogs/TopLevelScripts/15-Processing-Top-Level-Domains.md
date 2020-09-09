@@ -3,7 +3,7 @@
 ____________________________________
 # 
 ## Internet-Assigned-Numbers-Authority
-List Took 1 Seconds.
+List Took 2 Seconds.
 [Details If Any](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains/Internet-Assigned-Numbers-Authority.md)
 
 ## Public-Suffix
@@ -22,7 +22,7 @@ ____________________________________
 ### Removing Old TEMP TLD If Present.
 Old TLD Comparison Not Present.
 ### Formatting TLD List.
-4604 After Formatting TLD List.
+4603 After Formatting TLD List.
 ### Removing Duplicatates From TLD List.
 1752 After Removing Duplicatates From TLD List.
 ____________________________________

@@ -583,6 +583,7 @@ compare.liligo.com
 compteur.developpez.com
 compteur.websiteout.net
 confiant-integrations.global.ssl.fastly.net
+confiant.msn.com
 confirm-referer.glrsales.com
 consent.api.osano.com
 consent.inm.ie
@@ -732,6 +733,7 @@ d2kdl5wcwrtj90.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
+d2r7bmv6l6bnd1.cloudfront.net
 d2ry9vue95px0b.cloudfront.net
 d2san7t27xb2pn.cloudfront.net
 d2tcg4i9q4js4a.cloudfront.net
@@ -1082,6 +1084,7 @@ geo-eu.snigelweb.com
 geo-us.snigelweb.com
 geo.6play.fr
 geo.battle.net
+geo.emol.cl
 geo.ertya.com
 geo.gorillanation.com
 geo.homepage-web.com
@@ -1462,6 +1465,7 @@ mms.syracuse.com
 mms.theroot.com
 mms.wwe.com
 mo.moonpig.com
+monitor.ebay.com
 mormont.gamer-network.net
 mqs.ioam.de
 ms.computerbild.de
@@ -1773,6 +1777,7 @@ runcornandwidnesworld-gb.runcornandwidnesworld.co.uk
 rv.modanisa.com
 rva.outbrain.com
 rvkcpqz.com
+rvv.emol.com
 s.360.cn
 s.agava.ru
 s.clickability.com
@@ -2173,6 +2178,7 @@ stats3.unrulymedia.com
 statsapi.screen9.com
 statsd.zmags.com
 statsdev.treesd.com
+statsmp2.emol.com
 statstracker.celebrity-gossip.net
 statt-collect.herokuapp.com
 statystyki.panelek.com
