@@ -353,6 +353,7 @@ brooklyn.pl.ua
 brow-xenna.com.ua
 browsers.dn.ua
 bryzhatyi.com.ua
+btcbank-promo.com.ua
 btcmillioner.biz.ua
 btcmillioner.co.ua
 btcprofit.co.ua
@@ -2526,6 +2527,7 @@ stat.eurocomputer.com.ua
 stat.lviv.ua
 stat24.meta.ua
 stdoctor.pl.ua
+steamautch.pp.ua
 steamcammunitly.pp.ua
 steamcommuniltycom.pp.ua
 steamcommunits.pp.ua
@@ -2600,7 +2602,6 @@ teman.com.ua
 temedic.pl.ua
 tender-woman.net.ua
 teodiarie.com.ua
-teploplus.dp.ua
 terms-page.at.ua
 terra-yug.com.ua
 test.apple-store.com.ua
@@ -2738,7 +2739,6 @@ vkauth.kl.com.ua
 vkbot.zzz.com.ua
 vkfreestickers.zzz.com.ua
 vkonakte.zzz.com.ua
-vkru.kl.com.ua
 vksurf.zzz.com.ua
 vkvadrate.com.ua
 vod.com.ua

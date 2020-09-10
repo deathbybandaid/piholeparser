@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 19 Aug 2020 at 07:40:03 GMT
+# Last updated: Wed, 09 Sep 2020 at 03:56:33 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -7458,6 +7458,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 bsnj.eyeblaster.akadns.net
 0.0.0.0 bt.linkpulse.com
 0.0.0.0 budapest1873.net
+0.0.0.0 buf.lemonde.fr
 0.0.0.0 bumerangshowsites.hurriyet.com.tr
 0.0.0.0 bundasnovinhas.com
 0.0.0.0 burns.adtech.de
@@ -7538,6 +7539,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 c.tw.msn.com
 0.0.0.0 c.uk.msn.com
 0.0.0.0 c.za.msn.com
+0.0.0.0 c0011.boursorama.com
 0.0.0.0 c1.adform.net
 0.0.0.0 c1.popads.net
 0.0.0.0 c1.teaser-goods.ru

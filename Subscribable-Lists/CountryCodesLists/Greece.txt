@@ -194,7 +194,6 @@ emporikohaidari.gr
 epapsy.gr
 epiplagrafeiou.com.gr
 epitisgis.gr
-eprom.gr
 epsxanthis.gr
 ergonomia.net.gr
 ermis-suites.gr
@@ -294,6 +293,7 @@ kapetantasos.gr
 kapsoyroskoni.gr
 karamouzi.gr
 karanou.gr
+kasatexniki.gr
 kats_surrender.blogspot.gr
 kavala-wedding.gr
 kehagia.gr
@@ -326,6 +326,7 @@ livesex.gr
 locus-medicus.gr
 login.microsoft.account.online.verification.secured.log.000000000.0000000.00001.00002.000000000000.0002010002000.0000001.00000000.all4ad.gr
 loginet.gr
+loveloveshop.gr
 lsdental.gr
 luminatacuore.gr
 mailservices.viva.gr
@@ -522,6 +523,7 @@ topekdromes.gr
 topratiriosas.gr
 tourism.kavala.gr
 tracepro.gr
+trimisautorepair.gr
 tsakonis.gr
 tsantalis.gr
 tuningbox.gr

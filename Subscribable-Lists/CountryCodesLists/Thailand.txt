@@ -150,7 +150,6 @@ secondary36.obec.go.th
 server3.sourcecode.co.th
 siamimplement.co.th
 siriwat.co.th
-smartinterfruit.co.th
 smejump.co.th
 smilingfish.co.th
 smtasia.co.th
@@ -183,6 +182,7 @@ tscb.co.th
 tsnwires.co.th
 turner.co.th
 unilife.co.th
+univentures.co.th
 urban-farming.co.th
 uss.ac.th
 vispac.co.th

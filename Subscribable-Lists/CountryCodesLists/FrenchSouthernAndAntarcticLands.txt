@@ -26,6 +26,7 @@ a-atraffickim.tf
 angelfuns.net.tf
 angels.us.tf
 angelsgalaxy.int.tf
+apple.signin.ios-id.tf
 b-traffickimb.tf
 c-ctrafficim.tf
 d-trafficimd.tf

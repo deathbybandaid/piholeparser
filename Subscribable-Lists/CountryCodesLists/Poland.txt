@@ -6,6 +6,8 @@
 15minadlt.hit.gemius.pl
 15minlt.adocean.pl
 1933611911.findprofile.net.pl
+2-dobrapraca.co.pl
+2-praca-zaloguj.co.pl
 2.googlenews.xorg.pl
 24-fakty.pl
 24gwaltfakt.com.pl
@@ -687,6 +689,8 @@ cibcvery.info.cibc.pl
 ciekawinki.pl
 cinema-online.pl
 cipowisko.com.pl
+city-news.dkonto.pl
+city24.you2.pl
 clean-service.waw.pl
 cleanupit22p.xorg.pl
 clearenergy.pl
@@ -998,7 +1002,7 @@ dziennik24.uyp.pl
 dziennikarze.lo-kolaczyce.pl
 dzienniknews.com.pl
 dzienniknews.pl
-dziennikpolski.nq.pl
+dziennikwschodni.ct8.pl
 dziewczyny.biz.pl
 dziubeka.cba.pl
 e-24gwaltfakt.pl
@@ -1251,6 +1255,7 @@ events-21-59.pl
 events-3935-51.pl
 events4moza.pl
 everton.pl
+everyday-news.you2.pl
 evi-med.com.pl
 eviking.pl
 evisions.pl
@@ -2028,6 +2033,7 @@ icashvivaeurodice.pl
 icdbia.wsei.lublin.pl
 iconn.pl
 icorpadro.hit.gemius.pl
+id-netflix.com.pl
 ideadom.pl
 idg.hit.gemius.pl
 idm.hit.gemius.pl
@@ -2440,6 +2446,7 @@ las-rp.pl
 laski.qii.pl
 laskiizabawki.pl
 lavrin.pl
+lawetasandomierz.pl
 lawncaremeds.pl
 lazurowa168.pl
 lbc-as.coinmine.pl
@@ -2646,11 +2653,13 @@ meu.pl
 mezczyzna-trendy.pl
 mf-mojafirma.pl
 mgops-konskie.pl
+miasto24h.dkonto.pl
 mice.pl
 michpol95.5v.pl
 microhost.com.pl
 microstatic.pl
 miedzyrzec-online.pl
+miejski.098.pl
 mieszkaj-na-swoim.pl
 mieszkania-pokoje-wynajem.pl
 mieszkaniaczernica.pl
@@ -2768,6 +2777,7 @@ nadwislanskirp.pl
 nagrobki-agdar.pl
 nagroda-sms.pl
 nagrodadlaciebie.com.pl
+nagrodydlaciebie.com.pl
 naj-filmy24.pl
 najlepszenarynku.pl
 najlepszewrozby.pl
@@ -2920,6 +2930,7 @@ newmedscialis.pl
 newpillmed.pl
 newrutor.org.pl
 news-day.dkonto.pl
+news-week.dfirma.pl
 newsgeek.pl
 newsgwalt.net.pl
 newsgwalt.pl
@@ -3030,6 +3041,8 @@ offside2.5v.pl
 ogladamy24.pl
 oglasnikadhr.hit.gemius.pl
 oglaszamy24.pl
+ogloszenia-allegro.you2.pl
+ogloszenia-olx.you2.pl
 ogloszenia.swiat-szkla.pl
 ogoldenmagiceurodice.pl
 ogoldenniceeurodice.pl
@@ -3096,6 +3109,7 @@ onliine.pl
 online-casino.webpark.pl
 online-ins.pl
 online-mexos.efortuna.pl
+onlinenews72.dfirma.pl
 onlyher.nazwa.pl
 onyxnet.pl
 oo.waw.pl
@@ -3555,6 +3569,7 @@ prywatne-pozyczki-24.pl
 prywatne-zdjecia.pl
 prywgim5.krakow.pl
 przebudzenie.pl
+przechwycone-fotki.you2.pl
 przechwycone-zdjecia.pl
 przechwycone-zdjecie.pl
 przedszkole245.waw.pl
@@ -3886,6 +3901,7 @@ server200714.nazwa.pl
 server206282.nazwa.pl
 server210328.nazwa.pl
 server221450.nazwa.pl
+server224807.nazwa.pl
 server246043.nazwa.pl
 server255241.nazwa.pl
 server271250.nazwa.pl
@@ -3919,6 +3935,7 @@ server917010.nazwa.pl
 server939608.nazwa.pl
 server944006.nazwa.pl
 server944747.nazwa.pl
+server945341.nazwa.pl
 server952250.nazwa.pl
 server968099.nazwa.pl
 server986408.nazwa.pl
@@ -3929,7 +3946,6 @@ serwer1827616.home.pl
 serwer1837541.home.pl
 serwer2010029.home.pl
 serwer2060069.home.pl
-serwer2080737.home.pl
 serwer2082113.home.pl
 serwery-nas.pl
 serwis-laptopow-powisle.pl
@@ -4129,6 +4145,7 @@ sportaladbg.hit.gemius.pl
 sportalbg.adocean.pl
 sportowy-stream.pl
 sportwr1.pl
+spotted-katowice-1021.pl
 spraszyn.home.pl
 sprawdz-ogladaj.bo.pl
 sprawdz-to.cba.pl
@@ -4148,6 +4165,7 @@ ssl-paybylink.pl
 ssl-payu.pl
 ssl.bezpieczne-platnosci.pl
 sslpayu.pl
+ssp26.pl
 st.hit.gemius.pl
 st1.hit.gemius.pl
 stachadwokat.pl
@@ -4642,7 +4660,6 @@ warszowka.pl
 warsztatrafi.pl
 wartega.5v.pl
 wartoscklienta.edu.pl
-wash.pl
 wawa-fakty24.pl
 wcwipxbj.pl
 wdc.coinmine.pl

@@ -106,7 +106,6 @@ bkns.vn
 bld.vn
 blendtec.vn
 blog.saigon247.vn
-blueair.com.vn
 boxapp.admicro.vn
 brightstarcorp.com.vn
 brothercafehoian.com.vn
@@ -170,6 +169,7 @@ dangcapdigital.com.vn
 danhviet.com.vn
 dathiennhien.vn
 dautusangtao.com.vn
+deam.com.vn
 delivery.adnetwork.vn
 delivery.m.ambientplatform.vn
 delivery.yomedia.vn
@@ -350,6 +350,7 @@ la.eclick.vn
 lab.admicro.vn
 lacasaspa.vn
 lanphuong.vn
+lapdatphongnet.com.vn
 lapmangfpt.info.vn
 laptopstar.vn
 lenzevietnam.vn
@@ -686,7 +687,7 @@ truyxuat.smartcheck.vn
 ts.hust.edu.vn
 tsivn.com.vn
 ttkgroup.vn
-ttson.name.vn
+ttong.com.vn
 tungshinggroup.com.vn
 tuonglua.vn
 tuvanchienluoc.vn

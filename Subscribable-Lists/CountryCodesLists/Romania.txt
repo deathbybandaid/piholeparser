@@ -143,6 +143,7 @@ bancoestado.cl.scoaladesoferi-azratim.ro
 banner.finzoom.ro
 banners.kappa.ro
 barbarossa.ro
+barbierii.ro
 bardavavillage.ro
 bc-tour.ro
 bcaffe.ro
@@ -799,7 +800,6 @@ salonlamaison.ro
 saltele-online.ro
 sanlux.ro
 sans.ro
-satelitromania.ro
 saulescupredeal.licee.edu.ro
 save-selfsecurity.ro
 scaune.qmagazin.ro

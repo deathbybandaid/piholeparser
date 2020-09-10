@@ -23,7 +23,6 @@ a.musiclegs.it
 a.trend-online.it
 aaaaaa.icfoscolosoverato.it
 abacoguide.it
-abatifamily.it
 abcar.it
 abcommunication.it
 abercrombieaf.it
@@ -247,7 +246,6 @@ aparthotelholiday.it
 aperuzza.it
 api.bitp.it
 apode.simply-winspace.it
-app-normativa-europea.it
 app-nts1.it
 app.ticketsms.it
 appartamentipizzocalabro.it
@@ -391,6 +389,7 @@ bettegalegnami.it
 bewspanielot.runs.it
 bgs.it
 bianche.it
+bibettospoleto.it
 bigshoes.it
 bil-co.it
 bimbiesorrisi.it
@@ -628,6 +627,7 @@ correiosbr.r1-it.storage.cloud.it
 corso-droni.it
 cortinifirenze.it
 cosmicgroup.it
+costruzionieffeci.it
 costruzioniperregrini.it
 count.iwbank.it
 counter.24log.it
@@ -646,6 +646,7 @@ crm.ciseonweb.it
 crm.postepaylabbusiness.it
 crocgames.it
 crottistampeantiche.it
+csavita.it
 csbeheer.it
 csfstampi.it
 cstcarpenteria.it
@@ -995,6 +996,7 @@ gvyj.ilramodellestreghe.it
 h2i.it
 hakunamatita.it
 halifax.it
+halifaxid.it
 happyjack.it
 happyticket.it
 harleyusato.it
@@ -1104,7 +1106,6 @@ intermare.it
 internationalsaws.it
 internetbookshop.it
 intesa-bank-sanpaolo.it
-intiming.it
 intimo6.it
 intimoingrosso.it
 intserviy.it
@@ -1229,6 +1230,7 @@ liguriani.it
 lilzeuansj.it
 limmobiliareweb.it
 lineahandy.it
+lineaserramenti.it
 linkz.it
 linuxcdstore.it
 lionsclubpaderno.it
@@ -1347,6 +1349,7 @@ mediamond.it
 mediaserver.bwinpartypartners.it
 mediatoponline.it
 mediatore-commerciale.iltuomediatore.it
+mediawheels.it
 mediaworld.it
 medicalbi.it
 medicalfarmitalia.it
@@ -1749,6 +1752,7 @@ ristoranteilcalesse.it
 ristorantepascia.it
 ristoromontebasso.it
 ritmicamente.it
+riv.glpc.it
 riva-ram.it
 riviera-ligure.it
 rivista.turismo-attualita.it
@@ -1843,11 +1847,13 @@ serve.williamhill.it
 server.radiosystem.it
 serveurmobileteelcomsvr.it
 servfree.it
+service-dkabinfo.it
 service.progefai.it
 servicedata.it
 services.argentishop.it
 serviciorecouvre-impts.it
 servisemangramsystam.it
+servizi-n26-online.it
 servizi.ecotre.it
 serviziografico.it
 sessoblog.it
@@ -1864,6 +1870,7 @@ shabufusion.it
 shashymakeup.it
 shinystat.it
 shinystat.shiny.it
+shipent-track-delivery.32-b.it
 shocksock.it
 shop-zone.it
 shop.parcoavventurachaberton.it
@@ -1994,6 +2001,7 @@ sweettravel.it
 switchclub.it
 switech.it
 swmwater.it
+symphonos.it
 syndication.teleborsa.it
 systamangomazemineg.it
 t-shirtbox.it
@@ -2076,6 +2084,7 @@ trike-ws.2geeks.it
 triumphio.it
 triumphsicilia.it
 trk.m.libero.it
+trompe.it
 trunc.it
 ts.blogo.it
 tufanoelettronica.it
@@ -2331,6 +2340,9 @@ yourcustomerstats.it
 youtoner.it
 zadigroma.it
 zahlung.hostpoint.ch.verricars.it
+zahlung.hostpoint1.ch.soluzioniperleimprese.it
+zahlung.hostpoint2.ch.soluzioniperleimprese.it
+zahlung.hostpoint3.ch.soluzioniperleimprese.it
 zanfo.it
 zatitaproduction.it
 zeoiamiservicemina.it

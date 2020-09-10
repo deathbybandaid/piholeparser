@@ -396,6 +396,7 @@ bunkyo-shiino.jp
 business-link.co.jp
 business-solution.jp
 butter-delimmo.jp
+buyitnow.jp
 buzzurl.jp
 bwb101.goo.ne.jp
 bxl.jp
@@ -422,6 +423,7 @@ cfby-5dfd.jp
 cfmgwjd6.jp
 cgi.tbs.co.jp
 cgi2.nintendo.co.jp
+chakuriki.sakura.ne.jp
 chalone.jp
 chanet.jp
 characterthelight.jp
@@ -680,6 +682,7 @@ glass-art.jp
 glitterati.shop-pro.jp
 global-ark.co.jp
 global-cc-alliance.com.piston.futoka.jp
+globalworks.main.jp
 glontioart.jp
 glossom.co.jp
 gmodmp.jp
@@ -688,6 +691,7 @@ go-coo.jp
 go.biglobe.ne.jp
 gogoakibahara2018.jp
 goo.ne.jp
+good-ygrace.jp
 gov-book.or.jp
 gpol.co.jp
 grangrace.jp
@@ -739,6 +743,7 @@ hilllac3860.jugem.jp
 himawari-web.akita.jp
 himonoyasan.jp
 hirorin.otaden.jp
+hisyo.main.jp
 hit32.jp
 hitorigoto-kokoro.blogspot.jp
 hmv.co.jp
@@ -1082,6 +1087,7 @@ mgjshop.co.jp
 microad.jp
 mikanclub.jp
 mikantai.jp
+mikhimshaissayd.blogspot.jp
 miki-boku.jp
 mimisen.jp
 min-web.jp
@@ -1195,6 +1201,7 @@ nicovideo.jp
 nigawa.co.jp
 nightthemoon.blog.so-net.ne.jp
 nikko-factory.co.jp
+nikomac.main.jp
 nin-sapo.or.jp
 nineoone.sakura.ne.jp
 ninja.co.jp
@@ -1397,6 +1404,7 @@ rekutancard.jp
 rekutancardb.jp
 rentskinow.jp
 rep.exblog.jp
+replus-w.co.jp
 resolv.jp
 rfonline.jp
 rgcgifuhashima.aikotoba.jp
@@ -1460,6 +1468,7 @@ senda.co.jp
 serows81.grandserows.jp
 serph.jp
 servedby.openxmarket.jp
+setona.main.jp
 sexyboy.jp
 sg-living.co.jp
 sh.adingo.jp
@@ -1519,6 +1528,7 @@ sp.gmossp-sp.jp
 sp.ioplaza.jp
 sp.mbga.jp
 spaceinn.co.jp
+speedcoaching.co.jp
 speranza.jp
 sportsentry.ne.jp
 sppd.ne.jp
@@ -1586,6 +1596,7 @@ takarakuji-official.jp
 takarazuka-an.co.jp
 taketora.co.jp
 takeyu.co.jp
+tanbo.main.jp
 tanken.kuronekoyamato.co.jp
 tanpopostore.jp
 tapiokamirukuteiganinnki.jp
@@ -1643,7 +1654,6 @@ uinetgw.uinet.or.jp
 ujiie-ss.co.jp
 ujj.co.jp
 umedaumeda.ec-net.jp
-umeoka.co.jp
 undersun.jp
 unitedblades.co.jp
 unozgtue.jp

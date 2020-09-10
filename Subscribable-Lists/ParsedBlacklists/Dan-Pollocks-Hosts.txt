@@ -3534,6 +3534,7 @@ bt.webwise.net
 bt.webwise.org
 btlsurvey.com
 budapest1873.net
+buf.lemonde.fr
 bulldog.122.2o7.net
 bumerangshowsites.hurriyet.com.tr
 bundasnovinhas.com
@@ -3714,6 +3715,7 @@ c.webwise.net
 c.webwise.org
 c.za.msn.com
 c0.adalyser.com
+c0011.boursorama.com
 c1.adform.net
 c1.popads.net
 c1.statcounter.com

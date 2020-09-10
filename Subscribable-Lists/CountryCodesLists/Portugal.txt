@@ -5,7 +5,6 @@ aaviseu.pt
 abelfaria.pt
 abertura-portas.pt
 acctax.pt
-acimd.pt
 acmlousada.pt
 acquasul.pt
 acusticamedica.pt
@@ -201,6 +200,7 @@ mcmads.mediacapital.pt
 mecanibraga.pt
 megahost.pt
 memoriasdarevolucao.pt
+metabolicedge.pt
 metalmozel.pt
 milcenas.pt
 milenar-ads.pt
@@ -233,7 +233,6 @@ ortopediacarlita.com.pt
 paionense.pt
 parque5.pt
 pcclinic.pt
-pedrojorge.pt
 pendencia21.com.sapo.pt
 peterfilesblog.blogspot.pt
 pgalvaoteles.pt
@@ -314,7 +313,6 @@ tdf1.vente-unique.pt
 teiamais.pt
 tempanalise.pt
 teoriasreais.pt
-terra-dal-gharb.pt
 test.joaopluis.pt
 teste.hoonicorns.pt
 testesfuncionais.pt
