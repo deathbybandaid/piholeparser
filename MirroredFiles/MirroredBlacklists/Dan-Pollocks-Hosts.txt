@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 09 Sep 2020 at 03:56:33 GMT
+# Last updated: Fri, 11 Sep 2020 at 16:34:35 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2139,6 +2139,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 59-106-20-39.r-bl100.sakura.ne.jp
 0.0.0.0 662bd114b7c9.onceedge.ru
 0.0.0.0 7zip.fr
+0.0.0.0 8hj500ro4t7.groovepages.com
 0.0.0.0 ASKBOT.com
 0.0.0.0 Arrayshift.com
 0.0.0.0 BonusCashh.com
@@ -2891,6 +2892,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 stellarium.fr
 0.0.0.0 stopphoulplay.com
 0.0.0.0 stopphoulplay.net
+0.0.0.0 storeoverlylatestapplication.best
 0.0.0.0 suddenplot.com
 0.0.0.0 sunhe.jinr.ru
 0.0.0.0 superegler.net

@@ -414,7 +414,7 @@ pointmail.rakuten.co.jp##div#special_iframe_couponArea
 
 !---------------- CUSTOM : Yahoo! Japan
 @@||yimg.jp^$stylesheet
-@@||api.mapbox.com^$image
+@@||api.mapbox.com^$domain=yahoo.co.jp
 ||ai.yimg.jp^
 ||b.yahoo.
 ||bc.geocities.yahoo.
