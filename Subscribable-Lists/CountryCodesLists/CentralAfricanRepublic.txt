@@ -246,6 +246,7 @@ binm.cf
 biology-71.cf
 bjsdja.cf
 blockchains.cf
+bncolombia-co-com-colombia.cf
 bnm.cf
 bnnvzrz.cf
 bobbyservices.cf
@@ -1409,6 +1410,7 @@ transaktion-de.cf
 transaktion-info-de.cf
 transaktion-pp.cf
 transferenciasscotiabankchile-covid.cf
+tranthikimhong.cf
 tranursnlmb.cf
 trasoto.cf
 trickmovieyw.cf

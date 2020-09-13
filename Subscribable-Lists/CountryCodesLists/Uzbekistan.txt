@@ -16,6 +16,7 @@ diyar.uz
 doctorovcharov.uz
 drugs.uz
 ej.uz
+facebook.common.uz
 geoinformatics.uz
 gigrofarm.uz
 glenbay.uz

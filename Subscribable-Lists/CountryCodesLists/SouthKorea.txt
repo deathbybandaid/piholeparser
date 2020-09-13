@@ -357,6 +357,7 @@ file.mm.co.kr
 fileserver.co.kr
 filtersale.co.kr
 finead.o00.kr
+firstview.co.kr
 fishingguard.co.kr
 flashgame.co.kr
 flic.kr
@@ -376,7 +377,6 @@ game24.co.kr
 gamgol.co.kr
 gang.dothome.co.kr
 gangmin.0pe.kr
-gangnam.wooridul.co.kr
 ganzistar.co.kr
 gao.co.kr
 gassystem.co.kr

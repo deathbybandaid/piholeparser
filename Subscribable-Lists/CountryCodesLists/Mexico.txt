@@ -85,7 +85,6 @@ banamex-verifica.com.mx
 bancmrnetempresarieeal.transportesgomez.mx
 bancomer.businesscards.com.mx
 bankofamerica.alertbaning.sas.inedx.djhdjhjhjdjfhjifikjahjfdhgfgfhjhkfofsksbsfhjdkfuiroieiweui.emerson-rep.com.mx
-bankofamerica.com-online-banking-sign-in.bfast.mx
 bannamex.com.mx
 banorte.org.mx
 banquetesenpuebla.com.mx
@@ -93,6 +92,7 @@ barnamex-lcbancentempreal.transportesgomez.mx
 beautybrunch.mx
 bellnattura.com.mx
 berel.com.mx
+bfast.mx
 bibayoff.mx
 bidao.edu.mx
 billow.arturogilborja.com.mx
@@ -216,7 +216,6 @@ cpanel.genesysinternational.com.mx
 cpone.terrainnova.com.mx
 crmcap.udgvirtual.udg.mx
 crookedmagazine.com.mx
-crsistemas.com.mx
 crurom.com.mx
 csinformaticos.com.mx
 ctyd.com.mx
@@ -334,6 +333,7 @@ gfgcorp.mx
 gfsn.com.mx
 gigio.mx
 glib.mx
+gobiernoabiertoslp.mx
 goo.mx
 google.mexweb.com.mx
 gopos.com.mx
@@ -500,6 +500,7 @@ mercadolibre.com.mx
 merkadito.mx
 messages.postmaster.lovelypets.mx
 metosys.com.mx
+mexnoticias.mx
 mheleva.com.mx
 micronetworks.com.mx
 migocreativo.com.mx
@@ -524,6 +525,7 @@ nem.edu.mx
 neoredes.com.mx
 netpub.com.mx
 newservicegold.com.mx
+noeby.mx
 nominas.utrng.edu.mx
 noticias.canal22.org.mx
 nouveau.edu.mx
@@ -716,6 +718,8 @@ tranviaturistico.com.mx
 travian.com.mx
 trendica.mx
 trewa.mx
+truper-unoferreterias.grupojenrab.mx
+truper.grupojenrab.mx
 tusdescuntos.com.mx
 tuwebhoy.com.mx
 tvomas.com.mx

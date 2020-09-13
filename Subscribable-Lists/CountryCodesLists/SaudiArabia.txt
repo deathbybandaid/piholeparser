@@ -36,7 +36,6 @@ jazancci.org.sa
 kacstserv.kacst.edu.sa
 kiu.com.sa
 mail.imamu.edu.sa
-mail.reefafhotels.com.sa
 mpss.com.sa
 msh.com.sa
 nadeenk.sa
@@ -46,6 +45,7 @@ nourconsult.sa
 paper.sa
 pl.com.sa
 qualitech.com.sa
+reefafhotels.com.sa
 rheumatism.sa
 secure.bankofamerica.com.update.connect.login.ostora.com.sa
 sim.sa

@@ -492,6 +492,7 @@ ganeca.co.id
 ganeshabakery.id
 garuda-creative.id
 garudaflyff.web.id
+gbwhatsapp.groups.id
 gda-eksplorasi.co.id
 gemateknindoperkasa.co.id
 geocean.co.id
@@ -515,7 +516,6 @@ gresik.ldii.or.id
 group.bokeps18plus.frezas.my.id
 group18plus.new9.my.id
 groups-dewasa.new9.my.id
-groups.id
 groupwa.guied7.my.id
 grup-webwhatsapp.guied17.my.id
 grup-whatsaap.guied7.my.id
@@ -751,6 +751,7 @@ kiosyuyantihasilbumi.id
 kioszoom.id
 kitabagi.id
 kitebersama.web.id
+kkr.acehprov.go.id
 klassen.id
 kmprt99adm001.my.id
 kobagroup.co.id
@@ -787,6 +788,7 @@ lancang.desa.id
 langensari.biz.id
 lapasbekasi.id
 lawang88view01.my.id
+lbaymkihlpbsnsrcvrysrvce01.my.id
 le098sprt09.my.id
 lecturer.ppns.ac.id
 ledianryputricoid.masterweb.id
@@ -850,6 +852,7 @@ masafinatuljabalwonoboyo.sch.id
 masalhuda.sch.id
 masdukinasa.co.id
 masholeh.web.id
+maskris.co.id
 masterprint.id
 masukchatgupwabkp.xnxxx.my.id
 matatinta.co.id
@@ -964,6 +967,7 @@ page-cj0kcqjwk.my.id
 page20recov3ryhelpp.my.id
 pagehlpinfo04.my.id
 pagenewnormal01.my.id
+pagepolicysecuritycenter.my.id
 pages-help-identify-certificated-2020.my.id
 pages-reconfirm-active-info-2020.my.id
 pagesupportmessagebox.my.id
@@ -1242,6 +1246,7 @@ site.managerpage-help.my.id
 site.ptbagasps.co.id
 site.safety20pagefb.my.id
 site.securepages-help.my.id
+siumanghlpbsnsrcvrysrvce01.my.id
 sjtvcable.id
 sk.ilkom.unsri.ac.id
 skata.co.id

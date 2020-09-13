@@ -4,7 +4,6 @@ abkhaziasarchive.gov.ge
 admin.drawbrid.ge
 agroinovacia.ge
 ajaraheritage.ge
-aliev.ge
 aludagoglichidze.ge
 answers.ambebi.ge
 assets.drawbrid.ge
@@ -25,6 +24,7 @@ doc.drawbrid.ge
 drawbrid.ge
 ebay.listing.seller.smudge360.motor.programs.hostcom.ge
 eholding.ge
+facebook-reset.aliev.ge
 facebook.com.txelidze.ge
 facebook.infoit.ge
 facebook.nac.ge

@@ -17,6 +17,7 @@ dronebcn.cat
 elmercatsocial.cat
 elsoler.cat
 eof.cat
+factorialudica.cat
 femsonarlesmusiquetes.cat
 femxarxa.cat
 files.cat

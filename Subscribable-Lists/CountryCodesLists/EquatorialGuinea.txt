@@ -533,6 +533,7 @@ info101.centre-fanpage9991.gq
 ingredient.gq
 inpost.pl-reg.gq
 instagram1.infoitem.gq
+instagrambusinnes.gq
 instagramcopyriqht.gq
 inv-seniorcarecentersltc-auth-page.gq
 inv-swltc.gq
@@ -739,6 +740,7 @@ njgnbke.gq
 nklnvr.gq
 nmnvtg.gq
 nomeerf-71.gq
+novoportal-com.gq
 nr01petitieonline-covid19byfacebook.gq
 nxfvcxu.gq
 nz-c0bk.gq
@@ -791,6 +793,7 @@ pezinok.gq
 pharsepieyeyoueeup2527.gq
 photosmarts.gq
 pictureshouse.gq
+pillowtalks.gq
 pilotenespel.gq
 pkkmisl.gq
 pocoxxmas.gq

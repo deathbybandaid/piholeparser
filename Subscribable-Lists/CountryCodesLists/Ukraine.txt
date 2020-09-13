@@ -262,6 +262,7 @@ b.1s2.in.ua
 b.c8.net.ua
 b.digital-tv.com.ua
 babs.com.ua
+babybag.com.ua
 babybreeze.ua
 bac.in.ua
 balcon.in.ua
@@ -701,6 +702,7 @@ esoftgroupon.com.ua
 este-line.com.ua
 etdoctor.pl.ua
 etehnika.com.ua
+eternas.kiev.ua
 eth.pp.ua
 etmedic.pl.ua
 etofirma36.pp.ua
