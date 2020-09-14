@@ -8,9 +8,9 @@
 ! Działa najlepiej z EasyList - pamiętaj aby zasubskrybować!
 !   Patronite ==> https://patronite.pl/polskiefiltry
 !   PayPal ==> https://www.paypal.com/pools/c/87zNJ8OJ3I
-! Last modified: 11 September 2020
+! Last modified: 13 September 2020
 ! Expires: 1 day
-! Version: 2020091102
+! Version: 2020091303
 ! Support:
 !   Email >> errorsfilters@certyficate.it
 !   Github >> https://github.com/MajkiIT/polish-ads-filter/issues
@@ -18,7 +18,7 @@
 ! License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ! Copyright © 2020 Certyficate IT
 ! Najnowsza wersja zawsze na: https://www.certyficate.it/adblock
-! v.2020091102 aktualizacja: ptk, 11 września 2020, 08:30:00
+! v.2020091303 aktualizacja: nie, 13 września 2020, 19:00:00
 !
 !
 !1#-----------------------General advert blocking filters-----------------------!
@@ -447,6 +447,8 @@ bestgun.pl##div.CalyBox:nth-of-type(2)
 besty.pl##SPAN[style=" display: block;margin-bottom: 10px; font-size: 13px;color: #aaa; text-align: center;"]
 besty.pl##[id^="adsense_main_"]
 besty.pl##div:nth-of-type(10) > span
+betblog.pl##.size-large.aligncenter > A
+betonline.net.pl##.module-content.module > .cnt > p > A > IMG, .show.cool-stuff
 bezkompleksow.com.pl###tn_text-2
 bezprawnik.pl##.visual-wide, .wall-bg-banner, .col-xs-12.hidden-xs, .margin-bottom40.headline, .margin-bottom40.sidebar, .play_iframe
 bezuzyteczna.pl##[style="width:700px;height:200px;"]
@@ -508,6 +510,10 @@ blasty.pl##.ads_top_of_list
 blaugrana.pl##[class^="gridAd"]
 blog.nowebrzmienia.pl###text-2 > .widget-title-container
 blog.pluralsight.com##.video.widescreen.flex-video
+blogbukmacherski.pl###stream-item-widget-3 > .stream-item-widget-content
+blogbukmacherski.pl##.widget-ad-image, .size-large.wp-block-image, div.wp-block-image
+blogbukmacherski.pl##.size-large.aligncenter > A
+blogbukmacherski.pl##figure.wp-block-image > A
 blogomaniak.pl###headerNavBlogomaniak > .wrapper > .right
 blogomaniak.pl###left
 blogomaniak.pl##.anal-post-popularne, .anal-post-ad-pod-artykulem, .anal-bottom
@@ -536,7 +542,7 @@ brodnica.net##.stopka, .calosc
 brodnica.net##[href^="/banery/click.php"]
 brodnica.net##td:nth-of-type(3) > table > tbody > tr:nth-of-type(1) > td:nth-of-type(2)
 bryk.pl,www.jawor.tv,lokalna.news,www.swiebodzin.tv,korso24.pl,boleslawiec.tv,obserwatorlokalny.pl,regatv.pl,swiebodzin.tv,tvmorag.pl,zgl.pl##[class*="advert-"]
-brytol.com,reefhub.pl###text-3
+brytol.com,reefhub.pl,legalnybukmacher.com###text-3
 bslomazy.pl##.page > div > div > A > iMG
 budmatauto.pl##.popup-content, .popup-bg
 budnet.pl##a[href^="https://"] > IMG
@@ -1656,12 +1662,17 @@ laskonline.pl###prawa_kolumna > h1:nth-of-type(2)
 lawka.pl###szesc
 lawka.pl##table:nth-of-type(2) > tbody > tr > td > table
 lca.pl###banner_inside1, #right_container_box_ad
+legalnybukmacher.com##.entry-content > A > [class^="wp-image"]
 lebork24.info###rT1, #rM0, #rM2, #banner-main2, div.banner-box
 lechpoznan.pl##.AdvertBottomBar
 leczna24.pl##.noprint.centrujban, .bounceInUp.animated.serwis_box.col-lg-3.col-md-3.col-sm-4.col-xs-12 > div:nth-of-type(5), .text-center.col-xs-12.col-md-12, [class*="ffds"]
 leftlane.pl###u488942
+legalni-bukmacherzy-online.pl##.text_live > p > A > IMG
+legalni-bukmacherzy-online.pl##.justify-content-center.d-flex > p
+legalni-bukmacherzy-online.pl##div.widget > .bannerwidget
 legalniewsieci.pl##.col-xs-12.col-sm-6.filelist + .col-xs-12
 legalniewsieci.pl##.own-placement
+legalnybukmacher.net.pl##figure.size-large.wp-block-image > A
 legionisci.com##.news-bannery
 leki.fora.pl##.trzContent
 lento.pl###a-show-boottom
@@ -2203,6 +2214,7 @@ optyczne.pl##.sidebar-left.main-content-right
 optyczne.pl#?#center:-abp-has(script)
 originals24.pl##body > div:nth-of-type(3)
 oscarrak.pl##IMG[alt^="baner"]
+ostatniatawerna.pl##[id^="ostat-"]
 ostrodanews.pl,tu.swinoujscie.pl##[id^="media_image-"]
 ostrowiecnews.pl###main > p
 ostrowiecnews.pl###text-4, #text-2 > .textwidget > p:nth-of-type(n+2), .text-center.hidden-print
@@ -3708,6 +3720,7 @@ zywiecinfo.pl##.promoted
 ||haker.com.pl/s*.gif$image
 ||haloursynow.pl/img/banery/
 ||hd-opinie.pl/wp-content/themes/hdopinie/images/rightcol_shadow.png$image
+||hdtvpolska.com/forum/welcome-screen.js$xmlhttprequest
 ||hipek.pl/kreacje/$image
 ||hiperogloszenia.pl/sys/ri.gif$image
 ||historia.org.pl/wp-content/uploads/20*/*1680x1050.jpg$image
@@ -4595,6 +4608,7 @@ money.pl,moneyv.wp.pl#?#div[class^="sc-"]:-abp-has(> img[src="https://i.wpimg.pl
 @@/reklama.$~stylesheet,domain=reklama.ringieraxelspringer.pl
 @@.pl/ads/*/static/$stylesheet,script,domain=google.pl
 @@/images/ads/puszczatv/*$image,domain=niezalezna.pl
+@@||hdtvpolska.com^*300x250$image,domain=hdtvpolska.com
 digest.com.pl#@#.display-ad-block
 e-stargard.pl,mojeinfo24.pl#@#.bg_ad
 epainfo.pl#@#.td-ad-background-link
@@ -4603,7 +4617,7 @@ filmyfilmy.pl#@#.sidebar_advert
 kafeteria.pl#@#.is-sponsored
 mandarinodesign.eu,ddb24.pl,iotwock.info,ototorun.pl,twojradom.pl,szczecinek.com,zycie.pila.pl,kurierpodlaski.pl,zambrow.org,egarwolin.pl,lowicz24.eu,ciechanowinaczej.pl,itvpiaseczno.pl,ikampinos.pl,infosiedlce.pl,ibialoleka.pl,izoliborz.pl,imokotow.pl,nolesnica.pl,lipno-cli.pl,golub-cgd.pl,ibielsk.pl,brodnica-cbr.pl,egorzow.pl,ipragapoludnie.pl,rypin-cry.pl,wabrzezno-cwa.pl,wio.waw.pl,e-wyszogrod.pl,upflix.pl,brzozow24.pl,bukowsko24.pl,esanok.pl,jaslo24.pl,rzeszow24.pl,strzyzow24.pl,tvpodkarpacie.pl,ustrzyki24.pl,zagorz24.pl,zarszyn24.pl#@#.reklama
 walbrzych24.com,zloty-pociag.com#@##gwd-ad
-24legnica.pl,wstereo.pl,magazynbasista.pl,niebezpiecznik.pl,appki.com.pl,prawapolityka.pl,stop-cham.pl,namasce.pl,24legnica.pl###text-8
+24legnica.pl,wstereo.pl,magazynbasista.pl,niebezpiecznik.pl,appki.com.pl,prawapolityka.pl,stop-cham.pl,namasce.pl,24legnica.pl,motohigh.pl###text-8
 ||static-olxeu.akamaized.net/static/olxpl/naspersclassifieds-regional/olxeu-atlas-web/static/js/advertising.js$important
 @@/wp-content/uploads/*/*-300x250-$image,domain=www.agrofakt.pl
 @@||liveads.pl$domain=liveads.pl

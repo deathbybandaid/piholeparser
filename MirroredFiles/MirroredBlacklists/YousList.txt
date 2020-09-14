@@ -3,7 +3,7 @@
 ! License: https://github.com/yous/YousList#license
 ! Title: YousList
 ! Expires: 4 days
-! Version: 20200910
+! Version: 20200913
 
 ! General element hiding rules
 ##a[href*="//10x10bet888.com"]
@@ -2998,6 +2998,7 @@ digitalchosun-dizzo-com.cdn.ampproject.org##div.wrap_ad_inner1
 digitalchosun.dizzo.com##div.banner
 digitalchosun.dizzo.com##div.centerbanner
 digitalchosun.dizzo.com##li.textad_article
+digitalcitizen.life##aside.block--amp-ad
 digitalspy.com##div.ad-gpt-breaker
 digitalspy.com##div.ad-gpt-breaker-container
 digitalspy.com##div.ad-gpt-main
