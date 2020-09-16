@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 11 Sep 2020 at 16:34:35 GMT
+# Last updated: Tue, 15 Sep 2020 at 02:16:57 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -9671,6 +9671,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 morickamegpiskota.housefmradio.eu
 0.0.0.0 motd.pinion.gg
 0.0.0.0 motosal.net
+0.0.0.0 mouthtroubleask17.live
 0.0.0.0 movieads.imgs.sapo.pt
 0.0.0.0 movsflix.com
 0.0.0.0 mozebyctwoje.com

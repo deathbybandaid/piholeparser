@@ -389,6 +389,8 @@ nicovideo.jp##aside[class*="billboard-banner"]
 !---------------- CUSTOM : Rakuten
 @@||rakuten.co.jp/*ad$script
 @@||static.card.jp.rakuten-static.com/r-enavi/js/$script,domain=www.rakuten-card.co.jp
+@@||pointmall.rakuten.co.jp/api/v1/clickon
+@@||isbingo.www.infoseek.co.jp/contents/renewal$domain=pointmall.rakuten.co.jp
 ||rakuten.co.jp^$domain=~infoseek.co.jp|~rakuten.co.jp|~rakuten.ne.jp|~rakuten-card.co.jp
 ||bookmark.rakuten.$domain=~my.bookmark.rakuten.co.jp
 ||books.rakuten.co.jp/pzd_contents/tmpl/e-book/js/topPc.bundle.min.js
@@ -428,8 +430,8 @@ pointmail.rakuten.co.jp##div#special_iframe_couponArea
 ||yjaxc.yahoo.
 ||yjtag.
 yahoo.co.jp##div#adcm
+yahoo.co.jp##div#TBP
 yahoo.co.jp##div#ult
-
 !---------------- CUSTOM : etc.
 @@||access.line.me/
 @@||adobedtm.com/$domain=nhk.or.jp|radiko.jp
@@ -440,8 +442,12 @@ yahoo.co.jp##div#ult
 ||map.goo.ne.jp/glbs/ams900.goo.ne.jp/xml_2016.php
 !||nikkei.com/$script
 afpbb.com##aside[class="bnr"]
-cnn.co.jp##div[id^="ad-"]
 asahi.com##div[class="AdMod"]
+asahi.com##div[id^="HometopAd"]
+biglobe.ne.jp##div[class="bl-top-square"]
+cnn.co.jp##div[id^="ad-"]
 jiji.com##div[class="ArticleAdSide"]
+jma.go.jp##*[class="jma_ad_space"]
 sankei.com##*[id^="ad"]
 tenki.jp##*[class*="-ad-"]
+yomiuri.co.jp##*[class*="-ad-"]
