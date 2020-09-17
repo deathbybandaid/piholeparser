@@ -237,6 +237,7 @@ aa.newsblock.marketgid.com
 aads.treehugger.com
 aams1.aim4media.com
 aan.amazon.com
+aarth.net
 aaukqiooaseseuke.org
 aax-cpm.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
@@ -259,6 +260,7 @@ ac.atpanel.com
 ac.rnm.ca
 ac.tynt.com
 acces.streaming-direct.co
+accessfreevpn.com
 accessful.info
 accountlock-demo.iovation.com
 accountprotection.xyz
@@ -300,6 +302,7 @@ ad-logics.com
 ad-mediation.tuanguwen.com
 ad-noise.net
 ad-plus.cn
+ad-score.com
 ad-server.co.za
 ad-serverparc.nl
 ad-servicestats.net
@@ -3447,6 +3450,7 @@ bleachbit.com
 blender3d.fr
 blenz-me.net
 bliga.oewabox.at
+blockchaintop.nl
 blog.addthis.com
 blogads.com
 blogads.ebanner.nl
@@ -4045,6 +4049,7 @@ cgirm.greatfallstribune.com
 cgm.adbureau.ne
 cgm.adbureau.net
 chainsawoffer.com
+chaintopdom.nl
 changduk26.com
 charging-technology.com
 charlizetheron.1stok.com
@@ -4607,6 +4612,7 @@ crowdignite.com
 crux.songline.com
 crwdcntrl.net
 crypto-loot.com
+cryptoblog.biz
 cryptocoinsad.com
 cryptolabpro.com
 cryptoloot.pro
@@ -4725,6 +4731,7 @@ dashboard.adcalls.nl
 dashboardnew.adcalls.nl
 dashgreen.online
 data-failover.eroadvertising.com
+data.ad-score.com
 data.coremetrics.com
 data.eroadvertising.com
 data.flurry.com
@@ -4962,6 +4969,7 @@ dwclick.com
 dy.admerize.be
 dyn.emetriq.de
 dyn.loolav.space
+dynip.org
 dzl.baidu.com
 e-2dj6wfk4ehd5afq.stats.esomniture.com
 e-2dj6wfk4ggdzkbo.stats.esomniture.com
@@ -5528,6 +5536,7 @@ fin.adbureau.net
 fin.tips
 finance-offer.com
 finanzmeldungen.com
+find-your-profithere11.com
 finder.cox.net
 findmenow.info
 findsexguide.com
@@ -5889,6 +5898,7 @@ georgewbush.112.2o7.net
 georgewbushcom.112.2o7.net
 geoweb.e-kolay.net
 get-answers-fast.com
+get-express-vpn.com
 get.hitbox.com
 get.optad360.io
 get.x-link.pl
@@ -5996,6 +6006,7 @@ go.stirshakead.com
 go.trkreward.com
 go.verymuchad.com
 go2.hit.gemius.pl
+go2page.net
 goa.camimbu.com
 goat.cx
 goatse.bz
@@ -6005,6 +6016,7 @@ goatse.ru
 goatsegirl.org
 goautofinance.com
 gocarisoprodol.polybuild.ru
+gocarosel.com
 gofem.oewabox.at
 gofreegifts.com
 goggle.com
@@ -6119,6 +6131,7 @@ gremimedia.pl
 grfx.mp3.com
 grooveshark.fr
 groupm.com
+grtexch.com
 grz67.com
 gs1.idsales.co.uk
 gscounters.us1.gigya.com
@@ -6692,6 +6705,7 @@ iprocollect.realmedia.com
 iq001.adtech.de
 iq001.adtech.fr
 iq001.adtech.us
+iqoption.com
 ir-de.amazon-adsystem.com
 ir-na.amazon-adsystem.com
 ir2.beap.gemini.yahoo.com
@@ -6845,10 +6859,12 @@ join1.winhundred.com
 journal-des-bourses.com
 journalism.uk.smarttargetting.com
 journalregistercompany.122.2o7.net
+joyschema3.live
 jpirate.cjt1.net
 jqueryscript.net
 jroqvbvw.info
 js-sec.indexww.com
+js.ad-score.com
 js.adlink.net
 js.admngr.com
 js.adscale.de
@@ -7250,6 +7266,7 @@ lstat.youku.com
 lstats.qip.ru
 lt.andomedia.com
 lt.angelfire.com
+ltk.pw
 lucibad.home.ro
 lucklayed.info
 lucky-day-uk.com
@@ -7518,6 +7535,7 @@ m9.sg.2mdn.net
 m9.uk.2mdn.net
 m9.ve.2mdn.net
 m9.za.2mdn.net
+ma-plastifieuse.info
 ma.5.p2l.info
 ma.baidu.com
 ma.wp.pl
@@ -7862,9 +7880,11 @@ medya.e-kolay.net
 meetupcom.112.2o7.net
 meevehdar.com
 mega.vast.mega-tags.com
+megabizvibes.com
 megapanel.gem.pl
 megaplex.oewabox.at
 megasurfin.com
+megawealthbiz.com
 megdobbensz.info
 meglepo.info
 megoszthato.blogspot.hu
@@ -8896,6 +8916,7 @@ only-valium.shengen.ru
 only.best-games.today
 only2date.com
 onlypreteens.com
+onmypc.net
 onocollect.247realmedia.com
 onvis.ivwbox.de
 oo-na-na-pics.com
@@ -9564,6 +9585,7 @@ purredheanb.online
 purryowl.com
 push-ad.com
 push-notification.tools
+push.aarth.net
 pushno.com
 pussl22.com
 puush.in
@@ -10435,6 +10457,7 @@ smartinit.webads.nl
 smartlifeguides.com
 smartshare.lgtvsdp.com
 smartstats.com
+smarttopchain.nl
 smedizin.oewabox.at
 smetrics.att.com
 smetrics.tesco.com
@@ -11265,6 +11288,7 @@ top1site.3host.com
 top5.mail.ru
 topbestgames.com
 topbrandrewards.com
+topcashvibes.com
 topconsumergifts.com
 topdemaroc.com
 tophirek.hu
@@ -11709,6 +11733,7 @@ tste.startribune.com
 tsyndicate.com
 ttarget.adbureau.net
 ttnet.yandex.com.tr
+ttoc8ok.com
 ttuk.offers4u.mobi
 tu.connect.wunderloop.net
 tubgirl.me
@@ -11749,6 +11774,7 @@ tx.5.p2l.info
 tx.micro.net.pk
 tynt.com
 tz284.com
+tzeva.info
 u-ads.adap.tv
 u.admob.com
 u.extreme-dm.com
@@ -12608,6 +12634,7 @@ www.888poker.com
 www.961.com
 www.a.websponsors.com
 www.a2uu36g43l.download
+www.aarth.net
 www.abetterinternet.com
 www.abrogatesdv.info
 www.action.ientry.net
@@ -12835,6 +12862,7 @@ www.blatant8jh.info
 www.blazingtrader.biz
 www.blender3d.fr
 www.blenz-me.net
+www.blockchaintop.nl
 www.bluediamondoffers.com
 www.bluestreak.com
 www.bluewaffle.biz
@@ -13206,6 +13234,7 @@ www.games-toys-free.com
 www.games-toys-rewardpath.com
 www.gator.com
 www.gatoradvertisinginformationnetwork.com
+www.get-express-vpn.com
 www.getacool100.com
 www.getacool500.com
 www.getacoollaptop.com
@@ -13264,6 +13293,7 @@ www.greenshot.fr
 www.grooveshark.fr
 www.grouphappy.com
 www.groupm.com
+www.grtexch.com
 www.grz67.com
 www.guesstheview.com
 www.guptamedianetwork.com
@@ -13351,6 +13381,7 @@ www.intnet-offer.com
 www.invitefashion.com
 www.iovation.co.uk
 www.iovation.com
+www.iqoption.com
 www.irony.world
 www.is1.clixgalore.com
 www.isfilebest.com
@@ -13496,7 +13527,9 @@ www.media2.travelzoo.com
 www.medical-offer.com
 www.medical-research-books.com
 www.medical-rewardpath.com
+www.megabizvibes.com
 www.megacounter.de
+www.megawealthbiz.com
 www.mellowads.com
 www.merchantapp.com
 www.merlin.co.il
@@ -13792,6 +13825,7 @@ www.skattabrain.com
 www.smart-scripts.com
 www.smartadserver.com
 www.smarttargetting.com
+www.smarttopchain.nl
 www.smichovbike.cz
 www.smokersopinionpoll.com
 www.smsmovies.net
@@ -13886,6 +13920,7 @@ www.tons-to-see.com
 www.toolbarcounter.com
 www.top20free.com
 www.topbrandrewards.com
+www.topcashvibes.com
 www.topconsumergifts.com
 www.topdemaroc.com
 www.topmeds10.com
@@ -13929,6 +13964,7 @@ www.trucktirehotline.com
 www.true-counter.com
 www.truecrypt.fr
 www.ttnet.yandex.com.tr
+www.ttoc8ok.com
 www.tubgirl.me
 www.tubgirl.org
 www.tuigang1999.com
