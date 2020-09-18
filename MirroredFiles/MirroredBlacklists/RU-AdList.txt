@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: MGniBj9yjnUlNELncPu1kw
-! Version: 202009170020
+! Checksum: vsSZBV8RdZVBObsqZWqmnQ
+! Version: 202009180020
 ! Title: RU AdList
-! Last modified: 17 Sep 2020 00:20 UTC
+! Last modified: 18 Sep 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -21532,7 +21532,7 @@ hi-tech.mail.ru##tr > .daynews__spring
 games.mail.ru##.b-content__banner
 games.mail.ru##.b-main__wrapper > a.b-bg[href^="https://r.mail.ru/"]
 games.mail.ru##.b-pc__wrapper > a[class^="b-bg"][href^="https://r.mail.ru/redir/"][target="_blank"]
-dom.mail.ru##.cols__inner > .article ~ .margin_top_20
+dom.mail.ru##.cols__inner > .root-Article ~ .margin_top_20
 games.mail.ru##.js-aab_target
 dom.mail.ru##.js-fixed-panel > .box
 tv.mail.ru##.js-popup_banner
