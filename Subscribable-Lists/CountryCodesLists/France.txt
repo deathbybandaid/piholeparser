@@ -506,9 +506,9 @@ acces-referencement.fr
 access-cannes.fr
 accessbike57.fr
 acciplus.fr
+account0verify.idapple-require.boleanz.fr
 accounts-verification-update-information.hbandam.fr
 acesbanq-ponstale.fr
-acewala.fr
 achat-jeux-pc.sfr.fr
 acheter-like-acheter-des-fans.fr
 achetercasquebeats.fr
@@ -542,6 +542,7 @@ ad6.fr
 ad6media.fr
 adac-reims.fr
 adameteve.fr
+adapsante.fr
 adblock.fr
 adconsultants.fr
 adeisse.fr
@@ -916,6 +917,7 @@ banquepopulaire2010.solution.weborama.fr
 bans.pornica.fr
 barbequedirect.fr
 barbok.fr
+barbotinlarrieu-architecture.fr
 barbydare.free.fr
 barrebien.fr
 barthelemy.vincent86.free.fr
@@ -1044,6 +1046,7 @@ betterizer.fr
 biapi-coaching.fr
 bibliophile.free.fr
 bigbillou.fr
+bigdatasante.fr
 bigfishgames.fr
 bigfocusnews.fr
 biglove.free.fr
@@ -1552,6 +1555,7 @@ comparer-lesplacements.fr
 compte-labanquepostale.fr
 compte-pour-tous.fr
 comptefacebookpirater.fr
+comptoir-carrelage-45.fr
 conforama.fr
 connect-coin.fr
 connectelive.fr
@@ -1671,6 +1675,7 @@ david.serrault.free.fr
 daxon.fr
 daydreams.fr
 db-hardware.fr
+dbtsante.fr
 dcbc.free.fr
 ddsoldes.fr
 deblokgsm.free.fr
@@ -1801,7 +1806,6 @@ droidsoft.fr
 droledezizi.free.fr
 drolesdejeux.fr
 dronassur-a2f.fr
-dropsagency.fr
 druming.free.fr
 dsi-info.fr
 dswmain.fr
@@ -1935,6 +1939,7 @@ entreprise-lacroix.fr
 envie-du-jour.fr
 envie-evasion.fr
 enviedepices.fr
+eosante.fr
 epaviste-marseille.fr
 equipezvous33.fr
 erdlq-so.fr
@@ -1983,6 +1988,7 @@ evasion-trip.fr
 eveangeli.free.fr
 evilangel.fr
 evocetsens.fr
+evoliasante.fr
 evydence-bijoux.fr
 exchange.pbem.fr
 exjuex.fr
@@ -2055,6 +2061,7 @@ filmpornofrancais.fr
 filoumektoub.free.fr
 final-battle.fr
 finalfantasyxteam.superforum.fr
+financierejump.fr
 findannee.fr
 findyourlove.free.fr
 first-selection.fr
@@ -2084,6 +2091,7 @@ foliessexy4.free.fr
 foliessexy5.free.fr
 folkstorm.free.fr
 fond-d-cran-clara-morgane.softonic.fr
+fonssante.fr
 footcenter.fr
 footcenterfr.fr
 foote.free.fr
@@ -2104,6 +2112,7 @@ forum.team666.fr
 forum.voxiz.fr
 forumliensutiles.free.fr
 fouinmasta.free.fr
+foulpougnefestival.fr
 fourmizzz.fr
 fqcebook.yj.fr
 fr-ecomut.fr
@@ -2961,6 +2970,7 @@ le-chalet-beaufortain.fr
 le-clean.fr
 le-journal-de-france.fr
 le-kube.fr
+le-mag-sante.fr
 le-magasin-du-bonheur.fr
 le-mail-cinq-etoiles.fr
 le-meilleur-de-la-ville.fr
@@ -2973,11 +2983,11 @@ le-top-de-levasion.fr
 le-top-reduc-online.fr
 leadata.fr
 leadplace.fr
+lease-auto.fr
 lebellevue.fr
 leblog-auto.fr
 leblogduhacker.fr
 leboncoin.fr
-leboudoirstquayportrieux.fr
 lecadeaugourmand.fr
 lecap-services.fr
 lecerfvolant.free.fr
@@ -2996,7 +3006,6 @@ legaulois.fr
 legle78.free.fr
 lehavregenealogie2017.fr
 lejouetfrancais.fr
-lelamantin.fr
 lelibrair.fr
 lelogisbranche.fr
 lemaildefou.fr
@@ -3372,6 +3381,7 @@ mes-indemnites.mailcpam.fr
 mes-jeux-gratuits.fr
 mes-offres-personnalisees.fr
 mes-reductions-impot.fr
+mesanger-stjoseph.fr
 mesbonsplansdunet.fr
 mescoursescasino.fr
 mesdelicesitaliens.fr
@@ -3444,6 +3454,7 @@ mon-compte-ameli.fr
 mon-design.fr
 mon-espace-bien-etre.fr
 mon-poeme.fr
+mon-remboursement-impots-gouv.dropsagency.fr
 monastucenet.fr
 moncler-france.fr
 monclerdoudounefrance.fr
@@ -3566,6 +3577,7 @@ nexusglobal.fr
 ngf-secure.chronogolf.fr
 nice-people.fr
 nicoland.fr
+nicolas.greta.drosalys-web.fr
 nicolocs.fr
 nicoteen3.free.fr
 nightrider.free.fr
@@ -3805,6 +3817,7 @@ pg2.solution.weborama.fr
 phan.thuchao.free.fr
 pharmacie-joffre-toulon.fr
 pharmaservices.fr
+pharmsante.fr
 phidacycles.fr
 philemonchavrier.fr
 photo.video.gay.free.fr
@@ -3941,6 +3954,7 @@ powerpower.fr
 pp.free.fr
 pradabagsoutlet.fr
 premium-info.fr
+premys-deconstruction.fr
 presty-delices.fr
 priceminister.fr
 pricerunner.fr
@@ -4023,6 +4037,7 @@ pvpub.paruvendu.fr
 pwa.telephoneannuaire.fr
 qigong-gironde.fr
 qjftp55.fr
+qpertu.custovalid.fr
 qpuc.france3.fr
 quad-registry-cleaner.softonic.fr
 quadratus.fr
@@ -4095,6 +4110,7 @@ realmedia.lesechos.fr
 realmedia.m6.fr
 recbf.free.fr
 recette.confiture.free.fr
+rech-secures.fr
 recharge-mobile-gratuit.fr
 recimmobilier.fr
 reclame.lequipement.fr
@@ -4102,6 +4118,7 @@ recrejeux.fr
 red-dead.fr
 red.chic-avenue.fr
 redaction-focus-news.fr
+redirect-account.apple-manage.brainwall.fr
 redirect-secure-verif.fr
 reductiondumoment.fr
 redunicorn.free.fr
@@ -4226,11 +4243,11 @@ sanaeishida.fr
 sani3789.odns.fr
 santamariaheleta.fr
 santecaricature.fr
+santeservice.fr
 santoringrece.fr
 sara203.fr
 sarrigne.fr
 satnet.fr
-saucats.fr
 sautenparachute-skydiveroanne.fr
 savemygame.fr
 saveyourdocument.degrif-auto.fr
@@ -4277,6 +4294,7 @@ select002.adtech.fr
 select003.adtech.fr
 select004.adtech.fr
 selection-privileges.fr
+seletsante.fr
 selfieboxcube.fr
 semeacdemain.fr
 sentiersdelagloire.free.fr
@@ -4342,6 +4360,7 @@ shoptonmail.fr
 shortralphlaurenpaschers.fr
 shrt.fr
 sibankofamerica.jexiste.fr
+signaturesante.fr
 simjeux.fr
 simplybase.fr
 simplybird.fr
@@ -4349,7 +4368,6 @@ simplybox.fr
 simplyflu.fr
 simplynews.fr
 simrugby.free.fr
-sinadent.fr
 sinologie.fr
 site-internet-belfort.fr
 sitepbnkcnsrvjfn.fr
@@ -4403,6 +4421,7 @@ sos-medecins-stmalo.fr
 sosplombiers-6eme.fr
 sosplombiers-8eme.fr
 sosplombiers-9eme.fr
+sota-france.fr
 sotb.free.fr
 soudhydro.fr
 soulofdreams.fr
@@ -4789,7 +4808,6 @@ webi-studio.fr
 webinfo34.fr
 webkam.fr
 webmail-ac-paris.fr
-webmail.clinique-vaugneray.fr
 webmail.coronavirus-info.yj.fr
 webmail.ladomicileattitude.fr
 webmail.updatcoronavirus.yj.fr

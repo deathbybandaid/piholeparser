@@ -312,6 +312,7 @@ kpesfakioton.gr
 kq0ekr.gr
 ksyrigos.gr
 kyriakidisk.gr
+labshop.gr
 leftakis.gr
 legsfetish.blogspot.gr
 lenabeach.gr
@@ -329,6 +330,7 @@ loginet.gr
 loveloveshop.gr
 lsdental.gr
 luminatacuore.gr
+mail.studioplay.gr
 mailservices.viva.gr
 mantilaki.gr
 marinco.gr
@@ -485,7 +487,6 @@ static.adman.gr
 stats.e-go.gr
 stock-house.gr
 stoiximan.gr
-studioplay.gr
 studytravel.gr
 supermarketdelivery.gr
 support.dromeas.gr
@@ -507,6 +508,7 @@ tecnohellas.gr
 teleactive.gr
 telemarketing.gr
 teleworking.gr
+tennis.sitia.gr
 tennispot.gr
 tentoepiskevi.gr
 texniko.gr
@@ -537,6 +539,7 @@ vaptistika-olga.gr
 vasilakis-george.gr
 vasilakisorologia.gr
 victoria-makrigialos.gr
+villaceleste.gr
 villantzakislaw.gr
 vitalaikiathinon.gr
 vivipapaliaga.gr

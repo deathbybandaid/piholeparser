@@ -1,4 +1,13 @@
+112.27.124.163bin.sh
+112.27.124.168bin.sh
+112.27.124.174bin.sh
+125.168.145.66bin.sh
+125.45.186.236bin.sh
+153.34.65.168bin.sh
+216.98.84.2bin.sh
+46.47.80.188bin.sh
 81.17.16.122zeros6x.sh
+89.106.101.247bin.sh
 ad.proxy.sh
 aolverificatior-mgbqiuhkj.now.sh
 apu.sh

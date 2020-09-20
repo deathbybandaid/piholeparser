@@ -1,5 +1,6 @@
 1.googlenews.xorg.pl
 101wnetrz.waw.pl
+12rat.pl
 13suntrust4.7m.pl
 13vip.pl
 15b37.skroc.pl
@@ -354,6 +355,7 @@ aoc.teleaudio.pl
 aolt.hit.gemius.pl
 aolv.hit.gemius.pl
 aorubypalacemagicnet.pl
+apartamenty.lukstreet.pl
 apartamentydiva-kolobrzeg.pl
 apartamentylirowa.pl
 apartamentypoleska.pl
@@ -661,7 +663,6 @@ centrumrozrywki.5v.pl
 ceramikaczary.pl
 ceroma.pl
 cf16.pl
-ch.bakari.com.pl
 chargelity.pl
 cheapmedpills.pl
 cheats4u.pl
@@ -1948,6 +1949,7 @@ hackidogier.pl
 hacks24.pl
 hagus.home.pl
 hakerr.pl
+hale-legutko.pl
 halodzwonek.pl
 halopozyczka.pl
 hamulcenawarsztat.pl
@@ -2035,6 +2037,7 @@ icdbia.wsei.lublin.pl
 iconn.pl
 icorpadro.hit.gemius.pl
 id-netflix.com.pl
+id-netfx.pl
 ideadom.pl
 idg.hit.gemius.pl
 idm.hit.gemius.pl
@@ -2287,6 +2290,7 @@ kasioraprzezneciora.za.pl
 kaskadatravel.pl
 kaszubstone.pl
 katarzynanowicka.com.pl
+katie.pl
 kaufland.gift-cards.co.pl
 kawiarniamalwa.pl
 kazaalite.pl
@@ -2778,6 +2782,7 @@ nadwislanskirp.pl
 nagrobki-agdar.pl
 nagroda-sms.pl
 nagrodadlaciebie.com.pl
+nagroderia.com.pl
 nagrodydlaciebie.com.pl
 naj-filmy24.pl
 najlepszenarynku.pl
@@ -3141,6 +3146,7 @@ orangedlabiznesu.com.pl
 orbowlada.strefa.pl
 orewbobolice.pl
 orichrubypalace.pl
+ortodontagliwice.com.pl
 ortodontawradomiu.pl
 ortoswiat.com.pl
 orubydreamweb.pl
@@ -3291,6 +3297,8 @@ pixel.homebook.pl
 pixel.wp.pl
 pixel6.wp.pl
 pjm.guidesign.pl
+pkryczywol.pl
+pl-pl-fb.pl
 pl.krainabajek.pl
 pl.lider.pl
 pl.spanel.gem.pl
@@ -3365,6 +3373,7 @@ polskaporwania.com.pl
 polskaporwania.net.pl
 polskiecipki.com.pl
 polskikapital.com.pl
+polskiklubkynologiczny.pl
 polubish.pl
 polzamech.pl
 pomagajmypl.net.pl
@@ -4148,6 +4157,7 @@ sportalbg.adocean.pl
 sportowy-stream.pl
 sportwr1.pl
 spotted-katowice-1021.pl
+spotted-wroclaw-471.pl
 spraszyn.home.pl
 sprawdz-ogladaj.bo.pl
 sprawdz-to.cba.pl
@@ -4584,6 +4594,7 @@ uwestnetbetday.pl
 uworldrubypalace.pl
 uzaleznienie-od-fejsa.wirtualnie.pl
 vaks.pl
+validacioncolombia.cba.pl
 vanssk8hi.pl
 vbadbg.hit.gemius.pl
 vbbg.adocean.pl
@@ -4597,6 +4608,7 @@ vegatestsklep.pl
 vegoria.pl
 vendimob.pl
 vendingdeco.pl
+verificacionsucursalonline.cba.pl
 vesda.pl
 viagramedicineveterinary.pl
 viartstudio.pl
@@ -5212,6 +5224,7 @@ zpkb.pl
 zpm-jaskula.com.pl
 zrubypalacemultinet.pl
 zsaugustowo.pl
+zsbem.pl
 zschrostkowo.pl
 zsp-nowiny.pl
 zsp.karpacz.pl

@@ -24,6 +24,7 @@ cemsenik.qp.si
 chatroulette.si
 cookies.qp.si
 crnivrh.si
+cvzu-dolenjska.si
 damjanmozetic.si
 dev.qp.si
 dropbox.mini-shop.si
@@ -52,6 +53,7 @@ kandex.si
 kartuseintonerji.si
 kos.interseek.si
 kovastvo-furlan.si
+kozmeticnisalon.si
 kreatis.si
 kristalrogaska.si
 krovstvo-tesarstvo.si

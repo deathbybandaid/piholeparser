@@ -233,6 +233,7 @@ annunci69.it
 anspimodena.it
 anstudio.it
 antares-gioielli.it
+antec.it
 anthosaralasystamnagra.it
 anticalibreria.it
 anticogiardinosiciliano.it
@@ -247,6 +248,7 @@ aparthotelholiday.it
 aperuzza.it
 api.bitp.it
 apode.simply-winspace.it
+app-normativa-europea.it
 app-nts1.it
 app.ticketsms.it
 appartamentipizzocalabro.it
@@ -305,6 +307,7 @@ assistenza-cliente.it
 assistenza.agrelliebasta.it
 assocateservievamira.it
 associazioneiltrovatore.it
+associazioneinpiazza.it
 assoenergy.it
 astaimmobiliare.it
 asteam.it
@@ -630,7 +633,6 @@ cortinifirenze.it
 cosmicgroup.it
 costruzionieffeci.it
 costruzioniperregrini.it
-cottone.it
 count.iwbank.it
 counter.24log.it
 counter.e-audit.it
@@ -643,7 +645,6 @@ creativeteam.it
 creativita.gsf.rcs.it
 credemc.it
 creditsolutionssnc.it
-crippacostruzioni.it
 cristoforodeamicis.it
 crm.ciseonweb.it
 crm.postepaylabbusiness.it
@@ -696,6 +697,7 @@ desiderya.it
 destefanisas.it
 dev.abitotv.it
 dev.mtmshop.it
+devincenti.it
 dianasport.it
 dibrunamanshyea.it
 difamily.it
@@ -720,6 +722,9 @@ docu-wetransfe-r-files.64-b.it
 documenti.comune.ostiglia.mn.it
 dogstudios.it
 dolomitiprealpi.it
+dolphininsight.it
+domiciliazionelegaleamilano.it
+domiciliazionesedelegalerecapitopostalemilano.it
 dominahomesantaflavia.it
 domini.tiscalinet.it
 donneuropa.it
@@ -982,6 +987,7 @@ goticofotografia.it
 gotoandplay.it
 gptecno.it
 granditaglie.it
+graphicom.it
 gravitychallenge.it
 greifenberg.it
 grillus.it
@@ -1226,6 +1232,7 @@ lestregheagriturismo.it
 letsglowup.it
 leveleservizimmobiliari.it
 lexgsa.it
+lgmelettroimpianti.it
 liberidiinvestire.it
 liceoscientificomt.it
 lidoraggiodisole.it
@@ -1288,6 +1295,7 @@ louisvuittonss.it
 louisvuittonsz.it
 louisvuittonz.it
 lovegame48465.it
+loveinvenice.it
 lovelyromeapartments.it
 luccheseteam.it
 luce.polimi.it
@@ -1370,6 +1378,7 @@ mercanautic2000.it
 merchandising.caesar.it
 merlovincenzo.it
 metaldamage.it
+metaltech-egena.it
 metan2.villapeppe.it
 meteo.macerata.it
 meteoerba.it
@@ -1485,6 +1494,7 @@ noitennisvacanze.it
 noleggioautopadova.it
 nomak.it
 noncontribuito.nexive-shop.it
+noreply-team.it
 northpoleitalia.it
 notaiopasquetti.it
 notifiche.secoloditalia.it
@@ -1514,6 +1524,7 @@ offertematerassi.it
 officinapiva.it
 ogame.it
 ogameita.it
+oggisivola.it
 oikosecologia.it
 okadsweb.tiscali.it
 okcellulari.it
@@ -1569,7 +1580,6 @@ pagineverdibonsai.it
 palocco.it
 panetteriagiacosa.it
 panificiobellotti.it
-papadeilumi.it
 pappai.it
 paracadutismolucca.it
 paradiseplanet.it
@@ -1759,7 +1769,6 @@ ristoranteilcalesse.it
 ristorantepascia.it
 ristoromontebasso.it
 ritmicamente.it
-riv.glpc.it
 riva-ram.it
 riviera-ligure.it
 rivista.turismo-attualita.it
@@ -2003,6 +2012,7 @@ superzeta.it
 support-73.it
 surja.it
 surveyabincol.it
+sushigarden.it
 suwa.it
 sv1.eyeonmusica.it
 sweettravel.it
@@ -2092,7 +2102,6 @@ trike-ws.2geeks.it
 triumphio.it
 triumphsicilia.it
 trk.m.libero.it
-trompe.it
 trunc.it
 ts.blogo.it
 tufanoelettronica.it
@@ -2170,6 +2179,7 @@ vps-ta.tiscali.it
 w-02.th.seeweb.it
 wachvre.it
 walo1.simply-winspace.it
+web-assistenza.it
 web-revolution.it
 web02.zero11.it
 webh24.it
@@ -2351,6 +2361,9 @@ zahlung.hostpoint.ch.verricars.it
 zahlung.hostpoint1.ch.soluzioniperleimprese.it
 zahlung.hostpoint2.ch.soluzioniperleimprese.it
 zahlung.hostpoint3.ch.soluzioniperleimprese.it
+zahlung.swisscom2.ch.genss.it
+zahlung.swisscom3.ch.genss.it
+zahlung.swisscom4.ch.genss.it
 zanfo.it
 zatitaproduction.it
 zeoiamiservicemina.it

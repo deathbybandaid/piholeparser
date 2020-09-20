@@ -351,6 +351,7 @@ kivalodolgozo.hu
 klikkzsirafok.hu
 konyvnet.hu
 kossuthlajosaltisk-mezotur.hu
+kota.hu
 kovacsvagas.hu
 kovesszucs.atw.hu
 kralikmarti.hu
@@ -359,7 +360,6 @@ lampalazszelidito.hu
 lap.reklam.hu
 lashandlashes.hu
 laszloiparcikk.hu
-lavish.hu
 ledobbensz.blogspot.hu
 lelkizona.hu
 lemuria.hu
@@ -438,6 +438,7 @@ nyugat.hu
 okker.hu
 oktatasicentrum.uw.hu
 oleksandr.pe.hu
+onemanband.hu
 organikusok.blogspot.hu
 orgonafuvo.hu
 origins.hu
@@ -562,6 +563,7 @@ szallodaverseny.hu
 szeged.suvido.hu
 szegedihadipark.hu
 szegedimotorfeszt.hu
+szekelyepitkezes.hu
 szelszi.hu
 szerencsejatek.hu
 szervizkalkulator.hu
@@ -645,6 +647,7 @@ vilagkuldetes.hu
 vilagpolgarok.blogspot.hu
 vilagunk.hu
 virtweb2.interware.hu
+vitalplanet.hu
 vk-ch174.pe.hu
 vk-lnformation.pe.hu
 vk-newtv.pe.hu

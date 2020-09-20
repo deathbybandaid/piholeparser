@@ -27,7 +27,6 @@ giromamas.mk
 haemacedonia.mk
 homeinternational.mk
 i-skygreen.mk
-implanti.mk
 info.proglasnik.mk
 inovarte.com.mk
 ireklama.mk

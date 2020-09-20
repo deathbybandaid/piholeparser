@@ -692,7 +692,6 @@ go-coo.jp
 go.biglobe.ne.jp
 gogoakibahara2018.jp
 goo.ne.jp
-good-ygrace.jp
 gov-book.or.jp
 gpol.co.jp
 grangrace.jp
@@ -864,7 +863,6 @@ japanking-no1ninaru.jp
 japanmetrix.jp
 japannettokyo.jp
 japanp0st.jp
-jbad.or.jp
 jewelleryterra.jp
 jh4bke.jp
 jig.jp
@@ -1321,6 +1319,7 @@ plusic.jp
 plusinter.jp
 pnezvg.jp
 po-holdings.co.jp
+pochi.eek.jp
 pod.co.jp
 pod2.jp
 point.jp
@@ -1376,6 +1375,7 @@ rabitsokuhou.2chblog.jp
 racers.jp
 radiomall.ne.jp
 raim.ne.jp
+raku-yu.jp
 rakuda.co.jp
 rakuten-japan.jp
 rakuten.co.jp
@@ -1407,7 +1407,6 @@ rekutancard.jp
 rekutancardb.jp
 rentskinow.jp
 rep.exblog.jp
-replus-w.co.jp
 resolv.jp
 rfonline.jp
 rgcgifuhashima.aikotoba.jp
@@ -1556,6 +1555,7 @@ streamingtv.jp
 stylecast.jp
 sublaw.jp
 subterraneans.jp
+suenaga.jp
 suiso.jp
 sumabura-omoshiroi.jp
 sumiden-e.co.jp
@@ -1707,6 +1707,7 @@ vsva7.jp
 w62oxo.jp
 waibi.hateblo.jp
 wakametokonnbu.jp
+waseda-investment.jp
 washulabo.gekkeikan.co.jp
 web-aoi.akita.jp
 web-jp.ad-v.jp

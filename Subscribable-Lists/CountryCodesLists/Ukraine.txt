@@ -1988,6 +1988,7 @@ mst.com.ua
 multinet.in.ua
 muscle-factory.com.ua
 mvduk.kiev.ua
+mx2.otg.kiev.ua
 my-bestday.net.ua
 mybest-day.net.ua
 mybestbeauty.net.ua
@@ -2135,7 +2136,6 @@ orekhov-city.zp.ua
 orenthe.com.ua
 osbb.lviv.ua
 otdoctor.pl.ua
-otg.kiev.ua
 otmedic.pl.ua
 otrdlya.com.ua
 our-hearts.net.ua
@@ -2741,6 +2741,7 @@ vkauth.kl.com.ua
 vkbot.zzz.com.ua
 vkfreestickers.zzz.com.ua
 vkonakte.zzz.com.ua
+vkru.kl.com.ua
 vksurf.zzz.com.ua
 vkvadrate.com.ua
 vod.com.ua
@@ -2771,6 +2772,7 @@ webiort.com.ua
 weblove.org.ua
 weboirt.com.ua
 webserver.zzz.com.ua
+webvk.pp.ua
 wellsadminar-inf-ua.1gb.ua
 welpodi.com.ua
 wemal.com.ua

@@ -24,7 +24,6 @@ amazon.co.jp.00-m3-2-ioe-jd-m3-2.zqhqkq.ph
 amazon.co.jp.b6f5b87a9a94bb3515fcb075d6cb145cd2b73d68.ph
 amazon.co.jp.crhzkj.ph
 amazon.co.jp.dkhskc.ph
-amazon.co.jp.dshpkg.ph
 amazon.co.jp.gghpkr.ph
 amazon.co.jp.ghhdkd.ph
 amazon.co.jp.gqhbkh.ph
@@ -36,6 +35,7 @@ amazon.co.jp.hxhlkq.ph
 amazon.co.jp.hxhxkl.ph
 amazon.co.jp.m1-2-lkodk-2lo-m13.zthqkq.ph
 amazon.co.jp.m1-3-3miok-o-3em.zphckp.ph
+amazon.co.jp.pkhzkw.ph
 amazon.co.jp.rqhhks.ph
 amazon.co.jp.support345.mshhkz.ph
 amazon.co.jp.update-login-asp1.lkhwkd.ph
@@ -140,6 +140,7 @@ jasiltraveltours.com.ph
 jbhqkd.ph
 jobhiring.ph
 jp.b0b1c943f1c75f8fc081f207e353844be416aa1b.ph
+jp.dshpkg.ph
 jp.wxhgkn.ph
 juancarlo.ph
 keeva.com.ph
@@ -156,6 +157,7 @@ merittrading.com.ph
 mgmfoundation.ph
 mobilesolutions.ph
 molave.gov.ph
+mphgkg.ph
 myhfye223.ph
 mytrud0.com.ph
 nagasibugay.gov.ph
@@ -191,6 +193,7 @@ rbc1.qchnkc.ph
 real08.com.ph
 real08.ph
 rentmanager.ph
+sanlo.edu.ph
 scglobal.com.ph
 secur.ph
 server09.net.ph

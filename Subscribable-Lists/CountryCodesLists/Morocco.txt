@@ -47,6 +47,7 @@ khalij.ma
 labocentral.ma
 led-maroc.ma
 licorne.ma
+location-voitures.ma
 loterie.ma
 machine.cu.ma
 marocsports.ma
@@ -58,7 +59,6 @@ nesosqhse.ma
 networksgates.ma
 nodets-huaoptcioo.cikaperformance.ma
 nodets-ykqtmtqjkd.cikaperformance.ma
-novancia.ma
 officeon.ch.ma
 originalone.ma
 paypal.ariaprint.ma

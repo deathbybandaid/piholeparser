@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 16 Sep 2020 at 01:03:10 GMT
+# Last updated: Sat, 19 Sep 2020 at 04:49:38 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -7352,6 +7352,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 beacons.helium.com
 0.0.0.0 beap.gemini.yahoo.com
 0.0.0.0 bedach.stream
+0.0.0.0 beifibpola.work
 0.0.0.0 bell.adcentriconline.com
 0.0.0.0 benimreklam.com
 0.0.0.0 benrie.stream
@@ -7373,6 +7374,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 bfast.com
 0.0.0.0 bgrel.bonedmilfs.com
 0.0.0.0 bhclicks.com
+0.0.0.0 bicoinsprofit.com
 0.0.0.0 bid.contextweb.com
 0.0.0.0 bid.openx.net
 0.0.0.0 bid.underdog.media

@@ -73,7 +73,6 @@ nanostyle.ge
 newmetekhi.ge
 now.ge
 officetechnologies.ge
-okbuilding.ge
 partners.drawbrid.ge
 pegas.ge
 phlogenzym.ge

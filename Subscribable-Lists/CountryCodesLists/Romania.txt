@@ -79,6 +79,7 @@ along.ro
 alpes.icgauth.cyberplus.banquepopulaire.fr.websso.bp.13807.emparecoin.ro
 alpreco.ro
 ambacart.ro
+amcouture.ro
 amedeea.ro
 amh.ro
 amoni.pisynailart.ro
@@ -143,7 +144,6 @@ bancoestado.cl.scoaladesoferi-azratim.ro
 banner.finzoom.ro
 banners.kappa.ro
 barbarossa.ro
-barbierii.ro
 bardavavillage.ro
 bc-tour.ro
 bcaffe.ro
@@ -216,6 +216,7 @@ ccilfov.ro
 cciroenfr.ro
 centrogroup.ro
 centru-inchiriere.ro
+centruldepiele.ro
 cerebralart.ro
 cezarrokytattoo.ro
 cezartabac.ro
@@ -256,6 +257,7 @@ consultantafirme.ro
 conteelegant.ro
 contestapp.a1.ro
 contserv.ro
+coolwebdesign.ro
 cosmetice-farduri.ro
 cotidianul.count.brat-online.ro
 counter.clubnet.ro
@@ -263,6 +265,7 @@ covoruloltenesc.ro
 crad.ro
 crazykids.ro
 creativeads.ro
+credimag.ro
 criscat.ro
 cronicaviseuana.ro
 crxart.go.ro
@@ -270,6 +273,7 @@ cs-s.hi2.ro
 csgladiatorgym.ro
 csikszentmihaly.ro
 csrj-ah.rau.ro
+ctib.ro
 cufarulculenjerii.ro
 curscomplet.ro
 customgrup.ro
@@ -325,6 +329,7 @@ dp-proprietari.ro
 draw100.ro
 dreptatesociala.ro
 dreptulmeulaavort.ro
+drrosu.ro
 drumetulguard.com.ro
 dswdsw.ro
 dswkcnpbnmainsrv.ro
@@ -383,6 +388,7 @@ expertmedia.ro
 ezptntfdueb6coblmfca.viomil.ro
 facebook-confirmation-007.blogspot.ro
 facebook.com-account.security.smahost.ro
+facebook.com-linkedin.com.td-recruitment-office.ro
 facebook.com.secure.werockit.ro
 facebook.comunatudora.ro
 falla.ro
@@ -447,6 +453,7 @@ hdv1sk62nn56gtrozwrc.viomil.ro
 herdental.ro
 heximed.ro
 hi-peer.ro
+hiradesign.ro
 hitx.statistics.ro
 hotel-mures.ro
 hotelimperium.go.ro
@@ -574,6 +581,7 @@ media.agentiecasting.ro
 mediadvertising.ro
 medicalmarketing.ro
 mediere-croma.ro
+meditur.ro
 mega-clean.ro
 megascule.ro
 memm.ro
@@ -673,6 +681,7 @@ openx4.emag.ro
 orgman.ro
 orientality.ro
 osansa.ro
+osbm.ro
 ozka.ro
 pablostore.ro
 palatulcopiilorseverin.ro
@@ -876,6 +885,7 @@ stefanaki.ro
 stil-proiect.ro
 stomatologievalcea.ro
 stoneinteriors.ro
+stopco2.ro
 storage.icorp.ro
 storage.trafic.ro
 strutitinca.ro
@@ -963,9 +973,9 @@ usr-sanpetru.ro
 usxe5eqstjo3dhyeforo.viomil.ro
 utransilvania.ro
 vacantela.ro
-valentinplacinta.ro
 valiumvalium.3xforum.ro
 vcalinus.gemenii.ro
+venetomedical.ro
 ventdepot.ro
 ventrust.ro
 verandainteriors.ro

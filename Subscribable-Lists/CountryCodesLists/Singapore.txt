@@ -42,6 +42,7 @@ angelsgateadvisory.sg
 anjappar.sg
 anniversary.com.sg
 anyformonline.sg
+api.singpost.mailtrek.sg
 apres.sg
 arees.com.sg
 asensor.com.sg
@@ -156,7 +157,7 @@ crazydeal.com.sg
 curemedication.sg
 curiosity.sg
 dalycitymed.sg
-defconmoi.sg
+dbestfishing.com.sg
 deliveroo.com.sg
 denvermedicaldoc.sg
 designtechz.com.sg
