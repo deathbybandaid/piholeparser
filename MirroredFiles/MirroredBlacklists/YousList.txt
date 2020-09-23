@@ -3,7 +3,7 @@
 ! License: https://github.com/yous/YousList#license
 ! Title: YousList
 ! Expires: 4 days
-! Version: 20200915
+! Version: 20200922
 
 ! General element hiding rules
 ##a[href*="//10x10bet888.com"]
@@ -78,6 +78,7 @@
 ##a[href*="//sureman77.com"]
 ##a[href*="//sweetsimba.com"]
 ##a[href*="//sy-bol.com"]
+##a[href*="//ten-1056.com"]
 ##a[href*="//top-4865.com"]
 ##a[href*="//tslot5.com"]
 ##a[href*="//tto-tto.com"]
@@ -209,6 +210,7 @@
 ##iframe[src*="//ad.luxnet.ua/dfp/spot.html"]
 ##iframe[src*="//ad.mediafarm.co.kr/mad/"]
 ##iframe[src*="//ad.mediatoday.co.kr/"]
+##iframe[src*="//ad.mrab.co.kr/cgi-bin/PelicanC.dll"]
 ##iframe[src*="//ad.naver.com/adshow"]
 ##iframe[src*="//ad.naver.com/fxshow"]
 ##iframe[src*="//ad.owra.net/"]
@@ -557,6 +559,7 @@ st-meal2020.com#@#a[href*="//www.st-meal2020.com"]
 sureman77.com#@#a[href*="//sureman77.com"]
 sweetsimba.com#@#a[href*="//sweetsimba.com"]
 sy-bol.com#@#a[href*="//sy-bol.com"]
+ten-1056.com#@#a[href*="//ten-1056.com"]
 top-4865.com#@#a[href*="//top-4865.com"]
 tri-99.com#@#a[href*="//noca.tri-99.com"]
 tslot5.com#@#a[href*="//tslot5.com"]
@@ -637,6 +640,11 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||a.tribalfusion.com/displayAd.js^
 ||a.tribalfusion.com/j.ad^
 ||a.tribalfusion.com/real/tags/*/tags.js^
+||a.vdo.ai/core/*/vdo.ai.banner.js^
+||a.vdo.ai/core/*/vdo.ai.js^
+||a.vdo.ai/core/dependencies_banner/vdo.banner.min.js^
+||a.vdo.ai/core/dependencies_hbv*/vdo.min.js^
+||a.vdo.ai/core/dependencies_stories_v*/vdo.min.js^
 ||a.wyzmob.com^
 ||a1.dp25.kr^
 ||a2.acrosspf.com/js/_a_adnf_bottompop_*.min.js^
@@ -719,6 +727,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||ad.mediatoday.co.kr^
 ||ad.medicaltimes.com/ADManager2018/$domain=medicaltimes.com
 ||ad.mox.tv/mox/mwayss_invocation.min.js^
+||ad.mrab.co.kr/cgi-bin/PelicanC.dll^
 ||ad.naver.com/fxshow^
 ||ad.newssense.co.kr/cgi-bin/PelicanC.dll^
 ||ad.nsonmedia.com/media/
@@ -1498,7 +1507,6 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||img.mobon.net/mediaCategory/newAd/adbn_*.js^
 ||img.mrep.kr/slot/*.html^
 ||img.newspim.com/banner/$domain=newspim.com
-||img.quasarzone.co.kr/img/qsz_banner/$domain=quasarzone.co.kr
 ||img.sbs.co.kr/news/ad/delay_redirect.html^$domain=news.sbs.co.kr
 ||img.sbs.co.kr/news/ad/delay_redirect_mobile.html^
 ||img.scupio.com/html/ad.html^
@@ -1511,6 +1519,8 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||img.wowtv.co.kr/common/script/ad/$domain=wowtv.co.kr
 ||img.yonhapnews.co.kr/basic/svc/00_ko/resources/js/main_youtube.js^$domain=yonhapnews.co.kr
 ||img2.keywordsconnect.com/iconAdImg*.gif^
+||img2.quasarzone.co.kr/banner/$domain=quasarzone.com
+||img2.quasarzone.com/banner/$domain=quasarzone.com
 ||imgcloud3.net/16000/*.gif^
 ||imnews.busan.com/media/busan/article/img/banner_top_ad.jpg^$domain=imnews.busan.com
 ||imnews.busan.com/media/busan/article/img/right_ad*.jpg^$domain=imnews.busan.com
@@ -1851,7 +1861,6 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||newtoki*.net/data/banner/
 ||nex.163.com/q^$domain=163.com
 ||nicovideo.cdn.nimg.jp/web/js/ads.js^$domain=nicovideo.jp
-||nightkor.com/img/banner/$domain=nightkor.com
 ||nocutnews.co.kr/banner/2012/ad_right_*.asp^
 ||npian.com/nbox/ad*.swf^
 ||npttech.com/advertising.js^
@@ -1950,7 +1959,6 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||pv.ntomap.com/bin/imp^
 ||pv.tag.ntomap.com/bin/query^
 ||qcma.qrobo.com/QCMA/common/
-||quasarzone.co.kr/data/file/qsz_banner/$domain=quasarzone.co.kr
 ||quick.1rtl.info/init.js^
 ||r1.res.office365.com/adbar/*/adbar.js^$domain=outlook.live.com
 ||ra.ntwoad.co.kr^
@@ -2118,6 +2126,8 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||static.chameleon.ad/js/router.js^
 ||static.criteo.net/js/ld/publishertag.js^
 ||static.escdn.co/ads/ads.js^
+||static.hankyung.com/ext/powerlink/powerlink.m.js^$domain=hankyung.com
+||static.hankyung.com/ext/powerlink/powerlink.w.js^$domain=hankyung.com
 ||static.joins.com/common/ui/ad/$domain=news.joins.com
 ||static.joins.com/isplus/ui/ad/
 ||static.joinsmsn.com/common/ui/ad/
@@ -2167,11 +2177,11 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||tempest.services.disqus.com/ads-iframe/google/
 ||tf.co.kr/public/ad/^$domain=tf.co.kr
 ||thealarm2018.cafe24.com/banner/*.js^
+||theguru.co.kr/data/banner/$domain=theguru.co.kr
 ||thepiratebay.bid/static/ads/$domain=thepiratebay.bid
 ||thepiratebay.org/static/ads/$domain=thepiratebay.org
 ||ti-center.co.kr^
-||tkor.city/bann/$domain=tkor.city|tkor.pink
-||tkor.pink/bann/$domain=tkor.city|tkor.pink
+||tkor.*/bann/
 ||tl.mmnneo.com/neovcm.js^
 ||tm.interworksmedia.co.kr/ads.sx/
 ||todayan.com/banner/roll_*.html^$domain=todayan.com
@@ -2398,8 +2408,6 @@ anewsa.com##div#mainBanner05
 anewsa.com##div[data-widget_id="KoEYP8oB"]
 ani119.com##div.each_adv_center
 ani119.com##iframe[src^="http://www.ani119.com/public/adv/"]
-anigod.com##div.episode-video-ad-container
-anigod.com##div.footer-ad
 animefreak.tv##body>div>div[style="width:100%;height:768px;position:fixed;left:0;top:0px;overflow:hidden;visibility:hidden;z-index:0"]
 animeid.tv##div.a160x600
 animeid.tv##div.a468x60
@@ -3522,6 +3530,7 @@ hankyung.com##div#admaru_mobile
 hankyung.com##div#teads_slot
 hankyung.com##div.ad_aside01
 hankyung.com##div.ad_bottom
+hankyung.com##div.ad_bottom_fix
 hankyung.com##div.ad_box
 hankyung.com##div.ad_img
 hankyung.com##div.ad_list
@@ -3583,7 +3592,7 @@ hiphopplaya.com##div#ad_comment_bottom
 hiphopplaya.com##div#ad_view_right1
 hiphopplaya.com##div.mobile_responsive_1_div
 hiphopplaya.com##div.rc_ad
-hiyobi.me##div.wefdvsadw
+hiyobi.me##div.jMhaxE
 hk.appledaily.com##div#adMiddleBanner
 hk.appledaily.com##div#adTextAdvertorial
 hk.appledaily.com##div.RHSBanner
@@ -5530,9 +5539,6 @@ nicovideo.jp##div.sideBanner
 nicovideo.jp##div.sideTxtAd
 nicovideo.jp##div.sidewallAd
 nicovideo.jp##iframe[src^="https://ads.nicovideo.jp/bannertext"]
-nightkor.com##div.wing-left
-nightkor.com##div.wing-right
-nightkor.com##section.board-list>div[style="margin: auto;text-align:center;"]
 nikkan-spa.jp##div#sp_ad_index
 nikkan-spa.jp##div#sp_ad_single
 nikkan-spa.jp##div.ad-area
@@ -5793,12 +5799,8 @@ qq.com##div.adLeft700
 qq.com##div.adRight
 qq.com##div.adRight280
 qq.com##div.l_qq_com
-quasarzone.co.kr##div#floatdiv
-quasarzone.co.kr##div.banner-box
-quasarzone.co.kr##div.banner-box2
-quasarzone.co.kr##div.banner-box3
-quasarzone.co.kr##div.header-banner
-quasarzone.co.kr##img.partner_banner
+quasarzone.com##aside.logo-area
+quasarzone.com##div.banner-area
 qz.com##div.inline-ad
 r25.jp##div.Article__articleListWrapper__featureBannerWrapper
 readmanga.today##div.ezo_ad
@@ -6219,6 +6221,8 @@ theblockchain.kr##div.rightBanner2
 theblockchain.kr##div.topBanner
 theblockchain.kr##div.viewArticle>div[style="margin-bottom:15px"]
 theguardian.com##div.ad-slot
+theguru.co.kr##div#news_body_area>div[style="clear:both;float:right;margin-left:20px;width:300px;height:250px;"]
+theguru.co.kr##div.com_ban
 thehackernews.com##center.banners
 thehackernews.com##div.ad_one
 thehackernews.com##div.articlebodyonly>div>div[style="padding: 15px 0px; text-align: left;"]
@@ -6269,10 +6273,10 @@ time.com##div.ad-wrapper
 tip.daum.net##div#viewBottomAdWrapper
 tistory.com##div.ad250
 tistory.com##div.ad250_outter
-tkor.city,tkor.pink##div.bn
-tkor.city,tkor.pink##div.main_top_bann
-tkor.city,tkor.pink##div.mobile_banner
-tkor.city,tkor.pink##section.top_banner
+tkor.red##div.bn
+tkor.red##div.main_top_bann
+tkor.red##div.mobile_banner
+tkor.red##section.top_banner
 tmz.com##div.main-leaderboard-ad
 tmz.com##div.sidebar-ad
 tnnews.co.kr##div.td-a-rec-id-content_bottom
