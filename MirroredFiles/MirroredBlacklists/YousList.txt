@@ -3,7 +3,7 @@
 ! License: https://github.com/yous/YousList#license
 ! Title: YousList
 ! Expires: 4 days
-! Version: 20200922
+! Version: 20200923
 
 ! General element hiding rules
 ##a[href*="//10x10bet888.com"]
@@ -1997,6 +1997,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||s.telegraph.co.uk/international/Barnebys/$domain=telegraph.co.uk
 ||s.yimg.com/av/yap/ga/yap.js^
 ||s.yimg.jp/images/listing/tool/yads/yads-iframe.html^
+||s0.momoafile.info/tracker^
 ||s1.adform.net/banners/scripts/adx.js^
 ||s1.daumcdn.net/svc/original/U03/commonjs/ddn/common/js/ad.min.js^
 ||s2.adform.net/banners/scripts/rmb/Adform.DHTML.js^
@@ -2202,6 +2203,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||tr.project-ad.jp/ad/js/pjs.js^
 ||tracker.adbinead.com/other/*.html^
 ||tracker.digitalcamp.co.kr^
+||tracker.nodojs.nl^
 ||traffic.adxprts.com^
 ||trafmag.com/jsarrayposters.php^
 ||travel.chosun.com/common/r_banner/index.html^$domain=travel.chosun.com
@@ -6273,10 +6275,10 @@ time.com##div.ad-wrapper
 tip.daum.net##div#viewBottomAdWrapper
 tistory.com##div.ad250
 tistory.com##div.ad250_outter
-tkor.red##div.bn
-tkor.red##div.main_top_bann
-tkor.red##div.mobile_banner
-tkor.red##section.top_banner
+tkor.gold##div.bn
+tkor.gold##div.main_top_bann
+tkor.gold##div.mobile_banner
+tkor.gold##section.top_banner
 tmz.com##div.main-leaderboard-ad
 tmz.com##div.sidebar-ad
 tnnews.co.kr##div.td-a-rec-id-content_bottom
