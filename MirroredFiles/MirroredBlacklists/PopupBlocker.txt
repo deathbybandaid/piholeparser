@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: LqbBxTk4AOOTD1CdMMIQqQ
+! Checksum: vzaRQMf15NdN7nsFUyqPZA
 ! Title: Polskie Filtry Elementów Irytujących
 ! Polish Annoyance Filters
 ! Codename: Annoyance - Main
 ! Description: Filtry ukrywające i blokujące wyskakujące okienka, widgety, newslettery, powiadomienia push, strzałki, otagowane linki wewnętrzne, które są nie na temat artykułów (np. link do pracy w Bydgoszczy w artykule o pogodzie) i inne drażniące elementy (Polskie Filtry RODO-Ciasteczkowe oryginalnie stworzone przez MajkiIT są już w nich zawarte).
 ! Required: Do poprawnego działania wymagana jest lista lub rozszerzenie I don't care about cookies!
-! Last modified: Sun, 20 Sep 2020, 19:45 UTC+02
-! Version: 2020.9.20.3
+! Last modified: Thu, 24 Sep 2020, 20:02 UTC+02
+! Version: 2020.9.24.2
 ! Expires: 2 days
 ! Najnowsza wersja zawsze na: https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters
 ! Zgłoszenia:
@@ -14,7 +14,7 @@
 !   GitHub => https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/deed)
 ! Copyright © 2020 Polish Filters Team
-! Aktualizacja: nie, 20 wrz 2020, 19:45 UTC+02
+! Aktualizacja: czw, 24 wrz 2020, 20:02 UTC+02
 !
 !
 ! Newslettery (nie popupy)
@@ -204,7 +204,7 @@ bochniaisol.pl,digi-tv.pl,podrozezantena.pl,satkurier.pl,solarkurier.pl###newsle
 bodyland.pl###stopka_newsletter > .newsletter_box > form
 bodypak.pl###pts-newsletter
 bold.net.pl##.fm-newsletter
-boleslawiec.tv,bydgoszcz.com,echotygodnik.info,halogorlice.info,koscierzyna24.info,lokalna24.pl,lokalnatelewizja.pl,narew.info,naszrynek.pl,nasztomaszow.pl,obserwatorlokalny.pl,olesnica24.com,radiobonton.pl,regatv.pl,sandomierztv.pl,starachowice.pl,supertydzien.pl,swiebodzin.tv,telewizjazary.pl,tv-kwidzyn.pl,tvmorag.pl#?#footer#footer p:nth-of-type(1):-abp-has(a:-abp-contains(Czym jest newsletter))
+boleslawiec.tv,bydgoszcz.com,echotygodnik.info,halogorlice.info,kociewiak.pl,koscierzyna24.info,lokalna24.pl,lokalnatelewizja.pl,narew.info,naszrynek.pl,nasztomaszow.pl,obserwatorlokalny.pl,olesnica24.com,radiobonton.pl,regatv.pl,sandomierztv.pl,starachowice.pl,supertydzien.pl,swiebodzin.tv,telewizjazary.pl,tv-kwidzyn.pl,tvmorag.pl#?#footer#footer p:nth-of-type(1):-abp-has(a:-abp-contains(Czym jest newsletter))
 bolix.pl##.homepage-newsletter-box
 bonprix.pl##a[href="/serwis/newsletter"], .contrast.container-fluid > .container > .row > .col-xs-12.col-sm-6
 bonprix.pl###footer-newsletter-subscribe
@@ -339,6 +339,7 @@ demagog.org.pl##.footer .mt-2.col-12
 deon.pl###region4 > .clear:nth-of-type(6), #region12 > .clear:nth-of-type(1)
 deon.pl##.footer-right__newsletter
 deon.pl##.sl > li:nth-of-type(5)
+deon.pl##.subscription-widget-container.subscription-widget
 designconcept.pl###nl-popup, #Blok-3
 devcode.pl##.et_bloom_optin
 deviceranking.pl##.subscr-widget
@@ -502,6 +503,8 @@ fdds.pl##.newsletterSubscribe
 felixcom.net##.ftop > .container > .right
 feniks.wroc.pl##.newsletter-wr
 finanseodkuchni.pl##.newsletter-sidebar
+finereader.pl##footer > .container-fluid > .container > .row > div:nth-of-type(1) > .textwidget:nth-of-type(3)
+finereader.pl##footer > .container-fluid > .container > .row > div:nth-of-type(1) > .text-white:nth-of-type(2)
 firsteleven.com,mirat.eu,ursus.com##.box-newsletter
 fish24.pl##.newsletter_foot
 fitprofit.pl###newsletter_link
@@ -562,6 +565,7 @@ gloria24.pl##.tg-info-cookie
 glycine.pl###bottom-newsletter-wrapper
 gofin.pl##img[src="https://www.gofin.pl/images/newslettery_gofin_dzial.png"]
 goodram.com##footer > div > .row > .col:last-child
+google.com,www.google.com##mobile-promo > div[class*="mobile-promo"], epp:not(:is([inne]))
 gorlice.pl##.sdbar-newsletter-cont
 gorno.pl##.stopka-info > .blok > div.szerokosc-14.kolumna:nth-of-type(4)
 goscinnygaj.pl##.center-block.row > .col-md-3:nth-of-type(2)
@@ -1953,7 +1957,7 @@ godealla.pl###coupon-groupon, #coupon-groupon-overlay
 godealla.pl,wakacjezprocentem.pl##.overlay
 goldenline.pl###fbRegisterDialog, .ui-widget-overlay
 goodie.pl###video-banner-modal
-go.tvn24.pl,player.pl,www.pzu.pl##.__ipPerunElement[style^="position"]
+go.tvn24.pl,inea.pl,player.pl,teb.pl,topagrar.pl,www.pzu.pl##.__ipPerunElement[style*="position"]
 gpcodziennie.pl###JPO
 greenasia.eu,saluti.pl,uzywki.expert##.wceapp_popup.modal, .wceapp_popup.mask
 greenelka.pl###cfblb_modal
@@ -1983,7 +1987,6 @@ hostinger.pl##.offer-popup-block
 hotel-tulipan.pl###popUp
 hotel.bialowieza.pl,malinowydwor.pl###backgroundPopup, #popupContact
 house.pl###free_shipping
-inea.pl,teb.pl##.__ipPerunElement[style*="position"]
 ine.com.pl###sgcolorbox, #sgcboxOverlay
 infinityfitnesskrakow.pl##.closed
 infopraca.pl###alert-creation, .modal-backdrop
@@ -2232,6 +2235,7 @@ plk.pl###okienko_yt, .ui-widget-overlay
 pl.aleteia.org##.newsletter-popups
 pl.gearbest.com##.newUserPop, #layui-layer-shade1
 pl.geofumadas.com,webmastah.pl##.ulp-window, .ulp-overlay
+pl.kronospan-express.com###modalWindowCMSubscribes, .iziModal-overlay
 pl.vivre.eu##.js-modal-newsletter-1
 pl.weekendmaxmara.com##.newsletter.modal, .jquery-modal
 pocztazdrowia.pl###overlay2, #overlayFlex22
@@ -2781,6 +2785,8 @@ sadeczanin.info,transfery.info,ugotuj.to##div.miniature.onnetworkplayercontainer
 sadeczanin.info,transfery.info,ugotuj.to##div.onnetworkplayercontainer > div.miniplayer
 softonic.pl##iframe.is-sticky-left-bottom.zeus_iframe
 telewizjarepublika.pl##.contentsystem-slide-sda, .contentsystem-slide-link, .tvrep-live-box
+telewizjatvt.pl#?#div[id^="elementor-popup-modal-"]:-abp-has(iframe[src*="/player/"])
+topagrar.pl,tygodnik-rolniczy.pl##.vast-player__thumbnail[style*="top:"]
 trojmiasto.pl,trojmiasto.tv##div[id^="video"].vjs-mini
 tvn24.pl##.nuvi-player div.floating.floatable
 tvn24.pl##.videoPlayer.stuck--top
@@ -2893,6 +2899,7 @@ b2btrade.eu##.back-to-top-arrow
 b2b.metal-bud.eu,hmb.pl##.go-to-top-ui
 balterio.com,pergo.pl##.c-top
 baltyk.com,biosmaak.nl,blogspot.com,inzynieria.com,megasat.tv,showmag.info,stoicway.net,widoczni.com,www.etychy.org,www.rybnik.eu,zlomowisko.info##.scrollToTop
+barszcz.edu.pl,misericordia.media.pl##.hc_scrollup
 bartyla.pl,holisticclinic.pl##.trx_addons_scroll_to_top
 baterie-hurt.pl,cena33.pl,dompolpro.pl,drogeria-ekologiczna.pl,etroniks.pl,metaltech.com.pl,pmi.org.pl,postwood.pl,rebelelectro.com,sklep.yasumi.pl,staypoland.com,terazteatr.pl###to_top
 baza-firm.com.pl###goTopArrow
@@ -3026,6 +3033,7 @@ fachowcy.pl,kolniak24.eu,medisept.pl,mohito.com##.scroll-down
 fastdeal.pl,jestok.eu,okazik.pl,polskiemedia.org,tele-wizja.ru###btn-scrollup
 felixcom.net,lulek.tv,naszekluski.pl,wszystkookotach.pl###scrollup
 festiwaldobregosmaku.eu###mkd-back-to-top
+filing.pl,mycompanypolska.pl###scrollToTopButton
 filmpolski.pl##div[id^="dogory_"]
 finanse.egospodarka.pl,fundacjawolnosci.org##a[href="#top"]
 fintek.pl###button-backtotop
@@ -3206,7 +3214,6 @@ metalgearsolid.pl###return_top
 millymally.pl##.page-up
 milmag.pl##.doScrollTop
 mil.link,psycholog-pisze.pl##.buttontop-top
-misericordia.media.pl##.hc_scrollup
 mixit.pl###scroll-up-btn
 mobileworld24.pl##.mnmd-go-top
 mobilneforum.pl###scrollblock
@@ -3225,7 +3232,6 @@ msportal.pl###top_link
 musicexpert.pl###sp-totop
 mustache.pl,www.mila.pl##.scroll-arrow
 mutti-jakoscbezkompromisow.pl,wyprobujdeveley.pl###btn-go-up
-mycompanypolska.pl###scrollToTopButton
 m.digitalcamerapolska.pl###gtop
 m.wirtualnemedia.pl##.button_up
 nagaba.pl###fixed_top
@@ -3246,6 +3252,7 @@ novamed.pl##.consultant.up-text
 nowiny.com.pl###scroolTOP
 oaza-palmy.pl###gmToTop
 obi.pl##.to-top-nav
+odzyskamyodszkodowanie.pl##.js-back-to-top
 oees.pl###iconup
 okazje.eholiday.pl###bottom-newsletter
 omega.pc.pl###imPageToTop
@@ -3593,7 +3600,7 @@ pl,~studioatrium.pl###back-to-top
 !
 !
 ! Tła zawierające autoreklamy
-aptekagemini.pl##.container_left_box, .container_right_box
+aptekagemini.pl##.background-advertisement
 boleslawiec.tv,bydgoszcz.com,echotygodnik.info,halogorlice.info,korso24.pl,koscierzyna24.info,lokalna24.pl,lokalnatelewizja.pl,narew.info,naszrynek.pl,nasztomaszow.pl,obserwatorlokalny.pl,olesnica24.com,radiobonton.pl,regatv.pl,sandomierztv.pl,starachowice.pl,supertydzien.pl,swiebodzin.tv,telewizjazary.pl,tv-kwidzyn.pl,tvmorag.pl##.bgad
 czarymary.pl###checkWidthFullMain1
 czary.pl###klikalne_tlo_calosci a[href="https://sklepmagiczny.pl/pl/p/Astrologia-mundalna/88"]
@@ -3604,6 +3611,7 @@ taniaksiazka.pl##.fixed-below-container > .fixed-below > .OpenXAds
 terazprudnik.pl##.backstretch > img.td-backstretch
 topmarkety.pl###banner-sponsorski
 www.yahoo.com###app > div > div > div > #YDC-MainCanvas > a[href="https://www.yahoo.com/"]
+!aptekagemini.pl##.container_left_box, .container_right_box
 ||3kropki.pl/i/varia/*_3kropki_screening_pop.jpg
 ||e-stargard.pl/_upload/background.png
 ||mediaexpert.pl/temp/filemanager_up/*_tlo.jpg
@@ -3614,7 +3622,7 @@ www.yahoo.com###app > div > div > div > #YDC-MainCanvas > a[href="https://www.ya
 !
 ! Widżety kontaktowe/informacji zwrotnej
 3giga.pl###contact-slider
-3mk.pl,400.pl,beautyinspiration.pl,ccnews.pl,konstantinkanin.com,netyou.pl##.cresta-facebook-messenger-box
+3mk.pl,400.pl,beautyinspiration.pl,ccnews.pl,konstantinkanin.com,netyou.pl,zhr.pl##.cresta-facebook-messenger-box
 51015kids.eu###custom_trustbadge
 aaaauto.pl###site-bottom-bar-content > .smoothbox
 adidas.pl,reebok.pl##.QSISlider
@@ -3640,7 +3648,7 @@ al.to,combat.pl,x-kom.pl##.gcb-hasChatBtn
 al.to,x-kom.pl##.why-us-content
 amfora.pl,hulahop.pl##.why-us-show-button
 amracing.pl##.sale-contact-box
-andrychow.eu,pasmasz.pl###wp-live-chat
+andrychow.eu,odzyskamyodszkodowanie.pl,pasmasz.pl###wp-live-chat
 angelsadvertising.pl,baccata.com.pl,www.sendbean.pl###sendbean
 anton-paar.com###footer-contact-us
 anton-paar.com,bisnode.pl###iframe-designstudio-button
@@ -3701,7 +3709,7 @@ casu.pl###opineoButtonFloat
 catawiki.pl##.registration-slide-in
 catom.pl,cebit.pl,verakom.pl##.fab-wrapper
 cdp.pl###customTrustbadge
-cdv.pl###chat-widget-container
+cdv.pl,computerworld.pl###chat-widget-container
 cebit.pl,guzik.konin.pl##.fab
 cebit.pl,nsix.pl###czatercall-teaser, #cc-button-iframe
 ceneo.pl###recent-activity-toast
@@ -4305,7 +4313,7 @@ aplikacje.onet.pl##.js-nav.hidden-sm.hidden-xs.dots-nav
 applemobile.pl##.cactus-post-suggestion > .post-suggestion-content
 aprmedia.pl##.et_bloom_header_outer
 apsdata.pl###slide_box
-aptekagemini.pl##.vue_bannery_25
+aptekagemini.pl##swiper-carousel[class*="adserver"]
 aptekamanada.pl##.banner-link
 archonhome.pl,pizzapelati.pl###musli
 arminar.pl,doniczki-poznan.pl,odpady.chorzow.eu,sare.pl###preloader
@@ -4873,6 +4881,7 @@ raiffeisenpolbank.com###pomocne_menu > ul > li:nth-child(-n+2)
 rallypl.com###check-also-box
 rankomat.pl##.searching-cheap-oc
 raportdrogowy.interia.pl,uroda.swiatkobiety.pl##.articleObjectSeeAlso
+raportrolny.pl###related-posts-wrapper-flyout
 rc.fm###rconline
 recenzjezpazurem.pl###banner
 reddit.com##.read-next
@@ -5027,6 +5036,7 @@ www.dobreprogramy.pl#?##phContent_divArticle > .desktop-flex > #sidebar > .block
 www.e-medest.pl###baner_footer
 www.gazeta.pl##div[data-alias="weekend"]
 www.goldenline.pl##.fixed-modal
+www.google.com,www.google.pl##mobile-promo > div[class*="mobile-promo"]
 www.google.com,www.google.pl#?##islrg div.isv-r:-abp-has( > div[class] > div[class] > div[class]:-abp-contains(/^Podobne (strony|wyszukiwania)$/))
 www.google.com,www.google.pl#?##rg div.irc-nic.irc-igr:-abp-has( > div[class] > div[class] > div:not([class]):-abp-contains(/^Podobne (strony|wyszukiwania)$/))
 www.onet.pl##.Phx-back
@@ -5060,6 +5070,7 @@ ztm.gda.pl###mobile
 zyciepabianic.pl##.paper
 z-hotel.com###repuso_floating
 !abczdrowie.pl,fotoblogia,gadzetomania.pl,parenting.pl,autokult.pl,wp.pl,o2.pl##a[data-st-area="back-WP"], div[class]:not([id]) > a[data-st-area][style^="background:"][href="https://www.wp.pl"]
+!aptekagemini.pl##.vue_bannery_25
 !www.google.com,www.google.pl##div[style*="z-index: "][style*="overflow: hidden;"][style*="margin-right: 25px;"]
 !||ppstatic.pl/assets/gratka/*/images/logoPromo.svg$image
 !||ppstatic.pl/assets/gratka/*/promoButton.css$stylesheet
@@ -5410,6 +5421,8 @@ sztafeta.pl##.widget_text.widget
 terazprudnik.pl#?#div[class*="td_block_homepage_full"] ~ div[class*="td_block_big_grid"] .td-big-grid-scroll > div.td-small-thumb:-abp-has( > div > a[href*="/tygodnikprudnicki-"])
 terazprudnik.pl#?#.td-pb-span4.tdc-column.vc_column > div > .td_block_padding.td-pb-border-top.td_block_wrap:-abp-has(h4:-abp-contains(Tygodnik Prudnicki))
 terazprudnik.pl#?#.td-post-header:-abp-has(h1 a:-abp-contains(Nowy numer))
+topagrar.pl##.sidebar__newspaper, .homepage__agrar
+topagrar.pl#?#.sidebar div.sidebar__box--grey.sidebar__box:-abp-has(h3:-abp-contains(/^Zamów online$/))
 trybunaczestochowska.pl###text-7
 tuolawa.pl##.widget-52.no-mt.no-bg.widget.row
 tuolawa.pl##.widget-52.widget-header.widget.row
@@ -5490,8 +5503,8 @@ polishannoyancefilters.netlify.app,polishannoyancefilters.netlify.com###pafdetec
 !@ Required: Do poprawnego działania wymagana jest lista lub rozszerzenie I don't care about cookies i EasyList/AdGuard Base!
 !@ Collaborators: MajkiIT, F4z, xxcriticxx, blocker999, hawkeye116477, krystian3w
 !@ Homepage: https://www.certyficate.it/
-!@ Version: 2020.9.20.0
-!@ Last modified: Sun, 20 Sep 2020, 19:36 UTC+02
+!@ Version: 2020.9.24.0
+!@ Last modified: Thu, 24 Sep 2020, 18:06 UTC+02
 !@ Expires: 2 days
 !@ Support:
 !@   Email => errors@certyficate.it
@@ -5502,7 +5515,7 @@ polishannoyancefilters.netlify.app,polishannoyancefilters.netlify.com###pafdetec
 !@ License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0)
 !@ Copyright © 2020 Certyficate IT & Polish Filters Team
 !@ Najnowsza wersja zawsze na: https://www.certyficate.it/adblock/
-!@ v.2020.9.20.0 aktualizacja: nie, 20 wrz 2020, 19:36 UTC+02
+!@ v.2020.9.24.0 aktualizacja: czw, 24 wrz 2020, 18:06 UTC+02
 !@
 !@
 !@ Specyficzne reguły ukrywające
@@ -5709,7 +5722,6 @@ avmarket.eu,delllow.com,dronexpert.eu,drukowanie.net,ethnostudio.eu,interlumen.c
 avon.pl##.CookieSection
 azure.microsoft.com###cookie-prompt
 az.pl###gatsby-focus-wrapper > footer + div[class^="sc-"]
-baborow.pl,przemysl.pl##.page-cookie
 babytvchannel.info###cookieStandart
 baby.nivea.pl##.policy-info, .privacy-policy-change
 bacca.pl###CookieLawInfoPlugin
@@ -6999,6 +7011,7 @@ nowa.tv###mpc_cookie_intro
 noweprzetargi.pl###dcach, #txt
 nowezyciepabianic.pl##div#PopupDiv
 nowgeo.pl###div_ciasteczka
+nowiny.rybnik.pl###rodoBox
 nowyteatr.org###cookies-notification
 no-ip.pl###id_rodosrodo
 numizmatyka24.pl##.prvcookies
@@ -7144,6 +7157,7 @@ pl.hama.com###privacyOptionsCookieOptIn-bottom
 pl.investing.com##.consentBarWrapper
 pl.isilines.com##.wrapper-banner-rgpd
 pl.jooble.org,twitch.tv##.gdpr-consent-banner
+pl.kronospan-express.com##.cc-container
 pl.kruk.eu##.cookie-agreement
 pl.meteox.com,pl.sat24.com###cookie-message
 pl.mitsubishielectric.com##.pc_scsmod-cookie_alert
@@ -7322,6 +7336,8 @@ routex.com###ca_alert
 rowermevo.pl##.cookies-cont
 rower.com.pl###cookies_request
 rozwojowiec.pl###fixedBar
+rpo-swietokrzyskie.pl,stypendia.sejmik.kielce.pl##.mod_pa_sci
+rpo.lubelskie.pl###legal-info
 rps.ms.gov.pl###MS
 rumia.eu###box-cookies
 ryanair.com###cookie-popup.cookie-popup
@@ -7478,7 +7494,6 @@ stronghold.net.pl###ci_info
 studentbeans.com##div[data-react-class="Components.CookieBanner"]
 stukstuk.pl###tws_s_100001
 stylownik.com##.cpolicy
-stypendia.sejmik.kielce.pl##.mod_pa_sci
 sudafed.pl,vcms.eu###cookies-alert
 sulky-burel.pl###info_cookies_master
 sunandsnow.pl##.popup-cookies
@@ -7577,6 +7592,7 @@ trentino.pl###popup_cookies
 trizer.pl##.ft__cookies
 trovit.pl###welcomebar-wrapper
 truckstore.com##.tso-popup-footer, .tso-popup-overlay
+trustmate.io##div[class^="Cookies__CookiesWrapper-sc-"]
 ttv.pl###msgLayer
 tulodz.pl###modalCookies
 turio.com.pl##.cookie-info-dlg
@@ -7701,7 +7717,7 @@ www.ea.com##ea-truste-consent-bar
 www.google.com,www.google.pl##body > div[class*=" "]:not([id]) > c-wiz > div[jscontroller] > div[class][jsname][data-ved][style="display: block;"]
 www.google.com,www.google.pl###cnsi ~ [jsaction*="dismiss"], #cnsh, div[style*="url(#default#userData)"]
 www.google.com,www.google.pl###gb > div[class][style^="background"]
-www.google.com,www.google.pl#?##center_col > #taw > div > .med + div:-abp-has( > a[href*="/intl/pl/policies/technologies/cookies/"])
+www.google.com,www.google.pl#?##center_col #taw > div > .med + div:-abp-has( > a[href*="/intl/pl/policies/technologies/cookies/"]),
 www.halico.pl##.sqs-announcement-bar-custom-location
 www.hertz.com.pl##[class^="lb-"]
 www.hertz.pl###light-box-1
@@ -8225,7 +8241,6 @@ pl###cookie-info:not(body):not(html)
 pl###cookie-law-bar:not(body):not(html)
 pl###cookie-law-container:not(body):not(html)
 pl###cookie-law-info-again:not(body):not(html)
-pl###cookie-law-info-bar ~ #cookie-law-info-again ~ #cliSettingsPopup
 pl###cookie-law-info-bar:not(body):not(html):not(.cli-bar-popup):not(.cli-modal-content)
 pl###cookie-law-message:not(body):not(html)
 pl###cookie-law:not(body):not(html)
@@ -8588,6 +8603,7 @@ pl##.notice_notice_cookies:not(body):not(html)
 pl##.notification--cookie-alert:not(body):not(html)
 pl##.notification--cookie:not(body):not(html)
 pl##.optanon-alert-box-wrapper:not(body):not(html)
+pl##.overlay-cookie:not(body):not(html)
 pl##.page-cookies:not(body):not(html)
 pl##.page-cookie:not(body):not(html)
 pl##.page-wrap--cookie-permission:not(body):not(html)
@@ -8804,11 +8820,15 @@ pl#@##catapult-cookie-bar
 pl#@#.ccc-widget:not(body):not(html)
 pl#@#.cookie-msg-box
 pl#@#.rodo-popup:not(body):not(html)
+portaloswiatowy.pl#@#.container-cookie:not(body):not(html)
+portaloswiatowy.pl#@#.overlay-cookie:not(body):not(html)
+portaloswiatowy.pl#@#.popup-cookie:not(body):not(html)
 puratos.pl#@##cookieBannerModal
 puratos.pl#@##cookieInfo
 viennahouse.com#@##cookies-panel
 viennahouse.com#@##cookie-box
 volcano.pl#@##cookiesModal
+@@/wp-content/plugins/cookie-law-info/public/*$stylesheet
 @@||bitner.com.pl/plugins/cookiebar/jquery.cookiebar.js
 !@
 !@
@@ -8837,6 +8857,8 @@ orange.pl#@##cookies-info:not(body):not(html)
 parkiet.com,rp.pl#@##rodo-popup:not(body):not(html):not(.fade):not(.modal)
 pikio.pl#@##cookie-policy:not(body):not(html)
 porno720.pl,tvporno.pl#@##cookieinfo:not(body):not(html)
+portaloswiatowy.pl#@#.overlay-cookie:not(body):not(html)
+portaloswiatowy.pl#@#.popup-cookie:not(body):not(html)
 puratos.pl#@##cookieInfo:not(body):not(html)
 puratos.pl#@#.cookie-banner:not(body):not(html)
 sklep-domwhisky.pl#@#.rodo-popup:not(body):not(html):not([style="display: block;"])
