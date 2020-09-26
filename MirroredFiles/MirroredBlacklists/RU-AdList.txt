@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: G5X1fK31IfFHmuCLDlHR1Q
-! Version: 202009250020
+! Checksum: rd07/zRbFhYeykodsb2lFw
+! Version: 202009260020
 ! Title: RU AdList
-! Last modified: 25 Sep 2020 00:20 UTC
+! Last modified: 26 Sep 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -2720,6 +2720,7 @@ _tizers.
 ||fbs.for-ua.org.ua^
 ||fedsp.com/showcase/banner?$third-party
 ||feed.teasermaster.ru^
+||feedot.com^$third-party
 ||fermasosedi.biz/reflink/
 ||fermasosedi.ru^$third-party
 ||festival-leonardo.ru/images/banners/
@@ -3690,7 +3691,6 @@ _tizers.
 ||wewonurgold.ws^$third-party
 ||whitepush.biz^$third-party
 ||widget.insapp.ru^$third-party
-||widgets.my.feedot.com^$third-party
 ||win2profit1.com/upload_dynamics/
 ||windbet1.com^$third-party
 ||windbet2.com^$third-party
@@ -8161,7 +8161,7 @@ _tizers.
 ||parthenophobia.me^$third-party
 ||parthetwo.ru^$third-party
 ||partner-earning.com^$third-party
-||partnercoll.github.io^$third-party,domain=~bxfilm.org|~filmets.life|~kinogo2.by|~megogo-film.biz|~multfilms.online|~onlinek.net
+||partnercoll.github.io^$third-party,domain=~bxfilm.org|~filmets.life|~gidonline.fun|~kinogo2.by|~megogo-film.biz|~multfilms.online|~onlinek.net
 ||partnerearn.net^$third-party
 ||partnerna5.ru^$third-party
 ||parusdon.ru^$third-party
@@ -10569,6 +10569,10 @@ _vodkov.net
 =x-uboino.net
 _verified.php?code=*&server=runetki.com
 !
+! Эти CDN помимо легальных сайтов обслуживают фейковые зеркала 1xbet
+||ccdnss.com^$third-party,domain=~1xbet.by|~1xbet.com|~1xbet.com.gh|~1xbet.kz|~1xbet.ng|~1xbet.tj|~betwinner.com|~fan-sport.com|~ua-1x-bet.com
+||cdnsfree.com^$third-party,domain=~1xbet.by|~1xbet.com|~1xbet.com.gh|~1xbet.kz|~1xbet.ng|~1xbet.tj|~betwinner.com|~fan-sport.com|~ua-1x-bet.com
+!
 ! Сайты-фейки и мошенники
 .24smi.info^
 ||1k-shop.ru^
@@ -11606,6 +11610,7 @@ chipmaker.ru#?##ipsLayout_sidebar .ipsWidget:-abp-has([alt="advertisement_alt"])
 pravo-porada.com.ua###jm-right .bannergroup
 adme.ru###js-floating-banner-container
 syzran-small.ru,xn----7sbabwosghnf8al4lkj7b.xn--p1ai#?##js-mediator-article > .pr:-abp-contains(Новости партнеров)
+megaresheba.ru###js-message-error-page-book > *
 footboom.by,footboom.com,footboom.kz###js-popup
 autoua.net###js-preload-banner
 ifreeapps.ru###jv-banner
@@ -13632,6 +13637,7 @@ radarmedia.net##.header-top
 votpusk.ru##.header-vt-bn
 gazeta-severny.ru##.header-widget
 baby.ru##.header-wrapper ~ script:not([type]) + [class*=" "]:nth-child(-n+6)
+www.goha.ru##.header.header:empty
 cont.ws##.header2
 xvatit.com##.header2 > .header
 chelny-izvest.ru##.header__ad > *
@@ -13998,6 +14004,7 @@ allhentai.ru,doramatv.live,findanime.org,grouple.co,librebook.me,mintmanga.live,
 funtik.tv,magicfilm.net##.margin_top_site
 audioknigi-online.com##.marked
 kinofann.ru,planetaua.net##.market
+russkiypro.ru##.market-div
 wylsa.com##.marketWidgetWrapper
 pogoda.meta.ua##.market_block_main
 promodj.com##.market_offer_featured
@@ -14418,6 +14425,7 @@ shopping-spb.su##.queen_link
 ktozvonit.com.ua#?#.question:-abp-has(> .adsbygoogle)
 bash.im##.quote > .text:first-child
 bash.im##.quote > div[style]
+tgstat.ru##.r-blocks
 amovies.cc##.r-player
 oka.fm##.r2016
 bib.social,economics.studio,economuch.com,finbook.news,lawbook.online,lawbooks.news,lib.ink,lib.sale,pravo.studio,provse.news,psihologia.biz,scicenter.online,textbook.news,textbooks.studio,texts.news,uchebnikfree.com,uchebniki-besplatno.com,xn--80aaivjfyj3e.com,xn--80ahc0abogjs.com##.r21
@@ -15029,7 +15037,6 @@ telegraf.com.ua##.top-big-reklama
 key-test.ru,searchengines.guru##.top-block
 liga.net##.top-bnr
 grippua.com.ua##.top-brending
-tgstat.ru##.top-channels
 37.ru##.top-header-wrapper
 ug.ru##.top-kitten-container
 klubok.com##.top-m-used-block
@@ -15269,6 +15276,7 @@ enovosty.com##.wiget.ukr_links
 ural56.ru##.wikimart
 forum.taxiservice.com.ua#?#.windowbg:-abp-has(> .poster > h4:-abp-contains(Форум Такси Сервис))
 lookatme.ru##.with-ad
+megaresheba.ru##.with-overtask > [alt]
 engvideo.pro##.wmg-vb-container
 thelastgame.ru##.wogame55
 showfilm.club##.work
@@ -17032,7 +17040,7 @@ o-polze.com##div[id^="bablo_"]
 inbox.lv##div[id^="bads_"]
 probusiness.by,tut.by##div[id^="banObject"]
 dom-filmov.ru,radioroks.ua##div[id^="baner"]
-advizzer.com,agroportal.ua,bragazeta.ru,chehov-vid.ru,dt.ua,ekaraganda.kz,ereport.ru,floraprice.ru,igrixl.ru,lotzon.co,lotzon.com,lurkmore.so,lurkmore.to,mirnov.ru,mix.tj,musicmp3spb.org,musicwars.ru,news29.ru,novosti-n.info,novosti-n.org,protanki.tv,ptzgovorit.ru,rubooks.org,servers-samp.ru,sovets.net,sport.ua,tayga.info,tparser.org,uaprom.info,yvision.kz##div[id^="banner"]
+advizzer.com,agroportal.ua,bragazeta.ru,chehov-vid.ru,dt.ua,ekaraganda.kz,ereport.ru,floraprice.ru,igrixl.ru,lotzon.co,lotzon.com,lotzon.pro,lurkmore.so,lurkmore.to,mirnov.ru,mix.tj,musicmp3spb.org,musicwars.ru,news29.ru,novosti-n.info,novosti-n.org,protanki.tv,ptzgovorit.ru,rubooks.org,servers-samp.ru,sovets.net,sport.ua,tayga.info,tparser.org,uaprom.info,yvision.kz##div[id^="banner"]
 rabota66.ru##div[id^="banner-place-"]
 pitbit.ru##div[id^="banner-right-inside"]
 euro-football.ru##div[id^="banneritem"]
@@ -17788,6 +17796,7 @@ ensage-forum.ru##div[id^="funbox_zone"]
 ||antisochinenie.ru^$csp=script-src 'self' * 'unsafe-inline' data:
 ||atlasprirodirossii.ru^$csp=script-src 'self' * blob: data:
 ||bermen.ru^$csp=script-src 'self' * blob: data:
+||betnetmed.advertserve.com^$csp=sandbox allow-same-origin;
 ||brclip.com^$csp=script-src 'self' * data: blob: 'unsafe-inline'
 ||carsweek.ru^$csp=script-src 'self' * 'unsafe-inline' data:
 ||dokonlin.ru^$csp=script-src 'self' * data: 'unsafe-inline' 'unsafe-eval'
@@ -19688,7 +19697,7 @@ igdz1.ru^$script,domain=igdz.ru
 ||manyclips.net^*.php?id=
 ||map.cn.ua/media/other/
 ||map.cn.ua/media/promo/
-||market.yandex.ru/widget/$script,domain=1000000diy.ru|220.guru|3dnews.ru|bibe.ru|briefly.ru|cadelta.ru|cnews.ru|computerworld.ru|cross.expert|cubiq.ru|digger.ru|drive2.ru|electric-220.ru|expert-dacha.pro|f1comp.ru|fireman.club|housechief.ru|hype.tech|ichip.ru|iguides.ru|irecommend.ru|it-here.ru|itrew.ru|konstruktortestov.ru|kp.ru|kupidonia.ru|lavnik.net|mamsy.ru|megaobzor.com|migeek.ru|migid.ru|modxvm.com|overclockers.ru|prochtu.ru|rbkgames.com|remontcma.ru|rozetked.me|sad24.ru|servernews.ru|sovet-ingenera.com|stroy-podskazka.ru|tut.by|vplate.ru|winnote.ru|wylsa.com|zinref.ru
+||market.yandex.ru/widget/$script,domain=1000000diy.ru|220.guru|3dnews.ru|bibe.ru|briefly.ru|cadelta.ru|cnews.ru|computerworld.ru|cross.expert|cubiq.ru|digger.ru|drive2.ru|electric-220.ru|expert-dacha.pro|f1comp.ru|fireman.club|housechief.ru|hype.tech|ichip.ru|iguides.ru|irecommend.ru|it-here.ru|itrew.ru|konstruktortestov.ru|kp.ru|kupidonia.ru|lavnik.net|mamsy.ru|megaobzor.com|migeek.ru|migid.ru|modxvm.com|overclockers.ru|prochtu.ru|rbkgames.com|remontcma.ru|rozetked.me|russkiypro.ru|sad24.ru|servernews.ru|sovet-ingenera.com|stroy-podskazka.ru|tut.by|vplate.ru|winnote.ru|wylsa.com|zinref.ru
 ||marketing.spb.ru/images/klik_banner/
 ||maslomotors.ru/wp-content/themes/maslomotor/js/tp/popup.js$script
 ||master.cn.ua/_images/banners/
@@ -21937,7 +21946,7 @@ rustorka.com,rustorka.innal.top,rustorka.net,rustorka2.innal.top,rustorka3.innal
 ||top/goto/*/*/$csp=sandbox allow-same-origin;
 !
 ! Sports.ru
-sports.ru,tribuna.com###branding-layout > :not(div):not(.page-layout):not(.pageLayout)
+sports.ru,tribuna.com###branding-layout > :not(.page-layout):not(.pageLayout)
 sports.ru,tribuna.com###right-first-banner-place
 sports.ru,tribuna.com###top-ad
 sports.ru,tribuna.com###top-banner-place
@@ -22007,11 +22016,8 @@ all-for-woman.com,back-in-ussr.com,budtezdorovy.net,domosedy.com,edalnya.com,kak
 mail.ukr.net###left_banner
 mail.ukr.net###top_banner
 ukr.net##.adv-news
-www.ukr.net##.fixed-block[data-side="left"] > div[class] ~ div
-www.ukr.net##.fuel-banner
-www.ukr.net##.fuel-bottom-banner
-www.ukr.net##.top-bar ~ div ~ section ~ *
-www.ukr.net##.top-bar ~ div[class] > div
+www.ukr.net##.fixed-block > div[class] ~ div
+www.ukr.net##div[class^="fuel-"][class$="-banner"]
 ||fwdcdn.com/img/commercial/$domain=ukr.net
 ||portal.un.net.ua/temp/blocks/
 !
@@ -22725,6 +22731,7 @@ inforesist.org##tqwidget[style^="position: fixed"]
 @@||liveinternet.ru^$generichide
 @@||lotzon.co$generichide
 @@||lotzon.com^$generichide
+@@||lotzon.pro^$generichide
 @@||lovikod.ru^$generichide
 @@||math.semestr.ru^$generichide
 @@||money-pic.ru^$generichide
@@ -23947,3 +23954,4 @@ joyreactor.cc,pornreactor.cc,reactor.cc##div[style="background:none!important"]
 @@||ptzgovorit.ru/sites/all/themes/bootstrap_ptz/js/ad/adinit.js$script,domain=ptzgovorit.ru
 @@||quality.mkrf.ru/img/banner.png$domain=kirmuseum.org
 @@||rd.bid.run/exp?sid=$script,domain=gorodche.ru|informpskov.ru
+||novaya.me/bitrix/js/landing/event-tracker/
