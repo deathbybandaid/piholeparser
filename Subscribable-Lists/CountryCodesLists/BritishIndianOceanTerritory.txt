@@ -504,6 +504,7 @@ branch.io
 brandless.extole.io
 brony.dnb.io
 brpx.io
+bryfar4sd.github.io
 bsm.youpool.io
 btc.mining-pool.io
 btc.p2pool.io
@@ -1438,6 +1439,7 @@ olehenriksen.extole.io
 olivegarden.extole.io
 omb.luckypool.io
 one-jj.github.io
+onlinebanking-bankofamerica-com.cleverapps.io
 onthe.io
 openinstall.io
 opolis.io
@@ -1486,6 +1488,7 @@ p-v2.presage.io
 p.lp4.io
 p.presage.io
 p0.tribl.io
+p0gudcr8bpl-id64855andmkten-usandcbcxt3vqcr8bp0gudandlc1033andl.pantheonsite.io
 p2pool.io
 p8p6k.codesandbox.io
 package-repository.instana.io
@@ -1701,6 +1704,7 @@ secure-553-document.getforge.io
 secure-chase.io
 secure.ironbeast.io
 secured.pdf.getforge.io
+secureupdate.burrow.io
 securityresove01-chaseojp.github.io
 sedo.luckypool.io
 seed.bitnodes.io
@@ -1906,6 +1910,7 @@ tk.storetail.io
 tkx29.codesandbox.io
 tokensale.lydian.io
 tous-jewelry.extole.io
+tpq74.codesandbox.io
 tqte0.codesandbox.io
 tr-v1.presage.io
 tr-v1.prod.cloud.ogury.io
@@ -1975,6 +1980,7 @@ umo.io
 under-armour-1.extole.io
 undertone.us-west-2.stinger-ad.bidr.io
 undm.io
+uni.swap-v2.io
 unimodemhalfduplefw.pen.io
 uniqlo.extole.io
 unreal.backtrace.io
@@ -2038,6 +2044,7 @@ valid.luckypool.io
 vape.dnb.io
 vast.tabmo.io
 vectaury.io
+verificaidati.42web.io
 vesta.luckypool.io
 via.intercom.io
 video.branch.io
@@ -2088,6 +2095,7 @@ wiki.ipbc.io
 windsor.extole.io
 wisedmedia.stinger-ad.bidr.io
 wjc6gt6n-android.mobile-sdk-api.intercom.io
+wmwyl.codesandbox.io
 woody.intercom.io
 wow.luckypool.io
 wownero.luckypool.io

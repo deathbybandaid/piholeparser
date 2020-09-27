@@ -1,9 +1,10 @@
 alerts.ndtv.com
 alerts.thedailystar.net
 alma-cmp.almamedia.io
+analytics-consent-manager.azureedge.net
 appconsent.io
 browser-updater.yandex.net
-cf-particle-html.eip.telegraph.co.uk
+ccpa-script.psg.nexstardigital.net
 cmp.infopro-digital.com
 cmp.network-n.com
 cmp.nextday.media
@@ -12,8 +13,8 @@ cnil.links-lab.fr
 consent.23g.io
 consent.berliner-kurier.de
 consent.cmp.oath.com
+consent.gutefrage.net
 consent.prismamedia.com
-consent.subscriptions.archant.co.uk
 consent.theneweuropean.co.uk
 cookie.aerostatonet.it
 cookie.gazeta.pl
@@ -27,9 +28,7 @@ cookies.innershed.co.uk
 cookies.leadplace.fr
 cookies.nos.nl
 cookies.unidadeditorial.es
-curate.venturebeat.com
 d15r06k2ko210l.cloudfront.net
-d1uh1a7az90pt0.cloudfront.net
 d2ip7iv1l4ergv.cloudfront.net
 d2r1yp2w7bby2u.cloudfront.net
 d5k6iufjynyu8.cloudfront.net

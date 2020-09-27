@@ -96,6 +96,7 @@ stargroup.ge
 supergeorgia.ge
 swaps.ge
 swb.gol.ge
+tenders.palitra.ge
 tesli.ge
 test123.starcarrent.ge
 tkgroup.ge

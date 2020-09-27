@@ -23,6 +23,7 @@ alliedservices.pk
 allignlogistics.com.pk
 allone.pk
 altaqwa.com.pk
+amazon.co.jp.hnss.com.pk
 americandoors.pk
 anchorgroup.com.pk
 angola.paks.pk
@@ -176,7 +177,6 @@ hdfpakistan.org.pk
 healthybody.com.pk
 hhtransports.pk
 hiddencameras.pk
-hnss.com.pk
 homecrafts.pk
 homstore.pk
 htbuilders.pk

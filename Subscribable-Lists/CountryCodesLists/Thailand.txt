@@ -26,6 +26,7 @@ beautycommunity.co.th
 bpo.correct.go.th
 building.msu.ac.th
 byteark-analytics.thairath.co.th
+callox.shop.th
 cgh.co.th
 chill.co.th
 chom.co.th
@@ -135,7 +136,9 @@ province2.moi.go.th
 prowin.co.th
 qsds.go.th
 qualityprint.in.th
+r2r.npru.ac.th
 resam.or.th
+research.kku.ac.th
 resveratrol.co.th
 rightman.co.th
 rockgarden.co.th

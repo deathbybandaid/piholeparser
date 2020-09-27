@@ -269,6 +269,7 @@ ddos.wka.kr
 delightfull.co.kr
 dev.admixer.co.kr
 dev.cauly.co.kr
+dev.snmp.kr
 dilla.0pe.kr
 dint.0pe.kr
 dinte.0pe.kr
@@ -379,6 +380,7 @@ game24.co.kr
 gamgol.co.kr
 gang.dothome.co.kr
 gangmin.0pe.kr
+gangnam.wooridul.co.kr
 ganzistar.co.kr
 gao.co.kr
 gassystem.co.kr
@@ -502,7 +504,6 @@ keysearch.co.kr
 keyword.ad4989.co.kr
 kfcf.co.kr
 kgmedia.co.kr
-kgti.co.kr
 kimjuno12.p-e.kr
 kimwisdom1109.kro.kr
 kinged12.kro.kr
@@ -760,7 +761,6 @@ smf.co.kr
 smms.0pe.kr
 sndkorea.nowcdn.co.kr
 sniper0609.0pe.kr
-snmp.kr
 softbible.co.kr
 sonuro.co.kr
 soraguide.co.kr

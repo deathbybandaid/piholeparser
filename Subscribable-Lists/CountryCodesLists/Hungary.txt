@@ -351,7 +351,6 @@ kivalodolgozo.hu
 klikkzsirafok.hu
 konyvnet.hu
 kossuthlajosaltisk-mezotur.hu
-kota.hu
 kovacsvagas.hu
 kovesszucs.atw.hu
 kralikmarti.hu
@@ -563,7 +562,6 @@ szallodaverseny.hu
 szeged.suvido.hu
 szegedihadipark.hu
 szegedimotorfeszt.hu
-szekelyepitkezes.hu
 szelszi.hu
 szerencsejatek.hu
 szervizkalkulator.hu
@@ -588,6 +586,7 @@ szolnoksobarlang.hu
 szupertanacsok.blog.hu
 szv.lsdev.hu
 taborhegy.hu
+takacsjenoami.hu
 tancsics.hu
 tankolj.hu
 taplalekallergiatabor.hu
@@ -602,6 +601,7 @@ tooraktrans.hu
 topbarfeeder.hu
 tophirek.hu
 toplista.mw.hu
+tormasport.hu
 tothcsirke.hu
 totszentmarton.hu
 tr.affiliate.hu

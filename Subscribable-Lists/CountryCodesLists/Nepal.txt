@@ -18,6 +18,7 @@ bluebridge.edu.np
 bmti.com.np
 bolan.com.np
 bright.pushpasadan.edu.np
+caixabank.es.smi.com.np
 careforhumanity.org.np
 caspianvalleycollege.edu.np
 cdecf.org.np
@@ -116,7 +117,6 @@ sardakhar.com.np
 sedanepal.org.np
 shivakunwar.com.np
 sirish.com.np
-smi.com.np
 southpointrs.edu.np
 ssddang.org.np
 stholidays.com.np

@@ -4,6 +4,7 @@ advantage.as
 app.astec.as
 cort.as
 div.as
+drwax.as
 escort.as
 euroad1.advantage.as
 free-games.as

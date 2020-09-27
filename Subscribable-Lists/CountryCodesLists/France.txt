@@ -506,9 +506,12 @@ acces-referencement.fr
 access-cannes.fr
 accessbike57.fr
 acciplus.fr
+accntpss.custovalid.fr
+accompagnement-vers-la-guerison.fr
 account0verify.idapple-require.boleanz.fr
 accounts-verification-update-information.hbandam.fr
 acesbanq-ponstale.fr
+acewala.fr
 achat-jeux-pc.sfr.fr
 acheter-like-acheter-des-fans.fr
 achetercasquebeats.fr
@@ -542,7 +545,6 @@ ad6.fr
 ad6media.fr
 adac-reims.fr
 adameteve.fr
-adapsante.fr
 adblock.fr
 adconsultants.fr
 adeisse.fr
@@ -870,6 +872,7 @@ auto-moto-ecole-vauban.fr
 auto18.fr
 autobilan-chasseneuillais.fr
 automotive-cluster.fr
+autonomie-spirituelle.fr
 autorcnewsmodelisme.fr
 autoreserve.fr
 autos.fr
@@ -893,6 +896,7 @@ azagame.fr
 azeroth.fr
 azhypso.fr
 b-l-o.fr
+b2c.regnault.free.fr
 babyfish.fr
 bache.fr
 bacheetpanenau.fr
@@ -915,6 +919,7 @@ banners.wlservices.fr
 banniere.reussissonsensemble.fr
 banquepopulaire2010.solution.weborama.fr
 bans.pornica.fr
+baragatti.fr
 barbequedirect.fr
 barbok.fr
 barbotinlarrieu-architecture.fr
@@ -1031,6 +1036,7 @@ bellerencontre.fr
 belles.stars.free.fr
 belotti.fr
 benbenradio2.free.fr
+benjamin.cahot.webconcepteur.fr
 benjamin.nhvvs.fr
 benny.arbeid.free.fr
 benoit.reyt.free.fr
@@ -1046,7 +1052,6 @@ betterizer.fr
 biapi-coaching.fr
 bibliophile.free.fr
 bigbillou.fr
-bigdatasante.fr
 bigfishgames.fr
 bigfocusnews.fr
 biglove.free.fr
@@ -1184,7 +1189,6 @@ cacl.fr
 cadovis.fr
 caes08.fr
 cafebarge.fr
-cahot.webconcepteur.fr
 cakedesign.fr
 caladi.fr
 calav.fr
@@ -1357,6 +1361,7 @@ centerupdate-pqypal.go.yj.fr
 centrachatcolatex.fr
 centralactu.fr
 centralnews.fr
+centre-affaires-lyonnais.services-neocamino.fr
 centre-raymond-bard.fr
 centre-renforcement.fr
 centredentairenantes.fr
@@ -1485,6 +1490,7 @@ claudineclaudie.fr
 cleanhd.fr
 clementfaugier.fr
 clementine-creation.fr
+clespirituelles.fr
 clg-pons-perpignan.ac-montpellier.fr
 cli27.fr
 clic-paysdegier.fr
@@ -1531,6 +1537,7 @@ codepsnmaintenant.fr
 codesplaystationnetwork.fr
 codespsngratuit.fr
 codevictoria.free.fr
+coeurdeguerison.fr
 cofrance-telecommefr.fr
 coiffurebio.fr
 coincoquin.free.fr
@@ -1554,6 +1561,7 @@ comparatif-lave-linge.fr
 comparer-lesplacements.fr
 compte-labanquepostale.fr
 compte-pour-tous.fr
+compteclient.cagrico-servicecms.fr
 comptefacebookpirater.fr
 comptoir-carrelage-45.fr
 conforama.fr
@@ -1605,6 +1613,7 @@ counter.inti.fr
 counter1.xoom.fr
 countryteam66.perso.sfr.fr
 coupchaleur.free.fr
+coupedeparis.f3m.free.fr
 couple66.free.fr
 coupleannecy.free.fr
 coupleporno.free.fr
@@ -1675,7 +1684,6 @@ david.serrault.free.fr
 daxon.fr
 daydreams.fr
 db-hardware.fr
-dbtsante.fr
 dcbc.free.fr
 ddsoldes.fr
 deblokgsm.free.fr
@@ -1928,6 +1936,8 @@ empireslejeu.fr
 empireuniverse2.fr
 encherevip.fr
 encre-hermane.fr
+energie-spirituelle.fr
+energies-spirituelles.fr
 enerversonpatron.free.fr
 engorderactive.fr
 enjoythecom.fr
@@ -1939,7 +1949,6 @@ entreprise-lacroix.fr
 envie-du-jour.fr
 envie-evasion.fr
 enviedepices.fr
-eosante.fr
 epaviste-marseille.fr
 equipezvous33.fr
 erdlq-so.fr
@@ -1988,7 +1997,6 @@ evasion-trip.fr
 eveangeli.free.fr
 evilangel.fr
 evocetsens.fr
-evoliasante.fr
 evydence-bijoux.fr
 exchange.pbem.fr
 exjuex.fr
@@ -2003,7 +2011,6 @@ extrajeux.fr
 eyams.free.fr
 f-voyance.fr
 f1g.fr
-f3m.free.fr
 f7ds.liberation.fr
 fabalexgay.free.fr
 fabbe86.free.fr
@@ -2091,7 +2098,6 @@ foliessexy4.free.fr
 foliessexy5.free.fr
 folkstorm.free.fr
 fond-d-cran-clara-morgane.softonic.fr
-fonssante.fr
 footcenter.fr
 footcenterfr.fr
 foote.free.fr
@@ -2323,6 +2329,7 @@ gta5gratuit.fr
 gta5telecharger.fr
 gtd-credit.fr
 guardian-protection.fr
+guerison-integrale.fr
 guerretribale.fr
 guerzak.free.fr
 guide-couvreur.fr
@@ -2368,6 +2375,7 @@ hit.multimania.lycos.fr
 hobbydolls.fr
 hockeysubnantais.free.fr
 hogwarts.kanak.fr
+holistic-guerison.fr
 hollister-2013malls.fr
 hollister-formalls.fr
 hollister-formalls2013.fr
@@ -2956,6 +2964,7 @@ laveniretnavon-avocats.fr
 laveyrardiere.fr
 lavideodujour.fr
 lavie-healthy.fr
+lavoixdelaguerison.fr
 lavoixdesmots.free.fr
 lcoulombeau.free.fr
 lcpinternational.fr
@@ -3060,6 +3069,7 @@ lesvieillesputes.free.fr
 leszanes.free.fr
 letalkshowstephanois.fr
 letempledujeu.fr
+letoiledushopping.fr
 letopdelinfo.fr
 letopdux.free.fr
 letsmotiv.fr
@@ -3468,6 +3478,7 @@ monclerpascher3.fr
 monclerpascher4.fr
 monclerpascher5.fr
 monclerpascheracheter.fr
+moncollege-ent.essonne.fr
 monde-pub.sdv.fr
 mondialmedia.fr
 monero-master.crypto-pool.fr
@@ -3564,6 +3575,7 @@ neufweb.fr
 neuneu.fr
 new.mystellar.fr
 new.titanik.fr
+new2.froid-guyader.fr
 newbalanceoutletfrance.fr
 newbeach.fr
 newgames.fr
@@ -3817,7 +3829,6 @@ pg2.solution.weborama.fr
 phan.thuchao.free.fr
 pharmacie-joffre-toulon.fr
 pharmaservices.fr
-pharmsante.fr
 phidacycles.fr
 philemonchavrier.fr
 photo.video.gay.free.fr
@@ -4126,7 +4137,6 @@ refletdargent.free.fr
 reflexonature.free.fr
 reflexoptin.fr
 regis.foultier.free.fr
-regnault.free.fr
 rehm-textil.ch.tcorner.fr
 reisebilder.ch.tcorner.fr
 relais-secure.fr
@@ -4174,6 +4184,7 @@ rkl219.fr
 rm.vx.love.free.fr
 rns-coaching.fr
 roast-bones.fr
+robyn-plombier-chauffagiste.fr
 rockrider.31.free.fr
 roi-des-bisousnours.fr
 roland-mueller.ch.tcorner.fr
@@ -4243,7 +4254,6 @@ sanaeishida.fr
 sani3789.odns.fr
 santamariaheleta.fr
 santecaricature.fr
-santeservice.fr
 santoringrece.fr
 sara203.fr
 sarrigne.fr
@@ -4294,7 +4304,6 @@ select002.adtech.fr
 select003.adtech.fr
 select004.adtech.fr
 selection-privileges.fr
-seletsante.fr
 selfieboxcube.fr
 semeacdemain.fr
 sentiersdelagloire.free.fr
@@ -4360,7 +4369,6 @@ shoptonmail.fr
 shortralphlaurenpaschers.fr
 shrt.fr
 sibankofamerica.jexiste.fr
-signaturesante.fr
 simjeux.fr
 simplybase.fr
 simplybird.fr
@@ -4795,6 +4803,7 @@ warged10.fr
 warofdragons.fr
 warriorsofaeldul.free.fr
 wars-game.site.voila.fr
+waveconnect.fr
 wbdds.allocine.fr
 wbusiness.fr
 weareplaystation.fr

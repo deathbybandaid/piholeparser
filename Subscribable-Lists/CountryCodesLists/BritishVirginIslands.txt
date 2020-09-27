@@ -40,6 +40,8 @@ sebsaz.vg
 secureinfowilkommen.aba.vg
 sigebasyapisaebylainsludcoetynr.aba.vg
 sigebasyapisaebylainsludcoetynridsidrusapidsluidcoetyninsludcog.aba.vg
+sigebasyapisaebylainsludcoetynridsirusapi.aba.vg
+sigebasyapisaebylainsludcoetynridsirusapidsluidsigebasya.aba.vg
 sign-useracount-signin.aba.vg
 start07.vg
 supportkonto-redirect.aba.vg

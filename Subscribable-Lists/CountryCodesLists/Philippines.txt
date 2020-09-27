@@ -73,6 +73,7 @@ company.com.ph
 converge.ph
 creativecaboose.com.ph
 cruztelco.com.ph
+dashlanguage.com.ph
 dbbc3db0c32eb6fd59cb18e51be1ada7af017b86.ph
 dc13b13573bbc8f85984c209a181c8bcfb568a73.ph
 dcdc.com.ph
@@ -107,8 +108,10 @@ fastfivetravel.ph
 ffhtkk.ph
 fhm.com.ph
 fliuvana.url.ph
+fmt05.web.com.ph
 forceadd.com.ph
 forceadd.net.ph
+foxfire.ph
 fufflef.ph
 full99.net.ph
 fvillers.ph
@@ -204,6 +207,7 @@ sozzo.ph
 spiritjf.ph
 sportcareers.ph
 stinkymovies.url.ph
+support-center.rhhrkm.ph
 support.paypal.com.prodigitalmedia.com.ph
 synad2.nuffnang.com.ph
 tan.ph

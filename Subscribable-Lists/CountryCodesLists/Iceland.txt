@@ -47,6 +47,7 @@ notendur.hi.is
 ny1.kano.is
 nya.kano.is
 nytt.s-j.is
+resource.is
 revive.visir.is
 rimmugygur.is
 ru.kano.is

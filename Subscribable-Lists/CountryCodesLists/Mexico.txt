@@ -30,6 +30,7 @@ adsimg.t1msn.com.mx
 aedme.org.mx
 afq.com.mx
 agaa.mx
+aglomol.com.mx
 agronutrientes.com.mx
 aidco.com.mx
 aktem.com.mx
@@ -74,7 +75,6 @@ autonorte.com.mx
 autopartesacr.com.mx
 avaluosyasociados.com.mx
 avitec.com.mx
-axalta.grupojenrab.mx
 ayrpro.com.mx
 azcarm.com.mx
 bajatel.mx
@@ -208,12 +208,14 @@ contro.mx
 coolingtowers.com.mx
 copal.com.mx
 copinyasociados.com.mx
+cor.prodisasadecv.com.mx
 cositos.com.mx
 cosmeticosnaturales.mx
 covaee.com.mx
 coyman.com.mx
 cpanel.genesysinternational.com.mx
 cpone.terrainnova.com.mx
+creamaquinaria.com.mx
 crmcap.udgvirtual.udg.mx
 crookedmagazine.com.mx
 crurom.com.mx
@@ -265,6 +267,7 @@ ecobebe.com.mx
 edomex.portalesvip.com.mx
 eeeeisa.com.mx
 eladios.com.mx
+eldecidor.com.mx
 elecomfree.com.mx
 elektra.com.mx
 eliasnavarro.com.mx
@@ -299,6 +302,7 @@ f1maintenance.galaxyweb.mx
 facebook-login-security-customer-support-ticket-53597.solucionescovid19.mx
 facebookl.com.mx
 factonline.mx
+farmac.com.mx
 fashion7.com.mx
 fctoriz.com.mx
 fecuca.com.mx
@@ -476,6 +480,7 @@ lugocel.com.mx
 m3mip.com.mx
 madcmx.mx
 magnoamericana.edu.mx
+mail.lahuerta.gob.mx
 maildirect.com.mx
 mailpro.com.mx
 makerlabs.mx
@@ -490,6 +495,7 @@ marketdynamic.com.mx
 marti.com.mx
 maruichimex.mx
 maruval.com.mx
+materialesgonzalitos.com.mx
 mature2porn.blogspot.mx
 mayer.com.mx
 mdapoyoempresarial.com.mx
@@ -566,6 +572,7 @@ pigtailsroundasses.blogspot.mx
 piher-ingenieria.com.mx
 pixeled.mx
 planum.mx
+plataformadeviajescotiabank.com.mx
 plataformaeducativa.se.jalisco.gob.mx
 platinumfleet.mx
 playboy.com.mx
@@ -589,7 +596,6 @@ pranaentretenimiento.com.mx
 prdcortazargto.org.mx
 priceshoes.com.mx
 procat.com.mx
-prodisasadecv.com.mx
 prodmax.mx
 productosverdevalledelnorte.com.mx
 promoexpo.com.mx
@@ -600,6 +606,7 @@ protek.com.mx
 provisa.com.mx
 psepro.com.mx
 publicidad.eluniversal.com.mx
+publidinamica.mx
 pueblastars.mx
 puebloamigo.com.mx
 punset.com.mx
@@ -756,6 +763,7 @@ villamanati.com.mx
 villaroyal.com.mx
 villaspicodeorizaba.com.mx
 vincigrafico.com.mx
+vistasigns.com.mx
 vitruslab.com.mx
 vivente.com.mx
 vixim.com.mx

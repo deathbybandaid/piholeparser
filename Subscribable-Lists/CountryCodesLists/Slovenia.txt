@@ -26,9 +26,11 @@ cookies.qp.si
 crnivrh.si
 cvzu-dolenjska.si
 damjanmozetic.si
+dbresorts.si
 dev.qp.si
 dropbox.mini-shop.si
 dtours.si
+ecobirds.si
 elgas.si
 eloterija.si
 eno.si
@@ -82,6 +84,7 @@ pgd-lesce.si
 pizzeriarondo.si
 pkfuzinar.si
 playboy.si
+pogovor.si
 poker.qp.si
 pool.qp.si
 posta.godesic.si

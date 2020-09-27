@@ -40,7 +40,9 @@
 6j4cea2ybg.pl
 84rt3k.fm.interia.pl
 84rt3k.fm.interiowo.pl
+8916120996pogonszczecininfo.pogon.max.pl
 8player.pl
+97pogonszczecininfo.pogon.max.pl
 9xa.pl
 _werbung.pl
 a2btrans.pl
@@ -472,7 +474,6 @@ badv.wp.pl
 badznaptak.pl
 bajer.info.pl
 bajkowedekoracje.pl
-bakari.dyalcom.pl
 baktria.pl
 banery.acr.pl
 banery.bai.pl
@@ -663,6 +664,7 @@ centrumrozrywki.5v.pl
 ceramikaczary.pl
 ceroma.pl
 cf16.pl
+ch.bakari.dyalcom.pl
 chargelity.pl
 cheapmedpills.pl
 cheats4u.pl
@@ -883,6 +885,7 @@ dngecfo.wirt16.bhlink.pl
 dnizbiotrue.pl
 dobramu.za.pl
 dobrapiana.pl
+dobrapraca4.ct8.pl
 dobre-programy.pl
 dobrowet.pl
 dobrymotor.pl
@@ -1024,6 +1027,7 @@ e-fotodtp.pl
 e-gwaltmonitoring.pl
 e-gwaltwiadomosc.pl
 e-ifaktygwalt.pl
+e-info.co.pl
 e-kasa.w8w.pl
 e-kinoman.pl
 e-kwiaciarz.pl
@@ -1139,6 +1143,7 @@ elektromax-serwis.pl
 elektromechanikachlodnicza.pl
 elektryczne-rozdzielnie.pl
 elektrykzyrardow.strefa.pl
+elementum.edu.pl
 elifelinenicebetday.pl
 elimit.pl
 elineextraeudice.pl
@@ -1453,6 +1458,7 @@ fotkinapiec.com.pl
 fotkinapiec.net.pl
 fotkinapiec.pl
 fotobojahr.pl
+fotobudka-fotomat.pl
 fotografnapiatke.net.pl
 fotografnapiatke.pl
 fotografuj.pl
@@ -1481,6 +1487,7 @@ frrg.pl
 fructonatura.pl
 fryzjerstwogogu.pl
 fsbfoirg.pl
+fsmod.pl
 fspys.pl
 fss.neostrada.pl
 ft.dol.za.pl
@@ -1949,7 +1956,6 @@ hackidogier.pl
 hacks24.pl
 hagus.home.pl
 hakerr.pl
-hale-legutko.pl
 halodzwonek.pl
 halopozyczka.pl
 hamulcenawarsztat.pl
@@ -2016,6 +2022,7 @@ huomdgde.adocean.pl
 hustleserver.com.pl
 hydroplanet.pl
 hydroservis.pl
+hzbot2.5v.pl
 i-cda.pl
 i-chomik.pl
 i-dpd.pl
@@ -2372,6 +2379,7 @@ kopsnij.pl
 koralik.lublin.pl
 koreksound.pl
 korepetycje.forge154.forgehost.pl
+korgod.ct8.pl
 kosmetyczka-radzymin.pl
 kosmetycznysklep.pl
 kosmetyki-naturalne-annarella.pl
@@ -2513,6 +2521,7 @@ logowanie.dkonto.pl
 loguj-praca.co.pl
 lokum1985.republika.pl
 loles.neostrada.pl
+lombardzista.pl
 longhill.pl
 looool.pl
 loprus.pl
@@ -2564,6 +2573,7 @@ magicstudio.pl
 magictopeudice.pl
 magma.info.pl
 mainnetrubypalace.pl
+maiske.vot.pl
 maja.org.pl
 majorhubal.pl
 makazi.pl
@@ -2601,7 +2611,6 @@ maszyny-frankopol.pl
 mateos.pl
 matisport.strefa.pl
 max-host.pl
-max.pl
 maxfashion.pl
 maxmaximus.pl
 mazex.com.pl
@@ -3020,6 +3029,7 @@ obozua.adocean.pl
 obuwiesalomon.pl
 ocashniceeurodice.pl
 ocashvivaeurodice.pl
+ochal.com.pl
 ochrona-kety.com.pl
 ochronapracownika.pl
 ocovipgrandlux.pl
@@ -3101,6 +3111,7 @@ onet-news.you2.pl
 onet-news24.pl
 onet-online.pl
 onet-zaginieni-24.pl
+onet.dfirma.pl
 onet.hit.gemius.pl
 onet.hit.stat.pl
 onet24pl.pvi.pl
@@ -3440,6 +3451,7 @@ ppc.coinmine.pl
 ppl3.pl
 praca-dla-ciebie.co.pl
 praca-info.co.pl
+praca-logowanie-4.ct8.pl
 pracaonline.co.pl
 pracowniaciala.pl
 pracowniazazieleniania.pl
@@ -3856,6 +3868,7 @@ salonelektronarzedzi.pl
 salonmeblowyszczygiel.pl
 sani-tryb.pl
 sarina.pl
+sasiedzkipuls.pl
 satakp9yux.ivertiipolska.com.pl
 satishmeds.pl
 sav.coinmine.pl
@@ -4051,6 +4064,7 @@ sigmacars.pl
 signin-ebay-com-ws-ebayisapi-dll-signin-webscr.ocom.pl
 siks-erp.pl
 silawejherowo.pl
+silo.com.pl
 silstop.pl
 silvets.pl
 simp-consulting.pl
@@ -4059,6 +4073,7 @@ sisco.hit.stat.pl
 sk.adocean.pl
 sk.hit.gemius.pl
 skarbnica.ormianie.pl
+skarzypyta.pl
 skc.coinmine.pl
 skecherstanio.pl
 skgde.adocean.pl
@@ -4594,7 +4609,6 @@ uwestnetbetday.pl
 uworldrubypalace.pl
 uzaleznienie-od-fejsa.wirtualnie.pl
 vaks.pl
-validacioncolombia.cba.pl
 vanssk8hi.pl
 vbadbg.hit.gemius.pl
 vbbg.adocean.pl

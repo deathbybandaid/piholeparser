@@ -1,9 +1,11 @@
+4life.com.vn
 5day.vn
 ac-dft.com.vn
 ac.adpia.vn
 accesstrade.com.vn
 accesstrade.vn
 acd.com.vn
+activar-tu-cuenta.logan.vn
 ad.24h.com.vn
 ad.ants.vn
 ad.mwork.vn
@@ -49,7 +51,6 @@ aloshop.vn
 alosoft.vn
 amathanhhoa.edu.vn
 amazon.usexpress.com.vn
-americanexpress.com.nth.com.vn
 amobi.vn
 amyfashion.com.vn
 analytics.adnetwork.vn
@@ -72,7 +73,6 @@ artexport.com.vn
 athenacomplexhoangmai.vn
 atrack-a.anthill.vn
 auto.vinaweb.vn
-axalize.vn
 babe.ants.vn
 baccaosutritue.vn
 bacsise.vn
@@ -118,7 +118,6 @@ cakejess.vn
 cameli.vn
 campaign.accesstrade.vn
 canzy.com.vn
-caorauducvan.vn
 capdiendavico.vn
 capquangviet.vn
 cataco.vn
@@ -127,6 +126,7 @@ celebitech.vn
 centrehotel.vn
 ceo-sign.auviet.edu.vn
 ceochallenges.vn
+chabongviet.vn
 changaspa.vn
 chemnet.edu.vn
 cheohanoi.vn
@@ -185,6 +185,7 @@ diadem.vn
 diaocsg.vn
 dichvucong.vn
 dichvumuaban.vn
+dichvuvnpt.com.vn
 dicresco.vn
 diemdensaigon.vn
 dienlanhtayho.vn
@@ -243,6 +244,7 @@ folamsan.kovo.vn
 fordlamdong.com.vn
 front.adpia.vn
 fuc.vn
+fuwa.com.vn
 g.eclick.vn
 gachchiulua.com.vn
 gallery.adtima.vn
@@ -255,6 +257,7 @@ giavo.vn
 giaytoxe.com.vn
 gitlab.2nf.vn
 glic.vn
+global.americanexpress.com.nth.com.vn
 gmon.com.vn
 gmon.vn
 gocanada.vn
@@ -325,7 +328,6 @@ interlogistics.com.vn
 ipc-renewable.vn
 ir.admicro.vn
 irisgarden.com.vn
-it4work.com.vn
 itim.vn
 iyes.vn
 jashop.vn
@@ -344,6 +346,7 @@ kiemdinhvector.vn
 kiencuonghotel.vn
 kimkhiviethan.vn
 kimphathaitoan.com.vn
+kingbay.vn
 kingship.vn
 kinhhailong.com.vn
 kitchen-aid.vn
@@ -393,20 +396,22 @@ logv2.mp3.zing.vn
 lomo.com.vn
 longvanceramics.com.vn
 lopandam.kidsplaza.vn
+lss.vn
 luatdongnamhai.vn
 luongyvovanvinh.vn
 luutruviet.vn
-lvcfund.org.vn
 mahena.vn
 mail.prakit.vn
 mail.vnsolar.com.vn
 mamnonkhanhhoi.edu.vn
 mamnonkinderhouse.edu.vn
 mamnonwonderland.edu.vn
+manhattanisland.vn
 marinacity.com.vn
 maryland.kovo.vn
 maycaphe.vn
 maymayhaphuong.vn
+mayruaxemay.vn
 mayxaydungcongtrinh.vn
 mc.adpia.vn
 media.admicro.vn
@@ -562,7 +567,6 @@ s.tuoitre.vn
 sacduphong.com.vn
 sachhay.vn
 saigonlink.vn
-saigonparty.vn
 sale.test.admicro.vn
 saledev.admicro.vn
 sangokythuat.com.vn
@@ -584,6 +588,7 @@ sharefb.cnnd.vn
 shopdacsan.vn
 shophouseprosperplaza.vn
 shopnuochoa.vn
+shunan.com.vn
 shutdown.cgffood.vn
 sid.tdu.edu.vn
 sieuthithietbicongnghiep.com.vn
@@ -613,6 +618,7 @@ st-analytics.anthill.vn
 st-au.ants.vn
 st.a.anthill.vn
 staging-e.anthill.vn
+staging.baya.vn
 static.accesstrade.vn
 static.ad.org.vn
 static.adtima.vn
@@ -626,13 +632,13 @@ stats.sapo.vn
 stats.vietnammoi.vn
 stc.adtima.vn
 stspower.com.vn
-suachuacaitao.vn
 sucom.vn
 sueannbridal.vn
 sunbayhotel.vn
 suntour.com.vn
 superlite.com.vn
 svcshop.com.vn
+synature.vn
 t.ants.vn
 tamco.vn
 tanthanhdanh.vn
@@ -715,7 +721,6 @@ tuyensinhv2.elo.edu.vn
 uniad.vn
 unicorndigital.vn
 unitechvn.com.vn
-up.neu.vn
 userstats.shopee.vn
 vads.net.vn
 vads.vn
@@ -771,6 +776,7 @@ xkld-nhatban.vn
 xoahinhxam.com.vn
 xulyracthai.edu.vn
 xuongnoithatcodien.vn
+xwifi.vn
 yandibiotech.com.vn
 ycoffee.vn
 yeumoitruong.vn

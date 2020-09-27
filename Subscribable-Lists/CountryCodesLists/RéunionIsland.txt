@@ -14,6 +14,7 @@ huit.re
 ico.re
 lesplusbellesvoituresdu974.re
 log.cnt.re
+lrtt.re
 ophtalmologie.re
 origine.re
 push.notifica.re

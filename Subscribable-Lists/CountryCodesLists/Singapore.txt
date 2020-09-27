@@ -201,6 +201,7 @@ fantasia.sg
 fbl.com.sg
 fbmarketing.com.sg
 filmfive.com.sg
+finewines.com.sg
 formations.com.sg
 fortuneresourcecentre.com.sg
 funmedicaldoctor.sg
@@ -327,6 +328,7 @@ printonline.sg
 prospring-creative.com.sg
 pspc.org.sg
 queensgrocery.com.sg
+quiz.facebook.com.getbackonyourfeet.sg
 rapidexdelivery.sg
 rb.infox.sg
 rbc.sg
