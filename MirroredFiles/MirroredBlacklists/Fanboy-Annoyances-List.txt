@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: BPjPmUCzezY1VeDshe5OcQ
-! Version: 202009270021
+! Checksum: RfM+nhtdAknGgpJuFlcyEw
+! Version: 202009280021
 ! Title: Fanboy's Annoyance List
-! Last modified: 27 Sep 2020 00:21 UTC
+! Last modified: 28 Sep 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -33476,6 +33476,7 @@ _site_cookie_
 ||pushbird.com^$third-party
 ||pushbullet.com^$third-party
 ||pushengage.com^$third-party
+||pusher.com^$third-party
 ||pushex.io^$third-party
 ||pushible.com^$third-party
 ||pushify.com^$third-party
@@ -45817,8 +45818,8 @@ yoigo.com#@#thor-cookies
 @@||candidat.pole-emploi.fr^*/modules/jquery-eu-cookie-law-popup.js$script
 @@||cdn.rp.pl/cmp/cmp.min.js
 @@||cdp.pl/skin/*/cookies.js
-@@||ciaopeople.it^*/remote-gdpr.$script,domain=cookist.it|fanpage.it
-@@||ciaopeople.it^*/sdk-gdpr.$script,domain=cookist.it|fanpage.it
+@@||ciaopeople.it^*/remote-gdpr.$script,domain=cookist.it|fanpage.it|ohga.it
+@@||ciaopeople.it^*/sdk-gdpr.$script,domain=cookist.it|fanpage.it|ohga.it
 @@||cloudflare.com^*/cookieconsent.min.js$domain=bab.la|firkloveren.no|satkurier.pl
 @@||cloudfront.net/js/cookie-banner-gdpr/app.min.js?$script,domain=cn.nytimes.com
 @@||components2.rcsobjects.it/rcs_cpmt/v1/distro/youreporter_ct.js$domain=youreporter.it
@@ -45843,6 +45844,7 @@ yoigo.com#@#thor-cookies
 @@||mymuesli.com/assets/js/cookiespopup.js$script
 @@||nowegumy.pl/cookiecuttr.js
 @@||oasjs.kataweb.it/cookielex/kwdnt.js$domain=video.repubblica.it
+@@||ohga.it^*/remote-gdpr.min.js
 @@||polenka.pl/wp-content/plugins/cookie-law-info/js/cookielawinfo.js$script
 @@||quantcast.mgr.consensu.org/tcfv2/cmp2.js$domain=ilbianconero.com
 @@||quantcast.mgr.consensu.org^*/choice.js$domain=ilbianconero.com|independent.co.uk

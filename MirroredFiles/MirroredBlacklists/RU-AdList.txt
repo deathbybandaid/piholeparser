@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: KXXTCeyUyLIzvddmTPLBvw
-! Version: 202009270020
+! Checksum: 8eIT8jGK9Y3C53SETA0+zA
+! Version: 202009280030
 ! Title: RU AdList
-! Last modified: 27 Sep 2020 00:20 UTC
+! Last modified: 28 Sep 2020 00:30 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -2305,7 +2305,7 @@ _tizers.
 !
 ||asia^$third-party,script,subdocument,xmlhttprequest,domain=~gallerix.org
 ||pw^$third-party,script,xmlhttprequest,domain=~adwiz.pp.ua|~forum.worldofwarships.ru|~hdvbplayer.tk|~live-gol.net|~softpir.com|~sportings.pw|~sportsvideoline3.pw|~tefal.ru|~videosofsport1.pw|~xn--drakulastrem-b7e.com
-||xyz^$third-party,script,subdocument,xmlhttprequest,domain=~anidub.com|~animedia.pro|~animeheaven.ru|~assistir-filme.biz|~avtomaty-i-bonusy.com|~chelentano.net|~coomeet.com|~crackstreams.com|~crackstreams.ga|~csgoreports.com|~cvid.kiev.ua|~estream.to|~europixhd.io|~films.hds-stream.com|~funtik.tv|~getvi.tv|~hanime.tv|~hentaiz.org|~herokuapp.com|~infoua.biz|~jokehd.com|~kinobig.me|~kinoguru.be|~kinoguru.me|~kristinita.ru|~lookbase.xyz|~magicfilm.net|~mail.google.com|~map-a-date.cc|~matchat.online|~miranimbus.ru|~my.mail.ru|~nccg.ru|~newdeaf.club|~onmovies.se|~roadhub.ru|~roblox.com|~soccer365.ru|~soonwalk.net|~streetbee.io|~streetbee.ru|~uacycling.info|~uploadedpremiumlink.net|~vk.com|~vmeste.tv
+||xyz^$third-party,script,subdocument,xmlhttprequest,domain=~anidub.com|~animedia.pro|~animeheaven.ru|~app.element.io|~assistir-filme.biz|~avtomaty-i-bonusy.com|~chelentano.net|~coomeet.com|~crackstreams.com|~crackstreams.ga|~csgoreports.com|~cvid.kiev.ua|~estream.to|~europixhd.io|~films.hds-stream.com|~funtik.tv|~getvi.tv|~hanime.tv|~hentaiz.org|~herokuapp.com|~infoua.biz|~jokehd.com|~kinobig.me|~kinoguru.be|~kinoguru.me|~kristinita.ru|~lookbase.xyz|~magicfilm.net|~mail.google.com|~map-a-date.cc|~matchat.online|~miranimbus.ru|~my.mail.ru|~nccg.ru|~newdeaf.club|~onmovies.se|~roadhub.ru|~roblox.com|~soccer365.ru|~soonwalk.net|~streetbee.io|~streetbee.ru|~uacycling.info|~uploadedpremiumlink.net|~vk.com|~vmeste.tv
 !
 ! Исключения
 @@||12go.asia/dist/prod/build.*.js|$third-party,script
@@ -11207,6 +11207,7 @@ thequestion.ru###answers div[style*="overflow:hidden"]
 komedra.com###apext
 mk.ru###article-left-adds
 agropolit.com###article_banner
+sport.tut.by###article_body > .TitledImage
 nation-news.ru###artner
 liveangarsk.ru###asamtop
 msn.com###aside > .ad
@@ -11307,7 +11308,7 @@ nmosktoday.com###bottom_banner
 lostfilm2.ru###bottom_media
 news.turizm.ru###bottomdies
 serialguru.ru###brTop
-brd24.com,minizal.net,onyxgame.com###brand
+brd24.com,minizal.net,onyxgame.com,otxataba.net,xatab-repack.com,xatab-repack.org###brand
 videoprobki.com,videoprobki.ua###brand-adv-left
 videoprobki.com,videoprobki.ua###brand-adv-right
 playground.ru###brandVideo
@@ -11702,6 +11703,7 @@ rugrad.eu###main_right_col > .section:not(.section_blogs)
 zoneofgames.ru###mainbg
 ignio.com###mainnews
 bus.vse42.ru###map-interface > .sidebar ~ div[style^="height"]
+tut.by###marketWidget
 news-tape.ru###masonry-container > .corner-stamp
 readytospeak.ru###masthead
 youtube.com###masthead-ad
@@ -13068,6 +13070,7 @@ citydog.by##.brandingTop
 move.ru##.branding__block
 prophotos.ru##.branding__footer
 china-review.com.ua,meat-expert.ru##.branding_adv
+tut.by##.branding_bottom_links
 littleone.com##.branding_top
 tut.by##.branding_top_links
 games-tv.ru##.brandingh
@@ -13557,6 +13560,7 @@ glavpost.com##.gallery-center-ad-block
 splkirov.ru##.gallery-gusar
 radikal.ru##.gallery2_left-col_wrapper > div[style^="width"]
 flashplayer.ru##.gametiles > div[id][style]
+otxataba.net,xatab-repack.com,xatab-repack.org##.gaming-block
 glavnayatema.com#?#.gazeta-widget:-abp-has(.widget-title > span:-abp-contains(/реклама|новости партнеров/i))
 deti.fm##.gazprom-top
 softobase.com##.gc-question-ads-2
@@ -14875,6 +14879,7 @@ stroimdom.com.ua##.sponsors
 zi.dn.ua##.sponsors-holder
 stroimdom.com.ua##.sponsors_big
 sr-week.ru##.sponsorslist
+sport.tut.by#?#.sport-table tr > th ~ th:-abp-contains(Ставка)
 sport.ua##.sportua-bet-block
 sosalkino.adult##.spot
 porn0sex.online##.spots-side
@@ -15683,6 +15688,7 @@ bookskeeper.ru##a[href$=".php"][target="_blank"]
 creativportal.ru##a[href*=".creativportal.ru"]
 fishingsib.ru,hunting.ru##a[href*=".fhserv.ru"]:not([href^="https://image.fhserv.ru"])
 zona-film.com##a[href*=".gdn"]
+sport.tut.by##a[href*=".pm.by/"]
 pirate-party.ru,piratemedia.net##a[href*=".sim-networks.com/index.php?pid="]
 ctc-rnd.ru##a[href*=".space"]
 wintorrents.ru##a[href*=".wintorrents.ru"]
@@ -15749,6 +15755,8 @@ newstudio.tv##a[href*="://cutter.li"]
 fontanka.ru##a[href*="://doctorpiter.ru/"][title]
 fast-torrent.tv##a[href*="://fast-torrent.tv/gomed.php"]
 tsn24.ru##a[href*="://mediametrics.ru/"]
+sport.tut.by##a[href*="://pm.by/"]
+sport.tut.by##a[href*="://preved.tut.by/?clickid="]
 2gis.ru##a[href*="://redirect.2gis.com/adv/"]
 second.by,tut.by##a[href*="://reklama.tut.by/"]
 robloro.ru##a[href*="://robloro.ru/reklama"]
@@ -16426,6 +16434,7 @@ bryansknovosti.ru,novozybkov.su##aside[data-alias="Слева"] .widget-area > .
 bryansknovosti.ru,novozybkov.su##aside[data-alias="Справа"] .widget-area > .widget_text ~ .widget_text
 kino-zal.tv##blink
 1progs.ru,2womans.ru,freepiks.ru,psysovet24.ru##blockquote
+sport.tut.by#?#blockquote:-abp-has(> p > strong:-abp-contains(Партнер))
 glav.su#?#body * * div[class]:-abp-has(> script:-abp-contains(/yandex|luxupcdnc/))
 tverigrad.ru#?#body *:-abp-has(> #mediametrics)
 rockstargame.su##body > #a
@@ -17262,7 +17271,7 @@ tv-fresh.org##div[style="position: relative;display: block;width: 100%;height: 9
 alltor.me##div[style="position:absolute; top:65px; left:520px;"]
 photofacefun.com##div[style="position:absolute;width:100%;text-align:center;height:90px;top:10px;left:0"]
 referatwork.ru##div[style="rftk"]
-xatab-repack.org##div[style="text-align:center;"] > a[href] > img
+otxataba.net,xatab-repack.com,xatab-repack.org##div[style="text-align:center;"] > a[href] > img
 minecraft-inside.ru##div[style="text-align:center;clear:both;"]
 penzainform.ru##div[style="width: 140px; height: 280px; max-height: 280px;"]
 inmoment.ru##div[style="width: 200px;height: 300px;position: relative;"]
@@ -17573,6 +17582,7 @@ fontanka.ru#?#section div[class]:-abp-has(> div[class] > div[id^="div-gpt-ad-"])
 bbc.com##section[class^="AdContainer"]
 agro-business.com.ua##section[id^="sp-subcribe-footer"]
 bhf.io##span > a[href][target="_blank"][rel="nofollow"]
+sport.tut.by#?#span > small:-abp-contains(Приведённые букмекерские коэффициенты)
 echo.msk.ru#?#span:-abp-contains(/новости партнеров/i)
 myshared.ru#?#span:-abp-contains(Advertisements)
 headinsider.net#?#span:-abp-contains(Интересные новости)
@@ -17734,6 +17744,7 @@ flylady.ru##td[width="738"] noindex
 oplati.ru##td[width="90"]
 zelenograd.ru##td[width="99%"] + td:last-child
 balakhna.ru##td[width][background^="pic/fill"]
+sport.tut.by#?#th > .tooltip-item:-abp-contains(К)
 imgal.ru##tr > .leftcat > *
 allnetcorp.com##tr > td > #myElement
 izgr.ru##tr > td > div[style^="border"][style*="padding"][align="center"]
@@ -18302,6 +18313,7 @@ $xmlhttprequest,domain=happy-biock.info|happy-block.info|howto-news.info|kinohom
 /u_*.js|$script,~third-party,domain=afanasyevo.ucoz.ru|big-bang-online.ru|borgo.ucoz.ru|breaking-bad-online.ru|dh-online.ru|driveroff.net|gardri.narod.ru|gidonline.eu|griffiny.ru|grimm-all.ru|kinogo.eu|math-helper.ru|novospasskoe-city.ru|online-futurama.ru|online-simpsons.ru|online-south-park.ru|pkrc.ru|primecrime.ru|queen-time.ru|radikal.ru|sambirmajdan.at.ua|samlab.ws|scrin.org|ucoz.ru|uniongang.net|uniongang.org
 /upload/rk/*$domain=37.ru|62info.ru|afanasy.biz|agrostory.com|arsenaltula.ru|asn24.ru|automobili.ru|avtosreda.ru|bel.ru|bits.media|citrus.ua|con-med.ru|cryptolymp.ru|floraprice.ru|footballreview.ru|gorod48.ru|hi-fi.ru|innov.ru|k1news.ru|kluch.media|lgz.ru|marpravda.ru|matchfishing.ru|mediaryazan.ru|mgazeta.com|mk.tula.ru|mnmag.ru|mos.news|newkaliningrad.ru|newsroom24.ru|nmosktoday.com|ohranatruda.ru|onlinetambov.ru|paparazzi.ru|planetaseminarov.ru|portamur.ru|rabochy-put.ru|riavrn.ru|securitylab.ru|seonews.ru|sochi.com|sportfm.ru|telesputnik.ru|tvk6.ru|ural56.ru|vdvsn.ru|velikiynovgorod.ru|vladtv.ru|vt-inform.ru|x-race.info|ya62.ru|yantann.rbsmi.ru|yanzori.rbsmi.ru|zebra-tv.ru|zi.dn.ua
 /uploaded/banners/*$domain=volkovysk.by
+/uploads/back.jpg$domain=otxataba.net|xatab-repack.com|xatab-repack.org
 /uploads/kinogo-smotret-online.jpg
 /uploads/smotret-onlayn-kinogo.jpg
 /uploads/static/*$script,domain=evebro.net|forshow.info|joyshow.info|topci.top
@@ -21180,7 +21192,7 @@ igdz1.ru^$script,domain=igdz.ru
 ! Правила для отдельных сайтов с разношерстными правилами или групп сайтов
 !
 ! Блокировка ресурсов, намеренно продвигающих вредоносное ПО и фейки
-adblockmetrics.ru,antiadblock.ru,better-games.ru,clickscloud.net,disk-space.ru,filmitorrent.net,fortnite-pvp.ru,kinoframe.net,torrfan.org,torrminator.com##*
+adblockmetrics.ru,antiadblock.ru,better-games.ru,clickscloud.net,disk-space.ru,fortnite-pvp.ru,kinoframe.net##*
 !
 !oldseedoff.zannn.top,seedoff.innal.top,seedoff.zannn.top,seedoff2.innal.top,seedoff3.innal.top,seedoff4.innal.top,seedoff5.innal.top,seedoff6.innal.top,seedoff7.innal.top,seedoff8.innal.top##*
 !
