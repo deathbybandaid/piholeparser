@@ -8,6 +8,7 @@
 112.30.110.40bin.sh
 112.30.110.62bin.sh
 112.30.38.19bin.sh
+112.30.38.98bin.sh
 112.30.4.90bin.sh
 116.149.195.56bin.sh
 116.75.117.40bin.sh
@@ -24,6 +25,7 @@
 185.89.161.157bin.sh
 216.98.84.2bin.sh
 220.168.238.82bin.sh
+24.234.75.185bin.sh
 27.6.104.60bin.sh
 46.47.80.188bin.sh
 61.78.210.199bin.sh
@@ -44,6 +46,7 @@ coin-hive-stratum-yvvbqoavck.now.sh
 comptesenlignelabanquepostale-fr.surge.sh
 discover-pearl.now.sh
 exodus.sh
+fls.sh
 freelanxer-ddn-net.now.sh
 harvest.surge.sh
 independentcy.now.sh

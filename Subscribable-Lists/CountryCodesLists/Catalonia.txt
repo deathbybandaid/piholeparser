@@ -28,7 +28,6 @@ imp.rtb.cat
 kavavak.cat
 labotiguetadelmig.cat
 lgtebre.cat
-linstitut.cat
 lluismansilla.cat
 marmitaco.cat
 match.cat

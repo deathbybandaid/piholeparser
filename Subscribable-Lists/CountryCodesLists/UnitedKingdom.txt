@@ -1506,6 +1506,7 @@ coastmanage.co.uk
 coastobtain.co.uk
 cobb.inp.gla.ac.uk
 cobhamplasteringservices.co.uk
+cocoandcane.uk
 coffeecircus.co.uk
 cointaff.co.uk
 coldallocate.co.uk
@@ -2046,6 +2047,7 @@ ee-myaccountbilling.co.uk
 ee-mybillinginfo.co.uk
 ee-mycontactinfo.co.uk
 ee-myinfo.co.uk
+ee.amendbilling-details.co.uk
 ee.billing-paymonthly.co.uk
 ee.monthly-billing-payment.co.uk
 ee.network-paymonthly.co.uk
@@ -2728,8 +2730,14 @@ halfreview.co.uk
 halifax.instruction-security.co.uk
 halifax.my-payees.co.uk
 halifax.mypayee.co.uk
-halifax.payeegateway.co.uk
+halifax.online-unregister.co.uk
+halifax.online-verifypayee.co.uk
+halifax.payee-reverse.co.uk
+halifax.payee-systems.co.uk
+halifax.payeecancellation.co.uk
 halifax.paymentview.co.uk
+halifax.safe-mypayee.uk
+halifax.safemy-payee.uk
 halifax.secure-instruction.co.uk
 halifax.securepayee.co.uk
 halifax.security-unregister.co.uk
@@ -2854,6 +2862,7 @@ hmrc.apply-tax-rebate.uk
 hmrc.calculate-tax.uk
 hmrc.gov.refund-form.co.uk
 hmrc.gov.secure-tax-reimbursement.uk
+hmrc.income-rebate.co.uk
 hmrc.new-info.co.uk
 hmrc.process-refund.uk
 hmrc.rebate-calculation.uk
@@ -3210,6 +3219,7 @@ itenhance.co.uk
 itillustrate.co.uk
 itintegrate.co.uk
 itm-13285656729933.co.uk
+itms-4.co.uk
 itrevise.co.uk
 itunes-active.co.uk
 itunesconnect-security2016wmid1780f4-110ll-16.forgaia.co.uk
@@ -3508,6 +3518,9 @@ livesuch.co.uk
 llamabet.co.uk
 llangollenart.co.uk
 llewellins.co.uk
+lloyds.business.online.gb.verifyff.newtownremembers.co.uk
+lloyds.safemy-payee.uk
+lloyds.verify-mypayee.uk
 lloydsbank.contacts-help.co.uk
 lloydsbankonline.co.uk
 lloydscvs.co.uk
@@ -3517,6 +3530,7 @@ lloydsx67mvr.personal-protective-safety-equipment.co.uk
 lls.imfudge.co.uk
 llwynypiaprimary.co.uk
 lnterpol.co.uk
+loc8me.owlight.co.uk
 local-suppliers.weddingplannershop.co.uk
 localfuneraldirectors.co.uk
 localworkman.co.uk
@@ -3706,6 +3720,7 @@ mandc-automation.co.uk
 manifestchurch.co.uk
 manishamakeupartist.co.uk
 manisty.co.uk
+manorialtitles.co.uk
 mansfield-brewery.co.uk
 mansfieldsquash.co.uk
 mapcompute.co.uk
@@ -4313,6 +4328,7 @@ onecheapoakleysunglasses.co.uk
 onedotcomisaripoff.co.uk
 oneengine.co.uk
 oneesidegame5.co.uk
+onelastcast.co.uk
 oneuggboots.co.uk
 onfirewire.co.uk
 online-drugstore.co.uk
@@ -5446,6 +5462,7 @@ superstardj.co.uk
 support-three-co.uk
 supportsecureinternet.update4appl.co.uk
 supporttt.uk
+supremecontracts.co.uk
 surch.co.uk
 surespark.org.uk
 surfaceteach.co.uk
@@ -6058,6 +6075,7 @@ videoproductionfilms.co.uk
 viennaairport.co.uk
 view.fdlheatpumps.co.uk
 viewcombine.co.uk
+viewmypayee.co.uk
 viewpayee.co.uk
 viewpayees-online.co.uk
 viewpayees.co.uk

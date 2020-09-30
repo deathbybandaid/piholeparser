@@ -64,7 +64,6 @@ agungberbagi.id
 agylcell.co.id
 ahlikuncimobil.id
 ahmadmustaqim.staff.unja.ac.id
-aim.co.id
 ainurrafiqcoid.masterweb.id
 airindosakti.co.id
 aisbp.stiebumiputera.ac.id
@@ -193,6 +192,7 @@ bankmaluku.co.id
 bankofamerica.justusianet.id
 banualawas.tabalongkab.go.id
 banyankoalindolestari.co.id
+bappeda.barrukab.go.id
 bappeda.dharmasrayakab.go.id
 bappeda.palangkaraya.go.id
 bappelitbang.tanggamus.go.id
@@ -481,7 +481,6 @@ farizhamdan.web.id
 faschooler.id
 fatmajaya.co.id
 fauzi-babud.co.id
-fb39502241842024873.my.id
 fcgwxsadsscrtyhlps0.my.id
 feb.untirta.ac.id
 fecebook-support-inbox.confirmation-official-account.my.id
@@ -704,6 +703,7 @@ join-grupwa18.xnxxx.my.id
 join-grupwhatsapp-bokep-terbaru2020.xnxxx.my.id
 join-wa18.my.id
 joingroupwhatsappbokepterbaru2020.gamees.my.id
+joingroupwhatsappbokepterbott2020.getz-claim06.my.id
 joingrupbok3pwa.viyyy.my.id
 joingrupcbokep18.viyyy.my.id
 joingrupwa.guied7.my.id
@@ -934,6 +934,7 @@ myfunbizz.co.id
 myhms.id
 mykohlppge01rcvr01.my.id
 nabila.co.id
+nachi.co.id
 nagari.or.id
 namsatu.id
 narkovic.web.id
@@ -944,7 +945,6 @@ nemo.pelabuhanperikanan.or.id
 netciti.id
 netflix-global.auths-line.com.jagasia.co.id
 neurolat.id
-new.newton.co.id
 newstarplastic.co.id
 nexsukses.co.id
 ngamprahprak.id
@@ -1031,14 +1031,12 @@ peacefulbirth.id
 pearland.co.id
 pegesbldsbleadscfrm.my.id
 pemerintahan.ub.ac.id
-pemnas.ub.ac.id
 pemoeda.co.id
 pena-indonesia.id
 pending-secure-account-inc.hematech.co.id
 peralatanandroid.id
 perfect.dc.unify.id
 perpustakaan.deliserdangkab.go.id
-perpustekim.untirta.ac.id
 persediaan.jogjaprov.go.id
 pesen.co.id
 pesonaalamtimur.id
@@ -1081,7 +1079,6 @@ portale.titolari.secure.login.bpm.kanmoinvestments.co.id
 poshpgehlpbsnsrcvrysrvce01.iwanfredy.my.id
 poshpgehlpbsnsrcvrysrvce01.my.id
 powerelektrik.co.id
-ppg-daljab.ump.ac.id
 ppid.posokab.go.id
 ppl.ac.id
 ppmakrifatulilmi.or.id
@@ -1249,7 +1246,6 @@ semart.ugm.ac.id
 semengresik.co.id
 seminar.fbs.unnes.ac.id
 senat.polnep.ac.id
-senat.poltekba.ac.id
 seniman.web.id
 senior.e-cbncloud.co.id
 sepadan.id
@@ -1309,6 +1305,7 @@ smapgripangkalankersik.sch.id
 smartdigi.id
 smk01diponegoro.sch.id
 smk1nglipar.sch.id
+smkamsir1parepare.sch.id
 smkfadris.sch.id
 smkkartika2sby.sch.id
 smkkartikalawang.sch.id
@@ -1474,6 +1471,7 @@ tiasentosa.co.id
 timorlesone.id
 tintaemas.co.id
 tip.ub.ac.id
+tipjar.id
 tirtaasri.id
 tiwulgatotarjuna.co.id
 tkislamelsyifa.co.id
@@ -1507,6 +1505,7 @@ turturtutrutuh5764363464354363463634634634643643643634643.notification-pages-adv
 ubs.com.ypc.or.id
 ucac.usm.ac.id
 ud-alayubi.co.id
+ukmkarate.unsil.ac.id
 ulearn.co.id
 ultragames.id
 umbrellacorp.id
@@ -1575,7 +1574,6 @@ yuliarachma.id
 yulynshop.co.id
 yumishop.id
 yunivandra.web.id
-yuwaraja.vokasi.ub.ac.id
 zentronic.co.id
 zhacybernet.web.id
 zizicell.id

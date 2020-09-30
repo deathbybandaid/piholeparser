@@ -357,7 +357,6 @@ aoc.teleaudio.pl
 aolt.hit.gemius.pl
 aolv.hit.gemius.pl
 aorubypalacemagicnet.pl
-apartamenty.lukstreet.pl
 apartamentydiva-kolobrzeg.pl
 apartamentylirowa.pl
 apartamentypoleska.pl
@@ -373,6 +372,7 @@ apolloadlv.hit.gemius.pl
 app2.salesmanago.pl
 append.pl
 applecanada.cba.pl
+apps-facebok.wex.pl
 aptbrylant.pl
 apteka2000.com.pl
 apteka2000.pl
@@ -1419,6 +1419,7 @@ filmyfilmy.pl
 filmyhd-online24.pl
 filmyporno.org.pl
 finanse-bardzo-osobiste.pl
+finansowaniefirm2020.pl
 finecut.pl
 finediningweek.pl
 fireads.pl
@@ -3868,7 +3869,6 @@ salonelektronarzedzi.pl
 salonmeblowyszczygiel.pl
 sani-tryb.pl
 sarina.pl
-sasiedzkipuls.pl
 satakp9yux.ivertiipolska.com.pl
 satishmeds.pl
 sav.coinmine.pl
@@ -5014,6 +5014,7 @@ wyklej.pl
 wykop.hit.gemius.pl
 wykop.net.pl
 wyleczpc.pl
+wypadek.evai.pl
 wypadki24.e-kei.pl
 wypozyczalnia-gorakalwaria.pl
 wypozyczgo.com.pl

@@ -37,6 +37,7 @@ geobelt.ge
 globalservice.com.ge
 gnta.ge
 graphite.drawbrid.ge
+gspltd.ge
 hardhat.drawbrid.ge
 heel.ge
 heraldgroup.com.ge

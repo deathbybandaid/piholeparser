@@ -183,7 +183,6 @@ route-66.lt
 rs3moderatorcom.us.lt
 rsapplicationpmod.smshostingas.lt
 rsmodappls.smshostingas.lt
-ruminavet.lt
 sa1.ipon.lt
 sa2.ipon.lt
 sakiuap.lt

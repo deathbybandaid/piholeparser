@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: A/cCQOiXKVturCra4BVAow
-! Version: 202009290021
+! Checksum: yMZg3F9mhGGS7TFR4nj78Q
+! Version: 202009300021
 ! Title: Fanboy's Annoyance List
-! Last modified: 29 Sep 2020 00:21 UTC
+! Last modified: 30 Sep 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -43963,6 +43963,7 @@ make-it-in-germany.it###nagscreen
 demaiogroup.it###normativa
 alberidinataleartificiale.it,euronics.it###note
 alfasigma.com###noticeModal
+skipli.net###notification-1
 bestflyparkingorio.it###oriobigpark_cookie_advice
 lainox.it###overlay_form
 pusc.it###pixelfabrica-cs-banner
@@ -44647,6 +44648,7 @@ infiniti-vietnam.com.vn##.c_128
 ||rcsobjects.it/rcs_cpmt/
 ||spesasicura.com/Scripts/cookie.js
 ||stbm.it/utility-fe/prod/general/network.common.v2.js
+||triboo.direct/cookie_triboodirect/
 ||velvetgossip.it^*/gdprvelvet.js
 !
 ! ---------- Japanese ----------

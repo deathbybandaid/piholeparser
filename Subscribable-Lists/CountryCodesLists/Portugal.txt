@@ -52,7 +52,6 @@ atso.pt
 automair.pt
 axz.pt
 azevedoneves.pt
-b-lizzard.pt
 backoffice.scml.hypnotic.pt
 bagir.pt
 baiadoseixal.cm-seixal.pt
@@ -284,7 +283,6 @@ radiolagoa.pt
 raivel.pt
 ranks.hoonicorns.pt
 relief.pt
-retrodays.pt
 revive.workmedia.pt
 rijomotor.pt
 rs-consultores.pt

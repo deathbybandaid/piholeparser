@@ -287,6 +287,7 @@ apple.id.loginpage.cc
 apple.id.security-jp.cc
 apple.id.sitepage.cc
 apple.idsafety.cc
+apple.ios.iclond.cc
 appleaccount.cc
 appleid-icloud.cc
 appleid.apple.com-page-signin.web.linkentry.cc
@@ -953,6 +954,7 @@ edhitgfaaiobssg.nut.cc
 editeddsdflogin.usa.cc
 edl.ingest.cryptoknight.cc
 edu-php.cc
+ee-details.cc
 eebilling-alert.cc
 eebilling-update.cc
 eejp.cc
@@ -2339,6 +2341,7 @@ rainbowcoin.securepayment.cc
 rakuten-co-jp-update.cc
 rakuten-co-jp.cc
 rakuten.co.jp.ai9pauehnxstqd5nuexyqrfats.cc
+rakuten.co.jp.cardi.cc
 rakuten.co.jp.rakutem.cc
 rakuten.co.jp.rakutenjp.cc
 rakuten.co.jp.rakutenn.cc
@@ -2632,6 +2635,7 @@ slen.suprnova.cc
 sling.suprnova.cc
 sm-guys.cc
 smart.suprnova.cc
+smbc-card-com.cc
 smguys.cc
 smly.suprnova.cc
 smsr.suprnova.cc
@@ -2820,6 +2824,7 @@ tiny.cc
 tipp.cc
 tkn.suprnova.cc
 tkt.suprnova.cc
+tkxmr.cc
 tlc.suprnova.cc
 tllyojla.cc
 tmobilehtc.co.cc
@@ -2952,6 +2957,7 @@ v4j0eo.gmz.cc
 vacsye.cc
 vagina.cc
 vairlines.co.cc
+vaketem.yuaksodja.cc
 validationid.cc
 van.photo-web.cc
 vanssuomi.cc

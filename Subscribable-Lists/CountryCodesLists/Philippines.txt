@@ -73,7 +73,6 @@ company.com.ph
 converge.ph
 creativecaboose.com.ph
 cruztelco.com.ph
-dashlanguage.com.ph
 dbbc3db0c32eb6fd59cb18e51be1ada7af017b86.ph
 dc13b13573bbc8f85984c209a181c8bcfb568a73.ph
 dcdc.com.ph
@@ -149,6 +148,7 @@ juancarlo.ph
 keeva.com.ph
 kiecia.com.ph
 kingsmen.com.ph
+kooperatiba.ph
 legalport.net.ph
 legalport.org.ph
 lostaher.ph

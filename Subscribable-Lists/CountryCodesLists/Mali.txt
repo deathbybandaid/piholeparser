@@ -221,6 +221,7 @@ application.root.domain.server.subdomtrnsf.ml
 apps-facebooksupportinc.ml
 apps-facebookteamsverificationcenter.ml
 apps.secure.update-account.jaxuan.ml
+apps.support-account.ooolaanja.ml
 apteka.ml
 ararst-74.ml
 arjzndx.ml
@@ -243,7 +244,6 @@ atiga01.atciga.ml
 ativar-50milpontos.ml
 atodovaloroferts.ml
 attkasha.ml
-atualizacao.novoatendimentocaixa.ml
 atualizar-acesso-netflix10.ml
 atualizar-cliente.ml
 atualize-sms.ml
@@ -326,6 +326,7 @@ bestmysuper.ml
 bethasda-71.ml
 bhardwaj.ml
 bharia.ml
+bikin-ngiler.masuksekarang.ml
 binm.ml
 bitoinplus.ml
 biznetvigator.ml
@@ -499,6 +500,7 @@ coms.ml
 comwhatsappxx-18.vipx20.ml
 concert-71.ml
 confirm-ppl-steps.ml
+confirma.atualizacaodesktop.ml
 confirmar.aplicativocaixa.ml
 confrim-pages-recovery.ml
 confrim-regis232.d3v-fanpag3.ml
@@ -569,6 +571,7 @@ ddft.ml
 de-bitcoin.ml
 de-safe-transaction-pp.ml
 deep-secureinfo.ml
+demende-citysencloud.ml
 densefox.ml
 dentsplysirona.microsoft-0ffice365.ml
 deposayim.ml
@@ -616,6 +619,7 @@ durstinternet.ml
 dverapple.ml
 dxrwbh.ml
 dynout.ml
+dztelecom.ml
 e-devlet-mobil-turkiye.ml
 ealohck.ml
 eastt.ml
@@ -1496,7 +1500,6 @@ nvbx-71.ml
 nvvfouramd.ml
 nxfvcxu.ml
 nyfinance.ml
-nz-bk01.ml
 nz-c0bk.ml
 nz-cobk.ml
 nzjsbyv.ml
@@ -1597,6 +1600,7 @@ pdmslrn.ml
 pdqkyovc.gvhaqzryeeaqqvktboki.ml
 pecdbnfjriwjdfyhd.ml
 pedl.ml
+pemulihanfacebook2020.pemulihan-fb.ml
 peopvilaz.ml
 peppecrafth.ml
 perline.ml
@@ -1774,6 +1778,7 @@ secure-verification-yourpaypalaccount-com.ml
 secure-vm.owa.exchangevoice.ml
 secure-xcrewg.ml
 secure.appleid.account.login.0xlontok.ml
+secure.bnz.co.nz.auth.personal-login.nz-bk01.ml
 secure.exchangevoicecloud.ml
 secure.owavoice.ml
 secure.verify-accountapplelocked-logs-app.ml
@@ -2382,6 +2387,7 @@ xtotfi.gvhaqzryeeaqqvktboki.ml
 xuvhyfu1.mvean.ml
 xvid-wa.ml
 xyzeee.ml
+y4usiwo-nhheu2.ml
 yahoo.com.change-password.ml
 yara-electronique.ml
 yawaquiriporimaluiosnma.ml
