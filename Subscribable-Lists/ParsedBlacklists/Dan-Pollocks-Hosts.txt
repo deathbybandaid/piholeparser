@@ -5294,6 +5294,7 @@ emisja.contentstream.pl
 employ22.112.2o7.net
 employ26.112.2o7.net
 employment.112.2o7.net
+en.btc-trader-app.club
 en.dd.blueline.be
 en.likefever.org
 en.ultrex.ru
@@ -7681,6 +7682,7 @@ maxvr.112.2o7.net
 mb.5.p2l.info
 mb01.com
 mba-online.petrovka.info
+mbabovuler.club
 mbi3.kuicr.kyoto-u.ac.jp
 mbox2.offermatica.com
 mbox5.offermatica.com
@@ -13299,6 +13301,7 @@ www.grouphappy.com
 www.groupm.com
 www.grtexch.com
 www.grz67.com
+www.gt-365.com
 www.guesstheview.com
 www.guptamedianetwork.com
 www.hai2u.com

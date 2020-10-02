@@ -8,9 +8,9 @@
 ! Działa najlepiej z EasyList - pamiętaj aby zasubskrybować!
 !   Patronite ==> https://patronite.pl/polskiefiltry
 !   PayPal ==> https://www.paypal.com/pools/c/87zNJ8OJ3I
-! Last modified: 30 September 2020
+! Last modified: 1 October 2020
 ! Expires: 1 day
-! Version: 2020093003
+! Version: 2020100104
 ! Support:
 !   Email >> errorsfilters@certyficate.it
 !   Github >> https://github.com/MajkiIT/polish-ads-filter/issues
@@ -18,7 +18,7 @@
 ! License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ! Copyright © 2020 Certyficate IT
 ! Najnowsza wersja zawsze na: https://www.certyficate.it/adblock
-! v.2020093003 aktualizacja: sr, 30 września 2020, 17:50:00
+! v.2020100104 aktualizacja: czw, 1 października 2020, 15:40:00
 !
 !
 !1#-----------------------General advert blocking filters-----------------------!
@@ -287,7 +287,7 @@ pl##.reklama_top
 24wspolnota.pl,kociewiak.pl,cooltura24.co.uk,halogorlice.info,dziennikpowiatowy.pl,tczewska.pl,wejherowo24.info,koscierzyna24.info,tvsudecka.pl,nasztomaszow.pl,www.sandomierztv.pl,korso24.pl,boleslawiec.tv,tarnowska.tv,olesnica24.com##.visible-lg
 24wspolnota.pl##.container > .center-block.text-center.rBox
 2bstyle.pl##.header-ads-wrapper
-2conv.com,flvto.biz,glos.pl,cefarm24.pl##.banner
+2conv.com,flvto.biz,glos.pl,cefarm24.pl,meczyki.pl##.banner
 2x45.info##.Bilboard_750x100_na_dole
 3trzy3.pl##.xxl, .imc.carregat.llarg.zona_publi
 300polityka.pl##.dcmads
@@ -1676,6 +1676,8 @@ legalnybukmacher.com##.entry-content > A > [class^="wp-image"]
 lebork24.info###rT1, #rM0, #rM2, #banner-main2, div.banner-box
 lechpoznan.pl##.AdvertBottomBar
 leczna24.pl##.noprint.centrujban, .bounceInUp.animated.serwis_box.col-lg-3.col-md-3.col-sm-4.col-xs-12 > div:nth-of-type(5), .text-center.col-xs-12.col-md-12, [class*="ffds"]
+leczna24.pl##.panel.hidden-print.text-center
+leczna24.pl##.panel > div > div > small
 leftlane.pl###u488942
 legalni-bukmacherzy-online.pl##.text_live > p > A > IMG
 legalni-bukmacherzy-online.pl##.justify-content-center.d-flex > p
@@ -1844,7 +1846,7 @@ meczewinternecie.pl##figure.size-large.wp-block-image > A
 meczewinternecie.pl##figcaption:has-text(STS kod promocyjny)
 meczyki.net.pl##.subtext > A > IMG
 meczyki.net.pl##[class^="cool-stuff"]
-meczyki.pl##.bookie-ranks, .container-communique, .placeholder.margin.banner
+meczyki.pl##.bookie-ranks, .container-communique, .placeholder.margin.banner, .simple-link
 meczyki.pl##.container-banner-top.container-banner
 mediacv.pl##.baner-1
 mediacv.pl##[class^="ban-"]
@@ -3808,6 +3810,7 @@ zywiecinfo.pl##.promoted
 ||leadexpert.pl^
 ||leczna24.pl/f/*.gif$image
 ||leczna24.pl/f/navb*.jpg$image
+||leczna24.pl/*/*_tlo_*.png$image
 ||leszczynscy.nazwa.pl/*/adv/
 ||lib.ads4g.pl^
 ||lib.onet.pl/s.csr/external/iframe$script,subdocument
@@ -3997,6 +4000,8 @@ zywiecinfo.pl##.promoted
 ||tabletowo.pl/wp-content/uploads/*/*/screening_$image
 ||tanidedyk.pl/templates/$image,domain=mybboard.pl
 ||tarnowiak.pl/grafika/super_*/$image
+||techsetter.pl/wp-content/uploads/20*/*/*banner*.jpg$image
+||techsetter.pl/wp-content/uploads/20*/*/baner*.jpg$image
 ||tkchopin.pl/cams/video_file/*$media,rewrite=abp-resource:blank-mp3,domain=tkchopin.pl
 ||track.cux.io^
 ||track.omgpl.com^$image

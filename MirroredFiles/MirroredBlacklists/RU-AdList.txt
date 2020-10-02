@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: EkRGoP1YM/n/gqHVKiEM/g
-! Version: 202010010030
+! Checksum: 526O92wadvfzuA1J1QGFOQ
+! Version: 202010020020
 ! Title: RU AdList
-! Last modified: 01 Oct 2020 00:30 UTC
+! Last modified: 02 Oct 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -6293,6 +6293,7 @@ _tizers.
 ||go.jetswap.com^$domain=~jetgo.ru|~jethosting.ru|~jetswap.com|~regjet.ru
 ||go.unas.ru^
 ||go2net.com.ua^$third-party
+||go2of.com^$third-party
 ||go7media.ru^
 ||goabd.ru^
 ||goallead.ru^$third-party
@@ -10244,6 +10245,7 @@ _tizers.
 ||y7nrz6vobc.tech^$third-party
 ||y93u1vln04t5n1.ru^$third-party
 ||ya-storage.ru^$third-party
+||yabawc.com^$third-party
 ||yafeland.ru^$third-party
 ||yafeling.ru^$third-party
 ||yakhudobo.ru^$third-party
@@ -12623,7 +12625,6 @@ sho-me.ru##.b-baner-sho-me-link
 bigmir.net,dengi.ua##.b-banner-container
 cyberstyle.ru##.b-banner_600x90
 bigmir.net,dengi.ua,mport.ua##.b-banner_sm
-ria.ru##.b-banners
 siliconrus.com##.b-bks
 inter.ua##.b-block > table[class]
 sibdepo.ru##.b-block--banner
@@ -12638,6 +12639,7 @@ svpressa.ru##.b-content__section_teasers
 svpressa.ru##.b-content__title[href^="http://mediametrics.ru"]
 svpressa.ru##.b-content__title_ads:not([href*="partners.svpressa.ru"])
 prophotos.ru##.b-custom-banner
+gzt-sv.ru##.b-fad
 xn--80ady2a0c.xn--p1ai##.b-flex
 afisha.ru##.b-fullscreen-promo
 m24.ru##.b-header-adv-stripe
@@ -13210,7 +13212,6 @@ alser.kz##.columnBanner
 mignews.com.ua#?#.columnTitle:-abp-contains(Новости партнеров)
 transinfo.by##.column_banner-wrap
 cartoonka.art,multmania.club,tlumtluda.info##.com2com > .text ~ span
-lostfilmhd.ru#?#.comEnt:-abp-contains(/datxxx.com/i)
 crashkino.net#?#.com_inform:-abp-has(> [class^="com_inform_title"]:-abp-contains(/это интересно/i))
 politexpert.net##.comm-button
 news.tj##.comment-area .newsbox-outer-banner
@@ -13691,6 +13692,7 @@ rgho.st##.hidden-xs.alert-warning
 russian.rt.com##.hide--partner--block
 kinoaa.ru,kinobe.club##.hide_ads
 finanz.ru##.highlightbox.content_box
+igromania.ru##.hmenu_box > a[href*="://vk.com/app"]
 igromania.ru##.hmenu_box > a[href*="igromania.ru/link/"]
 uzum.tv##.hokblokrights
 work.ua##.holiday-banner-bl
@@ -16417,7 +16419,7 @@ ngnovoros.ru##article[style^="background-color: transparent; border: none;"][sty
 i-news.kz##aside .events-list ~ a[href][target="_blank"]
 ironfriends.ru#?#aside .widget:-abp-has(> .widget-container [class^="nadavi"])
 ironfriends.ru#?#aside .widget:-abp-has(> .widget-container [id^="ya_"])
-telik.top##aside .widget_custom_html
+gzt-sv.ru,telik.top##aside .widget_custom_html
 businessua.com##aside > #vedomosti_block:nth-child(-n+9)
 showgid.tv##aside > .banner + .title
 od-news.com##aside > .custom-html-widget > a[href][target="_blank"]
@@ -16681,7 +16683,6 @@ cosmo.ru##div[class*="-banner-"]
 moskva.fm,piter.fm##div[class*="-branding-"] > a[target="_blank"]
 otzovik.com##div[class*="."]
 topfilm.uz##div[class*="1xbet"]
-otzovik.com##div[class*="6plus_ag"]
 korabel.ru,market4game.ru##div[class*="Banner"]
 zhukvesti.ru##div[class*="Banners"]
 career.ru##div[class*="HHC-Banner-"]
@@ -16720,6 +16721,7 @@ segodnya.ua##div[class*="ners-news"]
 riafan.ru##div[class*="partner_news"]
 altapress.ru,etextlib.ru##div[class*="partners"]
 kino-mania.pro##div[class*="plav_"]
+otzovik.com##div[class*="plus_ag"]
 1parazit.ru##div[class*="popup"]
 newsru.com##div[class*="prm"]
 hi-fi.ru##div[class*="profit"]
@@ -16822,6 +16824,7 @@ mynizhyn.com##div[class^="bann_"]
 101.ru,999.md,alau.kz,animeonline.su,asiarussia.ru,avtoblog.org.ua,bezparazita.ru,botinok.porn,bountymax.ru,buzday.ru,calend.ru,citydog.by,clubvolvo.ru,dnepr.info,dom2stars.ru,dt.ua,eva.ru,feo.ua,gmod-fan.ru,goodhouse.ru,gorod.dp.ua,gorod48.ru,gtavicecity.ru,hochu.ua,infobank.by,internetua.com,kamchatinfo.com,kerchinfo.com,kino-kingdom.com,kinogo-net-2016.ru,klops.ru,kluch.media,kvnews.ru,manga24.ru,mediaryazan.ru,menquestions.ru,mgorod.kz,mmo13.ru,moya-semya.ru,musicforums.ru,myslo.ru,nlo-mir.ru,nn.ru,ntr-24.ru,nv.ua,nversia.ru,ogolosha.ua,onlineradiobox.com,orenday.ru,pln-pskov.ru,ponedelnik.info,postovoy.net,psm7.com,saltday.ru,sevkavportal.ru,sorochinskday.ru,sovets.net,sovets24.ru,spark.ru,studfiles.net,subscribe.ru,telegraf.in.ua,the-village.com.ua,the-village.me,the-village.ru,torrents.in.ua,trisosny.ru,trymobile.ru,tvzvezda.ru,ukrinform.ru,vdvsn.ru,vklybe.tv,vorle.ru,vse.sale,wincore.ru,womanhit.ru,worldofmods.ru,xn--e1asq.xn--p1ai,yarik-sat.com,yarnews.net,zhitomir.info,zn.ua,zoon.ru##div[class^="banner"]
 deti.fm##div[class^="banner"]:not(#vk_groups)
 kaktutzhit.by##div[class^="banner"][class$="rightSide"] > .banner:nth-of-type(1)
+crazymailing.com##div[class^="banner-ad"]
 ura.news##div[class^="bannerPosition"]
 irr.by,mk.ru##div[class^="banner_"]
 caravan.su##div[class^="banner_header"]
@@ -17802,8 +17805,8 @@ spec-komp.com##.adb
 akmaya.net,anivisual.net,apptractor.ru,audio-hi-fi.ru,browserleaks.com,ficbook.net,forum.vorota.de,kg-portal.ru,kulturologia.ru,otzovik.com,spec-komp.com,stalker-mods.clan.su,stalker-mods.su,studizba.com,todotech20.com,trackitonline.ru##.adsbygoogle
 sitecoder.blogspot.ru##.adsbygoogle > *
 gtavicecity.ru##.article-ads
-ria.ru##.b-banner
-ria.ru##.banner_content
+ria.ru##.banner__content
+ria.ru##.m-ya
 postila.ru##.masonry-brick.ads
 ria.ru##.partner.slick-slider
 zoom.cnews.ru##.promo_block
@@ -18257,6 +18260,7 @@ $xmlhttprequest,domain=happy-biock.info|happy-block.info|howto-news.info|kinohom
 /auth|$xmlhttprequest,domain=zerx.club
 /banner_fullscreen.js|$domain=namba.kg|namba.tj
 /bazr/$domain=allsoch.ru|gdz.work|megaresheba.ru|pedportal.net|ronl.ru|spishy.net|stavcur.ru|zoobrilka.net
+/bnr-tumarke*.mp4|$domain=gzt-sv.ru
 /bree*/$domain=filmitorrent.net|torrfan.org|torrminator.com
 /build/js/sprit-$script,domain=yummyanime.club
 /chat*js$domain=bib.social|economics.studio|economuch.com|finbook.news|lawbook.online|lawbooks.news|lib.ink|lib.sale|pravo.studio|provse.news|psihologia.biz|scicenter.online|textbook.news|textbooks.studio|texts.news|uchebnikfree.com|uchebniki-besplatno.com|xn--80aaivjfyj3e.com|xn--80ahc0abogjs.com
