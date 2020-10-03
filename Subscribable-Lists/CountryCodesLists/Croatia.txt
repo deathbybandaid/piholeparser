@@ -6,6 +6,7 @@ alpha.hanich.hr
 amalgam.hr
 amphibian.edivovina.hr
 analytics.styria.hr
+besttravel.hr
 bipaparfemi.hr
 cir.irb.hr
 cryptosistem.hr
@@ -52,6 +53,7 @@ medopip.hr
 milsing.hr
 montus-tim.hr
 naturavetal.hr
+ne-pok.hr
 neckermann.hr
 nicole-nicole.hr
 nsds.hr
@@ -70,6 +72,7 @@ pubweb.carnet.hr
 qcstrtvt.bloger.index.hr
 rajanpromet.hr
 rem-b.hr
+rex.com.hr
 rfd-split.hr
 runtic.com.hr
 savjetodavna.hr

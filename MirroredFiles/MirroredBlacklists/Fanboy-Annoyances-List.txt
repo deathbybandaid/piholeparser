@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: R+yTXDqEq00+GgyyDoJy5w
-! Version: 202010020021
+! Checksum: Fr+QMMfGFqXNZOW9Byf4ug
+! Version: 202010030021
 ! Title: Fanboy's Annoyance List
-! Last modified: 02 Oct 2020 00:21 UTC
+! Last modified: 03 Oct 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -32154,6 +32154,7 @@ _site_cookie_
 ##.sh-cookie-dialog
 ##.shareaholic-cookie-consent
 ##.shared-alert__cookie
+##.shb-accept-cookies-box
 ##.show-cookie-consent
 ##.show-cookie-policy
 ##.show-cookie-popup:not(body):not(html)
@@ -32288,6 +32289,7 @@ _site_cookie_
 ##.tc-cookie-banner
 ##.tc-cookies-alerta
 ##.tc-privacy-banner
+##.tc-privacy-overlay
 ##.tcCookiesDialogWrapper
 ##.tcu-cookies-dpgr-banner
 ##.tealium-cookie-banner
@@ -32779,6 +32781,7 @@ _site_cookie_
 ##div[data-etsy-promo-cookie-expires]
 ##div[data-gdpr-consent-prompt]
 ##div[data-id="cookieBar"]
+##div[data-id="cookie_dialog"]
 ##div[data-is-cookieinfo]
 ##div[data-module="cookie_banner"]
 ##div[data-nconvert-cookie]
@@ -39538,6 +39541,7 @@ japantimes.co.jp##.icon-printer
 goutsa.com##.icon1
 goutsa.com##.icon2
 lindeus.com##.iconButtonBig
+msn.com##.iconListVertical-DS-unknown1-1
 businessinsider.com,clearspring.co.uk,imgur.com,liliputing.com,photofunia.com,thehackernews.com,toyokeizai.net##.icons
 rocketleague.com##.icons-list
 clearspring.co.uk##.icons-top
@@ -40467,6 +40471,7 @@ askthepsych.com###cks
 desktopwallpapers4.me,ouchpress.com###clayer
 tvguide.co.uk###cmpbox
 crash.net,nationwideinternational.com,thederbyshire.co.uk###cn
+cnbc.com###cnbcgdpr
 dnaindia.com,india.com###co-container
 gpuopen.com###colophon
 evaair.com,play.tv###colorbox
@@ -40785,6 +40790,7 @@ elitedaily.com##.bp
 brainandlife.org##.breaking-container
 handy-games.com##.bugme
 jobs.ch,jobup.ch##.c-alert
+skygroup.sky##.c-banner-shadow
 rebirth-hannover.de,werum.com##.c-callout
 index.co##.c-consent-manager
 ii.co.uk##.c01194
@@ -41717,6 +41723,7 @@ _iscriviti_alla_newsletter.
 ||player.pulsemediatv.com^$third-party,domain=~bwin.tv
 ||player.streamshow.it^$third-party
 ||publy.com^$third-party
+||retewebitalia.net/banner/$third-party
 ||reviews.shoppydoo.it^$third-party
 ||sapere.it^*_slimheader.
 ||secoloditalia.it^*/notify.
@@ -43955,6 +43962,7 @@ lostrillone.tv###informativa
 musicworks.it###infromativap
 vmmotori.it###ll_banner
 programmitv.it###mag
+giuntiscuola.it###mandatoryMessageContainer
 marbaro.it###marbaro_cookielaw_banner
 iit.it###messageContainer
 molgroupitaly.it###mgit_notification

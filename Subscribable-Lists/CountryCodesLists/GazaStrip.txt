@@ -2,6 +2,7 @@ ajmal.ps
 alasseel.ps
 almahsiri.ps
 alqistas.ps
+alqudsi-home.ps
 awtar.ps
 bubbles.ps
 charm.ps
@@ -9,6 +10,7 @@ cst-kh.edu.ps
 diabetespal.ps
 ebay.de.sada.ps
 elastal.ps
+email.undp-fakhoora.ps
 freedom.ps
 gazacham.ps
 init.ps

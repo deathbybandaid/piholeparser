@@ -1,3 +1,4 @@
+acacia.com.py
 agrepres.com.py
 alquileres.com.py
 altaja.com.py
@@ -8,6 +9,7 @@ belleenfance.com.py
 biomass.com.py
 bohemeflores.com.py
 cambiosrioparana.com.py
+carlitos.com.py
 carloscasadosa.com.py
 casawireless.com.py
 central.edu.py
@@ -19,7 +21,6 @@ dante.edu.py
 denuncias-vih.org.py
 elenaprono.com.py
 equisa.com.py
-esmart.com.py
 estudiorivas.com.py
 fluoder.com.py
 fpuna.edu.py
@@ -29,6 +30,7 @@ handrug.com.py
 iab.una.py
 ignacio.com.py
 incofrio.com.py
+iris.unca.edu.py
 jadema.com.py
 kidco.com.py
 laboratorioriera.com.py

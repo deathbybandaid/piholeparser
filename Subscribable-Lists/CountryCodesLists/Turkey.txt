@@ -141,6 +141,7 @@ avsa-adasi.gen.tr
 ayancikmuftulugu.gov.tr
 aydin-transfer.biz.tr
 aydproduction.com.tr
+ayfira.com.tr
 ayhanceylan.av.tr
 aysamturizm.com.tr
 aysekaya.com.tr
@@ -169,10 +170,10 @@ berkyilmaz.com.tr
 bervin.com.tr
 bestpa.com.tr
 besttasimacilik.com.tr
+beta.websepet.com.tr
 betokont.com.tr
 beyraf.com.tr
 bg.com.tr
-biais.com.tr
 bianca.com.tr
 bigblue.com.tr
 bilgenelektronik.com.tr
@@ -256,6 +257,7 @@ divakozmetik.com.tr
 diyetyemek.com.tr
 dizaynasansor.com.tr
 dmgkagit.com.tr
+dnztasimacilik.com.tr
 dodem.com.tr
 dogaca.com.tr
 dogitur.com.tr
@@ -626,7 +628,6 @@ sayac.hurriyet.com.tr
 sdd.com.tr
 sebatmobilya.com.tr
 selammarket.com.tr
-selimyildiz.com.tr
 senka.com.tr
 senollarturizm.com.tr
 sensellojistik.com.tr
@@ -708,6 +709,7 @@ totemguvenlik.com.tr
 tr.alzaminilac.com.tr
 truva2007.com.tr
 ttnet.yandex.com.tr
+tugrulgulenc.com.tr
 tunamim.com.tr
 tunca.bel.tr
 tursaf.org.tr

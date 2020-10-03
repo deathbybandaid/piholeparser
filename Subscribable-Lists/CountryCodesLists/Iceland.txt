@@ -11,6 +11,7 @@ birta.stats.is
 bittrex.is
 bks.is
 boksala.is
+bre.is
 bronco.is
 cannabiscanada.is
 cdn.ns2.skima.is
@@ -22,6 +23,7 @@ dutyfree.is
 eldamennska.is
 enorma.is
 events.antenna.is
+felaggeislafraedinga.is
 finearticeland.is
 fr.kano.is
 geoip.taskforce.is

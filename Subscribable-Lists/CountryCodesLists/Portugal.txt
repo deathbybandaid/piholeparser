@@ -173,6 +173,7 @@ ikwyd.analytics.sapo.pt
 impressoras-cartoes.com.pt
 inaceinox.pt
 indumel.pt
+instalserie.pt
 iridecor.pt
 jf-camarate-unhos-apelacao.pt
 jf-palmeira.pt
@@ -318,12 +319,14 @@ tdf1.vente-unique.pt
 teiamais.pt
 tempanalise.pt
 teoriasreais.pt
+terra-dal-gharb.pt
 test.joaopluis.pt
 teste.hoonicorns.pt
 testesfuncionais.pt
 tipografiacouto.pt
 tipografiaformosa.pt
 tophoras.hoonicorns.pt
+toursedestinos.pt
 tracker.publico.pt
 tracker.remp.impresa.pt
 traditionalfoodcongress.ipvc.pt

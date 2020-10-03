@@ -149,6 +149,7 @@ odoo.neoalchemy.co.ke
 officeinteriors.co.ke
 oliverfamilyagency.co.ke
 onedrive.shalomsingles.co.ke
+online.absakenya.co.ke
 orchidhomeskenya.co.ke
 orthodoxhospital.co.ke
 pacuniversity.ac.ke
@@ -210,6 +211,7 @@ tdconsulting.co.ke
 techcrunch.co.ke
 techies.co.ke
 technowood.co.ke
+theculture.co.ke
 thekenyancreative.co.ke
 therabreath.co.ke
 therationalafrican.co.ke

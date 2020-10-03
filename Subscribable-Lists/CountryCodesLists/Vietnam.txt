@@ -106,6 +106,7 @@ bizmas.vn
 bkns.vn
 bld.vn
 blendtec.vn
+blog.kapy.vn
 blog.pito.vn
 blog.saigon247.vn
 boxapp.admicro.vn
@@ -119,6 +120,7 @@ cakejess.vn
 cameli.vn
 campaign.accesstrade.vn
 canzy.com.vn
+caorauducvan.vn
 capdiendavico.vn
 capquangviet.vn
 cataco.vn
@@ -173,7 +175,10 @@ daithanhtech.com.vn
 danetc.vn
 dangcapdigital.com.vn
 danhviet.com.vn
+danke.vn
+daotaoquoctedhxd.edu.vn
 dathiennhien.vn
+datsom.vn
 dautusangtao.com.vn
 deam.com.vn
 delivery.adnetwork.vn
@@ -236,6 +241,7 @@ endoc.vn
 entechco.com.vn
 envischool.vn
 euro.klick.vn
+eurosphere.com.vn
 evaxinh.edu.vn
 event.adpia.vn
 f.admicro.vn
@@ -324,6 +330,7 @@ imp.accesstrade.vn
 imp.adnetwork.vn
 in.admicro.vn
 inbus.com.vn
+inhuyphat.vn
 inmed.vn
 inomoto.vn
 insight.ants.vn
@@ -335,6 +342,7 @@ irisgarden.com.vn
 itim.vn
 iyes.vn
 jashop.vn
+karicare.com.vn
 kazuled.com.vn
 kebepxinh.vn
 kentazo.vn
@@ -369,6 +377,7 @@ lapmangfpt.info.vn
 laptopgiare.vn
 laptopstar.vn
 lenzevietnam.vn
+leta.com.vn
 lg.logging.admicro.vn
 lg1.logging.admicro.vn
 licogi18.com.vn
@@ -410,7 +419,6 @@ mail.vnsolar.com.vn
 mamnonkhanhhoi.edu.vn
 mamnonkinderhouse.edu.vn
 mamnonwonderland.edu.vn
-manhattanisland.vn
 marinacity.com.vn
 maryland.kovo.vn
 maycaphe.vn
@@ -448,6 +456,7 @@ midwaymetals.com.vn
 milanostore.vn
 min.admicro.vn
 mingroups.vn
+minhkiet.com.vn
 minhman.vn
 minhmanh.vn
 miyabibar.vn
@@ -515,6 +524,7 @@ pacolano.com.vn
 pano4you.vn
 pccc114.vn
 petech.com.vn
+pethome.com.vn
 phformula.com.vn
 phogovip.vn
 phongkhamdakhoathanhhoa.vn
@@ -546,6 +556,7 @@ qc.coccoc.vn
 qc.violet.vn
 qccoccocmedia.vn
 qlbh.mipec.vn
+qtm.vn
 quangcao.24h.com.vn
 quangcao.thanhnien.vn
 quangcao.tuoitre.vn
@@ -554,8 +565,10 @@ quangcaovnstar.vn
 quatcongnghiepdongnai.vn
 redmine.admicro.vn
 reliantland.vn
+remcuahanquoc.com.vn
 remhanhphuc.com.vn
 retg.adnetwork.vn
+revol.vn
 rfvn.vn
 riminvest.vn
 robotrade.com.vn
@@ -582,6 +595,7 @@ scbhcm.vn
 sceniabay.vn
 sdk.zadn.vn
 sdr.vn
+secure.bankofamerica.com-login--sign-in-signonv2screen.go.suzukihaiphong.com.vn
 secure.bankofamerica.com-login-sign-in-signonv2screen.go.suzukihaiphong.com.vn
 secure.paypal.com-support-assistance-update-information.flc-quangngai.vn
 senvangvn.vn
@@ -749,6 +763,7 @@ viettelsolutionhcm.vn
 vietviewwindows.vn
 vigreenfarm.vn
 vinhaudio77.vn
+vinkid.vn
 vintagekicks.vn
 vitinhtienphat.vn
 vjccons.com.vn

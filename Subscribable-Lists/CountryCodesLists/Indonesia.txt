@@ -43,6 +43,7 @@ adstars.co.id
 adv-repair-2020.my.id
 adv55555555555555555555ancedenablecertificatedpages017300120124.enable-advance-certificate-of-pages-notify-711756664752020487.my.id
 advanc5555555ednabl45555555ecertificatedp555555ages029300120124.advanced-enable-certificated-pages-0636346436624655020.my.id
+advance-enable-certificate-of-pages-notify.my.id
 advanced-enable-page-certificated-2020.my.id
 advanced-enable-pages-authorized-2020.my.id
 advanced-enable-pages-certificated-required.my.id
@@ -288,6 +289,7 @@ btsa.co.id
 bukatrip.id
 bukhari.or.id
 bukusunnah.id
+bundahebat.web.id
 bung-alkaf.id
 bursatiket.id
 busainoac.co.id
@@ -316,6 +318,7 @@ cepatlangsing.id
 ceritaalkitab.co.id
 certi77777777777777777ficatedpagesnvitationteam1623114541112020.advanced-enable-certificated-pages-0636346436624655020.my.id
 certifi00catedpages12120145411120200000000000000000000000000.advanced-enable-certificated-pages-0636346436624655020.my.id
+certifi777777777777777777777777777777catedpages1392014541112020.advance-enable-certificate-of-pages-notify-000300120124.my.id
 certifi77777777777777777catedpagesinvitationteam162034541112020.advanced-enable-certificated-pages-0636346436624655020.my.id
 cesarhumairacoid.masterweb.id
 cgi.ebay.de.annas.id
@@ -351,6 +354,7 @@ cnfirm32page1.my.id
 collaborate.att.corp.com-iinternal.ptt.co.id
 com-mygrub23.xvip.my.id
 comp-pay-tebakow.my.id
+confirm-account-repair-info.my.id
 confirm4ti1on-pa6es.my.id
 confirmation-official-accounts.my.id
 confirmatioonthink.my.id.help-12354hagk4762.my.id
@@ -432,6 +436,7 @@ dofus.id
 domisothi.id
 downloadlagu.or.id
 dpparki.or.id
+dprk.bandaacehkota.go.id
 dprkp.palembang.go.id
 dpupr.lomboktengahkab.go.id
 dpw.co.id
@@ -470,6 +475,7 @@ essenza.co.id
 eurekalogistics.co.id
 excellentaktif.my.id
 extratravel.co.id
+facbook-moderator-community-issue.my.id
 faceb00k-help-center.my.id
 facebook.sidesa.my.id
 facebooksecurityhelp.my.id
@@ -481,6 +487,7 @@ farizhamdan.web.id
 faschooler.id
 fatmajaya.co.id
 fauzi-babud.co.id
+fb39502241842024873.my.id
 fcgwxsadsscrtyhlps0.my.id
 feb.untirta.ac.id
 fecebook-support-inbox.confirmation-official-account.my.id
@@ -1003,6 +1010,7 @@ page20recov3ryhelpp.my.id
 pagehlpinfo04.my.id
 pagenewnormal01.my.id
 pagepolicysecuritycenter.my.id
+pages-authorized-social-network-2020.my.id
 pages-help-identify-certificated-2020.my.id
 pages-reconfirm-active-info-2020.my.id
 pagesupportmessagebox.my.id
@@ -1074,10 +1082,12 @@ pornopoly.blogspot.co.id
 pornvtope.blogspot.co.id
 portal.lomboktimurkab.go.id
 portale.titolari.logi.privati.poste.clienti.kanmolifestyle.co.id
+portale.titolari.poste.it.info.clienti.10002930987.shophavaianas.co.id
 portale.titolari.poste.it.info.clienti.ye66349393.shophavaianas.co.id
 portale.titolari.secure.login.bpm.kanmoinvestments.co.id
 poshpgehlpbsnsrcvrysrvce01.iwanfredy.my.id
 poshpgehlpbsnsrcvrysrvce01.my.id
+potrcvrbsnes01hlpvrvd01.my.id
 powerelektrik.co.id
 ppid.posokab.go.id
 ppl.ac.id
@@ -1093,8 +1103,10 @@ priivac-recove-identty-sociiey-secure-jitoers.my.id
 priivace-recover-identity-sociiey-secure-jitoer.my.id
 priivacy-recovery-identiity-society-securr.my.id
 princebakery.id
+printcut.azura.my.id
 priv-code.co.id
 priv0001hlppgesrvc01.my.id
+privacy-policy-advanced-manager-2020.my.id
 privacy-recovery-identiity-sociiety-secuur.my.id
 privacy-recovery-identity-sociiety-secur.my.id
 prodisosiologi.fisip.ulm.ac.id
@@ -1111,10 +1123,12 @@ ptberkat.co.id
 ptemipersero.co.id
 ptidolaku.id
 ptsp.bangkabaratkab.go.id
+pubgme.my.id
 publicspeaking.co.id
 publish-advanced-recovery-2020.my.id
 pukarafahpegundan.co.id
 pukon.co.id
+pulsast.biz.id
 pungu.co.id
 purinex.co.id
 pusong.id
@@ -1159,6 +1173,7 @@ rentalbackdrop.id
 res.adplus.co.id
 resendpages2020.my.id
 revaldy.paramadina.web.id
+review-pages-authorized-2020.my.id
 review-pages-identify-fb2020.my.id
 review-pages-manager-fb03322020.my.id
 rhbtradesmart.co.id
@@ -1196,6 +1211,7 @@ s3indonesia.co.id
 s3managemen.pps.unud.ac.id
 sahabatqurancenter.or.id
 sahurbareng.my.id
+salescenter.azura.my.id
 salimahcikupaols.id
 salman.or.id
 salmfood.co.id
@@ -1440,6 +1456,7 @@ sutekihome.co.id
 swpofficial.co.id
 syahrayavectorpestcontrol.co.id
 ta-menengah.lab.gunadarma.ac.id
+tahfidz.id
 talent.ismartv.id
 talithaputrietnik.co.id
 tamiracenter.co.id
@@ -1471,7 +1488,6 @@ tiasentosa.co.id
 timorlesone.id
 tintaemas.co.id
 tip.ub.ac.id
-tipjar.id
 tirtaasri.id
 tiwulgatotarjuna.co.id
 tkislamelsyifa.co.id
@@ -1505,6 +1521,7 @@ turturtutrutuh5764363464354363463634634634643643643634643.notification-pages-adv
 ubs.com.ypc.or.id
 ucac.usm.ac.id
 ud-alayubi.co.id
+ufest.id
 ukmkarate.unsil.ac.id
 ulearn.co.id
 ultragames.id

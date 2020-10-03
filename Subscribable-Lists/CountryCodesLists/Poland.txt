@@ -372,7 +372,6 @@ apolloadlv.hit.gemius.pl
 app2.salesmanago.pl
 append.pl
 applecanada.cba.pl
-apps-facebok.wex.pl
 aptbrylant.pl
 apteka2000.com.pl
 apteka2000.pl
@@ -556,6 +555,7 @@ bitcoin.fastlink.pl
 bittersweet.pl
 biuromono.pl
 biurowfb.pl
+biurowgs.pl
 biznesetykieta.pl
 blacklinepartners.pl
 blaha.pl
@@ -699,6 +699,7 @@ city24.you2.pl
 clean-service.waw.pl
 cleanupit22p.xorg.pl
 clearenergy.pl
+clevert.pl
 click-design.nazwa.pl
 click.waw.pl
 clickad.com.pl
@@ -801,6 +802,7 @@ darmowe-doladowania-uniia.ovp.pl
 darmowe-doladowania.net.pl
 darmowe-doladowanie.pl
 darmowe-ebooki.com.pl
+darmowe-ogloszenia.you2.pl
 darmowe-sms.pl
 darmowy-seks.pl
 dasch.pl
@@ -940,6 +942,7 @@ dotacje-swietokrzyskie.pl
 dotacje-warminsko-mazurskie.pl
 dotacje-wielkopolskie.pl
 dotacje-zachodniopomorskie.pl
+doteros.cba.pl
 doto.com.pl
 dotpay.e-pocztex.pl
 dotpay.epaybylink.pl
@@ -1430,6 +1433,7 @@ firesub.pl
 firma-malarska-poznan.pl
 firmaza1grosz.pl
 firmyb2b.pl
+fitstory.pl
 fixlab.pl
 fizjo-factory.pl
 fizjodent.lebork.pl
@@ -1531,12 +1535,14 @@ galb.hit.gemius.pl
 galeria-nagosci.ct8.pl
 galeriaanna.pl
 galeriakamienica.pl
+galeriaweb.pl
 galindia.hit.gemius.pl
 galserwis.pl
 galt.hit.gemius.pl
 galv.hit.gemius.pl
 gambit.nysa.com.pl
 gamd.hit.gemius.pl
+gamecenter.com.pl
 gamk.hit.gemius.pl
 gangzalbani.pl
 gapl.hit.gemius.pl
@@ -2095,6 +2101,7 @@ imultinetruby.pl
 inaczasie.pl
 inagrody.pl
 indexhu.adocean.pl
+indian-first.pl
 inetcoviplive.pl
 inetcoviplux.pl
 inetcovipstar.pl
@@ -2604,6 +2611,7 @@ mark-moto.com.pl
 market.bia24.pl
 marketing.tr.netsalesmedia.pl
 marketplace.ofeminin.pl
+markolor.pl
 martdiamonds.pl
 masarnia-rolka.pl
 maslo24.pl
@@ -2680,6 +2688,7 @@ mieszkaj-na-swoim.pl
 mieszkania-pokoje-wynajem.pl
 mieszkaniaczernica.pl
 mikolaj.konstruktorzy-robotow.pl
+milaauto.pl
 milano.koscian.pl
 milesaway.pl
 min1.coinmine.pl
@@ -2768,6 +2777,7 @@ mundialove.pl
 murzynki.sexraj.pl
 muszynskiejadlo.pl
 muzykomani.pl
+my-py.pl
 my.adocean.pl
 myaf.pl
 myaff.pl
@@ -3454,6 +3464,7 @@ ppl3.pl
 praca-dla-ciebie.co.pl
 praca-info.co.pl
 praca-logowanie-4.ct8.pl
+praca-zaloguj-3.ct8.pl
 pracaonline.co.pl
 pracowniaciala.pl
 pracowniazazieleniania.pl
@@ -5015,7 +5026,6 @@ wyklej.pl
 wykop.hit.gemius.pl
 wykop.net.pl
 wyleczpc.pl
-wypadek.evai.pl
 wypadki24.e-kei.pl
 wypozyczalnia-gorakalwaria.pl
 wypozyczgo.com.pl

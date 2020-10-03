@@ -1,3 +1,4 @@
+20200911122447.susaa.lk
 afastandard.lk
 aiunion.lk
 albarakha.lk
@@ -24,7 +25,6 @@ craftscouncil.gov.lk
 creative.lk
 dawoodibohras.lk
 decon.lk
-dimoacademy.lk
 dlb.lk
 doctormobile.lk
 dscsc.lk
@@ -59,6 +59,7 @@ lvision.lk
 magento.lk
 manjulahandapangoda.lk
 mapiyawandana.lk
+marketinginsights.lk
 mintage.lk
 mmms.lk
 mobo.lk
