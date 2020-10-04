@@ -8058,7 +8058,6 @@ c-und-d.de
 c.computerbild.de
 c.perlentaucher.de
 c.spiegel.de
-c.t-online.de
 c.t4ft.de
 c.thecounter.de
 c1.thecounter.de

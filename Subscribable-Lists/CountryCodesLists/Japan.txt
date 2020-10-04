@@ -601,7 +601,6 @@ esubse.jp
 ethicalive.jp
 etool.rakuten.co.jp
 eusekkei.co.jp
-event.notifier.rakuten.co.jp
 exabody.jp
 excel-propolis.co.jp
 exec18.jp
@@ -1007,6 +1006,7 @@ ln.ameba.jp
 locksmith.jp
 log-in1.jp
 log-marketing.jp
+log.gs3.goo.ne.jp
 log.nordot.jp
 log.shipweb.jp
 log.suumo.jp

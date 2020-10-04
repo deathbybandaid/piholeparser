@@ -588,7 +588,6 @@ log.adap.tv
 log.internetat.tv
 log.ren.tv
 log.sv.pandora.tv
-log.wat.tv
 loqilogu.co.tv
 lovedoll.tv
 loveloc.medma.tv
