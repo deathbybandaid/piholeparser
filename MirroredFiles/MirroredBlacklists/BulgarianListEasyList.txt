@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202010042329
+! Version: 202010052229
 ! Title: EasyPrivacy
-! Last modified: 04 Oct 2020 23:29 UTC
+! Last modified: 05 Oct 2020 22:29 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8332,10 +8332,12 @@ _mongo_stats/
 ||shroughtened.com^$third-party
 ||sm-epsilon.com^$third-party
 ||snd.tc^$third-party
+||truenat.bid^$third-party
 ||truepush.com^$third-party
 ||urbanairship.com^$third-party
 ||viapush.com^$third-party
 ||webpu.sh^$third-party
+||wnpbdan.bid^$third-party
 ||wonderpush.com^$third-party
 ||wwclickserv.club^$third-party
 ||wwclicktm.club^$third-party
@@ -13493,6 +13495,7 @@ _mongo_stats/
 ||ebay-us.com/fp/
 ||ebay.com/op/t.do?event
 ||ebayobjects.com/*;dc_pixel_url=$image
+||ebaystatic.com/pictures/aw/pics/s_1x2.gif
 ||ebaystatic.com^*/agof_survey_
 ||ebaystatic.com^*/iam_
 ||economist.com/geoip.php
@@ -14441,6 +14444,7 @@ _mongo_stats/
 ||playstation.net/event/
 ||plentyoffish.com/tracking.js
 ||pnet.co.za/js/ga.js
+||pocket-lint.com/media/pf304.js
 ||pokernews.com/track-views.php?
 ||poki.com/observer/
 ||policeone.com/stat/
@@ -16578,7 +16582,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||hisense.com/ta.js
 ||ifeng.com/i?p=
 ||imgstat.baidu.com^
-||jcm.jd.com^
+||jcm.jd.com^$script,third-party
 ||jiayuan.com^*/pv.js
 ||js.kuwo.cn/stat/
 ||js.sohu.com/track/

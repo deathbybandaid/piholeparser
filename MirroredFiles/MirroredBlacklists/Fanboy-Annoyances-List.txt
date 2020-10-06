@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: DAgfQZR11NVShGiToPEZ4A
-! Version: 202010050021
+! Checksum: y4xnwO5gsNwOOMpRvn3+Ag
+! Version: 202010060021
 ! Title: Fanboy's Annoyance List
-! Last modified: 05 Oct 2020 00:21 UTC
+! Last modified: 06 Oct 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -33494,10 +33494,12 @@ _site_cookie_
 ||shroughtened.com^$third-party
 ||sm-epsilon.com^$third-party
 ||snd.tc^$third-party
+||truenat.bid^$third-party
 ||truepush.com^$third-party
 ||urbanairship.com^$third-party
 ||viapush.com^$third-party
 ||webpu.sh^$third-party
+||wnpbdan.bid^$third-party
 ||wonderpush.com^$third-party
 ||wwclicknews.club^$third-party
 ||wwclicktm.club^$third-party
@@ -40853,6 +40855,7 @@ refinitiv.com##.dismissible-banner
 bbc.com##.domestic-header-wrapper
 mla.org##.donate-banner
 vesselfinder.com##.downfooter
+buffcoach.net##.dsgvowpplugin-globaloptin
 msnbc.com##.dy_full_width_notifications_container
 egym.com##.egym-prompt
 voat.co##.eppnotice
@@ -45408,7 +45411,7 @@ digg.com#@#div[id^="digg-widget-"]
 intersport.dk,intersport.es,intersport.nl#@##CookiePopup
 sportdiver.com#@##CybotCookiebotDialog
 online.no,telenor.no#@##__tealiumGDPRcpPrefs
-online.no,telenor.no#@##__tealiumGDPRecModal
+mediamarkt.de,online.no,saturn.de,telenor.no#@##__tealiumGDPRecModal
 popsugar.co.uk#@##_evidon-background
 popsugar.co.uk#@##_evidon-barrier-wrapper
 etonline.com,popsugar.co.uk,popsugar.com,popsugar.com.au#@##_evidon_banner

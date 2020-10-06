@@ -1242,7 +1242,6 @@ isgprivacy.cbsi.com
 itracking.fccinteractive.com
 iwa.iplsc.com
 javascriptcounter.appspot.com
-jcm.jd.com
 jelly.mdhv.io
 jppolid-track.trackprod.integration.jppol.dk
 js-agent.newrelic.com
