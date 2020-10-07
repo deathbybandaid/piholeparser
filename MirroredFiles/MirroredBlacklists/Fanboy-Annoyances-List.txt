@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: y4xnwO5gsNwOOMpRvn3+Ag
-! Version: 202010060021
+! Checksum: 0dEJxF4VtxLtQpx4l1MZjw
+! Version: 202010070021
 ! Title: Fanboy's Annoyance List
-! Last modified: 06 Oct 2020 00:21 UTC
+! Last modified: 07 Oct 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -30976,6 +30976,7 @@ _site_cookie_
 ##.huawei-cookie
 ##.hv_privacy_prompt
 ##.hw-cookie-popup
+##.hx_cookie-banner
 ##.hz-consents-banner
 ##.hz-visitor-consents
 ##.i-am-ok-with-cookies
@@ -41255,6 +41256,7 @@ indiatimes.com##.consent-popup
 hypable.com##.cookie-bar
 mashable.com##.cookie-notice
 allmusic.com##.cookie-policy-box
+github.com##.hx_cookie-banner
 rp-online.de##.park-snackbar-cookies
 walmart.ca##.privacy-open > div > [class] > div[class^="css"]
 ! Multi-national sites
@@ -41967,8 +41969,9 @@ assologico.it##.scrollbutton
 ilsole24ore.com##.scta
 biografieonline.it##.section-footer-nl
 nazarenogabrielli.it##.shopress_scroll
+astrospace.it##.sib_signup_box_inside_2
 ilfattoquotidiano.it##.side-arrow
-motori.net,tavoloeditoriradio.it##.sm-up-container
+motori.net,siciliaoggi.com,siciliapress.it,tavoloeditoriradio.it##.sm-up-container
 calciomercato.com,sky.it##.smartbanner
 ilglobo.com.au,ilpost.it,lafiamma.com.au##.subscribe
 2night.it##.subscribe-article
@@ -41992,7 +41995,7 @@ travelnostop.com##.toup
 americantourister.it##.ui-widget-overlay
 lifestyleblog.it,lospecialista.tv##.widget_mailpoet_form
 lospecialista.tv##.widget_specialert
-secoloditalia.it##.widget_wpmailup_widget
+melarossa.it,secoloditalia.it##.widget_wpmailup_widget
 vitatrentina.it##.wpdiscuz-front-actions
 inpharmamag.it##.wptbbarheaddiv
 corriere.it##a[href*="/newsletter"]
@@ -42948,6 +42951,7 @@ quickparking.it##.soc-icon-container
 affaritaliani.it,altroconsumo.it,angeloparodi.it,angolotesti.it,aruba.it,askanews.it,assopoker.com,auto.it,avivaitalia.it,banca5.com,bancaprivataleasing.it,bioisotherm.it,borsadelcredito.it,cdt.ch,cielotv.it,cipiacecucinare.it,cittametropolitanaroma.gov.it,coopcasarsa.it,corriere.it,corrierecomunicazioni.it,creditosportivo.it,deabyday.tv,diariodelweb.it,eurogamer.it,euronics.it,europages.it,eurospin.it,famigliacristiana.it,finanzaonline.com,fm-world.it,giornaledibrescia.it,grandhotel-et-des-palmes.com,gse.it,hdmotori.it,html.it,ilgiornale.it,ilpopulista.it,ilposticipo.it,ilsole24ore.com,ilsussidiario.net,inmoto.it,istat.it,italiaoggi.it,ivid.it,kataweb.it,lasicilia.it,legacoop.coop,liberoquotidiano.it,linkiesta.it,luinonotizie.it,mader.bz.it,magnoliatv.it,mdspa.it,mediagol.it,mediocredito.it,meetingrimini.org,milanofinanza.it,monovolume.cc,moto.it,motorionline.com,mtv.it,naturalborngamers.it,norbaonline.it,nurse24.it,olivetti.com,opinione.it,pneusnews.it,proiezionidiborsa.it,qualenergia.it,radiocitymilano.it,ravennanotizie.it,regione.piemonte.it,repubblica.it,rmcsport.net,rollingstone.it,roncadin.it,rossopomodoro.it,sardiniapost.it,scorpionbay.com,sorgenia.it,suzuki.it,tari.it,testimania.com,tuttomercatoweb.com,unica.it,units.it,vg247.it,vitatrentina.it,viveregiovani.it,vortice.it,wallstreetitalia.com##.social
 davinotti.com##.social__variant
 investireoggi.it##.social_menu
+salepepe.it##.sp2015-footer-social
 gametimers.it,ilsicilia.it,kontrokultura.it,topicnews.it##.ss-ic
 tuttomercatoweb.com##.telegram
 agensir.it##.temporary-skin-adv
@@ -43592,6 +43596,7 @@ leclercdrive.fr##.pWCTD609_BandeauCookies
 monavislerendgratuit.com##.policy
 symfrance.com##.policy-window
 nh-hotels.fr##.politicaRewards
+mabanque.bnpparibas##.popin-cache
 mesampoulesgratuites.fr##.popup
 huffingtonpost.fr##.popup-overlay
 directours.com,explicite.info##.privacy
@@ -45213,7 +45218,7 @@ dallascowboys.com,golem.de,patriots.com,prk24.pl,top.de#@#.social-bar
 funnyordie.com#@#.social-bar-container
 adgully.com,chillitorun.pl,ecoustics.com,espansionetv.it,flyertalk.com,galaxydata.ru,ivid.it,onovini.com,rta24.eu,saydigi-tech.com,stw24.pl,torrechannel.it,vonguru.fr,wahl-o-mat.de#@#.social-bottom
 bitbucket.org,foodit.com,paypal.com,tvspielfilm.de#@#.social-box
-buzzerie.com,gog.com,poradnikprzedsiebiorcy.pl,udemy.com#@#.social-btn
+buzzerie.com,gog.com,hackerrank.com,poradnikprzedsiebiorcy.pl,udemy.com#@#.social-btn
 chess.com#@#.social-btns
 4shared.com,disqus.com,fastcompany.com,golem.de,nu.nl#@#.social-button
 adevarul.ro,airbnb.cat,airbnb.com,airbnb.de,airbnb.it,bilingua.io,cheezburger.com,musixmatch.com,nu.nl,ozy.com,tipranks.com#@#.social-buttons
@@ -45784,6 +45789,7 @@ yoigo.com#@#thor-cookies
 @@||cookielaw.org/consent/$other,xmlhttprequest
 @@||cookielaw.org/scripttemplates/$script,xmlhttprequest,domain=cbslocal.com|cnet.com|epicgames.com|eurogamer.net|trustpilot.com|zdnet.com
 @@||cookielawinfo.com^$~third-party
+@@||cookist.com^*/remote-gdpr.min.js
 @@||costa.co.uk/js/libs/cookieconsent.min.js
 @@||drivetribe.com/*/homepage-cookie-dialog.js
 @@||easygreenenergy.at/js/lib/cookieconsent.js$script,~third-party
@@ -45840,8 +45846,8 @@ yoigo.com#@#thor-cookies
 @@||candidat.pole-emploi.fr^*/modules/jquery-eu-cookie-law-popup.js$script
 @@||cdn.rp.pl/cmp/cmp.min.js
 @@||cdp.pl/skin/*/cookies.js
-@@||ciaopeople.it^*/remote-gdpr.$script,domain=cookist.it|fanpage.it|ohga.it
-@@||ciaopeople.it^*/sdk-gdpr.$script,domain=cookist.it|fanpage.it|ohga.it
+@@||ciaopeople.it^*/remote-gdpr.$script,domain=cookist.com|cookist.it|fanpage.it|ohga.it
+@@||ciaopeople.it^*/sdk-gdpr.$script,domain=cookist.com|cookist.it|fanpage.it|ohga.it
 @@||cloudflare.com^*/cookieconsent.min.js$domain=bab.la|firkloveren.no|satkurier.pl
 @@||cloudfront.net/js/cookie-banner-gdpr/app.min.js?$script,domain=cn.nytimes.com
 @@||components2.rcsobjects.it/rcs_cpmt/v1/distro/youreporter_ct.js$domain=youreporter.it
@@ -46172,6 +46178,7 @@ yoigo.com#@#thor-cookies
 @@||hopper.com/static2/w2/images/google-$domain=hopper.com
 @@||hotflick.net^*-social-$image
 @@||hotflicknet.s3.amazonaws.com^*-social-$image
+@@||hrcdn.net/community-frontend/assets/$image,domain=hackerrank.com
 @@||hrwiki.org^*youtube.png
 @@||huffpost.com/assets/js.php?*-pinterest.js
 @@||huffpost.com/images/social-profile/lightbox/snn_lightbox_close.png
