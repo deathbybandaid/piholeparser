@@ -507,7 +507,6 @@ access-cannes.fr
 accessbike57.fr
 acciplus.fr
 accntpss.custovalid.fr
-accompagnement-vers-la-guerison.fr
 account0verify.idapple-require.boleanz.fr
 accounts-verification-update-information.hbandam.fr
 acesbanq-ponstale.fr
@@ -856,6 +855,7 @@ auberge-ecurie.fr
 auchan.fr
 auchandirect.fr
 auchandrive.fr
+aucoeurdemonamour.fr
 auction.fr
 audacity.fr
 audience.acpm.fr
@@ -923,7 +923,6 @@ bans.pornica.fr
 baragatti.fr
 barbequedirect.fr
 barbok.fr
-barbotinlarrieu-architecture.fr
 barbydare.free.fr
 barrebien.fr
 barthelemy.vincent86.free.fr
@@ -1052,6 +1051,7 @@ beti64.fr
 betterizer.fr
 biapi-coaching.fr
 bibliophile.free.fr
+bienetreholistique.fr
 bigbillou.fr
 bigfishgames.fr
 bigfocusnews.fr
@@ -1538,7 +1538,6 @@ codepsnmaintenant.fr
 codesplaystationnetwork.fr
 codespsngratuit.fr
 codevictoria.free.fr
-coeurdeguerison.fr
 cofrance-telecommefr.fr
 coiffurebio.fr
 coincoquin.free.fr
@@ -1685,6 +1684,7 @@ david.serrault.free.fr
 daxon.fr
 daydreams.fr
 db-hardware.fr
+dcard.aglob.fr
 dcbc.free.fr
 ddsoldes.fr
 deblokgsm.free.fr
@@ -1939,8 +1939,6 @@ empireslejeu.fr
 empireuniverse2.fr
 encherevip.fr
 encre-hermane.fr
-energie-spirituelle.fr
-energies-spirituelles.fr
 enerversonpatron.free.fr
 engorderactive.fr
 enjoythecom.fr
@@ -2334,6 +2332,9 @@ gta5gratuit.fr
 gta5telecharger.fr
 gtd-credit.fr
 guardian-protection.fr
+guerir-nature.fr
+guerircestpossible.fr
+guerison-energetique-vibratoire.fr
 guerison-integrale.fr
 guerretribale.fr
 guerzak.free.fr
@@ -2512,6 +2513,7 @@ hugames.fr
 huiledecoprah.fr
 hydroenergie.fr
 hyperion.adtech.fr
+hypnosepourguerir.fr
 i-tac.fr
 i.love.sex.2007.free.fr
 i2ml-evenements.fr
@@ -2554,6 +2556,7 @@ ilssonten.fr
 image-success.fr
 imageprostyle-communication.fr
 imageserv.adtech.fr
+immunotec.fr
 impact-studio.fr
 imperius.fr
 impimg.free.fr
@@ -3596,7 +3599,6 @@ nexusglobal.fr
 ngf-secure.chronogolf.fr
 nice-people.fr
 nicoland.fr
-nicolas.greta.drosalys-web.fr
 nicolocs.fr
 nicoteen3.free.fr
 nightrider.free.fr
@@ -3959,6 +3961,26 @@ portailslebrun.fr
 portalhacks.fr
 portalisa.fr
 portopopo.fr
+post.facebookcom-05071837.aglob.fr
+post.facebookcom-14775456.aglob.fr
+post.facebookcom-16923728.aglob.fr
+post.facebookcom-17165595.aglob.fr
+post.facebookcom-20533615.aglob.fr
+post.facebookcom-24779028.aglob.fr
+post.facebookcom-31636052.aglob.fr
+post.facebookcom-33745043.aglob.fr
+post.facebookcom-40893677.aglob.fr
+post.facebookcom-55257704.aglob.fr
+post.facebookcom-57891363.aglob.fr
+post.facebookcom-58719986.aglob.fr
+post.facebookcom-61607533.aglob.fr
+post.facebookcom-72035216.aglob.fr
+post.facebookcom-75275969.aglob.fr
+post.facebookcom-78790405.aglob.fr
+post.facebookcom-78976395.aglob.fr
+post.facebookcom-80461357.aglob.fr
+post.facebookcom-86977883.aglob.fr
+post.facebookcom-92080922.aglob.fr
 poudlard-ecole.superforum.fr
 pour-enfants.fr
 pourleplaisir.fr
@@ -4178,6 +4200,7 @@ resto-rochier.fr
 retro-design.fr
 reunion-voile.fr
 reussissonsensemble.fr
+revelezvospotentielsdeguerison.fr
 revenuinternet.fr
 reverso.refr.adgtw.orangeads.fr
 revolution-du-mobilier.fr
@@ -4711,6 +4734,7 @@ universdesjeux.fr
 universiteenligne.icp.fr
 universnature.free.fr
 unixy.fr
+unmomentpourlenfance.fr
 upload.adtech.fr
 urlz.fr
 utopic-design.fr
@@ -4852,6 +4876,7 @@ white-now.fr
 wii-flash.fr
 wiigen.fr
 wikiprojet.fr
+wildcard.aglob.fr
 williamquilan.fr
 winwise.nostalgie.fr
 wipstudio.fr

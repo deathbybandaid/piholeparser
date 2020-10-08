@@ -79,7 +79,6 @@ along.ro
 alpes.icgauth.cyberplus.banquepopulaire.fr.websso.bp.13807.emparecoin.ro
 alpreco.ro
 ambacart.ro
-amcouture.ro
 amedeea.ro
 amh.ro
 amoni.pisynailart.ro
@@ -163,6 +162,7 @@ bgs-bucharest2005.ro
 bijuteriistarmd.ro
 bikefm.ro
 billing-sep20-three-uk.stasmobila.ro
+billing-three.user-mobile.met-axa.ro
 bioinvestmedicalcenter.ro
 birthmark.go.ro
 biserica-ieud.ro
@@ -174,6 +174,7 @@ blajeana.ro
 blog.iondaniel.ro
 blog.petme.ro
 blog247.ro
+bogdannicolai.ro
 bogdanpeptine.ro
 bonbonboutique.ro
 boom.ro
@@ -420,7 +421,6 @@ fpse.cros.ro
 fr.westernunion.com.fr.fr.session-expired.html.trupaartizan.ro
 fra.ro
 frbadminton.ro
-freetobet.cristibrotea.ro
 frumoasafoc.ro
 frumuseanudaniela.go.ro
 fugitdeacasa.ro
@@ -568,6 +568,7 @@ mag33.icehost.ro
 magazin-bijuterii-unicat.ro
 magazin-fermier.ro
 magazinceai.ro
+magichost.ro
 magicnailsart.ro
 mailmarketer.ro
 mainfjryhdyhdsrv.ro
@@ -990,7 +991,6 @@ utransilvania.ro
 vacantela.ro
 valiumvalium.3xforum.ro
 vcalinus.gemenii.ro
-venetomedical.ro
 ventdepot.ro
 ventrust.ro
 verandainteriors.ro

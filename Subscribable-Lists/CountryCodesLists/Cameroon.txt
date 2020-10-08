@@ -27,7 +27,6 @@ mail.cnn.cm
 mail.poker.cm
 mail.target.cm
 minee.cm
-mupeci.cm
 ntas-store.cm
 omerta.cm
 onige.cm

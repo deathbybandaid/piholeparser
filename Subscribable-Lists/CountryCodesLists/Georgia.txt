@@ -67,12 +67,14 @@ login.drawbrid.ge
 manuscript.ge
 marketplace.drawbrid.ge
 mbsolutions.ge
+medianews.ge
 misc.drawbrid.ge
 mnsglobal.ge
 nanostyle.ge
 newmetekhi.ge
 now.ge
 officetechnologies.ge
+okbuilding.ge
 partners.drawbrid.ge
 pegas.ge
 phlogenzym.ge

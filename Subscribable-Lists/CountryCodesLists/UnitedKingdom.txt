@@ -52,6 +52,7 @@
 2wm7nc.lol.airporttaxipershore.co.uk
 2zdhoh.koll.pershoreairporttransfers.co.uk
 3-1-5.co.uk
+3-support.verifyhelps.co.uk
 31dea6.koll.pershoreairporttransfers.co.uk
 33drugs.co.uk
 38your-invoice.app-store22.store4clientsz.co.uk
@@ -564,6 +565,7 @@ audit.pcadvisor.co.uk
 auniqueart.co.uk
 aurorafinancing.co.uk
 austin-recruitment.co.uk
+austin-smith.co.uk
 australia-uggs.org.uk
 australianuggsaleuk.co.uk
 australianuggssaleuk.co.uk
@@ -747,6 +749,7 @@ bepuil.co.uk
 beryza.best.pershoretaxis.co.uk
 bespokehoodies.co.uk
 best-tek.co.uk
+bestcollectibles.co.uk
 bestdogdiets.co.uk
 bestgisjobs.co.uk
 bestkidding.co.uk
@@ -1309,6 +1312,7 @@ cheapwebs.co.uk
 cheapwintershoes.co.uk
 cheapzchanelbags.co.uk
 cheapzhollistersale.co.uk
+check-mypayees.co.uk
 checkinfo-ee.co.uk
 checkmybill-ee.co.uk
 checkmyinfo-ee.co.uk
@@ -1731,6 +1735,7 @@ dabdog.co.uk
 daemon.nu.crypto-daio.co.uk
 dahlinperingab.uk
 dailyecho-gb.dailyecho.co.uk
+daisyboots.co.uk
 dancehandle.co.uk
 dandawood.co.uk
 danielbarter.co.uk
@@ -1761,6 +1766,8 @@ dcanscapital.co.uk
 dcbutler.co.uk
 dck5h19edcevky0gdmkq.mbservicesyorkshire.co.uk
 dd48.co.uk
+de-register-device.co.uk
+de-register-newdevice.co.uk
 dealneed.co.uk
 dealnet4u.co.uk
 deangelis.co.uk
@@ -2740,19 +2747,27 @@ halesowennews-gb.halesowennews.co.uk
 halestelevision.co.uk
 halfnavigate.co.uk
 halfreview.co.uk
+halifax.authenticate-mypayee.co.uk
+halifax.authorise-mypayee.co.uk
+halifax.deregister-online.co.uk
+halifax.deregister-secure.co.uk
+halifax.deregister.co.uk
 halifax.instruction-security.co.uk
+halifax.manage-payee.uk
 halifax.mobile-banking.co.uk
 halifax.my-payees.co.uk
+halifax.my-secure-check.co.uk
 halifax.mypayee.co.uk
 halifax.online-unregister.co.uk
 halifax.online-verifypayee.co.uk
+halifax.payee-addition.co.uk
+halifax.payee-cancelsecurity.co.uk
 halifax.payee-reverse.co.uk
-halifax.payee-safe.uk
+halifax.payee-securitycancel.co.uk
 halifax.payee-systems.co.uk
+halifax.payee-withheld.co.uk
 halifax.payeecancellation.co.uk
-halifax.payeesafe.uk
 halifax.paymentview.co.uk
-halifax.safe-payee.uk
 halifax.safemy-payee.uk
 halifax.safepayee.uk
 halifax.secure-banking.co.uk
@@ -2760,6 +2775,7 @@ halifax.secure-instruction.co.uk
 halifax.securepayee.co.uk
 halifax.security-unregister.co.uk
 halifax.uk-unregister.co.uk
+halifax.verify-payees.co.uk
 halifaxportal.co.uk
 halifaxr.co.uk
 halsteadgazette-gb.halsteadgazette.co.uk
@@ -2798,6 +2814,7 @@ hasovi.co.uk
 hatadvocate.co.uk
 hatdoctor.co.uk
 hatsgood.co.uk
+havantsurveyors.co.uk
 havecoach.co.uk
 havecreate.co.uk
 hawkshead-croft.co.uk
@@ -2903,6 +2920,7 @@ hmrc.tax-rebate.uk
 hmrc.tax-reclaim.uk
 hmrc.tax-refund-form.uk
 hmrc.tax-reimbursement.uk
+hmrc.tax-reversal.co.uk
 hmrc.tax.auth-form.uk
 hmrcpayments.co.uk
 hmrebate.co.uk
@@ -3071,6 +3089,9 @@ hsbc.instruction-authenticate.co.uk
 hsbc.instruction-validate.co.uk
 hsbc.my-payee.co.uk
 hsbc.mysecurity-instruction.co.uk
+hsbc.new-payee.co.uk
+hsbc.new-payment.co.uk
+hsbc.new-request.co.uk
 hsbc.newpayee-request.co.uk
 hsbc.pay-reimburse.co.uk
 hsbc.payee-access.co.uk
@@ -3080,6 +3101,8 @@ hsbc.payee-authorise.co.uk
 hsbc.payee-cancel.uk
 hsbc.payee-process.co.uk
 hsbc.payee-safety.uk
+hsbc.payees-certify.co.uk
+hsbc.process-check.co.uk
 hsbc.process-payee.co.uk
 hsbc.refund-payees.co.uk
 hsbc.register-refund.co.uk
@@ -3105,6 +3128,7 @@ hsbc.transfers-check.co.uk
 hsbc.uksecurepanel.co.uk
 hsbc.verifymypayee.uk
 hsconfirmation.uk
+hspayment.co.uk
 htebesle_ypi.co.uk
 hugeperform.co.uk
 hugesimplify.co.uk
@@ -3189,7 +3213,6 @@ infighter.co.uk
 infigomedia.uk
 info-myee.co.uk
 info.anmedia.co.uk
-infoid-ee.co.uk
 infoonlinewebupdate.webeden.co.uk
 infopayeedetection.co.uk
 infoquick.co.uk
@@ -3489,7 +3512,6 @@ ledencourage.co.uk
 ledexamine.co.uk
 ledrestore.co.uk
 ledvalidate.co.uk
-leedsstreet.iboxdashboards.co.uk
 leedstexrecycling.co.uk
 legaldownloads.org.uk
 leghorngroup.co.uk
@@ -3571,6 +3593,7 @@ logaid.co.uk
 logbookloansauto.co.uk
 login-portal-myee.ee-billing-helpdesk.co.uk
 login-portal.ee-billing-helpdesk.co.uk
+login.aytx.uk
 login.intme.co.uk
 logmotivate.co.uk
 lognegotiate.co.uk
@@ -3750,7 +3773,6 @@ mandc-automation.co.uk
 manifestchurch.co.uk
 manishamakeupartist.co.uk
 manisty.co.uk
-manorialtitles.co.uk
 mansfield-brewery.co.uk
 mansfieldsquash.co.uk
 mapcompute.co.uk
@@ -4023,6 +4045,7 @@ mtr-d2.co.uk
 mtsamedayloans.co.uk
 mtshorttermloans.co.uk
 mtsmallloans.co.uk
+mu.aptem.co.uk
 mucrodale.co.uk
 mugorilla.co.uk
 mujex.isapi.org.uk
@@ -4353,6 +4376,7 @@ olost.co.uk
 om.cnet.co.uk
 om.zdnet.co.uk
 omdispatch.co.uk
+omegacontractor.co.uk
 omjesgituloh.zioid.co.uk
 omniture.mirror.co.uk
 on5tnj.koll.pershoreairporttransfers.co.uk
@@ -4691,6 +4715,7 @@ poundcreate.co.uk
 powerchallenge.co.uk
 powertechnik.co.uk
 poxonmildsteelengineering.co.uk
+pp-restricted.co.uk
 ppiupaydayloans.co.uk
 pplactiveacc.co.uk
 pr49.co.uk
@@ -4729,7 +4754,6 @@ progressedtime.co.uk
 properfile.co.uk
 properlyplastered.co.uk
 propertyinvestmentbook.co.uk
-propress.co.uk
 protec-me5700.atspace.co.uk
 protec503.atspace.co.uk
 protecarts.co.uk
@@ -5115,6 +5139,7 @@ secure-info.co.uk
 secure-team.wildawood.co.uk
 secure.apple-info.moneymonsterloans.co.uk
 secure.cbbnline.co.uk
+secure.halifax-deregister.co.uk
 secure.hsbc.payee-system.co.uk
 secure05.setin.uk
 secure2.store.apple.com.it.shop.sign-in.jsp.it1.gcim.co.uk
@@ -5268,6 +5293,7 @@ skillfulverti.co.uk
 skinte.co.uk
 skippad.co.uk
 skiwest.co.uk
+skkonline.co.uk
 skybeetravels.cheapflightso.co.uk
 skyintegrate.co.uk
 skymodify.co.uk
@@ -5559,7 +5585,6 @@ tags.experian.co.uk
 tahlias-closet.co.uk
 taichimatters.co.uk
 tailsweep.co.uk
-tajunnisa.co.uk
 takedecide.co.uk
 takeguide.co.uk
 taketriangle.co.uk
@@ -6091,8 +6116,8 @@ verification.peypal.com.meyershouses.co.uk
 verification.santander.co.uk.softtouchcashmere.co.uk
 verifiedlink.uk
 verifiedurl.uk
+verify-security.co.uk
 verifyappleid.validation-apple.co.uk
-verifyhelps.co.uk
 verixon.co.uk
 veronaairport.co.uk
 verymodel.co.uk
@@ -6677,6 +6702,7 @@ zinghouse.co.uk
 zoneswim.co.uk
 zooacademy.co.uk
 zpaypal.co.uk
+zubairchowdhury.co.uk
 zucka.co.uk
 zuvce.co.uk
 zwejqbahgrtw3khyupz5.mbservicesyorkshire.co.uk

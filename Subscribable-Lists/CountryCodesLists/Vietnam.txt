@@ -41,6 +41,7 @@ adv.klick.vn
 adx.admicro.vn
 adx.kul.vn
 aeinvest.com.vn
+aemine.vn
 afp.admicro.vn
 ahavietnam.com.vn
 alac.vn
@@ -107,7 +108,6 @@ bkns.vn
 bld.vn
 blendtec.vn
 blog.kapy.vn
-blog.pito.vn
 blog.saigon247.vn
 boxapp.admicro.vn
 brand360.vn
@@ -260,7 +260,6 @@ gallery.adtima.vn
 galliothotel.com.vn
 gbuy18.com.vn
 gdtsolutions.vn
-gengreenconcert.vn
 giaanhvu.com.vn
 giaipadpro.com.vn
 giavo.vn
@@ -300,6 +299,7 @@ hela.vn
 hellokhautrang.vn
 hepzaesc.org.vn
 hgtech.vn
+hian.vn
 hiepcuong.kovo.vn
 hiepphat.com.vn
 hifoto.vn
@@ -312,6 +312,7 @@ hoamilienchieu.edu.vn
 hoangnguyenmec.com.vn
 hocvientaichinh.com.vn
 holypig.vn
+hongloanco.com.vn
 housepro.vn
 hp-tech.com.vn
 hrdcvn.com.vn
@@ -414,6 +415,7 @@ luatdongnamhai.vn
 luongyvovanvinh.vn
 luutruviet.vn
 mahena.vn
+mail.fsoft.com.vn
 mail.prakit.vn
 mail.vnsolar.com.vn
 mamnonkhanhhoi.edu.vn
@@ -527,8 +529,6 @@ petech.com.vn
 pethome.com.vn
 phformula.com.vn
 phogovip.vn
-phongkhamdakhoathanhhoa.vn
-phongkhamthaiduongbienhoa.vn
 phubaotours.com.vn
 phugiaan.com.vn
 phukien365.vn
@@ -552,6 +552,7 @@ pson.logging.admicro.vn
 pte.vn
 publisher.admicro.vn
 qamedia.vn
+qbros.vn
 qc.coccoc.vn
 qc.violet.vn
 qccoccocmedia.vn
@@ -636,7 +637,6 @@ st-analytics.anthill.vn
 st-au.ants.vn
 st.a.anthill.vn
 staging-e.anthill.vn
-staging.baya.vn
 static.accesstrade.vn
 static.ad.org.vn
 static.adtima.vn
@@ -696,7 +696,6 @@ thuexevantaithanhhoa.vn
 thungracmoitruong.com.vn
 tienphatstore.vn
 tientrienseafood.com.vn
-tingme.vn
 tinhbotxanh.vn
 tls.net.vn
 tmtoys.com.vn

@@ -220,6 +220,7 @@ amazon.co.jp.dalemmirgribacheev5.jp
 amazon.co.jp.usid-58476.mixh.jp
 amazon.co.jp.usid-9842.mixh.jp
 amazon5050.jp
+amazonlogistics-ap-northeast-1.amazonlogistics.jp
 ameyoko-sanko.co.jp
 ams900.goo.ne.jp
 an.mainichi.jp
@@ -1649,7 +1650,6 @@ trenkst.jp
 trepied.jp
 tres-star.jp
 truecombat.jp
-truetools.jp
 trustclick.ne.jp
 tsuuhan-labo.jp
 tumago.jp

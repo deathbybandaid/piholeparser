@@ -257,7 +257,6 @@ divakozmetik.com.tr
 diyetyemek.com.tr
 dizaynasansor.com.tr
 dmgkagit.com.tr
-dnztasimacilik.com.tr
 dodem.com.tr
 dogaca.com.tr
 dogitur.com.tr
@@ -293,6 +292,7 @@ eraslan.com.tr
 erca.com.tr
 ercanakin.com.tr
 ercey.com.tr
+erfa.web.tr
 erhanturkan.com.tr
 erkankaratas.com.tr
 erkantarhan.com.tr
@@ -709,7 +709,6 @@ totemguvenlik.com.tr
 tr.alzaminilac.com.tr
 truva2007.com.tr
 ttnet.yandex.com.tr
-tugrulgulenc.com.tr
 tunamim.com.tr
 tunca.bel.tr
 tursaf.org.tr

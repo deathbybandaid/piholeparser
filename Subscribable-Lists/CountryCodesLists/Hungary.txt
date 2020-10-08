@@ -213,6 +213,7 @@ elektrobot.hu
 elotakarekossag.konnyuhitel.hu
 emamedia.hu
 en.polarklima.hu
+enekegyuttes.kig.hu
 entergrafika.hu
 eropolis.hu
 erotikashow.hu
@@ -252,7 +253,6 @@ frivill.hu
 funpic.hu
 furedscan.hu
 galatransmisja.pe.hu
-galileedream.hu
 galvolgyi.hu
 game.epyx.hu
 game.ize.hu
@@ -651,7 +651,6 @@ vilagkuldetes.hu
 vilagpolgarok.blogspot.hu
 vilagunk.hu
 virtweb2.interware.hu
-vitalplanet.hu
 vk-ch174.pe.hu
 vk-lnformation.pe.hu
 vk-newtv.pe.hu

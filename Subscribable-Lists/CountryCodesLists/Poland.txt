@@ -550,12 +550,12 @@ biotechealthcarepharm.pl
 biotechealthcarepills.pl
 bip.tbs.tczew.pl
 bip.wodkan.com.pl
+bisbud.com.pl
 biseksualni.qii.pl
 bitcoin.fastlink.pl
 bittersweet.pl
 biuromono.pl
 biurowfb.pl
-biurowgs.pl
 biznesetykieta.pl
 blacklinepartners.pl
 blaha.pl
@@ -591,6 +591,7 @@ borkovitz.pl
 boryskowalski.pl
 bostol-meble.pl
 bot.coinmine.pl
+botbitcoin.pl
 botoks-caly-film-online.htw.pl
 bozenan.swk.vectranet.pl
 brainyczestochowa.pl
@@ -2525,6 +2526,7 @@ lnpush.pl
 lo1mragowo.neostrada.pl
 loadfiles.pl
 logodlafirm.pl
+logotyp2021.pl
 logowanie.dkonto.pl
 loguj-praca.co.pl
 lokum1985.republika.pl
@@ -3125,6 +3127,7 @@ onet-zaginieni-24.pl
 onet.dfirma.pl
 onet.hit.gemius.pl
 onet.hit.stat.pl
+onet24.dkonto.pl
 onet24pl.pvi.pl
 onetextrafestival.pl
 onetporwanie.com.pl
@@ -4464,6 +4467,7 @@ tsldada.pl
 tudomusica.pl
 turbocars.pl
 turniejkrzyz.za.pl
+tuszmajster.pl
 tuv.pl
 tv-internetowa.pl
 tv.unimet.pl

@@ -663,7 +663,6 @@ apple.com-lc.in
 apple.com.data-sign.in
 apple.com.id-info.in
 apple.com.ph-log.in
-apple.com.user-log.in
 apple.support-lnfo.in
 apple.support-us.in
 appleid.com-get.in
@@ -792,6 +791,7 @@ asop3497yhd.molmojerta5.in
 asotmet.in
 asp2.co.in
 aspiredm.in
+aspireinnovations.in
 aspnet.co.in
 aspr.in
 aspssl53.in
@@ -909,6 +909,7 @@ bataglia.in
 bathshebaliesa.in
 batta.co.in
 bbcpl.in
+bbkfood.in
 bbotc.in
 bbvgh.in
 bcinstitute.co.in
@@ -1426,7 +1427,6 @@ candy-sturm.in
 candykerianne.in
 canoncameras.in
 canossadhule.in
-capcp.in
 capricecyndia.in
 captchas.freebitco.in
 cara-brassell.in
@@ -2065,6 +2065,7 @@ com-read.in
 com-share.in
 com-top.in
 com.ph-sign.in
+com.user-log.in
 com62.gen.in
 comerdo.in
 cometstar.in
@@ -2211,6 +2212,7 @@ cristy-cundiff.in
 cristy-mapes.in
 critiqueassemble.in
 crm-niel.in
+crm.polos.in
 crwawadi.in
 crystal-bibbins.in
 crystal-neighbors.in
@@ -2303,6 +2305,7 @@ dana-cathey.in
 dana-gilbertson.in
 dana-thomas.in
 dana-william.in
+dancewithme.in
 dandiyabeats.in
 danelle-bromberg.in
 danelle-jimmerson.in
@@ -3163,7 +3166,6 @@ fine.jaichittor.in
 fine.pinxitartes.in
 finefettle.in
 finenearinstant.in
-finkarma.in
 finlandwayoflearning.in
 fionnaalexis.in
 fire.hindustanps.in
@@ -3239,7 +3241,6 @@ fnsindia.in
 fo283ybn-u2ugas.029uhbsdfisjdj4.in
 fofololo004.in
 fone.fdti.in
-food.polotshirts.in
 foodfocus.in
 foodforjoy.in
 foodtarget.in
@@ -3637,7 +3638,6 @@ gsxapt.idmsa.apple.com.graminasevakendra.co.in
 gt36xd40af35oy.in
 gt58zp21ev4sk.in
 gtbpi.in
-gtpl.co.in
 guennaclaudia.in
 guenstig-online-potenzmittel.net.in
 guenstigpotenzkaufen.in
@@ -3720,7 +3720,6 @@ heartsinadore.in
 heartwise.in
 heather-hard.in
 heavenlydayspa.co.in
-hecod.in
 heddijesse.in
 heeraanthonysalon.in
 heheyoyo001.in
@@ -3763,7 +3762,6 @@ herbalprivatemart.in
 herbaltabletbargain.in
 herbert-lukes.in
 herbert-normand.in
-heritagehomeindia.in
 hermiajuliane.in
 herminafilide.in
 herren-apotheke-shop.in
@@ -3885,6 +3883,7 @@ hothealthcaremall.in
 hotonlineflirting.in
 hotwheelz.co.in
 houseofflowers.in
+housing.facebook.ccl.in
 howard-kintzel.in
 howard-privett.in
 hpbuzz.kenovate.in
@@ -3911,6 +3910,7 @@ hvcjlegg.in
 hyacinthamehetabel.in
 hyderabadwalks.in
 hydraulic-pneumatic.in
+hydroflex.in
 hyipmanager.in
 i2.myapkcdn.in
 i6yt25pf2t75108.in
@@ -4620,7 +4620,6 @@ kaliaborcollegeofeducation.org.in
 kaliecarroll.in
 kaligraph.in
 kalkashimlataxiservice.in
-kallol.net.in
 kalyangraphics.in
 kamaladvertising.co.in
 kamaober.in
@@ -5040,7 +5039,6 @@ krystle-cuellar.in
 krystle-lehman.in
 krystle-porche.in
 krystle-sasse.in
-ksnews.co.in
 ksskss004.in
 kulhadandcookies.in
 kumaontalc.in
@@ -5501,6 +5499,7 @@ mail-cpt.in
 mail-za.in
 mail.allnews24.in
 mail.digitalltrend.in
+mail.gtpl.co.in
 mail.interiordesignersmumbai.in
 mail.khoteysikkey.in
 mail.my-appleid.in
@@ -5860,6 +5859,7 @@ meghann-saterfiel.in
 meglifepharma.in
 mehetabelrubina.in
 mehtasteels.in
+meilleurskills.in
 melaniecindra.in
 meleraf.in
 melicentxylina.in
@@ -5914,7 +5914,6 @@ michelle-woodfin.in
 michelle-wunderlich.in
 microsite.buniyad.co.in
 microsoft.shopgoat.co.in
-miestilo.in
 mike-fleury.in
 mildred-davin.in
 mildred-liddell.in
@@ -6500,6 +6499,7 @@ paargolbal.in
 pacakestvlife.in
 pacificgloballogistics.in
 packagingonline.in
+packzon.in
 page.app15.in
 paidemail.co.in
 paidsurvey.in
@@ -6523,6 +6523,7 @@ palacecoinz.in
 palacecoinzcazino.in
 palaceprizecazino.in
 palacewincazino.in
+palies.in
 pamela-hara.in
 pamelaharmonia.in
 pamelazelma.in
@@ -6819,6 +6820,7 @@ polly-adler.in
 polly-leishman.in
 polly-louviere.in
 polos.co.in
+polotshirts.in
 pomegraniteportlinen.in
 pomelolodgingfibre.in
 ponderusathoughts.in
@@ -6958,6 +6960,7 @@ printlin.in
 printonevacancies.in
 printpower.in
 printqinfo.in
+printsource.in
 printtenrecruit.in
 printtoplabs.in
 prioritizefortifyexpress.in
@@ -7047,6 +7050,7 @@ puupuu002.in
 puush.in
 pvchamber.avantgardeservices.in
 pvmotors.in
+pvrdesignstudio.in
 pwdomawomen.in
 pxi.astrostep.in
 pxi.incometaxnotice.in
@@ -7519,7 +7523,6 @@ sagarproperties.co.in
 sageorganics.in
 sahiltrvl.co.in
 saiautohyundai.in
-saifood.in
 saimachinetools.in
 sainursing.co.in
 salabthestudy.in
@@ -7839,6 +7842,7 @@ shreekrishnaarts.co.in
 shreerajtraders.in
 shreerampublicschool.in
 shrihariindia.in
+shriramkrishnashakti.in
 shrisha.co.in
 shristihousing.in
 shubhashishstudio.in
@@ -7854,6 +7858,7 @@ sierra-westberg.in
 sigarabirakmak.in
 sign-in-com.1gb.in
 sign-log.in
+signaura.co.in
 signcom.in
 signdomains.in
 sigridjobyna.in
@@ -7921,7 +7926,6 @@ slay.freighttiger.in
 slc.net.in
 sleep.indianmedicalsupplies.in
 sleepamerica.in
-sleepingfire.in
 slhs.in
 slimweekend.in
 slo34p89ujhs-khb747bjg324yu0-234.skops0d-xiemopqno.in
@@ -8145,6 +8149,7 @@ stickstandardizeinvolve.in
 stitchwell.in
 stmaryskarakkunnam.in
 stnsolution.in
+stockspert.co.in
 stopthis.gen.in
 stoquest.in
 store.coinsecure.in
@@ -8429,6 +8434,7 @@ tess-hyman.in
 tess-vickery.in
 tessa-patricio.in
 test.kalaakart.in
+testenv-dieutek.in
 testingweb.in
 testsieger-apotheke.in
 tetedudu002.in
@@ -8452,7 +8458,6 @@ thebusinessguide.in
 thecanadiandeal.in
 thecapitalpost.in
 thecarepill.in
-thechasm.in
 thecialisprescription.in
 thedatingheaven.in
 thedatingportal.in
@@ -8507,6 +8512,7 @@ therxdrugstore.in
 thesalepill.in
 thesearch.in
 thetechnotron.in
+thetornado.in
 thetraveltip.in
 theuniversitystore.in
 theviagracialis.in
@@ -9054,6 +9060,7 @@ webe.co.in
 webeducationcenter.in
 webexpertsbangalore.org.in
 webincomesource.in
+weblord.in
 webmarketingjob.in
 webnox.in
 webos.in

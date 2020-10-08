@@ -780,6 +780,7 @@ data.minute.ly
 data.queryly.com
 data.reactandshare.com
 data.studybreakmedia.com
+data.woosmap.com
 data.younow.com
 datadog-service.mvfglobal.com
 dbex-tracker-v2.driveback.ru
@@ -856,6 +857,7 @@ dxe2.heip.fr
 dxwgpw0lkcum5.cloudfront.net
 dy2xcjk8s1dbz.cloudfront.net
 dymlo6ffhj97l.cloudfront.net
+dyv1bugovvq1g.cloudfront.net
 e77lmzbqou0n-a.akamaihd.net
 ea.auchantelecom.fr
 ea.aujourdhui.com
@@ -925,6 +927,7 @@ encoding.ovh
 endurablecrayon.com
 enfieldindependent-gb.enfieldindependent.co.uk
 engage-cdn.schibsted.media
+engagefront.meteomedia.com
 engagefront.theweathernetwork.com
 enlightenment.secureshoppingbasket.com
 ens.luzernerzeitung.ch
@@ -977,6 +980,7 @@ eventlog.jackpot.de
 eventlogger.soundcloud.com
 events.air.tv
 events.apester.com
+events.attentivemobile.com
 events.avantisvideo.com
 events.brightline.tv
 events.chaordicsystems.com
@@ -1325,6 +1329,7 @@ log.optimizely.com
 log.outbrain.com
 log.outbrainimg.com
 log.pinterest.com
+log.popin.cc
 log.prezi.com
 log.ren.tv
 log.seekda.com

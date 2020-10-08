@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0dEJxF4VtxLtQpx4l1MZjw
-! Version: 202010070021
+! Checksum: uqS7NZ01RC+R/il+TAk17A
+! Version: 202010080021
 ! Title: Fanboy's Annoyance List
-! Last modified: 07 Oct 2020 00:21 UTC
+! Last modified: 08 Oct 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6724,6 +6724,7 @@ _site_cookie_
 ##.nw_icon_newsletter
 ##.nwletter-box
 ##.nwletters
+##.nws-cnt
 ##.o-Newsletter
 ##.o-email-only-signup
 ##.o-footer__newsletter
@@ -14716,6 +14717,7 @@ _site_cookie_
 ##.icon--linkedin
 ##.icon--linkedin__white
 ##.icon--pinterest
+##.icon--share
 ##.icon--share--light
 ##.icon--snapchat
 ##.icon--twitter
@@ -17098,6 +17100,7 @@ _site_cookie_
 ##.share-legend
 ##.share-line
 ##.share-link
+##.share-link-button
 ##.share-link-container
 ##.share-link-facebook
 ##.share-link-twitter
@@ -30593,6 +30596,7 @@ _site_cookie_
 ##.eurocookie
 ##.eut-privacy-wrapper
 ##.ev-cookie-banner
+##.evasteseloste
 ##.evidon-banner
 ##.evt-cookie-element
 ##.exp-cookies
@@ -42473,7 +42477,7 @@ willhaben.at##.posttofacebook
 cash.ch##.print-button
 ndr.de##.recommendations
 t3n.de##.sbCombined
-autoline-eu.at,autoline-eu.ch,autoline.de,autoline.li,delivering-tomorrow.de,gettyimages.at,gettyimages.ch,gettyimages.de,hls-dhs-dss.ch,landrover.de,manager-magazin.de,nachrichten.it,radiotirol.it,suedtirol1.it,welt.de##.share
+autoline-eu.at,autoline-eu.ch,autoline.de,autoline.li,delivering-tomorrow.de,gettyimages.at,gettyimages.ch,gettyimages.de,hls-dhs-dss.ch,landrover.de,manager-magazin.de,nachrichten.it,radio32.ch,radiotirol.it,suedtirol1.it,welt.de##.share
 hardwareluxx.de##.shariff-button
 zeit.de##.show_smk
 mindfactory.de##.sliderbar
@@ -43380,6 +43384,7 @@ wetter.de##.c-wrapper
 bueromarkt-ag.de##.cCText
 infiniti.at,infiniti.ch,infiniti.de##.c_128
 syfit.de##.c_cont
+juedische-allgemeine.de##.cc
 herrenausstatter.de##.ce-container
 aeesuisse.ch##.ce_rsce_oneo_fixed_note
 tobias-bauer.de##.ce_rsce_swissy_fixed_note
@@ -45140,7 +45145,7 @@ belgafiles.com,dakine.com,linkedin.com,way2sms.com#@#.share-box
 bitly.com,framestr.com,nytimes.com#@#.share-btn
 kcrw.com,vimeo.com#@#.share-button
 bandcamp.com,bleacherreport.com,distractify.com,naekranie.pl,thedodo.com#@#.share-buttons
-aerospace-technology.com,airport-technology.com,analyticsindiamag.com,army-technology.com,awarenessact.com,bbcccnn.com.ua,cbronline.com,chatsports.com,chemicals-technology.com,clinicaltrialsarena.com,comicbook.com,cosmetics-technology.com,designbuild-network.com,dogs-magazin.de,drinks-insight-network.com,foodprocessing-technology.com,foodtank.com,gamerisle.org,gen-pop.com,gfycat.com,homelandsecurity-technology.com,hospitalmanagement.net,hotelmanagement-network.com,hydrocarbons-technology.com,invisioncommunity.co.uk,lcms.org,livetheorganicdream.com,mama-notes.de,medicaldevice-network.com,mining-technology.com,naval-technology.com,nursetimes.org,offshore-technology.com,packaging-gateway.com,pharmaceutical-technology.com,player.it,popsugar.co.uk,popsugar.com,popsugar.com.au,power-technology.com,professorshouse.com,railway-technology.com,reefbuilders.com,renewable-technology.com,retail-insight-network.com,roadtraffic-technology.com,sensationrock.net,ship-technology.com,stocksbeat.com,tdiesel.ru,trancentral.tv,tripzilla.ph,uploadvr.com,verdict.co.uk,verdictfoodservice.com,warlegend.net,water-technology.net,zagranie.com#@#.share-container
+aerospace-technology.com,airport-technology.com,analyticsindiamag.com,army-technology.com,awarenessact.com,bbcccnn.com.ua,cbronline.com,chatsports.com,chemicals-technology.com,clinicaltrialsarena.com,comicbook.com,cosmetics-technology.com,designbuild-network.com,dogs-magazin.de,drinks-insight-network.com,foodprocessing-technology.com,foodtank.com,gamerisle.org,gen-pop.com,gfycat.com,homelandsecurity-technology.com,hospitalmanagement.net,hotelmanagement-network.com,hydrocarbons-technology.com,invisioncommunity.co.uk,lcms.org,livetheorganicdream.com,mama-notes.de,medicaldevice-network.com,mining-technology.com,naval-technology.com,nursetimes.org,offshore-technology.com,packaging-gateway.com,pharmaceutical-technology.com,player.it,popsugar.co.uk,popsugar.com,popsugar.com.au,power-technology.com,professorshouse.com,railway-technology.com,reefbuilders.com,renewable-technology.com,retail-insight-network.com,roadtraffic-technology.com,sensationrock.net,ship-technology.com,stocksbeat.com,tdiesel.ru,thesportsrush.com,trancentral.tv,tripzilla.ph,uploadvr.com,verdict.co.uk,verdictfoodservice.com,warlegend.net,water-technology.net,zagranie.com#@#.share-container
 podbean.com#@#.share-content
 mediafire.com#@#.share-facebook
 bild.de#@#.share-fb
@@ -45317,7 +45322,7 @@ listenonrepeat.com#@#.ssk-facebook
 cbsnews.com#@#.std-social
 streetsblog.org,thinkprogress.org#@#.sticky-share
 stumbleupon.com#@#.stumble-button
-amazon.co.uk,amazon.com,amazon.com.au,amazon.de,amazon.fr,gitlab.com,reddit.com,store.google.com,twitch.tv,xhamster.com#@#.subscribe-button
+amazon.co.uk,amazon.com,amazon.com.au,amazon.de,amazon.fr,gitlab.com,last.fm,reddit.com,store.google.com,twitch.tv,xhamster.com#@#.subscribe-button
 fewo-direkt.de,nvidia.pl#@#.subscribe-container
 nvidia.pl#@#.subscribe-text
 first-class-and-more.de,geekgamer.tv#@#.subscribe-widget
