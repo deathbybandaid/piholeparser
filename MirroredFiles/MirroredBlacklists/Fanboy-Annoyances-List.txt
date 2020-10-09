@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: uqS7NZ01RC+R/il+TAk17A
-! Version: 202010080021
+! Checksum: fwIYUSCpSVrTmzOcGTBQ+g
+! Version: 202010090021
 ! Title: Fanboy's Annoyance List
-! Last modified: 08 Oct 2020 00:21 UTC
+! Last modified: 09 Oct 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -33489,7 +33489,6 @@ _site_cookie_
 ||pushbird.com^$third-party
 ||pushbullet.com^$third-party
 ||pushengage.com^$third-party
-||pusher.com^$third-party
 ||pushex.io^$third-party
 ||pushible.com^$third-party
 ||pushify.com^$third-party
@@ -37659,7 +37658,7 @@ newscientist.com###marketingtertiary
 gearbest.com###mask
 rapidtvnews.com###masthead
 bcheights.com,cargofacts.com,cnn.com,dailyhive.com,etv.co.za,evonomics.com,fn.com,gimmesomeoven.com,kveller.com,lawandcrime.com,longreads.com,mtlblog.com,narrative.ly,nation.co.ke,nesthq.com,psychcentral.com,psypost.org,reductress.com,reliefweb.int,runthetrap.com,spectrumlocalnews.com,tennesseestar.com,themichiganstar.com,theminnesotasun.com,theohiostar.com,thewirecutter.com,wweek.com###mc-embedded-subscribe-form
-99fm.com.na,activistmommy.com,ahtribune.com,androidauthority.com,apriorit.com,artafricamagazine.org,bcheights.com,bhekisisa.org,bitguru.co.uk,biznews.com,blog.cloudflare.com,breakingisraelnews.com,breakingnews.ie,californiasunday.com,capitolhillseattle.com,caribjournal.com,chinafile.com,churchmilitant.com,circuitdigest.com,cjr.org,cointelegraph.com,current.org,dailyfreepress.com,dailytimes.com.pk,dailytrust.com.ng,exstreamist.com,fusion.net,gaystarnews.com,ghafla.com,groovekorea.com,howlermagazine.com,ikeahackers.net,indiaclimatedialogue.net,iphoneincanada.ca,jewishinsider.com,justrunlah.com,majorgeeks.com,maoritelevision.com,monetarywatch.com,nbc.na,newsthump.com,newtimes.co.rw,newzimbabwe.com,nextbigfuture.com,nodez.co,nyc.gov,politifact.com,premiumtimesng.com,propublica.org,providr.com,punchng.com,rawstory.com,registerguard.com,rightwingtribune.com,rnw.org,russia-insider.com,sciencealert.com,sciencebulletin.org,seattletimes.com,secretflying.com,spokesman.com,sporttechie.com,stellar.ie,swissinfo.ch,techjuice.pk,technobuffalo.com,thegrayzone.com,theloadout.com,thenewsflasher.com,thequint.com,thestar.com.my,thestranger.com,theyeshivaworld.com,trancentral.tv,truthuncensored.net,wayfm.com,worldreligionnews.com,wttw.com###mc_embed_signup
+99fm.com.na,activistmommy.com,ahtribune.com,androidauthority.com,apriorit.com,artafricamagazine.org,bcheights.com,bhekisisa.org,bitguru.co.uk,biznews.com,blog.cloudflare.com,breakingisraelnews.com,breakingnews.ie,californiasunday.com,capitolhillseattle.com,caribjournal.com,chinafile.com,churchmilitant.com,circuitdigest.com,cjr.org,cointelegraph.com,current.org,dailyfreepress.com,dailytimes.com.pk,dailytrust.com.ng,exstreamist.com,fusion.net,gaystarnews.com,ghafla.com,groovekorea.com,howlermagazine.com,ikeahackers.net,indiaclimatedialogue.net,iphoneincanada.ca,jewishinsider.com,justrunlah.com,majorgeeks.com,maoritelevision.com,monetarywatch.com,national-justice.com,nbc.na,newsthump.com,newtimes.co.rw,newzimbabwe.com,nextbigfuture.com,nodez.co,nyc.gov,politifact.com,premiumtimesng.com,propublica.org,providr.com,punchng.com,rawstory.com,registerguard.com,rightwingtribune.com,rnw.org,russia-insider.com,sciencealert.com,sciencebulletin.org,seattletimes.com,secretflying.com,spokesman.com,sporttechie.com,stellar.ie,swissinfo.ch,techjuice.pk,technobuffalo.com,thegrayzone.com,theloadout.com,thenewsflasher.com,thequint.com,thestar.com.my,thestranger.com,theyeshivaworld.com,trancentral.tv,truthuncensored.net,wayfm.com,worldreligionnews.com,wttw.com###mc_embed_signup
 activistmommy.com###mc_embed_signup-footer
 moneyweb.co.za###mc_embed_signup1
 priceonomics.com###mc_embed_signup_nojs
@@ -41004,7 +41003,7 @@ anime2enjoy.com##.notice-board
 veritasbooksonline.com##.notice-wrap
 square-enix-games.com##.notice_Notices_29tRQ
 aquasana.com##.notice__banner
-3arena.ie,about.me,bertil.com,bethesda.net,brandalley.co.uk,cambridge.org,delfortgroup.com,dlink.com,eveningtelegraph.co.uk,fastcompany.com,gw2treasures.com,inc.com,lidl-ni.co.uk,lidl.co.uk,lidl.com.mt,lidl.ie,lindex.com,postimees.ee,preoday.com,princeofwales.gov.uk,puregym.com,redbet.com,sciencex.com,spreds.com,toluna.com,vialibri.net,wmeentertainment.com,ybs.co.uk,yola.com##.notification
+3arena.ie,about.me,bertil.com,bethesda.net,brandalley.co.uk,cambridge.org,delfortgroup.com,dlink.com,eveningtelegraph.co.uk,fastcompany.com,gw2treasures.com,inc.com,lidl-ni.co.uk,lidl.co.uk,lidl.com.mt,lidl.ie,lindex.com,postimees.ee,preoday.com,princeofwales.gov.uk,puregym.com,redbet.com,sciencex.com,spreds.com,stormgain.com,toluna.com,vialibri.net,wmeentertainment.com,ybs.co.uk,yola.com##.notification
 harvester.co.uk##.notification--notification
 brouwland.com##.notification-alert
 foxbusiness.com,foxnews.com##.notification-banner
@@ -41735,7 +41734,7 @@ _iscriviti_alla_newsletter.
 ||notifiche.secoloditalia.it^
 ||pagamentidigitali.it^*/newsletter.jpg
 ||player.pulsemediatv.com^$third-party,domain=~bwin.tv
-||player.streamshow.it^$third-party
+||player.streamshow.it^$third-party,domain=~telepavia.tv
 ||publy.com^$third-party
 ||retewebitalia.net/banner/$third-party
 ||reviews.shoppydoo.it^$third-party
@@ -41939,6 +41938,7 @@ juventus.com##.jcom-c-promo-newsletter
 penskeautomotive.it##.js-scroll-to
 ytong.it##.link-to-top
 linkiesta.it##.lkPopover
+myvalley.it##.mailpoet_form_widget
 gigapc.it##.modezuparrow
 avvenire.it##.moveToTop
 spaziogames.it##.nav-reveal
@@ -43960,7 +43960,7 @@ cassaforense.it,cfnews.it###cassaforense-cookies
 centrometeolombardo.com###cc_div
 ecodallecitta.it###contenuto_consenso
 spesasicura.com###cook
-aeo.it,bookingaltoadige.com,camionsupermarket.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miamerano.it,mymercato.it,pallacanestrovarese.it,primocanale.it,sace.it,sanfrancescopatronoditalia.it,spesati.it,tecnocasa.it,wd40.it###cookie
+aeo.it,bookingaltoadige.com,camionsupermarket.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miabolzano.it,miamerano.it,mymercato.it,pallacanestrovarese.it,primocanale.it,sace.it,sanfrancescopatronoditalia.it,spesati.it,tecnocasa.it,wd40.it###cookie
 angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,lupopornohd.it,menshealth.it,motociclismo.it,ordineavvocati.bari.it,pardini.it,runnersworld.it,tennisitaliano.it,testimania.com,thefilmclub.it,unipv.it,velaemotore.it###cookies
 majani.it###cs-banner
 netflixlovers.it###cs_container
@@ -44845,6 +44845,7 @@ dj-extensions.com,thadenschool.org#@#.top-of-page
 floristics.info#@#.totop
 99bitcoins.com,healthyhandyman.com#@#.tve-leads-lightbox
 getuikit.com#@#.uk-alert
+kosmonautix.cz#@#.widget_rss
 tactxflashlights.com#@#.widget_subscribe
 upim.com#@#[data-target="#newsletter-modal"]
 twellow.com#@#a[href="http://www.twellow.com/"]
@@ -45591,6 +45592,7 @@ amarujala.com#@#.cookies-container
 bankmillennium.pl#@#.cookies-info
 alko.fi#@#.cookies-open
 diy.com#@#.cookies-policy
+tatilsepeti.com#@#.cookies.active
 milliman.com#@#.cookiesModal
 m.oe24.at#@#.cookiesOverlay2
 m.oe24.at#@#.cookiesOverlay2Box
