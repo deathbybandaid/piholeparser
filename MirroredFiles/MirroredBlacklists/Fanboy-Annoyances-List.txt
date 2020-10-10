@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: fwIYUSCpSVrTmzOcGTBQ+g
-! Version: 202010090021
+! Checksum: r/r6k45OYrgyzDXoETF4Ew
+! Version: 202010100021
 ! Title: Fanboy's Annoyance List
-! Last modified: 09 Oct 2020 00:21 UTC
+! Last modified: 10 Oct 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -8017,6 +8017,7 @@ _site_cookie_
 ##.ui-to-top
 ##.up-to-top
 ##.upbtn
+##.verso-go-top
 ##.vf_rzf_goTop
 ##.vw-scroll-to-top
 ##.vw_m511_back_top
@@ -32478,6 +32479,7 @@ _site_cookie_
 ##.vmapi-infocookies-wrapper
 ##.vmn_banner-wrapper
 ##.vn-cookie-notice
+##.vncookie-container
 ##.voc-cookie-message
 ##.vp-cookie-consent
 ##.vw-cookie-alert
@@ -41734,7 +41736,6 @@ _iscriviti_alla_newsletter.
 ||notifiche.secoloditalia.it^
 ||pagamentidigitali.it^*/newsletter.jpg
 ||player.pulsemediatv.com^$third-party,domain=~bwin.tv
-||player.streamshow.it^$third-party,domain=~telepavia.tv
 ||publy.com^$third-party
 ||retewebitalia.net/banner/$third-party
 ||reviews.shoppydoo.it^$third-party
@@ -42861,7 +42862,7 @@ gamershqitalia.it##.bottoniera-social
 comingsoon.it##.box-tags
 ansa.it##.bt-suggest
 fantagazzetta.com##.btn-sm
-giornaledibrescia.it##.btn-toolbar
+giornaledibrescia.it,teletutto.it##.btn-toolbar
 money.it##.btnYou
 cirio.it##.cirioYou
 tio.ch##.companyPagesBox
@@ -45968,7 +45969,7 @@ yoigo.com#@#thor-cookies
 @@||androidpolice.com/wp-content/*_facebook-$image
 @@||androidpolice.com/wp-content/themes/ap2/ap_resize/ap_resize.php?*_Twitter-$image
 @@||angvremya.ru/engine/classes/min/index.php?*/js/social-$stylesheet
-@@||apis.google.com/js/platform.js$domain=9gag.com|corrupt-a-file.net|discogs.com|dubox.com|duolingo.com|febbit.com|gazeta.uz|id.logi.com|jakdojade.pl|kroger.com|moshi.com|oasgames.com|olx.pl|olx.ro|passeidireto.com|prntscr.com|sato.fi
+@@||apis.google.com/js/platform.js$domain=9gag.com|corrupt-a-file.net|crello.com|discogs.com|dubox.com|duolingo.com|febbit.com|gazeta.uz|id.logi.com|jakdojade.pl|kroger.com|moshi.com|oasgames.com|olx.pl|olx.ro|passeidireto.com|prntscr.com|sato.fi
 @@||app.hrlab.de/assets/icons/$image,domain=app.hrlab.de
 @@||apple.com/kb/resources/images/i_facebook.png
 @@||apple.com^*/retail-static-landing/icon-social-distancing_large.png$image

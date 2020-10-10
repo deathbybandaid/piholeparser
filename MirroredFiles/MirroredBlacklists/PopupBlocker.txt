@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: bnY7UM2bTocRMoIyfXcNpQ
+! Checksum: QL/S76kJBmfpXfeu9SpJMw
 ! Title: Polskie Filtry Elementów Irytujących
 ! Polish Annoyance Filters
 ! Codename: Annoyance - Main
 ! Description: Filtry ukrywające i blokujące wyskakujące okienka, widgety, newslettery, powiadomienia push, strzałki, otagowane linki wewnętrzne, które są nie na temat artykułów (np. link do pracy w Bydgoszczy w artykule o pogodzie) i inne drażniące elementy (Polskie Filtry RODO-Ciasteczkowe oryginalnie stworzone przez MajkiIT są już w nich zawarte).
 ! Required: Do poprawnego działania wymagana jest lista lub rozszerzenie I don't care about cookies!
-! Last modified: Tue, 06 Oct 2020, 20:01 UTC+02
-! Version: 2020.10.6.1
+! Last modified: Fri, 09 Oct 2020, 11:35 UTC+02
+! Version: 2020.10.9.0
 ! Expires: 2 days
 ! Najnowsza wersja zawsze na: https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters
 ! Zgłoszenia:
@@ -14,7 +14,7 @@
 !   GitHub => https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/deed)
 ! Copyright © 2020 Polish Filters Team
-! Aktualizacja: wto, 06 paź 2020, 20:01 UTC+02
+! Aktualizacja: pią, 09 paź 2020, 11:35 UTC+02
 !
 !
 ! Newslettery (nie popupy)
@@ -4697,7 +4697,6 @@ kuchniadoroty.pl##.move-on-scroll
 kuchniadoroty.pl,kurkanielotka.pl,przepis-y.pl##.floating-prev-post, .floating-next-post
 kulturaliberalna.pl##.bottom-bar
 kupbilet.pl##.slider-arrowMPass, .slider-arrow
-kurierzamojski.pl#?#.vc_column.td-pb-span12:nth-of-type(2):-abp-has( > .wpb_wrapper > .tdb_single_bg_featured_image)
 kurkanielotka.pl##.recipe-floating-box
 kuzniazdrowia.pl##.icon_zamow
 kuzniewski.pl###banner_left
@@ -5008,6 +5007,7 @@ techpedia.pl##.border_header2
 techsetter.pl###wpd-bubble-wrapper
 telekarma.pl###flyCart
 telemedi.co###notifications-pop
+telepolis.pl##.floor[style*="position"][style*="fixed"]
 termokubki.com.pl###widget_shop6
 timeandwatches.pl###polecane_right
 tim.pl##.toolkit-bookmark-item-compare
@@ -5086,7 +5086,7 @@ wyborcza.biz##.mod_swimmer
 wykop.pl##.text > p > cite:empty
 wylecz.to##.recommendedSideBox
 xn--usugi24-ojb.pl###dodaj_ogloszenie_tab
-youtube-nocookie.com,youtube.com##.ytp-pause-overlay
+youtube-nocookie.com,youtube.com##.ytp-pause-overlay, .show-video-thumbnail-button, #rvid
 youtube.com##ytd-popup-container > .ytd-popup-container > #contentWrapper > .ytd-popup-container[position-type="OPEN_POPUP_POSITION_BOTTOMLEFT"]
 youtube.com##ytd-popup-container > .ytd-popup-container > #contentWrapper > .ytd-popup-container[style_*="BUBBLE_HINT"][style_*="BLUE_TOOLTIP"]
 youtube.com###alert-banner.ytd-browse, #watch-header > .mealbar-promo-renderer.yt-dialog, .yt-alert-info.yt-alert-actionable.yt-alert
@@ -5549,8 +5549,8 @@ polishannoyancefilters.netlify.app,polishannoyancefilters.netlify.com###pafdetec
 !@ Required: Do poprawnego działania wymagana jest lista lub rozszerzenie I don't care about cookies i EasyList/AdGuard Base!
 !@ Collaborators: MajkiIT, F4z, xxcriticxx, blocker999, hawkeye116477, krystian3w
 !@ Homepage: https://www.certyficate.it/
-!@ Version: 2020.10.4.1
-!@ Last modified: Sun, 04 Oct 2020, 19:41 UTC+02
+!@ Version: 2020.10.9.0
+!@ Last modified: Fri, 09 Oct 2020, 11:35 UTC+02
 !@ Expires: 2 days
 !@ Support:
 !@   Email => errors@certyficate.it
@@ -5561,7 +5561,7 @@ polishannoyancefilters.netlify.app,polishannoyancefilters.netlify.com###pafdetec
 !@ License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0)
 !@ Copyright © 2020 Certyficate IT & Polish Filters Team
 !@ Najnowsza wersja zawsze na: https://www.certyficate.it/adblock/
-!@ v.2020.10.4.1 aktualizacja: nie, 04 paź 2020, 19:41 UTC+02
+!@ v.2020.10.9.0 aktualizacja: pią, 09 paź 2020, 11:35 UTC+02
 !@
 !@
 !@ Specyficzne reguły ukrywające
@@ -6282,7 +6282,7 @@ e-dukacja.pl,e-farmacja.net##div[style^="width: 100%; padding: 15px; background:
 e-hak24.pl###cokkies
 e-hortico.pl###fancybox-container-1
 e-hotelarz.pl###header-cookies-accept
-e-hotelarz.pl,e-restauracja.com,e-stacjapaliw.pl,grene.pl,marketing-automation.pl,polskijubiler.pl,przegladlokalny.eu,rynek-turystyczny.pl,salesmanago.pl,turek.net.pl,vilohome.com##.popup
+e-hotelarz.pl,e-restauracja.com,e-stacjapaliw.pl,grene.pl,marketing-automation.pl,polskijubiler.pl,przegladlokalny.eu,rynek-turystyczny.pl,salesmanago.pl,turek.net.pl,vilohome.com,wiescisokolowskie.pl##.popup
 e-konferencje.pl,szkolenia24h.pl##body > div[style="width: 970px; border:1px solid gray; margin: 3px auto; color: gray; padding: 3px; text-align: center; font: 10px Verdana, sans-serif;"]
 e-konkursy.info###rodoNotify, #cookieNotify
 e-kwiaciarz.pl##.ff-cookies-container
@@ -6441,6 +6441,7 @@ gigant.pl,liber.pl###cookie_txt
 gih.grajewo.pl#?##fancybox-wrap:-abp-contains(RODO)
 gih.grajewo.pl,naszamlawa.pl,pupgrodziskwlkp.pl,ugporaj.pl###fancybox-overlay
 gismeteo.pl##.cookies-banner
+github.com##.js-cookie-consent-banner
 gkn.pl##div#gora0
 gkstychy.info###coookie
 global-rent-a-car.com###module-cookies
@@ -7005,6 +7006,7 @@ m.facebook.com,touch.facebook.com###header-notices
 m.pl.aliexpress.com###amp-notification
 m.pl.aliexpress.com#?##root > #wrapper ~ div[class^="_"]:-abp-has( ~ #action-bar)
 nakanapie.pl##div.sticker
+namyslow.eu##.page-cookie
 nanodatex.pl###cookis-box
 napad.pl###pp-cookies-container
 naprzedwiosniu.waw.pl###zf--alerts-panel
@@ -7250,7 +7252,7 @@ poland.arcelormittal.com##.bwscookie
 poland.hoppygo.com#?##gatsby-focus-wrapper > .MuiBackdrop-root:-abp-has(.MuiBox-root a[href*="/HGPL_Ogolna_klauzula_informacyjna.pdf"])
 polanglo.pl##.popup-top-box
 polarsport.pl##.cookies-info-wrapper
-polcar.com,schroniskowroclaw.pl###cwwb
+polcar.com,schroniskowroclaw.pl,wiescisokolowskie.pl###cwwb
 poligraf.com.pl###modal_wrap
 politykainsight.pl##.cc_message
 polityka.pl##.cg-cookie-warning
@@ -8890,6 +8892,7 @@ puratos.pl#@##cookieInfo
 viennahouse.com#@##cookies-panel
 viennahouse.com#@##cookie-box
 volcano.pl#@##cookiesModal
+zakupy.auchan.pl#@#.cookie-modal:not(body):not(html):not(.in):not(.mfp-hide)
 @@/wp-content/plugins/cookie-law-info/public/*$stylesheet
 @@||bitner.com.pl/plugins/cookiebar/jquery.cookiebar.js
 !@
