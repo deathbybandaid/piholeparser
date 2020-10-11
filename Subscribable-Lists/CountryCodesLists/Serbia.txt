@@ -2,7 +2,6 @@
 151.rs
 3.aqa.rs
 abcinformatika.rs
-acapulco.rs
 actualizacionesmovilesenlinea2020viabeta.sofa24.rs
 ads-kurir.providus.rs
 ads.kurir-info.rs
@@ -75,9 +74,11 @@ kupijeftino.rs
 laserprofessional.rs
 livingston.rs
 livnicaplamen.co.rs
+ljiljanacrnic.in.rs
 loopia.rs
 lutrija.rs
 medicinarada.rs
+metalnaindustrija.rs
 mfacebook.blogspot.rs
 minotti.rs
 moj.aktiv.rs

@@ -64,6 +64,7 @@ dcfloraldecor.lt
 deconex.lt
 demo.boxinn.lt
 dev.bnc.lt
+dgreitkelis.lt
 digitalcore.lt
 dineka.lt
 dipp.lt
@@ -121,7 +122,6 @@ jaunimoform.wgsystems.lt
 jaunimopartija.lt
 juvelyrinismenas.lt
 kanticzkos.bernardinai.lt
-katleriokebai.smshostingas.lt
 keiciuosi.lt
 keytarget.adnet.lt
 khoitumook.96.lt
@@ -217,7 +217,6 @@ t.delfi.lt
 tarpgeliu.lt
 teise.lt
 tempinfo.96.lt
-teofilius.lt
 terrasport.lt
 testnpost.nsoft.lt
 themes.affect.lt

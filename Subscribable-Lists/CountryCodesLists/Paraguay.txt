@@ -20,6 +20,7 @@ dante.edu.py
 denuncias-vih.org.py
 elenaprono.com.py
 equisa.com.py
+estiloymadera.com.py
 estudiorivas.com.py
 fluoder.com.py
 fpuna.edu.py
@@ -29,6 +30,7 @@ handrug.com.py
 iab.una.py
 ignacio.com.py
 incofrio.com.py
+iris.unca.edu.py
 jadema.com.py
 kidco.com.py
 laboratorioriera.com.py

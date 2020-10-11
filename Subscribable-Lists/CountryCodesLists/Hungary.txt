@@ -213,7 +213,6 @@ elektrobot.hu
 elotakarekossag.konnyuhitel.hu
 emamedia.hu
 en.polarklima.hu
-enekegyuttes.kig.hu
 entergrafika.hu
 eropolis.hu
 erotikashow.hu
@@ -222,6 +221,7 @@ eskuvoiszalon.hu
 eskuvotervezo.hu
 especialdesign.hu
 etarget.hu
+etlapgyartas.hu
 eurocompkft.hu
 eveangel.hu
 experi-ment.hu

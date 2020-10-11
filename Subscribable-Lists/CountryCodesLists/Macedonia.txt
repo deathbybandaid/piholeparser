@@ -11,6 +11,7 @@ autodiscover.marketing365.mk
 bgsoft.mk
 bibliskozdruzenie.mk
 billboards.marketing365.mk
+constructions.zelenalupa.mk
 creativepool.mk
 dds.com.mk
 diendicure.mk
@@ -26,6 +27,7 @@ geshtalt.mk
 giromamas.mk
 haemacedonia.mk
 homeinternational.mk
+housing.zelenalupa.mk
 i-skygreen.mk
 info.proglasnik.mk
 inovarte.com.mk
@@ -68,6 +70,7 @@ taksirat.com.mk
 tehnokart.mk
 tennis-shop.mk
 topcioski.mk
+tructions.zelenalupa.mk
 veledrogerii.com.mk
 webdisk.marketing365.mk
 westonpvp.mk

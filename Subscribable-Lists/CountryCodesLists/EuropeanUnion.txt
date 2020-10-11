@@ -1838,7 +1838,6 @@ glfo.eu
 global-americenexpress.eu
 globaldat.eu
 globalmagazine24.eu
-globalmmk.vanilija.eu
 gloosuj-pomagaj.eu
 glosowanie-kliknij.eu
 glosowanie-konkurs.eu
@@ -2485,6 +2484,7 @@ knoklgpd.eu
 know-us.eu
 knowledgebase.uniwin.eu
 koasa.eu
+kohlebuersten-gomes.eu
 kolapood.eu
 kolbasori.eu
 kolobka.eu
@@ -2728,7 +2728,6 @@ lysowithmebt.eu
 lyziarskestrediska.eu
 m-ebay-kleinanzeigen-de.clanweb.eu
 m-technics.eu
-m.facebook.uk-app.eu
 m.secure.runescape.com-ru.eu
 m0nst3r.eu
 m6r.eu
@@ -3434,6 +3433,7 @@ paypal.a786k.eu
 paypal.com-support-cgi-bin-account-helpweb-help.prodrivers.eu
 paypal.de-kontaktaktualisierung.eu
 paypal.meinkonto.eu
+paypal.thatjohns.eu
 paytome.eu
 pbna.eu
 pc2sms.eu

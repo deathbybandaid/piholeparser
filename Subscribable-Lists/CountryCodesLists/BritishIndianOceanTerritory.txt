@@ -130,7 +130,6 @@
 58680dd9.ngrok.io
 587aded7dd48.ngrok.io
 591860.playcode.io
-5a900e117d77.ngrok.io
 5d52dbd5.ngrok.io
 5kg1f.codesandbox.io
 5rocks.io
@@ -178,6 +177,7 @@ a-sjo.1rx.io
 a-v2.presage.io
 a.admp.io
 a627752a.ngrok.io
+a676d210384f.ngrok.io
 aa822c15.ngrok.io
 aaa.ipbc.io
 about.coinfirm.io
@@ -550,7 +550,6 @@ cbc.youpool.io
 cbldc.io
 cbql2fu0-android.mobile-sdk-api.intercom.io
 cc.gofile.io
-ccb09ba12e2c.ngrok.io
 cch.youpool.io
 ccx.youpool.io
 cdn-cf.fabric.io
@@ -584,7 +583,6 @@ ce22ffb7.ngrok.io
 ce7428c103ad.ngrok.io
 cem.hotelsapi.io
 chaintime.epool.io
-charleskontol.github.io
 chaseonline.io
 cheatsheet-api.keen.io
 choosingcollege.io
@@ -1637,6 +1635,7 @@ resolveaccounterror.github.io
 resources.presage.io
 revealer.adapt.io
 review-593.getforge.io
+review-secure03c.github.io
 review.recentad.io
 reviewshareddocument.imfast.io
 rgaudit.1rx.io

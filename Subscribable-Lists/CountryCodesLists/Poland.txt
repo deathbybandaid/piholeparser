@@ -1423,7 +1423,6 @@ filmyfilmy.pl
 filmyhd-online24.pl
 filmyporno.org.pl
 finanse-bardzo-osobiste.pl
-finansowaniefirm2020.pl
 finecut.pl
 finediningweek.pl
 fireads.pl
@@ -1621,6 +1620,7 @@ gemius.pl
 generalmediaadhu.hit.gemius.pl
 generatorkodow.hpu.pl
 genericsrxpharmaceutical.pl
+genial.com.pl
 geo.interia.pl
 geoportal-info.powiat.lukow.pl
 gerkar.pl
@@ -3188,6 +3188,7 @@ oslony-okienne.pl
 osmolik.com.pl
 osobyzagionione.pl
 ospkarlino.bulls.net.pl
+ospwiazow.pl
 ostancenadziei.pl
 ostarextrasfestival.pl
 ostarsniceeurodice.pl
@@ -4089,6 +4090,7 @@ sk.hit.gemius.pl
 skarbnica.ormianie.pl
 skarzypyta.pl
 skc.coinmine.pl
+skecherspl.pl
 skecherstanio.pl
 skgde.adocean.pl
 skidrowreloaded.pl
@@ -5020,6 +5022,7 @@ wybierz-nagrode.pl
 wychowanieprzedszkolne.pl
 wycieczki-kociewie.com.pl
 wydarzenia.bialystok.pl
+wydarzenia.dkonto.pl
 wydawnictwa.wstijo.edu.pl
 wydawnictwozafira.pl
 wygraj-quiz.pl

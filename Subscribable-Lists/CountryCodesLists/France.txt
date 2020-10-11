@@ -1379,6 +1379,7 @@ cfsparts-particuliers.fr
 cfun.fr
 cgrgolf.fr
 ch-edouard-toulouse.fr
+ch-libourne.fr
 ch.prunauneau.fr
 ch.tcorner.fr
 chainfeed.fr
@@ -1684,7 +1685,6 @@ david.serrault.free.fr
 daxon.fr
 daydreams.fr
 db-hardware.fr
-dcard.aglob.fr
 dcbc.free.fr
 ddsoldes.fr
 deblokgsm.free.fr
@@ -2335,7 +2335,6 @@ guardian-protection.fr
 guerir-nature.fr
 guerircestpossible.fr
 guerison-energetique-vibratoire.fr
-guerison-integrale.fr
 guerretribale.fr
 guerzak.free.fr
 guide-couvreur.fr
@@ -2381,7 +2380,6 @@ hit.multimania.lycos.fr
 hobbydolls.fr
 hockeysubnantais.free.fr
 hogwarts.kanak.fr
-holistic-guerison.fr
 hollister-2013malls.fr
 hollister-formalls.fr
 hollister-formalls2013.fr
@@ -3961,26 +3959,6 @@ portailslebrun.fr
 portalhacks.fr
 portalisa.fr
 portopopo.fr
-post.facebookcom-05071837.aglob.fr
-post.facebookcom-14775456.aglob.fr
-post.facebookcom-16923728.aglob.fr
-post.facebookcom-17165595.aglob.fr
-post.facebookcom-20533615.aglob.fr
-post.facebookcom-24779028.aglob.fr
-post.facebookcom-31636052.aglob.fr
-post.facebookcom-33745043.aglob.fr
-post.facebookcom-40893677.aglob.fr
-post.facebookcom-55257704.aglob.fr
-post.facebookcom-57891363.aglob.fr
-post.facebookcom-58719986.aglob.fr
-post.facebookcom-61607533.aglob.fr
-post.facebookcom-72035216.aglob.fr
-post.facebookcom-75275969.aglob.fr
-post.facebookcom-78790405.aglob.fr
-post.facebookcom-78976395.aglob.fr
-post.facebookcom-80461357.aglob.fr
-post.facebookcom-86977883.aglob.fr
-post.facebookcom-92080922.aglob.fr
 poudlard-ecole.superforum.fr
 pour-enfants.fr
 pourleplaisir.fr
@@ -4466,7 +4444,6 @@ sos-medecins-stmalo.fr
 sosplombiers-6eme.fr
 sosplombiers-8eme.fr
 sosplombiers-9eme.fr
-sota-france.fr
 sotb.free.fr
 soudhydro.fr
 soulofdreams.fr
@@ -4876,7 +4853,6 @@ white-now.fr
 wii-flash.fr
 wiigen.fr
 wikiprojet.fr
-wildcard.aglob.fr
 williamquilan.fr
 winwise.nostalgie.fr
 wipstudio.fr

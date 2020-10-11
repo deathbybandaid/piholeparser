@@ -88,7 +88,6 @@ doktoronline.no
 dronetech.no
 drops.ads.visionweb.no
 dvdhuset.no
-ebu.no
 egeneration.no
 eider.no
 ekstra.htg.no
@@ -97,6 +96,7 @@ elkjop.no
 energistopp.no
 erotikknett.no
 euklides.no
+euphoria.no
 euroads.no
 eurofoto.no
 eviko.no
@@ -174,6 +174,7 @@ linnsmatblogg.no
 liveviewer.ez.no
 log.advista.no
 log.idg.no
+logiq.no
 lurl.no
 lyngdalhudterapi.no
 lyshovden.no

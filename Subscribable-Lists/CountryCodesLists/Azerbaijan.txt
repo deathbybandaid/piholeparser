@@ -32,7 +32,6 @@ oralar.az
 pacific.az
 qaynarinfo.az
 radioloq.az
-remv.fbmobile-273846673.eka.az
 seckiler.az
 url.az
 veyseloglu.az

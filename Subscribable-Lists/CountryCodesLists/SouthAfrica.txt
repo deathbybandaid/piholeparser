@@ -14,7 +14,6 @@ abacus4maths.co.za
 abantumarket.co.za
 ablegates.co.za
 aboutprice.co.za
-absastockbrokers.co.za
 absr.co.za
 academiaprimary.co.za
 academicbooks.co.za
@@ -726,7 +725,6 @@ msizartech.co.za
 msupdater.co.za
 mtamail.co.za
 multinetworks.co.za
-muscleman.co.za
 museumsnc.co.za
 musgraveracing.co.za
 mvulabnb.co.za
@@ -759,7 +757,6 @@ nichuizen.co.za
 nicoladrabble.co.za
 nokelightbulb.co.za
 nomad4x4sa.co.za
-norick.co.za
 noscratch.co.za
 notify-email-client.co.za
 npmovers.co.za
@@ -894,7 +891,6 @@ roofrescuerepair.co.za
 rootedorigin.co.za
 rootsshop.co.za
 roundtablesa.co.za
-rubikolholdings.co.za
 rustonc.co.za
 sa-rewards.co.za
 sa-tribe.co.za
@@ -928,6 +924,7 @@ saspo.org.za
 sasubs.co.za
 satravelnews.co.za
 savememoney.co.za
+savetourismsa.co.za
 sawita.co.za
 scalerite.co.za
 sciematical.org.za
@@ -1207,7 +1204,6 @@ valuevino.co.za
 valuewines.co.za
 vascucare.co.za
 vassanjeeproperties.co.za
-vdyzel.ootw.co.za
 vhalungu.co.za
 viewafricaconnect.co.za
 vistomouldings.co.za
@@ -1219,7 +1215,6 @@ vulasafety.co.za
 waaris.co.za
 wahldental.co.za
 waooyo.co.za
-warriorsicehockey.co.za
 waste-bins.co.za
 wct.co.za
 wealthmanysns.co.za

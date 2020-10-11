@@ -17,6 +17,7 @@
 85dcf732d593.se
 aabe3b.se
 aad73c550c.se
+aayanservices.se
 abutilon.se
 ad-server.gulasidorna.se
 ad.aftonbladet.se
@@ -208,6 +209,7 @@ eas3.emediate.se
 easyresearch.se
 ekn-art.se
 ekobygghandel.se
+ekoh.se
 elentreprenoren.se
 eliteentertainment.se
 elpa.se
@@ -393,7 +395,6 @@ lohrmontage.se
 lorensbergslakare.se
 ltseo.se
 luckystarmusic.se
-lundcheer.se
 lundsprofiltryck.se
 mail.romsasjord.se
 mall2.happyandsmile.se

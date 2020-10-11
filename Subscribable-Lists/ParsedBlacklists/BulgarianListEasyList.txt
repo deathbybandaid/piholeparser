@@ -1387,6 +1387,7 @@ ludlowadvertiser-gb.ludlowadvertiser.co.uk
 lunametrics.wpengine.netdna-cdn.com
 m.lolvsdota.cn
 m.trb.com
+ma.redhat.com
 ma.register.it
 magnify360-cdn.s3.amazonaws.com
 make.cohesionapps.com
@@ -1648,6 +1649,7 @@ pixel.propublica.org
 pixel.prosieben.de
 pixel.roymorgan.com
 pixel.s3xified.com
+pixel.safe-installation.com
 pixel.solvemedia.com
 pixel.spotify.com
 pixel.sprinklr.com
