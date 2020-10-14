@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: iWh9pgEJdjR+Nt16sHXqcw
+! Checksum: GrnfOkBAgOnhDD336aBYPw
 ! Title: Polskie Filtry Elementów Irytujących
 ! Polish Annoyance Filters
 ! Codename: Annoyance - Main
 ! Description: Filtry ukrywające i blokujące wyskakujące okienka, widgety, newslettery, powiadomienia push, strzałki, otagowane linki wewnętrzne, które są nie na temat artykułów (np. link do pracy w Bydgoszczy w artykule o pogodzie) i inne drażniące elementy (Polskie Filtry RODO-Ciasteczkowe oryginalnie stworzone przez MajkiIT są już w nich zawarte).
 ! Required: Do poprawnego działania wymagana jest lista lub rozszerzenie I don't care about cookies!
-! Last modified: Sun, 11 Oct 2020, 20:01 UTC+02
-! Version: 2020.10.11.4
+! Last modified: Tue, 13 Oct 2020, 20:01 UTC+02
+! Version: 2020.10.13.0
 ! Expires: 2 days
 ! Najnowsza wersja zawsze na: https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters
 ! Zgłoszenia:
@@ -14,7 +14,7 @@
 !   GitHub => https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/deed)
 ! Copyright © 2020 Polish Filters Team
-! Aktualizacja: nie, 11 paź 2020, 20:01 UTC+02
+! Aktualizacja: wto, 13 paź 2020, 20:01 UTC+02
 !
 !
 ! Newslettery (nie popupy)
@@ -1291,6 +1291,7 @@ sportslaski.pl##.containerright5
 sport-shop.pl##.newsletter_fotter
 sport-transfer.com.pl##.menuFooter > .container > .row > div:nth-of-type(4)
 spot-a-shop.pl##.bg--lg.page-footer__section
+sprawdzimy.info##.gform_widget
 sprawdzonakuchnia.pl##.essb-subscribe-form-inwidget
 sprawnymarketing.pl###post-newsletter
 spreadshirt.pl##.ft-newsletter
@@ -1601,11 +1602,11 @@ zyciepabianic.pl###widget-newsletter
 ||obi.pl/images/footer/newsletter.jpg
 ||oknoserwis.pl/img/newsletter.gif
 ||rynekzdrowia.pl/images/socialBox/mail-a.png
+||salonydenon.pl/modules/tvcmssingleblock/views/img/newsletter
 ||siati.cal24.pl/newsletter$domain=bioindygo.pl
 ||simple.erp-view.pl/images/newslettersimple.jpg
 ||solnemiasto.eu/wp-content/uploads/2014/08/newsletter.png
 ||static.parastorage.com/services/shoutout-get-subscriber/*/modules/widget/main.html
-||stat-a01.zadowolenie.pl/media/cache/filemanager_original/images/zadowolenie/zdw-nowe/sg/okazjonalne/zdw-newsletter-1350x200-v2.jpg
 ||szukam-ksiazki.pl/image/newsletter.png
 ||targiexpoproperty.pl/reklama-mini
 ||telewizja-cyfrowa.com/wp-content/uploads/2016/01/newsletter.png
@@ -1614,9 +1615,10 @@ zyciepabianic.pl###widget-newsletter
 ||upolujebooka.pl/_visual/_b/b_newsletter.jpg
 ||www.eventim.pl/obj/media/PL-eventim/teaser//pl/marketingTeaser/newsletter-new-2016.jpg
 ||www.gofin.pl/images/newslettery_swl.png
-||www.horecabc.pl/wp-content/uploads/HBC-grupa-na-FB2.jpg$image
+||www.horecabc.pl/wp-content/uploads/HBC-grupa-na-FB2.jpg
 ||www.pulshr.pl/images/newsletter/newsletter.png
 ||xiegarnia.pl/wp-content/themes/xiegarnia.pl-theme/assets/images/newsletter-label.png
+||zadowolenie.pl/media/cache/filemanager_original/images/zadowolenie/zdw-nowe/sg/okazjonalne/zdw-newsletter-
 !
 !
 ! Newslettery (nie popupy) - ogólne reguły
@@ -1675,7 +1677,7 @@ pl##.widget_newsletterwidget
 !
 !
 ! Popupy
-~poczta.wp.pl,wp.pl,~~www.wp.pl#?#tr[data-reactid]:not([class]):not([id]) > td[class] > div[class*=" "]:-abp-has( > div > iframe[id^="fm"][src*="freshmail.io"])
+~poczta.wp.pl,wp.pl,~www.wp.pl#?#tr[data-reactid]:not([class]):not([id]) > td[class] > div[class*=" "]:-abp-has( > div > iframe[id^="fm"][src*="freshmail.io"])
 2drink.pl,imperiumromanum.edu.pl,olagosciniak.pl###wbounce-modal
 3doffice.pl,sklep.domiogrod-tarnow.pl,sklep.pesan.pl,sklepsumowy.pl###oknoPopUp, #tloPopUp
 3i-store.com,biogo.pl,bodyhouse.pl,eltrox.pl,megascena.pl,militarialodz.pl,modini.pl,yalu.pl###exit--popup--container
@@ -2062,6 +2064,7 @@ kombo.krakow.pl##body > div:nth-of-type(4), body > div:nth-of-type(6)
 kombo.krakow.pl###divGoTop2Mob
 komorkomat.pl##.offer_modal.order_contact_offer_modal.in.fade.vue_modal
 koncertomania.pl#?#.conv_state_desktop.conv-container:-abp-has(#conv11671)
+konin24.info#?##popup_box:-abp-has(img[src^="file_data/banner/b_"])
 konstantinkanin.com##.hustle-show
 kontri.pl###element_to_pop_up, .bModal
 korczyk.pl##.pop-up
@@ -2787,7 +2790,7 @@ pl###pushwoosh-subscription-widget-root
 !
 !
 ! Scrollujące filmiki
-abczdrowie.pl,autokult.pl,fotoblogia.pl,gadzetomania.pl,komorkomania.pl,money.pl,o2.pl,parenting.pl,~poczta.o2.pl,~poczta.wp.pl,pudelek.pl,wp.pl,www.dobreprogramy.pl,~www.wp.pl##[class*="floating" i][id*="player" i]
+abczdrowie.pl,autokult.pl,fotoblogia.pl,gadzetomania.pl,komorkomania.pl,money.pl,o2.pl,parenting.pl,~poczta.o2.pl,~poczta.wp.pl,pudelek.pl,wp.pl,www.dobreprogramy.pl,~www.wp.pl##.floating[id^="Player"], .randomplayer--floating[id*="player"]
 agrii.pl###panel
 auto-swiat.pl,businessinsider.com.pl,fakt.pl,komputerswiat.pl,medonet.pl,noizz.pl,ofeminin.pl,onet.pl,plejada.pl,przegladsportowy.pl##.player-floating, .player-move-up
 dziennik.pl##.video.widget > .videoScroll, .video.widget > .videoScroll ~ .closeVideoBtn
@@ -3104,7 +3107,7 @@ gosc.pl,promocje.al.to,promocje.x-kom.pl##.GoToTop
 gotujwstylueko.pl##.move-up
 gpcodziennie.pl##.col-md-2
 gralandia.tv##img[src$="/images/arrow.png"]
-graszki.pl,gronek-gry.pl###slide_panel54
+graszki.pl###slide_panel54
 greencell.global###js-top
 grobonet.com,wizja.net###ui-to-top
 gromgroup.pl,silesiasa.pl,singraph.pl,srw.org.pl###scroll-top-btn
@@ -4051,6 +4054,7 @@ powerflex.pl##.bkt--qfc_button
 ppr.pl##.btn-report
 pracatobie.pl###ankieta1
 pracuj.pl###shareOpinionSticker
+profbud.info##.bocznemenu > a.socialicoplus
 profinfo.pl##.right-fix-widget > a[href*="sugestie"]
 projektgamma.pl###face-slider3
 projektowanie-wnetrz-online.pl#?#.dialog-message.dialog-lightbox-message:-abp-has(.elementor-location-popup p:-abp-contains(/^Napisz do nas:$/))
@@ -4584,7 +4588,7 @@ gamerweb.pl###essb-postbar
 gamingsociety.pl##.hshop
 gandalf.com.pl###check_order, #flcart
 gastro-pol.pl###bar-firma
-gazetadywicka.eu,michalowo.euu,nowy.plock.eu,zawidow.eu###pojo-a11y-toolbar
+gazetadywicka.eu,michalowo.eu,nowy.plock.eu,zawidow.eu###pojo-a11y-toolbar
 gazetapraca.pl##.js-offer-suggested-offer-btn.next-offer-box
 gb.pl,wsieciprawdy.pl###showMoreButton
 gdansk.pl##.nast.bat2
@@ -4852,6 +4856,7 @@ ombre.pl###menu_buttons3 > .bxslider > li:nth-of-type(2)
 omega.om.pl##.right.ecp-button
 online.citibank.pl##.call-to-action-bottom
 oohmagazine.pl##.festiwal_card_tab
+opiekunbloga.pl##.pum-position-fixed.popmake.pum-container
 opinie24.pl##.box-size.side-box-container
 opinie-perfumy.pl##.postNavigation
 oponeo.pl###checkOrderStatus
@@ -5445,6 +5450,7 @@ prawo.gazetaprawna.pl##.buySubscription
 prestizszczecin.pl##.pane-views-magazyn-okladka-aktualna.pane-block.panel-pane
 prestiztrojmiasto.pl##.pane-home-temat-glowny .dodatek
 pro-test.pl#?#div.blokRight:-abp-has(a:-abp-contains(/Nowość|Prenumerata/))
+przegladkoninski.pl##.kup_gazete
 przegladlokalny.eu##.right-sidebar > .right-header, .right-sidebar > .text-center
 przegladlokalny.eu##.section-special
 przegladpiaseczynski.pl##.td_block_padding.td-column-1.td_block_template_1.td-pb-border-top.td_block_3.td_block_wrap
