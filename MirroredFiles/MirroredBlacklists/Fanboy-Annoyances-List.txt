@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mPZwc0hNTsEPOlL2UONF6w
-! Version: 202010140021
+! Checksum: uv9ffmDRWJvu7XYkHSP6aQ
+! Version: 202010150021
 ! Title: Fanboy's Annoyance List
-! Last modified: 14 Oct 2020 00:21 UTC
+! Last modified: 15 Oct 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -28071,6 +28071,7 @@ _site_cookie_
 ##.am-cookie-notice
 ##.am-cookiebar
 ##.amgdpr-cookie
+##.amgdprcookie-bar-template
 ##.ams-m-cookie-warning
 ##.amz-cookies-notice
 ##.analytics-consent
@@ -30842,6 +30843,7 @@ _site_cookie_
 ##.gdprBannerWrapper
 ##.gdprBnnr
 ##.gdprBoxContainer
+##.gdprCookieBanner_container
 ##.gdprCookieLaw
 ##.gdprLegalNotification
 ##.gdprManagerMessage
@@ -33241,7 +33243,6 @@ _site_cookie_
 ||royapp.com^$third-party
 ||rsspump.com^$third-party
 ||s3.amazonaws.com/scripts.hellobar.com/$third-party
-||saambaa.com^$third-party
 ||sail-horizon.com/scout/$third-party
 ||sail-horizon.com^$third-party
 ||sail-personalize.com^$third-party
@@ -35790,6 +35791,7 @@ juxtapoz.com##.NewFollowBox
 myegy.cc##.NotifyProposal
 priceme.co.nz##.PrettyBreadCrumbRightDiv
 diffchecker.com##.ReactModalPortal
+app.slack.com##.ReactModal__Overlay
 inc.com##.SectionUpDown
 m.reddit.com##.SmartBannerContainer
 imgur.com##.SnowFlakesBg
@@ -43985,6 +43987,7 @@ angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.
 majani.it###cs-banner
 netflixlovers.it###cs_container
 staffettaonline.com###ctl00_CtrlLogAbbonato1_cookiealert
+sardegna1.tv###dcb-black-screen
 ilfruttarolo.it###decretopr
 inartek.it###discl
 nau.it###disclaimer
@@ -44779,7 +44782,7 @@ autotrader.com,brydge.com,liputan6.com#@##back-to-top
 engie.fr,gaz-tarif-reglemente.fr,nasa.gov#@##backToTop
 rmf24.pl#@##backTop
 nasa.gov#@##backtoTop
-megalight18.net,stp-shop.ru#@##backtop
+megalight18.net,mk-78.ru,stp-shop.ru#@##backtop
 gcnlive.com,nasa.gov#@##backtotop
 patch.com#@##email-modal-wrapper
 hearthis.at#@##email-overlay
@@ -45856,7 +45859,7 @@ yoigo.com#@#thor-cookies
 @@||portal.aae.at/changeportal/js/lib/cookieconsent.js$script,~third-party
 @@||quantcast.mgr.consensu.org^*/choice.js$domain=independent.co.uk
 @@||riwal.com/includes/js/components/cookiebar.js$script
-@@||sdk.privacy-center.org^$script,domain=ivoox.com|lavanguardia.com|mundodeportivo.com
+@@||sdk.privacy-center.org^$script,domain=gamestar.de|ivoox.com|lavanguardia.com|mundodeportivo.com
 @@||shop.dangerfield.com.au/min/$script,stylesheet
 @@||sky.com^*_cookie_$script
 @@||socialtigers.pl/js/plugins/jquery.cookiepolicy.js
