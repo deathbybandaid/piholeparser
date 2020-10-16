@@ -3,4 +3,4 @@
 [Go Up One Level](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/.md)
 ____________________________________
 # 70-Compiling-Deathbybandaid-Combined-List
-* All Parsed List (edited) Removed. Thu Oct 15 00:35:31 UTC 2020
+* All Parsed List (edited) Removed. Fri Oct 16 00:34:32 UTC 2020
