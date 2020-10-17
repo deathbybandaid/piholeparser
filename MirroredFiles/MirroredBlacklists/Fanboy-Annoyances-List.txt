@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: SQ3jUPIe3nFgTsy5dKSXSA
-! Version: 202010160021
+! Checksum: bmeHidxRYW+98i5UubLHuQ
+! Version: 202010170031
 ! Title: Fanboy's Annoyance List
-! Last modified: 16 Oct 2020 00:21 UTC
+! Last modified: 17 Oct 2020 00:31 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -11210,6 +11210,7 @@ _site_cookie_
 ##.NavSocial-li
 ##.NavSocial-twitter
 ##.NavSocial-ul
+##.Nav__Social
 ##.Navbar__follow
 ##.NewSocial_Gab
 ##.NewSocial_Mewe
@@ -16571,6 +16572,7 @@ _site_cookie_
 ##.ppr_priv_share
 ##.praxis-social-links
 ##.pre-footer-social
+##.pre25SocialLinks
 ##.prefooter__social
 ##.prettySocial
 ##.pretty_social
@@ -31130,6 +31132,7 @@ _site_cookie_
 ##.js-cookie
 ##.js-cookie-agree
 ##.js-cookie-alert
+##.js-cookie-alert1
 ##.js-cookie-banner
 ##.js-cookie-bar
 ##.js-cookie-close
@@ -33834,6 +33837,7 @@ _site_cookie_
 ||cookiebot.com^$third-party
 ||cookiechoices.org^$third-party
 ||cookieconsent.silktide.com^$third-party
+||cookiehub.net^$third-party
 ||cookieinformation.com/*/*.js
 ||cookieinformation.com^$subdocument,third-party
 ||cookieinfoscript.com^$third-party
@@ -39471,6 +39475,7 @@ alarabiya.net,amd.com,batman-news.com,bbcamerica.com,bgr.com,californiasunday.co
 aikenstandard.com##.follow-aiken-standard
 aol.com##.follow-aol
 breakingnews.ie##.follow-bn
+ein-herz-fuer-kinder.de##.follow-container
 indiancountrytodaymedianetwork.com##.follow-home
 talabat.com##.follow-i
 radio.com##.follow-link--facebook
@@ -41210,6 +41215,7 @@ ethereumprice.org##.zxc-msg
 theaustralian.com.au##CAAS-MESSAGE-PANEL
 santatracker.google.com##SANTA-NOTICE
 trustnet.com##USER-TYPE-POPUP
+vivid.money##[class^="cookieNotification_"]
 shutterstock.com##[data-automation="Eu_banner_container"]
 mobile.twitter.com##[data-reactroot] > [class] + [class]:last-child
 facebook.com##[data-testid="cookie-policy-banner"]
@@ -43995,6 +44001,7 @@ ecodallecitta.it###contenuto_consenso
 spesasicura.com###cook
 aeo.it,bookingaltoadige.com,camionsupermarket.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miabolzano.it,miamerano.it,mymercato.it,pallacanestrovarese.it,primocanale.it,sace.it,sanfrancescopatronoditalia.it,spesati.it,tecnocasa.it,wd40.it###cookie
 angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,lupopornohd.it,menshealth.it,motociclismo.it,ordineavvocati.bari.it,pardini.it,runnersworld.it,tennisitaliano.it,testimania.com,thefilmclub.it,unipv.it,velaemotore.it###cookies
+telea1.it###cooky_content
 majani.it###cs-banner
 netflixlovers.it###cs_container
 staffettaonline.com###ctl00_CtrlLogAbbonato1_cookiealert
