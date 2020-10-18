@@ -212,7 +212,6 @@ amicodiieri.it
 ammadv.it
 amongproject.it
 ampisolabergeggi.it
-analisiclinichebrusca.it
 analytics.arubamediamarketing.it
 analytics.digitouch.it
 analytics.magelan.it
@@ -383,7 +382,6 @@ baviera.it
 bb-mariposa.it
 bbanner.it
 bbcatania.my-lp.it
-bbgiardinodoriente.it
 bbmarilu.it
 bbvogliadimare.it
 bcb.it
@@ -464,7 +462,6 @@ bricomoto.it
 bt.rcs.it
 bugsbanner.it
 buonpescatoitaliano.it
-burundisenzafrontiere.it
 buy-phentermine-online.135.it
 c0m.it
 cadutacapellirimedio.it
@@ -482,10 +479,10 @@ camionsupermarket.it
 camminachetipassa.it
 camperent.it
 camponovo.it
-campusaquae.it
 canellamoto.it
 cantinefaliesi.it
 caracteristiquesrenommes.it
+carbonmosaic.it
 carboplast.it
 carlocossio.it
 carlogelosi.it
@@ -510,7 +507,6 @@ casaceramiche.it
 casadiriposovilladellerose.it
 casalingheporno.it
 casamusicabologna.it
-casearomacentro.it
 casedilegno.it
 caseificiodesantis.it
 caseumbre.it
@@ -553,7 +549,6 @@ cherubinimobili.it
 chiaperottipaolo.it
 chiarabernardi.it
 chilp.it
-chimicolorgerli.it
 chiro.it
 chng.it
 chossanadrariverangr.it
@@ -609,7 +604,6 @@ commercialistichieti.it
 comodo.it
 compagnocane.it
 comprabanner.it
-comprarefarmaci.it
 compushop.it
 comune.perosaargentina.to.it
 comune.sanpietroaltanagro.sa.it
@@ -714,6 +708,7 @@ dev.mtmshop.it
 devincenti.it
 dianasport.it
 dibrunamanshyea.it
+diegobianchinews.it
 difamily.it
 digilander.libero.it
 digitaladv.despar.it
@@ -1127,7 +1122,6 @@ innaapekina.it
 innovabooking.it
 inormann.it
 inostriconsigli.it
-inprimeweb.it
 instore.pagomeno.it
 insubriamed.it
 interflora.it
@@ -1543,6 +1537,7 @@ numismatica2p.it
 numismaticatrionfale.it
 nuovadomusarredamenti.it
 nuovaitaldent.it
+nuovo-sistema-app.it
 nuovo.shaolinsoccer.it
 nuovogarden.it
 nutrisport.it
@@ -1560,6 +1555,7 @@ obtimaledecouvertesasses.it
 occasionidelcuore.amref.it
 occhei.it
 ocse.it
+ofcatalin.it
 offertematerassi.it
 officinapiva.it
 ogame.it
@@ -1789,19 +1785,6 @@ redirect-expedia.it
 redmet1.divart.it
 redstore.it
 regalidallarussia.it
-remove-facebookcom-04429941.tizianacristofari.it
-remove-facebookcom-17191484.tizianacristofari.it
-remove-facebookcom-17405262.tizianacristofari.it
-remove-facebookcom-27320955.tizianacristofari.it
-remove-facebookcom-32043740.tizianacristofari.it
-remove-facebookcom-55097686.tizianacristofari.it
-remove-facebookcom-68230796.tizianacristofari.it
-remove-facebookcom-80222487.tizianacristofari.it
-remove-facebookcom-87443304.tizianacristofari.it
-remove-facebookcom-88077484.tizianacristofari.it
-remove-facebookcom-92063376.tizianacristofari.it
-remove-facebookcom-96278713.tizianacristofari.it
-remove-facebookcom-98943160.tizianacristofari.it
 resenergy.it
 residencegardenia.it
 residencegridone.it
@@ -1868,7 +1851,6 @@ samoiedo.it
 sampey.it
 samspot.softairmania.it
 sanguineti.it
-santipietroepaololatina.it
 santissimo.it
 sapol.it
 sarabernardelli.it
@@ -2013,7 +1995,6 @@ sportacus.it
 sportexpert.it
 spotmix.libero.it
 srnk.it
-sromano.it
 srvcla-ub10.claimadv.it
 ss.tiscali.it
 ssl.admin.itybuy.it
@@ -2070,6 +2051,7 @@ superzeta.it
 support-73.it
 surja.it
 surveyabincol.it
+sushigarden.it
 suwa.it
 sv1.eyeonmusica.it
 sweettravel.it
@@ -2096,7 +2078,7 @@ tecnoaffilatura.it
 tecnodrinktrento.it
 tecnologicapavan.it
 telefoni.it
-telemarketingliste.it
+teleglobalsecurity.it
 telesorveglio.it
 tenda.it
 teprom.it
@@ -2226,7 +2208,6 @@ viduesrl.it
 villaducale.it
 villaggioinsicilia.it
 villamariasangano.it
-villarosaresort.it
 villaserenapachino.it
 vincenzofranchino.it
 vinicolacherchi.it
@@ -2252,7 +2233,6 @@ westcoastswingitaly.it
 wetrack.it
 widget.promoqui.it
 wikidesign.it
-wildcard.tizianacristofari.it
 willblackedruverstaredman.it
 wklm.it
 wnt-40.seeweb.it

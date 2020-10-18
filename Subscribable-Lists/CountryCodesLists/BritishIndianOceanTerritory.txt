@@ -12,6 +12,7 @@
 1rx.io
 2.top4top.io
 22lco.codesandbox.io
+248bf8dcac87.ngrok.io
 24e8c1f6.ngrok.io
 26c52281.ngrok.io
 28d636e3e84b.ngrok.io
@@ -177,7 +178,6 @@ a-sjo.1rx.io
 a-v2.presage.io
 a.admp.io
 a627752a.ngrok.io
-a676d210384f.ngrok.io
 aa822c15.ngrok.io
 aaa.ipbc.io
 about.coinfirm.io
@@ -728,6 +728,7 @@ dev-fewfewfewfew.pantheonsite.io
 dev-gdj.pantheonsite.io
 dev-goat-203.pantheonsite.io
 dev-linkedin-com.pantheonsite.io
+dev-made-in-chlna.pantheonsite.io
 dev-online-discover.pantheonsite.io
 dev-online23.pantheonsite.io
 dev-passport-alibaba-com.pantheonsite.io
@@ -1633,11 +1634,12 @@ report-zt.1rx.io
 reports-api.sqreen.io
 resolveaccounterror.github.io
 resources.presage.io
+restreint.io
 revealer.adapt.io
 review-593.getforge.io
-review-secure03c.github.io
 review.recentad.io
 reviewshareddocument.imfast.io
+rfkfjkerkfjr.bubbleapps.io
 rgaudit.1rx.io
 rgthrottle.1rx.io
 rhythmanalytics.1rx.io
@@ -1843,6 +1845,7 @@ submit01.linode-ca1.backtrace.io
 submit01.linode-de1.backtrace.io
 submit01.linode-jp2.backtrace.io
 submit01.linode-nj1.backtrace.io
+sucursalpersonastransaccionesbancolombiacom.loclx.io
 sucursalpersonastransaccionesbancolombiagroupvirtual.burrow.io
 sucursalpersonastransaccionesbancolombiasucursalseguridad.burrow.io
 sucursalpersonastransaccionesbancolombiavirtualcom.burrow.io

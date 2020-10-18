@@ -16,6 +16,7 @@ adserver.ads.com.ph
 adx.kat.ph
 ae12f37e8e943d072a609e83d604de2c52463e51.ph
 aeonluxe.com.ph
+aimfs.digitstrading.ph
 aksyonradyobacolod.com.ph
 alathe.ph
 alcochemphil.com.ph
@@ -109,9 +110,9 @@ ffhtkk.ph
 fhm.com.ph
 fliuvana.url.ph
 fmt05.web.com.ph
+fmt06.web.com.ph
 forceadd.com.ph
 forceadd.net.ph
-foxfire.ph
 fufflef.ph
 full99.net.ph
 fvillers.ph
@@ -144,6 +145,7 @@ jasiltraveltours.com.ph
 jbhqkd.ph
 jobhiring.ph
 jp.dshpkg.ph
+jp.rbhtkf.ph
 jp.wxhgkn.ph
 juancarlo.ph
 keeva.com.ph
@@ -189,7 +191,6 @@ rakuten.co.jp.fdhzks.ph
 rakuten.co.jp.fphdkc.ph
 rakuten.co.jp.hrhwkm.ph
 rakuten.co.jp.m1ieusn2.wzhpky.ph
-rakuten.co.jp.rbhtkf.ph
 rakuten.co.jp.wthrkb.ph
 rakuten.co.jp.xkhqkc.ph
 rakuten.co.jp.xshjkz.ph

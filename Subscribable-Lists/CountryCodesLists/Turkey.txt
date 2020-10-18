@@ -65,13 +65,11 @@ akarnakliye.com.tr
 akasya.mgt.dia.com.tr
 akdenizklima.com.tr
 akdenizyildizi.com.tr
-akgul.av.tr
 akgullerinsaat.com.tr
 akillisaat.com.tr
 akinari.com.tr
 akkurtgida.com.tr
 aknez.com.tr
-akselelektronik.com.tr
 aktifinsaat.gen.tr
 alaca.com.tr
 alcaninsaat.com.tr
@@ -275,7 +273,6 @@ ekbak.com.tr
 ekinokstravel.com.tr
 ekurgu.anadolu.edu.tr
 elektroniksigaravip.net.tr
-elifkaratas.com.tr
 elitemaxgayrimenkul.com.tr
 emef.com.tr
 emkadogalgaz.com.tr
@@ -702,7 +699,6 @@ thepinkdiamond.com.tr
 tilsim.org.tr
 tiole.com.tr
 tita.com.tr
-tiyatro.beykoz.bel.tr
 tml.web.tr
 tmpk.org.tr
 topragitaniyoruz.pau.edu.tr

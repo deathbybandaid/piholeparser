@@ -15,6 +15,7 @@
 a.boom.ro
 a.zoot.ro
 abgoldish.ro
+abujie.ro
 academiademasaj.ro
 acardesign.ro
 acccount-verification.ecart.com.ro
@@ -139,6 +140,7 @@ ayareview-document.pdf-iso.webapps-security.review-2jk39w92.newsletter.stomatolo
 ayerbo.xhost.ro
 bacm.ro
 balastiere-ploiesti.ro
+baltagruiu.ro
 banana.automaxcenter.ro
 bancoestado.cl.scoaladesoferi-azratim.ro
 banner.finzoom.ro
@@ -180,7 +182,6 @@ bogdanpeptine.ro
 bonbonboutique.ro
 boom.ro
 bosman.pluto.ro
-botrise.iset.ro
 brainsconsulting.ro
 brandexpress.ro
 brat-online.ro
@@ -207,7 +208,6 @@ camaramea.ro
 cameliabalmau.ro
 caminulgradinabunicilor.ro
 campanie.go.ro
-campaniepsd.iset.ro
 capital.count.brat-online.ro
 carbonfiber.ro
 carcfrifn.ro
@@ -256,7 +256,6 @@ comandor-impex.ro
 complexaropalace.ro
 comsertim.ro
 comunaghergheasa.ro
-comunasiriu.ro
 concurs.kzh.hi2.ro
 conferintahrb.ro
 consacre.ro
@@ -284,7 +283,6 @@ csikszentmihaly.ro
 csrj-ah.rau.ro
 ctib.ro
 cufarulculenjerii.ro
-culinera.botrise.ro
 curscomplet.ro
 customgrup.ro
 cvartet-capriccio.ro
@@ -303,7 +301,6 @@ deblocariusi24.ro
 decitex.ro
 decoded.ro
 deliciilemarei.ro
-delivoo.ro
 deltacraft.ro
 demaror.ro
 demo.automationbootcamp.ro
@@ -340,7 +337,6 @@ dp-proprietari.ro
 draw100.ro
 dreptatesociala.ro
 dreptulmeulaavort.ro
-drive.iset.ro
 drrosu.ro
 drumetulguard.com.ro
 dswdsw.ro
@@ -384,7 +380,6 @@ eleksanyi.home.ro
 elomo.ro
 emadialine.ro
 emedialabtrainingacademy.ro
-emelev.botrise.ro
 emms.ro
 epectasys.ro
 error.intuitext.ro
@@ -415,14 +410,12 @@ figurative.flowtemp.ro
 filisan.ro
 filme18.8k.ro
 filmuloctav.ro
-firmaddd.iset.ro
 fit4success.ro
 fjrsitejfnmainserv.ro
 flaviateodosiu.ro
 florindumitrescu.ro
 fontanaresidence.ro
 foodandwineshow.ro
-foodmap.iset.ro
 fordmustangromania.ro
 forti-imob.ro
 fotovideografie.ro
@@ -431,7 +424,6 @@ fpse.cros.ro
 fr.westernunion.com.fr.fr.session-expired.html.trupaartizan.ro
 fra.ro
 frbadminton.ro
-freesms.ro
 frumoasafoc.ro
 frumuseanudaniela.go.ro
 fugitdeacasa.ro
@@ -452,7 +444,6 @@ ghidmamaia.ro
 ghidneamt.ro
 giafastfood.ro
 glassiri.ro
-glo.iset.ro
 gmp.home.ro
 gnj.ro
 goldcotton.ro
@@ -666,7 +657,6 @@ neladiabebe.ro
 neptunservice.ro
 nergegba_un.ro
 nesgolftocal1939.blogspot.ro
-nest.iset.ro
 netflix.update.informations.clientlogin.quickpharma.ro
 newline.brando.ro
 news.oboyle.ro
@@ -763,7 +753,6 @@ premiumgift.ro
 premiumstudio.ro
 prestgeodan.ro
 primaria-borsec.ro
-primariacazanesti.ro
 primariapischia.ro
 printforall.ro
 prismaserv.ro
@@ -784,7 +773,6 @@ promo.intuitext.ro
 promoart.ro
 promotools.ro
 prorock.ro
-psd.botrise.ro
 psihologul-tau.ro
 publicitateprinemail.ro
 publimark.ro
@@ -883,7 +871,6 @@ sln.ro
 smartletter.ro
 smartscan.ro
 smartwebdesign.ro
-sms.iset.ro
 socas.pluto.ro
 socialskills.ro
 socumtrans.ro
@@ -909,7 +896,6 @@ stampile-sibiu.ro
 starfix.ro
 startec-paris.ro
 startex.ro
-startrade.iset.ro
 startupbiz.ro
 static.gtop.ro
 statistici.ro
@@ -927,8 +913,6 @@ studiodin.ro
 studiofusion.ro
 supermeditatii.ro
 support-replyalertspchase-login.ml.cazare-sarmizegetusa.ro
-supradesk.iset.ro
-supradesk.ro
 suruburi-autoforante.ro
 susai.ro
 suub-sper.ro
@@ -950,9 +934,6 @@ tenisivansieftini.ro
 terem.eltransbt.ro
 termodan.ro
 terrabit.ro
-test.botrise.ro
-test2.botrise.ro
-test3.botrise.ro
 testari-online.ro
 textad.traficdublu.ro
 thebagshop.ro
@@ -983,7 +964,6 @@ topshop.ro
 topsiteuri.ro
 toriabeauty.ro
 traducator-translator.ro
-traducerejuridica.ro
 trafic.ro
 traficdublu.ro
 trafix.ro
@@ -1021,6 +1001,7 @@ ventrust.ro
 verandainteriors.ro
 vertimex.ro
 vestidesprepovesti.ro
+veterinar-jilava.ro
 vevesubdomeniu.hi2.ro
 viagraviagra.3xforum.ro
 video-detect.ro
@@ -1033,7 +1014,6 @@ visaeurope.tiglametalicagerard.ro
 vitromed.ro
 viva.count.brat-online.ro
 vivalavidabv.ro
-vlad.iset.ro
 vladtrans.ro
 vpa4nzyfiwxrf7bg21iz.viomil.ro
 vreaununta.ro
@@ -1097,7 +1077,6 @@ xanaxxanax.3xforum.ro
 xchange.ro
 xn--dezmembrri-constana-dfc400d.ro
 xn--transfgran-mgbbb600b.ro
-xnest.iset.ro
 xtrafic.ro
 yacovtours.ro
 yhddsw.ro

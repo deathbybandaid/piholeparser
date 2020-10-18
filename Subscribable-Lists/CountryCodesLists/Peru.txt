@@ -25,7 +25,6 @@ avs.com.pe
 barcia-boniffatti.edu.pe
 bcp.futbolfinanciero.com.pe
 beaver.com.pe
-bisconsultoria.pe
 blogcdam.minam.gob.pe
 bravet.pe
 butterfly.pe
@@ -46,6 +45,7 @@ cle.pe
 coipac.pe
 colegiodavinci.pe
 companiamisionera.org.pe
+complete-vchs.bunkerac.pe
 compusoftdata.pe
 consultora-mj.pe
 consultoriaeducativa.org.pe
@@ -74,6 +74,7 @@ diyitals.pe
 djeane.com.pe
 doncuy.com.pe
 ea.megustaleer.com.pe
+easyrest.focusit.pe
 eca-amarakaeri.org.pe
 ecoelectric.com.pe
 ectaca.com.pe
@@ -121,6 +122,7 @@ ilcb.edu.pe
 imprentalopez.com.pe
 inbioma.pe
 indumet.com.pe
+inspiro.pe
 intranet.ugel01.gob.pe
 ipmingenieros.com.pe
 isamisa.com.pe
@@ -203,6 +205,7 @@ peruvias.pe
 pervicon.com.pe
 petsafeperu.pe
 phi.com.pe
+pichara.pe
 polosac.pe
 popcom.pe
 primariaunh.edu.pe
@@ -224,6 +227,7 @@ seesc.jemari.com.pe
 sei.com.pe
 semmaq.com.pe
 servican.pe
+sillasderuedas.pe
 smprovidencia.edu.pe
 sociales.unmsm.edu.pe
 somossostenibles.pe
@@ -258,7 +262,6 @@ viabcp-com.volvodriveracademy.pe
 vivaliagrupoinmobiliario.pe
 volvodriveracademy.pe
 vry.edu.pe
-waldorf-lima.edu.pe
 warayana.com.pe
 wardia.com.pe
 wari.com.pe

@@ -221,7 +221,6 @@ eskuvoiszalon.hu
 eskuvotervezo.hu
 especialdesign.hu
 etarget.hu
-etlapgyartas.hu
 eurocompkft.hu
 eveangel.hu
 experi-ment.hu
@@ -323,6 +322,7 @@ intraweb.hu
 invivo.hu
 iphoneszervizbudapest.hu
 iranydalmacia.hu
+isidro05wc106p-buxod-com.eoldal.hu
 itsecr.hu
 ize.hu
 izeselet.hu
@@ -384,6 +384,7 @@ maratom.hu
 marc.pe.hu
 marketingprogram.hu
 maskepp.hu
+mateszalkaiszc.hu
 matfussli.pe.hu
 maxibutor.hu
 mbiasi93.pe.hu
@@ -490,7 +491,6 @@ proba1.allvanybolt.hu
 productspecification.pe.hu
 profil2000.hu
 prokomm.hu
-protection-mimecast.mateszalkaiszc.hu
 pvbk.hu
 rabavolgy.hu
 randi24.hu
@@ -544,6 +544,7 @@ sorbancsaba.hu
 sors2002.hu
 spastroyproekt.pe.hu
 sprintjogsi.hu
+srno.hu
 srsvsgm.pe.hu
 sslhostinger-1tk.pe.hu
 staro.idg.hu

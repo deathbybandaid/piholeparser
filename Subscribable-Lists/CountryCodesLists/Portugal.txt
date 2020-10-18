@@ -29,7 +29,6 @@ adw.sapo.pt
 aemportugal.pt
 agromilenio.pt
 ahsantiago.pt
-aliancademisericordia.pt
 align.pt
 alyssamilano.home.sapo.pt
 amadoragimnoclube.pt
@@ -52,7 +51,6 @@ atlantic-dimension.pt
 atso.pt
 automair.pt
 azevedoneves.pt
-backoffice.scml.hypnotic.pt
 bagir.pt
 baiadoseixal.cm-seixal.pt
 bamo.xsl.pt
@@ -208,7 +206,6 @@ megahost.pt
 memoriasdarevolucao.pt
 metabolicedge.pt
 metalmozel.pt
-mglgraphics.pt
 milcenas.pt
 milenar-ads.pt
 minercry.pt
@@ -240,6 +237,7 @@ ortopediacarlita.com.pt
 paionense.pt
 parque5.pt
 pcclinic.pt
+pedromendes.pt
 pendencia21.com.sapo.pt
 peterfilesblog.blogspot.pt
 pgalvaoteles.pt

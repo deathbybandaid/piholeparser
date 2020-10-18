@@ -37,12 +37,10 @@ dll.ec
 dllst.com.ec
 dllst.ec
 dllst.net.ec
-dormileon.ec
 ebay.ec
 ecosur.ec
 facebook-log-in-attempt-customer-verification-195664.bajomilestrellas.com.ec
 fernandez.ec
-fisiopet.com.ec
 freeones.ec
 goe.gov.ec
 gotrade.com.ec

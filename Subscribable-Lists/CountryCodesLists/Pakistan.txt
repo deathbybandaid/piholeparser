@@ -111,7 +111,6 @@ dintextile.dingroup.com.pk
 diyspace.com.pk
 dmlst.pk
 drahmad.com.pk
-dramin.pk
 drbean.pk
 dreamteam.pk
 dukaan247.pk
@@ -167,7 +166,6 @@ futurenet.com.pk
 g.icab.pk
 gcwkotlakhpat.edu.pk
 getshade.pk
-ghousbukshshippingservices.com.pk
 globalrock.com.pk
 glorious.net.pk
 gofresh.com.pk
@@ -220,17 +218,14 @@ karandaaz.com.pk
 kba.org.pk
 kbctouch.kbc.be.chajjo.pk
 kidsfit.pk
-koshik.pk
 kreation.pk
 lamarzocco.com.pk
 leo.net.pk
 liveways.pk
 lle.com.pk
-lms.icap.org.pk
 lodhran.pk
 login-to-paypal.amin-telecom.pk
 londonacademy.com.pk
-luckytours.pk
 maarijfabrics.pk
 mad.com.pk
 maiservices.com.pk
@@ -240,7 +235,6 @@ martgloves.pk
 marwatassociates.com.pk
 marzsgroup.com.pk
 mdltp.pk
-medihub.pk
 meezantrading.pk
 metron.com.pk
 mianbrothers.com.pk
@@ -369,11 +363,13 @@ sussi.cressoft.com.pk
 tecklinks.com.pk
 teclink.com.pk
 terralink.com.pk
+theflorist.pk
 thelighthouse.pk
 theoxfordschool.edu.pk
 thereals.pk
 tjenterprises.com.pk
 totalinstalube.com.pk
+toy-house.pk
 trackandshop.pk
 travelight.pk
 travelservices.pk

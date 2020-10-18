@@ -3,7 +3,6 @@
 agrover.uz
 airma.uz
 anora71.uz
-astigmati.uz
 aziko9.uz
 azlex.uz
 bank.uz
@@ -42,6 +41,7 @@ qrerloyiha.uz
 s-zone.uz
 school118.uz
 shovot27-m.uz
+silkcarpets.uz
 sir.uz
 starprint.uz
 svir.uz

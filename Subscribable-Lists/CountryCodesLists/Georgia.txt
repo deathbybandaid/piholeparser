@@ -37,7 +37,6 @@ geobelt.ge
 globalservice.com.ge
 gnta.ge
 graphite.drawbrid.ge
-gspltd.ge
 hardhat.drawbrid.ge
 heel.ge
 heraldgroup.com.ge
@@ -74,6 +73,7 @@ nanostyle.ge
 newmetekhi.ge
 now.ge
 officetechnologies.ge
+okbuilding.ge
 partners.drawbrid.ge
 pegas.ge
 phlogenzym.ge
@@ -97,7 +97,6 @@ stargroup.ge
 supergeorgia.ge
 swaps.ge
 swb.gol.ge
-tenders.palitra.ge
 tesli.ge
 test123.starcarrent.ge
 tkgroup.ge

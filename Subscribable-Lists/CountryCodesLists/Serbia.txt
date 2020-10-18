@@ -28,7 +28,6 @@ bravax.co.rs
 bt.rs
 cedenovoce.co.rs
 citymobile.rs
-coca-colamladima.rs
 commodorehost.rs
 cplaw.rs
 creativeteam.co.rs
@@ -74,7 +73,6 @@ kupijeftino.rs
 laserprofessional.rs
 livingston.rs
 livnicaplamen.co.rs
-ljiljanacrnic.in.rs
 loopia.rs
 lutrija.rs
 medicinarada.rs
@@ -89,7 +87,6 @@ mus.co.rs
 neipori.co.rs
 neosmarmaras.co.rs
 news.intertours.org.rs
-nexus-proagro.rs
 oglasihalo.co.rs
 ordinacijailic.co.rs
 ossubotinac.edu.rs

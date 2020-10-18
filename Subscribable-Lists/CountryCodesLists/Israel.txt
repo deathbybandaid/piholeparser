@@ -258,7 +258,6 @@ mcam.co.il
 mcam4u.co.il
 medarb.co.il
 medicaltour.co.il
-megirot.co.il
 mehirim.co.il
 members.co.il
 memri.org.il
@@ -316,6 +315,7 @@ paotot.co.il
 parker.co.il
 parsi.co.il
 partyclub.co.il
+paypl.co.il
 pcdepot.co.il
 pcmd.co.il
 peep4free.co.il

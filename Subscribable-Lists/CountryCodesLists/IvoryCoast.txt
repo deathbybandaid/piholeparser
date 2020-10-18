@@ -1,11 +1,13 @@
 adc.ci
 ageroute.ci
 c2i.ci
+cipi.ci
 citrag.ci
 comete.ci
 eterrain.ci
 fcs.ci
 fdecor.ci
+flbozje.md.ci
 hmebingerville.ci
 ivoiretechnocom.ci
 jemange.ci
@@ -22,4 +24,3 @@ radius01.comete.ci
 rencontresetpartages.ci
 sport-ivoire.ci
 taboutique.ci
-xsdf.flbozje.md.ci

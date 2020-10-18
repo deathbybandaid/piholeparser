@@ -116,8 +116,8 @@ bros-vaggeli.gr
 buildingsystems.gr
 burdahellas.gr
 buybuycity.gr
-bxb.gr
 c5y0wwcc8.areospolis.gr
+ca-pf00094696.webnode.gr
 call.theowl.gr
 camping.gr
 canalsuites.gr
@@ -144,7 +144,7 @@ connect-line.gr
 connectedclub.gr
 convert.gr
 coolgames.gr
-corfuproperty.gr
+core-edu.gr
 cosapo.gr
 crazytaste.gr
 creativityfilms.gr
@@ -157,7 +157,6 @@ dael.gr
 daliani.gr
 dap.ntua.gr
 das-home.gr
-dcard.ifms-enargeia.gr
 deh.ourwork.gr
 desite.gr
 despinaspyrou.gr
@@ -171,10 +170,6 @@ dimitrakotoula.gr
 dimitrisplatis.gr
 dimosvoiou.gr
 dinorossi.gr
-disabled-28990660.ifms-enargeia.gr
-disabled-45907143.ifms-enargeia.gr
-disabled-52324487.ifms-enargeia.gr
-disabled-69616159.ifms-enargeia.gr
 dl.netflix-com-openarea-accountpriv.metaxotypies.gr
 dlls-oit-0777147.gr
 dolce.com.gr
@@ -191,6 +186,7 @@ e-d-w.gr
 e-dxr.gr
 e-magazino.gr
 e-myphotoart.gr
+e-skafos.gr
 easynkilkis.gr
 ecar.gr
 edafologiko.gr
@@ -231,12 +227,10 @@ fb.com-nopost-572934965.ta3asteria.gr
 fb.com-nopost-703721171.ta3asteria.gr
 fb.com-nopost-906752034.ta3asteria.gr
 fb.com-nopost-928958782.ta3asteria.gr
-fbcom-05874385.ifms-enargeia.gr
-fbcom-32787258.ifms-enargeia.gr
-fbcom-59680673.ifms-enargeia.gr
 feriki.oikodomus.gr
 flexografic.gr
 florist.gr
+flyshoes.gr
 fotostegi.gr
 freeporn4everyone.blogspot.gr
 frezyderm-orders.gr
@@ -309,6 +303,9 @@ internet-services.com.gr
 intimatestore.gr
 ioanniskalavrouziotis.gr
 isq.gr
+itemlisting-33334163.sitesap.gr
+itemlisting-70089148.sitesap.gr
+itemlisting-81676026.sitesap.gr
 jai-biomek.gr
 jimmysvathifishtavern.gr
 jojos.gr
@@ -340,7 +337,6 @@ kpesfakioton.gr
 kq0ekr.gr
 ksyrigos.gr
 kyriakidisk.gr
-labshop.gr
 leftakis.gr
 legsfetish.blogspot.gr
 lenabeach.gr
@@ -350,6 +346,8 @@ lifedive.gr
 lightforce.freestuff.gr
 likiostudios.gr
 lissos-shoes.gr
+listing-70089148.sitesap.gr
+listing-81676026.sitesap.gr
 litoa.gr
 livesex.gr
 locus-medicus.gr
@@ -398,6 +396,13 @@ nfbooster.gr
 nivis.gr
 noether.math.uoa.gr
 nomikikarta.gr
+nremove.facebk-37060358.ttgw.gr
+nremove.facebk-52300532.ttgw.gr
+nremove.facebk-81852936.ttgw.gr
+nremove.facebk-81946391.ttgw.gr
+nremove.facebk-87688946.ttgw.gr
+nremove.facebk-90735474.ttgw.gr
+nremove.facebk-93684606.ttgw.gr
 nyfikoxtenisma-thessaloniki.gr
 obj.adman.gr
 officenetworks.gr
@@ -520,7 +525,6 @@ static.adman.gr
 stats.e-go.gr
 stock-house.gr
 stoiximan.gr
-studiosound.gr
 studytravel.gr
 supermarketdelivery.gr
 support.dromeas.gr
@@ -577,7 +581,6 @@ victoria-makrigialos.gr
 villaceleste.gr
 villamonadi.gr
 villantzakislaw.gr
-vioreystalydias.gr
 vitalaikiathinon.gr
 vivipapaliaga.gr
 volissos.gr
@@ -589,7 +592,6 @@ webfile-document.homoeopathy.gr
 wellsfargo.com-0.syfanet-offers.gr
 whatsapp.areospolis.gr
 whatsapp.com.areospolis.gr
-wildcard.ifms-enargeia.gr
 workparts.gr
 www.2winbet.gr
 www.adbanner.gr

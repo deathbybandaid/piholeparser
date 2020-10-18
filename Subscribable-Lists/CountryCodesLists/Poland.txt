@@ -591,7 +591,6 @@ borkovitz.pl
 boryskowalski.pl
 bostol-meble.pl
 bot.coinmine.pl
-botbitcoin.pl
 botoks-caly-film-online.htw.pl
 bozenan.swk.vectranet.pl
 brainyczestochowa.pl
@@ -820,6 +819,7 @@ datasmierci.pl
 datempus.pl
 davidcandy.website.pl
 daw-net.pl
+day.dimaq.pl
 dbl.coinmine.pl
 dc.sabela.com.pl
 dcr-as.coinmine.pl
@@ -943,7 +943,6 @@ dotacje-swietokrzyskie.pl
 dotacje-warminsko-mazurskie.pl
 dotacje-wielkopolskie.pl
 dotacje-zachodniopomorskie.pl
-doteros.cba.pl
 doto.com.pl
 dotpay.e-pocztex.pl
 dotpay.epaybylink.pl
@@ -1147,7 +1146,6 @@ elektromax-serwis.pl
 elektromechanikachlodnicza.pl
 elektryczne-rozdzielnie.pl
 elektrykzyrardow.strefa.pl
-elementum.edu.pl
 elifelinenicebetday.pl
 elimit.pl
 elineextraeudice.pl
@@ -1492,7 +1490,6 @@ frrg.pl
 fructonatura.pl
 fryzjerstwogogu.pl
 fsbfoirg.pl
-fsmod.pl
 fspys.pl
 fss.neostrada.pl
 ft.dol.za.pl
@@ -1651,6 +1648,7 @@ gkkgorzow.pl
 gkosyl.hostcenter.pl
 glass-pol.net.pl
 glebokiegardla.pl
+globalkurier.com.pl
 gloryfactory.pl
 glosowanie.ujm.pl
 glx.coinmine.pl
@@ -2210,6 +2208,7 @@ iworms.pl
 jacekozdoba.pl
 jadwigaorunia.gda.pl
 jagnizm.pl
+jagodowezacisze.pl
 jakpodrywacnatinderze.pl
 jakpowiekszycpenisa24.pl
 jalowicehodowlane.pl
@@ -2353,6 +2352,7 @@ klubfiatstilo.pl
 klubkk.nazwa.pl
 klubprzygody.pl
 kmoskala.milleniumhost.pl
+knab-servicedesk.info.pl
 knbsystem.pl
 kneb.pl
 knefel.com.pl
@@ -2526,7 +2526,6 @@ lnpush.pl
 lo1mragowo.neostrada.pl
 loadfiles.pl
 logodlafirm.pl
-logotyp2021.pl
 logowanie.dkonto.pl
 loguj-praca.co.pl
 lokum1985.republika.pl
@@ -3188,7 +3187,6 @@ oslony-okienne.pl
 osmolik.com.pl
 osobyzagionione.pl
 ospkarlino.bulls.net.pl
-ospwiazow.pl
 ostancenadziei.pl
 ostarextrasfestival.pl
 ostarsniceeurodice.pl
@@ -3270,10 +3268,12 @@ pcol.pl
 pdf.com.pl
 pdsecurity.pl
 pebx.pl
+pelavo.pl
 pensjonat-domino.pl
 perfect-coll.pl
 perfexim.nazwa.pl
 personalizowane-prezenty.pl
+persoonlijk-knab.info.pl
 perspektywa2012.za.pl
 petersbud.pl
 petrodom.pl
@@ -3467,7 +3467,6 @@ ppl3.pl
 praca-dla-ciebie.co.pl
 praca-info.co.pl
 praca-logowanie-4.ct8.pl
-praca-zaloguj-3.ct8.pl
 pracaonline.co.pl
 pracowniaciala.pl
 pracowniazazieleniania.pl
@@ -3722,6 +3721,8 @@ r.ranking.erotyka.zy.pl
 r.sex-toplista.zy.pl
 r.xyz1.pl
 r0ckethost.pl
+rabo-omgeving.info.pl
+rabobank.info.pl
 rachunek-allegro.pl
 radcaprawny-24.pl
 radiopomost.pl
@@ -3920,6 +3921,7 @@ seks-laski.pl
 senatoranders.pl
 seniority.pl
 seniorzydecyduja.pl
+sens-pracownia.pl
 senseiwolf.pl
 serce.info.pl
 seriale.org.pl
@@ -5036,6 +5038,7 @@ wypadki24.e-kei.pl
 wypozyczalnia-gorakalwaria.pl
 wypozyczgo.com.pl
 wypromuj.nazwa.pl
+wyskoczna.pl
 wytypowana-osoba-wygrywajaca.pl
 wytypowany-zwyciezca.pl
 wzlzsopole.pl.projekt2019.pl

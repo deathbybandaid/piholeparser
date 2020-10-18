@@ -47,7 +47,6 @@ coin-hive-stratum-yvvbqoavck.now.sh
 comptesenlignelabanquepostale-fr.surge.sh
 discover-pearl.now.sh
 exodus.sh
-fls.sh
 freelanxer-ddn-net.now.sh
 harvest.surge.sh
 independentcy.now.sh

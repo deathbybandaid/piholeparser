@@ -168,6 +168,7 @@ boogieroom.co.za
 bookyourtravel.co.za
 bosgemors.co.za
 botrivier.wcape.school.za
+bradleyinstitute.co.za
 breastaugmentation.co.za
 brellas.co.za
 brightonhealth.co.za
@@ -186,7 +187,6 @@ businesscover-sa.co.za
 businessnet.co.za
 buxbonanza.co.za
 buyfastdeals.co.za
-buytyresafrica.co.za
 c343i78u58d19e8cea2bd34f9.cloudhosting.rsaweb.co.za
 c3sixty.co.za
 caliwegroup.co.za
@@ -228,7 +228,6 @@ chefskillsdevelopment.co.za
 chemspunge.co.za
 cherryco.co.za
 chescos.co.za
-chezalice.co.za
 childrenshouse.co.za
 chillazz.co.za
 chineseschool.co.za
@@ -269,6 +268,7 @@ consignmentsolutions.co.za
 coreplacements.co.za
 corptel.co.za
 coughcrops.co.za
+countapulse.co.za
 coveroptions-sa.co.za
 coza-amsure.co.za
 coza-besure.co.za
@@ -315,7 +315,6 @@ disco2000.co.za
 discover.dnsi.co.za
 dismart.co.za
 display.mybroadband.co.za
-djkian.co.za
 dmannose.co.za
 dnas.co.za
 docs.update.nadlez.co.za
@@ -360,6 +359,7 @@ ebone.co.za
 ecbaccounting.co.za
 ecizone.co.za
 eco-elegance.co.za
+eddyholdingshuttle.co.za
 edenhealthoil.co.za
 edkorch.co.za
 edseng.co.za
@@ -407,6 +407,7 @@ fitness.org.za
 fixiblerares.co.za
 flavahairdesign.co.za
 floorconstruction.co.za
+flourishnetwork.org.za
 fnbintl.co.za
 foglights.co.za
 foresighholdings.co.za
@@ -638,6 +639,7 @@ maccubedholdings.co.za
 magicmaid.co.za
 magicpeople.co.za
 mahood.co.za
+mail.bs-eiendomme.co.za
 mail.marketingmachine.co.za
 mail.mavusoandbatauitsolutions.co.za
 mailcompanion.co.za
@@ -659,14 +661,12 @@ mascuts.co.za
 mask.org.za
 matildas.co.za
 matrixwharehouse.co.za
-mavhengs.co.za
 mbcconnection.co.za
 mbet.co.za
 mcditworx.co.za
 mcnaughtans.co.za
 mcpf.co.za
 mcvapes.co.za
-mdqassessing.co.za
 medical-ppe.co.za
 medicalaidgymbenefit.co.za
 medicompare.co.za
@@ -695,7 +695,6 @@ milney.co.za
 mindbox.co.za
 minutemanpress-randburg.co.za
 minuteplate.co.za
-misani.co.za
 missknitwear.co.za
 mistakescrip.co.za
 mit.org.za
@@ -722,10 +721,10 @@ mrpost.co.za
 ms1-za.co.za
 msarchitects.co.za
 msizartech.co.za
+msrhs.co.za
 msupdater.co.za
 mtamail.co.za
 multinetworks.co.za
-museumsnc.co.za
 musgraveracing.co.za
 mvulabnb.co.za
 myadsl.co.za
@@ -871,7 +870,6 @@ registercovid.co.za
 regokopanetse.co.za
 rent360.co.za
 reservationsa.co.za
-reserve-bank.co.za
 retailhub.co.za
 revealit.co.za
 revelco.co.za
@@ -891,6 +889,8 @@ roofrescuerepair.co.za
 rootedorigin.co.za
 rootsshop.co.za
 roundtablesa.co.za
+royalblue.co.za
+rubikolholdings.co.za
 rustonc.co.za
 sa-rewards.co.za
 sa-tribe.co.za
@@ -904,7 +904,6 @@ safoss.co.za
 sagenerators.co.za
 sainform.co.za
 sainsleads.co.za
-saintignatiouscollege.co.za
 sakaza.co.za
 salocalserv.co.za
 saluremakers.co.za
@@ -1210,7 +1209,6 @@ vistomouldings.co.za
 vitamincreative.co.za
 vkwelaarts.co.za
 vnmattorneys.co.za
-voobzfreight.co.za
 vulasafety.co.za
 waaris.co.za
 wahldental.co.za

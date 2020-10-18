@@ -3,13 +3,4 @@ nro.gov.sd
 ots.sd
 qasco.sd
 tiger.sd
-usfb-0229914556.privilege.sd
-usfb-0533245664.privilege.sd
-usfb-2454904610.privilege.sd
-usfb-3046702644.privilege.sd
-usfb-4634334418.privilege.sd
-usfb-5286465359.privilege.sd
-usfb-5424408041.privilege.sd
-usfb-5967043487.privilege.sd
-wildcard.privilege.sd
 zakat-chamber.gov.sd

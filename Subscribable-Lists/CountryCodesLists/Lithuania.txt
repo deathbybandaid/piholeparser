@@ -16,7 +16,6 @@ adsplius.lt
 afb-services.96.lt
 alfacrewing.lt
 allinone.lt
-altus.lt
 appelsupport.96.lt
 arija.lt
 artdeko.lt
@@ -99,7 +98,6 @@ fotofabrikas.lt
 g.ro.lt
 gamyboskodas.lt
 gargzduaibe.lt
-geoplanum.lt
 gydomasismasazas.lt
 hagsdgfsdhajsagfasff.sh0r.lt
 hayday1.visits.lt
@@ -122,6 +120,7 @@ jaunimoform.wgsystems.lt
 jaunimopartija.lt
 juvelyrinismenas.lt
 kanticzkos.bernardinai.lt
+katleriokebai.smshostingas.lt
 keiciuosi.lt
 keytarget.adnet.lt
 khoitumook.96.lt
@@ -231,7 +230,6 @@ toviewallhe838jdspics.96.lt
 tradecharm.lt
 travelmaster.lt
 triusiai.lt
-ugira.lt
 upz1.destinia.lt
 v2.ads3.ipon.lt
 vaikoateitis.lt

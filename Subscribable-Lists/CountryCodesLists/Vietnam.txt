@@ -1,4 +1,3 @@
-4life.com.vn
 5day.vn
 ac-dft.com.vn
 ac.adpia.vn
@@ -57,7 +56,6 @@ amyfashion.com.vn
 analytics.adnetwork.vn
 analytics.bkav.com.vn
 analytics.yomedia.vn
-anbdental.vn
 andinh.com.vn
 angkortours.vn
 anhung1102.vn
@@ -117,6 +115,7 @@ brothercafehoian.com.vn
 buigiaphat.com.vn
 c1pson-nt.khanhhoa.edu.vn
 c2s2.emailbuilder.vn
+cafehomes.vn
 cakejess.vn
 cameli.vn
 campaign.accesstrade.vn
@@ -134,7 +133,6 @@ chabongviet.vn
 changaspa.vn
 chemnet.edu.vn
 cheohanoi.vn
-chickenbox.vn
 chothuenhahanoi.vn
 chovaytienmat.vn
 chungcuvinhomessmartcity.com.vn
@@ -212,6 +210,7 @@ dongthanhcompany.vn
 donhang.loza.vn
 doowood.vn
 dothitanthanh.vn
+dothivietgroup.vn
 dothothinhvuong.vn
 download.htsoft.vn
 doyota.vn
@@ -254,7 +253,6 @@ folamsan.kovo.vn
 fordlamdong.com.vn
 front.adpia.vn
 fuc.vn
-fuwa.com.vn
 g.eclick.vn
 gachchiulua.com.vn
 gallery.adtima.vn
@@ -289,6 +287,7 @@ gvc.vn
 h5s.vn
 hada.com.vn
 hadongtoyota.vn
+hanedu.vn
 hanhtrinhthanhnienkhoinghiep.vn
 hanoihub.vn
 happymedia.vn
@@ -313,6 +312,7 @@ hoangnguyenmec.com.vn
 hocvientaichinh.com.vn
 holypig.vn
 hongloanco.com.vn
+hoplucpost.vn
 housepro.vn
 hp-tech.com.vn
 hrdcvn.com.vn
@@ -366,7 +366,6 @@ kitchen-aid.vn
 kizworld.vn
 klick.vn
 koithe.vn
-kokono.vn
 konoikevina.com.vn
 kymviet.vn
 la.eclick.vn
@@ -410,7 +409,6 @@ logv2.mp3.zing.vn
 lomo.com.vn
 longvanceramics.com.vn
 lopandam.kidsplaza.vn
-lss.vn
 luatdongnamhai.vn
 luongyvovanvinh.vn
 luutruviet.vn
@@ -486,7 +484,6 @@ nchdanang.com.vn
 ncl.vn
 ndd.vn
 newwayit.vn
-nexlab.vn
 ngoaingu.garage.com.vn
 ngoaingusunrise.edu.vn
 nguoidepxumuong.vn
@@ -519,7 +516,6 @@ origin-c0.anthill.vn
 origin-e.anthill.vn
 origin-st-a.anthill.vn
 otosinh.vn
-oze.vn
 p.anthill.vn
 p.ants.vn
 packexim.vn
@@ -651,14 +647,12 @@ stats.sapo.vn
 stats.vietnammoi.vn
 stc.adtima.vn
 stspower.com.vn
-suachuacaitao.vn
 sucom.vn
 sueannbridal.vn
 sunbayhotel.vn
 suntour.com.vn
 superlite.com.vn
 svcshop.com.vn
-synature.vn
 t.ants.vn
 tamco.vn
 tanthanhdanh.vn
@@ -669,7 +663,6 @@ tcttruongson.vn
 tdi.com.vn
 tech.admicro.vn
 techcoffee.edu.vn
-technocorp.vn
 tekavietnam.com.vn
 thammyductri.vn
 thamtuquocte.com.vn
@@ -750,7 +743,7 @@ vakiapaint.com.vn
 van.info.vn
 vclick.vn
 vcmedia.vn
-velochic.com.vn
+vesinhlinhanh.vn
 vesinhnha.com.vn
 vhttdlkv2.gov.vn
 vhvn.vn
@@ -765,6 +758,7 @@ viettelsolutionhcm.vn
 vietviewwindows.vn
 vigreenfarm.vn
 vinhaudio77.vn
+vinhomesq9.vn
 vinkid.vn
 vintagekicks.vn
 vitinhtienphat.vn

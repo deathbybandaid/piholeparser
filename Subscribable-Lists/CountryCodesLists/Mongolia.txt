@@ -161,7 +161,6 @@ giar.pool.mn
 gln.pool.mn
 glorugh.mn
 gns.pool.mn
-gobi.mn
 gobicaravan.mn
 god.mn
 god.pool.mn
