@@ -2576,6 +2576,7 @@ tracking.hannoversche.de
 tracking.hi-pi.com
 tracking.hrs.de
 tracking.hsn.com
+tracking.html5games.com
 tracking.jotform.com
 tracking.kdata.fr
 tracking.keywee.co
@@ -2836,6 +2837,7 @@ wssgmstats.vibbo.com
 wsstats.coches.net
 wstat.wibiya.com
 wstats.e-wok.tv
+wstats.gameblog.fr
 wtk.db.com
 x.allabout.co.jp
 x.bloggurat.net

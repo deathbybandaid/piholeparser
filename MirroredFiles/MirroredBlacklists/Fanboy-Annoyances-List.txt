@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: iEqF+rZVaG/MZC3/Ra3dYA
-! Version: 202010180021
+! Checksum: RC1G1sOIzbaQ/gR0S78rbw
+! Version: 202010190021
 ! Title: Fanboy's Annoyance List
-! Last modified: 18 Oct 2020 00:21 UTC
+! Last modified: 19 Oct 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6049,6 +6049,7 @@ _site_cookie_
 ##.calls-to-action__newsletter
 ##.cambeywest-subscribe
 ##.captation-email-bottom
+##.card-newsletter
 ##.card-newsletter-signup
 ##.cartoon-email
 ##.cdev-subscribe-signup
@@ -6793,6 +6794,7 @@ _site_cookie_
 ##.popupSubscribe
 ##.portlet--newsletter
 ##.portletSubscribeFormPortlet
+##.post-newsletter
 ##.postSubscribeByEmail
 ##.pp_overlay
 ##.promo--newsletters
@@ -15078,6 +15080,7 @@ _site_cookie_
 ##.identity-fb-notice
 ##.idvl-socs-tools
 ##.idz-social-icon
+##.if-SocialLinks
 ##.ig-share-button
 ##.ig-socials-ball
 ##.ig_social
@@ -16458,6 +16461,7 @@ _site_cookie_
 ##.poll-share-box
 ##.poll-social-header
 ##.poll-social-icons
+##.popover-share
 ##.popySocial
 ##.post--share
 ##.post--side-menu--social
@@ -28641,6 +28645,7 @@ _site_cookie_
 ##.common-cookieNotice
 ##.common-cookies
 ##.common-header-gdpr
+##.common_prompt-cookie-bg
 ##.communikat_cookie
 ##.comp-cookie-policy-banner
 ##.comp-cookie_banner
@@ -30328,6 +30333,7 @@ _site_cookie_
 ##.cp-box-alert-popup
 ##.cp-cookie-banner
 ##.cp-cookie-bar
+##.cp-cookie-tip
 ##.cp-cookie-wrap
 ##.cp-cookies
 ##.cp-curtain-container
@@ -34211,7 +34217,7 @@ _site_cookie_
 ||emerse.com/consent.js
 ||freedoflondon.com/Styles/dialog-popup/jquery-ui.js
 ||freetls.fastly.net/main/sd-cmp-$domain=spanishdict.com
-||fundingchoicesmessages.google.com^$domain=telegram.hr
+||fundingchoicesmessages.google.com^$domain=gameblog.fr|telegram.hr
 ||gdpr.internetbrands.com^
 ||gdpr.prisa.com^
 ||government-and-constitution.org/js/consent.js
@@ -41167,6 +41173,7 @@ lykke.com##.styled__Banner-hg6ib8-0
 meteoblue.com##.successMessage
 spiceworks.com##.sui-site-message-container
 haier.com##.swiper-slide-img-txt
+games2gether.com##.system-notification-container
 tudorwatch.com##.tdr-ribbon
 yahoo.com##.tdv2-applet-nagbar
 abcnews.go.com##.terms-alert-fixed
@@ -41571,6 +41578,7 @@ supersoluce.com##div[style^="position: fixed; width: 100%;"]
 ||auto-moto.com^*/iframe-box-article.html
 ||pourquoidocteur.fr/img2/face.png
 ||pourquoidocteur.fr/img2/in.png
+||sibforms.com^$domain=logiciels.pro
 !
 ! ---------- Arabic Site Specific Hiding Rules ----------
 !
@@ -45848,7 +45856,7 @@ yoigo.com#@#thor-cookies
 @@||consentmanager.mgr.consensu.org/delivery/$script,stylesheet,xmlhttprequest,domain=sourceforge.net
 @@||cookie-cdn.cookiepro.com^$script,stylesheet,xmlhttprequest,domain=api.newsguardtech.com|giochi.it
 @@||cookielaw.org/consent/$other,xmlhttprequest
-@@||cookielaw.org/scripttemplates/$script,xmlhttprequest,domain=cbslocal.com|cnet.com|epicgames.com|eurogamer.net|trustpilot.com|zdnet.com
+@@||cookielaw.org/scripttemplates/$script,xmlhttprequest,domain=cbslocal.com|cbsnews.com|cnet.com|epicgames.com|eurogamer.net|trustpilot.com|zdnet.com
 @@||cookielawinfo.com^$~third-party
 @@||cookist.com^*/remote-gdpr.min.js
 @@||costa.co.uk/js/libs/cookieconsent.min.js
