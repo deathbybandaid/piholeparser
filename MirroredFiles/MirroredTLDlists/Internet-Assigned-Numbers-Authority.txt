@@ -1,4 +1,4 @@
-# Version 2020101800, Last Updated Sun Oct 18 07:07:01 2020 UTC
+# Version 2020101900, Last Updated Mon Oct 19 07:07:01 2020 UTC
 AAA
 AARP
 ABARTH

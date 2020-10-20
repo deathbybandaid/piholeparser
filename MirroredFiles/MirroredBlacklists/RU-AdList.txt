@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +PCrokh/ZxYuNr3UpvY05g
-! Version: 202010190020
+! Checksum: RQkcNEwz8QTIkh/xl6ihbQ
+! Version: 202010200020
 ! Title: RU AdList
-! Last modified: 19 Oct 2020 00:20 UTC
+! Last modified: 20 Oct 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -2321,7 +2321,7 @@ _tizers.
 !
 ||asia^$third-party,script,subdocument,xmlhttprequest,domain=~gallerix.org
 ||pw^$third-party,script,xmlhttprequest,domain=~adwiz.pp.ua|~forum.worldofwarships.ru|~hdvbplayer.tk|~live-gol.net|~softpir.com|~sportings.pw|~sportsvideoline3.pw|~tefal.ru|~videosofsport1.pw|~xn--drakulastrem-b7e.com
-||xyz^$third-party,script,subdocument,xmlhttprequest,domain=~anidub.com|~animedia.pro|~animeheaven.ru|~app.element.io|~assistir-filme.biz|~avtomaty-i-bonusy.com|~chelentano.top|~coomeet.com|~crackstreams.com|~crackstreams.ga|~csgoreports.com|~cvid.kiev.ua|~estream.to|~europixhd.io|~films.hds-stream.com|~funtik.tv|~getvi.tv|~hanime.tv|~hentaiz.org|~herokuapp.com|~infoua.biz|~jokehd.com|~kinobig.me|~kinoguru.be|~kinoguru.me|~kristinita.ru|~lookbase.xyz|~magicfilm.net|~mail.google.com|~map-a-date.cc|~matchat.online|~miranimbus.ru|~my.mail.ru|~nccg.ru|~newdeaf.club|~onmovies.se|~roadhub.ru|~roblox.com|~sextop.net|~soccer365.ru|~soonwalk.net|~streetbee.io|~streetbee.ru|~uacycling.info|~uploadedpremiumlink.net|~vk.com|~vmeste.tv
+||xyz^$third-party,script,subdocument,xmlhttprequest,domain=~anidub.com|~animedia.pro|~animeheaven.ru|~app.element.io|~assistir-filme.biz|~avtomaty-i-bonusy.com|~chelentano.top|~coomeet.com|~crackstreams.com|~crackstreams.ga|~csgoreports.com|~cvid.kiev.ua|~estream.to|~europixhd.io|~films.hds-stream.com|~funtik.tv|~getvi.tv|~hanime.tv|~hentaiz.org|~herokuapp.com|~infoua.biz|~jokehd.com|~kinobig.me|~kinoguru.be|~kinoguru.me|~kristinita.ru|~lookbase.xyz|~magicfilm.net|~mail.google.com|~map-a-date.cc|~matchat.online|~miranimbus.ru|~my.mail.ru|~nccg.ru|~newdeaf.club|~onmovies.se|~roadhub.ru|~roblox.com|~sextop.net|~soccer365.ru|~soonwalk.net|~streetbee.io|~streetbee.ru|~uacycling.info|~uploadedpremiumlink.net|~vk.com|~vmeste.tv|~web.app
 !
 ! Исключения
 @@||12go.asia/dist/prod/build.*.js|$third-party,script
@@ -3154,6 +3154,7 @@ _tizers.
 ||ongm.net^*/images/banner.png
 ||onlineresume.ru/banner*?
 ||only4men.ru^$third-party
+||onlygip.tech/ssp.js$third-party
 ||onlyrichgames.com^$third-party
 ||onlytrailer.ru/embed/$third-party
 ||oowl.ru/ab/
@@ -12406,6 +12407,7 @@ novayagazeta.ru##._1ysoK
 yap.ru,yaplakal.com##.__axcode__
 gamestar.ru##.__b-popup1__
 vk.com##._ads_promoted_post_data_w
+razlozhi.ru##._ao_
 n1.ru##._banner
 maximonline.ru##._hb-inline
 maximonline.ru##._hb-inread
@@ -15617,6 +15619,7 @@ basaru.net.ru,lexxs.us##[data-dlebclicks]
 progrib.ru##[data-href*="adbl"]
 1kr.ua##[data-is-advert]
 myukraina.com.ua##[data-link*="goo.gl"]
+woman.ru##[data-name*="Banner"]
 re.kufar.by#?#[data-name="ad_in_listing"] > article:-abp-has(> div > [id^="adfox_"])
 vc.ru##[data-native-ad]
 vladnews.ru##[data-newsb]
@@ -23840,6 +23843,7 @@ buildplayer.com,bxfilm.org,delivembed.cc,embedstorage.net,filmets.life,kinogo2.b
 @@$xmlhttprequest,domain=player.3tv.im
 @@/^https?://ad\.3dnews\.ru/[^/]*/ajs.php\?zoneid=/$script,domain=3dnews.ru
 @@/ad-inserter$image,script,~third-party,domain=electrotests.ru|test24.wweek.ru|tests24.su
+@@/ad/banner/_adsense_/_adserver/_adview_.ad.json?adzone=$xmlhttprequest,domain=modelist-konstruktor.com|painart.ru
 @@/adblock_detector.js$script,domain=forum.trainzup.net|oblozhki.net
 @@/advert.$script,domain=adhands.ru|azeroth.su|bluesystem.online|bluesystem.top|bluesystem.world|dni24.com|feech.org|joinfo.ua|kopikot.ru|ksimart.com|ksimart.ml|kupidonia.ru|na-ladoni.su|pesikot.org|pwcats.info|seetv.tv|shopotam.ru|spravkarf.ru|svidomitov.net|tsj.ru|tverigrad.ru|veedi.com|wotskill.ru
 @@/advertise.js|$domain=raketa-tv.com|rewbux.com|school-tea.ru
@@ -23951,7 +23955,6 @@ buildplayer.com,bxfilm.org,delivembed.cc,embedstorage.net,filmets.life,kinogo2.b
 @@||mc.yandex.ru/metrika/tag.js|$domain=helpsetup.ru
 @@||mc.yandex.ru/metrika/watch.js$script,domain=101.ru|doska.tamboff.ru|sherlock.store|shok102.ru
 @@||medialand.ru/code$script,domain=cnews.ru
-@@||modelist-konstruktor.com/ad/banner/$xmlhttprequest,domain=modelist-konstruktor.com
 @@||mover.uz/www/serving/adb.js|$script,domain=mover.uz
 @@||moviki.ru/embed/$elemhide
 @@||mtrcss.com/*/v|$xmlhttprequest,domain=phys-kids.com|worldvideo.site
