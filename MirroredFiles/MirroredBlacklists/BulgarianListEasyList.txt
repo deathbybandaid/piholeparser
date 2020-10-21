@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202010192258
+! Version: 202010202314
 ! Title: EasyPrivacy
-! Last modified: 19 Oct 2020 22:58 UTC
+! Last modified: 20 Oct 2020 23:14 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5616,6 +5616,7 @@ _mongo_stats/
 ||g3961686700.co^
 ||g4159771035.co^
 ||g4357855370.co^
+||g4555939705.co^
 ! Third-party
 ||0emm.com^$third-party
 ||1-cl0ud.com^$third-party
@@ -7775,6 +7776,7 @@ _mongo_stats/
 ||srmdata.com^$third-party
 ||srpx.net^$third-party
 ||srv1010elan.com^$third-party
+||ssm.codes^$third-party
 ||stack-sonar.com^$third-party
 ||stackadapt.com^$third-party
 ||stadsvc.com^$third-party
@@ -10796,6 +10798,7 @@ _mongo_stats/
 ||fullstory.com/s/fs.js$third-party
 ||future-fie-assets.co.uk^
 ||future-price.co.uk^
+||futurecdn.net/bordeaux.js
 ||futurecdn.net^*/abp.js
 ||fwcdn1.com/js/fwn.js
 ||fwix.com/ref.js
@@ -17548,6 +17551,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||omtrdc.net^*/mbox/json?$xmlhttprequest,domain=absa.co.za|ally.com|argos.co.uk|att.com|barclays.co.uk|homedepot.com|swisscom.ch|t-mobile.com
 @@||omtrdc.net^*/mbox/standard?$script,domain=ancestry.co.uk|ancestry.com|ancestry.com.au|ancestry.it|barclays.co.uk|blogtalkradio.com|swisscom.ch
 @@||ondemand.sas.com^$subdocument
+@@||onecall.whoson.com/stat.js$xmlhttprequest
 @@||online-metrix.net/fp/tags.js$domain=donorschoose.org
 @@||orginio.com/api/analytics/$~third-party,xmlhttprequest
 @@||ourworld.com/ow/evercookie_
@@ -17611,6 +17615,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||serve-ts.amagi.tv^*/beacon?$xmlhttprequest,domain=watch.truecrimenetworktv.com
 @@||siteapps.caa.co.uk/scripts/plugins/analytics/ga.min.js$script,~third-party
 @@||smartclient.com/smartclient/isomorphic/system/modules/isc_analytics.js$xmlhttprequest
+@@||solr.sas.com/query/$xmlhttprequest,domain=jmp.com
 @@||songza.com/static/*/songza/systems/$script
 @@||sophos.com^*/tracking/gainjectmin.js$script,domain=community.sophos.com
 @@||speakout7eleven.ca^*/Magento_GoogleTagManager/$~third-party

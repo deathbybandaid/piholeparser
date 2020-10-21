@@ -36,6 +36,7 @@ embed.powercontent.pl
 exyzz.pl
 fads.online
 faidoud.com
+fireads.network
 fkref.com
 glaimtug.com
 googlesyndication.com
