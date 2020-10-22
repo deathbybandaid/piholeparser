@@ -73,7 +73,6 @@ hokejforum.sk
 home.nextra.sk
 housemedia.sk
 hrlife.sk
-hrprofi.sk
 hurrican.sk
 hydroservis.sk
 identification-authentique.webnode.sk
@@ -241,6 +240,7 @@ vyroba-plotov-bran.sk
 web.tuke.sk
 wgl.principio.sk
 wl.sk
+wp030700.useron28.hostmaster.sk
 www.akoneplatit.sk
 www.etipos.sk
 www.iporno.sk

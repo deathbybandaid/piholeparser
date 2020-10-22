@@ -31,6 +31,7 @@ bjkhs.edu.bd
 bkm.edu.bd
 bkmsfmadrasa.edu.bd
 bloodclub.com.bd
+bmscr.edu.bd
 boaliablhighschool.edu.bd
 boaliahighschool.edu.bd
 bogradistrictpolice.gov.bd
@@ -101,6 +102,7 @@ kamlhs.edu.bd
 karatoa.com.bd
 karkhandaddm.edu.bd
 katkhoirhsn.edu.bd
+kent.com.bd
 khmdurdmadrasha.edu.bd
 kiahs.edu.bd
 konabaridm.edu.bd
@@ -143,7 +145,6 @@ pmis.lged.gov.bd
 pnmgghschool.edu.bd
 policebloodbank.gov.bd
 porabaripfm.edu.bd
-quizbook.com.bd
 rampurhs66.edu.bd
 rbmsc.edu.bd
 rdmadrasah.edu.bd

@@ -403,6 +403,7 @@ a.20minutes.fr
 a.frcls.fr
 a.musiclegs.fr
 a.propos.free.fr
+a10gnamien20b.bonci-boutique.fr
 a2v.fr
 a8ht.hipp.fr
 aasoldes.fr
@@ -684,7 +685,6 @@ alaclassejr.fr
 alain-moreni.fr
 alawar.fr
 albaphotos.free.fr
-albc.fr
 alchimiste-games.fr
 aldo061.free.fr
 aldo063.free.fr
@@ -1620,6 +1620,7 @@ countryteam66.perso.sfr.fr
 coupchaleur.free.fr
 coupedeparis.f3m.free.fr
 couple66.free.fr
+coupleamoureux.fr
 coupleannecy.free.fr
 coupleporno.free.fr
 courgeon-immobilier.fr
@@ -1837,7 +1838,6 @@ dupont-sas.fr
 dvo.assurandme.fr
 dxe2.heip.fr
 dynamic-merch.fr
-dynocook.dynoco.fr
 dzgraphic.fr
 e-cig-factory.fr
 e-m.fr
@@ -2182,6 +2182,7 @@ fwg0b0sfig.s.ad6media.fr
 g.itespresso.fr
 g0ogle.free.fr
 gaara-manga.fr
+gaiavillage.fr
 galaxywars.fr
 galbob.fr
 galerie-nadal-olivie.fr
@@ -2613,7 +2614,6 @@ irc.voila.fr
 iskipper.fr
 isolation-a1-euro.fr
 ita2000.fr
-itchek.fr
 itemweb.fr
 ivanlef0u.fr
 izarc.fr
@@ -3384,6 +3384,7 @@ meilleurs-mode-elles.fr
 meilleurs-mode-pour-elles.fr
 meilleurtelecharger.fr
 meilleurtop.fr
+melodymusic.fr
 memoirelyceen.free.fr
 memorix.sdv.fr
 memorix1.sdv.fr
@@ -4447,7 +4448,6 @@ sos-medecins-stmalo.fr
 sosplombiers-6eme.fr
 sosplombiers-8eme.fr
 sosplombiers-9eme.fr
-sota-france.fr
 sotb.free.fr
 soudhydro.fr
 soulofdreams.fr
@@ -4601,6 +4601,7 @@ test13.itssfrance.fr
 test2.easyplanet.fr
 textesdetheatre.fr
 textilesvosgiens.fr
+textopol.free.fr
 tezerf16.fr
 tf1.solution.weborama.fr
 tf1games.fr
@@ -4677,6 +4678,7 @@ tremplin84.fr
 tresorsdunet.fr
 tri29.fr
 tribalwars.fr
+tripup.fr
 trisover.free.fr
 trois-suisses.fr
 tronit.fr
@@ -4827,6 +4829,7 @@ warged10.fr
 warofdragons.fr
 warriorsofaeldul.free.fr
 wars-game.site.voila.fr
+waveconnect.fr
 wbdds.allocine.fr
 wbusiness.fr
 weareplaystation.fr

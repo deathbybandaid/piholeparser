@@ -6,6 +6,7 @@ anuradhagroup.lk
 api.kurulu.lk
 artra.lk
 arugamlanka.lk
+asialankatravels.lk
 axisca.lk
 bibile.ps.gov.lk
 birdx.lk
@@ -59,7 +60,6 @@ lvision.lk
 magento.lk
 manjulahandapangoda.lk
 mapiyawandana.lk
-marketinginsights.lk
 mintage.lk
 mmms.lk
 mobo.lk
@@ -95,6 +95,7 @@ virusara.gov.lk
 vjcon.lk
 wasanacare.lk
 westgate.lk
+wildcard.cleansol.lk
 www.coastguard.gov.lk
 www.dlb.lk
 www.nlb.lk

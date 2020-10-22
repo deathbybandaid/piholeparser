@@ -20,7 +20,6 @@ aimfs.digitstrading.ph
 aksyonradyobacolod.com.ph
 alathe.ph
 alcochemphil.com.ph
-amazan.co.jp-6f4b3c0bd5c9c925cb39976c134afd86e646ae543.ph
 amazon.co.jp.00-m3-1-jakkpoe-m3-1-mkej.zqhskc.ph
 amazon.co.jp.00-m3-2-ioe-jd-m3-2.zqhqkq.ph
 amazon.co.jp.b6f5b87a9a94bb3515fcb075d6cb145cd2b73d68.ph
@@ -62,6 +61,7 @@ boxforminteriordesign.ph
 bsc.ph
 c729c2ca6218415d1f5c9ed250dd84c244eb3506.ph
 c8f85ac13b13573bb984c209a181c8bcfb568a73.ph
+cablelink.com.ph
 calambamisocc.gov.ph
 carcentre.ph
 cb18e51be1ada7af017b86dbbc3db0c32eb6fd59.ph
@@ -113,6 +113,7 @@ fmt05.web.com.ph
 fmt06.web.com.ph
 forceadd.com.ph
 forceadd.net.ph
+foxfire.ph
 fufflef.ph
 full99.net.ph
 fvillers.ph

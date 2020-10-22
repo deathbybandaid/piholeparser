@@ -98,6 +98,7 @@ apple.account.verify.perfectbet.ro
 apple.com-update-your-account-now.bijutierulmeu.ro
 apple.sup.dinamicmedia3d.ro
 aquagroup.ro
+aramisconstruct.ro
 arcsim.ro
 arestetic.ro
 aripipentruingeri.ro
@@ -140,7 +141,6 @@ ayareview-document.pdf-iso.webapps-security.review-2jk39w92.newsletter.stomatolo
 ayerbo.xhost.ro
 bacm.ro
 balastiere-ploiesti.ro
-baltagruiu.ro
 banana.automaxcenter.ro
 bancoestado.cl.scoaladesoferi-azratim.ro
 banner.finzoom.ro
@@ -165,6 +165,7 @@ bgs-bucharest2005.ro
 bijuteriistarmd.ro
 bikefm.ro
 billing-sep20-three-uk.stasmobila.ro
+billing-three.user-mobile.met-axa.ro
 bioinvestmedicalcenter.ro
 birthmark.go.ro
 biserica-ieud.ro
@@ -418,6 +419,7 @@ fontanaresidence.ro
 foodandwineshow.ro
 fordmustangromania.ro
 forti-imob.ro
+fotobook.ro
 fotovideografie.ro
 foxprint.ro
 fpse.cros.ro
@@ -606,7 +608,6 @@ mini-stars.ro
 minovici.ro
 mizag.ro
 mmdsz.ro
-mmkfashion.ro
 moaramariei.ro
 mobilabmb.ro
 mobilaok.ro
@@ -692,10 +693,8 @@ openx.adtext.ro
 openx4.emag.ro
 orgman.ro
 orientality.ro
-orionsebes.ro
 osansa.ro
 osbm.ro
-otto-nautic.ro
 ozka.ro
 pablostore.ro
 palatulcopiilorseverin.ro
@@ -848,6 +847,7 @@ securityinsta.com.ideileluiblondu.ro
 seo-portal.ro
 seone.ro
 sepcinewera.ro
+servautodan.ro
 server.bacm.ro
 serviceoprescu.ro
 servsitepower.ro

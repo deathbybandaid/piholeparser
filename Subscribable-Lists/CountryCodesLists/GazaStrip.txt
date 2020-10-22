@@ -11,6 +11,11 @@ diabetespal.ps
 ebay.de.sada.ps
 elastal.ps
 email.undp-fakhoora.ps
+fbook-47501682.almajd.ps
+fbook-87410688.almajd.ps
+fbook-90801813.almajd.ps
+fbook-93167133.almajd.ps
+fbook-98068409.almajd.ps
 freedom.ps
 gazacham.ps
 init.ps

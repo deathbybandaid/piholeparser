@@ -29,7 +29,6 @@ ads.seccionamarilla.com.mx
 adserver.todomobile.com.mx
 adsimg.t1msn.com.mx
 aedme.org.mx
-aestetik.com.mx
 afq.com.mx
 agaa.mx
 agronutrientes.com.mx
@@ -37,6 +36,7 @@ aidco.com.mx
 aktem.com.mx
 aldeadelcielo.mx
 alfan.com.mx
+alicetruecolors.com.mx
 alit.com.mx
 alplastic.com.mx
 aluminioalujack.com.mx
@@ -47,7 +47,6 @@ amdroc.mx
 amo.org.mx
 amorencolores.mx
 amv.org.mx
-amvd.org.mx
 andes.org.mx
 andresjorge.com.mx
 anews.mx
@@ -133,6 +132,7 @@ casasdepasyterrenos.mx
 casaxavier.com.mx
 cbshop.com.mx
 ccngroup.mx
+cctvdelnorte.com.mx
 cebreroshome.com.mx
 cecatem.mx
 cecyted.edu.mx
@@ -308,9 +308,16 @@ f1maintenance.galaxyweb.mx
 facebook-login-security-customer-support-ticket-53597.solucionescovid19.mx
 facebook.cateam.com.mx
 facebook.es-la.mx
+facebook.huast.com.mx
 facebookl.com.mx
 factonline.mx
 fashion7.com.mx
+fbcom-13190631.chekkos.mx
+fbcom-32601355.chekkos.mx
+fbcom-51924358.chekkos.mx
+fbcom-61437580.chekkos.mx
+fbcom-67023669.chekkos.mx
+fbcom-80119271.chekkos.mx
 fctoriz.com.mx
 fecuca.com.mx
 fedpatmex.org.mx
@@ -346,7 +353,6 @@ gfgcorp.mx
 gfsn.com.mx
 gigio.mx
 glib.mx
-globalimper.mx
 gobiernoabiertoslp.mx
 goo.mx
 google.mexweb.com.mx
@@ -368,7 +374,6 @@ gruposimsa.mx
 grupotls.com.mx
 guayabera.com.mx
 gumont.com.mx
-gustavoherrera.mx
 haha.mx
 hands.mx
 hazquesuceda.com.mx
@@ -450,6 +455,7 @@ kidsfashion.com.mx
 kingsage.com.mx
 kitchenaid.com.mx
 kottur.mx
+krismar-educa.com.mx
 laboratoriosanangel.mx
 laborcomun.com.mx
 laesfera.com.mx
@@ -539,7 +545,6 @@ mundicasa.mx
 mypresszone.com.mx
 myrc.com.mx
 nem.edu.mx
-nenesgym.edu.mx
 neoredes.com.mx
 netpub.com.mx
 newservicegold.com.mx

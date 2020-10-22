@@ -1,3 +1,4 @@
+data2cloud.om
 fordoman.om
 oman70holding.om
 rekaz.om

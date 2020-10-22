@@ -229,8 +229,8 @@ alnimglrvet.cc
 alphabay.cc
 altsecurity.sites.cc
 amazon-email.cc
+amazon-update.cc
 amazon.co.jp.q8e.cc
-amazon.user.ftotkc.cc
 amazonm-riepvy.cc
 amazonweb.cc
 amber.suprnova.cc
@@ -337,6 +337,7 @@ auroracoin.securepayment.cc
 auth-payee.cc
 authorise-cancellation.cc
 authorise-payee.cc
+authorize-payee.cc
 auto-fellatio.cc
 auto.topnetsearch.cc
 autoajuda.cu.cc
@@ -436,7 +437,6 @@ bikestore.cc
 bilal.documantal.cc
 bill.suprnova.cc
 billing.secure-verify-account.cc
-billingfailed.cc
 bin.wordsx.cc
 bios.suprnova.cc
 bisex.cc
@@ -588,6 +588,7 @@ cann.suprnova.cc
 canna.suprnova.cc
 canonijnetworktool.cc
 capital_ball.uni.cc
+card-smbc.com.rsv4126im6ugzxpg9frfrqkvxn8q5nszvaf.snbc.cc
 carding.cc
 carinas.sites.cc
 carsi.suprnova.cc
@@ -870,8 +871,9 @@ deutscheshaus.cc
 dev.no8.cc
 device-cancel.cc
 device-cancellation.cc
-device-verified.cc
-devices-verified.cc
+devicederegister.cc
+deviceregistration.cc
+deviceverification.cc
 dfmz178.cc
 dfsdsdf.cc
 dgbg.suprnova.cc
@@ -896,6 +898,7 @@ dinazz.cc
 dio.suprnova.cc
 discoveryplus.popin.cc
 djebhcpv.cc
+djlsc.cc
 dkc.suprnova.cc
 dkimoptin.cu.cc
 dl.suprnova.cc
@@ -1452,6 +1455,7 @@ hiroba.dqx.jp.sxzoy.usa.cc
 hiroba.dqx.jp.szxuy.usa.cc
 historicals.flu.cc
 hiwebsitepro.cc
+hlfxsecuredevice.cc
 hmyj.cc
 hndfdfnfdnxdnf.vv.cc
 hodl.suprnova.cc
@@ -1851,6 +1855,7 @@ m.securepayment.cc
 m1x.suprnova.cc
 m8c1pkhb0f.gmz.cc
 mac.suprnova.cc
+macybank2u.cc
 magickingdom.cc
 magicmails.cc
 maia.suprnova.cc
@@ -1868,6 +1873,8 @@ mal.suprnova.cc
 malathris.cz.cc
 malevairlines.co.cc
 mana.suprnova.cc
+manage-device.cc
+managedevices.cc
 manager-your-information.nut.cc
 manchen.cc
 mangaxxx.cc
@@ -2193,7 +2200,6 @@ paxvu1.usa.cc
 pay.suprnova.cc
 paybankoffzone.usa.cc
 paycash.cc
-payee-attempt.cc
 payee-failed-online.cc
 payee-failure-online.cc
 payee-process.cc
@@ -2235,6 +2241,7 @@ peoria33884.cz.cc
 pepe.suprnova.cc
 pepkzvnbvaljqpa.usa.cc
 perfect.documantal.cc
+personal-account.cc
 pesa.suprnova.cc
 pesast.cc
 petras.sites.cc
@@ -2383,6 +2390,7 @@ rakuten.co.jp.vipshopch.cc
 rakuten.co.jp.vipshopchl.cc
 rakuten.co.jp.yakvbem.cc
 rakutencard.cc
+rakutenk.cc
 rakutenm-emair.cc
 rakutenm-xjvkl.cc
 rally.cc
@@ -2533,7 +2541,6 @@ secure.square-enix.account-srxl.usa.cc
 secure.square.login-zuey.usa.cc
 secure.square.logindqx.usa.cc
 secure4.cc
-secured-accounts.cc
 securedocumentdownload.usa.cc
 securens.cc
 securepayment.cc
@@ -2673,6 +2680,7 @@ slen.suprnova.cc
 sling.suprnova.cc
 sm-guys.cc
 smart.suprnova.cc
+smbcvip.cc
 smguys.cc
 smly.suprnova.cc
 smsr.suprnova.cc
@@ -2862,6 +2870,7 @@ tiny.cc
 tipp.cc
 tkn.suprnova.cc
 tkt.suprnova.cc
+tkxmr.cc
 tlc.suprnova.cc
 tllyojla.cc
 tmobilehtc.co.cc
@@ -2965,13 +2974,17 @@ unielo.sites.cc
 unipages.cc
 unit.suprnova.cc
 universalcurrency.securepayment.cc
+unknown-devicebreach.cc
 unknownalert-safety.cc
 unlock.suprnova.cc
 unobtanium.securepayment.cc
+unregister-device.cc
+unregistered-device.cc
 unryodyr.cz.cc
 up.suprnova.cc
 update49.clemowceer.cz.cc
 update93.gmogettson.co.cc
+updatedevice.cc
 updateonline.cc
 updateservice.securityinformationlimited.usa.cc
 uranus.cc
@@ -2982,6 +2995,7 @@ us.minerspool.cc
 usa.cc
 usb.suprnova.cc
 use.suprnova.cc
+user-amazon.u1g.cc
 utah.cz.cc
 uther.suprnova.cc
 utqovnxo1.co.cc
@@ -3017,9 +3031,11 @@ verge.securepayment.cc
 verification-mesures-paypal-com.usa.cc
 verify-conatct-help.usa.cc
 verify-declined-payee.cc
+verify-devices.cc
 verify-payee.cc
 verifydevice-security.cc
 verifymydevice.cc
+verifymydevices.cc
 vermo.suprnova.cc
 vert.suprnova.cc
 vgdino.cc

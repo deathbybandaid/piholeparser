@@ -171,7 +171,6 @@ smartcandle.ie
 snazzymedia.ie
 softsale.ie
 soundhire.ie
-splonk.ie
 stairnaheireann.ie
 stats.independent.ie
 stats.irishmirror.ie
@@ -184,6 +183,7 @@ teachingnetwork.riam.ie
 techpeople.ie
 techworldgroup.ie
 thehypnotherapystudio.ie
+thenaturehouse.ie
 theosteopath.ie
 thermabuild.ie
 theunlockshop.ie

@@ -79,6 +79,7 @@ kbagro.co.th
 kela.co.th
 khamyaiubon.go.th
 khoasamsib.go.th
+khunsakarin.nrru.ac.th
 kitchoan.co.th
 koksanuan.go.th
 kongkhak.go.th
@@ -107,6 +108,7 @@ mpmec.co.th
 mrcurtain.co.th
 mrs.ac.th
 mrtrecycling.co.th
+newdimension.co.th
 nfc-sukhothai.or.th
 nhc13.kku.ac.th
 nhongteennok.go.th
@@ -138,7 +140,6 @@ qsds.go.th
 qualityprint.in.th
 r2r.npru.ac.th
 resam.or.th
-research.kku.ac.th
 resveratrol.co.th
 rightman.co.th
 rockgarden.co.th
@@ -156,6 +157,7 @@ siriwat.co.th
 smejump.co.th
 smilingfish.co.th
 smtasia.co.th
+solutioncontrol.co.th
 srf.ais.co.th
 stat.matichon.co.th
 statmt.matichon.co.th
@@ -163,6 +165,7 @@ stats.in.th
 surintech.ac.th
 svk.co.th
 swpark.or.th
+talingchan.ac.th
 tccs.co.th
 teacher2.aru.ac.th
 techno2.bu.ac.th

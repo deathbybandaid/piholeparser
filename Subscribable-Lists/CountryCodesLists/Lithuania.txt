@@ -23,7 +23,6 @@ aservisas.lt
 asknotify-2094641891.darzelisklauzada.lt
 asknotify-3886441179.darzelisklauzada.lt
 asknotify-8065792453.darzelisklauzada.lt
-atributikospartneris.lt
 auto.rusvile.lt
 autoabs.lt
 autodujos.lt
@@ -34,7 +33,6 @@ baidaremis.lt
 balosa.lt
 baltela.lt
 balticdermatology.lt
-baltijosloto.opo.lt
 bancestad0.96.lt
 bankof-america-com.mw.lt
 banners.adclick.lt
@@ -216,6 +214,7 @@ t.delfi.lt
 tarpgeliu.lt
 teise.lt
 tempinfo.96.lt
+teofilius.lt
 terrasport.lt
 testnpost.nsoft.lt
 themes.affect.lt

@@ -69,6 +69,8 @@ ahmadmustaqim.staff.unja.ac.id
 aimsolution.co.id
 ainurrafiqcoid.masterweb.id
 airindosakti.co.id
+airport.co.id
+airport.id
 aisbp.stiebumiputera.ac.id
 ajunnas.id
 akbid-alikhlas.ac.id
@@ -285,14 +287,12 @@ bptpm.sragenkab.go.id
 brandingcity.co.id
 brfbadesecrsaverdscladdsph.my.id
 brfbadssecrsavrdskl.my.id
-brg.go.id
 brigifraider9-tniad.mil.id
 btik.web.id
 btsa.co.id
 bukatrip.id
 bukhari.or.id
 bukusunnah.id
-bundahebat.web.id
 bung-alkaf.id
 bursatiket.id
 busainoac.co.id
@@ -335,7 +335,7 @@ chat.whatsapp.guied17.my.id
 chat.whatsqpp.new9.my.id
 chatgrup18.guied7.my.id
 chatgrupbok3pwhatssap.xnxxx.my.id
-chating-whatapps.my.id
+chatwabkpviral.chats-whatapps.my.id
 chatwhatsapp-invitee.join-wa18.my.id
 chatwhatsapp.my.id
 chatx-whatsapp.guied7.my.id
@@ -360,6 +360,7 @@ collaborate.att.corp.com-iinternal.ptt.co.id
 com-mygrub23.xvip.my.id
 comp-pay-tebakow.my.id
 comunity-isue-ideent-andromeda-3252342.my.id
+confirm-account-page-service.my.id
 confirm-account-repair-info.my.id
 confirm4ti1on-pa6es.my.id
 confirmation-official-accounts.my.id
@@ -421,7 +422,6 @@ dfhsdhrueruehysdftriteuwywtyqi4895965834347000.reconfirm-info-advanced-us2020-ad
 dgmtrusotknyasrvcepge01.my.id
 dgmtrusotknyasrvcepge01.surya1601.my.id
 dgntaamdedtpge01.my.id
-digilib.dianhusada.ac.id
 digilib.stiesurakarta.ac.id
 diklik.id
 dilijayacell.id
@@ -429,6 +429,7 @@ dim.unsyiah.ac.id
 dinkes.acehprov.go.id
 dinkopukm.tangerangselatankota.go.id
 discoversatpolbackupadmin.satpol.kedirikab.go.id
+disdik.barrukab.go.id
 dishubinfokom.sukoharjokab.go.id
 diskominfo.asahankab.go.id
 disparbud.jabarprov.go.id
@@ -442,9 +443,9 @@ docsign.libra.id
 dofus.id
 domisothi.id
 downloadlagu.or.id
+dpmptsptk.barrukab.go.id
 dpparki.or.id
 dprk.bandaacehkota.go.id
-dprkp.palembang.go.id
 dpupr.lomboktengahkab.go.id
 dpw.co.id
 drhjeruieuieitrotyopyifhjshsdhwerywe734734734734747.checkpoint-manager-independent.my.id
@@ -480,7 +481,6 @@ enisunaeni.co.id
 esene.co.id
 essenza.co.id
 eurekalogistics.co.id
-eventfreefirez.my.id
 excellentaktif.my.id
 extratravel.co.id
 facbook-moderator-community-issue.my.id
@@ -495,9 +495,6 @@ farizhamdan.web.id
 faschooler.id
 fatmajaya.co.id
 fauzi-babud.co.id
-fb.pgsinfscrtyhlpcntrprvcy01wrng.my.id
-fb.srvspgshlpcntr01prvcyaccnt.my.id
-fb.wrngprvcyisspage01spprtcntr.my.id
 fb39502241842024873.my.id
 fcgwxsadsscrtyhlps0.my.id
 featured-pages-authorized-specialty.my.id
@@ -577,6 +574,7 @@ grup.bokep18plus.frezas.my.id
 grupbokepdewasa18plus.dumb1.my.id
 grupbokepviralterbaru.new9.my.id
 grupbokepwhatsapp.new9.my.id
+grupbudigaming.my.id
 grupdewasa18.whatsappp.my.id
 grupduniamalam.new9.my.id
 grupmabarfreefire.freefire-2020.my.id
@@ -600,9 +598,11 @@ gunungsari.co.id
 gvnalftadspgsacc.my.id
 hakimmie.co.id
 halal-lifestyle.co.id
+halalrooms.id
 handayani.co.id
 harmonimusik.co.id
 harpontupperware.co.id
+harsa.co.id
 hartarizkigraha.co.id
 hasyimmultimedia.co.id
 hdpbsnshlprcvrysrvce01.my.id
@@ -688,6 +688,7 @@ indta.co.id
 industrid3.nusch.id
 inforeprtpages2020.my.id
 infos3cfbadsacc.my.id
+infotol.id
 insanmadani.sch.id
 insight.props.id
 inspiran.co.id
@@ -737,12 +738,14 @@ jodanssupplyco.id
 jodev.or.id
 jogjadebatingforum.or.id
 join-groupwhatsapp.guied7.my.id
+join-grub-wa4.my.id
 join-grup.new9.my.id
 join-grupwa18.xnxxx.my.id
 join-grupwhatsapp-bokep-terbaru2020.xnxxx.my.id
 join-wa18.my.id
 joingroupwhatsappbokepterbaru2020.gamees.my.id
 joingroupwhatsappbokepterbott2020.getz-claim06.my.id
+joingrub.joingrubyoutubers.my.id
 joingrup-whatsappp.my.id
 joingrupbok3pwa.viyyy.my.id
 joingrupbokepwhatsapp.biz.id
@@ -754,7 +757,7 @@ joingrupwayoutuber.gratis33.my.id
 joingrupwhatsap9.viyyy.my.id
 joingrupwhatsapp.new9.my.id
 joingrupwhatsapp54.waatsapp.my.id
-joingrupwhatsappp.my.id
+joinmywhatsapp.my.id
 joinpas.id
 journal.fs.uinib.ac.id
 journal.noesa.co.id
@@ -879,6 +882,7 @@ limited.paypal.angkasasakti.co.id
 lindy.co.id
 linggaperdana.co.id
 lingkarinspirasiunj.belihosting.co.id
+linkchatwhatsapp.my.id
 litdecagem.co.id
 lkis.or.id
 log.viva.co.id
@@ -887,12 +891,14 @@ loginpaypalukverifyinfoapplicationnumber48429812paypal.arjunawisata.id
 lostainstitute.co.id
 lp.webgame.web.id
 lp2m.umsu.ac.id
+lppm.stiesemarang.ac.id
 lppm.unida.gontor.ac.id
 lppm.unsrat.ac.id
 luckybug.id
 luq.unila.ac.id
 lutfiacookies.id
 luwutimurkab.go.id
+mabarfansuwoe.hard67.my.id
 madublackbee.id
 madumurni.id
 madurasa.co.id
@@ -900,9 +906,9 @@ mahakur.afstudio.web.id
 mahatirtatrans.co.id
 mahawarna.id
 mahestri.id
-mail.grubwavideoviral.gratiss.my.id
 mail.lombacerpenonline2020.my.id
 mail.sdtyew4r6he46ydrtfyhdnf7re5u7t6ri56vu45y745h74t5y.guied7.my.id
+mail.xh-grupwhatsappsex18.hot18.my.id
 majenekab.go.id
 maksi.feb.unib.ac.id
 malwarestore.id
@@ -966,6 +972,7 @@ mobile-legends-bagi2-hadiah.my.id
 monero.riefly.id
 mootostudiocoid.masterweb.id
 mozaikfoodinovation.co.id
+msi.undip.ac.id
 msksrvcpge01hlprcvr01.my.id
 mtdsq.or.id
 mtq.riau.go.id
@@ -1028,6 +1035,7 @@ office.com.authentocate.argamode.id
 officestore.co.id
 official.co.id
 ojs.budimulia.ac.id
+oliva.co.id
 omahcorp.co.id
 omahyangti.co.id
 online.tesco.creditcardaccounts.co.ukonlinebanking.multimediasmkalhudakdr.id
@@ -1105,6 +1113,7 @@ pionirbooks.co.id
 pips.fis.um.ac.id
 pje.co.id
 pkimakhlprcvrybsnssrvce01.my.id
+pkk.cilacapkab.go.id
 pkk.depok.go.id
 pks-setiabudi.or.id
 plagading.edufa.id
@@ -1133,6 +1142,7 @@ poshpgehlpbsnsrcvrysrvce01.iwanfredy.my.id
 poshpgehlpbsnsrcvrysrvce01.my.id
 potrcvrbsnes01hlpvrvd01.my.id
 powerelektrik.co.id
+ppg-daljab.ump.ac.id
 ppid.posokab.go.id
 ppl.ac.id
 ppmakrifatulilmi.or.id
@@ -1147,7 +1157,6 @@ priivac-recove-identty-sociiey-secure-jitoers.my.id
 priivace-recover-identity-sociiey-secure-jitoer.my.id
 priivacy-recovery-identiity-society-securr.my.id
 princebakery.id
-printcut.azura.my.id
 priv-code.co.id
 priv0001hlppgesrvc01.my.id
 privacy-policy-advanced-manager-2020.my.id
@@ -1255,12 +1264,13 @@ s3indonesia.co.id
 s3managemen.pps.unud.ac.id
 sahabatqurancenter.or.id
 sahurbareng.my.id
-salescenter.azura.my.id
 salimahcikupaols.id
 salman.or.id
 salmfood.co.id
 salonkamarmandi.id
+samafitro.id
 sambaltigaputri.web.id
+samsa.id
 san-yu.co.id
 sanpacsinergi.co.id
 sarahkids.id
@@ -1268,6 +1278,7 @@ satkom.id
 satriabahana.co.id
 sawargi.co.id
 sbhdomain.my.id
+scar-titan.eventff-2020.my.id
 scl.uniba-bpn.ac.id
 sd1kalirejokudus.sch.id
 sdalirsyad02cilacap.sch.id
@@ -1320,6 +1331,7 @@ servicementari.co.id
 servicesolahart.co.id
 sevenvoldi.id
 sewamainananak.co.id
+sexwa18.invite-groubs.my.id
 sexwhatsapp1.chaozyx4.my.id
 sexyporngirls.blogspot.co.id
 sfetybsiness-page.my.id
@@ -1411,6 +1423,7 @@ social-media-invitation-1rt00274bu2089.my.id
 social-media-invitation-1rt00274bu2090.my.id
 social-media-invitation-1rt00274bu20904fte477.my.id
 social-media-invitation-1rt00274bu20904fte4776.my.id
+social-media-notices-manager-2020.my.id
 social-media-page-publish-2020.my.id
 social-network-correction-identify-us1.my.id
 social-network-correction-identify-us2.my.id
@@ -1449,6 +1462,7 @@ spectracentre.co.id
 speedtest.dsi.unair.ac.id
 splsrcvryhlpsrvcypge01.my.id
 spm-tnr.co.id
+spokat.id
 srionlineshop.co.id
 srv465avg001.my.id
 srvcpgehlp01cnfrm.my.id
@@ -1501,7 +1515,6 @@ sutekihome.co.id
 swpofficial.co.id
 syahrayavectorpestcontrol.co.id
 ta-menengah.lab.gunadarma.ac.id
-tahfidz.id
 talent.ismartv.id
 talithaputrietnik.co.id
 tamiracenter.co.id
@@ -1530,12 +1543,15 @@ thamarbengkel.co.id
 thebadui.co.id
 thefctry.co.id
 theworldglobal.my.id
+thi.co.id
 tiarabakery.co.id
 tiasentosa.co.id
 timorlesone.id
 tintaemas.co.id
 tip.ub.ac.id
 tirtaasri.id
+titandandmgratis.garena-ff9.my.id
+titangratis2k20.garena-ffevent1.my.id
 tiwulgatotarjuna.co.id
 tkislamelsyifa.co.id
 tkjarea51.web.id
@@ -1568,6 +1584,7 @@ turturtutrutuh5764363464354363463634634634643643643634643.notification-pages-adv
 ubs.com.ypc.or.id
 ucac.usm.ac.id
 ud-alayubi.co.id
+ukmkarate.unsil.ac.id
 ulearn.co.id
 ultragames.id
 umbrellacorp.id
@@ -1575,18 +1592,19 @@ ummi-mardhiah.staff.unja.ac.id
 umpalangkaraya.ac.id
 undanganwhatsap9.xnxxx.my.id
 unex-aviation.co.id
-unsa.ac.id
 update-chase-account.com.jayaobayashi.co.id
 update-now-chase.com.usahabaru.web.id
 update-usaa.com.usahabaru.web.id
 updateusaaserviceagent2242424r66tt7687w.attaubah.or.id
 uptkmfmipa.ulm.ac.id
 uptlbk.mercubuana-yogya.ac.id
+url-verifikation618.my.id
 usaa.com-inet-truememberent-iscaddetour.balicomp.co.id
 usaa.com-inet-truememberent-iscaddetour.dedetiasha.web.id
 usaa.com-inet-truememberent-iscaddetour.jatim.ldii.or.id
 uukbpp.ft.ub.ac.id
 valid.tokofitri.co.id
+verifications.instagram.ezzuari.web.id
 vetrous-maju.co.id
 vibetronic.id
 vidiobokepvrl2020.eventml.my.id
@@ -1608,7 +1626,9 @@ wellsfargo.widowati.staff.unja.ac.id
 whatsap.burik-event1.my.id
 whatsapku.new9.my.id
 whatsapp-group.claim.my.id
+whatsapp18-chatlink.my.id
 whatsappbokep.new9.my.id
+whatsappchatlink.my.id
 whatsappgroup.my.id
 whatsappgrub0.kalem-2.my.id
 whatsappgrupbokep.new9.my.id

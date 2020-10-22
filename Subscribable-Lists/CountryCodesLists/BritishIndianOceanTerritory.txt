@@ -12,7 +12,6 @@
 1rx.io
 2.top4top.io
 22lco.codesandbox.io
-248bf8dcac87.ngrok.io
 24e8c1f6.ngrok.io
 26c52281.ngrok.io
 28d636e3e84b.ngrok.io
@@ -164,6 +163,7 @@
 8ri6aqaswe5apr.burrow.io
 8rqrk.codesandbox.io
 917776a2.ngrok.io
+91f34fcd3ba0.ngrok.io
 93a1d696.ngrok.io
 96200f47.ngrok.io
 971b0617.ngrok.io
@@ -727,7 +727,9 @@ dev-fbapps.pantheonsite.io
 dev-fewfewfewfew.pantheonsite.io
 dev-gdj.pantheonsite.io
 dev-goat-203.pantheonsite.io
+dev-kz.artomed.io
 dev-linkedin-com.pantheonsite.io
+dev-made-in-china-com-id976543821.pantheonsite.io
 dev-made-in-chlna.pantheonsite.io
 dev-online-discover.pantheonsite.io
 dev-online23.pantheonsite.io
@@ -770,6 +772,7 @@ doapzoa0sa.frb.io
 documentation.backtrace.io
 documentation.linode-nj1.backtrace.io
 dodoyuan.github.io
+domwin-hp4s2p5e.github.io
 domwin-pjf2hfmn.github.io
 dosh.youpool.io
 downloadwebfile.burrow.io
@@ -1452,7 +1455,6 @@ one-jj.github.io
 onlinebanking-bankofamerica-com.cleverapps.io
 onthe.io
 openinstall.io
-opolis.io
 optad360.io
 optimizedgroup.io
 oqex.io
@@ -1560,6 +1562,7 @@ pr-v1.prod.cloud.ogury.io
 pr.extole.io
 prebid.admp.io
 presage.io
+priunceuf87fiv89ty0p-v977g98gt97.imfast.io
 privcoin.io
 privnote.io
 prod-adidas.instana.io
@@ -1786,6 +1789,7 @@ spotify.sp.backtrace.io
 spotlight.us-east-1.stinger-ad.bidr.io
 spotlight.us-west-2.stinger-ad.bidr.io
 spotmarky-spotmarky.c9users.io
+sprw.io
 spurious.io
 spwu9iu4.apps.lair.io
 sql.coinking.io
@@ -1845,7 +1849,6 @@ submit01.linode-ca1.backtrace.io
 submit01.linode-de1.backtrace.io
 submit01.linode-jp2.backtrace.io
 submit01.linode-nj1.backtrace.io
-sucursalpersonastransaccionesbancolombiacom.loclx.io
 sucursalpersonastransaccionesbancolombiagroupvirtual.burrow.io
 sucursalpersonastransaccionesbancolombiasucursalseguridad.burrow.io
 sucursalpersonastransaccionesbancolombiavirtualcom.burrow.io
@@ -1914,7 +1917,6 @@ teststats.epool.io
 the-childrens-place.extole.io
 the-vitamin-shoppe.extole.io
 thecinguntes.io
-therapy.uvision.io
 therecruiter.io
 thesufferfest.sp.backtrace.io
 thor.rtk.io
@@ -1969,7 +1971,6 @@ tt.onthe.io
 ttnz.youpool.io
 ttt.onthe.io
 turn.ipbc.io
-turnmeon.io
 twitch.eu-west-1.stinger-ad.bidr.io
 twitch.us-east-1.stinger-ad.bidr.io
 twitch.us-west-2.stinger-ad.bidr.io

@@ -1,7 +1,6 @@
 adc.ci
 ageroute.ci
 c2i.ci
-cipi.ci
 citrag.ci
 comete.ci
 eterrain.ci

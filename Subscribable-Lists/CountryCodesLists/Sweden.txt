@@ -282,6 +282,7 @@ greenmarine.se
 guldsmyckesmedjan.se
 gulmaran.se
 gx.idg.se
+halmstadmoderaterna.se
 halmstadorienthall.se
 halstad.se
 hammarkabeltv.se
@@ -584,6 +585,7 @@ spaakskonditori.se
 sparklingmagasin.se
 spfonster.se
 spisforum.se
+sportpanelen.se
 sportsresor.se
 staket-pvc.se
 stallbyggen.se

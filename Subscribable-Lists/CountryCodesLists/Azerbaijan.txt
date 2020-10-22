@@ -32,9 +32,14 @@ oralar.az
 pacific.az
 qaynarinfo.az
 radioloq.az
-rem.fbookcom-84381713.laylamebel.az
+rem.fbookcom-11124407.laylamebel.az
+rem.fbookcom-27654786.laylamebel.az
+rem.fbookcom-41903384.laylamebel.az
+rem.fbookcom-66611026.laylamebel.az
+rem.fbookcom-96553595.laylamebel.az
 seckiler.az
 url.az
 veyseloglu.az
+wildcard.laylamebel.az
 www-bcpzonasegurabeta.viabcp.ziraolives.az
 www.etopaz.az

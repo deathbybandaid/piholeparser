@@ -59,6 +59,7 @@ barra.iol.pt
 barranew.iol.pt
 bars.sapo.pt
 bazardasaudade.pt
+bcnsistemas.pt
 be-fit.pt
 bellapersona.pt
 belong.pt
@@ -195,6 +196,7 @@ lusosteel.pt
 lxway.pt
 mainlis.pt
 mapas.hoonicorns.pt
+marketingdigitalonline.com.pt
 marktest.pt
 matiz-pombalina.pt
 matizesesuperficies.pt
@@ -237,7 +239,6 @@ ortopediacarlita.com.pt
 paionense.pt
 parque5.pt
 pcclinic.pt
-pedromendes.pt
 pendencia21.com.sapo.pt
 peterfilesblog.blogspot.pt
 pgalvaoteles.pt
@@ -339,7 +340,6 @@ uniclima.pt
 uniplastica.pt
 urban-dna.pt
 vagasdesine2020.pt
-vbss.pt
 veseco.pt
 vgo.vegaoo.pt
 villa-mare.pt

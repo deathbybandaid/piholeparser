@@ -220,7 +220,6 @@ amazon.co.jp.dalemmirgribacheev5.jp
 amazon.co.jp.usid-58476.mixh.jp
 amazon.co.jp.usid-9842.mixh.jp
 amazon5050.jp
-amazonlogistics-ap-northeast-1.amazonlogistics.jp
 ameyoko-sanko.co.jp
 ams900.goo.ne.jp
 an.mainichi.jp
@@ -464,6 +463,7 @@ coconuts.boy.jp
 cocosola.jp
 compass-fit.jp
 contactlens.co.jp
+contel.jp
 conti-tochitochi.jp
 continyup.jp
 control.smbeat.jp
@@ -517,7 +517,6 @@ daughter-evening.jp
 dawg.jp
 dcs.yahoo.co.jp
 dd-labo.jp
-debonosu.jp
 designlabo.co.jp
 dic.nicovideo.jp
 direct.bk.mufg.jp.berry-pop.jp
@@ -619,6 +618,7 @@ fansol.co.jp
 fc.itmedia.co.jp
 fcca.jp
 feel.geo.jp
+feyt78-42317.aomori.jp
 ff.iij4u.or.jp
 finebeads.jp
 firstcrush.jp
@@ -769,7 +769,6 @@ hro5k1zu7h.jp
 hrs-game.main.jp
 hsp-shuto.jp
 hsup.jp
-htunkhaing.xsrv.jp
 hultedina.jp
 hv.adingo.jp
 hyakuchomori.co.jp
@@ -1194,6 +1193,7 @@ nelpara.rootia.jp
 nemuri-lab.jp
 nengu.jp
 nenjudo.co.jp
+neouniv.jp
 net-tribe.jp
 net-way.co.jp
 netdesign.co.jp
@@ -1252,7 +1252,6 @@ oggi.co.jp
 oguj4n5obs.jp
 ogurasansou.co.jp
 ojaru.jp
-okahanako.xsrv.jp
 okmusic.jp
 okonomiyakizanmai24ch.jp
 okurasin.v.wol.ne.jp
@@ -1443,6 +1442,7 @@ sakae-shop.co.jp
 sakarabo.blog.jp
 sake-hayasaka.co.jp
 sakura.ne.jp
+sakuraisyakyo.jp
 saladgarden.jp
 saldao.com.br-smartphone-motorola-moto-g6-5-5.mixh.jp
 samurai.shinobi.jp
@@ -1638,6 +1638,7 @@ tonarinotoroko315iiyo.jp
 top-athlete.jp
 toplady.jp
 topsystem.jp
+tora3.co.jp
 toshiotogorou.blogspot.jp
 touchlab.jp
 tracer.jp

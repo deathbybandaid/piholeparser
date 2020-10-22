@@ -7,7 +7,6 @@ guidelineservices.com.qa
 healthassistance.qa
 inframe.qa
 jib.qa
-lezzet.com.qa
 netflix-account-membership-activate-login.etinsultan.qa
 primeshop.qa
 qatarriders.qa

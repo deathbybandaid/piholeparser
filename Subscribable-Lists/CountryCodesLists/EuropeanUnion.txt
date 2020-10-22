@@ -956,7 +956,6 @@ dekoral.eu
 delarose-project.eu
 delfinio.eu
 dem.gcpool.eu
-demabg.eu
 demail.eu
 demexplorer.gcpool.eu
 deminix.eu
@@ -969,6 +968,7 @@ desktopbabes.eu
 destiny.gcpool.eu
 detahedmspd.eu
 detroit-architectes.eu
+dev.ladystar.eu
 devicedrugstore.eu
 devicesgenerics.eu
 devicestabletgenerics.eu
@@ -2250,7 +2250,6 @@ ip105.ip-54-36-185.eu
 ip113.ip-51-77-227.eu
 ip121.ip-145-239-168.eu
 ip125.ip-54-36-185.eu
-ip130.ip-51-68-245.eu
 ip140.ip-178-32-145.eu
 ip156.ip-145-239-234.eu
 ip168.ip-164-132-92.eu
@@ -2995,6 +2994,7 @@ monocular69-4.euroshop04.eu
 monocular71.euroshop04.eu
 monoit.eu
 monteescalierbonprix.eu
+montepaschispa.eu
 montostroj.eu
 moodart.eu
 mooloman.eu
@@ -4232,7 +4232,6 @@ secure2.store.appleshop.it.shop.signin.webservizdati.eu
 securecanadiansale.eu
 securedscalogin.eu
 securelogin.myposte.eu
-security-fb2020.ydns.eu
 sedhegutplmo.eu
 sedjecdintcugz.eu
 seend.eu
@@ -4799,7 +4798,6 @@ torrent-rutor.eu
 torrentz.eu
 torssandreninb.eu
 torsuldletldmb.eu
-tortedimadlen.eu
 towahedtbsvo.eu
 toyotaavensis.eu
 tpcwrestling.eu
@@ -5207,7 +5205,6 @@ womenmedicalcenter.eu
 womensworldwrestling.eu
 woningontruimingarnhem.eu
 woningontruimingutrecht.eu
-woodmet.eu
 workagency.mablog.eu
 workeshop.eu
 world-coin.eu

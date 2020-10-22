@@ -63,7 +63,6 @@ bokklubbene.no
 boligskjold.no
 bolinux3.hit.no
 brabilder.no
-briard.no
 bruset.no
 bueskyting.no
 byggimportservice.no
@@ -178,6 +177,7 @@ lurl.no
 lyngdalhudterapi.no
 lyshovden.no
 magentoeksperten.no
+maskinkurs.no
 mature2porn.blogspot.no
 maxml.maxgroup.no
 mediatotal.ads.visionweb.no

@@ -5,4 +5,4 @@ ____________________________________
 # 68-Looking-At-What-Did-Not-Pass-TLD-Test
 * 1 Lines After Deduping. 
 ____________________________________________________
-* castoola.tv.lan
+* _banner.gif

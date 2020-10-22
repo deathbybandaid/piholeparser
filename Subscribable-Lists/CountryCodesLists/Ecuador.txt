@@ -58,6 +58,7 @@ labzumba.ec
 lgs.ec
 loteria.com.ec
 lstdata.net.ec
+mail.ctmatsa.com.ec
 maxilar.ec
 mercadolibre.com.ec
 naranjito.gob.ec

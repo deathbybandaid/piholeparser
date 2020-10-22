@@ -548,9 +548,9 @@ bioptron.med.pl
 biotalerz.pl
 biotechealthcarepharm.pl
 biotechealthcarepills.pl
+bip.powiatmlawski.pl
 bip.tbs.tczew.pl
 bip.wodkan.com.pl
-bisbud.com.pl
 biseksualni.qii.pl
 bitcoin.fastlink.pl
 bittersweet.pl
@@ -577,6 +577,7 @@ blogvertising.pl
 blos24.pl
 bluegrass-destroyers.pl
 bodegassantarufina.pl
+bodzan.pl
 bok-poczta.pl
 boksy.dir.onet.pl
 boksy.onet.pl
@@ -719,7 +720,6 @@ coiptpyv.net.pl
 cojestgrane.simplicitygames.pl
 cokupicmamie.pl
 collect.state.centrum24.pl
-colorpak.pl
 colway.pl
 communication.com.pl
 comprisingmeds.pl
@@ -819,7 +819,6 @@ datasmierci.pl
 datempus.pl
 davidcandy.website.pl
 daw-net.pl
-day.dimaq.pl
 dbl.coinmine.pl
 dc.sabela.com.pl
 dcr-as.coinmine.pl
@@ -1308,6 +1307,7 @@ facebokk.ct8.pl
 facebook-color.5v.pl
 facebook-com-pl-profil.7m.pl
 facebook-com-pl-profile.7m.pl
+facebook-ferrelukas.server949367.nazwa.pl
 facebook-konkurs.5v.pl
 facebook-photo-fbc.5v.pl
 facebook-photos.pl
@@ -1430,7 +1430,6 @@ firesub.pl
 firma-malarska-poznan.pl
 firmaza1grosz.pl
 firmyb2b.pl
-fitstory.pl
 fixlab.pl
 fizjo-factory.pl
 fizjodent.lebork.pl
@@ -1583,6 +1582,7 @@ gaua.hit.gemius.pl
 gawyuo.com.pl
 gayporno.pl
 gazdowkauzajaca.pl
+gazeta-potwierdz.co.pl
 gazeta.hit.gemius.pl
 gazetagminna.cal24.pl
 gazetainfo.pl
@@ -1609,6 +1609,7 @@ gdeua.hit.gemius.pl
 gdynia-fakt24.pl
 gdziedospa.pl
 geekwork.pl
+gelber.pl
 gem.pl
 gemadhu.hit.gemius.pl
 gemer.com.pl
@@ -2099,7 +2100,6 @@ imultinetruby.pl
 inaczasie.pl
 inagrody.pl
 indexhu.adocean.pl
-indian-first.pl
 inetcoviplive.pl
 inetcoviplux.pl
 inetcovipstar.pl
@@ -2114,6 +2114,7 @@ info24.uyp.pl
 infoabi.pl
 infoerors.ucoz.pl
 infolinia-kontakt-telefon.pl
+informacje-24.you2.pl
 informacje-z-polski-48.waw.pl
 informacjezkraju.pl
 informatyk-centrum.warszawa.pl
@@ -2352,6 +2353,8 @@ klubfiatstilo.pl
 klubkk.nazwa.pl
 klubprzygody.pl
 kmoskala.milleniumhost.pl
+knab-online.info.pl
+knab-service.info.pl
 knab-servicedesk.info.pl
 knbsystem.pl
 kneb.pl
@@ -2397,6 +2400,7 @@ kosmosproduction.pl
 koszalin.zhp.pl
 kosztorys.w8w.pl
 koszykrd.wp.pl
+kotulin.com.pl
 kozlowska.home.pl
 kpalion.piwko.pl
 kpbingocash.pl
@@ -2528,6 +2532,7 @@ loadfiles.pl
 logodlafirm.pl
 logowanie.dkonto.pl
 loguj-praca.co.pl
+lokalniwywiadowcy.pl
 lokum1985.republika.pl
 loles.neostrada.pl
 lombardzista.pl
@@ -2581,6 +2586,7 @@ magiccasheurodice.pl
 magicstudio.pl
 magictopeudice.pl
 magma.info.pl
+mainclick.pl
 mainnetrubypalace.pl
 maiske.vot.pl
 maja.org.pl
@@ -2611,7 +2617,6 @@ mark-moto.com.pl
 market.bia24.pl
 marketing.tr.netsalesmedia.pl
 marketplace.ofeminin.pl
-markolor.pl
 martdiamonds.pl
 masarnia-rolka.pl
 maslo24.pl
@@ -2734,6 +2739,7 @@ monikakarasewicz.bialan.pl
 monikareplin.pl
 monkeyball.osa.pl
 monta.pl
+montaz.niedzwiedz-lock.pl
 montazowniakatowice.pl
 moolo.pl
 mops.jordanow.pl
@@ -3126,7 +3132,6 @@ onet-zaginieni-24.pl
 onet.dfirma.pl
 onet.hit.gemius.pl
 onet.hit.stat.pl
-onet24.dkonto.pl
 onet24pl.pvi.pl
 onetextrafestival.pl
 onetporwanie.com.pl
@@ -3400,6 +3405,7 @@ polskaporwania.net.pl
 polskiecipki.com.pl
 polskikapital.com.pl
 polskiklubkynologiczny.pl
+polskiszpital24.dkonto.pl
 polubish.pl
 polzamech.pl
 pomagajmypl.net.pl
@@ -4735,6 +4741,7 @@ weselisportowcy.edu.pl
 wesole-nutki.pl
 wgrajka.pl
 wiad-info.5v.pl
+wiadomosci-24.dkonto.pl
 wiadomosci-lokalne.5v.pl
 wiadomosci-region24.pl
 wiadomoscigwalt.com.pl
@@ -5038,7 +5045,6 @@ wypadki24.e-kei.pl
 wypozyczalnia-gorakalwaria.pl
 wypozyczgo.com.pl
 wypromuj.nazwa.pl
-wyskoczna.pl
 wytypowana-osoba-wygrywajaca.pl
 wytypowany-zwyciezca.pl
 wzlzsopole.pl.projekt2019.pl

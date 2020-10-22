@@ -7,7 +7,6 @@ amalgam.hr
 amphibian.edivovina.hr
 analytics.styria.hr
 bipaparfemi.hr
-content-92023737.tex-garesnica.hr
 cryptosistem.hr
 damara.hr
 dating.hr
@@ -20,6 +19,7 @@ donna.com.hr
 ds-recommender.styria.hr
 elda.hr
 extensions-sp.com.hr
+ffval.hr
 finance.hr
 fma-croatia.hr
 geosistem.hr
