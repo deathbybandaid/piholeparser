@@ -26,7 +26,7 @@ ____________________________________
 ### Trimming HOSTS Format IP Addresses
 4719 Lines After Trimming HOSTS Format IP Addresses
 ### Removing Empty Space
-3335 Lines After Removing Empty Space
+3333 Lines After Removing Empty Space
 ### Removing Invalid FQDN Characters
 84 Lines After Removing Invalid FQDN Characters
 ### Converting All Text To Lower Case

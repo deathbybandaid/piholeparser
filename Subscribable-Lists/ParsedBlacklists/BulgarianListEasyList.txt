@@ -554,7 +554,6 @@ collect.igodigital.com
 collect.rewardstyle.com
 collect.state.centrum24.pl
 collect.tianya.cn
-collect.usefathom.com
 collector-api.99designs.com
 collector-cdn.github.com
 collector-medium.lightstep.com
@@ -2347,6 +2346,7 @@ te.supportfreecontent.com
 ted.dailymail.co.uk
 ted.metro.co.uk
 telegraph.api.hbo.com
+telemetry.art19.com
 telemetry.jivosite.com
 telemetry.reembed.com
 telemetry.soundcloud.com
@@ -2495,6 +2495,7 @@ track2.dulingo.com
 track2.mycliplister.com
 tracker-api.my.com
 tracker-id.cdiscount.com
+tracker.520call.me
 tracker.affiliate.iqoption.com
 tracker.affirm.com
 tracker.anandtech.com
@@ -2754,6 +2755,7 @@ videoevents.outbrain.com
 videoplayer2.xyz
 videostat-new.index.hu
 videostat.index.hu
+videostats.kakao.com
 videotracker.washingtonpost.com
 views.cancan.ro
 visit.asb.co.nz
