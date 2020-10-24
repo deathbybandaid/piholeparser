@@ -20,6 +20,7 @@ itgins.do
 jalao.do
 levapan.com.do
 link.do
+lmc.com.do
 maunaloa.com.do
 megasol.com.do
 panastore.com.do

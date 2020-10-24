@@ -1,4 +1,5 @@
 allinone-mada.mg
+bibles.mg
 facebook.com.irinaraza.mg
 irinaraza.mg
 madagascar-voyages.mg

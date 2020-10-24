@@ -104,7 +104,6 @@ arestetic.ro
 aripipentruingeri.ro
 artas.ro
 artasoimaritului.ro
-artbylelia.ro
 artdecorstudio.ro
 artist-booking.ro
 as-tech.ro
@@ -116,6 +115,7 @@ assetzone.ro
 assistanceclientconnexionwebinfos.webnode.ro
 astropet.ro
 atayurt.ro
+atipicconcept.ro
 atlas.aamedia.ro
 atlaselada.ro
 aurora.com.ro
@@ -248,7 +248,6 @@ cmn5uuql6bhafukwc05r.viomil.ro
 cniptmoldovanoua.ro
 cnvv.ro
 coaching-essence.ro
-codtrade.ro
 cofetariagalaxy.rocolectii.ro
 coilprofil.ro
 com-undergo-aujhbhthgo.eyedrops.ro
@@ -385,6 +384,7 @@ emms.ro
 epectasys.ro
 error.intuitext.ro
 et.upt.ro
+etavern.ro
 eurobearingsbv.ro
 euroconcept.ro
 evencel.ro
@@ -415,6 +415,7 @@ fit4success.ro
 fjrsitejfnmainserv.ro
 flaviateodosiu.ro
 florindumitrescu.ro
+fonduri-service-auto.ro
 fontanaresidence.ro
 foodandwineshow.ro
 fordmustangromania.ro
@@ -465,6 +466,7 @@ herdental.ro
 heximed.ro
 hi-peer.ro
 hitx.statistics.ro
+homie.ro
 hotel-mures.ro
 hotelimperium.go.ro
 hotelmm.ro
@@ -558,6 +560,7 @@ loto.ro
 lotusulalb2.ro
 lovemark.ro
 lowvoltage.ro
+lphospitality.ro
 lucibad.home.ro
 lucidius.ro
 lumeasomnului.ro
@@ -700,11 +703,11 @@ pablostore.ro
 palatulcopiilorseverin.ro
 paleurop.ro
 panazan.ro
-paperbox.ro
 paradisulcopiilortargoviste.ro
 parlor.ro
 patrick-house.ro
 pavlos-imobiliare.ro
+pay-home.ro
 paypal.co.uk-home-uk-codeb6159368de39251d7a-login.id-107sbtd9cbhsbtd5d80a13c0db1f546757jnq9j5754675796455622.sanlux.ro
 paypal.it-6159368de39251d7a-login.id-107sbtd9cbhsbtd5d80a13c0db1f546757jnq9j5754675743414182.xxxclub.ro
 paypal.it-6159368de39251d7a-login.id-107sbtd9cbhsbtd5d80a13c0db1f546757jnq9j5754675747466245.xxxclub.ro
@@ -738,6 +741,7 @@ politeh.ro
 polymetal.ro
 ponny.hi2.ro
 pool.bacm.ro
+popasurban.ro
 posdru-edru.bioresurse.ro
 posl.hanuldrumetilor.ro
 postdoctorat.ase.ro
@@ -795,7 +799,6 @@ reciclare.info.ro
 remorcicomerciale.ro
 renetravel.ro
 reparatie-frigidere.ro
-reparatie-telefoane.ro
 reparatiifoto.ro
 replikasrl.ro
 resboiu.ro
@@ -825,6 +828,7 @@ sagaoil.ro
 salinaocnelemari.ro
 salonlamaison.ro
 saltele-online.ro
+sampax.ro
 sanlux.ro
 sans.ro
 saulescupredeal.licee.edu.ro
@@ -841,6 +845,9 @@ script.top66.ro
 sctr.ro
 scule-electrice-profesionale.ro
 scule-facom.ro
+secure-apphalifaxupdate-verification-online.decodim.ro
+secure-apphalifaxupdate-verification-online.dekodesign.ro
+secure-apphalifaxupdate-verification-online.tricouri-bumbac.ro
 secure.paypal.com.lucgroup.ro
 secure.trafic.ro
 securityinsta.com.ideileluiblondu.ro
@@ -968,6 +975,7 @@ trafic.ro
 traficdublu.ro
 trafix.ro
 tramadol2006.3xforum.ro
+trancandtranc.ro
 transexclub.ro
 transilvaniatattoo.ro
 transporturi-agabaritic.ro

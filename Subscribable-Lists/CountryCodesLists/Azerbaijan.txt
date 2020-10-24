@@ -7,6 +7,7 @@ azfilmizle1.azermedia.az
 azkids.az
 azps.az
 b.turbo.az
+balli.az
 barteralsat.az
 bel.az
 bijuteriya.az
@@ -33,10 +34,8 @@ pacific.az
 qaynarinfo.az
 radioloq.az
 rem.fbookcom-11124407.laylamebel.az
-rem.fbookcom-27654786.laylamebel.az
-rem.fbookcom-41903384.laylamebel.az
 rem.fbookcom-66611026.laylamebel.az
-rem.fbookcom-96553595.laylamebel.az
+rem.fbookcom-84381713.laylamebel.az
 seckiler.az
 url.az
 veyseloglu.az

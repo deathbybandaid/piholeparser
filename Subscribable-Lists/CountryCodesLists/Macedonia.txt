@@ -40,6 +40,7 @@ magnometal.com.mk
 mail.marketing365.mk
 marketing365.mk
 marsisdata.mk
+merkur.mk
 metrics.marketing365.mk
 mirjananikoloska.mk
 mk.marketing365.mk

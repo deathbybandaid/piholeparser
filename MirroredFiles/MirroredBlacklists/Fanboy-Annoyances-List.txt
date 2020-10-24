@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rhOJW+6BiFBqPQ0pvtMsoA
-! Version: 202010220021
+! Checksum: DtD5P8c+X3yzG8U/7VlVDw
+! Version: 202010240021
 ! Title: Fanboy's Annoyance List
-! Last modified: 22 Oct 2020 00:21 UTC
+! Last modified: 24 Oct 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -33248,7 +33248,6 @@ _site_cookie_
 ||promoshq.wildfireapp.com^$third-party
 ||promotion.monster.com^$third-party
 ||promotions.newegg.com^$third-party
-||pubexchange.com^$third-party
 ||publisher.monster.com^$third-party
 ||punchtab.com^$third-party
 ||purch.com^$script,third-party
@@ -41270,6 +41269,7 @@ voxi.co.uk##div[class^="notification-container"]
 cheddar.com##div[class^="notificationBanner"]
 listen.tidal.com##div[class^="notificationWrapper--"]
 deliveroo.ie##div[class^="orderweb__"]
+buffer.com##div[class^="style__Banner-"]
 tunein.com##div[class^="violator__container"]
 youtube.com##div[class^="ytd-consent"]
 tunein.com##div[data-testid="gdpr-violatorContainer-true"]
@@ -41963,6 +41963,7 @@ e-coop.it##.coop-goToTop
 dday.it##.corriere-header
 mowmag.com##.crm-card-next
 sapere.it##.dbdslim
+onefootball.com##.digest-signup
 donnamoderna.com##.donnam-footer-newsletter
 webnews.it##.email
 eprice.it##.ep_GoTop
@@ -46044,7 +46045,7 @@ yoigo.com#@#thor-cookies
 @@||androidpolice.com/wp-content/*_facebook-$image
 @@||androidpolice.com/wp-content/themes/ap2/ap_resize/ap_resize.php?*_Twitter-$image
 @@||angvremya.ru/engine/classes/min/index.php?*/js/social-$stylesheet
-@@||apis.google.com/js/platform.js$domain=9gag.com|corrupt-a-file.net|crello.com|discogs.com|dubox.com|duolingo.com|febbit.com|gazeta.uz|id.logi.com|jakdojade.pl|kroger.com|moshi.com|oasgames.com|olx.pl|olx.ro|passeidireto.com|prntscr.com|sato.fi
+@@||apis.google.com/js/platform.js$domain=9gag.com|corrupt-a-file.net|crello.com|discogs.com|dubox.com|duolingo.com|expensify.com|febbit.com|gazeta.uz|id.logi.com|jakdojade.pl|kroger.com|moshi.com|oasgames.com|olx.pl|olx.ro|passeidireto.com|prntscr.com|sato.fi
 @@||app.hrlab.de/assets/icons/$image,domain=app.hrlab.de
 @@||apple.com/kb/resources/images/i_facebook.png
 @@||apple.com^*/retail-static-landing/icon-social-distancing_large.png$image

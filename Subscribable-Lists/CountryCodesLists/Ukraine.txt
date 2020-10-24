@@ -8,7 +8,6 @@
 13r.lg.ua
 160.mbn.com.ua
 1kbk.com.ua
-1med.kiev.ua
 3929313.kl.com.ua
 3r.com.ua
 42eb9.pp.ua
@@ -530,6 +529,7 @@ dedem.com.ua
 dedoctor.pl.ua
 dejkfioop.com.ua
 delay.in.ua
+delfa-test.mk.ua
 delfin-aqua.com.ua
 delkfo.com.ua
 demedic.pl.ua
@@ -1237,6 +1237,7 @@ kvartura.vn.ua
 kydeliver.pp.ua
 kyiv230school.pp.ua
 l2conect.at.ua
+laborjlps.zzz.com.ua
 ladmkus.com.ua
 lady4u0512.kiev.ua
 laferma.com.ua
@@ -2074,6 +2075,7 @@ nmpp.com.ua
 no-name-club.adr.com.ua
 nofex.pp.ua
 nomedic.pl.ua
+nomer1.od.ua
 nopenmi.com.ua
 nord.adr.com.ua
 noregetnores.com.ua
@@ -2217,7 +2219,6 @@ pillstabs.com.ua
 pillswoo.com.ua
 pingwin.net.ua
 planet.dp.ua
-play-casino.com.ua
 pls-findme.net.ua
 plsfind-me.net.ua
 pnel1718.at.ua
@@ -2764,6 +2765,7 @@ voltar.org.ua
 vopljo.com.ua
 voskresinnia.org.ua
 voyage.co.ua
+vpu21.com.ua
 vremved.com.ua
 vrupasg.com.ua
 vs-auto.in.ua

@@ -18,6 +18,8 @@ clubgourmet.com.py
 consejo.com.py
 dante.edu.py
 denuncias-vih.org.py
+dkb.de-banking-online-transaktionen.edelweiss.com.py
+dkb.de-banking.online-transaktion.edelweiss.com.py
 elenaprono.com.py
 equisa.com.py
 estiloymadera.com.py
@@ -48,6 +50,7 @@ rdsa.elenaprono.com.py
 ruggilorepuestos.com.py
 sanamente.com.py
 sexo.com.py
+sfclogisticauno.com.py
 skintec.com.py
 www.apcarreteras.org.py
 yaestamoscansadosdesusleyes.com.py

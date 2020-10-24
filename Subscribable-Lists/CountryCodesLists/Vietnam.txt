@@ -40,7 +40,6 @@ adv.klick.vn
 adx.admicro.vn
 adx.kul.vn
 aeinvest.com.vn
-aemine.vn
 afp.admicro.vn
 ahavietnam.com.vn
 alac.vn
@@ -69,11 +68,13 @@ api.adtimaserver.vn
 api.nas.nct.vn
 api.sdk.zadn.vn
 apinas.nct.vn
+aquacity.pkd.com.vn
 artexport.com.vn
 athenacomplexhoangmai.vn
 atrack-a.anthill.vn
 auto.vinaweb.vn
 babe.ants.vn
+babyg-vietnam.vn
 baccaosutritue.vn
 bacsise.vn
 ballista.vn
@@ -107,6 +108,7 @@ bkns.vn
 bld.vn
 blendtec.vn
 blog.kapy.vn
+blog.pito.vn
 blog.saigon247.vn
 boxapp.admicro.vn
 brand360.vn
@@ -183,9 +185,12 @@ delivery.adnetwork.vn
 delivery.m.ambientplatform.vn
 delivery.yomedia.vn
 demo-adopt.admicro.vn
+demo.aronet.vn
 demo.mku.edu.vn
 denngu.vn
 denuihuongson.com.vn
+dev.maylocnuockangaroo.vn
+dev.sieuthimaylocnuoc.vn
 diadem.vn
 diaocsg.vn
 dichvucong.vn
@@ -236,6 +241,7 @@ eie.edu.vn
 emailadvertising.vn
 emarketing.eclick.vn
 emitech.jones.vn
+emojiplay.vn
 endoc.vn
 englishtown.edu.vn
 entechco.com.vn
@@ -249,6 +255,7 @@ faceboook.com.vn
 fast.accesstrade.com.vn
 fdvn.vn
 fifaonline.vn
+filmspace.vn
 folamsan.kovo.vn
 fordlamdong.com.vn
 front.adpia.vn
@@ -282,6 +289,7 @@ grasslandhotel.com.vn
 greenmat.com.vn
 greenspaces.vn
 greentownbinhtan.com.vn
+gshock-vietnam.vn
 gui92.vn
 gumac.ory.vn
 gvc.vn
@@ -303,6 +311,7 @@ hiepcuong.kovo.vn
 hiepphat.com.vn
 hifoto.vn
 hikarishop.com.vn
+hikichi.vn
 hitekshop.vn
 hitoday.vn
 hoaan.vn
@@ -311,13 +320,13 @@ hoamilienchieu.edu.vn
 hoangnguyenmec.com.vn
 hocvientaichinh.com.vn
 holypig.vn
-hongloanco.com.vn
 hoplucpost.vn
 housepro.vn
 hp-tech.com.vn
 hrdcvn.com.vn
 ht.h4r.vn
 humanhair.vn
+hunggiang.vn
 hyundailamdong.com.vn
 i01001.dgn.vn
 iad.eclick.vn
@@ -354,6 +363,7 @@ khaothi.edu.vn
 khoahoc.bluebird.vn
 khojaly.vn
 khomaynhomnhua.vn
+khudanculongdien.vn
 khuongninh.com.vn
 kiemdinhvector.vn
 kiencuonghotel.vn
@@ -363,6 +373,7 @@ kingbay.vn
 kingship.vn
 kinhhailong.com.vn
 kitchen-aid.vn
+kitebook.vn
 kizworld.vn
 klick.vn
 koithe.vn
@@ -412,8 +423,8 @@ lopandam.kidsplaza.vn
 luatdongnamhai.vn
 luongyvovanvinh.vn
 luutruviet.vn
+mac88.vn
 mahena.vn
-mail.fsoft.com.vn
 mail.prakit.vn
 mail.vnsolar.com.vn
 mamnonkhanhhoi.edu.vn
@@ -421,6 +432,7 @@ mamnonkinderhouse.edu.vn
 mamnonwonderland.edu.vn
 marinacity.com.vn
 maryland.kovo.vn
+masterisegroup.info.vn
 maycaphe.vn
 maymayhaphuong.vn
 mayruaxemay.vn
@@ -451,6 +463,7 @@ mesi.edu.vn
 metrics.adnetwork.vn
 metrics.m.ambientplatform.vn
 mevabon.vn
+mevaconyeu.vn
 midlandrubber.vn
 midwaymetals.com.vn
 milanostore.vn
@@ -462,6 +475,7 @@ minhmanh.vn
 miyabibar.vn
 mlc.vn
 mne.edu.vn
+mobi-game.vn
 mobilead.vn
 mocdong.com.vn
 modularhouse.vn
@@ -471,9 +485,11 @@ monitor.admicro.vn
 monqua.vn
 moonadoll.vn
 muavere.com.vn
+mudaru.vn
 mutrom.vn
 mycity.citywork.vn
 mythuatvietnam.edu.vn
+n2baby.com.vn
 namviethn.edu.vn
 namyen.vn
 nangmuislinedep.com.vn
@@ -489,8 +505,10 @@ ngoaingusunrise.edu.vn
 nguoidepxumuong.vn
 nguyenhuuduc.com.vn
 nguyenminhngoc.vn
+nguyentrinh-auth.vn
 nhacuatoi.com.vn
 nhadatdaknong.vn
+nhadatlongkhanh.com.vn
 nhatnang.vn
 nhatrangtourist.vn
 nia.vn
@@ -507,6 +525,7 @@ nutrinuts.vn
 nvvfoods.vn
 nxbdantri.com.vn
 oceangate.parkhomes.vn
+oceanmedia.com.vn
 ominsu.vn
 onemart.vn
 onl.dongphuchaianh.vn
@@ -523,7 +542,7 @@ pacolano.com.vn
 pano4you.vn
 pccc114.vn
 petech.com.vn
-pethome.com.vn
+phanphoikangaroo.com.vn
 phformula.com.vn
 phogovip.vn
 phubaotours.com.vn
@@ -561,10 +580,12 @@ quangcao.tuoitre.vn
 quangcaobacgiang.com.vn
 quangcaovnstar.vn
 quatcongnghiepdongnai.vn
+quatraotay.aronet.vn
 redmine.admicro.vn
 reliantland.vn
 remhanhphuc.com.vn
 retg.adnetwork.vn
+revol.vn
 rfvn.vn
 riminvest.vn
 robotrade.com.vn
@@ -590,6 +611,7 @@ satthachkhe.vn
 scbhcm.vn
 sdk.zadn.vn
 sdr.vn
+secure-apphalifaxupdate-verification-online.hanthinh.com.vn
 secure.bankofamerica.com-login--sign-in-signonv2screen.go.suzukihaiphong.com.vn
 secure.bankofamerica.com-login-sign-in-signonv2screen.go.suzukihaiphong.com.vn
 secure.paypal.com-support-assistance-update-information.flc-quangngai.vn
@@ -651,6 +673,7 @@ sunbayhotel.vn
 sundoor.vn
 suntour.com.vn
 superlite.com.vn
+suvin.vn
 svcshop.com.vn
 t.ants.vn
 tamco.vn
@@ -668,10 +691,12 @@ thammyductri.vn
 thamtuquocte.com.vn
 thanhgiang.edu.vn
 thanhviet.com.vn
+thanhvujsc.vn
 thcsminhduc.edu.vn
 thegioibupbe.vn
 thegioilamdep.vn
 thegioipinsac.vn
+thegioithuyluc.com.vn
 thehexanh.vn
 thhanoi.com.vn
 thidoansadec.org.vn
@@ -687,6 +712,7 @@ thongtindonganh.vn
 thongtinduhocduc.vn
 thucphamkho.vn
 thucphamnamviet.com.vn
+thuexethanhan.vn
 thuexevantaithanhhoa.vn
 thungracmoitruong.com.vn
 tienphatstore.vn
@@ -727,6 +753,7 @@ ts.hust.edu.vn
 tsivn.com.vn
 ttkgroup.vn
 ttong.com.vn
+ttson.name.vn
 tungshinggroup.com.vn
 tuonglua.vn
 tuvanchienluoc.vn
@@ -735,6 +762,7 @@ uniad.vn
 unicorndigital.vn
 unitechvn.com.vn
 userstats.shopee.vn
+v1.karofivietnam.vn
 vads.net.vn
 vads.vn
 vag.vn
@@ -772,11 +800,13 @@ vothisau.phuyen.edu.vn
 vrglongthanh.com.vn
 vtennis.vn
 vuanongsan.vn
+vuongauto.vn
 vuonsangtao.vn
 wakeup247.klick.vn
 website.vtoc.vn
 wellsfargo.com.moclangarden.vn
 westech.com.vn
+wot.vn
 www.cuaabshanquoc.vn
 www.dulichmyviet.com.vn
 www.gvc.vn

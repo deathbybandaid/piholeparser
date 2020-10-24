@@ -234,6 +234,7 @@ api.d.xiaomi.com
 api.doubles.click
 api.eqmob.com
 api.fouanalytics.com
+api.gameads.io
 api.grandonmedia.com
 api.hybrid.intl.xiaomi.com
 api.moengage.com
@@ -314,6 +315,7 @@ banne2s.ero-advertising.com
 banne3s.ero-advertising.com
 banne4s.ero-advertising.com
 banner.ero-advertising.com
+banner.gameads.io
 banner.org.ua
 bannerbuzz.info
 banners1.ero-advertising.com
@@ -414,6 +416,7 @@ cdn.castoola.com
 cdn.discoveryad.castoola.tv
 cdn.dosya.web.tr
 cdn.doublesclick.me
+cdn.gameads.io
 cdn.googletoolservices.com
 cdn.insurads.com
 cdn.moengage.com
@@ -1407,6 +1410,7 @@ mysterysnooper.com
 mywot.com
 mywot.net
 myyserviceupdater.com
+n.gameads.io
 n13x4nfw8frika.com
 n2019cov.000webhostapp.com
 namilh.com
@@ -1568,6 +1572,7 @@ nl1.ero-advertising.com
 nl2.ero-advertising.com
 nlocalhost.wordtheminer.com
 nners.ero-advertising.com
+node.gameads.io
 nordfreevpn.com
 norton.nortonvirus.org
 norulless.com
@@ -1663,6 +1668,7 @@ p.s.360.cn
 pagepeel.ero-advertising.com
 pakistanelevators.pk
 paleoleap.usesfathom.com
+panel.gameads.io
 parentelement.tk
 parks.su
 parnerimcarpich.com
@@ -1974,6 +1980,7 @@ sfo.thor.rtk.io
 sg.mmstat.com
 sgp.o2o.api.xiaomi.com
 shangri-la.gq
+shapez.gameads.io
 shop-rnib.org
 shop.inteleksys.com
 shsvveir.eu

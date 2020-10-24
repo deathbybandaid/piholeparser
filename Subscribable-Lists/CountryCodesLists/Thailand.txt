@@ -41,8 +41,10 @@ dreamhouse.in.th
 edu-src.msu.ac.th
 edu.tsu.ac.th
 educationthai.co.th
+eduroam.stou.ac.th
 enagic.co.th
 eng.ubu.ac.th
+eresearch.pit.ac.th
 fdx.co.th
 framehouse.in.th
 gaushyang.co.th
@@ -65,6 +67,7 @@ ie.kbu.ac.th
 industrialonline.in.th
 innogineering.co.th
 intactcorp.co.th
+intranet.onep.go.th
 iooi.co.th
 ipphone.nstru.ac.th
 irbrta.pmk.ac.th
@@ -162,6 +165,7 @@ srf.ais.co.th
 stat.matichon.co.th
 statmt.matichon.co.th
 stats.in.th
+stepline.co.th
 surintech.ac.th
 svk.co.th
 swpark.or.th

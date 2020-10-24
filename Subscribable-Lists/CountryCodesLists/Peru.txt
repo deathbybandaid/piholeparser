@@ -2,9 +2,11 @@
 a2bproject.pe
 ab-asesores.com.pe
 acantiladodebarranco.pe
+accesbus.com.pe
 ads.elcomercioperu.com.pe
 aei.com.pe
 aglzeyhwmr.cwp.com.pe
+alexanderfleming.edu.pe
 aliati.com.pe
 alpaser.com.pe
 ameli-account-connection.agip.net.pe
@@ -44,6 +46,7 @@ citytoys.com.pe
 cle.pe
 coipac.pe
 colegiodavinci.pe
+colombia.virtual.ver.pe
 companiamisionera.org.pe
 compusoftdata.pe
 consultora-mj.pe
@@ -202,7 +205,6 @@ peruvias.pe
 pervicon.com.pe
 petsafeperu.pe
 phi.com.pe
-pichara.pe
 polosac.pe
 popcom.pe
 primariaunh.edu.pe

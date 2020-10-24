@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 21 Oct 2020 at 07:41:09 GMT
+# Last updated: Fri, 23 Oct 2020 at 02:10:23 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2957,6 +2957,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 ultra2.tsinghua.edu.cn
 0.0.0.0 unetbootin.net
 0.0.0.0 unetbootin.org
+0.0.0.0 unitdotto.club
 0.0.0.0 unk.vver.kiae.rr
 0.0.0.0 unknown.counsellor.gov.cn
 0.0.0.0 update.theplacetoupdating.pw

@@ -1,6 +1,8 @@
+acpdd.cat
 ads.vilaweb.cat
 advocatsaterrassa.cat
 agrupaciocongres.cat
+almata.cat
 analisisreig.cat
 associacioesportivapolitg.cat
 atdarquitectura.cat
@@ -33,6 +35,7 @@ marmitaco.cat
 match.cat
 old.alcarras.cat
 paypal.us.g-c.cat
+portesobertes.proven.cat
 progreslaseu.cat
 revisionsmediques.cat
 saloboda.cat

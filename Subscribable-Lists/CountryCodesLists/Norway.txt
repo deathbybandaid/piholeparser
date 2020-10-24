@@ -172,7 +172,6 @@ linnsmatblogg.no
 liveviewer.ez.no
 log.advista.no
 log.idg.no
-logiq.no
 lurl.no
 lyngdalhudterapi.no
 lyshovden.no
@@ -205,6 +204,7 @@ oml-motorsport.no
 omsorgskafeen.no
 onlune.no
 openads.tvnorge.no
+optimaregnskap.no
 oslomf.no
 oyelege.no
 paypal.limitedremoved.culinae.no
@@ -259,6 +259,7 @@ varg.no
 velorbis-bikes.no
 veteranutleie.no
 vibb.no
+villanytt.no
 volvoselektshop.no
 webcount.finn.no
 webhit.aftenposten.no

@@ -561,6 +561,7 @@ collector-px0py5pczn.octopart.com
 collector.automote.co.nz
 collector.clareity.net
 collector.fiverr.com
+collector.getyourguide.com
 collector.githubapp.com
 collector.ksax.com
 collector.kstptv5.com

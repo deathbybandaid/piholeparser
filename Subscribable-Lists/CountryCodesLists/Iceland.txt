@@ -10,6 +10,7 @@ betralif.saa.is
 birta.stats.is
 bittrex.is
 bks.is
+bokahotel.is
 boksala.is
 bronco.is
 cannabiscanada.is
@@ -74,6 +75,7 @@ thebestpool.kano.is
 thesaker.is
 trezor.is
 uk1.kano.is
+via.hypothes.is
 www.kano.is
 www.lotto.is
 www.rimmugygur.is

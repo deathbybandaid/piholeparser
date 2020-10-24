@@ -464,6 +464,7 @@ cocosola.jp
 compass-fit.jp
 contactlens.co.jp
 contel.jp
+contentsxx.xsrv.jp
 conti-tochitochi.jp
 continyup.jp
 control.smbeat.jp
@@ -743,6 +744,7 @@ hazard-labo.jp
 hazardlab.jp
 hazardlabo.jp
 hb.afl.rakuten.co.jp
+hd.yamarinkou.jp
 hikari-kinzoku.co.jp
 hilllac3860.jugem.jp
 himawari-web.akita.jp
@@ -870,7 +872,6 @@ japanp0st.jp
 jewelleryterra.jp
 jh4bke.jp
 jig.jp
-jikko.jp
 jinlab.jp
 jk-bic.jp
 jlab.jp
@@ -1193,7 +1194,6 @@ nelpara.rootia.jp
 nemuri-lab.jp
 nengu.jp
 nenjudo.co.jp
-neouniv.jp
 net-tribe.jp
 net-way.co.jp
 netdesign.co.jp
@@ -1384,6 +1384,7 @@ racers.jp
 radiomall.ne.jp
 raim.ne.jp
 rakuda.co.jp
+rakutem-cards-co.jp
 rakuten-japan.jp
 rakuten.co.jp
 rakuten.co.jp.suppor.memeber.jp
@@ -1725,6 +1726,7 @@ wellco.jp
 wellnesslab.co.jp
 wellnesslink.jp
 wellshop.jp
+whopper.co.jp
 wih2wz96.jp
 win.auone.jp
 wisteria-js.excite.co.jp
@@ -1807,6 +1809,7 @@ xlisting.jp
 xml.affiliate.rakuten.co.jp
 xn--tv-6g4aya8ae3fwgzgqa0j.jp
 xr.shinobi.jp
+xs188550.xsrv.jp
 xtd.jp
 xurl.jp
 y4tk6p.jp
