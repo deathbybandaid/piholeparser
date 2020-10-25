@@ -1,6 +1,7 @@
 acta.ai
 analytics.humanautomation.ai
 analytics.jst.ai
+analytics.tooso.ai
 api.ascend.ai
 api.cortana.ai
 api.native.ai

@@ -230,6 +230,7 @@ analytics.thenewslens.com
 analytics.thetab.com
 analytics.tiktok.com
 analytics.tio.ch
+analytics.tooso.ai
 analytics.tout.com
 analytics.tradedoubler.com
 analytics.traderlink.com
@@ -1815,6 +1816,7 @@ s.infogram.com
 s.qhupdate.com
 s.renren.com
 s.sniphub.com
+s.srvsynd.com
 s3-tracking.synthasite.net.s3.amazonaws.com
 sa.bbc.co.uk
 sa.sky.it
