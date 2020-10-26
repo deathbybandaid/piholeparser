@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7cIbfh0w6GhDrHz1u4dAfA
-! Version: 202010250020
+! Checksum: grXsjFD888IbvbjqeQPCFQ
+! Version: 202010260020
 ! Title: RU AdList
-! Last modified: 25 Oct 2020 00:20 UTC
+! Last modified: 26 Oct 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1336,6 +1336,8 @@ by,~mail.ru,ru,~sportmail.ru,ua##.banner_box
 ##[href*="/uni-tds.com/"]
 ##[href*="/vaigowoa.com"]
 ##[href*="/zfvklk.ru"]
+##[href*="://browseit.ru/"]
+##[href*="://click.1k3web.net/"]
 ##[href*="://clickpzk.com/"]
 ##[href*="driftawayforfun.com"]
 ~media.hubfiles.gdn##[href*="media.hubfiles.gdn"]
@@ -4935,6 +4937,7 @@ _tizers.
 ||beegotou.net^$third-party
 ||beerboms.ru^$third-party
 ||befouled-fire.com^
+||beget.tech^$third-party
 ||beglorena.com^$third-party
 ||bek5qstfnr.club^$third-party
 ||beligana.ru^
@@ -5340,6 +5343,7 @@ _tizers.
 ||clievise.com^
 ||clkmon.com^$third-party
 ||cllckdomain.com^
+||clmawdd9chhcaii.ru^$third-party
 ||clme.biz^
 ||clme.net^
 ||clo.lv^
@@ -11220,6 +11224,7 @@ zakarpattya.net.ua###B4
 smotri.com###BannerUnderBroChat
 smotri.com###BannerUnderBroPlayer
 poiskvps.ru###BlueA
+anime-free.biz###Comm
 rp5.am,rp5.by,rp5.co.uk,rp5.kz,rp5.lt,rp5.lv,rp5.md,rp5.ru,rp5.ua###FheaderContent > #archiveString ~ div[id]:not([class]):not([id="forecastShort"])
 onlinemusic.com.ua###GoodVane
 minfin.com.ua###HMmenuPaymentsMain
@@ -11366,7 +11371,7 @@ bigmir.net,bmwclub.ru,chemezova.ru,dengi.ua,gp.by,mport.ua,rada.com.ua,vd-tv.ru,
 grind.fm###bannerborder
 now.ru###bannerholder
 casstudio.tv,kinomania.kz,kinoprosmotr.site###bannerlayer
-ascnb1.ru,matematikalegko.ru,mosenergosbyt.ru,orangeapps.ru,rgfootball.net,shadowlands.ru,tapclap.com###banners
+anime-free.biz,ascnb1.ru,matematikalegko.ru,mosenergosbyt.ru,orangeapps.ru,rgfootball.net,shadowlands.ru,tapclap.com###banners
 spbit.ru###banners > a
 pobedish.ru###banners > noindex > a[href]:not([href*="pobedish.ru"])
 sletat.ru###banners-after-search-form
@@ -15538,7 +15543,7 @@ vesti.ru##:not(.vgtrk-a1-list_inner) > .vgtrk-a1
 vse42.ru##:not(.vse-slider-image) > .banner
 ogorod.ru##:not([class^="banner_top_"]) > div[id^="adfox_"]
 patrioty.org.ua##:not(html) > iframe[style*="important"]:not([src^="https://disqus.com/embed/comments/"])
-123torrent.ru,5.45.65.153,5.45.70.162,berutor.site,blackrutor.site,extrutor.org,extrutor.site,fastrutor.site,herutor.org,listrutor.org,new-rutor.org,pipitor.org,prutor.site,xrutor.org##:not(obhod-adblocka)
+123torrent.ru,5.45.65.153,5.45.70.162,berutor.site,blackrutor.site,extrutor.org,extrutor.site,fastrutor.site,herutor.org,listrutor.org,new-rutor.org,pipitor.org,prutor.site,r-tor.ru,rutor-live.tk,rutor1.site,tracker-rutor.tk,xrutor.org##:not(obhod-adblocka)
 csmania.ru##A[onclick^="countAdClick"]
 mediametrics.ru##[_onclick*="advert"]
 coub.com##[adfox-featured-banner]
@@ -18723,6 +18728,7 @@ igdz1.ru^$script,domain=igdz.ru
 ||ani-mania.com/files/ban$subdocument
 ||ani-mania.com/seo_anime_
 ||anime-365.ru/promo/
+||anime-free.biz/templates/image/banner
 ||animechan.ru/fun/
 ||animecult.me/*.js|$third-party,script
 ||animedia.tv/img/promo/
@@ -23443,6 +23449,7 @@ kinogo-720.net#@#.ya-share2
 @@||garipova.getcourse.ru/nassets/$stylesheet,domain=garipova.getcourse.ru
 @@||garna.net^*_ads.js.$script,domain=garna.net
 @@||gaua.hit.gemius.pl/gplayer.js$script,domain=tsn.ua
+@@||gearshout.net/detroitchicago/dayton.js$script,domain=gearshout.net
 @@||glopart.ru^$domain=glopay.me
 @@||go.leadgid.ru/aff_c?offer_id$popup,domain=luckymir.ru
 @@||gomeltoday.by/uploads/ads/$domain=gomel.today
