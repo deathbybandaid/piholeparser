@@ -10680,12 +10680,6 @@ barsy.ca
 // Submitted by Werner Kaltofen <wk@all-inkl.com>
 kasserver.com
 
-// Algorithmia, Inc. : algorithmia.com
-// Submitted by Eli Perelman <eperelman@algorithmia.io>
-*.algorithmia.com
-!teams.algorithmia.com
-!test.algorithmia.com
-
 // Altervista: https://www.altervista.org
 // Submitted by Carlo Cannas <tech_staff@altervista.it>
 altervista.org
@@ -12448,11 +12442,17 @@ eu.meteorapp.com
 co.pl
 
 // Microsoft Corporation : http://microsoft.com
-// Submitted by Mostafa Elzeiny <moelzein@microsoft.com>
+// Submitted by Mitch Webster <miwebst@microsoft.com>
 *.azurecontainer.io
 azurewebsites.net
 azure-mobile.net
 cloudapp.net
+azurestaticapps.net
+centralus.azurestaticapps.net
+eastasia.azurestaticapps.net
+eastus2.azurestaticapps.net
+westeurope.azurestaticapps.net
+westus2.azurestaticapps.net
 
 // minion.systems : http://minion.systems
 // Submitted by Robert Böttinger <r@minion.systems>

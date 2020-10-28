@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: G/GG9Fh+GuN3PZCWjJ1cCg
-! Version: 202010270021
+! Checksum: OfXpMno2RqsWKy/ZxmzQCw
+! Version: 202010280021
 ! Title: Fanboy's Annoyance List
-! Last modified: 27 Oct 2020 00:21 UTC
+! Last modified: 28 Oct 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -12139,6 +12139,7 @@ _site_cookie_
 ##.block-trinity-social
 ##.block-twitter
 ##.block-umhs-share
+##.blockShare
 ##.blockSocial
 ##.blockSocialLink
 ##.block_240_socials
@@ -19756,6 +19757,7 @@ _site_cookie_
 ##.st-custom-button
 ##.st-social-block
 ##.st-social-share-buttons
+##.st-socialnetwork
 ##.st-topbar-social
 ##.st_digg_custom
 ##.st_email_custom
@@ -26418,6 +26420,7 @@ _site_cookie_
 ###messengerSpecialCookie
 ###metaCiasteczko
 ###meteor-cookies-notice
+###metisCookieTopBar
 ###metro_cookie_choice_info
 ###mf_cookie_box
 ###mg-usercookie
@@ -27914,6 +27917,7 @@ _site_cookie_
 ##.__cookies
 ##.__gdprConfirmOverlay
 ##._cookie-banner
+##._cookie-bar
 ##._cookie-info
 ##._cookies
 ##._cookies-cookies-bar
@@ -40547,7 +40551,7 @@ gpuopen.com###colophon
 evaair.com,play.tv###colorbox
 shadertoy.com###compliance
 msn.com###conditionalbanner
-alarabiya.net,find-dvd.co.uk,ft.com,heathrowexpress.com,holition.com,mapcarta.com###consent
+alarabiya.net,find-dvd.co.uk,ft.com,heathrowexpress.com,holition.com,mapcarta.com,nperf.com###consent
 netcraft.com###consent-form
 c21stores.com###consent-tracking
 predesto.com###consent-wrapper
@@ -40838,6 +40842,7 @@ linkedin.com##.artdeco-global-alert
 leo.org##.as-oil
 businessinsider.com##.as-oil-content-overlay
 which.co.uk##.b_g
+chess24.com##.background
 co-operative.coop,couchsurfing.com,fullscreen.com,haymarketbooks.org,pluralsight.com,securitylab.github.com,usatoday.com##.banner
 uber.com##.banner--bottom
 makeprintable.com##.banner-hints
@@ -40908,6 +40913,7 @@ mad-daily.com##.cp-info-bar-container
 louisvuitton.com##.cs_banner
 quixel.com##.css-wzviqn
 tannoy.com##.cv2-wrapper
+chess24.com##.dataConsentModal
 dhl.com##.dhl-cgk
 ingwb.com##.dialog
 blocksite.co##.dialog-widget-content
@@ -44142,7 +44148,7 @@ insideevs.it,omnifurgone.it,omnimoto.it##.m1-footer-message
 fashionunited.it##.mdc-snackbar__surface
 ari.it##.message
 monzacalcio.com##.modal
-alfasigma.com,elevensports.it,monzacalcio.com##.modal-backdrop
+alfasigma.com,elevensports.it,feralpisalo.it,monzacalcio.com##.modal-backdrop
 informazione.it##.modal-body
 telethon.it##.modalMessage
 initalia.it##.notice-wrap
@@ -44828,7 +44834,7 @@ infiniti-vietnam.com.vn##.c_128
 ! *** easylist:fanboy-addon/fanboy_annoyance_allowlist_general_hide.txt ***
 nasa.gov#@##BackToTop
 billabong.com#@##NewsletterSignup
-autotrader.com,brydge.com,liputan6.com#@##back-to-top
+autotrader.com,brydge.com,liputan6.com,rejuvenation.com#@##back-to-top
 engie.fr,gaz-tarif-reglemente.fr,nasa.gov#@##backToTop
 rmf24.pl#@##backTop
 nasa.gov#@##backtoTop
@@ -45846,6 +45852,7 @@ yoigo.com#@#thor-cookies
 @@||ecestaticos.com/build/js/common/components/messageapi/cookiemessage.$script,domain=www.elconfidencial.com
 @@||gstatic.com/brandstudio/kato/cookie_choice_component/$script,domain=blog.google
 @@||microsoft.com/api/privacy/cookieconsent?$xmlhttprequest,domain=docs.microsoft.com
+@@||nectar.com/lib/cookieBanner.js
 @@||stabila.com/bundles/marketingsuite/css/cookie-bar.css
 @@||strava.com/cookie-banner.js$~third-party
 @@||tietosuoja.fi/o/frontend-js-web/aui/cookie/cookie.js$script
@@ -45935,6 +45942,7 @@ yoigo.com#@#thor-cookies
 @@.php?f=js/*.js,js$script,domain=undicom.pl
 @@||4ka.sk/js/cookiebar.min.js
 @@||amigosmuseoreinasofia.org/assets/js/cookiecuttr/jquery.cookie.js
+@@||bccmilano.it/framework/js/cookies.dyn.js
 @@||candidat.pole-emploi.fr^*/modules/jquery-eu-cookie-law-popup.js$script
 @@||cdn.rp.pl/cmp/cmp.min.js
 @@||cdp.pl/skin/*/cookies.js
