@@ -3,7 +3,7 @@
 ____________________________________
 # 
 ### Checking For Script Whitelist File.
-* Script Whitelist File not there, not removing. Wed Oct 28 00:20:25 UTC 2020
+* Script Whitelist File not there, not removing. Thu Oct 29 00:20:24 UTC 2020
 ### Pulling Domains From Individual Lists.
 1 In Backupbitlockerrecoverykey
 1 In BildDE
