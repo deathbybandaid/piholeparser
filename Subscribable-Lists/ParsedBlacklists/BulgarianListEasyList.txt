@@ -1371,7 +1371,6 @@ logs-api.shoprunner.com
 logs-qos.tf1.fr
 logs.51cto.com
 logs.dashlane.com
-logs.datadoghq.eu
 logs.gaana.com
 logs.ggweb.nl
 logs.hotstar.com
@@ -1412,6 +1411,7 @@ mastertag.q-sis.de
 mc.webvisor.com
 mc.webvisor.org
 mc.yandex.ru
+mcs-va.tiktokv.com
 mcs.delvenetworks.com
 measure.ameblo.jp
 measure.refinery89.com

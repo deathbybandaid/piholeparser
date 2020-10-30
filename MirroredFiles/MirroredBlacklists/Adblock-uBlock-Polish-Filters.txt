@@ -8,9 +8,9 @@
 ! Działa najlepiej z EasyList - pamiętaj aby zasubskrybować!
 !   Patronite ==> https://patronite.pl/polskiefiltry
 !   PayPal ==> https://www.paypal.com/pools/c/87zNJ8OJ3I
-! Last modified: 28 October 2020
+! Last modified: 29 October 2020
 ! Expires: 1 day
-! Version: 2020102801
+! Version: 2020102902
 ! Support:
 !   Email >> errorsfilters@certyficate.it
 !   Github >> https://github.com/MajkiIT/polish-ads-filter/issues
@@ -18,7 +18,7 @@
 ! License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ! Copyright © 2020 Certyficate IT
 ! Najnowsza wersja zawsze na: https://www.certyficate.it/adblock
-! v.2020102801 aktualizacja: sr, 28 października 2020, 10:30:00
+! v.2020102902 aktualizacja: czw, 29 października 2020, 15:55:00
 !
 !
 !1#-----------------------General advert blocking filters-----------------------!
@@ -3162,6 +3162,7 @@ twojaslupca.pl##[class*="mobile-advert"], .widget_custom_html.widget.widget_text
 twojejaslo.pl##.td-ss-main-sidebar
 twoje-seriale.tv##a[href^="http://www.videostream.pl/"]
 twojecentrum.pl##font > small
+twoje-strony.pl###reklama_home
 twoje-miasto.pl,www.rdc.pl##[class^="reklama"]
 twojepajeczno.pl##.rekslide, .td-header-rec-wrap, div.rslide, div.fslide, span.ast, .td-header-sp-recsx, .active, span.astad
 twojepc.pl##td[width="300"][align="left"][valign="top"]
@@ -4521,13 +4522,13 @@ cda-tv.online###clickfakeplayer
 /^https?:\/\/[a-z0-9-]{8,30}\.[a-z]{2,11}\/[0-9]{3,10}/$xmlhttprequest,script,stylesheet,subdocument,domain=raptu.com|flashx.tv|fileone.tv|animezone.pl|vidoza.net|kreskowkazone.pl|vidfile.net
 /^https?:\/\/[a-z0-9-]{8,30}\.[a-z]{2,11}\/[a-z]{1,3}\/[0-9]{5,10}/$script,domain=cda-tv.pl
 /^https?:\/\/[a-z0-9]{10,20}\.com\/[0-9]{5,10}\.html/$subdocument,domain=ekino-tv.pl|abcvideo.cc
-/^https?:\/\/[a-z0-9]{5,}\.(com|bid|online|top|club)\/[a-z0-9]{1,}\/[a-z0-9]{1,}\/[a-z0-9]{1,}\/[a-z0-9/]{4,}\.js/$script,domain=vidto.me|fileone.tv|alltube.tv|srkcast.com|vidfile.net|alltube.pl|whostreams.net|szukajka.tv|cda-hd.co|filman.cc|cda-hd.cc|horrortube.fun|onlystream.tv|jetload.net|ekino.pw|waaw.tv|cda-tv.online|playtube.ws|supervideo.tv|upstream.to|vizjer.pl|vodi.cc
+/^https?:\/\/[a-z0-9]{5,}\.(com|bid|online|top|club)\/[a-z0-9]{1,}\/[a-z0-9]{1,}\/[a-z0-9]{1,}\/[a-z0-9/]{4,}\.js/$script,domain=vidto.me|fileone.tv|alltube.tv|srkcast.com|vidfile.net|alltube.pl|whostreams.net|szukajka.tv|cda-hd.co|filman.cc|cda-hd.cc|horrortube.fun|onlystream.tv|jetload.net|ekino.pw|waaw.tv|cda-tv.online|playtube.ws|supervideo.tv|upstream.to|vizjer.pl|vodi.cc|clipwatching.com
 /^https?:\/\/[a-zA-Z.0-9]{7,}\.(com|bid|info)\/[a-zA-Z.-]{1,}\.js/$script,domain=devil-torrents.pl|electro-torrent.pl|vidlox.tv|segos.es|fileone.tv|raptu.com|vidfile.net|sharevideo.pl|sharing-box.cloud|vidstream.xyz|cloudupload.co|veecast.net|openkatalog.com|shinden.pl|tele-wizja.is|ekinomaniak.tv|hqq.watch|whostreams.net|seriale-po-polsku.pl|virpe.com|filman.cc|horrortube.fun|onlystream.tv|clipwatching.com|upstream.to|videopenny.net|flashx.net|vidspace.io|cdahd.co|upzone.cc|abcvideo.cc|ekinomaniak.net
 /^https?:\/\/[a-zA-Z0-9]{10,}\.cloudfront\.net\/[a-zA-Z0-9%?=]{10,}/$script,domain=seriale-po-polsku.pl|animezone.pl|abcvideo.cc
 /^https?:\/\/[a-zA-Z0-9]{7,}\.com\//$script,domain=horrortube.fun|ekino.pw
 /^https?:\/\/[a-zA-Z0-9]{5,10}\.[a-z]{2,10}\/[a-zA-Z0-9?_=&-.%]{50,70}/$subdocument,script,popup,domain=tele-wizja.is|widestream.io|cdahd.co|onlystream.tv
 /^https?:\/\/[a-zA-Z0-9]{5,15}\.(com|net)\/[a-z]{4,10}\/[0-9a-z.?=%A-Z-&]{60,100}/$script,popup,domain=veecast.net
-/^https?:\/\/[a-z]{3,10}\.[a-z]{3,4}\/[\w-]{4,10}.(css|png)[\w\W]{30,80}/$stylesheet,image,domain=freedisc.pl|cdahd.co|cda-hd.cc|clipwatching.com
+/^https?:\/\/[a-z]{3,10}\.[a-z]{3,4}\/[\w-]{4,10}.(css|png)[\w\W]{30,80}/$stylesheet,image,domain=freedisc.pl|cdahd.co|cda-hd.cc|clipwatching.com|streamtape.com
 /^https?:\/\/[a-z]{3,10}\.[a-z]{3,4}\/[a-z]{3,10}\.json/$xmlhttprequest,domain=freedisc.pl|cdahd.co|cda-hd.cc|onlystream.tv|clipwatching.com
 /^https?:\/\/[a-z]{4,10}\.com\/[0-9]{5,10}.\html/$popup,domain=horrortube.fun
 /^https?:\/\/[a-z]{5,10}\.com\/[a-zA-Z0-9+]{80,}/$subdocument,domain=embed.nowvideo.sx|cloudtime.to|darmowa-telewizja.info

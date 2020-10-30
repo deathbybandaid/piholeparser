@@ -2691,7 +2691,6 @@ login.live.com.mvc.rev365.shn2.myshn.eu
 login.live.com.office.rp.skydemo.myshn.eu
 login.microsoftonline.com.mvc.rev365.shn2.myshn.eu
 loginv10-web.ydns.eu
-logs.datadoghq.eu
 lolmpoiu.eu
 londonbayernlb.eu
 longassdreads.freaze.eu
