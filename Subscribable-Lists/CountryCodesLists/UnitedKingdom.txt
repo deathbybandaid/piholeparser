@@ -167,7 +167,6 @@ acclaimenvironmental.co.uk
 accordcounselling.co.uk
 accountantsinmalmesbury.co.uk
 accountbilling-ee.co.uk
-accountprotection.co.uk
 accounts.instasecure.co.uk
 accountwebupdate.webeden.co.uk
 accuritcleaning.co.uk
@@ -550,7 +549,6 @@ aspiringmile.co.uk
 aspx52.co.uk
 aspx7.co.uk
 asses.co.uk
-assessment-self-taxrebate.uk
 assessni.co.uk
 assets.ipcdigital.co.uk
 assistsecurity.co.uk
@@ -684,6 +682,7 @@ batteryincorporated.co.uk
 batteryproperties.co.uk
 bayoga.co.uk
 bayshoreportfolio.co.uk
+bbex.co.uk
 bbia.co.uk
 bbw.me.uk
 bc.crypto-daio.co.uk
@@ -799,6 +798,7 @@ billing-verified.co.uk
 billing.3dsecure.uk
 billing.up-three.co.uk
 billingform-network.co.uk
+billinghelp.co.uk
 billinginfo-network.co.uk
 billinginfo-networks.co.uk
 billings-three.co.uk
@@ -938,6 +938,7 @@ britiannia-worldwide.co.uk
 britishcurryclub.co.uk
 britishdawn.co.uk
 britishmodelgirls.co.uk
+britishwebmasters.co.uk
 britsbingo.co.uk
 brkshotsservices.co.uk
 broachsecond.co.uk
@@ -1073,6 +1074,7 @@ candylocks.co.uk
 canfinish.co.uk
 canintegrate.co.uk
 cannabisdeals.co.uk
+cannellandcoflooring.co.uk
 cantemic.co.uk
 canvas.graphic-solutions.org.uk
 canveysupply.safetechdesign.co.uk
@@ -1867,7 +1869,6 @@ digitaltaxmatters.co.uk
 dimensiondrawings.co.uk
 directleaflets.co.uk
 directprotectsolutions.co.uk
-directvoicemessagebthome.co.uk
 dirt.dennis.co.uk
 dirtyukwives.co.uk
 disable-accountid-verifapple.wdawdwadnjkef.co.uk
@@ -2179,6 +2180,7 @@ enterrestore.co.uk
 entertainerslinks.co.uk
 entout.co.uk
 entrancement.co.uk
+entt.co.uk
 envelopemart.co.uk
 envoymachinery.co.uk
 eon.tags.sitetagger.co.uk
@@ -2475,6 +2477,7 @@ free-counter.co.uk
 free-dominos.co.uk
 free-indian-porn.co.uk
 freearsenaltrust.co.uk
+freearticledirectory.co.uk
 freeassociatesconstruction.co.uk
 freebearsciences.co.uk
 freebiegb.co.uk
@@ -2693,6 +2696,7 @@ gov.hmrc.uktaxrefund.uk
 gov.tax-reimbursement.uk
 gov.tax.refunds.applied.refer-2.co.uk
 gov.tax.revenue-return.uk
+gov.uk-vehicle-dvla.co.uk
 gov.uk.claim-tax-refund.people-connected.co.uk
 gov.waltham-support.co.uk
 governtutor.co.uk
@@ -2824,14 +2828,17 @@ halifax.accessmypayee.uk
 halifax.auth-newpayee.co.uk
 halifax.authenticate-device.co.uk
 halifax.authenticate-mypayee.co.uk
-halifax.authenticatemypayee.uk
 halifax.authenticatepayee.uk
+halifax.authorise-my-payee.uk
 halifax.authorise-mypayee.co.uk
+halifax.authorisemy-payee.uk
+halifax.authorisemypayee.uk
 halifax.banking-online.co.uk
 halifax.deregister-device.co.uk
 halifax.deregister-online.co.uk
 halifax.deregister-secure.co.uk
 halifax.deregister.co.uk
+halifax.fix-my-payee.uk
 halifax.instruction-security.co.uk
 halifax.manage-mypayee.uk
 halifax.managemypayee.uk
@@ -2858,6 +2865,7 @@ halifax.safepayee.uk
 halifax.secure-banking.co.uk
 halifax.secure-instruction.co.uk
 halifax.secure-my-payee.uk
+halifax.secure-mydevice.uk
 halifax.secure-personal.co.uk
 halifax.securepayee.co.uk
 halifax.security-unregister.co.uk
@@ -3166,6 +3174,9 @@ housefly.uk
 houseofherbie.co.uk
 hrda.co.uk
 hree3-uk.co.uk
+hs-payeesecurity.co.uk
+hs-secured.co.uk
+hs-security.uk
 hs.bc-ukplc.co.uk
 hsbarbershop.co.uk
 hsbc-secure.co.uk
@@ -3215,11 +3226,13 @@ hsbc.security-my-payee.co.uk
 hsbc.security-transfer.co.uk
 hsbc.service-prevention.co.uk
 hsbc.transfer-payee.co.uk
+hsbc.transfer-requested.co.uk
 hsbc.transfers-check.co.uk
 hsbc.uksecurepanel.co.uk
 hsbc.verifymypayee.uk
 hscheck-setup.co.uk
 hsconfirmation.uk
+hspayee-secured.co.uk
 htebesle_ypi.co.uk
 htequinetherapy.co.uk
 hugeperform.co.uk
@@ -3343,7 +3356,6 @@ iopeninghours.co.uk
 iovation.co.uk
 ipccdn.co.uk
 ipcmedia.grapeshot.co.uk
-ipsgrow.org.uk
 ipw.metadsp.co.uk
 iqx.co.uk
 irishindependent.grapeshot.co.uk
@@ -3637,6 +3649,7 @@ likeallocate.co.uk
 likefile.co.uk
 likesystem.co.uk
 limitmulberrysale.co.uk
+lincsdomesticservices.co.uk
 lindaparkhouse.co.uk
 linecorrect.co.uk
 linecreate.co.uk
@@ -4008,7 +4021,6 @@ meuble-ligansadaequabat.thepinkskip.co.uk
 mfgwxkwkbpo8jljnskn7.mbservicesyorkshire.co.uk
 mg.adskeeper.co.uk
 miapalles-clark.co.uk
-micato.co.uk
 microbaroque.co.uk
 micronfiltration.co.uk
 microsoftoutlookcovid19update.webeden.co.uk
@@ -4216,6 +4228,7 @@ myoutletlouisvuittonmall.co.uk
 mypayee-security.co.uk
 mypayee.uk
 mypayees.co.uk
+mypayees.secured-hs.co.uk
 mypersonalregistrations.co.uk
 mypoolguy.co.uk
 myrtlellama.co.uk
@@ -4246,6 +4259,7 @@ nationwide.instruction-confirmed.co.uk
 nativefinancial.co.uk
 naturalz.co.uk
 nature4you.co.uk
+natwest.reverse-payee.co.uk
 natwestcustomerlogon.livebetterforever.co.uk
 natwesttreats.co.uk
 naus.org.uk
@@ -4263,6 +4277,7 @@ net-bill.co.uk
 net-fill.co.uk
 netaspire.co.uk
 netbill-form.co.uk
+netflix-billing.uk
 netflix.billing-error.co.uk
 netflix.billing-preference.co.uk
 netflix.recover-billing.co.uk
@@ -4280,6 +4295,7 @@ neverfashion.co.uk
 neverlocate.co.uk
 new-exhibitions.heckfordclients.co.uk
 new-my3.uk
+new-payee-remove.uk
 new-signin3.uk
 new-sso.uk
 new-three-billing.co.uk
@@ -4398,6 +4414,7 @@ nurseryphotographybylittleowl.co.uk
 nurses4cleft.org.uk
 nurturemarple.co.uk
 nutrionline.co.uk
+nw-secured.co.uk
 nwhomecare.co.uk
 nwobln.co.uk
 nwolb1.co.uk
@@ -4667,6 +4684,7 @@ paydayloansbargains.co.uk
 paydayloansday.co.uk
 paydayloanskz.co.uk
 payee-check.uk
+payee-prevention.co.uk
 payee-security.co.uk
 payee-support.co.uk
 payeeverify.co.uk
@@ -5052,7 +5070,6 @@ remove-payee.co.uk
 remove-payees.uk
 removepayee.co.uk
 renewableenergyinvestments.co.uk
-rennejewellery.co.uk
 renomasters.co.uk
 rent-guarantee-insurance.co.uk
 rentandwhale.co.uk
@@ -5283,6 +5300,7 @@ securebill-form.co.uk
 securecuserver.co.uk
 secured-natwest.co.uk
 secured-threebilling.co.uk
+secured.personal-payees.co.uk
 secureinfo-ee.co.uk
 securelogin.smile-surgical.co.uk
 securemypc.co.uk
@@ -5394,7 +5412,6 @@ silkmore.staffs.sch.uk
 silkroad-tama.co.uk
 silkrugsguide.co.uk
 silvercreate.co.uk
-simetrica.co.uk
 simmondsassociates.co.uk
 simongrog.co.uk
 simonmitchellassociates.co.uk
@@ -5436,6 +5453,7 @@ skkonline.co.uk
 skyintegrate.co.uk
 skymodify.co.uk
 skyrecord.co.uk
+skysatservices.co.uk
 skytechretail.co.uk
 skywardcd.co.uk
 slicsolutions.co.uk
@@ -5690,6 +5708,7 @@ swarovskijewelrys.co.uk
 swarovskiukjewelry.co.uk
 sweetideasbysusan.co.uk
 sweetthunder.co.uk
+swiftee.co.uk
 swiftycars.co.uk
 swindonadvertiser-gb.swindonadvertiser.co.uk
 swingersads.co.uk
@@ -5704,6 +5723,7 @@ sydneyairport.co.uk
 syiy.org.uk
 syllablefind.co.uk
 syntechcs.co.uk
+syriasolidarity.org.uk
 syscook.co.uk
 systemschedule.co.uk
 sywhpe.net.a1traveldirect.co.uk
@@ -5872,7 +5892,6 @@ thesocialpod.co.uk
 thespacebus.co.uk
 thestarpangbourne.co.uk
 thestudio-ct.co.uk
-thesummersolstice.co.uk
 thetelegraphandargus-gb.thetelegraphandargus.co.uk
 thetottenhamindependent-gb.thetottenhamindependent.co.uk
 thetruthseeker.co.uk
@@ -6168,7 +6187,6 @@ ukmobileslots.co.uk
 ukoakleysunglassessale.co.uk
 ukonlinephoneshop.co.uk
 ukp2pool.uk
-ukrebate.co.uk
 uksalebootsugg.co.uk
 ukuggboots-uk.co.uk
 ukuggbootssaleuk.co.uk

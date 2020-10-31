@@ -3,6 +3,7 @@ brighteducationcenter.org.rw
 e-dbms.org.rw
 epsi.rw
 foodline.rw
+funclub.rw
 gec.rw
 ispg.ac.rw
 legalwise.rw

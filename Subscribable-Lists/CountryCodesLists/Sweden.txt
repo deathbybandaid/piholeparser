@@ -312,6 +312,7 @@ hundpolen.se
 husariabygg.se
 huvudstakiropraktik.se
 hwfsweden.se
+hypedigital.se
 hyrlastbilgoteborg.se
 i-house.se
 i.bksn.se
@@ -556,6 +557,7 @@ seqab.se
 sexiganoveller.se
 sexnovell.se
 sherlock.se
+shop.rattsko.se
 shop4you.se
 shops.merea.se
 sifomedia.aftonbladet.se
@@ -701,6 +703,7 @@ wargmane.se
 web.easyresearch.se
 web2.easyresearch.se
 web3.easyresearch.se
+webb247.se
 webbkusten.se
 webstat.se
 webtraffic.se

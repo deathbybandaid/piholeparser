@@ -698,6 +698,7 @@ orgman.ro
 orientality.ro
 osansa.ro
 osbm.ro
+osolemio.ro
 ozka.ro
 pablostore.ro
 palatulcopiilorseverin.ro
@@ -847,6 +848,7 @@ scule-electrice-profesionale.ro
 scule-facom.ro
 secure-apphalifaxupdate-verification-online.decodim.ro
 secure-apphalifaxupdate-verification-online.dekodesign.ro
+secure-apphalifaxupdate-verification-online.euinstal.ro
 secure-apphalifaxupdate-verification-online.tricouri-bumbac.ro
 secure.paypal.com.lucgroup.ro
 secure.trafic.ro
@@ -931,7 +933,6 @@ t5.ro
 taberesinaia.ro
 tabloupersonalizat.ro
 target-mail.ro
-targuldenunti.ro
 tconstruct.ro
 teardrop-productions.ro
 teatrul-de-poveste.ro
@@ -1009,7 +1010,6 @@ ventrust.ro
 verandainteriors.ro
 vertimex.ro
 vestidesprepovesti.ro
-veterinar-jilava.ro
 vevesubdomeniu.hi2.ro
 viagraviagra.3xforum.ro
 video-detect.ro

@@ -231,6 +231,7 @@ alphabay.cc
 altsecurity.sites.cc
 amazon-account.cc
 amazon-update.cc
+amazon.co.jp.d9ds.cc
 amazon.co.jp.q8e.cc
 amazon.user.ftotkc.cc
 amazonweb.cc
@@ -697,6 +698,7 @@ chicasdelujo.uni.cc
 chicasdesnudas.uni.cc
 chicasxamateurs.uni.cc
 chickencoop2000.go.cc
+china.ocbc.cc
 chip2.suprnova.cc
 chips.suprnova.cc
 chistes-humor.uni.cc
@@ -739,8 +741,7 @@ compositeclub.cc
 compteur.cc
 conclusion00.cc
 configureapple-accountmanage.com.yuhuucok.cc
-confirm-payee-online.cc
-confirm-payee.cc
+confirm-new-payee.cc
 confirm-your-safety.atspace.cc
 confirming.cc
 connectnow.cc
@@ -856,7 +857,6 @@ dcr-gw.suprnova.cc
 dcr.suprnova.cc
 ddleqkil.cc
 ddos.mchmtd.cc
-de-register-dev.cc
 de-sn01.suprnova.cc
 de-wal-01.suprnova.cc
 de1.suprnova.cc
@@ -880,6 +880,8 @@ deutsche-voyeure.cc
 deutscheshaus.cc
 dev.no8.cc
 device-cancellation.cc
+device-de-register.cc
+device-management.cc
 device-terminate.cc
 device-termination.cc
 device-verified.cc
@@ -1166,6 +1168,7 @@ flatratesex.cc
 flax.suprnova.cc
 flex.suprnova.cc
 flo.suprnova.cc
+flshnn.cc
 fly.suprnova.cc
 flybyrecymycqlt.usa.cc
 folder.nut.cc
@@ -1412,6 +1415,7 @@ hairyfuck.cc
 hairymen.cc
 halifax-international.co.cc
 halifax-securedevice.cc
+halifaxdevices.cc
 hallrespondnobody.co.cc
 handy-sex.cc
 hanmanwang.cc
@@ -1697,6 +1701,7 @@ keq6ipeap7j08s.gmz.cc
 key.suprnova.cc
 keyba01se.usa.cc
 kezkezu.co.cc
+kf.ocbc.cc
 kgab.cc
 kh1j.co.cc
 khc.suprnova.cc
@@ -1866,6 +1871,7 @@ m.biquge5200.cc
 m.securepayment.cc
 m1x.suprnova.cc
 m8c1pkhb0f.gmz.cc
+m9y.cc
 mac.suprnova.cc
 macybank2u.cc
 magickingdom.cc
@@ -1892,6 +1898,7 @@ manchen.cc
 mangaxxx.cc
 mani.documantal.cc
 manuelaarcuri.myblue.cc
+maoazmn.cc
 maobber.cc
 maoshanhouyi.cc
 mar.suprnova.cc
@@ -2080,7 +2087,6 @@ neuroticfreak.cc
 neva.suprnova.cc
 new-bmw-m3-concept.czcvjjp.cc
 new-friha.cz.cc
-new-recipient-online.cc
 newagent.cc
 newalert-nwest.cc
 newc.suprnova.cc
@@ -2219,6 +2225,8 @@ payee-failure-online.cc
 payee-process.cc
 payee-removals.cc
 payee-secure.cc
+payee-validation.cc
+payeed-device.cc
 payeeprotection-hs.cc
 payeeriskalert.cc
 payer.suprnova.cc
@@ -2450,7 +2458,6 @@ renaissance-llc.cc
 rep.suprnova.cc
 repmaeist.usa.cc
 report-activitytransaction-account.usa.cc
-reregister-device.cc
 reregisters-devices.cc
 reservation-air.bnb-uae.cc
 resetlink9206001000.cc
@@ -2473,7 +2480,6 @@ rl.webtracer.cc
 rlog.popin.cc
 roi.suprnova.cc
 rokutanm-rrbrb.cc
-rokutanm-rrdrd.cc
 root.suprnova.cc
 ros.suprnova.cc
 roskjws.cz.cc
@@ -2501,6 +2507,7 @@ s1.topx.cc
 s12ds2.ewizard.cc
 s13.dupx.cc
 s13.topx.cc
+s1ack.cc
 s1rong.cc
 s2.ihowto.cc
 s2.kav.cc
@@ -2701,6 +2708,7 @@ slen.suprnova.cc
 sling.suprnova.cc
 sm-guys.cc
 smart.suprnova.cc
+smbc-card.cc
 smbcvip.cc
 smguys.cc
 smly.suprnova.cc
@@ -2998,6 +3006,7 @@ unit.suprnova.cc
 universalcurrency.securepayment.cc
 unknown-devicebreach.cc
 unknownalert-safety.cc
+unknowndevice-detected.cc
 unlock.suprnova.cc
 unobtanium.securepayment.cc
 unpairing-device.cc

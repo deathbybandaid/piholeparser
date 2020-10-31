@@ -1579,6 +1579,7 @@ gars.hit.gemius.pl
 garsoniera.com.pl
 garu.hit.gemius.pl
 gask.hit.gemius.pl
+gastromatic.pl
 gastromedia.pl
 gatech.pl
 gatr.hit.gemius.pl
@@ -2697,6 +2698,7 @@ mieszkaj-na-swoim.pl
 mieszkania-pokoje-wynajem.pl
 mieszkaniaczernica.pl
 mikolaj.konstruktorzy-robotow.pl
+miksport.pl
 milaauto.pl
 milano.koscian.pl
 milesaway.pl
@@ -3587,6 +3589,7 @@ problemy.pl
 probolan50.pl
 produktw7dni.pl
 produla.czatgg.pl
+prodvisor.pl
 proethica.pl
 profbelt.pl
 professional-group.pl
@@ -4167,6 +4170,7 @@ solidtrans.pl
 sollers-distribution.pl
 somiherbal.pl
 sonnenfeld.com.pl
+sopoteka.bluebeacon.pl
 sorclan.za.pl
 sos-car.pl
 soyter.pl
@@ -4510,6 +4514,7 @@ tygielrozmaitosci.pl
 tygodniksiedlecki.pl
 tyi4.pl
 tylkosex.pl
+tyo.pl
 tzr.grejt.pl
 ua.adocean.pl
 ua.cnt.gemius.pl
@@ -5040,7 +5045,6 @@ wybierz-nagrode.pl
 wychowanieprzedszkolne.pl
 wycieczki-kociewie.com.pl
 wydarzenia.bialystok.pl
-wydarzenia.dkonto.pl
 wydawnictwa.wstijo.edu.pl
 wydawnictwozafira.pl
 wygraj-quiz.pl

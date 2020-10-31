@@ -442,6 +442,7 @@ campaignseries-gb.campaignseries.co.uk
 canvas-ping.conduit-data.com
 canvas-usage-v2.conduit-data.com
 capture.condenastdigital.com
+capture.crutchfield.com
 carl.pubsvs.com
 cashbeet.com
 caspionlog.appspot.com
@@ -755,6 +756,7 @@ d3cxv97fi8q177.cloudfront.net
 d3iouejux1os58.cloudfront.net
 d3kyk5bao1crtw.cloudfront.net
 d3l3lkinz3f56t.cloudfront.net
+d3m6sept6cnil5.cloudfront.net
 d3mskfhorhi2fb.cloudfront.net
 d3n6i6eorggdxk.cloudfront.net
 d3q7vxy7usqoub.cloudfront.net
@@ -2188,6 +2190,7 @@ stats.viddler.com
 stats.videodelivery.net
 stats.visistat.com
 stats.vk-portal.net
+stats.vliplatform.com
 stats.vulture.com
 stats.webs.com
 stats.wordpress.com

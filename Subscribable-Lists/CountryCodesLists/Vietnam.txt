@@ -1,9 +1,11 @@
+4pmedia.vn
 5day.vn
 ac-dft.com.vn
 ac.adpia.vn
 accesstrade.com.vn
 accesstrade.vn
 acd.com.vn
+acefic8.vn
 activar-tu-cuenta.logan.vn
 ad.24h.com.vn
 ad.ants.vn
@@ -131,7 +133,9 @@ celebitech.vn
 centrehotel.vn
 ceo-sign.auviet.edu.vn
 ceochallenges.vn
+cfo.vn
 chabongviet.vn
+chaddie.vn
 changaspa.vn
 chemnet.edu.vn
 cheohanoi.vn
@@ -178,7 +182,6 @@ dangcapdigital.com.vn
 danhviet.com.vn
 daotaoquoctedhxd.edu.vn
 dathiennhien.vn
-datsom.vn
 dautusangtao.com.vn
 deam.com.vn
 delivery.adnetwork.vn
@@ -218,6 +221,7 @@ dothivietgroup.vn
 dothothinhvuong.vn
 download.htsoft.vn
 doyota.vn
+dpicenter.edu.vn
 dpihatinh.gov.vn
 dsp-d.ants.vn
 duanicidcomplex.vn
@@ -320,7 +324,6 @@ hoamilienchieu.edu.vn
 hoangnguyenmec.com.vn
 hocvientaichinh.com.vn
 holypig.vn
-hoplucpost.vn
 housepro.vn
 hp-tech.com.vn
 hrdcvn.com.vn
@@ -396,6 +399,7 @@ liendoan8.com.vn
 lieugiaivinhomes.com.vn
 lifetechgroup.vn
 littleparisresort.com.vn
+livestreams.vn
 lochy.vn
 log.adtimaserver.vn
 log.advalue.com.vn
@@ -472,6 +476,7 @@ mingroups.vn
 minhkiet.com.vn
 minhman.vn
 minhmanh.vn
+mirats.vn
 miyabibar.vn
 mlc.vn
 mne.edu.vn
@@ -562,6 +567,7 @@ pqlkh-htqt.qnu.edu.vn
 premieroffice.com.vn
 president-sign.auviet.edu.vn
 profirst.com.vn
+prostock.vn
 protour.vn
 provider.ad360.vn
 pson.logging.admicro.vn
@@ -581,6 +587,7 @@ quangcaobacgiang.com.vn
 quangcaovnstar.vn
 quatcongnghiepdongnai.vn
 quatraotay.aronet.vn
+radsafe.vn
 redmine.admicro.vn
 reliantland.vn
 remhanhphuc.com.vn
@@ -606,6 +613,7 @@ saledev.admicro.vn
 sangokythuat.com.vn
 sanphaminox.vn
 santretunhien.vn
+satech.vn
 satmythuatdongduong.vn
 satthachkhe.vn
 scbhcm.vn
@@ -621,6 +629,7 @@ server02.hostngon.vn
 serving-ad.tv24.vn
 serving.ad.org.vn
 sharefb.cnnd.vn
+sheen-vietnam.vn
 shopdacsan.vn
 shophouseprosperplaza.vn
 shopnuochoa.vn
@@ -632,6 +641,7 @@ simpleshop.vn
 simson.vn
 skyclinic.com.vn
 skylink.vn
+slimx3.vn
 smallnet.com.vn
 smarthome.quangcaosangtao.vn
 smartlifevietnam.vn
@@ -675,11 +685,13 @@ suntour.com.vn
 superlite.com.vn
 suvin.vn
 svcshop.com.vn
+t-watch.vn
 t.ants.vn
 tamco.vn
 tanthanhco.vn
 tanthanhdanh.vn
 tantiengiang.vn
+taopro.vn
 tarch.com.vn
 tbde.com.vn
 tcttruongson.vn
@@ -687,6 +699,7 @@ tdi.com.vn
 tech.admicro.vn
 techcoffee.edu.vn
 tekavietnam.com.vn
+terrapharm.vn
 thammyductri.vn
 thamtuquocte.com.vn
 thanhgiang.edu.vn
@@ -706,6 +719,7 @@ thietbisontinhdien.vn
 thietbitranthanh.com.vn
 thithpt.edu.vn
 thoitranganhdiep.vn
+thoitrangtrungnienkim.vn
 thongke.24h.com.vn
 thongtaccongtaihanoi.vn
 thongtindonganh.vn
@@ -742,6 +756,7 @@ trienviet.com.vn
 trimunlexuan.vn
 trivietpower.vn
 truelovetattoo.vn
+trumsango.com.vn
 truongdaylaixeotob2.edu.vn
 truongdoanlytutrong.vn
 truonghai.kovo.vn

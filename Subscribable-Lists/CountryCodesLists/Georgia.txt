@@ -46,6 +46,7 @@ hightimes.ge
 hostme.ge
 hotelroyalpalace.ge
 hseconsulting.ge
+huntdogs.ge
 ideahub.ge
 idioms.tsu.ge
 iphac.ge
@@ -74,6 +75,7 @@ nanostyle.ge
 newmetekhi.ge
 now.ge
 officetechnologies.ge
+okbuilding.ge
 partners.drawbrid.ge
 pegas.ge
 phlogenzym.ge

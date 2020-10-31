@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: vDnUgNtlV3F0MiugdpaJAw
-! Version: 202010300021
+! Checksum: DVqw+zV+4xSwhjkyFPAU5g
+! Version: 202010310021
 ! Title: Fanboy's Annoyance List
-! Last modified: 30 Oct 2020 00:21 UTC
+! Last modified: 31 Oct 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -28627,6 +28627,7 @@ _site_cookie_
 ##.cm-user-message
 ##.cmc-cookie-policy-banner
 ##.cmp-app_gdpr
+##.cmp-cookie-stmt
 ##.cmp_cookies_usage_wr
 ##.cms-cookielaw
 ##.cms_dp_bar_fixed
@@ -45830,6 +45831,7 @@ yoigo.com#@#thor-cookies
 @@||paypalobjects.com^*/opinionLab/$script,domain=paypal.com
 @@||paysera.com^*/email-icon-over.png
 @@||phonearena.com/?b=$~third-party
+@@||placehold.it^$image,domain=blunote.it
 @@||reactandshare.com/plugin/rns.js$script
 @@||redditarchive.com^
 @@||rentalsystems.com/advert_price_imbed.asp
@@ -45862,6 +45864,7 @@ yoigo.com#@#thor-cookies
 @@/cookie_law/plugin.js$script,~third-party
 @@/v1/gdpr/native-message$domain=chip.de|focus.de|n-tv.de
 @@/zig_cookiepolicybar/*/CookieBar.js$script,~third-party
+@@||chasecdn.com^*/cookie.js$script,domain=chase.com
 @@||digikey.com^*/cookie-notice.css$stylesheet,domain=digikey.com
 @@||ecestaticos.com/build/js/common/components/messageapi/cookiemessage.$script,domain=www.elconfidencial.com
 @@||gstatic.com/brandstudio/kato/cookie_choice_component/$script,domain=blog.google

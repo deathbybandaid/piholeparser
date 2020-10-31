@@ -102,7 +102,6 @@ cibcupdates.bombas-calor.pt
 cidadehoje.pt
 cigar.pt
 clabels.pt
-climaleixo.pt
 clinicamalvarosa.pt
 clinicasusanamota.pt
 cloudacademies.pt
@@ -116,6 +115,7 @@ cometlda.pt
 conci.pt
 confirm-your.update.action.cy.cgi-bin.webscr.cmd-submit.dispatch.html.hosted.emarketing.partner.director.sodiap.com.pt
 crosspro.pt
+cspalmaceda.pt
 curtasgastronomia.pt
 data.netscope.marktest.pt
 demeter.pt
@@ -241,6 +241,7 @@ nextpage.pt
 nfsconsulting.pt
 novoprojeto.pt
 oeinerge.pt
+orlandasampaio.pt
 ortopediacarlita.com.pt
 paionense.pt
 parque5.pt

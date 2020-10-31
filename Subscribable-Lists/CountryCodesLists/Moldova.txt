@@ -22,6 +22,7 @@ crm.livrareflori.md
 dalmio-dent.md
 dellepc.md
 dottersd.md
+e-angajare.md
 epharma.md
 eshop.md
 foppql.md

@@ -3,6 +3,7 @@ aaasolution.co.th
 academicplc.panyapiwat.ac.th
 accesstrade.in.th
 accounting.utc.ac.th
+actstd.nrru.ac.th
 admin3.rtaf.mi.th
 admission.lampangvc.ac.th
 ads.bangkokpost.co.th
@@ -45,6 +46,7 @@ eduroam.stou.ac.th
 enagic.co.th
 eng.ubu.ac.th
 eresearch.pit.ac.th
+esmce.nrru.ac.th
 fdx.co.th
 framehouse.in.th
 gaushyang.co.th
@@ -124,6 +126,8 @@ oaep.diw.go.th
 oetc.in.th
 openlink.co.th
 osh10.labour.go.th
+osh11.labour.go.th
+osh2.labour.go.th
 paco.co.th
 paknakhon.in.th
 pantukam.bsru.ac.th
@@ -145,6 +149,7 @@ r2r.npru.ac.th
 resam.or.th
 resveratrol.co.th
 rightman.co.th
+rmutcon2018.rmutsv.ac.th
 rockgarden.co.th
 ruammongkol.co.th
 rwa.pixilla.co.th
@@ -170,6 +175,7 @@ surintech.ac.th
 svk.co.th
 swpark.or.th
 talingchan.ac.th
+task.nrru.ac.th
 tccs.co.th
 teacher2.aru.ac.th
 techno2.bu.ac.th

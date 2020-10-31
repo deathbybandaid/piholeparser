@@ -1,6 +1,7 @@
 aclandshibganjbogra.gov.bd
 acmegroup.com.bd
 adyanmart.com.bd
+agromart.com.bd
 ajbhsh.dac.edu.bd
 ajbhsh.edu.bd
 akidmbn.edu.bd
@@ -53,6 +54,7 @@ cpi.edu.bd
 cpl.com.bd
 dailyneeds.com.bd
 damnashcollege.edu.bd
+demo.advert.com.bd
 deoraadarshahighschool.edu.bd
 dilalpurhs.edu.bd
 dimc.edu.bd

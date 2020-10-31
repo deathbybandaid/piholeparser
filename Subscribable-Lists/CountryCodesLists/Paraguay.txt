@@ -22,7 +22,6 @@ dkb.de-banking-online-transaktionen.edelweiss.com.py
 dkb.de-banking.online-transaktion.edelweiss.com.py
 elenaprono.com.py
 equisa.com.py
-estiloymadera.com.py
 estudiorivas.com.py
 fluoder.com.py
 fpuna.edu.py

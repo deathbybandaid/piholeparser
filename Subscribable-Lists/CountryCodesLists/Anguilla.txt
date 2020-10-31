@@ -14,6 +14,7 @@ cognitiv.ai
 decons.ai
 developer.ascend.ai
 easy.eu.ai
+easyemail.ai
 editor.ascend.ai
 end.ai
 engage.ascend.ai

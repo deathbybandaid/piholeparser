@@ -31,6 +31,7 @@ ntas-store.cm
 omerta.cm
 onige.cm
 poker.cm
+recrugenie.cm
 ringo.com.cm
 rxlist.cm
 sorepcom.cm
