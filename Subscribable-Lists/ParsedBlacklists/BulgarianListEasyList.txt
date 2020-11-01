@@ -577,7 +577,6 @@ collector.tescocompare.com
 collector.trendmd.com
 collector.wallapop.com
 com.econa.com
-comet.ibsrv.net
 commsvc.stern.de
 compare.easyviaggio.com
 compare.easyviajar.com
@@ -1502,6 +1501,7 @@ mts-ws.rueducommerce.fr
 mv.treehousei.com
 mva1.maeva.com
 mwor.gq
+mx.technolutions.net
 n.yunshipei.com
 nanostats.nanopress.it
 nb.myspace.com
@@ -2164,6 +2164,7 @@ stats.sa-as.com
 stats.sawlive.tv
 stats.searchftps.net
 stats.searchftps.org
+stats.sec.telefonica.com
 stats.seedr.com
 stats.sexemodel.com
 stats.shopify.com
