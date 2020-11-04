@@ -166,7 +166,6 @@ citibanamex.ahmreg.mx
 citisecurity.mx
 ckiam.com.mx
 cl.com-account-verification-02850183109.creditomio.com.mx
-cl.org-notify.beckerpumps.mx
 cleanglass.com.mx
 clickking.mx
 clinicaalivia.com.mx
@@ -223,6 +222,7 @@ cpanel.genesysinternational.com.mx
 cpone.terrainnova.com.mx
 creamaquinaria.com.mx
 crmcap.udgvirtual.udg.mx
+crmrh.xochicalco.edu.mx
 crookedmagazine.com.mx
 crurom.com.mx
 csinformaticos.com.mx
@@ -294,6 +294,7 @@ enunclic.mx
 enviropro.com.mx
 eproperties.com.mx
 erandi.edu.mx
+ermexico.mx
 eroticshop.com.mx
 escalum.com.mx
 ese02-tgz.edu.mx
@@ -313,6 +314,7 @@ facebook.es-la.mx
 facebook.huast.com.mx
 facebookl.com.mx
 factonline.mx
+fakebook.com.mx
 fashion7.com.mx
 fbcom-13190631.chekkos.mx
 fbcom-32601355.chekkos.mx
@@ -331,6 +333,7 @@ fiestadealgodones.com.mx
 fiestaquince.mx
 firmajuridica.com.mx
 firmeza.mx
+fit.develab.mx
 fixen.mx
 floresconsultores.com.mx
 follajesyflores.mx
@@ -744,6 +747,7 @@ tecnosupply.com.mx
 telodije.mx
 teocaltiche.com.mx
 tepejidelriohidalgo.gob.mx
+teruteru.com.mx
 tesisprofesionales.com.mx
 texen.com.mx
 therohogroup.com.mx

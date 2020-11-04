@@ -204,6 +204,7 @@ ak1.cc
 ako.cc
 alax.cc
 alert-device.cc
+alert-payee-detected.cc
 alert-securityrisk.cc
 alert-unknownlogin.cc
 alexus-winston-naked.cafcelebs.cz.cc
@@ -882,13 +883,12 @@ dev.no8.cc
 device-cancellation.cc
 device-de-register.cc
 device-management.cc
+device-manager.cc
 device-terminate.cc
 device-termination.cc
 device-verified.cc
-devicederegister.cc
 deviceregistration.cc
 devices-verified.cc
-deviceverification.cc
 dfmz178.cc
 dfsdsdf.cc
 dgbg.suprnova.cc
@@ -1415,6 +1415,7 @@ hairyfuck.cc
 hairymen.cc
 halifax-international.co.cc
 halifax-securedevice.cc
+halifax.payee-support.cc
 halifaxdevices.cc
 hallrespondnobody.co.cc
 handy-sex.cc
@@ -1548,7 +1549,6 @@ ieuro.suprnova.cc
 iframe.cc
 ifriends.cc
 igaokao.cc
-iihb.cc
 ijk.cc
 ijy.cc
 ik3d1l7p6tnxk9edd.gmz.cc
@@ -1630,6 +1630,7 @@ j-rape.w2w.cc
 j.biquge520.cc
 j.wubai.cc
 j.ytbt.cc
+j4.cc
 j8wrnk0001plcpt.soks.cc
 jabber.cc
 jae.cc
@@ -1754,6 +1755,7 @@ l7s.suprnova.cc
 ladailynews.co.cc
 lakan.cc
 lakehug.cc
+lameda.cc
 lamourautempsducorona.cc
 land.purifier.cc
 laravelpaypal.fmv.cc
@@ -1898,7 +1900,6 @@ manchen.cc
 mangaxxx.cc
 mani.documantal.cc
 manuelaarcuri.myblue.cc
-maoazmn.cc
 maobber.cc
 maoshanhouyi.cc
 mar.suprnova.cc
@@ -2090,6 +2091,7 @@ new-friha.cz.cc
 newagent.cc
 newalert-nwest.cc
 newc.suprnova.cc
+newdevice.cc
 newdomaincp.usa.cc
 newmobilehomes.co.cc
 news-cmps.cz.cc
@@ -2226,7 +2228,6 @@ payee-process.cc
 payee-removals.cc
 payee-secure.cc
 payee-validation.cc
-payeed-device.cc
 payeeprotection-hs.cc
 payeeriskalert.cc
 payer.suprnova.cc
@@ -2463,6 +2464,7 @@ reservation-air.bnb-uae.cc
 resetlink9206001000.cc
 resolved-deadline-center-id.nut.cc
 retro-7-3.cz.cc
+reverify-payments.cc
 reversing.cc
 revo.suprnova.cc
 rf7.bpl.cc

@@ -66,6 +66,7 @@ ahangamalmagate.co.za
 aiceita.co.za
 aigforms.myap.co.za
 air-freshener.co.za
+airriteappliancerepairs.co.za
 alladsonline.co.za
 aloehealthandwellness.co.za
 alovestoreshop.co.za
@@ -269,11 +270,9 @@ commercial-service.co.za
 communisave.co.za
 compushoponline.co.za
 consignmentsolutions.co.za
-controlblasting.co.za
 coreplacements.co.za
 corptel.co.za
 coughcrops.co.za
-countapulse.co.za
 coveroptions-sa.co.za
 coza-amsure.co.za
 coza-besure.co.za
@@ -537,6 +536,7 @@ hrmonline.co.za
 hsbekker.co.za
 i-mediate.co.za
 ib-absab.co.za
+iconga.co.za
 ideal-it.co.za
 ideallogistics.co.za
 idmsa.apple.com.idmswebauth5ea4e65a6e5az.designrinc.co.za
@@ -692,6 +692,7 @@ medleymaids.co.za
 meget.co.za
 melanieroux.co.za
 mercuryas.co.za
+metrofinancepty.co.za
 mfj222.co.za
 mhwaterproofing.co.za
 michelproduction.co.za
@@ -1149,7 +1150,6 @@ thekingmail.co.za
 theofilus.co.za
 thepowerofnature.co.za
 thepublication.co.za
-therockstar.co.za
 thetuitioncentre.co.za
 thevillageshoppingcentre.co.za
 thinktanks.co.za
@@ -1258,6 +1258,7 @@ weight-loss-news.mzdigital.co.za
 weirdoosmosis.co.za
 welbren.co.za
 wellnessworld.co.za
+wellnursesmartnurse.co.za
 weloveturf.co.za
 welsfarg0t.ihmsoltech.co.za
 wenco.co.za
@@ -1322,6 +1323,7 @@ yourmobilespa.co.za
 zagrogen.co.za
 zamailbox.co.za
 zaonutrition.co.za
+zastreamtv.co.za
 zenithequipment.co.za
 zimshop.co.za
 ziptrapping.co.za

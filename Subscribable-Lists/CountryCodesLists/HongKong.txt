@@ -2759,7 +2759,6 @@ matig.hk
 matterchord.hk
 matterease.hk
 matterobserve.hk
-max.wndz.hk
 maymouth.hk
 mazdagood.hk
 mazdaweb.hk
@@ -4801,7 +4800,6 @@ turnquiet.hk
 turnwas.hk
 tutas.hk
 tutta.hk
-tw.wndz.hk
 twentyroll.hk
 twentysit.hk
 twimbo.hk
@@ -5179,6 +5177,7 @@ wisetool.hk
 wishspread.hk
 withsign.hk
 withthere.hk
+wndz.hk
 wolfasia.com.hk
 womanhalf.hk
 womanrub.hk
@@ -5239,7 +5238,6 @@ www.ipl.hk
 www.sony.com.hk
 www.tkcpa.com.hk
 wwwicn9.hk
-wx.wndz.hk
 wyke.hk
 wysta.hk
 xake.hk

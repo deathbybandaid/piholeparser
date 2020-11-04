@@ -536,6 +536,7 @@ bibliotekakuslin.pl
 bieda.ewan.pl
 biedronaa.5v.pl
 biegamyzochota.pl
+bieldruk.pl
 bielmlek.com.pl
 bielpak.pl
 bilborder.pl
@@ -1358,6 +1359,7 @@ fargofinanse.pl
 farmawiatrowaniewolno.pl
 farmawiatrowazlotow.pl
 fashion-ol.com.pl
+fashugi.pl
 fastdownload.com.pl
 fastlink.pl
 fazi.pl
@@ -1437,6 +1439,7 @@ firmyb2b.pl
 fixlab.pl
 fizjo-factory.pl
 fizjodent.lebork.pl
+fizjolife.com.pl
 fizjoterapia.5v.pl
 flash.all-stars.pl
 flash.studiomultimedia.pl
@@ -2031,6 +2034,7 @@ huiwiw.hit.gemius.pl
 humido.pl
 hunterstyle.pl
 huomdgde.adocean.pl
+hurtokien.pl
 hustleserver.com.pl
 hydroplanet.pl
 hydroservis.pl
@@ -2101,6 +2105,7 @@ immonieruchomosci.pl
 imperiumobuwia.pl
 impress-studio.com.pl
 imprezowiczki.qii.pl
+imprima.pl
 imultinetruby.pl
 inaczasie.pl
 inagrody.pl
@@ -2214,7 +2219,6 @@ iworms.pl
 jacekozdoba.pl
 jadwigaorunia.gda.pl
 jagnizm.pl
-jagodowezacisze.pl
 jakpodrywacnatinderze.pl
 jakpowiekszycpenisa24.pl
 jalowicehodowlane.pl
@@ -2286,6 +2290,7 @@ jwestlinebetday.pl
 jwestnetbetday.pl
 k58.homeinvest.com.pl
 kabacinska.pl
+kadrex.pl
 kafle.net.pl
 kaie.pl
 kajdkhfasfssd.orge.pl
@@ -2302,6 +2307,7 @@ kancelariaae.pl
 kancelariakufieta.pl
 kancelariazborowski.pl
 kanvex.pl
+kapral.pl
 karaszkiewicz.neostrada.pl
 kardori.pl
 kartavisa.pl
@@ -2359,8 +2365,6 @@ klubkk.nazwa.pl
 klubprzygody.pl
 kmoskala.milleniumhost.pl
 knab-online.info.pl
-knab-service.info.pl
-knab-servicedesk.info.pl
 knbsystem.pl
 kneb.pl
 knefel.com.pl
@@ -2405,7 +2409,6 @@ kosmosproduction.pl
 koszalin.zhp.pl
 kosztorys.w8w.pl
 koszykrd.wp.pl
-kotulin.com.pl
 kozlowska.home.pl
 kpalion.piwko.pl
 kpbingocash.pl
@@ -2472,6 +2475,7 @@ landrubygrand.pl
 langotranslate.pl
 langusta.mazowsze.pl
 lapkowo.pl
+lapnas.pl
 larkbc.pl
 las-rp.pl
 laski.qii.pl
@@ -2537,7 +2541,6 @@ loadfiles.pl
 logodlafirm.pl
 logowanie.dkonto.pl
 loguj-praca.co.pl
-lokalniwywiadowcy.pl
 lokum1985.republika.pl
 loles.neostrada.pl
 longhill.pl
@@ -2591,7 +2594,6 @@ magicstudio.pl
 magictopeudice.pl
 magma.info.pl
 mail.oyj.pl
-mainclick.pl
 mainnetrubypalace.pl
 maiske.vot.pl
 maja.org.pl
@@ -3068,6 +3070,7 @@ odessa.com.pl
 odkryjfb.pl
 odkurzacze-przemyslowe.com.pl
 odloty.pl
+odmova.pl
 odpicujfure.pl
 odpowiedzialni-rodzice.pl
 odrzanska.pl
@@ -3232,6 +3235,7 @@ owebniceeurodice.pl
 owebvivaeurodice.pl
 owebvivagoldensp.pl
 ox2.sterta.pl
+oze-opole.pl
 p.gazeta.pl
 p986524.pl
 pabiszit.pl
@@ -3284,7 +3288,6 @@ pensjonat-domino.pl
 perfect-coll.pl
 perfexim.nazwa.pl
 personalizowane-prezenty.pl
-persoonlijk-knab.info.pl
 perspektywa2012.za.pl
 petersbud.pl
 petrodom.pl
@@ -3408,6 +3411,7 @@ polsatboxingnight-transmisjahd.ujm.pl
 polsetk.pl
 polska-tv.pl
 polska.travel.pl
+polska24poszukiwani.dkonto.pl
 polskaporwania.com.pl
 polskaporwania.net.pl
 polskiecipki.com.pl
@@ -4327,6 +4331,7 @@ swiatecznybon.pl
 swiatpobran.pl
 swietyfilip.pl
 swintuszek.pl
+sygnalizujemy.pl
 sync.clickonometrics.pl
 syntechoil.pl
 sys.zief.pl
@@ -4755,7 +4760,6 @@ weselisportowcy.edu.pl
 wesole-nutki.pl
 wgrajka.pl
 wiad-info.5v.pl
-wiadomosci-24.dkonto.pl
 wiadomosci-lokalne.5v.pl
 wiadomosci-region24.pl
 wiadomoscigwalt.com.pl

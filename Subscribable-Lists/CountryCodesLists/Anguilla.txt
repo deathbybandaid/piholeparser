@@ -33,6 +33,7 @@ proxy.ascend.ai
 rt.ascend.ai
 sdk.markable.ai
 sheratonjakartagandaria.id.ai
+shopx.ai
 stat.glaze.ai
 swap-v2.ai
 tonicchambers.id.ai

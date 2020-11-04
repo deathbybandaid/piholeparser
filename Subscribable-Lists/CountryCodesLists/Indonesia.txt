@@ -66,7 +66,6 @@ agungberbagi.id
 agylcell.co.id
 ahlikuncimobil.id
 ahmadmustaqim.staff.unja.ac.id
-aimsolution.co.id
 ainurrafiqcoid.masterweb.id
 airindosakti.co.id
 airport.co.id
@@ -135,6 +134,7 @@ appreqadsfbadsrws10.my.id
 apps-unblocking.my.id
 apps.admiral.co.id
 apps.confirmation-official-account.my.id
+aqiqahanakshaleh.my.id
 aquahlppge01recvrcnfrm01.my.id
 aquaticcell.id
 aracika.id
@@ -197,6 +197,7 @@ banganucoid.masterweb.id
 banjarcerdas.or.id
 bank-of-america.angkasasakti.co.id
 bankandara.co.id
+bankdata.temanggungkab.go.id
 bankmaluku.co.id
 bankofamerica.justusianet.id
 banualawas.tabalongkab.go.id
@@ -344,7 +345,6 @@ chat.whatsapp.guied17.my.id
 chat.whatsqpp.new9.my.id
 chatgrup18.guied7.my.id
 chatgrupbok3pwhatssap.xnxxx.my.id
-chatingwhatsapp.eventml.my.id
 chatwabkpviral.chats-whatapps.my.id
 chatwhatsaap.grupinvite-join.my.id
 chatwhatsapp-invitee.join-wa18.my.id
@@ -441,12 +441,15 @@ digilib.stiesurakarta.ac.id
 diklik.id
 dilijayacell.id
 dim.unsyiah.ac.id
+din2.my.id
 dinkes.acehprov.go.id
 dinkopukm.tangerangselatankota.go.id
+dinus.ac.id
 discoversatpolbackupadmin.satpol.kedirikab.go.id
 disdik.barrukab.go.id
 dishubinfokom.sukoharjokab.go.id
 diskominfo.asahankab.go.id
+diskominsta.barrukab.go.id
 disparbud.jabarprov.go.id
 distanakbun.minutkab.go.id
 diy.ldii.or.id
@@ -499,6 +502,7 @@ essenza.co.id
 eurekalogistics.co.id
 evenfreefire08.xxx1.my.id
 eventfreefirez.my.id
+eventtdiamoondgratiss.my.id
 excellentaktif.my.id
 extratravel.co.id
 facbook-moderator-community-issue.my.id
@@ -507,6 +511,7 @@ facebook-account-recover.halaman.my.id
 facebook.sidesa.my.id
 facebookaccountmysecured.my.id
 facebooksecurityhelp.my.id
+fai.umb.ac.id
 fajarsamudra.id
 fakebook.my.id
 falisha.co.id
@@ -537,12 +542,12 @@ flahlpmykobsnsrcvery01.my.id
 flashgame.web.id
 flashnet.id
 fmipa.uho.ac.id
+follow-account-confirmations.my.id
 fpk.conference.unair.ac.id
 fpsi.conference.unair.ac.id
 freecell.id
 freefire-get-24.my.id
 freefire82.my.id
-freefiregifts.my.id
 freefollowersinstagram.my.id
 freeporn4everyone.blogspot.co.id
 freepubggfestival.eventt.my.id
@@ -550,6 +555,7 @@ frontalgrup.v-26.my.id
 ft.bem.unram.ac.id
 ftik.iainkediri.ac.id
 gabung.join-grupnew.my.id
+gabung2.my.id
 gabungrupwhatsapp.whatsapp543.my.id
 galerymusic.id
 gambar.ssms.co.id
@@ -584,6 +590,7 @@ gresik.ldii.or.id
 group.bokeps18plus.frezas.my.id
 group18plus.new9.my.id
 groupbokepwhatsapp.grub-wa23.my.id
+groupchat18.my.id
 groupgirl.my.id
 groupgirls.my.id
 grouppornwhatsapp.chaozyx3.my.id
@@ -614,6 +621,7 @@ grupbokepwhatsapp.new9.my.id
 grupbudigaming.my.id
 grupdewasa18.whatsappp.my.id
 grupduniamalam.new9.my.id
+grupmabar19.my.id
 grupmabarfreefire.freefire-2020.my.id
 grupmabarfreefire.games-event78.my.id
 grupswa.guied7.my.id
@@ -709,6 +717,7 @@ imersjogja.id
 inatel.co.id
 inc042020.my.id
 inc072020.my.id
+incubatorgratiss1.my.id
 independent-social-media-04.my.id
 independent-social-media-05.my.id
 independent-social-media-06.my.id
@@ -780,6 +789,7 @@ jodev.or.id
 jogjadebatingforum.or.id
 join-groupwhatsapp.guied7.my.id
 join-grub-wa.my.id
+join-grub-wa02.my.id
 join-grub-wa4.my.id
 join-grup.new9.my.id
 join-grupwa18.xnxxx.my.id
@@ -802,6 +812,7 @@ joingrupwamabaryoutuber.joinnow-18plus2.my.id
 joingrupwaviral.guied7.my.id
 joingrupwayoutuber.gratis33.my.id
 joingrupwhatsap9.viyyy.my.id
+joingrupwhatsapp.my.id
 joingrupwhatsapp.new9.my.id
 joingrupwhatsapp54.waatsapp.my.id
 joingrupwhatsappp.my.id
@@ -959,11 +970,13 @@ mahakur.afstudio.web.id
 mahatirtatrans.co.id
 mahawarna.id
 mahestri.id
+mail.chatingwhatsapp.eventml.my.id
 mail.grubmabarwhatsapp-pubg.event-games21.my.id
 mail.grubwavideoviral.gratiss.my.id
 mail.lombacerpenonline2020.my.id
 mail.sdtyew4r6he46ydrtfyhdnf7re5u7t6ri56vu45y745h74t5y.guied7.my.id
 mail.xh-grupwhatsappsex18.hot18.my.id
+mainhost.my.id
 majenekab.go.id
 maksi.feb.unib.ac.id
 malwarestore.id
@@ -1041,6 +1054,7 @@ mtssnjatimulyokp.sch.id
 mueeza.id
 mugibarokah.id
 muh-ridwan.co.id
+muhanasa.my.id
 muktamar47.muhammadiyah.or.id
 murti.or.id
 muscatya.id
@@ -1133,6 +1147,7 @@ paparazzi-filth-exposed-celebs.blogspot.co.id
 parameswari.co.id
 partiicipatioonadmin.my.id
 pasarseluler.co.id
+pasca.univbinainsan.ac.id
 pascasarjana.uniba-bpn.ac.id
 paseokhlp01srvcpge01.my.id
 pauditgerbang.sch.id
@@ -1686,6 +1701,7 @@ valid.tokofitri.co.id
 verif-instagram.my.id
 verif-pembokiranfb.my.id
 verifications.instagram.ezzuari.web.id
+verified-instagram.my.id
 verifikasidatafacebook.x-diamond77.my.id
 vetrous-maju.co.id
 vibetronic.id
@@ -1708,6 +1724,7 @@ weducate.paramadina.ac.id
 welkguessqata.myrating.id
 wellsfargo.widowati.staff.unja.ac.id
 whatsap.burik-event1.my.id
+whatsapgrup.joinss9.my.id
 whatsapku.new9.my.id
 whatsapp-group.claim.my.id
 whatsapp-grub.my.id

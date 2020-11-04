@@ -113,6 +113,7 @@ asmm.ro
 asociatia-tipografilor-transilvania.ro
 assetzone.ro
 assistanceclientconnexionwebinfos.webnode.ro
+astrene.ro
 astropet.ro
 atayurt.ro
 atipicconcept.ro
@@ -234,6 +235,7 @@ chiddy.baxishop.ro
 chinainfo.ro
 chirurgiehbp.ro
 cinako.ro
+ciucurencutl.ro
 classbacau.ro
 clickmedia.ro
 clicknet.ro
@@ -699,6 +701,7 @@ orientality.ro
 osansa.ro
 osbm.ro
 osolemio.ro
+otto-nautic.ro
 ozka.ro
 pablostore.ro
 palatulcopiilorseverin.ro
@@ -719,6 +722,7 @@ paypalaccountsonline.adtechnologies.ro
 pdpconsulting.ro
 pe-stoc.ro
 pedavo.ro
+pedichiuramedicalaploiesti.ro
 pensiunea-casa-noastra.ro
 pensiunea-roxana.ro
 pensiuneafenyo.ro
@@ -786,6 +790,7 @@ q07zjtl6t4he1wqmhxxd.viomil.ro
 qds.count.brat-online.ro
 qp97se4uxsi1qbd5llp1.viomil.ro
 quasi.ro
+radiolevi.ro
 radionext.ro
 radioomega.ro
 ralmedia.ro
@@ -834,6 +839,7 @@ sanlux.ro
 sans.ro
 saulescupredeal.licee.edu.ro
 save-selfsecurity.ro
+scarletleaf.ro
 scaune.qmagazin.ro
 scmd.ro
 scoala3rmsarat.ro
@@ -848,7 +854,6 @@ scule-electrice-profesionale.ro
 scule-facom.ro
 secure-apphalifaxupdate-verification-online.decodim.ro
 secure-apphalifaxupdate-verification-online.dekodesign.ro
-secure-apphalifaxupdate-verification-online.euinstal.ro
 secure-apphalifaxupdate-verification-online.tricouri-bumbac.ro
 secure.paypal.com.lucgroup.ro
 secure.trafic.ro

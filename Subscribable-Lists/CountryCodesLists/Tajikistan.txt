@@ -9,6 +9,7 @@ rus-ksors.tj
 smarts.tj
 softgroup.tj
 sports.tj
+stoptb.tj
 sudexpert.tj
 taj-history.tj
 www.toriyo.tj

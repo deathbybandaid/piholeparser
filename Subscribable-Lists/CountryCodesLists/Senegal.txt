@@ -4,6 +4,7 @@ cciad.sn
 cena.sn
 cosetam.sn
 entraco.sn
+forumdunumerique.sn
 isosoft.sn
 maristepostbac.sn
 portdakar.sn

@@ -149,7 +149,6 @@ connect-line.gr
 connectedclub.gr
 convert.gr
 coolgames.gr
-core-edu.gr
 cosapo.gr
 craftware.gr
 crazytaste.gr
@@ -275,6 +274,7 @@ gss-security.gr
 gynaikologos-malesina.gr
 halarossi.gr
 happybabies.gr
+happymovements.gr
 haus-technik.gr
 hcms.gr
 headz.gr
@@ -416,6 +416,7 @@ nremove.facebk-81852936.ttgw.gr
 nremove.facebk-81946391.ttgw.gr
 nremove.facebk-87688946.ttgw.gr
 nremove.facebk-90735474.ttgw.gr
+nrg91.gr
 nyfikoxtenisma-thessaloniki.gr
 obj.adman.gr
 officenetworks.gr
@@ -481,6 +482,7 @@ pouliostherm.gr
 pountafish.gr
 procareinsurance.gr
 productionhouse.gr
+progrece.gr
 promo.gpoint.com.gr
 promos.pathfinder.gr
 provoliprints.gr
@@ -536,6 +538,7 @@ simply-follow-the-steps-to-confirm-some-personal-details.ega.gr
 simvouli.gr
 site.endodontist.gr
 skales-kritis.gr
+skin-secrets.gr
 sklirisrealestate.gr
 southdental.gr
 spaparne.gr
@@ -614,6 +617,7 @@ voulastudios.gr
 vouleutis.gr
 webabout.gr
 webfile-document.homoeopathy.gr
+webseminar.gr
 wellsfargo.com-0.syfanet-offers.gr
 whatsapp.areospolis.gr
 whatsapp.com.areospolis.gr
@@ -634,6 +638,7 @@ www.rethemniotikokarnavali.gr
 www.sexblue-box.gr
 www.sexshop.gr
 www.youhot.gr
+x-treme.gr
 xdoctor.gr
 xpower.gr
 yoda.adman.gr

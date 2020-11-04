@@ -102,6 +102,7 @@ dbt.pool.mn
 dc.pool.mn
 dcr.pool.mn
 dec.pool.mn
+denslegal.mn
 detourej.mn
 dfq.pool.mn
 dgb.pool.mn

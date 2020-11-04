@@ -52,6 +52,7 @@ gu.ma
 happymind.ma
 interestcustomers.cu.ma
 interfacerh.ma
+ipmes.ma
 irrigare.ma
 jazmany.cu.ma
 jeux.co.ma

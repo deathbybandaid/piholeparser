@@ -8,6 +8,7 @@ eml.lu
 games.graphit.lu
 globalgest.lu
 globaltradingtrust.lu
+goodfriend.lu
 hauser.lu
 id.google.lu
 justflowers.lu

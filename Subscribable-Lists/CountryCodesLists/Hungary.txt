@@ -125,6 +125,7 @@ bgyarmatplebania.hu
 bitupont.hu
 bizsu24.hu
 bkgroup.hu
+blog.robi2.hu
 blog.toszkantaska.hu
 blszsz.hu
 bodog.hu
@@ -263,6 +264,7 @@ general1245.pe.hu
 geoip.p24.hu
 gerlaiovisok.hu
 gewissguard.hu
+glerry32.nhely.hu
 glezmen.hu
 gmcount.pe.hu
 goldengate.hu
@@ -385,7 +387,6 @@ maratom.hu
 marc.pe.hu
 marketingprogram.hu
 maskepp.hu
-mateszalkaiszc.hu
 matfussli.pe.hu
 maxibutor.hu
 mbiasi93.pe.hu
@@ -484,6 +485,7 @@ polgarorvasad.hu
 ponilo.hu
 pont24.hu
 pontofiscal.pe.hu
+porkoltfozofesztival.robi2.hu
 porn.hu
 pornstar.hu
 presidium.hu
@@ -492,6 +494,7 @@ proba1.allvanybolt.hu
 productspecification.pe.hu
 profil2000.hu
 prokomm.hu
+protection-mimecast.mateszalkaiszc.hu
 pvbk.hu
 rabavolgy.hu
 radiosinus.hu
@@ -510,7 +513,6 @@ reklamcsere.hu
 reprocopy.hu
 reroute.c3.hu
 resgateseusfundos2017.pe.hu
-riegelcajon.hu
 rigotech.hu
 robinireland.pe.hu
 robogo3k.hu
@@ -582,7 +584,6 @@ szexneked.hu
 szexplaza.hu
 szexrandi.hu
 szexshop.hu
-szfe.hu
 szin-jatekos.hu
 szinek.hu
 szinesgyongyok.hu

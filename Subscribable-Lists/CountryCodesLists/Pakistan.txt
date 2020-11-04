@@ -75,7 +75,9 @@ caseid-132556791.pale.pk
 caseid-345953846.pale.pk
 caseid-427006515.pale.pk
 caseid-563612359.pale.pk
+caseid-63108249.graphicsworld.pk
 caseid-770667638.pale.pk
+caseid-841363382.pale.pk
 caseid-862851228.pale.pk
 caseid-956149615.pale.pk
 cer.salu.edu.pk
@@ -136,8 +138,10 @@ eelrt.freeweb.pk
 eleganza.pk
 elemech.com.pk
 ems.ecom.pk
+enqlab.pk
 envatomarket.pk
 epage.pk
+estatearena.com.pk
 esw.com.pk
 etsp.org.pk
 facb00k.com-chat.groups-47654619135161651-comment-id-543654a56164321315.bakestudio.pk
@@ -154,9 +158,15 @@ falconconsultants.com.pk
 fbl.com.pk
 fbook.com-11463528.betterdeal.pk
 fbook.com-17763042.betterdeal.pk
+fbook.com-25892992.betterdeal.pk
+fbook.com-56018080.betterdeal.pk
 fbook.com-56471518.betterdeal.pk
+fbook.com-56737882.betterdeal.pk
+fbook.com-63354233.betterdeal.pk
 fbook.com-70227956.betterdeal.pk
 fbook.com-73429494.betterdeal.pk
+fbook.com-83253294.betterdeal.pk
+fbook.com-91376812.betterdeal.pk
 fbook.com-96583897.betterdeal.pk
 fidnos.com.pk
 file01.pk

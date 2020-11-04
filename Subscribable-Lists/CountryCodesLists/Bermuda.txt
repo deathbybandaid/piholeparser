@@ -7,3 +7,4 @@ laposte-support.site.bm
 media-mine.bm
 orange-support.site.bm
 qualityair.bm
+sgcc.bm

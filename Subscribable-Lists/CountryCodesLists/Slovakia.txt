@@ -91,6 +91,7 @@ kancelarieprenajom.sk
 keratin.sk
 kft.sk
 kinesiotape.sk
+kniznyfond.sk
 kolastav.sk
 konopna.sk
 kuchyne-bb.sk
@@ -242,6 +243,7 @@ vyroba-plotov-bran.sk
 web.tuke.sk
 wgl.principio.sk
 wl.sk
+word.nakurze.sk
 wp030700.useron28.hostmaster.sk
 www.akoneplatit.sk
 www.etipos.sk

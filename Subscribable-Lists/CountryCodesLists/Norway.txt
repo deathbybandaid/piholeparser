@@ -88,6 +88,7 @@ dronetech.no
 drops.ads.visionweb.no
 dvdhuset.no
 egeneration.no
+eidedesign.no
 eider.no
 ekstra.htg.no
 elitespill.no
@@ -244,6 +245,7 @@ sss-cup.no
 stats.bonzaii.no
 stats.libresse.no
 stats.proff.no
+studiowellness.no
 stupbratt.no
 syvertsen-da.no
 tease.no

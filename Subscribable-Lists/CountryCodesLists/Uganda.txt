@@ -19,7 +19,6 @@ bastionprofi.ug
 bbqkings.co.ug
 bcl-act-support.for.ug
 belyi.ug
-bilbosaquet.ug
 bl0ckchain.ug
 blablabla.ac.ug
 black.ac.ug
@@ -64,7 +63,6 @@ fdbvcdffd.ug
 ffacscs.ug
 ffvgdsv.ug
 filsa.ug
-fineme.ug
 firefox.ac.ug
 fitings.ac.ug
 foarsite.ug
@@ -86,6 +84,7 @@ iwkvndkkasfsd.ug
 jacksonmatt.ug
 jamboster.ug
 jamesrlongacre.ac.ug
+jamesrlongacre.ug
 jbn.co.ug
 jcvksdf.ug
 jpnnybacj.ug
