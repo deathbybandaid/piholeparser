@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: L7SwpiwVMXE2E1kKcdBA3w
-! Version: 202011040021
+! Checksum: Wk3pcZ0gHZNZyz2PSjqXhg
+! Version: 202011050021
 ! Title: Fanboy's Annoyance List
-! Last modified: 04 Nov 2020 00:21 UTC
+! Last modified: 05 Nov 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -4342,7 +4342,7 @@ _youtube_social_
 /gdpr/gdpr_
 /gdpr/img/*
 /gdpr/messaging.
-/gdpr/native-
+/gdpr/native-$domain=~11freunde.de|~autobild.de|~bike-bild.de|~bild.de|~boerse-online.de|~businessinsider.de|~bz-berlin.de|~caramia.de|~clever-tanken.de|~computerbild.de|~edelblech.de|~faz.net|~finanzen.at|~finanzen.ch|~finanzen.net|~fitbook.de|~gofeminin.de|~idealo.at|~idealo.co.uk|~idealo.de|~idealo.es|~idealo.fr|~idealo.it|~immonet.de|~insider.com|~kombi.de|~meinestadt.de|~metal-hammer.de|~musikexpress.de|~myhomebook.de|~n24.de|~noizz.de|~onmeda.de|~politico.eu|~rollingstone.de|~sportbild.de|~stylebook.de|~techbook.de|~testbild.de|~transfermarkt.at|~transfermarkt.ch|~transfermarkt.co.uk|~transfermarkt.com|~transfermarkt.com.tr|~transfermarkt.de|~transfermarkt.fr|~transfermarkt.it|~transfermarkt.nl|~transfermarkt.pl|~transfermarkt.pt|~transfermarkt.us|~travelbook.de|~tvspielfilm.de|~vip.de|~welt.de|~wieistmeineip.at|~wieistmeineip.ch|~wieistmeineip.de|~zuio.tv
 /gdpr/optInCookieSSR?
 /gdpr/script_
 /gdpr_check.
@@ -4565,7 +4565,7 @@ _youtube_social_
 /uploads/GDPR-
 /usecookies.js
 /usocookies.
-/v1/gdpr/*
+/v1/gdpr/*$domain=~11freunde.de|~autobild.de|~bike-bild.de|~bild.de|~boerse-online.de|~businessinsider.de|~bz-berlin.de|~caramia.de|~clever-tanken.de|~computerbild.de|~edelblech.de|~faz.net|~finanzen.at|~finanzen.ch|~finanzen.net|~fitbook.de|~gofeminin.de|~idealo.at|~idealo.co.uk|~idealo.de|~idealo.es|~idealo.fr|~idealo.it|~immonet.de|~insider.com|~kombi.de|~meinestadt.de|~metal-hammer.de|~musikexpress.de|~myhomebook.de|~n24.de|~noizz.de|~onmeda.de|~politico.eu|~rollingstone.de|~sportbild.de|~stylebook.de|~techbook.de|~testbild.de|~transfermarkt.at|~transfermarkt.ch|~transfermarkt.co.uk|~transfermarkt.com|~transfermarkt.com.tr|~transfermarkt.de|~transfermarkt.fr|~transfermarkt.it|~transfermarkt.nl|~transfermarkt.pl|~transfermarkt.pt|~transfermarkt.us|~travelbook.de|~tvspielfilm.de|~vip.de|~welt.de|~wieistmeineip.at|~wieistmeineip.ch|~wieistmeineip.de|~zuio.tv
 /w034CookieDirective.js
 /wa_consentUI.
 /wa_iframeCmp.
@@ -32231,6 +32231,7 @@ _site_cookie_
 ##.sg-cw-cookie
 ##.sgs-cookies-consent
 ##.sgsCookies
+##.sh-cookie
 ##.sh-cookie-confirmation
 ##.sh-cookie-dialog
 ##.shareaholic-cookie-consent
@@ -33941,8 +33942,8 @@ _site_cookie_
 ||wpcc.io^$third-party
 ! Consent Trackers
 ||opencmp.net^$script,third-party
-||privacy-mgmt.com^$script,third-party,domain=~11freunde.de|~boerse-online.de|~faz.net|~finanzen.at|~finanzen.net|~insider.com|~transfermarkt.at|~transfermarkt.ch|~transfermarkt.co.uk|~transfermarkt.com|~transfermarkt.com.tr|~transfermarkt.de|~transfermarkt.fr|~transfermarkt.it|~transfermarkt.nl|~transfermarkt.pl|~transfermarkt.pt|~transfermarkt.us|~tvspielfilm.de|~vip.de
-||sp-prod.net^$third-party,domain=~autobild.de|~bike-bild.de|~bild.de|~boerse-online.de|~businessinsider.de|~bz-berlin.de|~caramia.de|~clever-tanken.de|~computerbild.de|~edelblech.de|~finanzen.at|~finanzen.ch|~finanzen.net|~fitbook.de|~gofeminin.de|~idealo.at|~idealo.co.uk|~idealo.de|~idealo.es|~idealo.fr|~idealo.it|~immonet.de|~kombi.de|~meinestadt.de|~metal-hammer.de|~musikexpress.de|~myhomebook.de|~n24.de|~noizz.de|~onmeda.de|~politico.eu|~rollingstone.de|~sportbild.de|~stylebook.de|~techbook.de|~testbild.de|~transfermarkt.de|~travelbook.de|~welt.de|~wieistmeineip.at|~wieistmeineip.ch|~wieistmeineip.de|~zuio.tv
+||privacy-mgmt.com^$script,third-party,domain=~11freunde.de|~autobild.de|~bike-bild.de|~bild.de|~boerse-online.de|~businessinsider.de|~bz-berlin.de|~caramia.de|~clever-tanken.de|~computerbild.de|~edelblech.de|~faz.net|~finanzen.at|~finanzen.ch|~finanzen.net|~fitbook.de|~gofeminin.de|~idealo.at|~idealo.co.uk|~idealo.de|~idealo.es|~idealo.fr|~idealo.it|~immonet.de|~insider.com|~kombi.de|~meinestadt.de|~metal-hammer.de|~musikexpress.de|~myhomebook.de|~n24.de|~noizz.de|~onmeda.de|~politico.eu|~rollingstone.de|~sportbild.de|~stylebook.de|~techbook.de|~testbild.de|~transfermarkt.at|~transfermarkt.ch|~transfermarkt.co.uk|~transfermarkt.com|~transfermarkt.com.tr|~transfermarkt.de|~transfermarkt.fr|~transfermarkt.it|~transfermarkt.nl|~transfermarkt.pl|~transfermarkt.pt|~transfermarkt.us|~travelbook.de|~tvspielfilm.de|~vip.de|~welt.de|~wieistmeineip.at|~wieistmeineip.ch|~wieistmeineip.de|~zuio.tv
+||sp-prod.net^$third-party,domain=~11freunde.de|~autobild.de|~bike-bild.de|~bild.de|~boerse-online.de|~businessinsider.de|~bz-berlin.de|~caramia.de|~clever-tanken.de|~computerbild.de|~edelblech.de|~faz.net|~finanzen.at|~finanzen.ch|~finanzen.net|~fitbook.de|~gofeminin.de|~idealo.at|~idealo.co.uk|~idealo.de|~idealo.es|~idealo.fr|~idealo.it|~immonet.de|~insider.com|~kombi.de|~meinestadt.de|~metal-hammer.de|~musikexpress.de|~myhomebook.de|~n24.de|~noizz.de|~onmeda.de|~politico.eu|~rollingstone.de|~sportbild.de|~stylebook.de|~techbook.de|~testbild.de|~transfermarkt.at|~transfermarkt.ch|~transfermarkt.co.uk|~transfermarkt.com|~transfermarkt.com.tr|~transfermarkt.de|~transfermarkt.fr|~transfermarkt.it|~transfermarkt.nl|~transfermarkt.pl|~transfermarkt.pt|~transfermarkt.us|~travelbook.de|~tvspielfilm.de|~vip.de|~welt.de|~wieistmeineip.at|~wieistmeineip.ch|~wieistmeineip.de|~zuio.tv
 !--------------------------Specific blocking filters--------------------------!
 ! *** easylist:fanboy-addon/fanboy_annoyance_specific_block.txt ***
 ||4chan.org/b/*.swf
@@ -40902,6 +40903,7 @@ drakecircus.com##.ccc-widget
 hannity.com##.ccpa
 orcadian.co.uk##.cd-container
 wunderground.com##.cdk-overlay-container
+source.chromium.org##.cdk-overlay-pane > .mat-snack-bar-container
 kbs.co.kr##.chrome_pick
 stayinwales.co.uk##.ckinfo-panel
 singular.com.cy##.cm-notification-container
@@ -42097,6 +42099,7 @@ ilvibonese.it##.torna_su
 travelnostop.com##.toup
 americantourister.it##.ui-widget-overlay
 lifestyleblog.it,lospecialista.tv##.widget_mailpoet_form
+ortodacoltivare.it##.widget_sib_subscribe_form
 lospecialista.tv##.widget_specialert
 melarossa.it,secoloditalia.it##.widget_wpmailup_widget
 vitatrentina.it##.wpdiscuz-front-actions
@@ -46003,7 +46006,7 @@ yoigo.com#@#thor-cookies
 @@||idg.se/idg-consent.min.js$script
 @@||internazionale.it/assets/js/cookies_gdpr.js?
 @@||iubenda.com/cookie_solution/$script,domain=iphoneitalia.com
-@@||iubenda.com^$script,subdocument,xmlhttprequest,domain=105.net|3bmeteo.com|capital.it|huffingtonpost.it|m2o.it|mediaset.it|r101.it|radiomontecarlo.net|rockol.it|video.deejay.it|video.espresso.repubblica.it|video.ilsecoloxix.it|video.lanuovasardegna.it|video.lastampa.it|video.rep.repubblica.it|video.repubblica.it|virginradio.it
+@@||iubenda.com^$script,subdocument,xmlhttprequest,domain=105.net|3bmeteo.com|capital.it|huffingtonpost.it|ilmessaggero.it|m2o.it|mediaset.it|r101.it|radiomontecarlo.net|rockol.it|video.deejay.it|video.espresso.repubblica.it|video.ilsecoloxix.it|video.lanuovasardegna.it|video.lastampa.it|video.rep.repubblica.it|video.repubblica.it|virginradio.it
 @@||kalaydo.de^*/cookie-consent.jsc.js$domain=kalaydo.de
 @@||kjellmann.no^*/cookielaw/css/cookielaw.css$stylesheet
 @@||meine.postbank.de/translations/*-cookieDisclaimer-*.json$~third-party,xmlhttprequest
