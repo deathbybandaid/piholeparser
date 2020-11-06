@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: zg9IUdEY2PIC4ru6sJghUQ
+! Checksum: d5wocqX8j666Lla8ybvsAw
 ! Title: Polskie Filtry Elementów Irytujących
 ! Polish Annoyance Filters
 ! Codename: Annoyance - Main
 ! Description: Filtry ukrywające i blokujące wyskakujące okienka, widgety, newslettery, powiadomienia push, strzałki, otagowane linki wewnętrzne, które są nie na temat artykułów (np. link do pracy w Bydgoszczy w artykule o pogodzie) i inne drażniące elementy (Polskie Filtry RODO-Ciasteczkowe oryginalnie stworzone przez MajkiIT są już w nich zawarte).
 ! Required: Do poprawnego działania wymagana jest lista lub rozszerzenie I don't care about cookies!
-! Last modified: Mon, 02 Nov 2020, 19:00 UTC+01
-! Version: 2020.11.2.1
+! Last modified: Thu, 05 Nov 2020, 11:01 UTC+01
+! Version: 2020.11.5.0
 ! Expires: 2 days
 ! Najnowsza wersja zawsze na: https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters
 ! Zgłoszenia:
@@ -14,7 +14,7 @@
 !   GitHub => https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/deed)
 ! Copyright © 2020 Polish Filters Team
-! Aktualizacja: pon, 02 lis 2020, 19:00 UTC+01
+! Aktualizacja: czw, 05 lis 2020, 11:01 UTC+01
 !
 !
 ! Newslettery (nie popupy)
@@ -2403,6 +2403,7 @@ sprzedam.pl###api817-banner
 ssangyong.pl###hot_offer
 stamary.pl##.fancybox-overlay-fixed
 starter.net.pl###wow-modal-overlay-1
+stawiszynski.org,weddingdream.com##.jet-popup
 stili.pl###iai_webpush_toplayer, #toplayer_newsletter
 stoicway.net##.pop-up-box
 stopfermom.eu##.special-popup
@@ -2480,7 +2481,6 @@ waszaturystyka.pl##.rstbox, .rstbox_overlay
 waze.com#?#.wz-popup-overlay:-abp-has(div > h3)
 wearmedicine.com#?##cboxLoadedContent:-abp-has(#nlPopup)
 webcamera.pl###exit-intercept
-weddingdream.com##.jet-popup
 wego.here.com##.active.fullBanner
 westhill.pl###boxzilla-10619, #boxzilla-overlay-10619
 westwing.pl##.sl
@@ -3433,6 +3433,8 @@ stadion.kielce.pl##.up-side
 stalremdrzwi.pl,zaliniamety.pl##.icn-up-small
 stareforumpoly.pl##.u-scrollButtons
 statekrestauracja.pl###g-totop
+stawiszynski.org##.jupiterx-scrolled
+stawiszynski.org##.jupiterx-scroll-top
 steamcommunity.com###BackToTop
 stoklasa.pl###sipka_nahoru
 storck.pl##.icon-toolbar-back-to-top
