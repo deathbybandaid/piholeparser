@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: q9vQ+reypbHWVCi6g/jfdg
-! Version: 202011060020
+! Checksum: nXk+NVe/x8KcgiyApjyH2A
+! Version: 202011070020
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 06 Nov 2020 00:20 UTC
+! Last modified: 07 Nov 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -858,7 +858,7 @@ vo-dela.su##.scrolled > .widget_html_block
 www.gismeteo.ru#?#.section-item:-abp-has(> .section-title ~ .social-buttons)
 online-mult.net##.sh_pt
 zi.dn.ua##.shar-title
-1743.ru,amurmedia.ru,bbc.com,bibliofond.ru,brovary.net.ua,businessman.ru,doramax.net,eaomedia.ru,europaplus.ru,glavcom.ua,govoritmoskva.ru,gts.tv,hdkinoteatr.com,inforesist.org,interior.ru,irkutskmedia.ru,kirov.online,krasnodarmedia.su,krasnoyarskmedia.ru,magadanmedia.ru,native-english.ru,ntsk.ru,orki.ru,orsk.ru,overclockers.ua,pkzsk.info,primamedia.ru,ria.ru,rusonline.org,sakhalinmedia.ru,sdamgia.ru,sevastopolmedia.ru,sfera.fm,sharij.net,sverhestestvennoe.club,syl.ru,tele.ru,tet.tv,ua-football.com,ulanmedia.ru,upl.uz,ussurmedia.ru,vgtimes.ru,voxpopuli.kz,yakutiamedia.ru##.share
+1743.ru,amurmedia.ru,bbc.com,bibliofond.ru,brovary.net.ua,businessman.ru,doramax.net,eaomedia.ru,europaplus.ru,glavcom.ua,govoritmoskva.ru,gts.tv,hdkinoteatr.com,inforesist.org,interior.ru,irkutskmedia.ru,kirov.online,krasnodarmedia.su,krasnoyarskmedia.ru,kurs.com.ua,magadanmedia.ru,native-english.ru,ntsk.ru,orki.ru,orsk.ru,overclockers.ua,pkzsk.info,primamedia.ru,ria.ru,rusonline.org,sakhalinmedia.ru,sdamgia.ru,sevastopolmedia.ru,sfera.fm,sharij.net,sverhestestvennoe.club,syl.ru,tele.ru,tet.tv,ua-football.com,ulanmedia.ru,upl.uz,ussurmedia.ru,vgtimes.ru,voxpopuli.kz,yakutiamedia.ru##.share
 my.kaspersky.com##.share > :not(.share-link)
 liwihelp.com##.share > a[onclick*="sharer"]
 cross.expert##.share-auth
@@ -1100,6 +1100,7 @@ korrespondent.net#?#.unit-rubric:-abp-has(> ul > #lifacebook)
 game-pool.ru##.upnews
 prk.city##.uptolike-div
 newstube.ru##.user-enter-social
+poembook.ru##.verse-view__share
 1plus1.video##.video-comments
 rutube.ru##.video-share__social
 vesti.ru##.video_top_inner
@@ -1216,10 +1217,11 @@ toptracker.ru##a[onclick^="content_share"]
 qiq.ws##a[onclick^="return addSoc"]
 bombardir.ru##a[title="Facebook"]:not(.auth-link)
 bombardir.ru##a[title="Twitter"]:not(.auth-link)
-it-actual.ru##article + div:empty + div[class]
 versii.if.ua##article > .post-bottom-text
 coop-land.ru##article > .social ~ .center
 coop-land.ru##article > .social ~ center
+it-actual.ru##article ~ div > ul[id]
+it-actual.ru##article ~ div > ul[id] ~ [class]
 office-guru.ru##aside .widget_text
 businessua.com##aside > #vedomosti_block ~ #vedomosti_block
 asilmedia.net#?#aside > .sidebar-widget:-abp-has(> .widget-content > a[href*="://telegram.me/"])
@@ -3151,7 +3153,6 @@ europaplustv.com##.spec-box[onclick*="europaplustv.com"]
 dtf.ru,tjournal.ru##.special-job-teaser
 eda.ru##.special-projects
 tjournal.ru##.special_celebrity
-it-actual.ru##.spoiler-head > [class] > [class]
 bhf.io##.sponsor-banner
 goodgame.ru##.sponsors.footer-block
 buhonline.ru##.sticker
@@ -3345,10 +3346,10 @@ vedomosti.ru##aside.article__sidebar
 www.kinopoisk.ru##aside.dialog
 nur.kz##aside.groups--vk
 kanobu.ru#?#aside:-abp-has(> button ~ div > iframe[src*="autoplay=1"])
+it-actual.ru##aside[class*="tag"] ~ [class]
 kanobu.ru#?#aside[class]:-abp-has(> iframe[src*="playercdn.cdnvideo.ru/aloha/players/igromania_player.html"])
 kanobu.ru#?#aside[class]:-abp-has(> iframe[src*="vk.com/video_ext.php?"][src*="&autoplay=1"])
 novozybkov.su##aside[data-alias^="Слева"] > div
-it-actual.ru##aside[id^="tag"] ~ [class]
 games.rambler.ru#?#body > #app > div[class*=" "]:-abp-has(a[href*="yabrowser"])
 ntv.ru##body > #bg250
 computerworld.ru,osp.ru##body > #bottom-bar
@@ -3377,7 +3378,6 @@ want2vote.com##body > a[href][target="_blank"]
 tapochek.net##body > button[style^="position: absolute;"]
 pb.wtf,piratbit.org,piratbit.pw,piratbit.top##body > center > div[style^="background: crimson;"]
 rbc.ru##body > div[class*="push"]
-it-actual.ru##body > div[class][style^="display:"]
 forbes.ru##body > div[class^="push_"]
 svoimi-rykami.ru##body > div[class^="spu-"]
 gorodche.ru##body > div[class^="subPop"]
@@ -12724,6 +12724,7 @@ _youtube_social_
 ##.fi-social-twitter
 ##.fi-social-youtube
 ##.fi_sns
+##.field--name-dynamic-token-fieldnode-vertical-share
 ##.field-name-addthis
 ##.field-name-field-addthis
 ##.field-name-field-sharebar
@@ -24019,6 +24020,7 @@ _backToTop.
 ###newsletterWidgetFormHolder
 ###newsletterWrapper
 ###newsletter_articles
+###newsletter_articolo
 ###newsletter_block
 ###newsletter_block_left
 ###newsletter_box
@@ -24048,6 +24050,7 @@ _backToTop.
 ###newsletter_signup_fullwidth
 ###newsletter_signup_sb
 ###newsletter_signup_side
+###newsletter_smartbar
 ###newsletter_sub_form
 ###newsletter_subscribe
 ###newsletter_subscription
