@@ -9,6 +9,7 @@ ispg.ac.rw
 legalwise.rw
 mail.auca.ac.rw
 mailhub.minaffet.gov.rw
+netflix.pl.rsga.rw
 paypal.mhc.rw
 rha.rw
 shyirahospital.rw

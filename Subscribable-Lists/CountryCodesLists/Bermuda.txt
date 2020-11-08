@@ -4,6 +4,7 @@ cariattlogin.site.bm
 flashpoint.bm
 iclean.bm
 laposte-support.site.bm
+lettre-prive.site.bm
 media-mine.bm
 orange-support.site.bm
 qualityair.bm

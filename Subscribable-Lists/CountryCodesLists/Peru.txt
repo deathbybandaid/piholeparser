@@ -140,7 +140,6 @@ jybsac.net.pe
 kalamarka.fm.pe
 kregalo.com.pe
 krings.com.pe
-labtop.pe
 lalupa.com.pe
 laternerita.com.pe
 lesmartfire.com.pe
@@ -215,6 +214,7 @@ punotours.com.pe
 rallysac.com.pe
 realgarcilaso.pe
 recipesa.com.pe
+regionloreto-gsraa.gob.pe
 resoluciones.ugel01.gob.pe
 rfi.com.pe
 roaldtransport.pe
@@ -232,7 +232,6 @@ sillasderuedas.pe
 smprovidencia.edu.pe
 sociales.unmsm.edu.pe
 somossostenibles.pe
-soundtechperu.com.pe
 store.nanotechnology.com.pe
 suenosalud.com.pe
 sweetprofessional.pe

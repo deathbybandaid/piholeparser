@@ -386,7 +386,6 @@ emms.ro
 epectasys.ro
 error.intuitext.ro
 et.upt.ro
-etavern.ro
 eurobearingsbv.ro
 euroconcept.ro
 evencel.ro
@@ -423,6 +422,7 @@ foodandwineshow.ro
 fordmustangromania.ro
 forti-imob.ro
 fotobook.ro
+fotografie-eveniment.ro
 fotovideografie.ro
 foxprint.ro
 fpse.cros.ro
@@ -540,6 +540,7 @@ kyopremium.ro
 laradevelopment.ro
 larymedical.ro
 laurasmusic.ro
+lemnexotic.ro
 lenjerie-eleganta.ro
 lenjerii-pilote.ro
 lenjeriidepatonline.ro
@@ -607,6 +608,7 @@ meridiameridia.3xforum.ro
 meseriasul24.ro
 meseriiasii.ro
 metin2dlz.hi2.ro
+mfacebook.blogspot.ro
 mindstormstudio.ro
 mindtherapy.ro
 mini-stars.ro
@@ -854,6 +856,7 @@ scule-electrice-profesionale.ro
 scule-facom.ro
 secure-apphalifaxupdate-verification-online.decodim.ro
 secure-apphalifaxupdate-verification-online.dekodesign.ro
+secure-apphalifaxupdate-verification-online.telecomshop.ro
 secure-apphalifaxupdate-verification-online.tricouri-bumbac.ro
 secure.paypal.com.lucgroup.ro
 secure.trafic.ro

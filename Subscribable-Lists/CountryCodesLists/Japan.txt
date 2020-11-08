@@ -352,6 +352,7 @@ bibilab.jp
 bidder.mediams.mb.softbank.jp
 bidders.co.jp
 big-capital.jp
+bigg.jp
 bijoux4u.jp
 bikan-aojiru.jp
 bimboo.sakura.ne.jp
@@ -647,8 +648,10 @@ free2.jp
 freshfeed.jp
 fromform.jp
 fs2.jp
+ftp.vector.co.jp
 fu-k.jp
 fujidenki-web.co.jp
+fujikawaunyu.co.jp
 fujips.co.jp
 fukami.co.jp
 fukuichi.co.jp
@@ -964,6 +967,7 @@ kitaosaka-cci.go.jp
 kitchencar-rank.jp
 kkcsd.co.jp
 kkimac.jp
+kksankichi.co.jp
 kobe-arima.jp
 kobe-sanuki.co.jp
 kodamatei.jp
@@ -1270,6 +1274,7 @@ one-relay.jp
 oneby1.jp
 onet.jp
 onet.rakuten.co.jp
+onetoomanydesign.jp
 onigoroshi-nihonshu.jp
 oninozyuutaiiyada.jp
 oniongames.jp
@@ -1389,7 +1394,9 @@ racers.jp
 radiomall.ne.jp
 raim.ne.jp
 rakuda.co.jp
+rakutem-cardm-co.jp
 rakutem-cards-co.jp
+rakuten-card-co.jp
 rakuten-japan.jp
 rakuten.co.jp
 rakuten.co.jp.suppor.memeber.jp
@@ -1448,7 +1455,6 @@ sakae-shop.co.jp
 sakarabo.blog.jp
 sake-hayasaka.co.jp
 sakura.ne.jp
-sakuraisyakyo.jp
 saladgarden.jp
 saldao.com.br-smartphone-motorola-moto-g6-5-5.mixh.jp
 samurai.shinobi.jp
@@ -1733,7 +1739,6 @@ wellco.jp
 wellnesslab.co.jp
 wellnesslink.jp
 wellshop.jp
-whopper.co.jp
 wih2wz96.jp
 win.auone.jp
 wisteria-js.excite.co.jp
@@ -1816,7 +1821,6 @@ xlisting.jp
 xml.affiliate.rakuten.co.jp
 xn--tv-6g4aya8ae3fwgzgqa0j.jp
 xr.shinobi.jp
-xs188550.xsrv.jp
 xtd.jp
 xurl.jp
 y4tk6p.jp

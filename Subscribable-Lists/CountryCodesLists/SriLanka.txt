@@ -62,6 +62,7 @@ lakpafootwear.lk
 lankasugar.lk
 lvision.lk
 magento.lk
+mail.royalhaircare.lk
 manjulahandapangoda.lk
 mapiyawandana.lk
 mintage.lk
@@ -75,7 +76,6 @@ realproperty.lk
 richsonic.lk
 riunit.lk
 riversidevillasrilanka.lk
-royalhaircare.lk
 s.2app.lk
 samithsirimanna.lk
 samsung.lk

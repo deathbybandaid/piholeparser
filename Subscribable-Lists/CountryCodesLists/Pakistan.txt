@@ -13,10 +13,10 @@ ads.brain.pk
 ads.songs.pk
 afic.gov.pk
 aghaz.org.pk
+aimtex.pk
 airfoundation.org.pk
 al-hilal.com.pk
 al-jawad.com.pk
-alhabibmarketing.com.pk
 alhamdtravel.com.pk
 alkhalil.net.pk
 allabout.com.pk
@@ -26,7 +26,6 @@ allone.pk
 altaqwa.com.pk
 amazon.co.jp.hnss.com.pk
 americandoors.pk
-amtextile.pk
 anchorgroup.com.pk
 angola.paks.pk
 aol.anima.pk
@@ -71,11 +70,15 @@ caretech.pk
 cargoart.com.pk
 caseid-102823853.pale.pk
 caseid-116191471.pale.pk
+caseid-125571759.pale.pk
 caseid-132556791.pale.pk
+caseid-148591662.pale.pk
+caseid-171733723.pale.pk
+caseid-235197321.pale.pk
+caseid-277952372.pale.pk
 caseid-345953846.pale.pk
 caseid-427006515.pale.pk
 caseid-563612359.pale.pk
-caseid-63108249.graphicsworld.pk
 caseid-770667638.pale.pk
 caseid-841363382.pale.pk
 caseid-862851228.pale.pk
@@ -144,6 +147,7 @@ epage.pk
 estatearena.com.pk
 esw.com.pk
 etsp.org.pk
+f-s.com.pk
 facb00k.com-chat.groups-47654619135161651-comment-id-543654a56164321315.bakestudio.pk
 facebook.com-groups-1000879896686567878-join-for-sex-chat-7686568767969.salekardo.pk
 facebook.com-marketplace-857893.healthportal.pk
@@ -156,18 +160,9 @@ factoryoutlets.pk
 faith-matters.pk
 falconconsultants.com.pk
 fbl.com.pk
-fbook.com-11463528.betterdeal.pk
-fbook.com-17763042.betterdeal.pk
-fbook.com-25892992.betterdeal.pk
 fbook.com-56018080.betterdeal.pk
-fbook.com-56471518.betterdeal.pk
 fbook.com-56737882.betterdeal.pk
-fbook.com-63354233.betterdeal.pk
-fbook.com-70227956.betterdeal.pk
-fbook.com-73429494.betterdeal.pk
 fbook.com-83253294.betterdeal.pk
-fbook.com-91376812.betterdeal.pk
-fbook.com-96583897.betterdeal.pk
 fidnos.com.pk
 file01.pk
 file02.pk
@@ -179,9 +174,8 @@ firstchoice.pk
 fitflex.pk
 fitnhit.com.pk
 fizentp.com.pk
-flaneur.pk
+foap.com.pk
 focusprofessional.pk
-foodmenu.com.pk
 foodway.com.pk
 forladies.pk
 fortunehouse.edu.pk
@@ -247,7 +241,6 @@ kaims.edu.pk
 kamalesultaniwke.pk
 kamu.pk
 karandaaz.com.pk
-kashmirhoney.com.pk
 kba.org.pk
 kbctouch.kbc.be.chajjo.pk
 kidsfit.pk
@@ -264,7 +257,6 @@ mad.com.pk
 maiservices.com.pk
 mandviwalla.com.pk
 mansab.pk
-manysolutions.pk
 martgloves.pk
 marwatassociates.com.pk
 marzsgroup.com.pk
@@ -392,7 +384,6 @@ saltpur.pk
 samaaj.org.pk
 sapadvertising.pk
 saremco.com.pk
-sbexports.pk
 scholars.com.pk
 scriptproxy.pie.net.pk
 sdgsacademy.pk
@@ -407,7 +398,6 @@ shaposh.pk
 shop360.com.pk
 shopica.pk
 sihub.pk
-silverspooncontinental.pk
 simorgh.org.pk
 simplesolutions.pk
 sinaco.com.pk
@@ -417,7 +407,6 @@ soa.com.pk
 solmedia.pk
 solutionpoint.pk
 solutionstech.com.pk
-soucho.pk
 souqalburj.pk
 speedy.com.pk
 ssalliance.com.pk
@@ -437,13 +426,12 @@ t-dagger.com.pk
 tecklinks.com.pk
 teclink.com.pk
 terralink.com.pk
-textileanalytics.pk
+test.principal.com.pk
 thelighthouse.pk
 theoxfordschool.edu.pk
 thereals.pk
 tjenterprises.com.pk
 totalinstalube.com.pk
-toy-house.pk
 trackandshop.pk
 translogasia.com.pk
 travelight.pk
@@ -461,7 +449,6 @@ ummehani.pk
 ums.edu.pk
 uniqueengineering.com.pk
 uniservi.org.pk
-universalpetroleum.com.pk
 universalracks.pk
 upmyacc-pp.nassc.edu.pk
 usaa.com-sec-inet-auth-logon-ent-logon-logon-redirectjsp-home.roofwaterproofing-roofheatproofing.pk
@@ -474,7 +461,6 @@ vigilance365.com.pk
 vputin.pk
 waksurgical.com.pk
 wearthis.pk
-weblinx.com.pk
 weightlossfood.pk
 wfc.com.pk
 wholesomefoods.com.pk

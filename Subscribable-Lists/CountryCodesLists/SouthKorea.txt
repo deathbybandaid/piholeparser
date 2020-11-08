@@ -560,7 +560,6 @@ longkeyone.co.kr
 lowclasslife.co.kr
 m.tstore.co.kr
 mad.about.co.kr
-madebypaul.co.kr
 mail.hallym.ac.kr
 makingpop.gtz.kr
 mat.0pe.kr
@@ -714,6 +713,7 @@ rlazmfla123.kro.kr
 rndsystems.co.kr
 roadfeel.co.kr
 rocco.sitenow.co.kr
+roomsvc.servegate.kr
 rsense-ad.realclick.co.kr
 rydkd2580.0pe.kr
 s-kit.co.kr
@@ -883,7 +883,6 @@ woohuije100408220807.0pe.kr
 woohuije87.0pe.kr
 woohuoje0807.0pe.kr
 wow-price.co.kr
-wp.kosteel.co.kr
 ws1648.kro.kr
 www.admixer.co.kr
 www.can.co.kr

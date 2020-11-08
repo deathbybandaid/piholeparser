@@ -1,3 +1,4 @@
+1ship.vn
 4pmedia.vn
 5day.vn
 ac-dft.com.vn
@@ -112,6 +113,7 @@ blendtec.vn
 blog.kapy.vn
 blog.pito.vn
 blog.saigon247.vn
+blog.xuan-nguyen.vn
 boxapp.admicro.vn
 brand360.vn
 brightstarcorp.com.vn
@@ -119,7 +121,6 @@ brothercafehoian.com.vn
 buigiaphat.com.vn
 c1pson-nt.khanhhoa.edu.vn
 c2s2.emailbuilder.vn
-cafehomes.vn
 cakejess.vn
 cameli.vn
 campaign.accesstrade.vn
@@ -182,7 +183,6 @@ dangcapdigital.com.vn
 danhviet.com.vn
 daotaoquoctedhxd.edu.vn
 dathiennhien.vn
-datsom.vn
 dautusangtao.com.vn
 deam.com.vn
 delivery.adnetwork.vn
@@ -193,8 +193,6 @@ demo.aronet.vn
 demo.mku.edu.vn
 denngu.vn
 denuihuongson.com.vn
-dev.maylocnuockangaroo.vn
-dev.sieuthimaylocnuoc.vn
 diadem.vn
 diaocsg.vn
 dichvucong.vn
@@ -303,7 +301,6 @@ gvc.vn
 h5s.vn
 hada.com.vn
 hadongtoyota.vn
-hanedu.vn
 hanhtrinhthanhnienkhoinghiep.vn
 hanoihub.vn
 happymedia.vn
@@ -345,7 +342,6 @@ immanuel.com.vn
 imp.accesstrade.vn
 imp.adnetwork.vn
 in.admicro.vn
-inbear.vn
 inbus.com.vn
 inmed.vn
 innt.vn
@@ -361,7 +357,6 @@ iyes.vn
 jashop.vn
 jtech.com.vn
 jwskincare.vn
-kabek.vn
 kazuled.com.vn
 kebepxinh.vn
 kenh18.vn
@@ -435,7 +430,6 @@ lopandam.kidsplaza.vn
 luatdongnamhai.vn
 luongyvovanvinh.vn
 luutruviet.vn
-mac88.vn
 mahena.vn
 mail.prakit.vn
 mail.vnsolar.com.vn
@@ -500,11 +494,9 @@ monitor.admicro.vn
 monqua.vn
 moonadoll.vn
 muavere.com.vn
-mudaru.vn
 mutrom.vn
 mycity.citywork.vn
 mythuatvietnam.edu.vn
-n2baby.com.vn
 namviethn.edu.vn
 namyen.vn
 nangmuislinedep.com.vn
@@ -542,6 +534,7 @@ nxbdantri.com.vn
 oceangate.parkhomes.vn
 oceanmedia.com.vn
 ominsu.vn
+omni.vn
 onemart.vn
 onl.dongphuchaianh.vn
 orderworld.vn
@@ -557,7 +550,6 @@ pacolano.com.vn
 pano4you.vn
 pccc114.vn
 petech.com.vn
-phanphoikangaroo.com.vn
 phformula.com.vn
 phogovip.vn
 phubaotours.com.vn
@@ -635,7 +627,6 @@ secure-apphalifaxupdate-verification-online.hanthinh.com.vn
 secure.bankofamerica.com-login--sign-in-signonv2screen.go.suzukihaiphong.com.vn
 secure.bankofamerica.com-login-sign-in-signonv2screen.go.suzukihaiphong.com.vn
 secure.paypal.com-support-assistance-update-information.flc-quangngai.vn
-sensehome.vn
 senvangvn.vn
 server02.hostngon.vn
 serving-ad.tv24.vn
@@ -692,7 +683,6 @@ stspower.com.vn
 sucom.vn
 sueannbridal.vn
 sunbayhotel.vn
-sundoor.vn
 suntour.com.vn
 superlite.com.vn
 suvin.vn
@@ -701,7 +691,6 @@ t-watch.vn
 t.ants.vn
 tamanlac.vn
 tamco.vn
-tanthanhco.vn
 tanthanhdanh.vn
 tantiengiang.vn
 taopro.vn
@@ -791,7 +780,6 @@ uniad.vn
 unicorndigital.vn
 unitechvn.com.vn
 userstats.shopee.vn
-v1.karofivietnam.vn
 vads.net.vn
 vads.vn
 vag.vn
@@ -799,7 +787,6 @@ vakiapaint.com.vn
 van.info.vn
 vclick.vn
 vcmedia.vn
-vesinhlinhanh.vn
 vesinhnha.com.vn
 vhttdlkv2.gov.vn
 vhvn.vn
@@ -814,7 +801,6 @@ viettelsolutionhcm.vn
 vietviewwindows.vn
 vigreenfarm.vn
 vinhaudio77.vn
-vinhomesq9.vn
 vintagekicks.vn
 visionmedia.vn
 vitinhtienphat.vn

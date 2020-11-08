@@ -13,7 +13,6 @@ casawireless.com.py
 central.edu.py
 cgn.com.py
 ciclopelab.com.py
-cja.gov.py
 clubgourmet.com.py
 consejo.com.py
 dante.edu.py

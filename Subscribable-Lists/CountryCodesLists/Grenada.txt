@@ -10,6 +10,7 @@ counter.gd
 covid--19-shop.rf.gd
 covid19---shop.rf.gd
 covid19-vat.rf.gd
+da.gd
 desbloqueio-online.rf.gd
 dhl-france-service.fr.gd
 diskussionsforen-ebay-de-ws65-ebayisapii.rf.gd

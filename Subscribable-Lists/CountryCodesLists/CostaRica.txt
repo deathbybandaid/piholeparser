@@ -14,7 +14,9 @@ laferia.cr
 line.co.cr
 metal.co.cr
 mx01.dulcefiesta.co.cr
+newslogins.webnode.cr
 nutricion2.ucr.ac.cr
+ppc.eccc.ucr.ac.cr
 resusa.co.cr
 revistas.tec.ac.cr
 revistasoho.co.cr

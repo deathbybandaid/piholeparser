@@ -2,6 +2,7 @@
 6004.ugly.as
 advantage.as
 app.astec.as
+bmi.as
 cort.as
 cpcontacts.drwax.as
 div.as

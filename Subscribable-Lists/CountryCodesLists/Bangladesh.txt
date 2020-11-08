@@ -83,7 +83,6 @@ futureexpress.net.bd
 gangjoarhs.edu.bd
 geudmadrasha.edu.bd
 golabariss.edu.bd
-govsmc.edu.bd
 greaternoakhali.net.bd
 gsmdc.edu.bd
 hanshaigarihsn.edu.bd
@@ -144,6 +143,7 @@ ns1.ruet.ac.bd
 old.ddm.gov.bd
 onlinewellsfargoauthentication.ludiarazaghs.edu.bd
 optimum.com.bd
+pantax.com.bd
 pay.pal.com.imsfcu.ac.bd
 paypal.niadsc.edu.bd
 pdbhsbk.edu.bd

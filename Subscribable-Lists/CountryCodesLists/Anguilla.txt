@@ -26,7 +26,6 @@ m2d.m2.ai
 marketscan.ai
 media.ascend.ai
 participant.ascend.ai
-pluginbot.ai
 porno.ai
 powerad.ai
 proxy.ascend.ai

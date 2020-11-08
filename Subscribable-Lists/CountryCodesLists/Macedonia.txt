@@ -56,12 +56,7 @@ novamed.mk
 oprd.gov.mk
 produkcija-sidor.globalnet.mk
 rstelektrika.mk
-rule-166963139.naim.mk
-rule-399090664.naim.mk
-rule-682815925.naim.mk
 rule-695162694.naim.mk
-rule-705741752.naim.mk
-rule-780295132.naim.mk
 seougostivar.mk
 shimov.com.mk
 sorm.mk

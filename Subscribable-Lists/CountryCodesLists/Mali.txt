@@ -35,7 +35,6 @@
 276551-deu-nutzung-kenntnis-konto_identity.sicherheitssystem-sicherheitsabfrage.ml
 277315-deu-nutzung-sicherheit-benutzer.hilfeservice-sicherheitshilfe.ml
 285741-deu-nutzung-sicher-benutzer.hilfeservice-sicherheitshilfe.ml
-2share4u.ml
 302224-germany-verbraucher-angabe-benutzer.sicherheitshilfe-hilfeservice.ml
 309420-deutschland-verbraucher-sicher-validierung.sicherheitshilfe-hilfeservice.ml
 30hsantencao.ml
@@ -141,6 +140,7 @@ acccount-req11s.regis-fanpage1.ml
 account-limted-info.ml
 account-restro-limted.ml
 account.apple.com.kkcoffee.ml
+accountsecurityhelp.ml
 acelerabr.ml
 acessar-conectarcontapaypal.ml
 acesso-24hrs.ml
@@ -189,6 +189,7 @@ amazon-support-sppapahiseuzc54nqsixbqpcnmmuhqst597o879oukcom.ml
 amazon-support-sppapahiseuzc54nqsixbqpcnmmuhqst897o879oukcom.ml
 amazon-support-sppapahiseuzcmdnqsixbqpcnmmuhqstoreoukcom001.ml
 amazon-support-sppapahiseuzcmdnqsixbqpcnmmuhqstoreoukcom010.ml
+amazon-support-sppapaliseucnmyuesixbaicuejietoreukcom004.ml
 amazon.co.jp.amazon-login.ml
 amazon.co.jp.z8sky3kfy92kau3mvygt9cnieo38xj8h7sawn8.ml
 amazon.com.ap.account.preferredpayment.au-ib.ml
@@ -232,6 +233,7 @@ apps.secure.update-account.jaxuan.ml
 apteka.ml
 ararst-74.ml
 arjzndx.ml
+armengara.ml
 array-bite843.ml
 arubafatturazione.ml
 arun.lavi.ml
@@ -267,11 +269,14 @@ auto-atendimento.ml
 autoatendimento-bb.ml
 autolikesandfreefb.ml
 avaceklpterms.ml
+avisodesegurancaitausms.ml
 avtzofv.ml
 axeldglowtopflow.ml
 axeldlowgclow.ml
 axelklopedtor.ml
 ayjp.sisplm.ml
+ayogabung.whatsapp-199201.ml
+aysagduaysgdiuagsdiao.ml
 azadtehsil.ml
 azorult.botspy.ml
 azxcvb.ml
@@ -365,6 +370,7 @@ bnnvzrz.ml
 bnsjdsd.ml
 bobbyservices.ml
 bokephotwhatsappgrup2020.fiwvw.ml
+bokepviralcrot.ml
 bokepwhatsapp-invitee.wa-jos.ml
 bokepwhatsapp.joinsgroupp.ml
 bolandi.ml
@@ -519,6 +525,7 @@ colorsboss.ml
 com-whatsappapp.4dq-18.ml
 com-whatsappgrupvidhot18.hol99.ml
 comforitgreel.ml
+community-forms-ig.ml
 comparesales.ml
 compendium.ml
 compile499.ml
@@ -543,6 +550,7 @@ copyright-support-help-instagram.ml
 copyrightcustomerservices.ml
 copyrighthelpservices-lnstagram.ml
 copyrightofinstagram.ml
+copyrightscentersupport.ml
 copyrigt-help-security.ml
 corosoos.ml
 cosmoi098.ml
@@ -582,6 +590,7 @@ cvndschwb.ml
 cxgandqf.eaigqddvfzlh.ml
 cxslraz.ml
 cyareview-document.pdf-iso.webapps-security.review-2jk39w92.gymwiso.gq.sonicwl.ml
+daclando.ml
 dadata-71.ml
 dagit.ml
 dailycurrency.ml
@@ -604,15 +613,18 @@ ddft.ml
 de-bitcoin.ml
 de-safe-transaction-pp.ml
 deep-secureinfo.ml
+defn.ml
 demodooplay.ml
 densefox.ml
 dentsplysirona.microsoft-0ffice365.ml
 deposayim.ml
+der-menschen.ml
 desbloquear-online.ml
 destek-turkiye-2020.ml
 deucertoja.ml
 dev-supoort00.regis-fanpageee-confirm.ml
 dfbjkoil.ml
+dfgusydgiasdiauhsdoaiso.ml
 dhlsecureserver7.ml
 di.aruh.ml
 diaoyushang.ml
@@ -695,6 +707,7 @@ ethereum.smart.contract.myeltherwallet.ml
 etimjukonar.ml
 ettta-71.ml
 euro-forest.ml
+eventfreefire2020real.ml
 eventgarena2020.claimfree-diamond.ml
 eventsguru.ml
 eventskin.lucky76.ml
@@ -729,9 +742,11 @@ facebook95.ml
 facebookfanspage-2018.ml
 facebookmessages.ml
 facebooks1.ml
+facebookunblok.ml
 facebookut.ml
 facebookverif.ml
 facebookverificationhelpcenter.ml
+facebookweryfikacja.ml
 faceboookclonepasxxn12.ml
 faceboookclonepasxxn18.ml
 facefake.ml
@@ -745,6 +760,7 @@ fb-security-info.ml
 fb.pages.update.20038846.ml
 fbhelpverification.ml
 fblnstagrambluebadgehelp.ml
+fbweryfikacja.ml
 fectmone.ml
 federalcalendar.ml
 federict.ml
@@ -823,6 +839,7 @@ get-ethereum.ml
 getpopcorn.ml
 getrichquick.ml
 getskinmobilelegends.ml
+gfdgdg-0.ml
 ggdrop1.ml
 ggdrops24.ml
 ggfddf.ml
@@ -883,7 +900,9 @@ grupwhatsappdewasahot1332.wa-log99.ml
 grupwhatsappno625.wa-join.ml
 grupwhatsapps18fullgar.xxip.ml
 grupwhatsappsexnewviral2020.wa-newhot18.ml
+grupwhatssaap.myinfo91.ml
 grupyoutuber20.hansdacosta.ml
+gsagsa-71.ml
 gtafive.ml
 gtrdconnect.ml
 guardbegun11.ml
@@ -915,6 +934,7 @@ help-lnstagram-copyright-center.ml
 help-lnstagramcentersform.ml
 help-pppppp.ml
 helpcenterfacebook.ml
+helpcontactcenter.ml
 helpline4everyone.ml
 helps-mediasupport.ml
 helpserver-instagram-form-105614853501338.ml
@@ -932,6 +952,7 @@ hgzfourow.iefmhwiqjnfus.ml
 hhkfrjr.ml
 hi-shop.ml
 hidr2.ml
+hike1.ml
 hima.ml
 hiyadocs.ml
 hkguy0a-71.ml
@@ -1035,11 +1056,13 @@ instagrambadgescenter.ml
 instagramblueteaksupport.ml
 instagrambluetick-badge.ml
 instagramcopryghthelp.ml
+instagramcoprytgh.ml
 instagramcopyrightalertinfo.ml
 instagramcopyrightshelp.ml
 instagramcopyrightsupportt.ml
 instagramcopyrigtservices.ml
 instagramforbuisness.ml
+instagramhelp-fb.ml
 instagramhelpicenter.ml
 instagramlivesupportteam.ml
 instagramsecurityhelp.ml
@@ -1097,6 +1120,7 @@ jajan-player.ml
 jameskube.ml
 java-brasil.ml
 jeeurte.ml
+jekn.ml
 jentsq.ml
 jentsy.ml
 jianghuchi.ml
@@ -1129,6 +1153,7 @@ joingrouwhatsapp.vvipz5.ml
 joingrubwhatsapp.porno-xxx.ml
 joingrubwhatsapprendygrub2547.maung42.ml
 joingrup091.whatsapp-66785.ml
+joingrup12.whatsapp-702.ml
 joingrup4646.ml
 joingrupbokep23.new-claim7.ml
 joingrupbokepviral2k2030.vidio-virall18.ml
@@ -1139,6 +1164,7 @@ joingrupwhatapps.join-waporn.ml
 joingrupwhatsaap.join-69.ml
 joingrupwhatsapp-khususdewasa.ml
 joingrupwhatsapp.bok3pp.ml
+joingrupwhatsapp.giveawayjutaan93.ml
 joingrupwhatssappbokepviral2k20.vidio-virall18.ml
 joinngrup-whatsapp.joins20.ml
 joinnow-whatsapp18.wa-groups.ml
@@ -1195,6 +1221,8 @@ ksokdofoskf.ml
 kugyvjygt.ml
 kutengokmass.ml
 l0gin-area.ml
+laggissue765.ml
+lalmsswiomi.ml
 laporan-pemblokiran.ml
 lasofoaf.ml
 laszurabsaxiopolinga.ml
@@ -1236,9 +1264,11 @@ lmn-securesharepoint.ml
 lmt.emthly.ml
 lnfo-instgram-center.ml
 lnstagram--verify.ml
+lnstagram-bluebadges-verify-about-verify-my-account-com.ml
 lnstagram-captial-media.ml
 lnstagram-central.ml
 lnstagram-client-support-analyst.ml
+lnstagram-com-p-ctaub3qli-f-utm-sourceig-web-copy-link.ml
 lnstagram-contactverifiedbadge.ml
 lnstagram-copyright-contact.ml
 lnstagram-copyright-help-a3623vas436-va6f63a6ogsa241.ml
@@ -1262,6 +1292,7 @@ lnstagramcoprightsupport.ml
 lnstagramcopyrighteamm.ml
 lnstagramcopyrightsforum.ml
 lnstagramcopyrighty.ml
+lnstagramforhelpcenter.ml
 lnstagramhelpceoter.ml
 lnstagramhelperscenter.ml
 lnstagramhelpmediacenter.ml
@@ -1271,6 +1302,7 @@ lnstagramservice.ml
 lnstagramsuportsercives.ml
 lnstagramsupportsweb.ml
 lnstagramverificationbadge-form.ml
+lnstagramverifiedbadgesform.ml
 lnstagramverifiedhelper.ml
 lnstagramverifybadgescenter.ml
 lnstagramverifybadgeteam.ml
@@ -1330,15 +1362,18 @@ magalupromocional.ml
 magalusuperofertas.ml
 magic4.ml
 mail.grupbwhatsapp.help-glory99.ml
+mail.joingrup769.whatsapp-995.ml
 mail.wa-bokep.sexnew-update2020.ml
+mail.whatsappgroup.masuk-disini.ml
 maindf.ml
+maintin.ml
 mainuntdswqemainpog.ml
 maisvantagens-itaucard.ml
 maitland.ml
-malayetech.ml
 malimoncton.ml
 mamcmfs.ml
 managesummaryerik-apl2222.ml
+managesummaryerik-apl555.ml
 managesummaryerik-apl99.ml
 manmarzis.ml
 manually504.ml
@@ -1426,6 +1461,7 @@ myeltherwallet.ml
 myhealthreview.ml
 mylogicbd.ml
 mynewwebsite.ml
+myportalsupport.ml
 myserversss.ml
 myslohochpinn.ml
 mytestingserver.ml
@@ -1700,6 +1736,8 @@ oult.ml
 outlookwebapp.zerockexpress.ml
 outmazx.ml
 owa.voicecloudlinks.ml
+owcalfcomp.ml
+oziltestfw.ml
 pablofile.ml
 page-acount-disabled.ml
 page-confrim-safe.ml
@@ -1749,6 +1787,7 @@ pemulihanfacebook2020.pemulihan-fb.ml
 peopvilaz.ml
 peppecrafth.ml
 perline.ml
+perryqueenschat.ml
 persoonlijk.knab.nl.v8005furwx.ml
 perubakes.ml
 peruzonasegura.ml
@@ -1760,7 +1799,6 @@ pinarvana.ml
 pinkwapes.ml
 pitj.ml
 pkkmisl.ml
-platzi.ml
 plus-business.ml
 pmljvu.sisplm.ml
 poaxe.ml
@@ -1804,6 +1842,7 @@ proxy.mineshaft.ml
 prutixb.ml
 psnlptt.ml
 pubgm-reward.event-zxpub.ml
+pubgmobiilee.ml
 pubgs152025.ml
 pubsmobile.ml
 puntaspararejas.ml
@@ -1849,6 +1888,7 @@ ranemarkte.ml
 rangedata.ml
 raymondbryanloanfirm.ml
 rbctheroyalone.ml
+rdxshort.ml
 reapernews.ml
 recheckpaqes-notifications.ml
 recheckpaqes-notifications2.ml
@@ -2041,7 +2081,9 @@ sicredi-on.ml
 sicurezza-41321852158992158020.secureformi.ml
 sign-in-help.ml
 signin-ebay.ml
+sigup-fb.ml
 silj.ml
+singlesmingleschat.ml
 siteffd.ml
 sittingonthemove.ml
 sk1n4-csgo.ml
@@ -2074,6 +2116,7 @@ spoorthy.ml
 squareenixcom.ml
 ssceaf.kbgswwogodd.ml
 ssl.istore-recheckbill-idwmid46589.sslservices110mb7025646548.cecdev.ml
+sso.godady.com.notice01.ml
 ssupportervicespartners.ml
 steambran.ml
 steamc0mmuhity.ml
@@ -2183,6 +2226,7 @@ thugesh.ml
 tiabufomduy.ml
 tigbg.ml
 tiktokpopuleracounts.ml
+tindertwerk.ml
 tioest-771.ml
 tioguards.ml
 tlfdnkgsitepog.ml
@@ -2205,7 +2249,9 @@ trepgtd.ml
 trietrre.ml
 tritonltd.ml
 troshjix.ml
+trtghns.ml
 trustgiveaway.ml
+tryucvb.ml
 tubeqq.ml
 tudoquecabeemseubolso.ml
 tuoilolmadieak.ml
@@ -2279,6 +2325,7 @@ verificationxauth-incoming-paymentpaypal-idghmkg4znoi.ml
 verificationxauth-incoming-paymentpaypal-idghmkg5znoi.ml
 verified-instagramsupport.ml
 verifiedbadge-lnstagram.ml
+verifikasi-unblock.ml
 verifikasi-zuck.ml
 verifikasi.juuse.ml
 verify-help-badge-center.ml
@@ -2321,6 +2368,7 @@ vreew1.ml
 vrefrt.ml
 vvusajua.ml
 w2bancodchile.afiliaciones.ml
+wa-logs.ml
 wabmail-jazz-com-4443-oaam-server-login-do.ml
 wachtsgroups.frezze.ml
 wagrubbkp671.nett13.ml
@@ -2397,6 +2445,7 @@ whatsappjoin.glosgel.ml
 whatsappjoingroupnew2002.ml
 whatsappporn2020.ml
 whatsappviral.vvipv.ml
+whatsppjoingrup.ml
 whattsapwa109-chansgansk.nett13.ml
 whistmenrimul.ml
 whtssapp.ml
@@ -2416,6 +2465,7 @@ wszystkowpolsce.ml
 wtwetwerq.ml
 wupx.ml
 wwment.ml
+www-infohelpcopyright.ml
 www-paypal.com-webapps-cgi-resolveaccount-secure.com-webappsmppaccount.ml
 www-whatsapp-budi01gaming-com.garenafree-fire99.ml
 www.aifetxe.ml

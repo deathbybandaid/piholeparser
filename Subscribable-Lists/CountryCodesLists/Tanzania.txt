@@ -28,6 +28,7 @@ imalaseko.win.co.tz
 imperialmedia.co.tz
 ingenuityworks.co.tz
 itravel.co.tz
+jobplan.co.tz
 journal.tgeeks.co.tz
 kiitec.ac.tz
 kwetukumenogatz.co.tz
@@ -67,7 +68,6 @@ telemedics.co.tz
 tiesco.co.tz
 tracker.co.tz
 unityinsurance.co.tz
-utv.co.tz
 wamisionariwakatoliki.or.tz
 weberms.co.tz
 wedding.co.tz

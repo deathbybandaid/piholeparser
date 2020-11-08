@@ -132,6 +132,7 @@ ea.hofmann.pt
 eapformacao.pt
 ebanking.suncoastcreditiunion.ebanking-services.com.dabacori.pt
 ebanking.suncoastcredltunion.com.us-en.login-form.dabacori.pt
+ebay-signin.verkaeuferportal.de-ws-isaplild.cripta.pt
 ecopaint-portugal.pt
 eduambiental.cm-porto.pt
 edupa.pt
@@ -174,7 +175,6 @@ humorcartoes.com.sapo.pt
 humortadelacartoes.com.sapo.pt
 idealpesca.pt
 identisoft.pt
-ihmais.pt
 ikwyd.analytics.sapo.pt
 impressoras-cartoes.com.pt
 inaceinox.pt
@@ -200,7 +200,6 @@ lojaonline.eurobar.pt
 lubrinor.pt
 lusosteel.pt
 lxway.pt
-mail.inatel.pt
 mainlis.pt
 mapas.hoonicorns.pt
 marketingdigitalonline.com.pt
@@ -224,7 +223,6 @@ mkt.publico.pt
 mlpoint.pt
 mlribeiro.pt
 mobile.bet.pt
-montanamaria.pt
 mood-stitches.pt
 motelemportugal.pt
 motelosonho.pt
@@ -318,12 +316,12 @@ soh.rd.sl.pt
 sonae.companyplus.pt
 sonhodosavosinhos.pt
 spedycargo.pt
+sportugal.pt
 st.pba.xl.pt
 stbb.pt
 sucessenvolve.pt
 suncoastcreditunion.ebanking-services.com.dabacori.pt
 suncoastcreditunion.ebanking-services.com.us.dabacori.pt
-sushiclass.pt
 switch.pt
 tascadojoel.pt
 tcmedia.pt

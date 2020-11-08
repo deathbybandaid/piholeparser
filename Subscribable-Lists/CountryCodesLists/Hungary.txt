@@ -264,7 +264,6 @@ general1245.pe.hu
 geoip.p24.hu
 gerlaiovisok.hu
 gewissguard.hu
-glerry32.nhely.hu
 glezmen.hu
 gmcount.pe.hu
 goldengate.hu
@@ -584,6 +583,7 @@ szexneked.hu
 szexplaza.hu
 szexrandi.hu
 szexshop.hu
+szfe.hu
 szin-jatekos.hu
 szinek.hu
 szinesgyongyok.hu
@@ -670,6 +670,7 @@ vkfreegolosa.pe.hu
 vkk-supported-help.pe.hu
 vkvk.pe.hu
 volkswagen-alkatresz-bonto.hu
+vwmaster.hu
 w4youplusz.hu
 waterbay.hu
 weberteam.hu

@@ -113,7 +113,6 @@ mpmec.co.th
 mrcurtain.co.th
 mrs.ac.th
 mrtrecycling.co.th
-newdimension.co.th
 nfc-sukhothai.or.th
 nhc13.kku.ac.th
 nhongteennok.go.th
@@ -131,6 +130,7 @@ osh2.labour.go.th
 paco.co.th
 paknakhon.in.th
 pantukam.bsru.ac.th
+patcharee.asclb.ac.th
 petkasem.ac.th
 ph.sci.lru.ac.th
 phatthalung.go.th

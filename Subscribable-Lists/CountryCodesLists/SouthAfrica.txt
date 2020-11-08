@@ -164,7 +164,6 @@ bobevents.myap.co.za
 bodenstein.co.za
 bodyevo.co.za
 bodygrace.co.za
-bodyinnovation.co.za
 bokgabanesolutions.co.za
 bonnievalewines.co.za
 boogieroom.co.za
@@ -409,6 +408,7 @@ fibresat.co.za
 filadestor.co.za
 fillmprodsinfo.co.za
 findacontractor-za.co.za
+fireballinvitational.co.za
 firm.keeptrodding.co.za
 first-fruits.co.za
 fitness.org.za
@@ -452,7 +452,6 @@ gcvde.org.za
 gdhsa.co.za
 gdsfes.bondflowe.co.za
 gdvca.co.za
-geehost.co.za
 geekdeer.co.za
 geldartwoodcraft.co.za
 gemeli.co.za
@@ -534,6 +533,7 @@ howcanweprotectyou.co.za
 howzatmedia.co.za
 hrmonline.co.za
 hsbekker.co.za
+huntington.harmonysolutions.co.za
 i-mediate.co.za
 ib-absab.co.za
 iconga.co.za
@@ -652,6 +652,7 @@ lowveldcompressors.co.za
 lungwetechnologies.co.za
 lwazitech.co.za
 lwirecruitment.co.za
+m.login.facebook.com.khayamandi.co.za
 maccubedholdings.co.za
 magicmaid.co.za
 magicpeople.co.za
@@ -678,7 +679,6 @@ mascuts.co.za
 mask.org.za
 matildas.co.za
 matrixwharehouse.co.za
-mavhengs.co.za
 mbcconnection.co.za
 mbet.co.za
 mcditworx.co.za
@@ -687,6 +687,7 @@ mcpf.co.za
 mcvapes.co.za
 mdqassessing.co.za
 medicalaidgymbenefit.co.za
+medicalcpd.co.za
 medicompare.co.za
 medleymaids.co.za
 meget.co.za
@@ -740,10 +741,10 @@ mrpost.co.za
 ms1-za.co.za
 msarchitects.co.za
 msizartech.co.za
+msrhs.co.za
 msupdater.co.za
 mtamail.co.za
 multinetworks.co.za
-muscleman.co.za
 musgraveracing.co.za
 mvulabnb.co.za
 myadsl.co.za
@@ -775,7 +776,6 @@ nichuizen.co.za
 nicoladrabble.co.za
 nokelightbulb.co.za
 nomad4x4sa.co.za
-norick.co.za
 noscratch.co.za
 notify-email-client.co.za
 npmovers.co.za
@@ -809,7 +809,6 @@ ourma.co.za
 ourmedicalaid.co.za
 ox.mybroadband.co.za
 oyenwanprojects.co.za
-ozonerenovaters.co.za
 p.pypl-checkinformation.betscapital.co.za
 p4plumbing.co.za
 pagelaw.co.za
@@ -830,7 +829,6 @@ pentacompza.co.za
 pepepiatto.co.za
 perfect10westwood.co.za
 personastaff.co.za
-petlele.co.za
 petrievnphotography.co.za
 phdesign.co.za
 phuthamafrica.co.za
@@ -1129,6 +1127,7 @@ sunroyalproducts.co.za
 sunviewblinds.co.za
 supportsecurityupdates.we-wood.co.za
 suzaanenfrancois.co.za
+sweetpineapple.co.za
 sycamorecottage.co.za
 syctradingntransport.co.za
 tabgold.co.za
@@ -1196,7 +1195,6 @@ tuliptravel.co.za
 tyehis.linkgaeltdz.co.za
 ubuhlebezwe.org.za
 ubuntusocietyfx.co.za
-ufero.co.za
 ukfdecap.co.za
 ukfdecapkoct.co.za
 uknwdomaz.co.za
@@ -1240,9 +1238,7 @@ voobzfreight.co.za
 vulasafety.co.za
 waaris.co.za
 wahldental.co.za
-wanderlustmedia.co.za
 waooyo.co.za
-warriorsicehockey.co.za
 waste-bins.co.za
 wct.co.za
 wealthmanysns.co.za

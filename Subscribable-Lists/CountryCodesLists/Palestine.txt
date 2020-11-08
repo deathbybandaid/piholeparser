@@ -15,10 +15,7 @@ fbook-87410688.almajd.ps
 fbook-93167133.almajd.ps
 fbook-98068409.almajd.ps
 flag-09604382.royal-eng.ps
-flag-19436048.royal-eng.ps
-flag-24167805.royal-eng.ps
 flag-37212174.royal-eng.ps
-flag-84857437.royal-eng.ps
 flag-93721531.royal-eng.ps
 flag-fbook-093100060.asayel.ps
 flag-fbook-116269470.asayel.ps
@@ -46,16 +43,14 @@ flag-fbook-973759495.asayel.ps
 flag-fbook-976017781.asayel.ps
 flag-fbook-985508581.asayel.ps
 freedom.ps
-gateway.royal-eng.ps
 gazacham.ps
 init.ps
 isso.ps
 kutla.ps
 laptop.com.ps
-mailhost.royal-eng.ps
+loyality.alsaqqa.ps
 masader.ps
 mobadarat.ps
-ms.royal-eng.ps
 nabali.ps
 off.fbook-90801813.almajd.ps
 pioneer.ps
@@ -66,6 +61,5 @@ report-14178777.nabalifares.ps
 report-15043066.nabalifares.ps
 report-83047937.nabalifares.ps
 report-84256296.nabalifares.ps
-wldcard.royal-eng.ps
 zane.ps
 zediah.ps

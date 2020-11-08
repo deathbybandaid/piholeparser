@@ -12,6 +12,7 @@
 198696-deu-verbraucher-angabe-validierung.sicherheitsvorbeugung-vorbeugung.cf
 1limited-account.cf
 1nstagram-supp0rt.cf
+20-groups.cf
 200452-deu-gast-sicher-account.sicherheitsabwehr-sicher.cf
 203660-germany-storno-angabe-benutzer.vorbeugung-sicher.cf
 20387638.cf
@@ -78,6 +79,7 @@
 986731-germany-prob-mitteilung-benutzer.sicherheitsvorbeugung-hilfeservice.cf
 99proxy.cf
 aapfbbseguro.com.br-aapf-login.cf
+abg-xnxx.whatsapp-login26.cf
 abulechaxone.cf
 acccountpage1222.confrimsuportfanpage9888.cf
 access-recovery-pp-de.cf
@@ -88,6 +90,7 @@ accounts.xn--gogle-jye.cf
 accountsadobe.cf
 accountverifie.cf
 acesso-bb-online.cf
+achekcprotect-paqes35632.cf
 acme-challenge.cf
 acontdisabeldsacme0011.cf
 acontdisabeldsacme0012.cf
@@ -299,6 +302,7 @@ budi01-gaming.whatsapp-20join.cf
 budoro.cf
 bugs-71.cf
 bujetzt.cf
+buka-pemblokiran20.cf
 buscaloaqui.cf
 butland.cf
 buv2014.cf
@@ -338,6 +342,7 @@ chat-groupwhatsapp.grups-cht.cf
 chat-grupwhatsapp8.dnvnt.cf
 chat-watsaap-18.jooiinn.cf
 chat-whatsaap33.cf
+chat-whatsapp-048.cf
 chat-whatsapp-bokep18.orgg.cf
 chat-whatsapp-free-fire.bundle66.cf
 chat-whatsapp-join-grub-bokep.join-bkeps10.cf
@@ -393,6 +398,7 @@ click-on-recover.cf
 client-helplnstagram.cf
 client-verizon.cf
 clientsupportcenter.cf
+clientsverifiedbadgesupport.cf
 clip-hay.cf
 clooinfor.cf
 cnn.datapath-uk.cf
@@ -546,7 +552,6 @@ eusnex.cf
 ev0lve.cf
 ewfplkgb.cf
 ewoaktu-71.cf
-ewpoatk-71.cf
 ex2life.cf
 exhaustivecovid-19.cf
 expeditiongroup.cf
@@ -568,7 +573,9 @@ facebook79.cf
 facebookku.hollscc.cf
 facebooklogin.krubs58.cf
 facebooks1.cf
+facebookunblok.cf
 facebookvideosok.cf
+facebookweryfikacja.cf
 facedook.cf
 fanspage.recovery-accounts.cf
 farrto-71.cf
@@ -576,16 +583,20 @@ fatalerror.cf
 fatturazionearuba.cf
 favourofgod.cf
 fb-account-notification.cf
+fb-imrecovery-0000000008767hk.cf
 fb-security-page.cf
 fb.rfgrgdsgfesfes.cf
 fbsafesecure.cf
+fbss-imporveter-000044443343.cf
 fbverifydenied.cf
 fbview4.cf
+fbweryfikacja.cf
 fdnkjdfbkhdfbkhdbkd.cf
 fdsauft.cf
 fdugfudghjvbehrbjkebkjvehjvks.cf
 federicq.cf
 fefykawicyky.cf
+fejs.cf
 ferivypages-reconfrims.cf
 ffaykuck.cf
 fgts-saldoinativo.cf
@@ -620,13 +631,16 @@ ftytr.cf
 fucabook.cf
 funnyheart.cf
 fv-gwapxp.cf
+gabung.whatsapps-group.cf
 gabunggrupwhatsapp.login-now-89.cf
 gadgmyi.cf
 gagalicioes.cf
+ganaseguidores.cf
 garniermens.cf
 gasurgabusiness.cf
 geikbbh.cf
 geos1.cf
+getandclaim.cf
 getsnapleaksnow.cf
 getsx.cf
 ghadtanter.cf
@@ -729,6 +743,7 @@ helplnstagramchannel.cf
 helprecover.cf
 helps-122.verifikasi-fanpage-suport982.cf
 herehloadibs.cf
+hhatyui-71.cf
 hhkfrjr.cf
 hilfeservice-sicherheitssystem.cf
 hilltopdom.cf
@@ -800,6 +815,7 @@ instagram-verif-2020.cf
 instagram-verifiedbadge-com.cf
 instagram-verifiedbadges91929.cf
 instagram-verifty.cf
+instagram-violation-helps.cf
 instagram-whatshapp-business.cf
 instagram.com.iogin.cf
 instagram.helpteam.cf
@@ -829,6 +845,7 @@ inv-seniorcarecentersltc-auth-page.cf
 inv-swltc.cf
 invite.whatsapp-me.cf
 invitechat18.cf
+invitegrup-18.cf
 iotiot.cf
 iowa.apple-itunes.cf
 iqiiqiqiq.cf
@@ -876,6 +893,7 @@ join-whatsaap-18.myxyz.cf
 join-whatsapp-group.fund-friends.cf
 join-whatsappgrupvokep18.ffindo-11.cf
 join.whatsappyu.boksexy.cf
+join010203grup.whatsapp-702.cf
 joinbokepterbaru.grup69.cf
 joingroupwa.chatxx-18.cf
 joingrub.wa-grubs17.cf
@@ -1010,6 +1028,7 @@ login-fb47.cf
 login-rakuten.cf
 login-sec-apple-secure-account-updated.cf
 login-sigup2021.cf
+login-surrel.cf
 login-url-app.cf
 login.blockchain.com1902736283.cf
 login.cgi-bin-webscr-cm.eihbank.cf
@@ -1051,10 +1070,12 @@ magplant.cf
 mail.budi01-gaming.cf
 mail.chatwhatsappgroupbkp.joinskuy.cf
 mail.facebu0k.cf
+mail.groupbpswhatsapp.xxxjoin.cf
 mail.grubmabarwhatsapp01.acara719.cf
 mail.joingrup0018.whatsapp-78.cf
 mail.totalpackagingsolutions.cf
 mail.verifylogin.cf
+mail.whatsapp18.grup-bkp.cf
 mailingserv.cf
 maisamericanasuavida.cf
 major-hub.cf
@@ -1080,6 +1101,7 @@ mcredi.cf
 mdlznke.cf
 megabanners.cf
 mehmmus.cf
+mekibasah.whatsapp-751.cf
 memotech.cf
 meribatsuno.cf
 merletwd.cf
@@ -1142,6 +1164,7 @@ nemelg.cf
 nepossupport.cf
 netflix-br.cf
 netflixautopay.cf
+netflixdestek.cf
 netsosifi.cf
 networkrx-shop365.cf
 networkrxbuy724.cf
@@ -1168,7 +1191,6 @@ notificationspages.cf
 notificationsupdate.cf
 notificationyourspage.cf
 notificatiopages.cf
-nowjoingrupwainvited.cf
 nurabomefozafe.cf
 nvfjvtntt.cf
 nwalldmntoaccssndcnnct.cf
@@ -1277,7 +1299,9 @@ pdmslrn.cf
 pearlmanxz.cf
 peck-numerous.cf
 pemblokiran-data-facebook.cf
+pemblokiran-login-facebook.cf
 pemulihanfacebookapp2020.pemulihan-fb.cf
+pencegahanblokirfb.cf
 peoplemeet.cf
 peppecrafte.cf
 peppecraftt.cf
@@ -1286,6 +1310,7 @@ perfume.cf
 perfumeho.cf
 persiih.cf
 personal-sitcherheit.cf
+persoonlijk.knab.m5bh7zizk7wyxbs.cf
 pezinok.cf
 pezzi-affumicate.cf
 phelosiphe-71.cf
@@ -1302,6 +1327,7 @@ polkihyuj.cf
 pooling.cf
 poqujimev.cf
 pornxx.cf
+portal.owavoicedrive.cf
 portalmobilebb.cf
 potencia.cf
 pp-daten.cf
@@ -1403,6 +1429,7 @@ roundcubeserveradm-srvr.cf
 rpg-71.cf
 rugu.cf
 ruksnabaji.cf
+ruleviolation-verifications.cf
 rurxrefillseek365.cf
 rxcenter-extra365.cf
 rxnetpreferred365.cf
@@ -1471,6 +1498,7 @@ signin.ebay.de.id60.cf
 signin.ebay.de.id67.cf
 signin.ebay.de.id91.cf
 signin.ebay.de.server3.cf
+sigup-facebook.cf
 singnata.cf
 sirascercrac.cf
 sisexy.cf
@@ -1482,6 +1510,7 @@ skullservices.cf
 slimfile.cf
 smartdocuments.cf
 smbc-card-com-index-jsp001.cf
+smilerede.cf
 snukerison.cf
 so-netell-so.cf
 soakokofk.cf
@@ -1518,6 +1547,7 @@ steanconmunity.cf
 stevevalide.cf
 stiimcanmuniti.cf
 subloader.cf
+sucursalpersonasdesb.cf
 sucursalvirtualpersonasrestablecimiento.cf
 suhfuhs.cf
 summarycheckpoint.cf
@@ -1581,6 +1611,7 @@ thefigurebelowand.cf
 thehangpower.cf
 theysay-71.cf
 thiiiioo.cf
+tinjaudataloginfacebook.puy7.cf
 tinticocoby.cf
 tintuccovidmoinhat.cf
 tonnacticus.cf
@@ -1597,12 +1628,14 @@ tranursnlmb.cf
 trasoto.cf
 trickmovieyw.cf
 tryfast-v52.cf
+tung-shu.cf
 tungyu.cf
 tused.cf
 tutai.cf
 twanstore.cf
 tyjunin.cf
 ubbvkzn.cf
+ubinqu3s0t.cf
 uelandoran.cf
 ugoiusosf.cf
 uhpsekh.cf
@@ -1644,6 +1677,7 @@ valvegiveaway.cf
 vannisteroy.cf
 vassakta-y71.cf
 vbxfdgrt.cf
+velvefr90d.cf
 velvociamicxkopfbnob.cf
 verifacountsfb0.cf
 verification-com-secureonline-server.cf
@@ -1651,11 +1685,14 @@ verification.account-reminder.solved-id.cf
 verification.prima2.cf
 verificationbadgesinstagram.cf
 verified-badge-instagram-whatshapp.cf
+verified-lnstagram.cf
 verifikasi-facedook0965.cf
+verifikasi-unblock.cf
 verifikasihh-pemblockiraan.cf
 verify-it-here.cf
 verifybadgehelpcenter.cf
 verifyhelpcenter.cf
+verivikasi.fego-xfb.cf
 veromcashopping.cf
 viacolors.cf
 vidious5.cf
@@ -1672,6 +1709,7 @@ vivalingard.cf
 vjgnxuo.cf
 vklyfem.cf
 vkontalkte.cf
+vkoolinee1012.cf
 vlmrtdm.cf
 vn-share.cf
 vnzhjfoaf.cf
@@ -1852,6 +1890,7 @@ xcnn.bariqarabions.cf
 xecop.cf
 xelorknife.cf
 xfbolv.cf
+xiangli27yhe.cf
 xis-six.cf
 xjock4evej.cf
 xlmmsdt.cf
@@ -1888,6 +1927,7 @@ yourpagesupdale.cf
 yourpagesupdate.cf
 yourspagesupdale.cf
 yourspageupdate.cf
+youtubersfreefire.whatsappsh.cf
 yromszady.cf
 ysfzois.cf
 yspihdy.cf
@@ -1914,4 +1954,5 @@ zodldoc.cf
 zonasegura-zopremiadoclientesvipbccp.cf
 zonaseguramovil.cf
 zsqwwxcgtyu.cf
+zweryfikuj.cf
 zxdtdhl.cf
