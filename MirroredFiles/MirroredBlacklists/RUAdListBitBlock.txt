@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: JRD3/lzJEqCs+W1n+bshbg
-! Version: 202011080020
+! Checksum: 2LaVkCAMB+9OzO6V986m2A
+! Version: 202011090020
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 08 Nov 2020 00:20 UTC
+! Last modified: 09 Nov 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -980,6 +980,7 @@ tonkosti.ru##.social-friends
 spletnik.ru##.social-hot
 ostro.org##.social-icon-footer
 ostro.org##.social-icon-top
+newxboxone.ru##.social-icons-item
 rfpl.org##.social-index
 livemaster.ru##.social-like-banner
 newstube.ru##.social-like-it
@@ -4260,6 +4261,7 @@ _revotas_push.
 ##.PushNotification--top
 ##.PushNotification-popover-dialog
 ##.b-notification-push
+##.bk-wonderpush
 ##.bs-push-noti
 ##.bubble-push
 ##.c-push-notification
@@ -11250,6 +11252,7 @@ _youtube_social_
 ##.bl_tweets
 ##.blip-follow-us
 ##.blk-form-social
+##.bloc-article-partage
 ##.bloc-info-facebook
 ##.bloc-info-twitter
 ##.bloc-share
@@ -13882,6 +13885,11 @@ _youtube_social_
 ##.ico_google
 ##.ico_gplus
 ##.ico_pinit
+##.ico_round-dailymotion
+##.ico_round-facebook
+##.ico_round-linkedin
+##.ico_round-twitter
+##.ico_round-youtube
 ##.ico_share
 ##.ico_shr
 ##.ico_social_gruppo
@@ -14647,6 +14655,7 @@ _youtube_social_
 ##.like_block_rendered
 ##.like_box_holder
 ##.like_box_slideup_close
+##.like_box_widget_facbook
 ##.like_button
 ##.like_buttons
 ##.like_share.left
@@ -16287,6 +16296,7 @@ _youtube_social_
 ##.share-inline-footer-reddit
 ##.share-inner
 ##.share-instagram
+##.share-interaction
 ##.share-it
 ##.share-item
 ##.share-item--google
@@ -21065,6 +21075,7 @@ api.oneall.com,lanik.us#@##button_twitter
 digg.com#@##digg-widget
 digg.com#@##digg_module
 digg.com#@##digg_upcoming_content
+nextdoor.com#@##facebook-button
 itweb.co.za#@##facebook-icon
 break.com#@##facebook_btn
 asian-u.com#@##facebook_button
@@ -23567,6 +23578,7 @@ _backToTop.
 ###taboola-homepage-thumbnails
 ###taboola-horizontal-toolbar
 ###taboola-horizontalx4-responsive
+###taboola-mobile-above-article-thumbnails
 ###taboola-native-right-rail-thumbnails
 ###taboola-right-rail
 ###taboola-right-rail-text-right
@@ -25947,6 +25959,7 @@ _backToTop.
 ###gotop
 ###gototop:not(body)
 ###gp-to-top
+###imPageToTop
 ###img_goTop
 ###infinite-footer-back-to-top-button
 ###int-btn-top
@@ -26045,6 +26058,7 @@ _backToTop.
 ###tornasu
 ###tothetop
 ###tothetopbtn
+###totop-btn
 ###totop-scroller
 ###totopBtn
 ###totopscroller
@@ -26330,6 +26344,7 @@ _backToTop.
 ##.os-back-to-top
 ##.oui-back-to-top
 ##.p-pagetop-btn
+##.page-to-top-visible
 ##.pagetop-btn
 ##.pb-back-to-top
 ##.pdb-footer-topbar-backtotop
