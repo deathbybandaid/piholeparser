@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ZL+ZtPvO8zlpzHpRzdVv+A
-! Version: 202011090021
+! Checksum: 8bEMySnW7TJZ099sIYdZtw
+! Version: 202011100021
 ! Title: Fanboy's Annoyance List
-! Last modified: 09 Nov 2020 00:21 UTC
+! Last modified: 10 Nov 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -20725,6 +20725,7 @@ _site_cookie_
 ##.widget-social
 ##.widget-social-counter
 ##.widget-social-facebook
+##.widget-social-follower
 ##.widget-social-icons
 ##.widget-social-links
 ##.widget-social-twitter
@@ -33543,6 +33544,7 @@ _site_cookie_
 ||aimtell.com^$third-party
 ||alertme.news^$third-party
 ||amazonaws.com/cdn.aimtell.com/
+||aswpsdkeu.com^$third-party
 ||aswpsdkus.com^$third-party
 ||bildirt.com^$third-party
 ||bmfeed.ru^$third-party
@@ -37993,6 +37995,7 @@ bloombergquint.com##.authoritative__section
 dexerto.com##.b--charlie.ba
 cointelegraph.com##.b-new-subscribe
 cointelegraph.com##.b-post-subscription
+oilprice.com##.background_lozad
 hopesandfears.com,osu.edu##.banner
 bloombergquint.com##.banner-link
 wired.co.uk##.bb-button
@@ -44258,6 +44261,7 @@ ogrtorino.it##.sc-dxgOiQ
 larrysmith.it##.scroll-banner
 teleradiopadrepio.it##.spu-bg
 close-up.it##.stickyFooter
+bmwautoclubitalia.it##.t657__wrapper
 boxannunci.com##.terms
 regalideidesideri.it##.topBanner__content
 ingdirect.it##.topalertbanner
