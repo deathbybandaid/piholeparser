@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: YsC65loCfgALHWjKJFbouQ
-! Version: 202011100020
+! Checksum: Ibi6b/g20h+Es0wvDCwa7Q
+! Version: 202011110020
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 10 Nov 2020 00:20 UTC
+! Last modified: 11 Nov 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -862,7 +862,7 @@ vo-dela.su##.scrolled > .widget_html_block
 www.gismeteo.ru#?#.section-item:-abp-has(> .section-title ~ .social-buttons)
 online-mult.net##.sh_pt
 zi.dn.ua##.shar-title
-1743.ru,amurmedia.ru,bbc.com,bibliofond.ru,brovary.net.ua,businessman.ru,doramax.net,eaomedia.ru,europaplus.ru,glavcom.ua,govoritmoskva.ru,gts.tv,hdkinoteatr.com,inforesist.org,interior.ru,irkutskmedia.ru,kirov.online,krasnodarmedia.su,krasnoyarskmedia.ru,kurs.com.ua,magadanmedia.ru,native-english.ru,ntsk.ru,orki.ru,orsk.ru,overclockers.ua,pkzsk.info,primamedia.ru,ria.ru,rusonline.org,sakhalinmedia.ru,sdamgia.ru,sevastopolmedia.ru,sfera.fm,sharij.net,sverhestestvennoe.club,syl.ru,tele.ru,tet.tv,ua-football.com,ulanmedia.ru,upl.uz,ussurmedia.ru,vgtimes.ru,voxpopuli.kz,yakutiamedia.ru##.share
+1743.ru,amurmedia.ru,bbc.com,bibliofond.ru,brovary.net.ua,businessman.ru,doramax.net,eaomedia.ru,europaplus.ru,glavcom.ua,govoritmoskva.ru,gts.tv,hdkinoteatr.com,inforesist.org,interior.ru,irkutskmedia.ru,kirov.online,krasnodarmedia.su,krasnoyarskmedia.ru,kurs.com.ua,magadanmedia.ru,native-english.ru,ntsk.ru,orki.ru,orsk.ru,overclockers.ua,pkzsk.info,primamedia.ru,ria.ru,rusonline.org,sakhalinmedia.ru,sdamgia.ru,sevastopolmedia.ru,sfera.fm,sharij.net,sinkovskoe.ru,sverhestestvennoe.club,syl.ru,tele.ru,tet.tv,ua-football.com,ulanmedia.ru,upl.uz,ussurmedia.ru,vgtimes.ru,voxpopuli.kz,yakutiamedia.ru##.share
 my.kaspersky.com##.share > :not(.share-link)
 liwihelp.com##.share > a[onclick*="sharer"]
 cross.expert##.share-auth
@@ -2218,6 +2218,7 @@ _userbar_$image
 ||promote.opera.com^$third-party
 ||pubapi.viqeo.tv^$domain=mail.ru|sportmail.ru
 ||pulse.mail.ru^$domain=~pulse.mail.ru
+||rambler.ru/manifest.json
 ||rambler.ru/static/recommender.js$domain=championat.com|gazeta.ru
 ||rbk.ru^*/fn/_poll-popup.js
 ||rcm.rambler.ru^$domain=championat.com|gazeta.ru
@@ -3350,6 +3351,8 @@ sports.ru#?#article > .news-item__content > p:-abp-has(a[href^="https://trbna.co
 animaunt.org##article > .sub-info > .button
 sports.ru#?#article.piwikTrackContent:-abp-has(a[href^="https://trbna.co/"])
 sports.ru#?#article.piwikTrackContent:-abp-has(span:-abp-contains(Спецпроект))
+livejournal.com##article[class*="entryunit--feedpromo"]
+livejournal.com##article[id^="b-friendstimes-item-ad-"]
 www.fontanka.ru##aside + div > section + aside > div[class]:nth-of-type(-n+2)
 eg.ru##aside > noindex
 kino-teatr.ua##aside a[href^="https://play.google.com/"]

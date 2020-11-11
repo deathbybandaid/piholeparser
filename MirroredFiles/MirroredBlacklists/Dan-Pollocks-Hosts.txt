@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 09 Nov 2020 at 04:23:51 GMT
+# Last updated: Tue, 10 Nov 2020 at 00:37:15 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2821,6 +2821,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 s4d.in
 0.0.0.0 safedownloadcenter.com
 0.0.0.0 safedownloadsrus166.com
+0.0.0.0 saletrybest.su
 0.0.0.0 sazadubo48.bid
 0.0.0.0 sc-spyware.com
 0.0.0.0 scan.antispyware-free-scanner.com
