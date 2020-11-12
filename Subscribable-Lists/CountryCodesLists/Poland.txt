@@ -838,7 +838,6 @@ dcrpool04.coinmine.pl
 ddruk.pl
 debki-klara.pl
 debtablet.pl
-decaffencja.pl
 decoidea.pl
 decorfront.pl
 decretogroup.pl
@@ -1187,6 +1186,7 @@ emisja.contentstream.pl
 emisjawidgeet.onet.pl
 emonitoring24.net.pl
 empe3net7.neostrada.pl
+empresasbgenral.cba.pl
 emptyus.trixy.pl
 emticall.pl
 emultinetruby.pl
@@ -1518,6 +1518,7 @@ fundacjalilianny.pl
 funnyday.pl
 funskan.pl
 fz.coinmine.pl
+g-mailpoczta.pl
 g1.idg.pl
 g2m.pl
 ga.wsa.edu.pl
@@ -1693,7 +1694,6 @@ google.plle.pl
 googlecm.hit.gemius.pl
 googlenews.xorg.pl
 goooogle.osa.pl
-gopay24.pl
 goroteka.pl
 gorskaperla.pl
 gosciniec-paproc.pl
@@ -2061,6 +2061,7 @@ i.interia.pl
 i4you.pl
 iarteliterubygrand.pl
 ibico.pl
+ibmlotusnoteslogin.7m.pl
 icashvivaeurodice.pl
 icdbia.wsei.lublin.pl
 iconn.pl
@@ -2578,6 +2579,7 @@ lt.hit.gemius.pl
 ltau-regularizacao.unicloud.pl
 ltc.coinmine.pl
 ltgde.adocean.pl
+lubomierza.ct8.pl
 lugra.com.pl
 lukaszsuma.pl
 lukaszuk.com.pl
@@ -2967,6 +2969,7 @@ neogenadro.hit.gemius.pl
 neopozyczki.pl
 neospace.pl
 nereadd.nstrefa.pl
+nerve.com.pl
 netrandki.pl
 netsprint.hit.gemius.pl
 neurokampus.pl
@@ -3346,7 +3349,6 @@ piwo.pl
 pixel.homebook.pl
 pixel.wp.pl
 pixel6.wp.pl
-pixelmax.pl
 pjm.guidesign.pl
 pkryczywol.pl
 pl-pl-fb.pl
@@ -3426,6 +3428,7 @@ polskaporwania.net.pl
 polskiecipki.com.pl
 polskikapital.com.pl
 polskiklubkynologiczny.pl
+polskiportal.you2.pl
 polskiszpital24.dkonto.pl
 polubish.pl
 polzamech.pl
@@ -4340,6 +4343,7 @@ surf.org.pl
 sw-tour.com.pl
 swagshoes.pl
 swam.com.pl
+swarovskisklep.com.pl
 swiat-plytek.pl
 swiatbotow.pl
 swiatecznybon.pl

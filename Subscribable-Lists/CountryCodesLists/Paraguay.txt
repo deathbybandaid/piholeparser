@@ -48,7 +48,6 @@ rdsa.elenaprono.com.py
 ruggilorepuestos.com.py
 sanamente.com.py
 sexo.com.py
-sfclogisticauno.com.py
 skintec.com.py
 www.apcarreteras.org.py
 yaestamoscansadosdesusleyes.com.py

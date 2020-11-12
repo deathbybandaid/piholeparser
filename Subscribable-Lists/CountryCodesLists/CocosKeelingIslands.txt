@@ -207,7 +207,6 @@ alax.cc
 alert-device.cc
 alert-payee-detected.cc
 alert-securityrisk.cc
-alert-unknownlogin.cc
 alexus-winston-naked.cafcelebs.cz.cc
 alfaro.cc
 ali.softlabs.cc
@@ -245,6 +244,7 @@ americanasromocao.oni.cc
 amezon-fuui.cc
 amiclubwearcoupon.co.cc
 amistad.cc
+amozamn-e2gpx.cc
 amozanm-rrbrb.cc
 amozanm-rrcrc.cc
 amozanm-rrere.cc
@@ -1362,6 +1362,7 @@ gopns.cc
 goz6tpm.gmz.cc
 gpu.suprnova.cc
 gpumining.cc
+gr.upobancolombia.cc
 gr1.cc
 gr2.cc
 gr3.cc
@@ -1387,6 +1388,7 @@ groupsexaction.cc
 grow.suprnova.cc
 grs.suprnova.cc
 grt.suprnova.cc
+gru.pobancolombia.cc
 gsag4wagsdghs.co.cc
 gsdg2g32.co.cc
 gsm.suprnova.cc
@@ -1417,8 +1419,10 @@ hairy-fuck.cc
 hairy-men.cc
 hairyfuck.cc
 hairymen.cc
+halifax-devices.cc
 halifax-international.co.cc
 halifax-securedevice.cc
+halifax.payee-issues.cc
 halifax.payee-support.cc
 halifaxdevices.cc
 hallrespondnobody.co.cc
@@ -1442,6 +1446,7 @@ havven.cc
 hawaiinairlines.co.cc
 haz.suprnova.cc
 haze.suprnova.cc
+hbnn.cc
 hdcams.cc
 hddcorp.cc
 hdf.bpl.cc
@@ -2479,6 +2484,8 @@ resetlink9206001000.cc
 resolved-deadline-center-id.nut.cc
 retro-7-3.cz.cc
 reverify-payments.cc
+reverifying-device.cc
+reverifyingg-device.cc
 reversing.cc
 revo.suprnova.cc
 rf7.bpl.cc
@@ -2960,6 +2967,7 @@ triton.ingest.cryptoknight.cc
 troll.suprnova.cc
 tron.suprnova.cc
 tropicalsex.myblue.cc
+truckmoney.cc
 truebeauty.cc
 truespeed.cc
 trust-wallet.cc

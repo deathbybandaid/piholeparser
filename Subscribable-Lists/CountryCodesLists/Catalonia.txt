@@ -34,7 +34,6 @@ marmitaco.cat
 match.cat
 old.alcarras.cat
 paypal.us.g-c.cat
-portesobertes.proven.cat
 progreslaseu.cat
 revisionsmediques.cat
 saloboda.cat

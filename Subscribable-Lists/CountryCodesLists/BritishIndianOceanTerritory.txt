@@ -131,6 +131,7 @@
 54d2ba8c00821dbbb900000e.api.5rocks.io
 54ef5ed8333a3803e0000037.api.5rocks.io
 54f01948333a38f77e000001.api.5rocks.io
+5759fd9c2fc7.ngrok.io
 58680dd9.ngrok.io
 587aded7dd48.ngrok.io
 591860.playcode.io
@@ -155,6 +156,7 @@
 752f7b76.ngrok.io
 75abd9f5.ngrok.io
 76c70d04637d.ngrok.io
+774907864314.ngrok.io
 7b1bdf18c07f.ngrok.io
 7t9dw.codesandbox.io
 82aecc11.ngrok.io
@@ -419,6 +421,7 @@ athleta.extole.io
 atomicstudio.io
 au-v2.presage.io
 au.admp.io
+au.beakon.io
 auchansite.vicp.io
 audiences.marchex.io
 augur.io
@@ -430,6 +433,7 @@ autodiscover.ditcoin.io
 av16vnft-android.mobile-sdk-api.intercom.io
 avocet.io
 awesome.section.io
+azuriblockchain.io
 b.top4top.io
 b1ae76a74955.ngrok.io
 b2b.youpool.io
@@ -914,6 +918,7 @@ facebook.ap-northeast-1.stinger-ad.bidr.io
 facebook.eu-west-1.stinger-ad.bidr.io
 facebook.us-east-1.stinger-ad.bidr.io
 facebook.us-west-2.stinger-ad.bidr.io
+facebooke.getforge.io
 falcancoin.io
 fandangonow.extole.io
 fanserv.us-east-1.stinger-ad.bidr.io
@@ -967,6 +972,7 @@ fw043oki-android-3-0-1-0.mobile-sdk-api.intercom.io
 fy.eu-west-1.bid.bidr.io
 fy.us-east-1.bid.bidr.io
 fyyz0.codesandbox.io
+g.top4top.io
 g.vev.io
 g074o.codesandbox.io
 g7z2j2lo-android.mobile-sdk-api.intercom.io
@@ -1429,7 +1435,6 @@ nj.thor.rtk.io
 nl1.ghash.io
 node.gameads.io
 nondatuta.github.io
-nostalgic-vagabond-shield.blogs.rockstage.io
 note.uax.io
 nr8fkefl-android.mobile-sdk-api.intercom.io
 ns.bitnodes.io

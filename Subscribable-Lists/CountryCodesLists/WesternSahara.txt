@@ -1,6 +1,5 @@
 adsl-62-48-192-81.adsl.iam.net.ma
 adsl-66-101-192-81.adsl2.iam.net.ma
-aihm.ma
 alhiraf.ma
 altituderh.ma
 andbank.me.ma
@@ -76,6 +75,7 @@ nodets-ykqtmtqjkd.cikaperformance.ma
 officeon.ch.ma
 originalone.ma
 paypal.ariaprint.ma
+pisciniste.ma
 pneumorek.ma
 poly-tech.ma
 praytech.ma
@@ -87,7 +87,6 @@ rbc-royalbank-online-services-security-update-cananda.jecreemonentreprise.ma
 royalair.koom.ma
 scolarite-fssm.uca.ma
 secure-apphalifaxupdate-verification-online.tgf.ma
-siemar.ma
 siri.ma
 six.ma
 sportech.ma

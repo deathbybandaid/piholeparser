@@ -110,6 +110,7 @@ ic24.lt
 ilive.lt
 instrumentum.lt
 internetinisdarbas.lt
+ipamokos.lt
 ipautorisatie.96.lt
 irenta.lt
 itpartner.lt

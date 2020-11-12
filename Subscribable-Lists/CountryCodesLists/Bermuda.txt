@@ -1,4 +1,6 @@
 airstest.gov.bm
+attinc.site.bm
+attnc.site.bm
 attusersungdomain.site.bm
 cariattlogin.site.bm
 flashpoint.bm

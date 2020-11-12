@@ -12,7 +12,6 @@
 a12b34.static.otenet.gr
 abtgroup.gr
 acmondata.gr
-activate-services-restore-paypal-update.lifanmoto.gr
 ad-media.xe.gr
 ad.e-go.gr
 ad.xe.gr
@@ -537,6 +536,7 @@ simply-follow-the-steps-to-confirm-some-personal-details.ega.gr
 simvouli.gr
 site.endodontist.gr
 skales-kritis.gr
+skin-secrets.gr
 sklirisrealestate.gr
 southdental.gr
 spaparne.gr

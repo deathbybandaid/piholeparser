@@ -18,6 +18,7 @@ alumni.bu.ac.th
 amemarine.co.th
 angthong.nfe.go.th
 antivirus.co.th
+apexseal.co.th
 arc.nrru.ac.th
 assess.vet.cmu.ac.th
 atdi.in.th
@@ -46,7 +47,6 @@ eduroam.stou.ac.th
 enagic.co.th
 eng.ubu.ac.th
 eresearch.pit.ac.th
-esmce.nrru.ac.th
 fdx.co.th
 framehouse.in.th
 gaushyang.co.th
@@ -103,6 +103,7 @@ lvmhgroup.co.th
 lvs.truehits.in.th
 maewang.lpc.rmutl.ac.th
 majorpart.co.th
+makrohousebrands.siammakro.co.th
 mansolution.in.th
 mattayom31.go.th
 mds.nipa.co.th
@@ -122,6 +123,7 @@ nmp.ac.th
 nptedu.go.th
 nuffnang.co.th
 oaep.diw.go.th
+ocsb.go.th
 oetc.in.th
 openlink.co.th
 osh10.labour.go.th
@@ -175,7 +177,6 @@ surintech.ac.th
 svk.co.th
 swpark.or.th
 talingchan.ac.th
-task.nrru.ac.th
 tccs.co.th
 teacher2.aru.ac.th
 techno2.bu.ac.th

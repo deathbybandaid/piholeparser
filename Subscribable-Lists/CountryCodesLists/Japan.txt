@@ -197,7 +197,6 @@ airlabo.jp
 aji.co.jp
 akitakomachi30kg.jp
 akyrise.jp
-alcon.gifu.jp
 aleph-inc.co.jp
 alpaca-records.jp
 alpage.co.jp
@@ -467,7 +466,6 @@ cocosola.jp
 compass-fit.jp
 contactlens.co.jp
 contel.jp
-contentsxx.xsrv.jp
 conti-tochitochi.jp
 continyup.jp
 control.smbeat.jp
@@ -749,7 +747,6 @@ hazard-labo.jp
 hazardlab.jp
 hazardlabo.jp
 hb.afl.rakuten.co.jp
-hd.yamarinkou.jp
 hikari-kinzoku.co.jp
 hilllac3860.jugem.jp
 himawari-web.akita.jp
@@ -1858,6 +1855,7 @@ zalando.m3.valueserver.jp
 zelltek.co.jp
 zenjoy.jp
 zenmxapps.jp
+zenvacationstay.jp
 zero-zone.jp
 zextworks.co.jp
 zimg.jp

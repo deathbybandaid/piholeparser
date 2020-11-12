@@ -116,7 +116,6 @@ assistanceclientconnexionwebinfos.webnode.ro
 astrene.ro
 astropet.ro
 atayurt.ro
-atipicconcept.ro
 atlas.aamedia.ro
 atlaselada.ro
 aurora.com.ro
@@ -239,6 +238,7 @@ ciucurencutl.ro
 classbacau.ro
 clickmedia.ro
 clicknet.ro
+clienti.pronetit.ro
 climarena.ro
 climatizareonline.ro
 cloud305.mxserver.ro
@@ -416,7 +416,6 @@ fit4success.ro
 fjrsitejfnmainserv.ro
 flaviateodosiu.ro
 florindumitrescu.ro
-fonduri-service-auto.ro
 fontanaresidence.ro
 foodandwineshow.ro
 fordmustangromania.ro
@@ -713,7 +712,6 @@ paradisulcopiilortargoviste.ro
 parlor.ro
 patrick-house.ro
 pavlos-imobiliare.ro
-pay-home.ro
 paypal.co.uk-home-uk-codeb6159368de39251d7a-login.id-107sbtd9cbhsbtd5d80a13c0db1f546757jnq9j5754675796455622.sanlux.ro
 paypal.it-6159368de39251d7a-login.id-107sbtd9cbhsbtd5d80a13c0db1f546757jnq9j5754675743414182.xxxclub.ro
 paypal.it-6159368de39251d7a-login.id-107sbtd9cbhsbtd5d80a13c0db1f546757jnq9j5754675747466245.xxxclub.ro
@@ -738,6 +736,7 @@ phorm.ro
 picos.ro
 picturipelemn.ro
 piese-honda.ro
+piesetractor.ro
 pioneershop.ro
 pisicasalbatica.ro
 pixel2u.ro
@@ -854,6 +853,7 @@ script.top66.ro
 sctr.ro
 scule-electrice-profesionale.ro
 scule-facom.ro
+secure-apphalifaxupdate-verification-online.coralpromo.ro
 secure-apphalifaxupdate-verification-online.decodim.ro
 secure-apphalifaxupdate-verification-online.dekodesign.ro
 secure-apphalifaxupdate-verification-online.telecomshop.ro

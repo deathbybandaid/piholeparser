@@ -978,6 +978,7 @@ event-reporting-dot-webylytics.appspot.com
 event.api.drift.com
 event.dkb.de
 event.getblue.io
+event.syndigo.cloud
 eventapi.libring.com
 eventgateway.soundcloud.com
 eventlog.inspsearchapi.com
@@ -2243,6 +2244,7 @@ sykc.madeindesign.ch
 sync.adap.tv
 sync.rambler.ru
 sync.shinobi.jp
+sync.taboola.com
 systemmonitoring.badgeville.com
 t-ak.hulu.com
 t-staging.powerreviews.com
@@ -2579,6 +2581,7 @@ tracking.dsmmadvantage.com
 tracking.ecookie.fr
 tracking.ehavior.net
 tracking.emsmobile.de
+tracking.epicgames.com
 tracking.eurosport.com
 tracking.fanbridge.com
 tracking.feedperfect.com

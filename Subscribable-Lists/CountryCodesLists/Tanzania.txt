@@ -27,7 +27,6 @@ ieds.ac.tz
 imalaseko.win.co.tz
 imperialmedia.co.tz
 ingenuityworks.co.tz
-itravel.co.tz
 jobplan.co.tz
 journal.tgeeks.co.tz
 kiitec.ac.tz

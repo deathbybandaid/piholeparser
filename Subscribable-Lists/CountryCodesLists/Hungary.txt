@@ -65,7 +65,6 @@ agriaegeszseg.hu
 agtrade.hu
 ahadoj.pe.hu
 ajandekozz.hu
-akybron.hu
 aladin.hu
 albertpeter.hu
 alestes.hu
@@ -157,6 +156,7 @@ chefnormarleanadraftedmmpersonnal.pe.hu
 chekpoint-info.pe.hu
 chendrichomechoodllwoodindust.pe.hu
 cidadeclo.pe.hu
+cinestick.hu
 citymediamagazin.hu
 claim-fb-gift-card.pe.hu
 classic.bannerbank.hu
@@ -264,6 +264,7 @@ general1245.pe.hu
 geoip.p24.hu
 gerlaiovisok.hu
 gewissguard.hu
+glerry32.nhely.hu
 glezmen.hu
 gmcount.pe.hu
 goldengate.hu
@@ -496,7 +497,6 @@ prokomm.hu
 protection-mimecast.mateszalkaiszc.hu
 pvbk.hu
 rabavolgy.hu
-radiosinus.hu
 randi24.hu
 rapline.hu
 rbc-online-verify.pe.hu
@@ -572,6 +572,7 @@ szallodaverseny.hu
 szeged.suvido.hu
 szegedihadipark.hu
 szegedimotorfeszt.hu
+szekelyepitkezes.hu
 szelszi.hu
 szerencsejatek.hu
 szervizkalkulator.hu

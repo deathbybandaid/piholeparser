@@ -235,7 +235,6 @@ jamshed.pk
 jazzpackages.pk
 jbimpex.com.pk
 jikauw.pk
-journeyonline.pk
 joyn.com.pk
 kaims.edu.pk
 kamalesultaniwke.pk
@@ -263,10 +262,10 @@ marzsgroup.com.pk
 mdltp.pk
 meezantrading.pk
 metron.com.pk
-mfla.com.pk
 mianbrothers.com.pk
 microcon.pk
 midb.com.pk
+minorities.kp.gov.pk
 mirovayatech.pk
 mlrealty.pk
 moonberry.pk
@@ -299,7 +298,6 @@ olxmobiles.pk
 opserver01.iti.net.pk
 orderme.com.pk
 ordernow.com.pk
-oregano.pk
 pakistanelevators.pk
 pakline.pk
 pasa.org.pk
@@ -307,7 +305,6 @@ paypal.com.iman.com.pk
 pcmr.pk
 pdl.com.pk
 peanuts.pk
-pearlcomputers.com.pk
 pecc.pk
 perfume.pk
 physiocare.pk

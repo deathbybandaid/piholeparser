@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Ibi6b/g20h+Es0wvDCwa7Q
-! Version: 202011110020
+! Checksum: WE70bmROD4EfJn9To0/hcg
+! Version: 202011120030
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 11 Nov 2020 00:20 UTC
+! Last modified: 12 Nov 2020 00:30 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1214,7 +1214,7 @@ kommersant.ru##a[href][title="Поделиться"]
 youla.ru##a[href][title^="Поделиться"]
 rusnext.ru##a[href^="http://www.odnoklassniki.ru/group/"]
 livecars.ru,livesport.ru##a[href^="https://share.yandex.ru/"]
-66.ru,agronews.ua,animedub.ru,animevost.club,apostrophe.ua,app2top.ru,asilmedia.net,book-audio.com,daxshat.site,depo.ua,enovosty.com,footlive.top,game2day.ru,gazeta.ru,glavred.info,golos.ua,govoritmoskva.ru,kino.video,livesport.ws,lostfilmstv.com,lrepacks.ru,maanimo.com,mk.ru,myslo.ru,newsru.co.il,overclockers.ua,poiskvps.ru,pravda.com.ua,privatfinance.com,rbc.ua,rusnext.ru,segodnya.ua,selezen.net,softportal.com,soundpark.best,sports.kz,stadion.uz,tasix.me,zver.uz##a[href^="https://t.me/"]
+66.ru,agronews.ua,animedub.ru,animevost.club,apostrophe.ua,app2top.ru,asilmedia.net,book-audio.com,daxshat.site,depo.ua,enovosty.com,footlive.top,game2day.ru,gazeta.ru,glavred.info,golos.ua,govoritmoskva.ru,kino.video,livesport.ws,lostfilmstv.com,lrepacks.ru,maanimo.com,mk.ru,myslo.ru,newsru.co.il,okna.ua,overclockers.ua,poiskvps.ru,pravda.com.ua,privatfinance.com,rbc.ua,rusnext.ru,segodnya.ua,selezen.net,softportal.com,soundpark.best,sports.kz,stadion.uz,tasix.me,zver.uz##a[href^="https://t.me/"]
 gazeta.uz##a[href^="https://telegram.me/gazetauz"] > img
 life.ru##a[href^="tg://msg_"]
 66.ru,car.ru,kavkaz-uzel.eu,myanianime.ru,pythontutor.ru,tproger.ru##a[href^="tg://resolve"]
@@ -3234,7 +3234,6 @@ fightnews.info,vse.fm##.ui-widget-overlay
 backingtrackx.com##.up-top1
 tverigrad.ru##.up_msg
 playground.ru##.user-advert-message
-fssprus.ru##.user-data-fixed-wrapper
 dtf.ru,tjournal.ru,vc.ru##.vacancies_widget
 itc.ua##.verticalPageNav
 24v.tv##.video-rating-wrap
@@ -3444,7 +3443,6 @@ megogo.net##div[class^="cookiesNotification"]
 prokazan.ru##div[class^="divider"][class$=" divider_bottom-space"]
 google.com,google.com.ua,google.ru##div[class^="gb_"] > div[aria-label="promo"]
 google.com,google.com.ua,google.ru##div[class^="gb_"] > div[style="behavior:url(#default#userData)"]
-fssprus.ru##div[class^="header-infoline-"]
 hightech.plus##div[class^="moneyTeaser"]
 m24.ru##div[class^="my_widget_wrapper"]
 www.kinopoisk.ru##div[class^="promo"][style^="bottom:"]
@@ -15859,6 +15857,7 @@ _youtube_social_
 ##.radium-builder-widget-facebook-like-box
 ##.rads-share
 ##.rads-social
+##.rainbox_share
 ##.rambler-share
 ##.rawhtml_twitter_widget
 ##.rc-fb-widget
@@ -21704,7 +21703,7 @@ digg.com#@#div[id^="digg-widget-"]
 @@||androidpolice.com/wp-content/*_facebook-$image
 @@||androidpolice.com/wp-content/themes/ap2/ap_resize/ap_resize.php?*_Twitter-$image
 @@||angvremya.ru/engine/classes/min/index.php?*/js/social-$stylesheet
-@@||apis.google.com/js/platform.js$domain=9gag.com|corrupt-a-file.net|crello.com|discogs.com|dubox.com|duolingo.com|febbit.com|gazeta.uz|id.logi.com|jakdojade.pl|kroger.com|moshi.com|oasgames.com|olx.pl|olx.ro|passeidireto.com|prntscr.com|sato.fi
+@@||apis.google.com/js/platform.js$domain=9gag.com|corrupt-a-file.net|coursehero.com|crello.com|discogs.com|dubox.com|duolingo.com|febbit.com|gazeta.uz|id.logi.com|jakdojade.pl|kroger.com|moshi.com|oasgames.com|olx.pl|olx.ro|passeidireto.com|prntscr.com|sato.fi
 @@||app.hrlab.de/assets/icons/$image,domain=app.hrlab.de
 @@||apple.com/kb/resources/images/i_facebook.png
 @@||apple.com^*/retail-static-landing/icon-social-distancing_large.png$image
@@ -25129,6 +25128,7 @@ _backToTop.
 ##.newsletter_sign_like
 ##.newsletter_signup
 ##.newsletter_signup_overlay
+##.newsletter_signup_unit
 ##.newsletter_signup_widget
 ##.newsletter_signupbox
 ##.newsletter_single
@@ -27018,7 +27018,7 @@ encompass.tv#@##goTop
 lecyclo.com#@##goto-top
 kingstone.com.tw,nannicskin.ru,redlink.com.ar#@##gotop
 libcom.org#@##main-share
-upim.com#@##newsletter-modal
+upim.com,wagingnonviolence.org#@##newsletter-modal
 exposurelights.com,tactxflashlights.com,thefirefly.com#@##newsletter-popup
 dnevnik.bg#@##newsletterBar
 cnn.com#@##outbrain_widget_0

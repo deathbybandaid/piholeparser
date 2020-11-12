@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: qFP+AYdJY30KZWWr90Ttjw
-! Version: 202011110020
+! Checksum: JU1hyQYBLgr44HTZ7MPqXA
+! Version: 202011120030
 ! Title: RU AdList
-! Last modified: 11 Nov 2020 00:20 UTC
+! Last modified: 12 Nov 2020 00:30 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -618,6 +618,7 @@ $popup,domain=176.114.0.126|176.114.0.132|37.220.36.15|assiatv.com|cdnneedtv.ru|
 ||smicenter.ru^$popup
 ||smikitchen.ru^$popup
 ||snailz.ru/promo/?$popup
+||stopvirus.link^$popup
 ||sub2.admitlead.ru/sb/clk$popup
 ||superfacts.ru^$popup
 ||supernovosti.ru.com^$popup
@@ -1328,6 +1329,7 @@ by,~mail.ru,ru,~sportmail.ru,ua##.banner_box
 ##DIV[id^="DIV_NNN_"]
 ##[data-la-block-show-id]
 ##[data-la-block]
+##[data-la-refresh-timeout]
 ##[data-la-show-block-id]
 ##[data-leadlink*="admitlead."][data-leadlink*="/sb/clk/"]
 ##[data-link*="/sb/clk/"]
@@ -1745,6 +1747,7 @@ me##body[onfocus*="reloadliveblock"] > #bugoverlay ~ table tr > td[height^="9"][
 ##iframe[src*="trafic-media.ru"]
 ##iframe[src*="utraff.com"]
 ~favorit.com.ua##iframe[src^="https://www.favorit.com.ua/"]
+##iframe[title="mixAd"]
 ~mc-terra.ru,~rusdtp.ru##iframe[width="240"][height="400"]
 ##img[width="120"][height="600"]
 ##img[width="160"][height="600"]
@@ -5813,6 +5816,7 @@ _tizers.
 ||duvyu.com^$third-party
 ||dverser.ru^
 ||dvgrkhx3bidjmnu.ru^$third-party
+||dvwnfic0apgjlhv.ru^$third-party
 ||dw1cdf.ru^
 ||dwf6crl4raal7.cloudfront.net^
 ||dwtes.com^$third-party
@@ -9256,6 +9260,7 @@ _tizers.
 ||stilfb.com^$third-party
 ||stino.info^$third-party
 ||stopget.ru^$third-party
+||stopvirus.link^$third-party
 ||storm01.ru^$third-party
 ||str99.ru^$third-party
 ||strannosty.ru^$third-party
@@ -10412,6 +10417,7 @@ _tizers.
 ||ylik.top^$third-party
 ||ylkkp.com^$third-party
 ||yluvo.com^$third-party
+||ymjfhg.com^$third-party
 ||ymzxqndyzx.info^$third-party
 ||yndmtcs.ru^$third-party
 ||yndstatis.ru^$third-party
@@ -12453,7 +12459,7 @@ kiwi.kz###zharnama300_400
 zhkt.guru###zhiviprosto
 cn.ru###zilfond
 zakon.kz###zkn_comments ~ .reading_now
-1liveinternet.ru,1tvv-novosti.com,2017-medical.ru,24-rus.info,24reporter.ru,4jiqzr.ru,adregain.ru,ads.bid,advgoods.com,amigo-browser.ru,amigo-free.website,amigodistrib.ru,amigone.ru,animedub.ru,apicloud.ru,arka-gallery.ru,azartpl.com,azartplay.casino,b2b2.su,beamigo.pw,beamigo.ru,best-games.today,best-zdorovye.ru,best-zdrav.ru,beststbuy.ru,bignovosti.ru,blamper-novosti.ru,blamper-portal.ru,blogers-story.ru,blogersnews.com,blogi-novosti.ru,blogiblogi.com,blogisstore.com,blogistar.org,blogistories.com,blogonews.org,blogostar.org,blogstarhit.org,blogstarnews.org,boldblogs.com,bookofluck.net,breakingdigest.com,bro-freelite.ru,brofree-lite.ru,bromigo.pw,browser-lite.ru,browser-lite2018.ru,browser2018-lite.ru,browser2018lite.ru,browserextensions.net,browserlite-free.ru,browserlite2018.ru,browserlitefree.ru,budyte-zdorovy.ru,canal96.live,cardvrmirrorr.ru,centr-compensation.ru,chatreg.ru,chydomir.ru,cinemapub.top,clbvorange.com,clbvpurple.com,content.directadvert.ru,cosmosblogs.com,cosmow0mans.ru,cs-serva.net,csp-oz66pp.ru,curiousblogs.com,d38dub.ru,dastrutor.site,directx.biz,dnevni4ok.com,down-news-games.ru,downloadamigo.com,downloadbrowserlite.net,downloadlitebrowser.com,downloadlitebrowser.net,downloadlitefree.com,downloadlitefree.net,downloadlitefree.org,downloadlitefree.ru,drp.su,dugtor-deer.pw,elementsbrowser.com,endocri.ru,etarg.network,everinform.com,eversmi.com,ex-news.net,ex.24smi.info,ex.infox.sg,exonews.ru,extra-7news.ru,failovik.com,fancyblogz.com,fiieresmi.ru,fin-vecto.ru,fin-vector.ru,fine-blogs.com,flebolab.ru,fokspolit.ru,foto-video-foto.ru,foxpolit.ru,free-bro-lite.ru,free-lite-bro.ru,free-litebrowser.ru,free-torrents.eu.org,freebro-lite.ru,freebrowserlite.ru,freelite-browser.ru,freelitebrowser.com,freelitebrowser.ru,gameorplay.info,gamereleasedate.info,gamesfortuna.com,get-lite-browser.net,get-litebrowser.net,getbonus.info,getbrowser.org,getbrowser.ru,getbrowserlite.net,getdriverpack.ru,getlitebrowser.com,getlitebrowser.net,getlitebrowser.org,getlitebrowser.ru,getvivaldi.info,getvivaldibrowser.com,getvivaldibrowser.net,globalstylis.ru,go-torrent.pro,gobrowserdownload.com,good-pressa.com,govnogames.com,health-official.ru,i-blogos.ru,ibloggers.ru,idealmedia.io,info-blog24.ru,info-peoples.org,infoblogs.pro,infopolitfoks.ru,installpack.net,internet-gazeta.net,kick.media,kindblogs.com,kinowinx.ru,kinozal-zerkalo.appspot.com,krasota-zdorovie.com,krutor.eu.org,landpages.co,laynews.ru,lesnews.ru,liknews.ru,likuysebe.ru,lite-browser.ru,lite-browserfree.ru,lite-free.com,lite-free.net,lite-free.org,lite-free.ru,litebrowser-2018.ru,litebrowser.ru,litebrowser2018.com,litebrowser2018.ru,litebrowserdownload.com,litebrowserdownload.net,litedownload.org,litedownload.ru,litefree.org,litefree.ru,litefreebrowser.ru,litemybrowser.ru,litenewbrowser.ru,livbloogjournal.net,live-blogs.info,live-novostimira.ru,live-rutor.ga,liveblogjournal.biz,liveblogjournal.net,losnews.ru,mainews.ru,malusheva.ru,marketgid.com,marketgid.ru,masterbyte.gdn,mech.net.ru,med-ecina.info,med-infarmationen.ru,med24-mj.ru,med24otvet.ru,mediapress.xyz,medic-portal24.com,medic-statistic.ru,medicalblogs.ru,medicin-novosti-24.com,medicina-narodov.ru,medicine-news.net,medicineteaser.org,medicineteaser.ru,medinfo.today,medinforms.ru,medlifehistory.ru,medlifestory.ru,mednews-online.ru,mega-game.org,mega-pics-money.ru,melbetpyy.host,melbetqmq.host,mellowblogs.com,meycity.ru,minportal.ru,minroszdrav.com,mixerred.ru,mmorpgfree.ru,moi-oftalmolog.com,morozisneg.ru,moutrack.ru,msetup.pro,mvdpmr.ru,my-amigo-mail.info,my-lite-browser.info,my-story.info,my0blog.ru,mybrowserlite.ru,mylifeblog24.ru,mylitebro.com,mylitebro.net,mylitebro.ru,mylitebrowser.com,mylitebrowser.net,mytrk.xyz,mytvblogs24.ru,nalivali.ru,neatblogs.com,new-lite-browser.ru,new-rutor.com.pl,new-rutor.in,new-rutor.net.pl,new-rutor.org.pl,new-trio.com,newallsmi.ru,newbloggs.xyz,newbrowserlite.ru,newlitebrowser.ru,newrutor.eu.org,newrutor.org.pl,news-decent.com,news-top-rated.com,newsbouthealth.com,newsles.ru,newslik.ru,newsma.ru,newsmore.info,newssy.ru,nice-pressa.com,offergate.pro,ognyvo.ru,ognyvoinfo.ru,ok9ydq.ru,olx.ua.partners,omyamigo.pw,onestarblog.ru,online2017.ru,openew.ru,operadistrib.ru,opn-news.ru,orgsales.ru,para-new.com,pc-games-torrent.ru,pekagames.ru,picpick.ru,plsva.ru,pochistit.ru,polit-e-fox.ru,polit-fox.ru,polit-infox.ru,politfoks.ru,politfox.ru,politinfox.ru,politrook.ru,politrosnews.ru,popcornhd.ru,portal-peoples.com,pressa-plus.com,pricessmall.com,pro-zdorovye.ru,pusja.ga,readtoday.ru,readvesti.ru,realgoodies.ru,renderbrandium.com,rendersaveron.com,ribnadzo.ru,ros-infonews.ru,rosguards.date,rosinfonews.ru,rospolitfoks.ru,rospolitnews.ru,rossinfonews.ru,rossinfonewsrf.ru,ru-tor.biz,ruinfoblog.com,runews-time.xyz,runewslenta.com,rupolitnews.ru,rustoria-topnews.ru,rustory-news.ru,rutor.biz.pl,rutor.edu.pl,rutor.ml,rutor.net.pl,rutor.su,rutor.tech,rutorgame.org,rutorrent.co,rutors.tk,rutracker-zerkalo.appspot.com,rutracker.eu,rutracker.eu.org,rutracker.org.pl,rutracker.pp.ua,rutracker.work,saymigren.net,sb-on-line.ru,show.novostionline.net,smi24online.ru,smiru.ru,smivdetails.ru,spishi.vip,starblog.org,stories-news.com.ua,stories-news.ru,sweetbloggs.com,sysenvfiles.net,tft-test.ru,this-my-blog.ru,top-info24.ru,top-newsrustoria.ru,top-rutor.eu,top-zdorovie.ru,top.24smi.info,topallsmi.com,topik-blog.ru,toplenta.com,topnews.novostionline.net,topnews.smi.one,toprated-film.co,topruistory.ru,toprustory.ru,topsmileader.com,topstory-24.ru,torrent-rutor.eu,torrent-rutor.pl,torrent4game.com,torrentino-games.net,torrentino-games.ru,torrentum.ru,tranzitpagetop.ru,tranzitsmi.ru,trueblg.ru,trutor.org.pl,u-load.ru,ubar-pro.ru,ubar-pro2.ru,ubar-pro3.ru,ubar-pro4.ru,ubar.pro,ufiler-pro.ru,ufiler.pro,upro.me,utorrentfilmi.ru,vash-doktor24.ru,vashflebolog.ru,vesti-smi.ru,viniki.ru,vivaldi-browser.com,vivaldi-browser.net,vrutor.eu,vse-dly-vas.ru,vse-pro-zdorovye.ru,websdr.space,wogoods.com,worldinform.ru,wrutor.org.pl,x-yzabc.ru,xbox-torrent.ru,xrutor.eu,xrutor.eu.org,xrutor.ga,zdorov-story.ru,zdorovgoods.com,zdorovo.xyz,zdorovproduct.ru,zdorovtea.ru,zfvklk.ru,zodiac-game.info,zpppstop.ru,zqwjpxow7boc.ru##*
+1liveinternet.ru,1tvv-novosti.com,2017-medical.ru,24-rus.info,24reporter.ru,4jiqzr.ru,adregain.ru,ads.bid,advgoods.com,amigo-browser.ru,amigo-free.website,amigodistrib.ru,amigone.ru,animedub.ru,apicloud.ru,arka-gallery.ru,azartpl.com,azartplay.casino,b2b2.su,beamigo.pw,beamigo.ru,best-games.today,best-zdorovye.ru,best-zdrav.ru,beststbuy.ru,bignovosti.ru,blamper-novosti.ru,blamper-portal.ru,blogers-story.ru,blogersnews.com,blogi-novosti.ru,blogiblogi.com,blogisstore.com,blogistar.org,blogistories.com,blogonews.org,blogostar.org,blogstarhit.org,blogstarnews.org,boldblogs.com,bookofluck.net,breakingdigest.com,bro-freelite.ru,brofree-lite.ru,bromigo.pw,browser-lite.ru,browser-lite2018.ru,browser2018-lite.ru,browser2018lite.ru,browserextensions.net,browserlite-free.ru,browserlite2018.ru,browserlitefree.ru,budyte-zdorovy.ru,canal96.live,cardvrmirrorr.ru,centr-compensation.ru,chatreg.ru,chydomir.ru,cinemapub.top,clbvorange.com,clbvpurple.com,content.directadvert.ru,cosmosblogs.com,cosmow0mans.ru,cs-serva.net,csp-oz66pp.ru,curiousblogs.com,d38dub.ru,dastrutor.site,directx.biz,dnevni4ok.com,down-news-games.ru,downloadamigo.com,downloadbrowserlite.net,downloadlitebrowser.com,downloadlitebrowser.net,downloadlitefree.com,downloadlitefree.net,downloadlitefree.org,downloadlitefree.ru,drp.su,dugtor-deer.pw,elementsbrowser.com,endocri.ru,etarg.network,everinform.com,eversmi.com,ex-news.net,ex.24smi.info,ex.infox.sg,exonews.ru,extra-7news.ru,failovik.com,fancyblogz.com,fiieresmi.ru,fin-vecto.ru,fin-vector.ru,fine-blogs.com,flebolab.ru,fokspolit.ru,foto-video-foto.ru,foxpolit.ru,free-bro-lite.ru,free-lite-bro.ru,free-litebrowser.ru,free-torrents.eu.org,freebro-lite.ru,freebrowserlite.ru,freelite-browser.ru,freelitebrowser.com,freelitebrowser.ru,gameorplay.info,gamereleasedate.info,gamesfortuna.com,get-lite-browser.net,get-litebrowser.net,getbonus.info,getbrowser.org,getbrowser.ru,getbrowserlite.net,getdriverpack.ru,getlitebrowser.com,getlitebrowser.net,getlitebrowser.org,getlitebrowser.ru,getvivaldi.info,getvivaldibrowser.com,getvivaldibrowser.net,globalstylis.ru,go-torrent.pro,gobrowserdownload.com,good-pressa.com,govnogames.com,health-official.ru,i-blogos.ru,ibloggers.ru,idealmedia.io,info-blog24.ru,info-peoples.org,infoblogs.pro,infopolitfoks.ru,installpack.net,internet-gazeta.net,kick.media,kindblogs.com,kinowinx.ru,kinozal-zerkalo.appspot.com,krasota-zdorovie.com,krutor.eu.org,landpages.co,laynews.ru,lesnews.ru,liknews.ru,likuysebe.ru,lite-browser.ru,lite-browserfree.ru,lite-free.com,lite-free.net,lite-free.org,lite-free.ru,litebrowser-2018.ru,litebrowser.ru,litebrowser2018.com,litebrowser2018.ru,litebrowserdownload.com,litebrowserdownload.net,litedownload.org,litedownload.ru,litefree.org,litefree.ru,litefreebrowser.ru,litemybrowser.ru,litenewbrowser.ru,livbloogjournal.net,live-blogs.info,live-novostimira.ru,live-rutor.ga,liveblogjournal.biz,liveblogjournal.net,losnews.ru,mainews.ru,malusheva.ru,marketgid.com,marketgid.ru,masterbyte.gdn,mech.net.ru,med-ecina.info,med-infarmationen.ru,med24-mj.ru,med24otvet.ru,mediapress.xyz,medic-portal24.com,medic-statistic.ru,medicalblogs.ru,medicin-novosti-24.com,medicina-narodov.ru,medicine-news.net,medicineteaser.org,medicineteaser.ru,medinfo.today,medinforms.ru,medlifehistory.ru,medlifestory.ru,mednews-online.ru,mega-game.org,mega-pics-money.ru,melbetpyy.host,melbetqmq.host,mellowblogs.com,meycity.ru,minportal.ru,minroszdrav.com,mixerred.ru,mmorpgfree.ru,moi-oftalmolog.com,morozisneg.ru,moutrack.ru,msetup.pro,mvdpmr.ru,my-amigo-mail.info,my-lite-browser.info,my-story.info,my0blog.ru,mybrowserlite.ru,mylifeblog24.ru,mylitebro.com,mylitebro.net,mylitebro.ru,mylitebrowser.com,mylitebrowser.net,mytrk.xyz,mytvblogs24.ru,nalivali.ru,neatblogs.com,new-lite-browser.ru,new-rutor.com.pl,new-rutor.in,new-rutor.net.pl,new-rutor.org.pl,new-rutor.website,new-trio.com,newallsmi.ru,newbloggs.xyz,newbrowserlite.ru,newlitebrowser.ru,newrutor.eu.org,newrutor.org.pl,news-decent.com,news-top-rated.com,newsbouthealth.com,newsles.ru,newslik.ru,newsma.ru,newsmore.info,newssy.ru,nice-pressa.com,offergate.pro,ognyvo.ru,ognyvoinfo.ru,ok9ydq.ru,olx.ua.partners,omyamigo.pw,onestarblog.ru,online2017.ru,openew.ru,operadistrib.ru,opn-news.ru,orgsales.ru,para-new.com,pc-games-torrent.ru,pekagames.ru,picpick.ru,plsva.ru,pochistit.ru,polit-e-fox.ru,polit-fox.ru,polit-infox.ru,politfoks.ru,politfox.ru,politinfox.ru,politrook.ru,politrosnews.ru,popcornhd.ru,portal-peoples.com,pressa-plus.com,pricessmall.com,pro-zdorovye.ru,pusja.ga,readtoday.ru,readvesti.ru,realgoodies.ru,renderbrandium.com,rendersaveron.com,ribnadzo.ru,ros-infonews.ru,rosguards.date,rosinfonews.ru,rospolitfoks.ru,rospolitnews.ru,rossinfonews.ru,rossinfonewsrf.ru,ru-tor.biz,ruinfoblog.com,runews-time.xyz,runewslenta.com,rupolitnews.ru,rustoria-topnews.ru,rustory-news.ru,rutor.biz.pl,rutor.edu.pl,rutor.ml,rutor.net.pl,rutor.su,rutor.tech,rutorgame.org,rutorrent.co,rutors.tk,rutracker-zerkalo.appspot.com,rutracker.eu,rutracker.eu.org,rutracker.org.pl,rutracker.pp.ua,rutracker.work,saymigren.net,sb-on-line.ru,show.novostionline.net,smi24online.ru,smiru.ru,smivdetails.ru,spishi.vip,starblog.org,stories-news.com.ua,stories-news.ru,sweetbloggs.com,sysenvfiles.net,tft-test.ru,this-my-blog.ru,top-info24.ru,top-newsrustoria.ru,top-rutor.eu,top-zdorovie.ru,top.24smi.info,topallsmi.com,topik-blog.ru,toplenta.com,topnews.novostionline.net,topnews.smi.one,toprated-film.co,topruistory.ru,toprustory.ru,topsmileader.com,topstory-24.ru,torrent-rutor.eu,torrent-rutor.pl,torrent4game.com,torrentino-games.net,torrentino-games.ru,torrentum.ru,tranzitpagetop.ru,tranzitsmi.ru,trueblg.ru,trutor.org.pl,u-load.ru,ubar-pro.ru,ubar-pro2.ru,ubar-pro3.ru,ubar-pro4.ru,ubar.pro,ufiler-pro.ru,ufiler.pro,upro.me,utorrentfilmi.ru,vash-doktor24.ru,vashflebolog.ru,vesti-smi.ru,viniki.ru,vivaldi-browser.com,vivaldi-browser.net,vrutor.eu,vse-dly-vas.ru,vse-pro-zdorovye.ru,websdr.space,wogoods.com,worldinform.ru,wrutor.org.pl,x-yzabc.ru,xbox-torrent.ru,xrutor.eu,xrutor.eu.org,xrutor.ga,zdorov-story.ru,zdorovgoods.com,zdorovo.xyz,zdorovproduct.ru,zdorovtea.ru,zfvklk.ru,zodiac-game.info,zpppstop.ru,zqwjpxow7boc.ru##*
 mk.ru#?#*:-abp-has(> .mkblock:-abp-contains(Популярно в соцсетях))
 bookskeeper.ru#?#*:-abp-has(> [id^="BlockId"])
 forums.rusmedserv.com#?#*:-abp-has(> a[href*="gor.com"])
@@ -13394,6 +13400,8 @@ samara24.ru##.common_left > [id^="rep_"] > .bl_main
 samara24.ru##.common_right_banners
 rabota.md##.company_related-banner
 maxpark.com##.comunityDiscuss > div[class*=" "]:not(.uptolike-buttons)
+sdamgia.ru##.con_warper > .left_block
+sdamgia.ru##.con_warper > .right_block
 sdamgia.ru##.con_wraper > div[class]:not([class="content"])
 sdamgia.ru##.con_wraper ~ div[class] > div:not([class="content"])
 vsitv.org##.conrek
@@ -16883,7 +16891,6 @@ koolinar.ru#?#div:-abp-has(> header ~ a[href][rel="sponsored"])
 rp5.am,rp5.by,rp5.co.uk,rp5.kz,rp5.lt,rp5.lv,rp5.md,rp5.ru,rp5.ua#?#div:-abp-has(> ins)
 draug.ru#?#div:-abp-has(> script:-abp-contains(snowsrc))
 football.kulichki.net#?#div:-abp-has(> table > tbody a[href*="kulichki.com/advert"])
-sdamgia.ru##div:not([id]):not([class]):first-child > style:first-child + div[class][style]
 tomat-pomidor.com##div:not([id]):not([class])[style^="min-height:"]
 vz.ru##div:not([id])[style*="margin"][style*="width: 240px"]
 darkmoney.at##div[align="center"] > a[href] > img[src*=".gif"]
@@ -16949,6 +16956,7 @@ bib.social,economics.studio,economuch.com,finbook.news,lawbook.online,lawbooks.n
 povarenok.ru##div[class*="evalar"]
 prnt.sc##div[class*="grundik"]
 fakty.ua##div[class*="informer banner"]
+okna.ua##div[class*="infr"]
 niscu.ru##div[class*="iw-modal"]
 www.kinopoisk.ru#?#div[class*="kinopoisk"]:-abp-properties(height: 250px)
 kingisepp-today.ru,xn----etbbecbrbp5ahkja1ae7v.xn--p1ai##div[class*="ks-banner-news"]
@@ -17010,11 +17018,12 @@ drive2.ru#?#div[class]:-abp-has(> div > div > .drom-logo)
 novayagazeta.ru#?#div[class]:-abp-has(> div[style^="display"] ~ div > div[id*="adfox_"])
 echo.msk.ru##div[class]:first-child > div[class*=" "]:first-child > div[class*=" "] > div[id] + style + div[class*=" "]
 echo.msk.ru##div[class]:first-child > div[class*=" "]:first-child > div[id] + style + div[class*=" "]
-sdamgia.ru##div[class]:not([id]):first-child > div[class*=" "] > div[class*=" "] > div[class*=" "]
 www.kinopoisk.ru##div[class]:not([id]):first-child > div[class*=" "] > div[id]:not([class]):first-child + style + div[class*=" "]:last-child
 ytvideo.ru##div[class][data-aid]
 dorognoe.ru,europaplus.ru,radio7.ru,retrofm.ru,sportfm.ru##div[class][data-element*="BANNER"]
 echo.msk.ru##div[class][data-role=""]
+sdamgia.ru##div[class][id]:first-child > div[class][id] > div[class][id] > div[class][id]
+sdamgia.ru##div[class][id]:first-child > div[style="width: 100%; height: 100%;"]
 mk.ru,prnt.sc##div[class][style*="important"]
 echo.msk.ru##div[class][style=""]
 rlocman.ru##div[class][style="background-color:#fcfcee;padding:10px"]
@@ -18343,6 +18352,7 @@ $xmlhttprequest,domain=happy-biock.info|happy-block.info|howto-news.info|kinohom
 .parnuha.net^$script
 .paslab.ru^$script,domain=paslab.ru
 .pawno-info.ru^$script,domain=pawno-info.ru
+.php$third-party,script,domain=freezmi.io
 .php?id=$third-party,xmlhttprequest,domain=aniqit.com|anivod.com|kodik.biz|kodik.cc|kodik.info|kodikdb.com
 .pic-images.ru^$script,domain=pic-images.ru
 .pic-money.ru^$script
@@ -20329,7 +20339,7 @@ igdz1.ru^$script,domain=igdz.ru
 ||ogemorroe.com/wp-content/plugins/boxzilla/
 ||ogolosha.ua^*/bs/banner/
 ||oka.fm/284
-||okna.ua/informer_ajax/
+||okna.ua/informer_ajax$xmlhttprequest
 ||old-games.ru/img/b/
 ||old.businessmens.ru/bnr/
 ||oldgames.ru/netcat_files/Image/$object
@@ -24047,7 +24057,7 @@ buildplayer.com,bxfilm.org,delivembed.cc,embedstorage.net,filmets.life,kinogo2.b
 @@/banner.jpg?ad_height=300&adzone=100&adserver=1&adType=32|$image
 @@/blockadblock.js|$script,domain=5urokov.ru|gamehunt.net
 @@/common/ad.$script,domain=dnevnik.ru|mosreg.ru
-@@/fuckadblock$domain=164.132.204.49|433175.ru|46.30.41.66|46.30.42.50|46.30.43.38|blackdesertbase.ru|broshunters.com|dok-film.net|gwss.ru|liveball6.ml|omsi2mod.ru|pogarbibl.ru|revelationonlinedb.ru|role-me.ru|rpgdon.com|rybalku.ru|standupzona.ru|unit-car.com|widget.cdn-tv.net|winzoro.net|www.sport-express.ru
+@@/fuckadblock$domain=164.132.204.49|433175.ru|46.30.41.66|46.30.42.50|46.30.43.38|blackdesertbase.ru|broshunters.com|budport.com.ua|dok-film.net|gwss.ru|liveball6.ml|omsi2mod.ru|pogarbibl.ru|revelationonlinedb.ru|role-me.ru|rpgdon.com|rybalku.ru|standupzona.ru|unit-car.com|widget.cdn-tv.net|winzoro.net|www.sport-express.ru
 @@/game-ads.js|$script,domain=files.vitalitygames.com
 @@/index.php/adhandler/|$subdocument,domain=tapochek.net
 @@/js/advert.js$~third-party

@@ -60,6 +60,7 @@ balestier.com.sg
 bamboogreen.com.sg
 bankminvestments.sg
 bayviews.estb.com.sg
+beautech.com.sg
 beautydirect.com.sg
 bestdocholliday.sg
 bestwebmedpro.sg
@@ -201,7 +202,6 @@ fantasia.sg
 fbl.com.sg
 fbmarketing.com.sg
 filmfive.com.sg
-finewines.com.sg
 formations.com.sg
 fortuneresourcecentre.com.sg
 funmedicaldoctor.sg

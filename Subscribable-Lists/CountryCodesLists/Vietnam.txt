@@ -71,7 +71,6 @@ api.adtimaserver.vn
 api.nas.nct.vn
 api.sdk.zadn.vn
 apinas.nct.vn
-aquacity.pkd.com.vn
 artexport.com.vn
 athenacomplexhoangmai.vn
 atrack-a.anthill.vn
@@ -189,7 +188,6 @@ delivery.adnetwork.vn
 delivery.m.ambientplatform.vn
 delivery.yomedia.vn
 demo-adopt.admicro.vn
-demo.aronet.vn
 demo.mku.edu.vn
 denngu.vn
 denuihuongson.com.vn
@@ -301,6 +299,7 @@ gvc.vn
 h5s.vn
 hada.com.vn
 hadongtoyota.vn
+hanedu.vn
 hanhtrinhthanhnienkhoinghiep.vn
 hanoihub.vn
 happymedia.vn
@@ -439,7 +438,6 @@ mamnonwonderland.edu.vn
 mansa.com.vn
 marinacity.com.vn
 maryland.kovo.vn
-masterisegroup.info.vn
 maycaphe.vn
 maymayhaphuong.vn
 mayruaxemay.vn
@@ -512,7 +510,6 @@ ngoaingusunrise.edu.vn
 nguoidepxumuong.vn
 nguyenhuuduc.com.vn
 nguyenminhngoc.vn
-nguyentrinh-auth.vn
 nhacuatoi.com.vn
 nhadatdaknong.vn
 nhadatlongkhanh.com.vn
@@ -532,7 +529,6 @@ nutrinuts.vn
 nvvfoods.vn
 nxbdantri.com.vn
 oceangate.parkhomes.vn
-oceanmedia.com.vn
 ominsu.vn
 omni.vn
 onemart.vn
@@ -589,7 +585,6 @@ quangcao.tuoitre.vn
 quangcaobacgiang.com.vn
 quangcaovnstar.vn
 quatcongnghiepdongnai.vn
-quatraotay.aronet.vn
 rabaco.vn
 radsafe.vn
 redmine.admicro.vn
@@ -706,12 +701,10 @@ thammyductri.vn
 thamtuquocte.com.vn
 thanhgiang.edu.vn
 thanhviet.com.vn
-thanhvujsc.vn
 thcsminhduc.edu.vn
 thegioibupbe.vn
 thegioilamdep.vn
 thegioipinsac.vn
-thegioithuyluc.com.vn
 thehexanh.vn
 thhanoi.com.vn
 thidoansadec.org.vn
@@ -816,7 +809,6 @@ vothisau.phuyen.edu.vn
 vrglongthanh.com.vn
 vtennis.vn
 vuanongsan.vn
-vuongauto.vn
 vuonsangtao.vn
 wakeup247.klick.vn
 website.vtoc.vn
