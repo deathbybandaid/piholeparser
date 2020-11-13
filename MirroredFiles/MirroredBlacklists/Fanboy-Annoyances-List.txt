@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: NqTuLTMiM+Oaf3v0n2W8pg
-! Version: 202011120021
+! Checksum: xXmhX+kZCZohtZlx3FFuQg
+! Version: 202011130021
 ! Title: Fanboy's Annoyance List
-! Last modified: 12 Nov 2020 00:21 UTC
+! Last modified: 13 Nov 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -3891,6 +3891,7 @@ _youtube_social_
 /cmp-banner.js
 /cmp-init.
 /cmp-sp.js
+/cmp-v2/*
 /cmp.bundle.js
 /cmp.complete.bundle.js
 /cmp/cmp.js
@@ -4499,6 +4500,8 @@ _youtube_social_
 /rdm-daac-notice-
 /remote-gdpr.
 /resources/CookieConsent/*
+/rg-cookies/*
+/rg-gdpr.
 /rgpd.js
 /rgpd/iab/*
 /rgpd_cookie_
@@ -10159,6 +10162,7 @@ _site_cookie_
 ###sharing-options
 ###sharing-palette
 ###sharing-plugins
+###sharing-sidebar
 ###sharing-widget
 ###sharingBlock
 ###sharingLinks
@@ -16720,6 +16724,7 @@ _site_cookie_
 ##.rdy_share-item
 ##.react-share__ShareButton
 ##.react_share_icons
+##.readmore-social
 ##.really_simple_share
 ##.receipt-social-icon-container
 ##.recipe-infos-users__share
@@ -25773,6 +25778,7 @@ _site_cookie_
 ###gc_web_user_allow_cookie_box
 ###gccookiemessage
 ###gcms_cookie_manager
+###gd-cookie-consent
 ###gdpr-acceptance
 ###gdpr-alert
 ###gdpr-banner
@@ -28806,6 +28812,7 @@ _site_cookie_
 ##.cook-window
 ##.cook_plcy
 ##.cookacceptor
+##.cookcontainer
 ##.cookeEnabler
 ##.cooki-container
 ##.cooki_baner_wrp
@@ -30929,6 +30936,7 @@ _site_cookie_
 ##.gdprMessage
 ##.gdprPopup
 ##.gdpr[data-gdpr-popup]
+##.gdpr__A
 ##.gdpr__container
 ##.gdpr__cookie_consent
 ##.gdpr_accept_cookie
@@ -33612,6 +33620,7 @@ _site_cookie_
 ||urbanairship.com^$third-party
 ||viapush.com^$third-party
 ||webpu.sh^$third-party
+||whiteclick.biz^$third-party
 ||wnpbdan.bid^$third-party
 ||wonderpush.com^$third-party
 ||wwclicknews.club^$third-party
@@ -35945,6 +35954,7 @@ mathrubhumi.com##.ajaxify_right
 csicon.org,irishcentral.com,mediauk.com,techinasia.com,thecaterer.com##.alert
 foxnews.com##.alert-inner
 g4tv.com##.alert-wrap
+playstation.com##.alertBar
 kevinmd.com##.alignleftfp
 kevinmd.com##.alignrightfp
 mnn.com##.also-like
@@ -38335,7 +38345,7 @@ comicbook.com##.newsletterdiv_cmp
 buffalonews.com,consumerreports.org,marketwatch.com,oxforddictionaries.com##.newsletters
 audioholics.com##.newssidebar
 themeditelegraph.com##.nl-article-box
-journaldesfemmes.fr##.nl-box
+journaldesfemmes.fr,linternaute.com##.nl-box
 everydayhealth.com##.nl-container
 health.com##.nl-healthy
 babble.com##.nl-interstitial-box
@@ -42737,6 +42747,7 @@ centraltv.fr###pf
 madagascar-tribune.com###reseaux_sociaux
 cowcotland.com###rezo
 moniteurautomobile.be###scrollTop
+comment-contacter.fr###sfsi_floater
 express.live,lepoint.fr###share
 meteovista.be,meteovista.fr,sfr.fr###social
 lepoint.fr###sticky-left-bar
@@ -44939,7 +44950,7 @@ autotrader.com,brydge.com,liputan6.com,rejuvenation.com#@##back-to-top
 engie.fr,gaz-tarif-reglemente.fr,nasa.gov#@##backToTop
 rmf24.pl#@##backTop
 nasa.gov#@##backtoTop
-megalight18.net,mk-78.ru,stp-shop.ru#@##backtop
+aqa-shop.ru,megalight18.net,mk-78.ru,stp-shop.ru#@##backtop
 gcnlive.com,nasa.gov#@##backtotop
 patch.com#@##email-modal-wrapper
 hearthis.at#@##email-overlay
@@ -45962,6 +45973,7 @@ yoigo.com#@#thor-cookies
 @@||stabila.com/bundles/marketingsuite/css/cookie-bar.css
 @@||strava.com/cookie-banner.js$~third-party
 @@||tietosuoja.fi/o/frontend-js-web/aui/cookie/cookie.js$script
+@@||uicdn.com/mailint/*/consent-management.js$script,domain=mail.com
 ! https://github.com/ryanbr/fanboy-adblock/issues/721#issuecomment-443395851
 ! https://github.com/ryanbr/fanboy-adblock/issues/1133
 @@/wp-content/plugins/bwp-minify/min/?*,wp-content$script,stylesheet,~third-party
@@ -46565,6 +46577,7 @@ yoigo.com#@#thor-cookies
 @@||popsters.us/assets/images/fb-login-btn.png
 @@||popsters.us/assets/images/graph/share.png
 @@||popsters.us/assets/landing/images/logos/fb.png
+@@||pornoonlain.online^*/share/$image,~third-party
 @@||press-start.com^*/icon-google.png
 @@||press-start.com^*/images/facebook.png
 @@||prezzibenzina.it/www2/images/btn_facebook_new.png
