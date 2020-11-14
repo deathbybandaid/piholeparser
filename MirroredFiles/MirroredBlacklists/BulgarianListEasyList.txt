@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202011130002
+! Version: 202011132307
 ! Title: EasyPrivacy
-! Last modified: 13 Nov 2020 00:02 UTC
+! Last modified: 13 Nov 2020 23:07 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -597,6 +597,7 @@
 /amazon-affiliate-
 /amdhfp/a.do?param$image
 /amdhfp/t.do?id$image
+/amp-access/ping?
 /amp-analytics-
 /amp-analytics/*
 /amp-geo-
@@ -3250,6 +3251,7 @@
 /ping/pageload?
 /ping/show?
 /ping?h=
+/ping?rid=
 /ping?spacedesc
 /ping?token=
 /ping?utm_
@@ -10070,6 +10072,7 @@ _mongo_stats/
 ||amplify.outbrain.com^$third-party
 ||amplifypixel.outbrain.com^
 ||an.yandex.ru^
+||analyse.bcovery.com^
 ||analytic.xingcloud.com^$third-party
 ||analyticcdn.globalmailer.com^
 ||analytics-beacon-*.amazonaws.com^
@@ -11062,6 +11065,7 @@ _mongo_stats/
 ||legacy.com^*/unicaclicktracking.js?
 ||letv.com/cloud_pl/
 ||letv.com/env/
+||levelaccess.net/analytics/
 ||licdn.com/*.gif?rnd=
 ||licensing.bitmovin.com^
 ||lift.acquia.com^
@@ -11168,6 +11172,7 @@ _mongo_stats/
 ||mashery.com/analytics/
 ||materiel.net/r/$image
 ||maven.io/api/userEvent/
+||mavencoalition.io/collect
 ||maxmind.com/app/$third-party
 ||maxmind.com/geoip/$third-party
 ||maxmind.com/js/country.js
@@ -13840,7 +13845,7 @@ _mongo_stats/
 ||glamourmagazine.co.uk^*/LogPageView
 ||glassmoni.researchgate.net^
 ||global.canon^*/analytics.js
-||global.ssl.fastly.net^$script,xmlhttprequest,domain=allmodern.com|argos.co.uk|birchlane.com|courier-journal.com|courierpress.com|desertsun.com|detroitnews.com|eddiebauer.com|freep.com|glassesusa.com|greenbaypressgazette.com|indystar.com|jsonline.com|kurtgeiger.com|legacy.com|lenovo.com|lohud.com|mentalfloss.com|naplesnews.com|news-journalonline.com|northjersey.com|perigold.com|quickship.com|quikshiptoner.com|radiotimes.com|sainsburys.co.uk|sanuk.com|theadvertiser.com|thisweek.com|ugg.com|usatoday.com|wayfair.co.uk|wayfair.com
+||global.ssl.fastly.net^$script,xmlhttprequest,domain=allmodern.com|argos.co.uk|birchlane.com|cbs.com|courier-journal.com|courierpress.com|desertsun.com|detroitnews.com|eddiebauer.com|freep.com|glassesusa.com|greenbaypressgazette.com|indystar.com|jsonline.com|kurtgeiger.com|legacy.com|lenovo.com|lohud.com|mentalfloss.com|naplesnews.com|news-journalonline.com|northjersey.com|perigold.com|quickship.com|quikshiptoner.com|radiotimes.com|sainsburys.co.uk|sanuk.com|theadvertiser.com|thisweek.com|ugg.com|usatoday.com|wayfair.co.uk|wayfair.com
 ||globes.co.il/ga.asp
 ||globes.co.il/shared/s.ashx?
 ||globester.com^*/track.js
@@ -15709,6 +15714,7 @@ _mongo_stats/
 ||burnhamandhighbridgeweeklynews-gb.burnhamandhighbridgeweeklynews.co.uk^
 ||burytimes-gb.burytimes.co.uk^
 ||campaignseries-gb.campaignseries.co.uk^
+||cb-mms.carbuyer.co.uk^
 ||cdn-alliancegravity.s3.amazonaws.com^
 ||chardandilminsternews-gb.chardandilminsternews.co.uk^
 ||chelmsfordweeklynews-gb.chelmsfordweeklynews.co.uk^
@@ -17641,7 +17647,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||player.siriusxm.com/assets/AppMeasurement/VisitorAPI.js
 @@||player.sundaysky.com^$subdocument
 @@||playstation.net/event/$domain=playstation.com|playstation.net|sony.com
-@@||plugins.matomo.org/heatmapsessionrecording/$image,~third-party
+@@||plugins.matomo.org^$image,~third-party
 @@||pnas.org^*/fingerprint.js$script,~third-party
 @@||pro.ip-api.com/json$xmlhttprequest,domain=aljazeera.com|cookappsgames.com|sheee.co.il|walla.co.il
 @@||ps.w.org/google-analytics-dashboard-for-wp/assets/
@@ -17711,7 +17717,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||tw.cx/c?a=$xmlhttprequest,domain=justwatch.com
 @@||udottraffic.utah.gov/javascripts/Piwik.js
 @@||uefa.com/inc/js/core/projects/statistics/statistics.js?$script
-@@||uid.mavencoalition.io^$xmlhttprequest,domain=thestreet.com
+@@||uid.mavencoalition.io^$xmlhttprequest,domain=mtonews.com|thestreet.com
 @@||ultimedia.com/js/common/jquery.gatracker.js
 @@||unileversolutions.com^*/config/analytics.js
 @@||unisys.com^*/track.gif$image,~third-party

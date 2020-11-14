@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: BgQIsjgelikEadUupujb8Q
-! Version: 202011130020
+! Checksum: 20XwAOmlq31G3hW/dNg0Kg
+! Version: 202011140020
 ! Title: RU AdList
-! Last modified: 13 Nov 2020 00:20 UTC
+! Last modified: 14 Nov 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -165,6 +165,7 @@ $popup,domain=176.114.0.126|176.114.0.132|37.220.36.15|assiatv.com|cdnneedtv.ru|
 ||apb-re.ru/?pid=$popup
 ||aptexof.ru^$popup
 ||apycomm.com^$popup
+||apyecom.com^$popup
 ||apygame.com/click$popup
 ||apypxl.com^$popup
 ||apytrc.com/click$third-party,popup
@@ -11557,7 +11558,6 @@ ukrlib.com.ua###content > .readalser
 forum.niiot.net###content > .unspecific.message
 kttc.ru###content > [style*="min-height: 92px"]
 mobbit.info###content > center
-briefly.ru###content > div > div[class*=" "][class*="_"]
 forum.saransk.ru###content > div > div[class^="zone_"]
 pesni-tut.com###content > div[id^="mx"]
 oddstyle.ru###content > div[style="margin-left: 15px; margin-top: 10px;"] > a > img
@@ -11951,6 +11951,7 @@ onlinemschool.com###oms_right > .oms_definition ~ div[style]
 crazys.info,ucrazy.ru###online_games
 kino-line.su###open_new_site
 hl-inside.ru###orphus
+infoselection.ru#?##ot-right > div[id^="mod"]:-abp-has(.bannergroup)
 lordfilm.me###otstup
 kino-teatr.ua###ourBranding
 vashdom.ru###out_banner
@@ -12296,8 +12297,6 @@ tnt-online.ru###tegA3
 astralomir.ru###teleastro
 porjati.net###tesaerleft
 zh24.com###test
-briefly.ru###text > div > div[class*=" "][class*="_"]
-briefly.ru###text > div:not([id]):not([class])
 medved.us###text-10
 zaporpobedim.ru###text-21
 xn--c1adkjnf.net,легион.net###text-28
@@ -13014,7 +13013,7 @@ vkdiz.ru##.bannerbg
 uahunter.com.ua##.bannerbox
 crmonline.ru##.bannercenter
 compress.ru##.bannercount
-arz-biz.ru,chronicles.pro,dtpptz.ru,fermagid.ru,hv-info.ru,izmacity.com,ko44.ru,mamadysh-rt.ru,medicalj.ru,muzcentrum.ru,newgubakha.ru,obs.in.ua,ok-inform.ru,planetaskazok.ru,radnuk.info,shansonline.ru,tv29.ru,ualinux.com,zvid.org##.bannergroup
+arz-biz.ru,chronicles.pro,dtpptz.ru,fermagid.ru,hv-info.ru,infoselection.ru,izmacity.com,ko44.ru,mamadysh-rt.ru,medicalj.ru,muzcentrum.ru,newgubakha.ru,obs.in.ua,ok-inform.ru,planetaskazok.ru,radnuk.info,shansonline.ru,tv29.ru,ualinux.com,zvid.org##.bannergroup
 objavlenija.respublika.cz##.bannergroupr-nostyle
 torrentiko.net##.bannerh
 micro-win.com##.bannerhead
@@ -13076,7 +13075,7 @@ na-svyazi.ru##.bg0[width]
 mobiltelefon.ru##.bg_banner
 redirekt.info##.bg_header_right > .soft
 agroreview.com##.bg_image
-g-list.ru##.bgad
+g-list.ru,ongab.ru##.bgad
 g-list.ru##.bgad + div[style*="height:"]
 altgazeta.ru##.bgbanner
 kmory.ru##.bgcolortr > td[style*="padding-right"] *
@@ -13601,6 +13600,7 @@ ekabu.ru##.e-zen-block
 tushkan.club,tushkan.net##.eBlock > tbody > tr > td > center
 xn--80apfbog4e.com.ua,киношка.com.ua##.eText > div[align="center"]
 bashskazki.ru##.ea-col
+briefly.ru##.ebooks-widget
 business-gazeta.ru##.eda-kazanda
 sivator.com##.edina > a[href="http://monstro-beats.com/"]
 sergeydolya.livejournal.com##.edwrap
@@ -13898,6 +13898,7 @@ mmatoday.info##.home-right-rk
 apparat.cc##.homeBanner
 volnorez.com##.home_Advert
 kinovit.org##.homeads
+briefly.ru##.honey
 gametech.ru,ixbt.com##.horb
 pdalife.ru##.horizontalBanner
 rz.com.ua##.horizontal_baner
@@ -14929,6 +14930,7 @@ manutd.ru##.shadow_banner
 mmogamez.ru##.shapka > a[target="_blank"]
 zdrava2015.net.ua##.shareaholic-ad-content
 briefly.ru#?#.shelf:-abp-has(> .adaptive-banner)
+briefly.ru#?#.shelf:-abp-has(> .ebooks-widget)
 briefly.ru#?#.shelf:-abp-has(> [data-disclaimer*="Реклама"])
 briefly.ru##.shelf_type_recommendations
 telegraf.com.ua##.shopart
@@ -15171,7 +15173,6 @@ playboyrussia.com##.subdzen
 dota2.ru##.subline ~ :not([id="navigation"]):not([class="page-width"])
 turbobit.net##.subs-top-banner
 mk.ru##.subsctibe-under-article_zen
-briefly.ru##.summary_box > :not(.breadcrumbs):not(.entry-content) > *
 bilshe.com#?#.svejnov:-abp-has(> h2 > b:-abp-contains(/^Інші/))
 games-porno.net##.swfgame_banners
 tonkosti.ru##.sys-sky
@@ -15960,7 +15961,7 @@ sia.ru##a[href*="/?section=519"]
 glazey.info##a[href*="/Na-pravah-reklamy/"]
 pr-cy.ru##a[href*="/a/click/"]
 24warez.ru,2x2forum.ru,5terka.com,720hdfilm.biz,ace-stream.tv,alive-ua.com,animedub.ru,aniplay.tv,ap22.ru,appsgames.ru,bakemono.ru,big-anime.ru,big-games.info,bik-info.ru,cheatground.ru,chelnyagro.ru,chemezova.ru,cknow.ru,dni24.com,ecofoodferma.ru,elektrosat.ru,etika-education.ru,filmitorrent.site,gamelendi.ru,gazetaby.com,geekmir.ru,gitjournal.tech,gooool.org,hdzal.net,hype.tech,igra-wow.ru,igui.mobi,inform-ua.info,instrument16.ru,kinogo-onlain.net,kinogo-v-hd.ru,kinogod.club,kinogou.co,kinomaxfilm.ru,klub-masterov.ru,kritika24.ru,lelang.ru,libking.ru,lordfilm.net,lostfilm-2020.ru,mixbits.ru,mmorpg.su,moy-instrument.ru,mrtranslate.ru,multfilms.online,newsgsm.com,ognennoetv.ru,ok-tv.org,only-tv.org,osortah.ru,outsidethebox.ms,parazit24.me,pekagames.ru,peugeot-citroen.net,pluggedin.ru,pravdatut.ua,privatbankrf.ru,ravis-avto.ru,remont-avtovaz.ru,repack-fitgirl.com,revelationonlinedb.ru,root-nation.com,rpgdon.com,rusplt.ru,rutracker.ru,samelectric.ru,seasonvar.re,selomoe.ru,seloved.ru,shkolniku.com,siddgames.ru,simhost.org,small-games.info,smotret-fizruk-online.su,smotri.com,sonix.tk,stalkermod.ru,steampass.ru,stiralkainfo.ru,technical.city,tivix.co,tmbw.ru,topasnew.ru,topmmo-games.ru,torrent-games-2016.ru,torrentigri.xyz,totori.ru,trackitonline.ru,tuttop.com,tv-only.org,tvoilokony.ru,uanic.name,uaspectr.com,vizazh-2.ru,volga.news,vsetop.org,vsetut.su,yamdex.net,zhaparova.ru##a[href*="/ad.admitad.com/"]
-1tulatv.ru,aif.ru,allbest.ru,alogvinov.com,censor.net,compulenta.ru,computerra.ru,cyberforum.ru,disgustingmen.com,filmpro.ru,fishki.net,forums.goha.ru,gamebomb.ru,gamemag.ru,gamer-info.com,gismeteo.ru,gotps3.ru,kudago.com,maximonline.ru,mmorpg.su,mobiltelefon.ru,move.ru,noob-club.ru,omskpress.ru,osp.ru,penzavzglyad.ru,pikabu.ru,ps3hits.ru,readovka.ru,shazoo.ru,sobaka.ru,soccer.ru,sportbox.ru,strana.ua,tapochek.net,thg.ru,ua-football.com##a[href*="/ad.adriver."]
+1tulatv.ru,aif.ru,allbest.ru,alogvinov.com,censor.net,compulenta.ru,computerra.ru,cyberforum.ru,disgustingmen.com,filmpro.ru,fishki.net,forums.goha.ru,gamebomb.ru,gamemag.ru,gamer-info.com,gismeteo.ru,gotps3.ru,kudago.com,maximonline.ru,mmorpg.su,mobiltelefon.ru,move.ru,noob-club.ru,omskpress.ru,osp.ru,penzavzglyad.ru,pikabu.ru,ps3hits.ru,readovka.ru,shazoo.ru,sobaka.ru,soccer.ru,sportbox.ru,strana.ua,stratege.ru,tapochek.net,thg.ru,ua-football.com##a[href*="/ad.adriver."]
 bigkiev.com.ua##a[href*="/ad/click/"]
 forum.woodtools.ru##a[href*="/ad/www/delivery/ck.php"]
 alldz.net##a[href*="/addownload.html"]
@@ -17023,12 +17024,12 @@ drive2.ru#?#div[class]:-abp-has(> div > div > .drom-logo)
 novayagazeta.ru#?#div[class]:-abp-has(> div[style^="display"] ~ div > div[id*="adfox_"])
 echo.msk.ru##div[class]:first-child > div[class*=" "]:first-child > div[class*=" "] > div[id] + style + div[class*=" "]
 echo.msk.ru##div[class]:first-child > div[class*=" "]:first-child > div[id] + style + div[class*=" "]
+sdamgia.ru##div[class]:first-child > div[style="width: 100%; height: 100%;"]
+sdamgia.ru##div[class]:not([id]):first-child > div[class*=" "] > div[class*=" "] > div[class*=" "]
 www.kinopoisk.ru##div[class]:not([id]):first-child > div[class*=" "] > div[id]:not([class]):first-child + style + div[class*=" "]:last-child
 ytvideo.ru##div[class][data-aid]
 dorognoe.ru,europaplus.ru,radio7.ru,retrofm.ru,sportfm.ru##div[class][data-element*="BANNER"]
 echo.msk.ru##div[class][data-role=""]
-sdamgia.ru##div[class][id]:first-child > div[class][id] > div[class][id] > div[class][id]
-sdamgia.ru##div[class][id]:first-child > div[style="width: 100%; height: 100%;"]
 mk.ru,prnt.sc##div[class][style*="important"]
 echo.msk.ru##div[class][style=""]
 rlocman.ru##div[class][style="background-color:#fcfcee;padding:10px"]
@@ -17128,6 +17129,7 @@ screenpost.ru##div[class^="featured"]
 vk.com#?#div[class^="feed_row "] > div[id^="feed_repost-"]:-abp-has(.wall_marked_as_ads)
 vk.com#?#div[class^="feed_row "] > div[id^="post-"]:-abp-has(.wall_marked_as_ads)
 mklat.lv,zpravda.ru##div[class^="flexbannergroup"]
+infoselection.ru##div[class^="fonrec"]
 fortrader.org##div[class^="ftprefix"]
 auto.vesti.ru##div[class^="g-banner"]
 mk.ru##div[class^="good-place"]
@@ -20354,7 +20356,7 @@ igdz1.ru^$script,domain=igdz.ru
 ||onboardvideo.com.ua/images/adban/
 ||oneseasons.club/none.xml
 ||oneseasons.club^*.mp4|$domain=oneseasons.club
-||ongab.ru^*/img/ban/
+||ongab.ru/html/img/bgs/
 ||online-films.ckoro.ru/akter/1420.jpg
 ||online-life.*/oln/
 ||online.multilex.ru^*banner
@@ -22811,6 +22813,7 @@ alpindustria.ru##.popup.subscribe_panel
 rusmonitor.com##.ppsPopupShell
 tass.ru##.push-notice
 gdz-free.com##.shadow
+it-actual.ru##.site-wordpress
 mixednews.ru##.slidebox_social
 domkino.tv##.social-annoyer
 lolzona.ru##.stb-container
