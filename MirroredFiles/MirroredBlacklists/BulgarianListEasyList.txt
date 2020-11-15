@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202011132307
+! Version: 202011150012
 ! Title: EasyPrivacy
-! Last modified: 13 Nov 2020 23:07 UTC
+! Last modified: 15 Nov 2020 00:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7794,7 +7794,6 @@ _mongo_stats/
 ||ssm.codes^$third-party
 ||stack-sonar.com^$third-party
 ||stackadapt.com^$third-party
-||stackvaults.com^$third-party
 ||stadsvc.com^$third-party
 ||star-cntr-5.com^$third-party
 ||stat-track.com^$third-party
@@ -8300,6 +8299,7 @@ _mongo_stats/
 ||zedwhyex.com^$third-party
 ||zeerat.com^$third-party
 ||zeotap.com^$third-party
+||zeronaught.com^$third-party
 ||zesep.com^$third-party
 ||zeustechnology.com^$third-party
 ||zoomanalytics.co^$third-party
@@ -8915,6 +8915,7 @@ _mongo_stats/
 ||roofrelation.com^$third-party
 ||rusticprice.com^$third-party
 ||ruthlessdegree.com^$third-party
+||satisfycork.com^$third-party
 ||savoryorange.com^$third-party
 ||scientificshirt.com^$third-party
 ||scintillatingscissors.com^$third-party
@@ -10524,6 +10525,7 @@ _mongo_stats/
 ||counter.top.ge^
 ||counter.yadro.ru^
 ||counters.freewebs.com^
+||countly.stackvaults.com^
 ||country.yepshare.com^
 ||creativecdn.com/pix/?
 ||creativecdn.com/tags?
@@ -11422,6 +11424,7 @@ _mongo_stats/
 ||print2webcorp.com/mkt3/_js/p2w_tracker.js
 ||prism.app-us1.com^$script,third-party
 ||privacytool.org/AnonymityChecker/js/fontdetect.js$third-party
+||processor.asccommunications.com^
 ||production-mcs.lvp.llnw.net^
 ||production.mcs.delve.cust.lldns.net^
 ||project-syndicate.org/fwat.js
@@ -17596,7 +17599,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||mxpnl.com/libs/mixpanel-*.min.js$domain=change.org|frigidaire.com|greentoe.com
 @@||mxpnl.com^$domain=mixpanel.com
 @@||mywebar.com/js/tracking_worker.js$~third-party
-@@||ncbi.nlm.nih.gov/stat?
+! @@||ncbi.nlm.nih.gov/stat?
 @@||newrelic.com/nr-*.min.js$domain=surveymonkey.co.uk|surveymonkey.com|surveymonkey.de|surveymonkey.ru
 @@||newrelic.com/public/charts/$subdocument,xmlhttprequest
 @@||nfltags.com/omniture/$script,domain=nfl.com
@@ -17714,6 +17717,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||tools.usps.com/go/scripts/tracking.js
 @@||tracking.unrealengine.com/tracking.js
 @@||travix.com/searchoptions?affiliate=$xmlhttprequest
+@@||trueaccordengage.com/tae/api/v1/collectors/$~third-party
 @@||tw.cx/c?a=$xmlhttprequest,domain=justwatch.com
 @@||udottraffic.utah.gov/javascripts/Piwik.js
 @@||uefa.com/inc/js/core/projects/statistics/statistics.js?$script

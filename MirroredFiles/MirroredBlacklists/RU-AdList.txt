@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 20XwAOmlq31G3hW/dNg0Kg
-! Version: 202011140020
+! Checksum: 4oPGQuA3sifUfL8sqq3V9Q
+! Version: 202011150020
 ! Title: RU AdList
-! Last modified: 14 Nov 2020 00:20 UTC
+! Last modified: 15 Nov 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -2138,7 +2138,7 @@ me##td[background^="//cdn.livetv"] tr > td[valign="top"] + td[align="right"]
 /t.bbn?$third-party
 /talky3d.gif
 /tds.php?*=*=$third-party,script
-/teaser.$~media,~object,domain=~amocrm.ru|~gosuslugi.ru|~insomnihack.ch|~pik-comfort.ru|~play.date|~uplabs.com
+/teaser.$~media,~object,domain=~amocrm.ru|~gosuslugi.ru|~insomnihack.ch|~kp.ru|~pik-comfort.ru|~play.date|~uplabs.com
 /teaser2.
 /teaser_klubnika/*
 /teaserblock.site.js
@@ -11287,6 +11287,7 @@ anime-free.biz###Comm
 rp5.am,rp5.by,rp5.co.uk,rp5.kz,rp5.lt,rp5.lv,rp5.md,rp5.ru,rp5.ua###FheaderContent > #archiveString ~ div[id]:not([class]):not([id="forecastShort"])
 onlinemusic.com.ua###GoodVane
 minfin.com.ua###HMmenuPaymentsMain
+kp.ru###HTML1.image_header
 e-reading.club###LeftAds
 samods.ru###LeftBox
 apoi.ru###MainBanner
@@ -11364,6 +11365,7 @@ pic-chik.com###alert-wrap
 smartbobr.ru###alioffer
 7themes.su#?##allEntries > div[id^="entryID"]:-abp-has(.adsbygoogle)
 delpos.ru###allEntries ~ a[href]
+kp.ru#?##allrecords > div[id^=rec]:-abp-has([id^="marketWidget"])
 zserials.cc###amgf
 winstation.ru###amgo
 pesenok.ru,songpros.ru,songspro.ru###amigo_btn
@@ -11384,6 +11386,7 @@ stopress.ru###aside.punktir
 zakon.kz###aside300 > :not(#lastnews):not(#left_scrollable)
 upn.ru###aspnetForm > center
 gorod55.ru###at-cv-lightbox
+google.by,google.com,google.com.ua,google.kz,google.ru###atvcap
 meta.ua###aukro_s
 nm71.ru###az1
 nm71.ru###az2
@@ -11552,6 +11555,7 @@ superhumor.ru,voffka.com###content > .blog
 kak-prosto.net###content > .container
 rz.com.ua###content > .container > #page-header
 wotsite.net###content > .info-box
+kyron-clan.ru###content > .ipsAd > script + div:not([id]):not([class])
 news-front.info###content > .lenta
 it-actual.ru#?##content > .nav-single:-abp-has(> ins)
 ukrlib.com.ua###content > .readalser
@@ -11958,7 +11962,7 @@ vashdom.ru###out_banner
 electricalschool.info###outer > #third
 woman.ru###outside-col
 outlook.live.com###owaadbar
-101kinopoisk.com,aghdrezka.com,ahdrezka.com,betahdrezka.com,clubhdrezka.com,cokinopoisk.com,drhdrezka.com,ehdrezka.com,ekinopoisk.com,ezhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.club,hdrezka.co,hdrezka.gift,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.sh,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,hdrezkablog.com,hdrezkaweb.com,hdrezkayou.com,instahdrezka.com,justhdrezka.com,livehdrezka.com,livekinopoisk.com,metahdrezka.com,mrhdrezka.com,myhdrezka.com,nexthdrezka.com,nuhdrezka.com,nukinopoisk.com,rehdrezka.com,rezka.ag,thehdrezka.com,tryhdrezka.com,tvhdrezka.com,uphdrezka.com,youhdrezka.com###ownplayer-link-show
+101kinopoisk.com,aghdrezka.com,ahdrezka.com,betahdrezka.com,clubhdrezka.com,cokinopoisk.com,drhdrezka.com,ehdrezka.com,ekinopoisk.com,ezhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.club,hdrezka.cm,hdrezka.co,hdrezka.gift,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.sh,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,hdrezkablog.com,hdrezkaweb.com,hdrezkayou.com,instahdrezka.com,justhdrezka.com,livehdrezka.com,livekinopoisk.com,metahdrezka.com,mrhdrezka.com,myhdrezka.com,nexthdrezka.com,nuhdrezka.com,nukinopoisk.com,rehdrezka.com,rezka.ag,thehdrezka.com,tryhdrezka.com,tvhdrezka.com,uphdrezka.com,youhdrezka.com###ownplayer-link-show
 wikireality.ru###p-sidebar-extlinks
 kinosezon.tv###page > #overlay
 kv.by###page > .region-secondary-content
@@ -12410,7 +12414,7 @@ enter.az###videorekframe
 smartphone.ua###videos-ads
 drochunov.net###vista_toolbara > table:nth-of-type(2)
 video.sibnet.ru###vjs-overlayclip-container-box
-101kinopoisk.com,aghdrezka.com,ahdrezka.com,betahdrezka.com,clubhdrezka.com,cokinopoisk.com,drhdrezka.com,ehdrezka.com,ekinopoisk.com,ezhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.club,hdrezka.co,hdrezka.gift,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.sh,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,hdrezkablog.com,hdrezkaweb.com,hdrezkayou.com,instahdrezka.com,justhdrezka.com,livehdrezka.com,livekinopoisk.com,metahdrezka.com,mrhdrezka.com,myhdrezka.com,nexthdrezka.com,nuhdrezka.com,nukinopoisk.com,rehdrezka.com,rezka.ag,thehdrezka.com,tryhdrezka.com,tvhdrezka.com,uphdrezka.com,youhdrezka.com###vk_groups + div[style]
+101kinopoisk.com,aghdrezka.com,ahdrezka.com,betahdrezka.com,clubhdrezka.com,cokinopoisk.com,drhdrezka.com,ehdrezka.com,ekinopoisk.com,ezhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.club,hdrezka.cm,hdrezka.co,hdrezka.gift,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.sh,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,hdrezkablog.com,hdrezkaweb.com,hdrezkayou.com,instahdrezka.com,justhdrezka.com,livehdrezka.com,livekinopoisk.com,metahdrezka.com,mrhdrezka.com,myhdrezka.com,nexthdrezka.com,nuhdrezka.com,nukinopoisk.com,rehdrezka.com,rezka.ag,thehdrezka.com,tryhdrezka.com,tvhdrezka.com,uphdrezka.com,youhdrezka.com###vk_groups + div[style]
 nagon.net###vk_up_table
 galya.ru###vp_main_520
 stolica.ru###vst_mvideo
@@ -12478,16 +12482,17 @@ hqq.tv##.BetterJsPopOverlay
 ixbt.com##.Blocksmaster
 f1analytic.com##.BoxVideo.clear ~ .BoxVideo.clear
 mail.google.com##.Bu.y3
+sdamgia.ru##.ContentTopAd
 meduza.io##.DFPBanner-root
 e1.ru##.DVsb
 euro2016.cc##.DmWidget
 nulled.cc##.EstBS-bnContent
 fanfics.me##.FicHead.ContentTable > .left
+sdamgia.ru##.Footer-Ad
 razvitierebenka.com#?#.HTML:-abp-has(> .widget-content > .adsbygoogle)
 russiandc.com##.L
 spot.uz##.LeaderBoard
 tvtorrent.me##.MIXADVERT_NET ~ [src*="mixadvert"] + div
-kompravda.eu,kp.ru##.MainAdv
 do.ru##.MyOpacity1
 forums.sumy.ua##.Notices.PanelScroller
 forum.nag.ru##.OX[id^="OA_"]
@@ -12497,6 +12502,7 @@ russiandc.com##.R
 gold-torrent.org##.RELINK
 therussianamerica.com##.RightColumn .Content > a
 muz.ru##.SEO
+sdamgia.ru##.SidebarTopAd
 tonkosti.ru##.SkyscannerFormInContent
 softportal.com##.TblBorderCLR2 center > a[href][target="_blank"]
 softportal.com##.TblOBan
@@ -12597,6 +12603,7 @@ orl.ec##.ads-inner-top
 wav-library.net##.ads-long-block
 click-or-die.ru##.ads-phead
 fireman.club##.ads-popup
+medialeaks.ru##.ads-run-blocks
 klubok.com##.ads-separator
 cn.ru##.ads-soloway
 meteobar.com##.adsDesktop
@@ -12802,7 +12809,7 @@ hata.by##.b-catalog-table__sale
 orakul.ua##.b-cont
 kolesa.kz##.b-container
 penzavzglyad.ru##.b-content
-101kinopoisk.com,aghdrezka.com,ahdrezka.com,betahdrezka.com,clubhdrezka.com,cokinopoisk.com,drhdrezka.com,ehdrezka.com,ekinopoisk.com,ezhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.club,hdrezka.co,hdrezka.gift,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.sh,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,hdrezkablog.com,hdrezkaweb.com,hdrezkayou.com,instahdrezka.com,justhdrezka.com,livehdrezka.com,livekinopoisk.com,metahdrezka.com,mrhdrezka.com,myhdrezka.com,nexthdrezka.com,nuhdrezka.com,nukinopoisk.com,rehdrezka.com,rezka.ag,thehdrezka.com,tryhdrezka.com,tvhdrezka.com,uphdrezka.com,youhdrezka.com##.b-content__main > div[style][id]:not([class]):empty
+101kinopoisk.com,aghdrezka.com,ahdrezka.com,betahdrezka.com,clubhdrezka.com,cokinopoisk.com,drhdrezka.com,ehdrezka.com,ekinopoisk.com,ezhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.club,hdrezka.cm,hdrezka.co,hdrezka.gift,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.sh,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,hdrezkablog.com,hdrezkaweb.com,hdrezkayou.com,instahdrezka.com,justhdrezka.com,livehdrezka.com,livekinopoisk.com,metahdrezka.com,mrhdrezka.com,myhdrezka.com,nexthdrezka.com,nuhdrezka.com,nukinopoisk.com,rehdrezka.com,rezka.ag,thehdrezka.com,tryhdrezka.com,tvhdrezka.com,uphdrezka.com,youhdrezka.com##.b-content__main > div[style][id]:not([class]):empty
 svpressa.ru##.b-content__section_partners
 svpressa.ru##.b-content__section_teasers
 svpressa.ru##.b-content__title[href^="http://mediametrics.ru"]
@@ -12836,7 +12843,7 @@ unn.com.ua##.b-page-border > ul[style*="width: 600px"]
 primpress.ru##.b-partners-news
 imgal.ru,nemo-crack.org##.b-popup
 hdrezka1.site##.b-post__description > noindex
-101kinopoisk.com,aghdrezka.com,ahdrezka.com,betahdrezka.com,clubhdrezka.com,cokinopoisk.com,drhdrezka.com,ehdrezka.com,ekinopoisk.com,ezhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.club,hdrezka.co,hdrezka.gift,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.sh,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,hdrezkablog.com,hdrezkaweb.com,hdrezkayou.com,instahdrezka.com,justhdrezka.com,livehdrezka.com,livekinopoisk.com,metahdrezka.com,mrhdrezka.com,myhdrezka.com,nexthdrezka.com,nuhdrezka.com,nukinopoisk.com,rehdrezka.com,rezka.ag,thehdrezka.com,tryhdrezka.com,tvhdrezka.com,uphdrezka.com,youhdrezka.com##.b-post__mixedtext + div[id]
+101kinopoisk.com,aghdrezka.com,ahdrezka.com,betahdrezka.com,clubhdrezka.com,cokinopoisk.com,drhdrezka.com,ehdrezka.com,ekinopoisk.com,ezhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.club,hdrezka.cm,hdrezka.co,hdrezka.gift,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.sh,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,hdrezkablog.com,hdrezkaweb.com,hdrezkayou.com,instahdrezka.com,justhdrezka.com,livehdrezka.com,livekinopoisk.com,metahdrezka.com,mrhdrezka.com,myhdrezka.com,nexthdrezka.com,nuhdrezka.com,nukinopoisk.com,rehdrezka.com,rezka.ag,thehdrezka.com,tryhdrezka.com,tvhdrezka.com,uphdrezka.com,youhdrezka.com##.b-post__mixedtext + div[id]
 tut.by##.b-prmplace
 biwork.ru##.b-promo-slider
 mport.ua,techno.bigmir.net##.b-puzzle-banner
@@ -13348,6 +13355,7 @@ glazey.info##.client
 literaguru.ru##.clinic-image
 tutu.ru##.clockWrapper
 sportarena.com##.closebtn
+kp.ru##.cmn_r
 bolshoyulov.ru,gubdaily.ru,kakbog.com,o-polze.com,poravkrym.ru,villaved.ru##.code-block
 1igolka.com,vsekamni.net#?#.code-block:-abp-has(> .content_rb)
 it-tehnik.ru##.code-block[class*="ai-"]
@@ -13429,7 +13437,6 @@ wotsite.net#?#.container-mat p:-abp-contains(Реклама)
 theplace.ru##.container-rekl-top
 1news.com.ua#?#.container-wrapper:-abp-has(> .mag-box-title:-abp-contains(Партнери проекту))
 filmix.cc,filmix.co,filmix.email,filmix.ink,filmix.ltd,filmix.online,filmix.site,filmix.today,filmix.zone#?#.container:-abp-has(> .remove-sda-wrap)
-kp.ru##.container_branding
 yakusubstudio.forum2x2.ru##.contbaner
 novostioede.ru##.contdi
 novostioede.ru##.contdiv
@@ -13717,7 +13724,6 @@ yarnews.net##.for-banner
 pornorip.biz##.forabg div[class][style*="cursor"]
 vgtimes.ru##.forge_empires
 loginz.org##.form-wrapper.cf
-kp.ru##.form_brand
 rybalka.com##.forum_buttons
 poiskvps.ru##.forumbg.forumbg-table[style*="background-color:#00A857"]
 nnm-club.lib,nnm-club.me,nnmclub.ro,nnmclub.to##.forumline > tbody > tr > td.spaceRow > center
@@ -13976,6 +13982,7 @@ besplatnyeprogrammy.ru##.ip-motto + table > thead
 slivup.biz##.ipsA1d
 zismo.biz##.ipsAd123
 zismo.biz##.ipsAd123 + div[align="center"]
+kyron-clan.ru##.ipsLayout_right > a[href]
 fisher.spb.ru#?#.ipsList_reset > .ipsWidget:-abp-has(> div > [id^="yandex_rtb"])
 fisher.spb.ru#?#.ipsList_reset > .ipsWidget:-abp-has(> div > p > a > img[src*="/banners/"])
 meat-expert.ru##.ipsPad_bottom
@@ -14051,7 +14058,6 @@ kloomba.com##.kl-ad-item
 topfile.tj##.knopka
 osvita.ua##.kom
 aqua-therm.ru##.kp-top-banner
-kp.ru##.kplContTxt > .kprCont
 megatorrents.org##.ksAvd
 old.kurs.com.ru##.kursInformer #head-content
 old.kurs.com.ru##.kursInformer #ref
@@ -15278,6 +15284,7 @@ notefood.ru,videoshara.net##.tizer
 avtoelektrik-info.ru,jekstrasens.ru##.tizers
 gidonline.fun,gidonline.io##.tiznews
 rusdemotivator.ru##.tizz
+stratege.ru##.tlpf_info_box > div[class$="_title"]
 newformat.info##.tm-content ~ .tm-main-bottom .widget_custom_html:not([style])
 tmbw.ru##.tmbwrekbelow
 kinovdom.tv##.tn-player-tsr
@@ -15318,7 +15325,6 @@ ctc.ru,govoritmoskva.ru,karaoke.ru,maxpark.com,megomult.ru,newsland.com##.topBan
 vinnitsa.info##.topBanners
 risk.ru##.topBar
 ua-football.com##.topBook
-kompravda.eu,kp.ru##.topInfo .linkOther
 panzer35.ru##.topLink a[href*="ruscale.ru"]
 join.ua##.top_728x90_banner
 sexytal.com,sexytales.ru##.top_a
@@ -15599,7 +15605,6 @@ radarmedia.net##.yandex-link
 riamo.ru##.yandex-news-promo--yandex
 sdelanounas.ru##.yandex-zen
 regmarkets.ru##.yandexAd
-kp.ru##.yandexNewsSubscribe
 queen-time.ru##.yandex_ad_floating
 freeexe.net##.yandex_ads
 topcor.ru,topwar.ru##.yandex_dzen
@@ -16921,7 +16926,6 @@ vesdoloi.ru##div[class$="_ads"]
 thr.ru##div[class$="_branding"]
 gorod.cn.ua##div[class$="_pos"]
 kramola.info##div[class$="_size_240x400"]
-stratege.ru#?#div[class$="_title"]:-abp-contains(/Рeклaмa/)
 apple-russia.ru##div[class$="adv"]
 hdkinoteatr.com,hdkinoteatr3.net##div[class$="col"] > .side ~ .side + .sidebtm ~ *
 cosmo.ru##div[class*="-banner-"]
@@ -17030,6 +17034,7 @@ www.kinopoisk.ru##div[class]:not([id]):first-child > div[class*=" "] > div[id]:n
 ytvideo.ru##div[class][data-aid]
 dorognoe.ru,europaplus.ru,radio7.ru,retrofm.ru,sportfm.ru##div[class][data-element*="BANNER"]
 echo.msk.ru##div[class][data-role=""]
+stratege.ru##div[class][id$="_content"] > div:not([id]):not([class]) > [class^="alelt_"][class$="_info"] > div[class$="_title"]
 mk.ru,prnt.sc##div[class][style*="important"]
 echo.msk.ru##div[class][style=""]
 rlocman.ru##div[class][style="background-color:#fcfcee;padding:10px"]
@@ -17196,6 +17201,7 @@ infoyarsk.com##div[class^="sticky-block"]
 provladimir.ru##div[class^="stream-item"]
 4rama.com##div[class^="strus"]
 autotopik.ru##div[class^="stuleblok"]
+kp.by,kp.kg,kp.kz,kp.md,kp.ru##div[class^="styled__AdWrapper-"]
 newsru.com##div[class^="superstyle"]
 glavpost.com,ittour.com.ua,legalrc.biz,legalrc.com,meta.ua,prohondroz.ru##div[class^="teaser"]
 dlltop.ru##div[class^="tm-article-banner"]
@@ -17447,6 +17453,7 @@ cxem.net##div[id^="product-anti-ad"]
 allcc.ru##div[id^="promo_"]
 berdyansk.biz##div[id^="promo_banner"]
 kosmetista.ru##div[id^="psn_"]
+kp.ru##div[id^="rec"] > div div[style="align-items:center;"]
 vellisa.ru##div[id^="reclamads"]
 kabachok.online,s-platoon.ru,stulchik.net##div[id^="rek"]
 nashol.com##div[id^="rek"][style]
@@ -17843,7 +17850,7 @@ zelenograd.ru##noindex td[width="40%"] > noindex
 litlib.net#?#noindex tr:-abp-has(td[class^="content"]:-abp-contains(Реклама))
 orenday.ru##noindex video
 orenday.ru##noindex video ~ *
-euro-football.ru##noindex:-abp-has(> [href*="goo.gl"])
+euro-football.ru#?#noindex:-abp-has(> [href*="goo.gl"])
 dndz.tv,pornreactor.cc##object
 geonavigator.ge,navigator.az##object[data*="banner"]
 omskzdes.ru##object[id^="banner"]
@@ -18581,9 +18588,6 @@ $xmlhttprequest,domain=happy-biock.info|happy-block.info|howto-news.info|kinohom
 /jquerys.js$domain=1tvv.ru|2012-drakon.ru|2012-god.ru|2015-god-kozy.ru|alterprogs.ru|amurutro.ru|ap7.ru|bike-pro.ru|bilsh.com|careers.ua|daily-news.com.ua|darksound.ru|dengiua.com|diplom4rabota.ru|dynamo-kiev.com|electronika.spb.ru|faxnews.ru|fond-sovest.ru|fotochki.com|gadgetblog.ru|gamesnice.ru|glashataj.info|globalomsk.ru|god-zmei.ru|godkota.ru|godkozy.ru|gogofiles.net|gorod-zlatoust.ru|great-income.ru|gsm-csb.ru|guitar-love.ru|healthystyle.info|huaweiclub.ru|i-no.ru|igeek.ru|intell.in.ua|jampo.com.ua|jusonline.ru|kaspianchoob.com|livegif.ru|lock-omsk.ru|marafonec.com|maxigame.su|mcomp.org|mediahouse.com.ua|miptic.ru|mir-kliparta.ru|mobile-novinki.ru|myimperia.ru|nakapote.com|nb-yanao.ru|neodrive.ru|nepoleno.ru|newsdnya.ru|newsinmir.com|nokia-lifestyle.ru|novoden.ru|obzh.ru|onegadget.ru|orbita-lviv.com|pingola.ru|pokemongo-go.ru|pravpost.org.ua|rao-ees.ru|ratnet.od.ua|remontidekor.ru|softgaz.ru|sosedi2015.ru|spletnius.ru|stuffed.ru|submarine.od.ua|sup-idea.com|supreme2.ru|tic.com.ua|tipslife.ru|topicnews.net|turmouse.ru|uralmtk.ru|usetrans.com|v2013.ru|vhoru.com.ua|vkulake.com|vnebi.com|vremechko.org|vremyamn.ru|webrecepty.info|yuriblog.ru|zakryma.ru|zamanula.ru|zheltaya.ru
 /js/*.js?$script,domain=bib.social|economics.studio|economuch.com|finbook.news|lawbook.online|lawbooks.news|lib.ink|lib.sale|pravo.studio|provse.news|psihologia.biz|sci.house|scicenter.online|textbook.news|textbooks.studio|texts.news|uchebnikfree.com|xn--80aaivjfyj3e.com|xn--80ahc0abogjs.com
 /js/buy_book.js$script,domain=klex.ru|koob.pro|koob.ru
-/js/frames/*banners$script,domain=kompravda.eu|kp.by|kp.ru
-/js/frames/adfoxurl.js$script,domain=kompravda.eu|kp.by|kp.ru
-/js/module/isBlocked.js$script,domain=kompravda.eu|kp.by|kp.ru
 /js/pop*.js$script,domain=superhumor.ru|voffka.com
 /js/v.js$script,domain=superhumor.ru|voffka.com
 /klama/$domain=superhumor.ru|voffka.com
@@ -19094,6 +19098,7 @@ igdz1.ru^$script,domain=igdz.ru
 ||cdn.readovka.ru^*/html5/
 ||cdn.taboola.com/libtrc/$domain=kg-portal.ru|newsru.com|zahav.ru
 ||cdn.taboola.com/libtrc/disqus-russia-network/loader.js
+||cdn.viqeo.tv/js/vq_fly_widget.js$domain=kp.ru
 ||cdnbalancer.ru^$script
 ||cdnbase.com/media/files/*-240.jpg$domain=fast-film.org|fast-film.ru|fast-fiml.ru|fast-torrent.club|fast-torrent.ru|fast-torrent.su|fasttorent.su|filmopotok.ru|filmpotok.ru|kinomaniac.ru|pickfilm.ru|veleto.ru
 ||cdnstream1.ru^$script
@@ -19897,7 +19902,6 @@ igdz1.ru^$script,domain=igdz.ru
 ||kot-i-koshka.ru/wp-content/uploads/6b
 ||kozhuhovo.com/!images/banners/
 ||kp.ru/guide/js/brp.js
-||kp.ru/js/frames/ad.js
 ||kp40.ru/upload/*branding.$image
 ||kpcdn.net^*/banner_img/
 ||kramola.info/banners/
@@ -21871,6 +21875,7 @@ e.mail.ru,octavius.mail.ru##.letter-list-item-adv
 @@||octavius.mail.ru^$generichide
 ! Спорт
 sportmail.ru##.article__item_conversionlink
+sportmail.ru##.article__item_source_viqeo
 sportmail.ru##.bannered__right
 sportmail.ru##.box_double ~ .box_double
 sportmail.ru#?#.js-fixed-panel .box:-abp-has([class*="spring"])
@@ -21932,6 +21937,7 @@ pulse.mail.ru#?#div[class^="pl_"]:-abp-has(> * > [href*="t.mail.ru/redir"])
 dom.mail.ru##div[data-qa="ArticlesList"] > [data-qa="ArticleThumb"] ~ :not([data-qa="ArticleThumb"] )
 minigames.mail.ru##div[id^="slot"][id*="sitezone"]
 maps.mail.ru##img[width="200"][height="30"]
+!
 ! Блокировка ресурсов в основном на самом mail.ru
 //r.mail.ru/b$subdocument
 //rs.mail.ru/b$domain=e.mail.ru
@@ -21944,6 +21950,7 @@ maps.mail.ru##img[width="200"][height="30"]
 ||ad.mail.ru^$domain=~e.mail.ru|~octavius.mail.ru|~otvet.mail.ru|~target.my.com
 ||bs.mail.ru^$image,domain=mail.ru
 ||c-cdn.coub.com^$script,domain=mail.ru
+||cdn.viqeo.tv^$domain=sportmail.ru
 ||hiwoenrep.ru^$csp=script-src
 ||imgsmail.ru/*/video-html5/custom-preroll_
 ||imgsmail.ru/js/onair2.$script
@@ -23256,7 +23263,7 @@ faberlic.by#@#.fbContainer
 f-igri.ru#@#.google_ad
 skodarapidclub.ru#@#.headerad
 ecology-of.ru#@#.home-ads
-simmama.com#@#.ipsAd
+kyron-clan.ru,simmama.com#@#.ipsAd
 erokarta.ru,kinoclub.org.ua#@#.item-ads
 sellua.info#@#.lastads
 bestgardener.ru#@#.madv
@@ -23459,6 +23466,7 @@ kinogo-720.net#@#.ya-share2
 @@||amazonaws.com/c.swf?path=http
 @@||amgload.net/z|$third-party,xmlhttprequest
 @@||amgload.net/|$third-party,xmlhttprequest
+@@||an.yandex.ru/adfox/$xmlhttprequest,domain=shop.kp.ru
 @@||an.yandex.ru/crossdomain.xml
 @@||an.yandex.ru/vcset/139995?*&client_type=flash
 @@||androidmag.com.ua/img/banner$image,domain=androidmag.com.ua
@@ -23973,7 +23981,7 @@ betting24.ru#@#a[href^="http://online.ladbrokes.com/promoRedirect?"]
 betting24.ru#@#a[href^="http://partner.sbaffiliates.com/"]
 milanac.ru#@#div[class*="td-a-rec-id-"]
 pets.mail.ru#@#div[data-adq-id^="adqcontainer"]
-ogorod.ru#@#div[id^="adfox_"]
+ogorod.ru,shop.kp.ru#@#div[id^="adfox_"]
 cinemastar.ru#@#div[id^="advads-"]
 www.khl.ru#@#div[id^="crt-"][style]
 aqa.ru,ladiesproject.ru#@#div[id^="div-gpt-ad"]
@@ -24119,7 +24127,7 @@ buildplayer.com,bxfilm.org,delivembed.cc,embedstorage.net,filmets.life,kinogo2.b
 @@||doubleclick.net/pagead/ads?$object,domain=multoigri.ru
 @@||drahelas.ru/r/www/delivery/spc.php?zones=$script,domain=drahelas.ru
 @@||drahelas.ru/r/www/delivery/spcjs.php?id=$script,domain=drahelas.ru
-@@||examenpdd.com/js/adsense.js|$script,domain=examenpdd.com
+@@||examenpdd.com/js/adsenser.js|$script,domain=examenpdd.com
 @@||example.com^$image,subdocument,domain=izzylaif.com
 @@||forbes.ru/themes/forbes/js/adfox/$script,domain=forbes.ru
 @@||forum.ixbt.com/js/fotkidepo/baners//*.js|$script,domain=forum.ixbt.com
@@ -24153,7 +24161,6 @@ buildplayer.com,bxfilm.org,delivembed.cc,embedstorage.net,filmets.life,kinogo2.b
 @@||kinosib.tv/templates/kinosib/js/reklama.js$script,domain=kinosib.tv
 @@||knigilub.ru/*.js|$script,domain=knigilub.ru
 @@||kopilochka.net.ru^*/show_ads.js$script,domain=kopilochka.net.ru
-@@||kp.ru/js/adriver.js|$script
 @@||lamcdn.net/www.the-village.ru/gui/advert-$script,domain=the-village.ru
 @@||list-org.com^$script,xmlhttprequest,domain=list-org.com
 @@||liverail.com/?LR_$object,domain=moevideo.net
@@ -24305,7 +24312,6 @@ joyreactor.cc,pornreactor.cc,reactor.cc##div[style="background:none!important"]
 @@||adriver.ru/cgi-bin/erle.cgi?*&target=blank&tail$script,domain=eg.ru
 @@||adriver.ru/images/$script,domain=eg.ru|forum.tatfish.com|meta.ua|mobile-review.com|newsland.com|ozon.ru|reutov-tv.2x2tv.ru|thg.ru
 @@||adriver.ru^$~third-party
-@@||adv.magna.ru/?id=$script,domain=kp.ru
 @@||advertpay.net/code?$script,domain=dic.academic.ru
 @@||cdn.jsdelivr.net/mobile-detect.js$script,domain=tivix.co
 @@||googleadservices.com/pagead/conversion.js$script,domain=vsenovostroyki.com.ua
