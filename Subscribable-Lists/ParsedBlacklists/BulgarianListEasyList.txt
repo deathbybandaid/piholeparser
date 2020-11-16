@@ -2683,6 +2683,7 @@ trck.spoteffects.net
 trckr.nordiskemedier.dk
 tree-pixel-log.s3.amazonaws.com
 tremorhub.com
+trends.newsmaxwidget.com
 trezor.efscle.com
 trf.intuitwebsites.com
 triggers.wfxtriggers.com
