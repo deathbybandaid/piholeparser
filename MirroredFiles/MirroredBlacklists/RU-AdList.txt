@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: X7OHGuR6h+ARmIOv5XcIwQ
-! Version: 202011160020
+! Checksum: 8LoOoyMHxyW0+Su5Ak6qlg
+! Version: 202011170020
 ! Title: RU AdList
-! Last modified: 16 Nov 2020 00:20 UTC
+! Last modified: 17 Nov 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -4599,7 +4599,6 @@ _tizers.
 ||aj1913.online^$third-party
 ||aj1939.online^$third-party
 ||aj2021.online^$third-party
-||aj2208.online^$third-party
 ||ajaxbig.ru^$third-party
 ||ajnetli.info^$third-party
 ||ajx130.online^$third-party
@@ -8815,6 +8814,7 @@ _tizers.
 ||rootspace.biz^$third-party
 ||ropandhep.com^$third-party
 ||ropedri.com^$third-party
+||rosdip.ru^$third-party
 ||roseemariepatterson.uk.to^
 ||rosona.ru^$third-party
 ||rostok-de.com^
@@ -12536,7 +12536,6 @@ anekdot.ru##.a_mh250
 sharij.net##.a_top
 ironargument.com.ua##.aa
 kinobos.online,obyava.ua##.ab-block
-ppt-online.org##.ab_down
 ukraina24.segodnya.ua##.ab_top_desktop
 cont.ws##.ablock_side
 matematikalegko.ru##.abs
@@ -13499,7 +13498,6 @@ noob-club.ru##.content_cactus
 tvsezon.com##.content_player > noindex > noindex
 gotovchik.ru,inforuss.info,kleo.ru##.content_rb
 yagramotniy.ru##.content_right_avvd
-kg-portal.ru##.content_side > .cough_block
 maanimo.com##.content_top_banner
 kinokrad.co##.contenth1
 hdmulti.net##.contentinner > center > img[src]
@@ -13512,6 +13510,7 @@ smotriserial.me##.contleft-nomenu
 libelle.com.ua##.copyright
 motoliga-nn.ru##.copyright > a[href]
 nnm-club.lib,nnm-club.me,nnmclub.ro,nnmclub.to##.copyright tbody > tr > :not(.copyright)
+kg-portal.ru##.cough_block
 rus-urologiya.ru##.cpa_top
 promtu.ru##.cpablcok
 agro-biz.ru,ecology-of.ru##.cpatop
@@ -13953,6 +13952,7 @@ igromania.ru#?#.info_block_box:-abp-has(.info_block_botrt:-abp-contains(Особ
 soft.oszone.net##.info_one
 pnp.ru##.infoblock > div[style="height: 900px;"]
 aces.gg##.infopanel_left
+bibliofond.ru##.inform-banner
 uaspectr.com##.information__image
 point.md##.informer-widget
 gazeta.ua##.informer.double
@@ -14472,6 +14472,7 @@ argumenti.ru##.our_partners
 uniongang.net,uniongang.org##.outer > br
 uniongang.net,uniongang.org##.outer noindex > center > a[href][target="_blank"]
 avtoradio.ru,energyfm.ru##.outreach
+bibliofond.ru##.outro
 krastown.com##.overlay_wrap
 truba.com##.overvideo
 magtimes.info##.owl-carousel
@@ -14521,6 +14522,8 @@ selezen.net#?#.panel-default:-abp-has(> .panel-body > div > a > [alt="Друзь
 selezen.net#?#.panel-default:-abp-has(> .panel-heading > .fa-google-wallet)
 snovidenija.ru##.panel-reklama
 evlas.ru##.panneliker a[href][target="_blank"]
+kg-portal.ru##.paracontainer img
+kg-portal.ru##.paralink
 business.ua##.parner--news
 business.ua##.parner--side-news
 smolensk-i.ru##.parthners-block
@@ -15071,6 +15074,7 @@ sok.media##.single-top-widget
 forklog.com##.single_biba
 kinospy.com##.singlebox > .blockquote
 pingvin.pro##.singlepartners
+bibliofond.ru##.site-cont > noindex
 portaltele.com.ua##.site-header__ads
 cod31.ru##.site-header__banner
 football-ukraine.com#?#.site-section-header:-abp-contains(РЕКЛАМА)
@@ -15179,6 +15183,7 @@ telegraf.com.ua##.sub-top-banner
 livesport.ru##.sub_pl_simple_red
 playboyrussia.com##.subdzen
 dota2.ru##.subline ~ :not([id="navigation"]):not([class="page-width"])
+news.ru##.subs-in-social
 turbobit.net##.subs-top-banner
 mk.ru##.subsctibe-under-article_zen
 bilshe.com#?#.svejnov:-abp-has(> h2 > b:-abp-contains(/^Інші/))
@@ -15490,12 +15495,15 @@ volnorez.com.ua#?#.widget-area:-abp-has(> .widget_text > .textwidget > [id^="CNM
 volnorez.com.ua#?#.widget-area:-abp-has(> .widget_text > .textwidget > [id^="MarketGid"])
 allcarz.ru,knife.media,lemonade.style##.widget-banner
 74.ru,ufa1.ru##.widget-car-pages-advscroll
+bibliofond.ru##.widget-cat > .item > .nohide
+bibliofond.ru##.widget-cat > .item:first-child:not([class*=" "])
 e1.ru##.widget-container-v
 5peciali5t.tk##.widget-content > a > img[width="200"]
 from-ua.com##.widget-internet-manazin
 from-ua.com##.widget-lentainform
 maanimo.com##.widget-offers
 bibliofond.ru##.widget-pomogi
+bibliofond.ru##.widget-promo
 from-ua.com##.widget-redtram
 from-ua.com##.widget-retro
 inforuss.info#?#.widget-title:-abp-contains(24СМИ)
@@ -15752,10 +15760,12 @@ sovetromantica.com##[class^="sbrand--"]
 erofishki.cc,fishki.net##[class^="side"][class*="right"] div[class*="promo"]
 baskino.me##[class^="sitelinks"]
 myzcloud.me,sims3pack.ru##[class^="st-br"] > *
+kg-portal.ru##[class^="ten_frontrow"]
 moyskelet.ru,obrazovaka.ru##[class^="tizdiv"]
 volynnews.com##[class^="view_back"]
 guitarplayer.ru##[class^="windowbg"] > noindex
 sports.kz##[class^="xbet"]
+sibnet.ru##[class^="ya-block__"]
 tests24.ru##[class^="yap-"] *
 ficbook.net##[data-ab-test-id]
 ps4.in.ua##[data-ad-slot]
@@ -15868,7 +15878,6 @@ delpc.ru,parazitovnetu.ru##[id^="smartrotator_ad"]
 apral.ru,argumenti.ru,chto-proishodit.ru,fontanka.ru,glavnoe24.ru,gorod24.online,gubdaily.ru,kramola.info,mgorod.kz,nahnews.org,nation-news.ru,newinform.com,newsland.com,newsomsk.ru,oko-planet.su,omskinform.ru,penzavzglyad.ru,planet-today.ru,polit.info,politpuzzle.ru,riafan.ru,ridus.ru,rueconomics.ru,russian.rt.com,russian7.ru,sovetov.su,sovsport.ru,spbdnevnik.ru,topnews.ru,topwar.ru,tsargrad.tv,tsn24.ru,tvernews.ru,x-true.info##[id^="smi_teaser"]
 kakprosto.ru##[id^="taboo-la"]
 moyskelet.ru,myhairsalon.ru,progipertoniyu.ru,znachenieimenipro.ru##[id^="teaser_"]
-kg-portal.ru##[id^="ten_frontrow"]
 mirmmo.ru##[id^="trumedia_holder_"]
 mirmmo.ru##[id^="trurlmedia_holder"]
 101.ru,19rus.info,2000.ua,5-tv.ru,56orb.ru,62info.ru,afanasy.biz,agitpro.su,allboxing.ru,anekdot.ru,argumenti.ru,baltnews.ee,baltnews.lt,bel.ru,belive.ru,bigpicture.ru,bombardir.ru,car.ru,cosmo.ru,dni.ru,dnpmag.com,do-slez.com,eadaily.com,eg.ru,expert.ru,ferra.ru,gagadget.com,glav.su,glavnoe24.ru,gmbox.ru,goodhouse.ru,gorobzor.ru,govoritmoskva.ru,gubdaily.ru,hightech.plus,iarex.ru,inforeactor.ru,iz.ru,kino-teatr.ru,kirov-portal.ru,kramola.info,life.ru,livelib.ru,m24.ru,melodrama1.com,mgorod.kz,mir24.tv,mixnews.lv,mk.ru,myhistori.ru,nahnews.org,narodna-pravda.ua,nashgorod.ru,nation-news.ru,nevnov.ru,newinform.com,news-front.info,news.ru,nn.ru,ntv.ru,penzainform.ru,penzavzglyad.ru,pikinform.ru,pnp.ru,polit.info,politexpert.net,politonline.ru,pora.ru,pravda.ru,putin-news.ru,radidomapro.ru,radioromantika.ru,ratel.kz,ren.tv,ria56.ru,riafan.ru,rueconomics.ru,rusplt.ru,russian.rt.com,rusvesna.su,sevkavportal.ru,sharknews.ru,sminews.ru,sobesednik.ru,sok.media,sport-express.ru,steaklovers.menu,sun-news.ru,tass.ru,teleprogramma.pro,topwar.ru,trendymen.ru,tsargrad.tv,tsn24.ru,tvc.ru,tvernews.ru,tvzvezda.ru,ua-football.com,ua.today,ukraina.ru,uralpress.ru,usa.one,vazhno.info,vazhno.ru,vedomosti.ru,versia.ru,veseloeradio.ru,vesti-yamal.ru,vesti.ru,vesti.uz,vestivrn.ru,vokrug.tv,vokrugsveta.ru,zakon.kz,zr.ru##[id^="unit_"]
@@ -16356,6 +16365,7 @@ syzran-small.ru,xn----7sbabwosghnf8al4lkj7b.xn--p1ai##a[href^="/index.php?go=Ban
 kidstaff.com.ua##a[href^="/informer/main.html#reklama"]
 minecraft-mods.ru##a[href^="/lp2/go.php"]
 infomir59.ru##a[href^="/netcat/modules/banner/"][target="_blank"]
+bibliofond.ru##a[href^="/order/"]
 taker.im##a[href^="/phpBB2/fla/adclick.php"]
 dota2.ru##a[href^="/plain/"]
 worldoftanksgame.ru##a[href^="/play-"] > img
@@ -17037,6 +17047,7 @@ ytvideo.ru##div[class][data-aid]
 dorognoe.ru,europaplus.ru,radio7.ru,retrofm.ru,sportfm.ru##div[class][data-element*="BANNER"]
 echo.msk.ru##div[class][data-role=""]
 stratege.ru##div[class][id$="_content"] > div:not([id]):not([class]) > [class^="alelt_"][class$="_info"] > div[class$="_title"]
+sdamgia.ru##div[class][id]:first-child > div[class][id] > div[class][id] > div[class][id]
 mk.ru,prnt.sc##div[class][style*="important"]
 echo.msk.ru##div[class][style=""]
 rlocman.ru##div[class][style="background-color:#fcfcee;padding:10px"]
@@ -17316,6 +17327,7 @@ moydrygpk.ru##div[id^="PM_rotator"]
 forum.developing.ru##div[id^="SRTB_"]
 inpearls.ru##div[id^="TM_"]
 1news.com.ua,3porosenka.ru,5.ua,agrimpasa.com,argumenti.ru,belnovosti.by,compendium.su,dni24.com,galka.if.ua,golos.zp.ua,gorno-altaisk.info,grani21.ru,graniru.org,headinsider.net,hlamer.ru,hronika.info,imperiyanews.ru,ku66.ru,metronews.ru,mgorod.kz,mignews.com.ua,mind.ua,molbuk.ua,narodna-pravda.ua,oane.ws,onedivision.ru,p-p.com.ua,primgazeta.ru,proufu.ru,qrz.ru,radidomapro.ru,ria-m.tv,rifey.ru,risu.org.ua,rusdozor.ru,rusjev.net,russian.rt.com,segodnya.ua,sharij.net,smolensk-auto.ru,smolensk-i.ru,stockinfocus.ru,supercook.ru,svidok.online,telegraf.in.ua,uk.etcetera.media,ukrlit.net,ukrmir.info,uralpress.ru,valuta.online.ua,vchaspik.ua,vechirniykiev.com.ua,veroyatno.com.ua,vikka.ua,vlasti.net,volynnews.com,vringe.com,vse42.ru,xn--80acvefn6a4c.xn--p1ai,xsport.ua,zakon.kz,zloekino.com,zloekino.ru,zloekino.su,zn.ua,zwezda.net##div[id^="Zz"]
+ppt-online.org##div[id^="ab_placeholder"]
 textarchive.ru##div[id^="ad_"]
 patrioty.org.ua##div[id^="ad_center"]
 andevice.ru##div[id^="ad_header"]
@@ -18553,6 +18565,7 @@ $xmlhttprequest,domain=happy-biock.info|happy-block.info|howto-news.info|kinohom
 /bnr-tumarke*.mp4|$domain=gzt-sv.ru
 /bree*/$domain=filmitorrent.net|torrfan.org|torrminator.com
 /build/js/sprit-$script,domain=yummyanime.club
+/bundle-vast.min.js$domain=playep.pro|playy.online|plplayer.online|toplay.biz
 /chat*js$domain=bib.social|economics.studio|economuch.com|finbook.news|lawbook.online|lawbooks.news|lib.ink|lib.sale|pravo.studio|provse.news|psihologia.biz|sci.house|scicenter.online|textbook.news|textbooks.studio|texts.news|uchebnikfree.com|xn--80aaivjfyj3e.com|xn--80ahc0abogjs.com
 /code.php?$script,domain=paslab.ru|torrent3d.ru|world-of-gamers.net
 /code/bshow.php$script,domain=futurevideo.pro|hd-720.biz|onlinemusic.com.ua
@@ -18607,6 +18620,8 @@ $xmlhttprequest,domain=happy-biock.info|happy-block.info|howto-news.info|kinohom
 /output/index/$script,domain=serial24.com
 /partner-news?$subdocument,domain=tsn.ua
 /pic/background.jpg$domain=crazyatomicgames.com|xxx-igra.com|yaldagames.com
+/pl/vendor/vast.min.js$domain=playep.pro|playy.online|plplayer.online|toplay.biz
+/pl/vendor/vpaid2.min.js$domain=playep.pro|playy.online|plplayer.online|toplay.biz
 /player/plyr/loadic.png|$domain=anime.anidub.life|myanime.online|online.anidub.com
 /player/videojs/videojs.vast.$domain=anatomia-strasti.com|dnevniki-vampira.org|friends-online.co|sverhestestvenoe.com
 /prerolls.js$domain=goha.ru
@@ -19797,7 +19812,9 @@ igdz1.ru^$script,domain=igdz.ru
 ||kerch.com.ru/IMG/HotNews/kn_internet.
 ||kerch.com.ru/Pictures/Banners/
 ||kerchinfo.com/uploads/img_ban/
-||kg-portal.ru/asusdesign/
+||kg-portal.ru/banned/
+||kg-portal.ru/beedesign/
+||kg-portal.ru/js/parallax.js
 ||kg-portal.ru^*/bg.jpg|
 ||kgd.ru/images/commerc/
 ||kharkov.info/files/image*/banner
@@ -20545,6 +20562,7 @@ igdz1.ru^$script,domain=igdz.ru
 ||powerwaver.cc^*.js|$script
 ||pozdrav.ru/img/banners/
 ||pozdrav.ru/url/*.vfl.ru
+||ppt-online.org/img/zb/728%D1%8590_*.png
 ||pr.ikovrov.ru/www/
 ||pravdapskov.ru/upload/b/
 ||pravo-auto.com^*.php$script
@@ -22887,6 +22905,9 @@ ruskline.ru##body > div[id^="money"]
 dnpmag.com,trendymen.ru##body > div[id^="popup-"]
 daz3d.ru##body > span[id^="s"][style]
 it-actual.ru#?#div:-abp-has(> div > [href*="donat"])
+it-actual.ru#?#div:-abp-has(> div > [href*="he1l"])
+it-actual.ru#?#div:-abp-has(> div > [href*="he2l"])
+it-actual.ru#?#div:-abp-has(> div > [href*="help"])
 pinterest.com##div[class*="ScreenBanner"]
 snob.ru##div[class*="popup-eventSubscribe"]
 muzofon.com##div[class*="simplemodal"]
