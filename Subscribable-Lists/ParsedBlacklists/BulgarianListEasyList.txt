@@ -229,6 +229,7 @@ analytics.thenest.com
 analytics.theneweuropean.co.uk
 analytics.thenewslens.com
 analytics.thetab.com
+analytics.threedeepmarketing.com
 analytics.tiktok.com
 analytics.tio.ch
 analytics.tooso.ai
@@ -363,6 +364,7 @@ beacon.thred.woven.com
 beacon.tingyun.com
 beacon.toyota.co.jp
 beacon.viewlift.com
+beacon.walmart.com
 beacon.wikia-services.com
 beacon.www.theguardian.com
 beacon2.indieclick.com
@@ -1882,6 +1884,7 @@ shrek.6.cn
 sidebar.issuu.com
 sig.atdmt.com
 siteinfo.libero.it
+siteintercept.allegiancetech.com
 sitelife.ehow.com
 ski1.skiset.com
 slipstream.skyscanner.net
