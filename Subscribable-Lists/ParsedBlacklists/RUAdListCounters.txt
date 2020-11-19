@@ -7,12 +7,14 @@ c.compete.com
 c.imrk.net
 c.index.ru
 c.microsoft.com
+c.sibnet.ru
 c.uarating.com
 clickov.com
 clicks.moy.su
 collector.roistat.com
 counters.gigya.com
 csi.gstatic.com
+cvt1.sibnet.ru
 d1ros97qkrwjf5.cloudfront.net
 d31j93rd8oukbv.cloudfront.net
 d31qbv1cthcecs.cloudfront.net

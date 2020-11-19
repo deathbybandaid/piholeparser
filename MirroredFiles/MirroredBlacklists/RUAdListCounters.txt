@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: MFGUEpNAtiI26641xYgmGA
-! Version: 202011130020
+! Checksum: +QWz+7S7XKig6jVlmb0YIQ
+! Version: 202011190020
 ! Title: RU AdList: Counters
-! Last modified: 13 Nov 2020 00:20 UTC
+! Last modified: 19 Nov 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -22,7 +22,7 @@
 ! пользователей сети.
 !
 ! = Ложные срабатывания (исключения) ==========================================
-@@/counters^$domain=itpc.ru
+@@/counters^$domain=itpc.ru|pay.tns-e.ru
 @@/m/counter$~third-party,xmlhttprequest,domain=dtf.ru|tjournal.ru|vc.ru
 @@||alcogolizm.com/addons/counter/$script,stylesheet,domain=alcogolizm.com
 @@||aprtx.com/code/decathlonRU/$script,domain=decathlon.ru
@@ -202,6 +202,7 @@ _pagespeed_beacon?
 ||adsymptotic.com^$third-party
 ||adtrak.org^$third-party
 ||adx.com.ru^$third-party
+||affiliates.rozetka.com.ua/tools/utm.php?r=
 ||ag.ru/*/info/info.php?
 ||agropoisk.ru/getbanner.php?
 ||aidata.io^$third-party
@@ -217,6 +218,7 @@ _pagespeed_beacon?
 ||analysis.fi^$third-party
 ||analytics.getaim.info^$third-party
 ||anti-ban.ucoz.ru^$third-party
+||api-analytics.rozetka.com.ua/js/exponea.min.js
 ||api.mindbox.ru/scripts/*/tracker.js
 ||app.link^$third-party
 ||app.renteres.ru/embed/analytics.php?
@@ -263,6 +265,7 @@ _pagespeed_beacon?
 ||c.imrk.net^
 ||c.index.ru^
 ||c.microsoft.com^
+||c.sibnet.ru^
 ||c.toodoo.ru^$third-party
 ||c.uarating.com^
 ||c.wen.ru^$third-party
@@ -301,6 +304,7 @@ _pagespeed_beacon?
 ||crm-analytics.imweb.ru^$third-party
 ||crwdcntrl.net^$third-party
 ||csi.gstatic.com^
+||cvt1.sibnet.ru^
 ||cy-pr.com^$third-party
 ||cys.ru/button.png?url=
 ||d1ros97qkrwjf5.cloudfront.net^
@@ -549,6 +553,7 @@ _pagespeed_beacon?
 ||ranking-hits.de^$third-party
 ||rankw.ru/pinger.php?
 ||rbc.ru/click?
+||rbc.ru^*/geoinfo/by-ip/
 ||recostream.go.mail.ru^$domain=~pulse.mail.ru|~recostream.go.mail.ru
 ||referrer.disqus.com^
 ||reinvigorate.net^$third-party
@@ -877,6 +882,9 @@ yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.mg-page-layout-item div[clas
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz#?#.mg-page-layout-item ~ .mg-page-layout-item:-abp-has(> .hydro > div[class^="sport-"] > div[class^="turbo-"])
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz#?#.mg-page-layout-item ~ .mg-page-layout-item:-abp-has(> div[class^="sport-"] > div[class^="turbo-"])
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.news-app > div[class] > .mg-grid__row > .mg-grid__col:last-child
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.news-app div[class*=" news-"][class*="_top "]
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.news-app div[class*="_banger"]
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.news-app div[class*="_type_native"]
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz#?#.news-app__feed > .mg-grid__col:-abp-has(> div[class*="_type_"] > div[class*="loader"] + div[id]:empty)
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz#?#.news-app__feed > .mg-grid__row > .mg-grid__col:-abp-has(> div[class*="_type_"] > div[class*="loader"] + div[id]:empty)
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.news-top-rubric-heading > span:only-child
@@ -903,7 +911,7 @@ mail.ru##body > .zeropixel ~ * .pulse
 mail.ru##body > .zeropixel ~ * .searchContainer ~ .ssr-main ~ div[class] ~ div[class]
 mail.ru##body > .zeropixel ~ * .searchContainer ~ [class] > .tabs-content ~ div > div:first-child:not([name])
 4pda.ru#?#body article ~ article[itemscope]:-abp-has(a[title][target="_blank"])
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="b-page"] .main.widgets :not(div) :not(div) :not(div) > div[class]:not([class*="widget"]) > div[class]:not([class*="widget"]) ~ div[class]:not([class*="widget"]):not([class^="services"])
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="b-page"] .main.widgets :not(div) :not(div) :not(div) > div[class]:not([class*="widget"]) > div[class]:not([class*="widget"]) ~ div[class]:not([class*="widget"]):not([class^="services"]):not([class*="search"])
 yandex.ru##div > .banner-root ~ .page-root > #page div[class^="_"] > div > script + section div[class^="_"] > [data-id] + div[class^="_"]:not([data-id]) > div:first-child
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##div[class*="turbo-advert_type_"]
 inoreader.com##div[id^="leaderboard_ad"] > *
@@ -937,18 +945,11 @@ nova.rambler.*#?#+js(abort-on-property-read.js, Object.prototype.AdvManager)
 ~yandex.net,yastatic.net,yandex.*#?#+js(set-constant.js, Object.prototype.hasPreroll, noopFunc)
 !
 ! Экспериментальные правила для маркеров
+/story/*?lang=$document,queryprune=.,domain=yandex.*
+?commercial=$document,queryprune=.,domain=ria.com
+?r_audience=$document,queryprune=.,domain=ria.com
+?utm_source=ukr$document,queryprune=|utm_
 ?utm_source=yxnews&utm_$document,queryprune=|utm_
-||auto.ru^*utm_$document,queryprune=|utm_,domain=auto.ru
+utm_$document,queryprune=.,domain=yandex.*
+utm_$document,xmlhttprequest,queryprune=|utm_,domain=auto.ru|instagram.com|kp.by|kp.kg|kp.kz|kp.md|kp.ru|mail.ru|rambler.ru|ria.com
 ||mail.ru^*frommail=1$document,queryprune=|frommail=1,domain=mail.ru
-||mail.ru^*utm_$document,queryprune=|utm_,domain=mail.ru
-||rambler.ru^*utm_$document,xmlhttprequest,queryprune=|utm_,domain=rambler.ru
-||yandex.by/*/story/*?lang=$document,queryprune=|,domain=yandex.by
-||yandex.by^*utm_$document,queryprune=|,domain=yandex.by
-||yandex.kz/*/story/*?lang=$document,queryprune=|,domain=yandex.kz
-||yandex.kz^*utm_$document,queryprune=|,domain=yandex.kz
-||yandex.ru/*/story/*?lang=$document,queryprune=|,domain=yandex.ru
-||yandex.ru^*utm_$document,queryprune=|,domain=yandex.ru
-||yandex.ua/*/story/*?lang=$document,queryprune=|,domain=yandex.ua
-||yandex.ua^*utm_$document,queryprune=|,domain=yandex.ua
-||yandex.uz/*/story/*?lang=$document,queryprune=|,domain=yandex.uz
-||yandex.uz^*utm_$document,queryprune=|,domain=yandex.uz

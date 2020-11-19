@@ -8,9 +8,9 @@
 ! Działa najlepiej z EasyList - pamiętaj aby zasubskrybować!
 !   Patronite ==> https://patronite.pl/polskiefiltry
 !   PayPal ==> https://www.paypal.com/pools/c/87zNJ8OJ3I
-! Last modified: 14 November 2020
+! Last modified: 18 November 2020
 ! Expires: 1 day
-! Version: 2020111402
+! Version: 2020111801
 ! Support:
 !   Email >> errorsfilters@certyficate.it
 !   Github >> https://github.com/MajkiIT/polish-ads-filter/issues
@@ -18,7 +18,7 @@
 ! License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ! Copyright © 2020 Certyficate IT
 ! Najnowsza wersja zawsze na: https://www.certyficate.it/adblock
-! v.2020111402 aktualizacja: sob, 14 listopada 2020, 20:35:00
+! v.2020111801 aktualizacja: sr, 18 listopada 2020, 20:35:00
 !
 !
 !1#-----------------------General advert blocking filters-----------------------!
@@ -538,12 +538,13 @@ booklips.pl#?#.widget_custom_html:-abp-contains(Patron)
 booklips.pl,bloog.pl,kurierwilenski.lt###custom_html-6
 booksclub.pl##IMG[src*="/banners/"]
 boxing.pl##td:nth-of-type(2) > div:nth-of-type(3)
-braclowiecka.pl#?##sidebar > div.widget > h3:-abp-contains(Reklama), div.widget > .socialize
+braclowiecka.pl#?##sidebar > div.widget > h3:-abp-contains(Reklama)
+braclowiecka.pl##div.widget > .socialize
 brainly.pl##.brn-ads-box
 brodnica.net##.stopka, .calosc
 brodnica.net##[href^="/banery/click.php"]
 brodnica.net##td:nth-of-type(3) > table > tbody > tr:nth-of-type(1) > td:nth-of-type(2)
-bryk.pl,www.jawor.tv,lokalna.news,www.swiebodzin.tv,korso24.pl,boleslawiec.tv,obserwatorlokalny.pl,regatv.pl,swiebodzin.tv,tvmorag.pl,zgl.pl,halogorlice.info,tuolawa.pl,strzelec.info,gorlice.tv##[class*="advert-"]
+bryk.pl,www.jawor.tv,lokalna.news,www.swiebodzin.tv,korso24.pl,boleslawiec.tv,obserwatorlokalny.pl,regatv.pl,swiebodzin.tv,tvmorag.pl,zgl.pl,halogorlice.info,tuolawa.pl,strzelec.info,gorlice.tv,gazetamyszkowska.pl##[class*="advert-"]
 brytol.com,reefhub.pl,legalnybukmacher.com###text-3
 bslomazy.pl##.page > div > div > A > iMG
 budmatauto.pl##.popup-content, .popup-bg
@@ -613,7 +614,7 @@ chip.pl###search_box
 chip.pl##.portlet.portletCeneo
 chip.pl##LI[id^="media_image"].widget_media_image:last-child
 chip.pl##[id^="portletwrapper-"] > form
-chip.pl,magazynbieganie.pl,prawo.pl##.top-banner
+chip.pl,magazynbieganie.pl,prawo.pl,pulsmiasta.tv##.top-banner
 chip.pl,ostrzeszowinfo.pl,infostrow.pl,dlawas.info,malopolska.in###banner-top
 chnnews.pl###main_bottom > .clearfix.module:nth-of-type(1)
 chojna24.pl###HTML13, #HTML15
@@ -824,7 +825,7 @@ e-grajewo.pl##.logoitems
 e-grajewo.pl##[id^="rotator_"]
 e-hip.pl##[id^="mce-"]
 e-hotelarz.pl##DIV[style*="background-image:url('http"]
-e-hotelarz.pl##.row > center, div.row > .col-md-4.col-sm-12 > .text-center, div.row > .col-md-4.col-sm-12 > div.pws-box-title:has-text(Reklama)
+e-hotelarz.pl#?#.row > center, div.row > .col-md-4.col-sm-12 > .text-center, div.row > .col-md-4.col-sm-12 > div.pws-box-title:-abp-contains(Reklama)
 e-kg.pl###jm-banner
 e-kg.pl##.rstboxes
 e-kg.pl##DIV[style="text-align: center;"]
@@ -883,13 +884,13 @@ elektroda.pl##div.c72b05f9c71327a4fddad2b.clearfix
 elektroda.pl##li#insert  > .clearfix.topic-box
 elektroda.pl#?#.topic-lists > li[id] > .topic-box > .position-relative:-abp-has(> .sec-b > div > ins.adsbygoogle)
 elektroda.pl#?#.topic-lists > li[id] > .topic-box > .position-relative:-abp-has(> .sec-b > div[id^="div-gpt-ad"])
-elektroda.pl##a.button_open[href="/rtvforum/companyabout.php"]:has-text(Zamieść Reklamę)
-elektroda.pl##.the-post-list > ul > li[class^="clearfix "]:has(:scope > a[href][target="_blank"][onclick*="'Banner"])
+elektroda.pl#?#a.button_open[href="/rtvforum/companyabout.php"]:-abp-contains(Zamieść Reklamę)
+elektroda.pl#?#.the-post-list > ul > li[class^="clearfix "]:-abp-has(:scope > a[href][target="_blank"][onclick*="'Banner"])
 elektroda.pl##.the-post-list > ul > li[class^="clearfix "] > a[href][target="_blank"][onclick*="'Banner"]
-elektroda.pl##.the-list > li[class^="clearfix "]:has(:scope > a[href][target="_blank"][onclick*="'Navibox', 'Click', '"])
-elektroda.pl##.the-content > div[class] > div:has(:scope >form[action^="https://www.tme.eu/pl/katalog/"][target="_blank"])
-elektroda.pl##.the-content > div[class] > div:has(:scope >a[href^="http://www.biall.com.pl/sklep.html"][target="_blank"])
-elektroda.pl##.the-content > div[class] > div:has(:scope >a[href][target="_blank"][onclick*="'Patron', 'Click Button'"])
+elektroda.pl#?#.the-list > li[class^="clearfix "]:-abp-has(:scope > a[href][target="_blank"][onclick*="'Navibox', 'Click', '"])
+elektroda.pl#?#.the-content > div[class] > div:-abp-has(:scope >form[action^="https://www.tme.eu/pl/katalog/"][target="_blank"])
+elektroda.pl#?#.the-content > div[class] > div:-abp-has(:scope >a[href^="http://www.biall.com.pl/sklep.html"][target="_blank"])
+elektroda.pl#?#.the-content > div[class] > div:-abp-has(:scope >a[href][target="_blank"][onclick*="'Patron', 'Click Button'"])
 elektroda.pl##.bbd
 elektroda.pl##.col-md-12.sec-b
 elektrosystemy.pl##.ms-container > .ms-inner-controls-cont > .ms-grab-cursor.ms-basic-view.ms-view
@@ -929,8 +930,7 @@ epainfo.pl##.wpb_text_column
 epainfo.pl##DIV.g-single > IMG
 epainfo.pl,vipmultimedia.pl##A.gofollow > IMG
 epainfo.pl##[id^="epain-"] > A[target="_blank"] > IMG
-epainfo.pl##.block-title > span:has-text(REKLAMA)
-epainfo.pl##.block-title > span:has-text(Reklama)
+epainfo.pl#?#.block-title > span:-abp-contains(/R(EKLAMA|eklama)/)
 epainfo.pl##[href^="https://epainfo.pl/linkout/"]
 eparczew.pl###block-block-5
 epd24.net##.boksy-wyroznione.box
@@ -1152,7 +1152,7 @@ gazeo.pl##.point
 gazeta-mlawska.pl##[href="https://spisrolny.gov.pl/"]
 gazeta-mlawska.pl##[href="http://www.mhsmlawa.pl"]
 gazeta-mlawska.pl##[href="http://bhpklonik.pl/"]
-gazeta-mlawska.pl##div.clear.box_tekstowy_mainpage > h3:-abp-contains(Reklama)
+gazeta-mlawska.pl#?#div.clear.box_tekstowy_mainpage > h3:-abp-contains(Reklama)
 gazeta-mosina.pl##div.mod-line.module > .deepest.box-1 > P
 gazeta-wiesci.pl###text-11, #text-8, #text-12, #text-10
 gazetarumska.pl##[id^="gazet-"]
@@ -1163,7 +1163,8 @@ gazeta.pl##.mod_sponsoredArticle
 gazeta.pl##.opacity.page-sections > .photos_loaded.box_games.page-section.html > .slices-container.container-fluid
 gazeta.pl##.photos_loaded.box_bargains.page-section.html > .slices-container.container-fluid
 gazeta.pl##.type_default
-gazetabilgoraj.pl#?#.vc_row-has-fill.vc_row-fluid.wpb_row.vc_row.row:-abp-has(img[width="350"][height="250"][src*="-350x250."]), .vc_row-has-fill.vc_custom_1526373595932.vc_row-fluid.wpb_row.vc_row.row, .vc_row-has-fill.vc_custom_1526373595932.vc_row-fluid.wpb_row.vc_row.row
+gazetabilgoraj.pl#?#.vc_row-has-fill.vc_row-fluid.wpb_row.vc_row.row:-abp-has(img[width="350"][height="250"][src*="-350x250."])
+gazetabilgoraj.pl##.vc_row-has-fill.vc_custom_1526373595932.vc_row-fluid.wpb_row.vc_row.row, .vc_row-has-fill.vc_custom_1526373595932.vc_row-fluid.wpb_row.vc_row.row
 gazetabilgoraj.pl##div.vc_col-sm-4.vc_column_container.bs-vc-column.wpb_column > .wpb_wrapper.bs-vc-wrapper > .wpb_raw_html.wpb_content_element.wpb_raw_code > .wpb_wrapper > A, .wpb_wrapper > .vc_single_image-img
 gazetacz.com.pl##td:nth-of-type(1) > table:nth-of-type(2), #custom_html-2 > .widget-title, .gazet-widget.widget
 gazetacz.com.pl##td:nth-of-type(5) > table:nth-of-type(3)
@@ -1453,6 +1454,10 @@ interia.pl##.entertainment-li.i10 > .entertainment-a
 interia.pl##[id^="ad_"]
 interia.pl##div[class*="ad ad_"]
 interia.pl,pomponik.pl,styl.pl##.inpl-gallery-ad-horizontal, .inpl-gallery-ad-side
+interia.pl##div[class^="box ad box"]
+interia.pl##.adStandardTop
+interia.pl##.main-sidebar > div[style="height: 600px;"] > div[style^="max-width:"][style*="position: sticky"]
+interia.pl##.main-sidebar a[href][target="_blank"][onclick*="&creation="]
 interia.tv###belka_stopka1
 interia.tv###box300x2501
 interia.pl#?#.brief-list-item:-abp-has(> .mixerAdTopRight-wrapper:not(.has-noads))
@@ -1504,6 +1509,8 @@ jablonka.info###gk-newsletter-popup
 jablonka.info###gkMainbodyTop > .box + .box
 jablonka.info###gkSidebar > .nomargin.box
 jablonka.info###gkTop1
+jablonka.info###gkMainbodyTop > .gkSidebarRight.sidebar
+jablonka.info##.has-sidebar.clearfix.gkMainbodyWrap > .gkSidebarRight.sidebar > div.box:nth-of-type(1) > .box-wrap
 jacus.pl##div.ModulRwdUkryj:nth-of-type(1)
 jadarhobby.pl##.lf:nth-of-type(5) > table > tbody > tr:nth-of-type(7)
 jadlonomia.com###nowa-jadlonomia
@@ -1835,7 +1842,6 @@ majsterkowo.pl###mbox-top
 make-cash.pl##.ipsImage_thumbnailed.ipsImage, #ipsLayout_mainArea > .ipsResponsive_block.ipsResponsive_showDesktop
 makowonline.pl##.zowqjrl-image
 malydziennik.pl##.desktop
-mamdziecko.interia.pl###content .brief-list-items .brief-placeholder-list:style(height: 320px)
 mamawdomu.pl###text-161
 mamkomputer.info,smartage.pl###text-17
 mamopracuj.pl##.bannery
@@ -1883,7 +1889,7 @@ meczelive.tv##.menu:nth-of-type(1) > .nav
 meczelive.tv##[target="_blank"] > IMG[src^="http://meczelive.tv/new/300/"]
 meczelive.tv##a[href^="http://bit.ly/"]
 meczewinternecie.pl##figure.size-large.wp-block-image > A
-meczewinternecie.pl##figcaption:has-text(STS kod promocyjny)
+meczewinternecie.pl#?#figcaption:-abp-contains(STS kod promocyjny)
 meczyki.net.pl##.subtext > A > IMG
 meczyki.net.pl##[class^="cool-stuff"]
 meczyki.pl##.bookie-ranks, .container-communique, .placeholder.margin.banner, .simple-link
@@ -2390,7 +2396,7 @@ poczta.interia.pl##.message-ad-place
 poczta.interia.pl#?##wrapper > .maximized-wrapper:-abp-has(.premium-account-promotion-new)
 poczta.interia.pl#?##wrapper > .maximized-wrapper:-abp-has(.premium-account-promotion)
 poczta.interia.pl##.ad-box
-poczta.interia.pl##.border:has(+ .ad-box)
+poczta.interia.pl#?#.border:-abp-has(+ .ad-box)
 poczta.o2.pl##native-feed
 poczta.onet.pl###fif-flat-boxright2
 poczta.onet.pl###preloader-novelty
@@ -2573,6 +2579,7 @@ pszczoly.pl##tr > .tresc_bez_wciecia > A > IMG
 pszczynska.pl,polskicaravaning.pl,4run.pl,eglos.pl,wiadomoscikosmetyczne.pl,asta24.pl,wiadomoscihandlowe.pl##.baner
 pudelek.tv,wp.tv,interaktywnie.com##[src^="http://adv.wp.pl"]
 pukawka.pl##.partnerzy
+pulsmiasta.tv##.punica-ads-1-widget
 pultusk24.pl##.row:nth-of-type(11)
 pultusk24.pl##.row:nth-of-type(7)
 pultusk24.pl##div.row:nth-of-type(3)
@@ -2584,7 +2591,6 @@ purepc.pl##[href^="/r3d1r.php"]
 purepc.pl##[href^="/redir.php"]
 purepc.pl##[href^="/redix.php"]
 purepc.pl##BODY > [href^="/red1r.php"], BODY > DIV > DIV > [href^="/red1r.php"]
-purepc.pl##html > body:style(background-image: none!important; background-color: #d5d5d5!important;)
 purepc.pl##a[databx][href*=".php"][style*="background:url(/files/Image/"]
 pykownia.pl##.ipsWidget:nth-of-type(8)
 pyszne.pl##.yd-banner
@@ -2711,8 +2717,6 @@ rp.pl##[id^="sas_663"]
 rrs24.net##.theiaStickySidebar > .clearfix.ai_widget.widget, .clearfix.widget_media_image.widget, #custom_html-13, #custom_html-12, #custom_html-11, .ad_img_baner_glowny
 rtvmaniak.pl###okazja-dnia, .anal-lsidebar-post > div
 ryby.elka.pl##DIV[style="margin-top: 5px; margin-bottom: 5px; font-size: 10px ! important; text-align: center"]
-rybnik.com.pl##^iframe[name]:not([class]):not([id]):not([src])[style="display:none"]
-rybnik.com.pl##^script:has-text(/.*track.*atob.*ShadowRoot.*/):has-text(/[\w\W]{5000,10000}/)
 ryms.pl###mainBanner
 rynek-turystyczny.pl##div.no-padding.col-md-4.col-xs-12:nth-of-type(3) > div:nth-of-type(3)
 rynek.de###djslider199
@@ -2811,6 +2815,7 @@ skript.pl##.ipsBox.ipsWidget_vertical.ipsWidget:nth-of-type(1)
 skript.pl##.skAds
 skrstrzelce.pl##.center_bottom
 sky-land.pl###left2
+slasknet.com##.d-md-block.d-none.col-12
 sledzimykonkursy.pl##.advertising-space
 slodkipomysl.pl##a[href="http://www.bestdumpsterdeals.com/"]
 slonskyradio.eu##div.ramka_x5.TrescWPIS:nth-of-type(2), .slideshowtop, [src^="_images/reklama"]
@@ -2855,6 +2860,7 @@ spidersweb.pl##iframe[src*="ads"], .adContainer, .partner-logo
 spidersweb.pl##section.show-for-medium.margin-bottom35.padding-35-0.greybg > .row > .show-for-large.columns.large-4
 spidersweb.pl#?#.sidebar-panel:-abp-has(center:only-child script:-abp-contains(googletag.cmd.push))
 spidersweb.pl##script[src*="optad360.io"] ~ div > div[id][class=" "]
+spidersweb.pl##[id^="SonyPs5Ad"]
 spiswitryn.pl##[src^="https://www.slubi.pro/banery/"]
 spiswitryn.pl##h3:nth-of-type(3)
 spiz.pl,roksa.pl##.c
@@ -2906,7 +2912,6 @@ stooq.pl##div[onclick^="(function"][onclick*="window.open"][style^="animation"]
 stooq.pl#?##f13 > table:-abp-has(#f13 > a[href^="//stooq.pl/ads/"])
 stooq.pl#?##f13 > table:-abp-has(#f13 > b:-abp-contains(Artykuł Sponsorowany))
 stooq.pl#?#table:-abp-has(:scope > tbody > tr > td > #aswift_1_expand)
-stooq.pl,stooq.com##:xpath(//*[@align="center"]/*[@id][contains(text(),"REKLAMA")])
 stooq.pl,stooq.com##table[border="0"][cellpadding="0"][cellspacing="0"][align="center"]:not([width])
 stooq.pl,stooq.com##tbody > tr > td > table[width="300"][height="250"][border="0"][cellpadding="0"][cellspacing="0"][align="center"]
 stooq.pl,stooq.com##tbody > tr > td[align="center"] > div[style="width:300;height:250"]
@@ -3069,7 +3074,7 @@ tenis24.eu##.container > .text-center
 tenisklub.pl##DIV[style="width:750px;height:100px;margin:10px auto;"]
 teraz-wilanow.pl###rev_slider_2_3_wrapper, #rev_slider_3_6, #rev_slider_2_1_wrapper
 terazgabin.pl##.clear-pad-right.col-md-4 > p, .clear.col-md-12, .baner.container
-terazgrodkow24.pl,aletorcik.pl,ps4life.pl###text-5
+terazgrodkow24.pl,aletorcik.pl,ps4life.pl,www.kurier-lokalny.com###text-5
 terazgrodkow24.pl,prawapolityka.pl,shebang.pl###text-9
 terazgrodkow24.pl,ziemialimanowska.pl,onalubi.pl,niestatystyczny.pl,centrumaut.pl,lifemanagerka.pl,life4style.pl,booklips.pl###text-3
 theoniondaily.com,kanag.pl##.custom-html-widget.textwidget
@@ -3077,7 +3082,8 @@ thepolandtimes.com##a[href^="http://p"] > IMG
 thinkapple.pl##.sidebar_list
 thinkapple.pl,repostuj.pl##a[href*="://bit.ly/"]
 tibiopedia.pl##.forumBottAd, .forumMainAdF
-ticketmaster.pl#?#div[class^="sc-"]:-abp-contains(Reklama), [id^="ad-slot-"]
+ticketmaster.pl#?#div[class^="sc-"]:-abp-contains(Reklama)
+ticketmaster.pl##[id^="ad-slot-"]
 tinypic.pl##div.media-toolbox:nth-of-type(1), #nexus_ban
 tkn24.pl###right-sidebar, #dk-image-rotator-widget-6, #FONT[color="SILVER"], #container > center, #dk-image-rotator-widget-10
 tkn24.pl#?#font:-abp-contains(REKLAMA)
@@ -3398,6 +3404,8 @@ www.applecenter.pl###leader-wrap
 www.applecenter.pl,zarabiajnaokazjach.pl,kierunek.szczecin.pl,trybawaryjny.pl,android.com.pl,off-road.pl,polskikosz.pl,gazeta-wiesci.pl,my3miasto.pl,kucharze.pl,portalwarszawski.com.pl,infobusko.pl##.textwidget
 www.aptekagemini.pl###pw_bannery_5, .baner, .s_extra_btn, .container_right_box, .container_left_box
 www.axn.pl###block-dart-dart-tag-980x100-ldr-top.block.block-dart > .content > .dart-advertisement
+www.bankier.pl#?#li.m-home-link-list__item:-abp-contains(/reklama/)
+www.bankier.pl##.o-home-ecom-box
 www.benchmark.pl##.product
 www.biala24.pl##[id^="cbox"]
 www.bolec.info##.baner_max
@@ -3408,7 +3416,8 @@ www.bolec.info##table.tlo0:nth-of-type(1) > tbody > tr:nth-of-type(11)
 www.bolec.info#?#.bbbb > div > div > div:-abp-contains(reklama)
 www.bolec.info#?#.bbbb:-abp-has([data-original*="/pictures/informacje/"])
 www.bolec.info#?#.bottom:nth-of-type(20) > .bbbb:-abp-contains(reklama)
-www.bolec.info#?#.bottom:nth-of-type(n+5):nth-of-type(-n+6) > .bbbb:-abp-contains(reklama), div.bottom:nth-of-type(21) > .bbbb > div
+www.bolec.info#?#.bottom:nth-of-type(n+5):nth-of-type(-n+6) > .bbbb:-abp-contains(reklama)
+www.bolec.info##div.bottom:nth-of-type(21) > .bbbb > div
 www.booclick.pl##.td-footer-wrapper > .td-container > .td-pb-row:nth-of-type(1)
 www.booclick.pl##.td-pb-row.wpb_row.vc_row:nth-of-type(2)
 www.booclick.pl##.td-pb-row.wpb_row.vc_row:nth-of-type(4)
@@ -3551,7 +3560,7 @@ wykop.pl,demotywatory.pl,joemonster.org,mistrzowie.org##[id^="bmone2n-"]
 wylecz.to##.b970
 wylecz.to##.display_detect.ifr, .cre, .daf8, div.col-md-3.col-sm-6.col-xs-12 > div[class] > div[style^="border-bottom: 20px"] > div[style]
 wylecz.to##[href^="/zez_click/"], #loc_145
-wylecz.to##.row div[class][style*="border-bottom:"][style*="max-height:"]:has(:scope > div[style]:has-text(REKLAMA))
+wylecz.to#?#.row div[class][style*="border-bottom:"][style*="max-height:"]:-abp-has(:scope > div[style]:-abp-contains(REKLAMA))
 wynagrodzenia.pl###slider_kontener
 wyspagier.pl##.adv, .abm_plug
 wyspagier.pl##.banner-static-game
@@ -3728,6 +3737,7 @@ zywiecinfo.pl##.promoted
 ||antyweb.pl/wp-content/themes/antyweb.autentika/aadv/js/aadv.js
 ||antyweb.pl/wp-content/themes/antyweb.autentika/horizon/
 ||antyweb.pl/wp-content/uploads/2017/03/horizon-cover.jpg$image
+||aparat.cam/pu/*.js
 ||api-content-generator.gazeta.pl/content-generator/published/frame/generate?frameId=
 ||api.ergokantor.pl/widgets/$subdocument
 ||api.systempartnerski.pl^
@@ -3777,6 +3787,7 @@ zywiecinfo.pl##.promoted
 ||czasdzieci.pl/_j/ad_$script
 ||czasdzieci.pl/adurl.php$popup
 ||damdaj.pl^$subdocument
+||dansotant.xyz^
 ||dfp.gazeta.pl/c.servlet?cn=dfpreferrer&cv=DIRECT$xmlhttprequest,domain=www.plotek.pl
 ||disqusads.com^
 ||dorzeczy.pl/*/ad/$image
@@ -3827,7 +3838,9 @@ zywiecinfo.pl##.promoted
 ||g.cda.pl/*.php?ax$xmlhttprequest
 ||g.gazetaprawna.pl/gp/sgp/img/gp/kyocera-logo.png$image
 ||gazetalubliniecka.pl/wp-content/plugins/popup-maker/assets/js/site.min.js$script
+||gazeta-mlawska.pl/resources/user/*350x600px*.JPG
 ||getionary.pl/images/tlo-box.png$image
+||gf24.pl/wp-content/uploads/20*/*/*1000x200px*.jpg$image
 ||gfx.antyradio.pl/var/antyradio/storage/images/linki-graficzne/
 ||glogow.pl/rek/$domain=glogow-info.pl|glogow.info.pl
 ||glos.live/content/other/banner_$image
@@ -4029,6 +4042,7 @@ zywiecinfo.pl##.promoted
 ||rpinfo.pl/_slides/_slides_stat_frame.php$subdocument
 ||rpinfo.pl/_reklamy/CEN_www_reklamy_$image
 ||rtbnowads.com/$script
+||s.bankier.pl^
 ||s-nk.pl/files/offers/$subdocument
 ||sadeczanin.info/sites/default/files/journos/user14/2020/*.gif$image
 ||satkurier.pl/getRandomBanner
@@ -4235,12 +4249,12 @@ zywiecinfo.pl##.promoted
 /^(http|https):\/\/www\.wp\.pl\/[a-zA-Z0-9-_]{50,}/$popup,domain=www.wp.pl
 /^https:\/\/(g|www)\.cda\.pl\/[\w]{1,50}\.php\?[\w\W]{60,150}=[0-9]{10,20}/$xmlhttprequest,object
 /^https:\/\/[a-z.]{2,16}\.wp\.pl\/[a-zA-Z0-9-_.?=?&%]{472,}/$media,domain=open.fm
-/^https:\/\/[a-z.]{2,17}\.wp\.pl\/[a-zA-Z0-9_-]{450,}/$popup,domain=www.wp.pl
-/^https:\/\/[a-z]{2,14}\.wp\.pl\/[a-zA-Z0-9_-]{200,}/$script,domain=profil.wp.pl|poczta.o2.pl|nowy.tlen.pl
-/^https:\/\/[a-z]{2,14}\.wp\.pl\/[a-zA-Z0-9_-]{450,}/$script,domain=twojeip.wp.pl|czat.wp.pl|wawalove.pl|niewiarygodne.pl|pogoda.wp.pl|dladzieci.pl|dzieci.pl|sport.wp.pl|topnews.wp.pl|odkrywcy.pl|katalog.wp.pl|kultura.wp.pl|avent-ugrow.wp.pl|pudelekx.pl|nerwica.com|forum.abczdrowie.pl|pytamy.pl|ranking.abczdrowie.pl|profil.tlen.pl
+!/^https:\/\/[a-z.]{2,17}\.wp\.pl\/[a-zA-Z0-9_-]{450,}/$popup,domain=www.wp.pl
+!/^https:\/\/[a-z]{2,14}\.wp\.pl\/[a-zA-Z0-9_-]{200,}/$script,domain=profil.wp.pl|poczta.o2.pl|nowy.tlen.pl
+!/^https:\/\/[a-z]{2,14}\.wp\.pl\/[a-zA-Z0-9_-]{450,}/$script,domain=twojeip.wp.pl|czat.wp.pl|wawalove.pl|niewiarygodne.pl|pogoda.wp.pl|dladzieci.pl|dzieci.pl|sport.wp.pl|topnews.wp.pl|odkrywcy.pl|katalog.wp.pl|kultura.wp.pl|avent-ugrow.wp.pl|pudelekx.pl|nerwica.com|forum.abczdrowie.pl|pytamy.pl|ranking.abczdrowie.pl|profil.tlen.pl
 /^https:\/\/eku24.net\/images\/slajdy\/(?!zyczenia)[a-z]{3,10}\/[a-zA-Z0-9_-]{10,50}\.jpg/$image
 /https?:\/\/(?!(poczta|bc))[a-z.]{3,15}\.wp\.pl\/.{20,}/$script,domain=poczta.wp.pl
-!/^(http|https):\/\/obrazki\.elektroda\.pl\/[0-9]{9,10}_[0-9]{9,10}\.(jpg|gif)/$image,domain=elektroda.pl
+/^https:\/\/[a-z]{5,10}\.[a-z]{3,3}\/easylist\/[0-9]{5,6}/$script,domain=dziennikwschodni.pl
 !
 !12#---------------------------------Whitelists----------------------------------!
 @@/TVN-Adserver/*.mp4$xmlhttprequest,domain=player.pl
@@ -4467,6 +4481,7 @@ autocentrum.pl,demotywatory.pl,dziennik.pl,facetemjestem.pl,gala.pl,garnek.pl,gr
 filmyfilmy.pl###play
 ||aranzujemy.co.pl^
 ||fkref.com^
+||000webhostapp.com^
 !
 !24#--------------------------Rules for ublock, but can be use with adblock------------!
 ||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=exs.pl,important
@@ -4639,7 +4654,7 @@ poczta.wp.pl##[slot=SKY]
 pogoda.wp.pl##A[href*=".wp.pl/"][target="_blank"] > DIV:last-child
 pogoda.wp.pl##DIV#stgHeader + * > :first-child + DIV[class]
 pogoda.wp.pl##DIV.stamp + * + DIV[class]
-pogoda.wp.pl##DIV[class]:first-child + * + DIV[class]
+!pogoda.wp.pl##DIV[class]:first-child + * + DIV[class]
 pogoda.wp.pl##DIV[style="text-align: center;"] > DIV[class]:first-child
 sportowefakty.wp.pl##.image--lead + div:not([class])
 sportowefakty.wp.pl##main div[class*=" "]:empty:not(.btnmute):not(.volsliderbg):not([style]):not([id]):not([img]):not([src])
@@ -4718,7 +4733,6 @@ www.money.pl##P + DIV[style$="padding:10px 0"]
 www.money.pl##SCRIPT[src^="//money"] + DIV[class][style="text-align:center;"]
 www.money.pl#?#.article__content>div[class*=" "]:-abp-has(div>div>div:-abp-contains(REKLAMA))
 www.money.pl,moneyv.wp.pl###app > div[data-reactroot] > [class^="sc-"] + div[class]:not([class^="sc-"]):nth-of-type(6)
-money.pl,moneyv.wp.pl###app > div[data-reactroot] > div[class]:matches-css(background-image: /v\.wpimg\.pl\/MjAxOTA/)
 money.pl,moneyv.wp.pl#?#div[class^="sc-"]:-abp-has(> img[src="https://i.wpimg.pl/O/56x45/i.wp.pl/a/i/stg/pkf/bg.png"])
 !
 !36#--------------------------Easylist Bugs -----------!
@@ -4909,6 +4923,7 @@ zwiedzamyparyz.pl###text-6, .a-single, .gyg-widget
 !
 !40#--------------------------Bitcoin whitelist ------------!
 @@||cda.pl/*/*$subdocument,domain=alltube.tv|alltube.pl
+@@||aparat.cam/embed-*.html$subdocument,domain=alltube.pl
 !
 !41#--------------------------Dobreprogramy WL ------------!
 !

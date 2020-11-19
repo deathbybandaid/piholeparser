@@ -3890,6 +3890,7 @@ s-stal.pl
 s-us-01.coinmine.pl
 s-us-02.coinmine.pl
 s-us-03.coinmine.pl
+s.bankier.pl
 s.di.com.pl
 s1.cz.adocean.pl
 s1.czgde.adocean.pl

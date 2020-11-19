@@ -1623,6 +1623,7 @@ ping.dozuki.com
 ping.hellobar.com
 ping.hungama.com
 ping.smyte.com
+ping.staticmoly.me
 pingback.giphy.com
 pingback.issuu.com
 pingback.sogou.com
