@@ -744,6 +744,7 @@ d2nxi61n77zqpl.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
 d2r7bmv6l6bnd1.cloudfront.net
+d2rnkf2kqy5m6h.cloudfront.net
 d2ry9vue95px0b.cloudfront.net
 d2san7t27xb2pn.cloudfront.net
 d2tcg4i9q4js4a.cloudfront.net
@@ -1540,6 +1541,7 @@ nova.dice.net
 nrg.red-by-sfr.fr
 ns.rvmkitt.com
 nws.naltis.com
+nxakpj4ac8gkd53.info
 o.addthis.com
 oal2.destinia.co.uk
 observer.ip-label.net
@@ -1848,6 +1850,7 @@ salisburyjournal-gb.salisburyjournal.co.uk
 sana.newsinc.com.s3.amazonaws.com
 sat.sanoma.fi
 sayac.hurriyettv.com
+sbgsodufuosmmvsdf.info
 sc.cc.com
 scaleway.ovh
 scis.tbs.co.jp
@@ -2891,6 +2894,7 @@ ymprove.web.de
 ynuf.alibaba.com
 yoc.younited-credit.com
 yourlocalguardian-gb.yourlocalguardian.co.uk
+z0uolej1qnxzub1.info
 zam.nextinpact.com
 zdlogs.sphereup.com
 zeus.slader.com

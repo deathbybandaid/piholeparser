@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +QWz+7S7XKig6jVlmb0YIQ
-! Version: 202011190020
+! Checksum: GTG7JwCRxh/O5GSs5l1WXw
+! Version: 202011200020
 ! Title: RU AdList: Counters
-! Last modified: 19 Nov 2020 00:20 UTC
+! Last modified: 20 Nov 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -168,6 +168,7 @@ _pagespeed_beacon?
 ##[title="uWeb Counter"]
 ##a#mobtop[title="Рейтинг мобильных сайтов"]
 ##a[href*="//top.mail.ru/jump?"]
+##a[href*="/rating/"] > img[width="88"][height="31"]
 ~rambler.ru##a[href*="rambler.ru/top100/"]
 ~rambler.ru##a[href*="top100.rambler.ru/"]
 ~vtambove.ru##a[href="http://vtambove.ru/advert/banner_network/"]

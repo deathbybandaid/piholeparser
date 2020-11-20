@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wU6cLaU1S+X4inh98tLYZQ
-! Version: 202011190020
+! Checksum: hFY1836c4r1aQWiTV8akUQ
+! Version: 202011200020
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 19 Nov 2020 00:20 UTC
+! Last modified: 20 Nov 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1325,6 +1325,8 @@ bwtorrents.ru#?#td[valign="top"] > table.tborder[width]:-abp-has(#vk_groups)
 yakusubstudio.forum2x2.ru##td[valign="top"][width="183"]
 velikolepnyivek.com##td[width="180"][valign="top"] *
 youla.ru#?#th[class]:-abp-contains(Поделиться)
+diets.ru##tr > .cell-socseti
+diets.ru##tr > .cell-socseti ~ td
 newsru.co.il#?#tr:-abp-has(> td[valign="top"] > iframe[src*="/like."])
 !
 ! mail.ru
@@ -2563,6 +2565,7 @@ gismeteo.ru,gismeteo.ua###soft-promo
 igra-prestoloff.cx,igra-prestoloff10.xyz#?##sp-right > .sp-inner > .module:-abp-has([href*="://donate.podari-zhizn.ru"])
 app2top.ru###stream-frame
 3dnews.ru###stripe a[href*="utm_campaign"][target="_blank"]
+asienda.ru###sub-weekly-popup
 professorweb.ru###subscr-alert
 eva.ru###subscribe-dialog
 chita.ru###subscribe-sendpulse
@@ -2575,6 +2578,7 @@ vc.ru###surfingbird-block
 severpost.ru###telka
 profwebsit.ru###templatemo_banner_wrapper
 anilibria.tv###text-28
+myjane.ru###thirdclick_message
 prk.city###timfm_top
 sitandwatch.org###toTop
 proufu.ru###top
@@ -2874,6 +2878,7 @@ iz.ru##.get_news_link
 1kr.ua##.global > .inform
 facenews.ua##.gnews
 fast-film.org,fast-film.ru,fast-fiml.ru,fast-torrent.club,fast-torrent.ru,fast-torrent.su,fasttorent.su,filmopotok.ru,filmpotok.ru,kinomaniac.ru,pickfilm.ru,veleto.ru##.go_to_bug
+topvideo.tj##.google_play
 matchpremier.ru,matchtv.ru,sportbox.ru##.gpm-cookie-accepted
 kinoafisha.info##.grid > .layer-announcement
 gamebomb.ru##.grid-100p-301-rc > .container[style^="background-color"]
@@ -3130,7 +3135,7 @@ showjet.ru##.rmp-waring-content
 vesti.ua##.rowFullSecond
 www.rambler.ru##.rui-ToplineAd-adPlace
 livejournal.com##.s-ljvideo
-rustorka.com,rustorka.innal.top,rustorka.net,rustorka2.innal.top,rustorka3.innal.top,rustorka4.innal.top,rustorka5.innal.top,rustorka6.innal.top,rustorkacom.lib##.scroll.clickable
+games-pc.top,rustorka.com,rustorka.innal.top,rustorka.net,rustorka2.innal.top,rustorka3.innal.top,rustorka4.innal.top,rustorka5.innal.top,rustorka6.innal.top,rustorkacom.lib##.scroll.clickable
 radio.i.ua##.scroll_container > .panel_about ~ :not(.weather):not(.other)
 mjusli.ru##.scrollingDisabled > div:not([id]):not([class])[style*="background-color"],#Rise-UI_Side
 islam-today.ru##.scrollup
@@ -3241,6 +3246,7 @@ tverigrad.ru##.up_msg
 playground.ru##.user-advert-message
 dtf.ru,tjournal.ru,vc.ru##.vacancies_widget
 itc.ua##.verticalPageNav
+topvideo.tj##.video-holder > .echo
 24v.tv##.video-rating-wrap
 sports.ru##.video-supertop
 vokrug.tv##.videobomba
@@ -3413,6 +3419,7 @@ banki.ru##body > footer ~ div:not([id]):not([class]):not([style])
 rabota.ua##body > form > div[class^="ui-"]:not([id])
 seeyoupage.ru##body > iframe[id^="_pn_"]
 gameguru.ru,kulina.ru,wotsite.net##body > noindex
+mobiset.ru##body > noindex > #clickDiv
 tass.ru##body > noindex > .widge
 xakep.ru##body > strong
 4pda.ru##body [id] div ~ [id][class]:not(div)[style][data-revive-id]
@@ -4304,7 +4311,6 @@ _revotas_push.
 ##.naf-web-notifications-popup
 ##.notBar
 ##.notf-overlay
-##.notification-button
 ##.notify-optin-wrap
 ##.ntfc_overlay
 ##.ntfc_popup
@@ -6164,7 +6170,6 @@ mobi24.net#@#a[href^="https://www.mobi24.net/"]
 /retweet-button.
 /rotating_tweet.
 /rrshare.
-/rrssb.
 /rtsocial/*
 /rw_share_
 /sc-twitter-
@@ -15181,6 +15186,7 @@ _youtube_social_
 ##.mtphr-twitter-widget
 ##.mts-social-share-links
 ##.mts_googleplus
+##.mu-social-share
 ##.multiplesocialwidget-wrapper
 ##.mvp-alp-soc-list
 ##.mvp-foot-soc-list
@@ -18043,6 +18049,7 @@ _youtube_social_
 ##.social-share-links
 ##.social-share-list
 ##.social-share-menu
+##.social-share-menu-parent
 ##.social-share-nav
 ##.social-share-nota-single
 ##.social-share-options
@@ -21385,7 +21392,7 @@ belgafiles.com,dakine.com,linkedin.com,way2sms.com#@#.share-box
 bitly.com,framestr.com,nytimes.com#@#.share-btn
 kcrw.com,vimeo.com#@#.share-button
 bandcamp.com,bleacherreport.com,distractify.com,naekranie.pl,thedodo.com#@#.share-buttons
-aerospace-technology.com,airport-technology.com,analyticsindiamag.com,army-technology.com,awarenessact.com,bbcccnn.com.ua,cbronline.com,chatsports.com,chemicals-technology.com,clinicaltrialsarena.com,comicbook.com,cosmetics-technology.com,designbuild-network.com,dkoding.in,dogs-magazin.de,drinks-insight-network.com,foodprocessing-technology.com,foodtank.com,gamerisle.org,gen-pop.com,gfycat.com,homelandsecurity-technology.com,hospitalmanagement.net,hotelmanagement-network.com,hydrocarbons-technology.com,invisioncommunity.co.uk,lcms.org,livetheorganicdream.com,mama-notes.de,medicaldevice-network.com,mining-technology.com,naval-technology.com,nursetimes.org,offshore-technology.com,packaging-gateway.com,pharmaceutical-technology.com,player.it,popsugar.co.uk,popsugar.com,popsugar.com.au,power-technology.com,professorshouse.com,railway-technology.com,reefbuilders.com,renewable-technology.com,retail-insight-network.com,roadtraffic-technology.com,sensationrock.net,ship-technology.com,stocksbeat.com,tdiesel.ru,thesportsrush.com,trancentral.tv,tripzilla.ph,uploadvr.com,verdict.co.uk,verdictfoodservice.com,warlegend.net,water-technology.net,zagranie.com#@#.share-container
+aerospace-technology.com,airport-technology.com,analyticsindiamag.com,army-technology.com,awarenessact.com,bbcccnn.com.ua,cbronline.com,chatsports.com,chemicals-technology.com,clinicaltrialsarena.com,comicbook.com,cosmetics-technology.com,designbuild-network.com,dkoding.in,dogs-magazin.de,drinks-insight-network.com,foodprocessing-technology.com,foodtank.com,gamerisle.org,gamesvillage.it,gen-pop.com,gfycat.com,homelandsecurity-technology.com,hospitalmanagement.net,hotelmanagement-network.com,hydrocarbons-technology.com,invisioncommunity.co.uk,lcms.org,livetheorganicdream.com,mama-notes.de,medicaldevice-network.com,mining-technology.com,naval-technology.com,nursetimes.org,offshore-technology.com,packaging-gateway.com,pharmaceutical-technology.com,player.it,popsugar.co.uk,popsugar.com,popsugar.com.au,power-technology.com,professorshouse.com,railway-technology.com,reefbuilders.com,renewable-technology.com,retail-insight-network.com,roadtraffic-technology.com,sensationrock.net,ship-technology.com,stocksbeat.com,tdiesel.ru,thesportsrush.com,trancentral.tv,tripzilla.ph,uploadvr.com,verdict.co.uk,verdictfoodservice.com,warlegend.net,water-technology.net,zagranie.com#@#.share-container
 podbean.com#@#.share-content
 mediafire.com#@#.share-facebook
 bild.de#@#.share-fb
@@ -22418,7 +22425,6 @@ digg.com#@#div[id^="digg-widget-"]
 /1pxtransparent.
 /1x1.trans.
 /1x1Transparent.
-/?spu_action=*spu_load&
 /alerte_tracking.
 /altClickToSearch.
 /amp-apester-
@@ -26684,7 +26690,6 @@ _backToTop.
 ||bumpin.com^$third-party
 ||buzz-stats.com^$third-party
 ||buzzzoo.net^$third-party
-||carambo.la^$third-party
 ||care2.com/petitions/$third-party,domain=~thepetitionsite.com
 ||celebjihad.com^$third-party
 ||chameleon.ad^$third-party
@@ -26836,7 +26841,6 @@ _backToTop.
 ||newsgator.com^$third-party
 ||newsletter2go.com^$third-party
 ||newswhip.com^$third-party
-||nextdoor.com^$third-party
 ||nonissue.com^$third-party
 ||notifyon.com^$third-party
 ||nrcdn.com/custom-script/$third-party
