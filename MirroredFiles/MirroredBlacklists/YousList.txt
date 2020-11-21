@@ -3,7 +3,7 @@
 ! License: https://github.com/yous/YousList#license
 ! Title: YousList
 ! Expires: 4 days
-! Version: 20201119
+! Version: 20201120
 
 ! General element hiding rules
 ##a[href*="//10x10bet888.com"]
@@ -3121,6 +3121,7 @@ dailypharm.com##div.middleAD
 dailypharm.com##div.rigthSideAD
 dailypharm.com##div.topAd
 dailyrecord.co.uk##div.gpt
+dailysecu.com##div.ad-template
 dailysecu.com##div.banner_box
 danawa.com##div.banner_type4
 danawa.com##div.category_btm_banner
