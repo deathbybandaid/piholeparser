@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: hFY1836c4r1aQWiTV8akUQ
-! Version: 202011200020
+! Checksum: 76UG9g7RDbU7gNccsbCHug
+! Version: 202011220020
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 20 Nov 2020 00:20 UTC
+! Last modified: 22 Nov 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -12016,6 +12016,7 @@ _youtube_social_
 ##.d-post-share-btns
 ##.d-share
 ##.d-share-buttons
+##.d-social-list
 ##.d-social-widjets
 ##.d1-social-article
 ##.dSocialBtn
@@ -13712,7 +13713,7 @@ _youtube_social_
 ##.header_social_text
 ##.header_top_bar_socs
 ##.headerfacebookicon
-##.headersocial
+##.headersocial:not(body):not(html)
 ##.headersocials
 ##.headersticky__share
 ##.headertwittericon
@@ -17487,6 +17488,7 @@ _youtube_social_
 ##.social--pinterest
 ##.social--share
 ##.social--share-links
+##.social--share-wrap
 ##.social--share_btn
 ##.social--snapchat
 ##.social--social-link
@@ -21300,7 +21302,7 @@ gorod.mos.ru#@#.footer__social
 adme.ru#@#.gallery-social
 academia.edu,epicgames.com,martini.com,oneplus.net#@#.google-btn
 vk.com#@#.group_share
-ulrichesch.de#@#.headersocial
+ulrichesch.de#@#.headersocial:not(body):not(html)
 oneplus.net#@#.ico-facebook
 wpolityce.pl#@#.icon-facebook-official
 lockerdome.com#@#.icon-facebook2
@@ -25060,6 +25062,7 @@ _backToTop.
 ##.newsletter-social
 ##.newsletter-social-wrapper
 ##.newsletter-sticky
+##.newsletter-stickybar
 ##.newsletter-su-mod
 ##.newsletter-subscribe
 ##.newsletter-subscribe-box

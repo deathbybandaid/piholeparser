@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Q5i6+J3xkoraQKHUldQ+3w
-! Version: 202011210021
+! Checksum: kQAwBH9fTOihsQwXNqJScA
+! Version: 202011220021
 ! Title: Fanboy's Annoyance List
-! Last modified: 21 Nov 2020 00:21 UTC
+! Last modified: 22 Nov 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6597,6 +6597,7 @@ _site_cookie_
 ##.newsletter-social
 ##.newsletter-social-wrapper
 ##.newsletter-sticky
+##.newsletter-stickybar
 ##.newsletter-su-mod
 ##.newsletter-subscribe
 ##.newsletter-subscribe-box
@@ -12854,6 +12855,7 @@ _site_cookie_
 ##.d-post-share-btns
 ##.d-share
 ##.d-share-buttons
+##.d-social-list
 ##.d-social-widjets
 ##.d1-social-article
 ##.dSocialBtn
@@ -14550,7 +14552,7 @@ _site_cookie_
 ##.header_social_text
 ##.header_top_bar_socs
 ##.headerfacebookicon
-##.headersocial
+##.headersocial:not(body):not(html)
 ##.headersocials
 ##.headersticky__share
 ##.headertwittericon
@@ -18325,6 +18327,7 @@ _site_cookie_
 ##.social--pinterest
 ##.social--share
 ##.social--share-links
+##.social--share-wrap
 ##.social--share_btn
 ##.social--snapchat
 ##.social--social-link
@@ -28195,7 +28198,6 @@ _site_cookie_
 ##.GDPRPanel-root
 ##.GRU_banner
 ##.GdprBanner
-##.GdprBanner__bg
 ##.GdprCookieConsent-ConsentContainer
 ##.GdprCookieConsent-ConsentContainerOverlay
 ##.GlobalConsentBar
@@ -33470,6 +33472,7 @@ _site_cookie_
 ##div[class^="Cookies__cookies"]
 ##div[class^="GDPR-module"]
 ##div[class^="GDPRBanner_"]
+##div[class^="GdprBanner_"]
 ##div[class^="_CookieNotice_"]
 ##div[class^="__alertCookie"]
 ##div[class^="__cookie-banner"]
@@ -45883,7 +45886,7 @@ gorod.mos.ru#@#.footer__social
 adme.ru#@#.gallery-social
 academia.edu,epicgames.com,martini.com,oneplus.net#@#.google-btn
 vk.com#@#.group_share
-ulrichesch.de#@#.headersocial
+ulrichesch.de#@#.headersocial:not(body):not(html)
 oneplus.net#@#.ico-facebook
 wpolityce.pl#@#.icon-facebook-official
 lockerdome.com#@#.icon-facebook2
@@ -46350,6 +46353,7 @@ morningstar.ca,tangerine.ca#@#.cc_container
 onet.pl#@#.cmp-app_gdpr
 consent.yahoo.com,lawrievetgroup.co.uk,oath.com#@#.consent-container
 consent.yahoo.com,lawrievetgroup.co.uk,payments.amazon.ca,payments.amazon.co.jp,payments.amazon.co.uk,payments.amazon.com,payments.amazon.com.au,payments.amazon.com.br,payments.amazon.de,payments.amazon.es,payments.amazon.fr,payments.amazon.in,payments.amazon.it,simplii.com#@#.consent-wrapper
+svenskhalsokost.se#@#.cookie-accept
 boursorama.com,nuxeo.com#@#.cookie-banner
 monese.com#@#.cookie-banner:not(body):not(html)
 janrain.com,moemax.de,rituals.com,xxxlshop.de#@#.cookie-bar

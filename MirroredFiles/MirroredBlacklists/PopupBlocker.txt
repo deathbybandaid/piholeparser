@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: 5NWm06G9uybvzMK3aRq+bg
+! Checksum: +TKiYmaAnb1DaCeRO3SCfA
 ! Title: Polskie Filtry Elementów Irytujących
 ! Polish Annoyance Filters
 ! Codename: Annoyance - Main
 ! Description: Filtry ukrywające i blokujące wyskakujące okienka, widgety, newslettery, powiadomienia push, strzałki, otagowane linki wewnętrzne, które są nie na temat artykułów (np. link do pracy w Bydgoszczy w artykule o pogodzie) i inne drażniące elementy (Polskie Filtry RODO-Ciasteczkowe oryginalnie stworzone przez MajkiIT są już w nich zawarte).
 ! Required: Do poprawnego działania wymagana jest lista lub rozszerzenie I don't care about cookies!
-! Last modified: Fri, 20 Nov 2020, 15:01 UTC+01
-! Version: 2020.11.20.1
+! Last modified: Sat, 21 Nov 2020, 15:00 UTC+01
+! Version: 2020.11.21.1
 ! Expires: 2 days
 ! Najnowsza wersja zawsze na: https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters
 ! Zgłoszenia:
@@ -14,7 +14,7 @@
 !   GitHub => https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/deed)
 ! Copyright © 2020 Polish Filters Team
-! Aktualizacja: pią, 20 lis 2020, 15:01 UTC+01
+! Aktualizacja: sob, 21 lis 2020, 15:00 UTC+01
 !
 !
 ! Newslettery (nie popupy)
@@ -772,7 +772,6 @@ kwiatowaprzesylka.pl##.footer1_13
 kwiatywoknach.pl##.block_newsletter_list
 labotiga.pl##.block_newletter
 laksystem.pl##.wf2-scroll-box.grwf2-wrapper
-lamaglama.pl##.c-newsletter__letterbox
 lamisi.pl##.widget-newsletter-subscribe
 lamoda.pl##.newsletter-form > .container
 lampy.pl###newsletterbox_1
@@ -810,6 +809,7 @@ luminosfera.pl,slaskiecentrumkomputerowe.pl##.container > .row > .col-sm-4
 luxfood.pl###Left > .nyroModal:nth-of-type(1)
 luxmed-diagnostyka.pl##.newesletter-box
 maciej.je##p:nth-of-type(47)
+magazyn.waszaturystyka.pl,waszaslowacja.pl,waszaturystyka.pl##.row-child.unequal
 magnapolonia.org##.tnp-subscription
 magnatfarby.pl##.newsletter-sign-in-btn
 majsterkowo.pl,moj-kawalek-podlogi.pl,spirulina.pl,tato.net,techformator.pl,zatorland.pl###text-9
@@ -840,6 +840,8 @@ mbmeganarzedzia.pl,motogron.com##.footer-container > div > div > div:nth-of-type
 mbp.szczecin.pl#?#.elementor-inner-column.elementor-element[data-settings*="background"][data-settings*="classic"] > .elementor-element-populated.elementor-column-wrap:-abp-has(h4:-abp-contains(/^Zapisz się do naszego newslettera$/))
 mdk.opole.pl##footer > .my_container > .formularz.sub
 meble88.pl##.form-subscribe
+meble-z-drewna.pl##p:nth-of-type(30)
+meble-z-drewna.pl##table
 meble.pl###newsletterBlok
 meble.pl##.mainFooter > .row-flex > div:nth-of-type(6)
 meblohaus.pl##.moduletable_left
@@ -972,6 +974,7 @@ notino.pl##.exponea-popup-banner.exponea-banner
 nowakonfederacja.pl###newsletter-header-box
 nowela.pl,teletorium.pl##.newslet
 nowiny.com.pl##.col-md-3:nth-of-type(7) > .info > .bottom > ul > li:nth-of-type(3)
+nowykamieniarz.pl##div.sidebar:nth-of-type(3)
 nowymarketing.pl##.footTools > li:nth-of-type(5)
 nowyobywatel.pl##.a-button-newsletter
 nowyobywatel.pl,taniejdladomu.pl###mailchimp
@@ -1048,6 +1051,7 @@ parkofpoland.com###newsletter-footer
 pasazer.com##.join
 pasazer.com##.section:nth-of-type(4)
 pasazer.com##.\].slidein.\[.box
+pasieka24.pl###Mod238
 patyna.pl#?#.spb_content_element:-abp-has( > .container > .row > .spb-column-container[style*="bg3"] form)
 pb.pl,sklep-wadima.pl###NewsletterBox
 pcaction.pl##.CalyBox:nth-of-type(4)
@@ -1683,6 +1687,7 @@ pl###wp-subscribe
 pl##.block-simplenews
 pl##.block-subscribe
 pl##.box-newsletter
+pl##.c-newsletter
 pl##.footer-block--newsletter
 pl##.footer-newsletter
 pl##.footer-newsletter-box
@@ -5297,10 +5302,6 @@ administrator24.info###zRight > p
 agrodoradca24.pl##.nf-newspaper
 angielski-przedszkole.pl##.ksiazka_contener > .dd-object661798813.dd-textblock
 angielski-przedszkole.pl##[src="/images/book.png"]
-aptekarzpolski.pl##.jnews_module_24236_9_5f327291370e0.jeg_alignleft.jeg_block_heading_2.jeg_block_heading
-aptekarzpolski.pl##.jnews_module_24236_10_5eff0ce4694de.jeg_alignleft.jeg_block_heading_2.jeg_block_heading
-aptekarzpolski.pl##.jnews_module_24236_10_5f32729137491.jeg_col_1o3.jeg_pagination_disable.jeg_module_hook.jeg_postblock.jeg_postblock_10
-aptekarzpolski.pl##.jnews_module_24236_11_5eff0ce469931.jeg_col_1o3.jeg_pagination_disable.jeg_module_hook.jeg_postblock.jeg_postblock_10
 astromagia.pl##.other-services
 astromagia.pl##.section-current-numbers
 audio.com.pl,automatykab2b.pl,budujemydom.pl,elektronikab2b.pl,ep.com.pl,estradaistudio.pl,magazyngitarzysta.pl##.kiosk
@@ -5451,6 +5452,8 @@ magazyngitarzysta.pl##.hidden-xs.new-issue-toggle
 magazyngitarzysta.pl##.new-newspaper.module
 magazynt3.pl###mvp-side-wrap
 magazynt3.pl##.mvp-top-sub-text
+magazyn.waszaturystyka.pl##div.row-container.vc_row:nth-of-type(8)
+magazyn.waszaturystyka.pl,waszaturystyka.pl##.onepage-section.row-container
 magnapolonia.org##a[href^="https://sklep.magnapolonia.org/najnowszy/"]
 malygosc.pl##.pos-sticky
 malygosc.pl##.wp-el.webpart-wrap-media.wp-bd
@@ -5497,11 +5500,13 @@ nowinykrapkowickie.pl##.region-jedynka.region > .block .field-content
 nowiny.pl###box-epress
 nowodworski.info###black-studio-tinymce-3
 noworudzianin.pl###text-6
+nowykamieniarz.pl##div.sidebar:nth-of-type(1)
 nowyobywatel.pl##section#js-packery > div.js-packery__item:nth-of-type(2)
 nowyobywatel.pl##.container ~ div.u-mb\+\+
 nowypompon.pl##table:nth-of-type(2) > tbody > tr > .bodystyle
 nowypompon.pl##tr:nth-of-type(2) > td:nth-of-type(2) > table > tbody > tr > td > table:nth-of-type(4)
 nowypompon.pl##tr:nth-of-type(4) > td:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td:nth-of-type(2) > table > tbody > tr > td > table:nth-of-type(1)
+oohmagazine.pl##div.widget_anthemes_banner300.widget:nth-of-type(1)
 orbiton.pl###sekcja-01
 orbiton.pl,poradnikasfaltowy.pl###formularz
 o-m.pl##div.block:nth-of-type(13)
@@ -5551,6 +5556,8 @@ przegladpiaseczynski.pl##.td_block_padding.td-column-1.td_block_template_1.td-pb
 przegladprawoslawny.pl###media_image-9
 przelom.pl##.widget > .epress
 psychologia.edu.pl###frontBlok-18
+pszczoly.pl##div > table > tbody > tr > td > div
+pszczoly.pl##td:nth-of-type(1) > table > tbody > tr > td > div
 pultuszczak.pl###black-studio-tinymce-46
 radiomaryja.pl###av_section_12
 rawicz24.pl###switch-4
@@ -5566,6 +5573,7 @@ rynek-kolejowy.pl##.Wklejka
 rynek-kolejowy.pl##.najnowszyNumerRK, .miesiecznikRotatorBox
 satkurier.pl###pasek_sk
 satkurier.pl###rightContainer > a.thumbnail:nth-of-type(2)
+sdb.org.pl##div.uk-first-column.uk-grid-margin.uk-width-1-1\@l.uk-width-1-2\@s.uk-width-1-1:nth-of-type(3)
 skladaniekomputera.pl##div[id^="dgd_scrollbox-"], #footer-widgets > .widget:nth-of-type(1)
 sklep-niezalezna.pl###box_banner18
 solidarnosckatowice.pl##.col2 > h2:nth-of-type(1)
@@ -5605,6 +5613,7 @@ tysol.pl#?#.news_header:-abp-contains(/^Najnowszy numer$/) + br + div
 viva.pl##.medium-order-210.subscription
 warszawskagazeta.pl##div.sp-module:nth-of-type(3)
 warszawskagazeta.pl###sppb-addon-1504787697990 > .sppb-addon-module.sppb-addon
+waszaturystyka.pl##.wp-image-44120
 wedkarskiswiat.pl##.ad__top
 wedkarskiswiat.pl##.magazine.section__mag.section
 wiadomoscihandlowe.pl##.mb-4.col-sm-12.col-md-12.col-xl-12
