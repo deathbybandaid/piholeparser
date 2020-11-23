@@ -1,6 +1,7 @@
 2stat.net
 a.sepyra.com
 adlog.com.com
+analytics.goha.info
 c.bigmir.net
 c.cnstats.ru
 c.compete.com

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: GTG7JwCRxh/O5GSs5l1WXw
-! Version: 202011200020
+! Checksum: xQxOnBTfZlC+qXUdtzW+9g
+! Version: 202011230020
 ! Title: RU AdList: Counters
-! Last modified: 20 Nov 2020 00:20 UTC
+! Last modified: 23 Nov 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -218,6 +218,7 @@ _pagespeed_beacon?
 ||amung.us^$third-party
 ||analysis.fi^$third-party
 ||analytics.getaim.info^$third-party
+||analytics.goha.info^
 ||anti-ban.ucoz.ru^$third-party
 ||api-analytics.rozetka.com.ua/js/exponea.min.js
 ||api.mindbox.ru/scripts/*/tracker.js
@@ -863,18 +864,20 @@ rutube.ru#?#+js(json-prune.js, creative, creative.id)
 rutube.ru#?#+js(json-prune.js, interactives, interactives.0)
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.dist-popup
 samlab.ws##.main > #footer ~ table
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##[class$="segment__container"] > div > [class^="card "][class*="_"]
 auto.ru#?#div:matches-css-before(content: /Реклама/)
 auto.ru#?#div:matches-css-before(content: /Реклама/) ~ div
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##div[class^="content "][data-bem] > .content__bottom ~ div[class^="card "]
 !e.mail.ru,octavius.mail.ru#?#+js(set-constant.js, Object.prototype.delegateCount, null)
 ivi.ru#?#+js(set-constant.js, Object.prototype.hasAdv, noopFunc)
+yastatic.net#?#+js(set-constant.js, Object.prototype.hasPreroll, null)
 rutracker.lib,rutracker.net,rutracker.nl,rutracker.org#?#+js(set-constant.js, String.prototype.startsWith, noopFunc)
 rp5.am,rp5.by,rp5.co.uk,rp5.kz,rp5.lt,rp5.lv,rp5.md,rp5.ru,rp5.ua#?#+js(setTimeout-defuser.js, xvb)
 inoreader.com##.ad_title > a
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.b-page__container > footer ~ .b-statcounter + div[class]
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.b-statcounter + div[class] > div[id][class]
 militaryreview.su##.bbanerr
 uniongang.net,uniongang.org#?#.block:-abp-has(> .block-title:-abp-contains(Счётчики))
 yakusubstudio.home-forum.com,yakusubstudio.ru##.contbaner
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz#?#.content > .card:-abp-has(> div > div[id][class] + script[nonce])
 segodnya.ua##.counters
 rambler.ru##.disableAdvButton__container
 zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz#?#.feed > .feed__row:-abp-has(.cutify-text-view)
@@ -902,7 +905,6 @@ yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.turbo-embed_market_widget
 @@/^https?://yandex\.ru\/turbo\?/*[^\s]+(dni24\.com|fishki\.net|news\.ru|publy\.ru|tsargrad\.tv)/$csp=script-src
 @@||inoreader.com^$generichide
 @@||www.inoreader.com/adv/$domain=www.inoreader.com
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz#?#[class$="segment__container"] > div > .card:-abp-has(> div[class] div[id] + script)
 animedub.ru##a[href="https://animedub.ru/adblock.html"]
 autorambler.ru,championat.com,eda.ru,gazeta.ru,lenta.ru,letidor.ru,motor.ru,passion.ru,quto.ru,rambler.*,rns.online,wmj.ru#?#+js(json-prune.js, Blocks)
 autorambler.ru,championat.com,eda.ru,gazeta.ru,lenta.ru,letidor.ru,motor.ru,passion.ru,quto.ru,rambler.*,rns.online,wmj.ru#?#^script:has-text("getPrefixes")
@@ -943,14 +945,15 @@ nova.rambler.*#?#+js(abort-on-property-read.js, Object.prototype.AdvManager)
 ~yandex.net,yandex.*#?#+js(set-constant.js, Object.prototype.loaderVer, noopFunc)
 ~yandex.net,yandex.*#?#+js(set-constant.js, Object.prototype.useAbdBundle, false)
 ~yandex.net,yandex.*#?#+js(set-constant.js, __AAB__, false)
-~yandex.net,yastatic.net,yandex.*#?#+js(set-constant.js, Object.prototype.hasPreroll, noopFunc)
 !
 ! Экспериментальные правила для маркеров
 /story/*?lang=$document,queryprune=.,domain=yandex.*
 ?commercial=$document,queryprune=.,domain=ria.com
 ?r_audience=$document,queryprune=.,domain=ria.com
+?utm_campaign=$document,queryprune=.,domain=yandex.*
+?utm_source=$document,queryprune=.,domain=yandex.*
 ?utm_source=ukr$document,queryprune=|utm_
 ?utm_source=yxnews&utm_$document,queryprune=|utm_
-utm_$document,queryprune=.,domain=yandex.*
+from=*_portal&lang=$document,queryprune=.,domain=yandex.*
 utm_$document,xmlhttprequest,queryprune=|utm_,domain=auto.ru|instagram.com|kp.by|kp.kg|kp.kz|kp.md|kp.ru|mail.ru|rambler.ru|ria.com
 ||mail.ru^*frommail=1$document,queryprune=|frommail=1,domain=mail.ru
