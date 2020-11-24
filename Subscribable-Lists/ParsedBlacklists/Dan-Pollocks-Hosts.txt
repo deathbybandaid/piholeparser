@@ -3715,6 +3715,7 @@ c.prodigy.msn.com
 c.pt.msn.com
 c.ru.msn.com
 c.se.msn.com
+c.seznam.cz
 c.sg.msn.com
 c.silvinst.com
 c.statcounter.com
@@ -4107,6 +4108,7 @@ cig-arrete.com
 cigape.net
 ciiycode.com
 cikkelek.eu
+cileni.seznam.cz
 cinplex.oewabox.at
 cioco-froll.com
 cira.login.cqr.ssl.igotmyloverback.com
@@ -6177,6 +6179,7 @@ h-adashx4ae.ut.taobao.com
 h-afnetwww.adshuffle.com
 h.admob.com
 h.ppjol.com
+h.seznam.cz
 h1.msn.com
 h1.ripway.com
 h1317070.stratoserver.net
@@ -6434,6 +6437,7 @@ i.pcp001.com
 i.qitrck.com
 i.radzolo.com
 i.securecontactinfo.com
+i.seznam.cz
 i.simpli.fi
 i.static.zaplata.bg
 i.total-media.net
@@ -10661,6 +10665,7 @@ sso.canada.com
 ssp.adplus.co.id
 ssp.anyclip-media.com
 ssp.imedia.cz
+ssp.seznam.cz
 ssp.streamrail.net
 sspcash.adxcore.com
 st.blogads.com

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 69vl/606VecITJT10MU22g
-! Version: 202011230021
+! Checksum: shej1XJLVGNKZGTf0IbX5A
+! Version: 202011240021
 ! Title: Fanboy's Annoyance List
-! Last modified: 23 Nov 2020 00:21 UTC
+! Last modified: 24 Nov 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -15857,6 +15857,7 @@ _site_cookie_
 ##.menu-social-container
 ##.menu-social-footer
 ##.menu-social-gplus
+##.menu-social-icons
 ##.menu-social-instagram
 ##.menu-social-links
 ##.menu-social-media-menu-container
@@ -17870,6 +17871,9 @@ _site_cookie_
 ##.sharing-container
 ##.sharing-counters
 ##.sharing-div
+##.sharing-element-facebook
+##.sharing-element-mail
+##.sharing-element-twitter
 ##.sharing-facebook
 ##.sharing-fb
 ##.sharing-google-plus
@@ -34626,6 +34630,7 @@ _site_cookie_
 ||emailsherlock.com/javascripts/lightbox.js
 ||fin24.com^*/iabLogo.
 ||findthebest.co.uk/ajax/load_tracker
+||gamesindustry.biz/jobs-widget
 ||gameyum.com/_static/popup/
 ||goodreads.com/sign_in_prompt
 ||google.com/images/*_promo_
@@ -35792,6 +35797,7 @@ indiatimes.com###mf_follow
 mediafire.com###mf_like_heading
 divinecaroline.com###miniBar
 bloomberg.com###mini_q
+sourceforge.net###mirror
 mercurynews.com###mn_TopListings_Redesign
 newyorker.com###mobile-nav-container
 cnet.com###mobileApp
@@ -37210,7 +37216,7 @@ v3.co.uk##.job_content_parent
 softpedia.com##.jobnotice_cnt
 mashable.com##.jobs
 oxfordmail.co.uk##.jobs-block
-sourceforge.net##.jobs-widget
+gamesindustry.biz,sourceforge.net##.jobs-widget
 androidapps.com##.join-appolicious
 toolbox.com##.join-button
 spiceworks.com##.join-footer
@@ -38423,6 +38429,7 @@ ba-bamail.com###modal-reg
 linux.com###modalBackdrop
 linux.com###modalContent
 psycom.net###modalpop
+cbsnews.com###module-newsletter-signup-facethenation
 maketecheasier.com###mte_optin
 popsugar.com###must-have-badge
 conversationalist.org,martechadvisor.com,worldcrunch.com###myModal
@@ -42737,7 +42744,7 @@ everyeye.it##.nav_articoli
 ilsitodellozoo.com##.navbar-alt
 laleggepertutti.it##.news-letter
 leggioggi.it##.newsButton
-01net.it,advisoronline.it,aeroporto.net,astrooroscopo.it,basketinside.com,bintmusic.it,brindisisera.it,carpicalcionews.it,chiesadimilano.it,cittaceleste.it,condominioweb.com,corsedimoto.com,fantamagazine.com,fcinter1908.it,focusardegna.com,forzaroma.info,gazzamercato.it,giornaledibrescia.it,gogedizioni.it,golssip.it,guidafisco.it,ilfoglio.it,ilgiorno.it,ilmilanista.it,ilposticipo.it,ilrestodelcarlino.it,ilsecoloxix.it,ilsussidiario.net,itasportpress.it,juvenews.eu,key4biz.it,lanazione.it,legab.it,leitgamhof.com,lescienze.it,linkiesta.it,lintellettualedissidente.it,lvh.it,mediagol.it,meteolive.it,mondoudinese.it,motorionline.com,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,quotidiano.net,rivistacontrasti.it,sassuolocalcionews.it,silicon.it,sportavellino.it,tenniscircus.com,theitaliantimes.it,toronews.net,tuttobolognaweb.it,valori.it,violanews.com##.newsletter
+01net.it,advisoronline.it,aeroporto.net,astrooroscopo.it,basketinside.com,bintmusic.it,brindisisera.it,carpicalcionews.it,chiesadimilano.it,cittaceleste.it,condominioweb.com,corsedimoto.com,digitaleterrestrefacile.it,fantamagazine.com,fcinter1908.it,focusardegna.com,forzaroma.info,gazzamercato.it,giornaledibrescia.it,gogedizioni.it,golssip.it,guidafisco.it,ilfoglio.it,ilgiorno.it,ilmilanista.it,ilposticipo.it,ilrestodelcarlino.it,ilsecoloxix.it,ilsussidiario.net,itasportpress.it,juvenews.eu,key4biz.it,lanazione.it,legab.it,leitgamhof.com,lescienze.it,linkiesta.it,lintellettualedissidente.it,lvh.it,mediagol.it,meteolive.it,mondoudinese.it,motorionline.com,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,quotidiano.net,rivistacontrasti.it,sassuolocalcionews.it,silicon.it,sportavellino.it,tenniscircus.com,theitaliantimes.it,toronews.net,tuttobolognaweb.it,valori.it,violanews.com##.newsletter
 ravennanotizie.it##.newsletter-section
 orizzontescuola.it##.nl-block
 starbene.it##.nlslim
@@ -46350,7 +46357,7 @@ patient.info#@#.alert--cookie
 rainews.it#@#.as-oil-content-overlay
 rainews.it#@#.as-oil[data-qa="oil-Layer"]
 openfiber.it,supertennis.tv#@#.cc-banner
-bing.com,czuczu.pl,supertennis.tv#@#.cc-container
+bing.com,czuczu.pl,experian.com,supertennis.tv#@#.cc-container
 morningstar.ca,tangerine.ca#@#.cc_container
 onet.pl#@#.cmp-app_gdpr
 consent.yahoo.com,lawrievetgroup.co.uk,oath.com#@#.consent-container
@@ -46606,6 +46613,7 @@ yoigo.com#@#thor-cookies
 @@||digikey.com^*/cookie-notice.css$stylesheet,domain=digikey.com
 @@||dl.gmx.com/permission/oneTrust/consent/$domain=gmx.com
 @@||ecestaticos.com/build/js/common/components/messageapi/cookiemessage.$script,domain=www.elconfidencial.com
+@@||gizmochina.com/wp-content/plugins/cookie-law-info/public/js/cookie-law-info-public.js$~third-party
 @@||gstatic.com/brandstudio/kato/cookie_choice_component/$script,domain=blog.google
 @@||microsoft.com/api/privacy/cookieconsent?$xmlhttprequest,domain=docs.microsoft.com
 @@||nectar.com/lib/cookieBanner.js
