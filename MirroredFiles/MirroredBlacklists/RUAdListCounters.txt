@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: weX4i7nV7/JcmycP4qA0sw
-! Version: 202011240020
+! Checksum: Khe88AXf8KX0uv0ebaUlXw
+! Version: 202011250020
 ! Title: RU AdList: Counters
-! Last modified: 24 Nov 2020 00:20 UTC
+! Last modified: 25 Nov 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -229,6 +229,7 @@ _pagespeed_beacon?
 ||artfut.com^$third-party
 ||astdn.ru^$third-party
 ||astr24.ru/top/
+||auction.vo-media.ru^$third-party
 ||audtd.com/match/
 ||authentication.me^$third-party
 ||auto.ru/-/ajax/$~xmlhttprequest
@@ -648,6 +649,7 @@ _pagespeed_beacon?
 ||stats.internet-yadro.com^
 ||stats.qmerce.com^
 ||stats.seedr.ru^
+||stats.serpads.com^$third-party
 ||stats.wordpress.com^
 ||stats.wp.com^$third-party
 ||statscreen.info^$third-party
@@ -952,9 +954,24 @@ nova.rambler.*#?#+js(abort-on-property-read.js, Object.prototype.AdvManager)
 ?r_audience=$document,queryprune=.,domain=ria.com
 ?utm_campaign=$document,queryprune=.,domain=yandex.*
 ?utm_source=$document,queryprune=.,domain=yandex.*
+?utm_source=finobzor.ru$document,queryprune=|utm_
+?utm_source=politobzor.net$document,queryprune=|utm_
 ?utm_source=ukr$document,queryprune=|utm_
+?utm_source=warfiles.ru$document,queryprune=|utm_
 ?utm_source=yxnews&utm_$document,queryprune=|utm_
 from=*_portal&lang=$document,queryprune=.,domain=yandex.*
-utm_$document,xmlhttprequest,queryprune=|utm_,domain=auto.ru|instagram.com|kp.by|kp.kg|kp.kz|kp.md|kp.ru|kurs.com.ua|mail.ru|nv.ua|rambler.ru|ria.com
-utm_source=kurs_com_ua$document,queryprune=|utm_
+utm_$document,xmlhttprequest,queryprune=|utm_,domain=auto.ru|gazeta.ru|instagram.com|ivi.ru|kp.by|kp.kg|kp.kz|kp.md|kp.ru|kurs.com.ua|lenta.ru|m24.ru|mail.ru|moslenta.ru|nv.ua|rambler.ru|rg.ru|ria.com|riafan.ru|rt.com|rueconomics.ru|svpressa.ru|tass.ru|tvzvezda.ru|vz.ru
+utm_source=horoscopes$document,xmlhttprequest,queryprune=|utm_
+utm_source=kurs_com_$document,queryprune=|utm_
+utm_source=rambler.ru$document,queryprune=|utm_
+utm_source=rauto$document,xmlhttprequest,queryprune=|utm_
+utm_source=rdoctor$document,xmlhttprequest,queryprune=|utm_
+utm_source=rfinance$document,xmlhttprequest,queryprune=|utm_
+utm_source=rgames$document,xmlhttprequest,queryprune=|utm_
+utm_source=rkino$document,xmlhttprequest,queryprune=|utm_
+utm_source=rnews$document,xmlhttprequest,queryprune=|utm_
+utm_source=rsport$document,xmlhttprequest,queryprune=|utm_
+utm_source=rtravel$document,xmlhttprequest,queryprune=|utm_
+utm_source=rweekend$document,xmlhttprequest,queryprune=|utm_
+utm_source=rwoman$document,xmlhttprequest,queryprune=|utm_
 ||mail.ru^*frommail=1$document,queryprune=|frommail=1,domain=mail.ru
