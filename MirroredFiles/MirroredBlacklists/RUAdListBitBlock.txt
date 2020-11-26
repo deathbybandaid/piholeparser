@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: KHzYWFElf4KbAbVFExIpmw
-! Version: 202011250020
+! Checksum: QCjUoj1s+R0ecW2rXqja3w
+! Version: 202011260020
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 25 Nov 2020 00:20 UTC
+! Last modified: 26 Nov 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -585,6 +585,7 @@ all-episodes.org##.content > .socbuttons ~ noindex
 kulturologia.ru#?#.content > p:-abp-has(> b:-abp-contains(/^жми$/))
 ua.news##.content-socials
 spot.uz##.contentBoxR
+mirf.ru##.content_footer_social
 football.kulichki.net##.content_top_line > a[href]
 coub.com##.coub__sharing__list > button.social
 cameralabs.org##.data-social
@@ -625,6 +626,7 @@ vtrende72.ru##.fixedbut
 football24.ua##.follow-us-under-news
 fireman.club##.followandsub
 evtifeev.com##.fones
+bigpicture.ru#?#.footer .list:-abp-has(> .social)
 znak.com##.footer > .credits:not([id]) > .credits__row
 myjane.ru##.footer-ok
 pr-cy.ru##.footer-page__social
@@ -657,6 +659,7 @@ bigpuzzle.ru#?#.h4:-abp-contains(Наша группа ВКонтакте)
 real-vin.com##.h_social
 www.film.ru##.head > .login > div
 mixednews.ru##.head-social
+mirf.ru##.head_post_desc_social
 argumentiru.com##.head_soc
 moika78.ru,nevasport.ru##.header-box__social
 teleprogramma.pro##.header-progress_socials
@@ -671,6 +674,7 @@ interfax.ru,kp.ua##.header__soc
 russian.rt.com##.header__social
 islam-today.ru##.header__social-buttons
 psm7.com##.header__top > .pc-hide
+mirf.ru##.header_icons
 proufu.ru##.header_share
 digger.ru##.header_social-wrap
 bilshe.com##.header_soclinks
@@ -1093,6 +1097,7 @@ shostka.info,sumypost.com##.to-telegram
 ktozvonit.com.ua##.tooltip-n > .icon_i
 vesti.uz##.top > .container > .row > .col-md-4:first-child
 versii.if.ua##.top-fb
+vesti42.ru##.top-icons-wrapper
 ru-an.info##.top-ss,.top-sss
 mybryansk.ru##.topLine
 eurointegration.com.ua##.top__social__item
@@ -1939,7 +1944,7 @@ _userbar_$image
 ||gamehits.ru/games/$third-party
 ||gamerhandles.com/sig/$third-party
 ||gamersgate.com/ggtagi/
-||getbeamer.com^$third-party
+||getbeamer.com^$third-party,domain=~comss.ru
 ||gifr.ru/data/gifs/$third-party
 ||giraff.io^$third-party,domain=~zakon.kz
 ||glitter-graphics.net^$third-party
@@ -2297,7 +2302,6 @@ _userbar_$image
 ||vesti.uz/wp-content/plugins/snow-flurry/
 ||video.gamer-info.com/*.mp4|
 ||vikna.if.ua/assets/js/jquery.cookie.js
-||vk.com/js/cmodules/web/unauthorized.
 ||vk.com/video_ext.php?*&autoplay=1$subdocument,domain=igromania.ru|kanobu.ru
 ||vk.com/widget_post.php$domain=kritika24.ru
 ||vseiski.ru/consultant/
@@ -2729,6 +2733,7 @@ get-styles.ru##.banner-up
 game2day.ru##.banner_articl
 ruskline.ru##.banners-line
 kritika24.ru##.bannervtekste
+comss.ru##.beamerButton > .beamer_icon
 www.championat.com##.bet-embed
 experts-exchange.com##.bffr_trusted
 vesti-yamal.ru##.bgBanner
@@ -17204,6 +17209,7 @@ _youtube_social_
 ##.sidebar-share-widget
 ##.sidebar-social
 ##.sidebar-social-btns
+##.sidebar-social-button
 ##.sidebar-social-buttons
 ##.sidebar-social-follow
 ##.sidebar-social-icons
@@ -17596,6 +17602,7 @@ _youtube_social_
 ##.social-btn-list
 ##.social-btn-loader
 ##.social-btn-twitter
+##.social-btn-wrapper
 ##.social-btns
 ##.social-btns-new
 ##.social-btns-vert-wrapper
@@ -18223,6 +18230,7 @@ _youtube_social_
 ##.social-wrp
 ##.social-youtube
 ##.social-yt
+##.social.thumb
 ##.social2
 ##.social2-links-wrapper
 ##.social300
@@ -25132,6 +25140,7 @@ _backToTop.
 ##.newsletterCassetto
 ##.newsletterCont
 ##.newsletterContainer
+##.newsletterContentModule
 ##.newsletterCtaContainer
 ##.newsletterFeed
 ##.newsletterFmt

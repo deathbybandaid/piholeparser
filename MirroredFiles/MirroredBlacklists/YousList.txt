@@ -3,7 +3,7 @@
 ! License: https://github.com/yous/YousList#license
 ! Title: YousList
 ! Expires: 4 days
-! Version: 20201123
+! Version: 20201125
 
 ! General element hiding rules
 ##a[href*="//10x10bet888.com"]
@@ -1690,6 +1690,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||jjan.kr/banner/ad_banner_*.html^
 ||jjanglive.com/flash/AdShowClient.swf^
 ||jjanglive.com/flash/webClient.swf^
+||joind.io/attach/bannerInner/$domain=joind.io
 ||joinsmediacanada.com/data/file/ad/$domain=joinsmediacanada.com
 ||joinsmsn.com/_ui/ad/
 ||joy-adstore.co.kr/ad/
@@ -4092,6 +4093,14 @@ jnewstimes.com##div.banner_aside01
 jnewstimes.com##div.banner_aside02
 jnewstimes.com##div.view01_banner01
 jobplanet.co.kr##article#viewReviewsList section>div[style="padding:0;margin:0;background-color:#ddd;text-align:center"]
+joind.io##div.banner-area
+joind.io##div.bannerArea
+joind.io##div.bannerMiddlePosition
+joind.io##div.middleSizeBanner
+joind.io##div.pcBottomArea
+joind.io##div.pcLeftArea
+joind.io##div.pcTopArea
+joind.io##div.smallSizeBanner
 joins.com##div#divArticleAdnetworkBanner
 joins.com##div#gnb_banner
 joins.com##div#shoppingnews
@@ -5523,6 +5532,7 @@ nate.com##div#shopLoading
 nate.com##div[class^="area_ad"]
 nate.com##div[id^="ad_layer"]
 nate.com##iframe#ifrShopping
+naver.com##div#NM_MID_BANNER
 naver.com##div#NM_TOP_BANNER
 naver.com##div#promotion1
 naver.com##div#promotion2
@@ -7102,7 +7112,6 @@ youtube.com##div.ytp-ad-action-interstitial-slot
 youtube.com##ytd-compact-promoted-video-renderer
 youtube.com##ytd-companion-slot-renderer.ytd-player-legacy-desktop-watch-ads-renderer
 youtube.com##ytd-display-ad-renderer
-youtube.com##ytd-engagement-panel-section-list-renderer
 youtube.com##ytd-promoted-sparkles-web-renderer
 youtube.com##ytd-search-pyv-renderer
 youtube.com##ytd-video-masthead-ad-renderer

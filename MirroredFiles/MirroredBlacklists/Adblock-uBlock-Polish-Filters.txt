@@ -8,9 +8,9 @@
 ! Działa najlepiej z EasyList - pamiętaj aby zasubskrybować!
 !   Patronite ==> https://patronite.pl/polskiefiltry
 !   PayPal ==> https://www.paypal.com/pools/c/87zNJ8OJ3I
-! Last modified: 23 November 2020
+! Last modified: 25 November 2020
 ! Expires: 1 day
-! Version: 2020112303
+! Version: 2020112501
 ! Support:
 !   Email >> errorsfilters@certyficate.it
 !   Github >> https://github.com/MajkiIT/polish-ads-filter/issues
@@ -18,7 +18,7 @@
 ! License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ! Copyright © 2020 Certyficate IT
 ! Najnowsza wersja zawsze na: https://www.certyficate.it/adblock
-! v.2020112303 aktualizacja: pon, 23 listopada 2020, 22:00:00
+! v.2020112501 aktualizacja: sr, 25 listopada 2020, 19:35:00
 !
 !
 !1#-----------------------General advert blocking filters-----------------------!
@@ -46,7 +46,7 @@
 /banery/*980x100
 /banery/*980x90
 /banners/$image,domain=files.biala24.pl|carpatiabiznes.pl|centrumdruku3d.pl|motocyklistow.pl|portal-firma.pl|cashbackrabat.pl|koscianiak.pl|pmi24.info|masarnieonline.pl|piekarnieonline.pl|mleczarnieonline.pl|przeglad-ogrodniczy.pl|fit-online.pl|edzieci.pl
-/bannery/*$image,subdocument,domain=em.kielce.pl|czasdzieci.pl|kolporter.com.pl|sklep-tvsat.hcore.pl|www.walbrzych24.com|zlotoryja.info|skijumping.pl|icomp.pl|forum.cs-classic.pl|nocnygdansk.pl|wagaciezka.com|obud.pl|beskid-niski.pl|ezakopane.pl|czytelniamedyczna.pl|portalrolniczy.info
+/bannery/*$image,subdocument,domain=em.kielce.pl|czasdzieci.pl|kolporter.com.pl|sklep-tvsat.hcore.pl|www.walbrzych24.com|zlotoryja.info|skijumping.pl|icomp.pl|forum.cs-classic.pl|nocnygdansk.pl|wagaciezka.com|obud.pl|beskid-niski.pl|ezakopane.pl|czytelniamedyczna.pl|portalrolniczy.info|gawex.pl
 /content-generator/published/frame/generate?*frameId=*&placementId=*&guid=
 /data/ap3bo6/*.gif$image,domain=tvmalbork.pl|tvsztum.pl|zulawyimierzeja24.pl|tvregionalna24.pl
 /data/ap3bo6/*.jpg$image,domain=tvmalbork.pl|tvsztum.pl|zulawyimierzeja24.pl|tvregionalna24.pl
@@ -239,7 +239,7 @@ popkiller.pl,tygodnikpodhalanski.pl,cnc.info.pl##[class*="reklamy"]
 ~milionczesci.pl,~dizibox.com,~2dehands.be,~ru,~ua,~www.pudelek.pl,~btdb.eu##[id^="adv-"]:not(#adv-settings)
 ~ool.ru,~24jgora.pl,~24wroclaw.pl,~kurierpodlaski.pl##[class*="box-advert"]
 ~plonskwsieci.pl##.a-d-v-i
-~otodom.pl,~przegladsportowy.pl,~wpolityce.pl,~hardcorowo.pl,~filmweb.pl,~fakro.pl,~dziennikwschodni.pl,~galilu.pl,~uwaga.tvn.pl,~gumtree.pl,pl,~www.paintballmarket.pl##[class^="ad-"]
+~otodom.pl,~przegladsportowy.pl,~wpolityce.pl,~hardcorowo.pl,~filmweb.pl,~fakro.pl,~dziennikwschodni.pl,~galilu.pl,~uwaga.tvn.pl,~gumtree.pl,pl,~www.paintballmarket.pl,~meczyki.pl##[class^="ad-"]
 ~przegladsportowy.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,pl##[id^="crt-"]
 ~przegladsportowy.pl,~medonet.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,pl###advertisments
 ~przegladsportowy.pl,~medonet.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,pl###pixad-box
@@ -1032,6 +1032,8 @@ filesdark.com##[href*="/adac.php"]
 centrumdruku3d.pl##a[href^="https://goo.gl/"]
 filmpolski.pl##.obrazek_bez_ramki
 filmweb.pl##.PlusDiscountsButton, .faHeaderBanner--html, .AdvertButton
+filmweb.pl###playFilmsPage > .page__top
+filmweb.pl##.isReady.filmOverPosterBarSection--playNow.FilmOverPosterBarSection.filmOverPosterBarSection.page__section
 fintek.pl##[class^="bootstrap-module--pt-"] > [class^="bootstrap-module--mb-"]
 fintek.pl##[class^="bootstrap-module--pt-2"] > .gatsby-image-wrapper
 firmy77.pl##div.rBoxLeft
@@ -1147,7 +1149,6 @@ gamezilla.pl##DIV[style="width: 600px; height: 400px; margin: 20px auto;"]
 gamingsociety.pl##.all-screening
 ganjaskill.eu###ipsBox
 gastrona.pl##.content > A > IMG
-gawex.pl##.active.item
 gazeo.pl##.point
 gazeta-mlawska.pl##[href="https://spisrolny.gov.pl/"]
 gazeta-mlawska.pl##[href="http://www.mhsmlawa.pl"]
