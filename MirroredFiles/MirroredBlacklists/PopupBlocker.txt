@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: 3Vo24MnrOHQAf+nlz4JVeA
+! Checksum: IRMKQyWJ8jwDgK3xbk/C2Q
 ! Title: Polskie Filtry Elementów Irytujących
 ! Polish Annoyance Filters
 ! Codename: Annoyance - Main
 ! Description: Filtry ukrywające i blokujące wyskakujące okienka, widgety, newslettery, powiadomienia push, strzałki, otagowane linki wewnętrzne, które są nie na temat artykułów (np. link do pracy w Bydgoszczy w artykule o pogodzie) i inne drażniące elementy (Polskie Filtry RODO-Ciasteczkowe oryginalnie stworzone przez MajkiIT są już w nich zawarte).
 ! Required: Do poprawnego działania wymagana jest lista lub rozszerzenie I don't care about cookies!
-! Last modified: Wed, 25 Nov 2020, 11:00 UTC+01
-! Version: 2020.11.25.0
+! Last modified: Thu, 26 Nov 2020, 19:02 UTC+01
+! Version: 2020.11.26.1
 ! Expires: 2 days
 ! Najnowsza wersja zawsze na: https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters
 ! Zgłoszenia:
@@ -14,7 +14,7 @@
 !   GitHub => https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/deed)
 ! Copyright © 2020 Polish Filters Team
-! Aktualizacja: śro, 25 lis 2020, 11:00 UTC+01
+! Aktualizacja: czw, 26 lis 2020, 19:02 UTC+01
 !
 !
 ! Newslettery (nie popupy)
@@ -814,7 +814,7 @@ magnatfarby.pl##.newsletter-sign-in-btn
 majsterkowo.pl,moj-kawalek-podlogi.pl,spirulina.pl,tato.net,techformator.pl,zatorland.pl###text-9
 makita.sklep.pl##.ModulNewsletterDol
 mamaplus.pl###mc_embed_signup
-mambiznes.pl##.newsletter-area
+mambiznes.pl,sputnikfestiwal.pl##.newsletter-area
 mamopracuj.pl##.newsletters
 mamotoja.pl##.nlt-footer
 mamstartup.pl##.hb-right.submitClearInput
@@ -1728,7 +1728,7 @@ accent-bikes.com###lang_popup
 activeshop.com.pl##.popupid21
 ac.com.pl,actaenergetica.org,atomstore.pl,ccnews.pl,deku.pl,jagiellonski.pl,meczelive.pl,meczelive.tv,meczenazywo.pl,mutyzm.org.pl,platan.pl,portalmorski.pl,regalka.pl,rozsadnibracia.pl,secretlashes.pl,sukcesja.eu,teatrsyrena.pl,uczyibawi.pl,wokolmotoryzacji.pl###fm-pu-container
 adamkuncicki.pl###listfusion_popup_lightbox_main
-adamspa.pl,alkalicznystylzycia.com,angelius.pl,elektoralna.pl,hospicjum-podkarpackie.pl,inspiringsolutions.pl,passion.pl,qagile.pl##.ppsPopupShell, #ppsPopupBgOverlay
+adamspa.pl,alkalicznystylzycia.com,angelius.pl,elektoralna.pl,horeca.ban-food.pl,hospicjum-podkarpackie.pl,inspiringsolutions.pl,passion.pl,qagile.pl##.ppsPopupShell, #ppsPopupBgOverlay
 addhost.pl##.fsp-wrapper
 addons.opera.com,atcdevelopment.pl,bankobranie.blogspot.com,bobbyburger.pl###overlay
 adeste.eu##.cp-direct-download-container
@@ -2926,14 +2926,14 @@ alltube.tv##.fa-angle-double-up
 alphavit.pl,athleticsport.pl,getinbank.pl,grajtanio.pl,itmarket.pl,mojedekoracje.eu,motoledy.pl,pakuten.pl,siecobywatelska.pl,sklep.kwiaciarniakozacka.pl,sklep.lack-service.pl,trojmiasto.pl,zoo365.pl###scroll_top
 alter24.pl###page ~ div[id^="anb"]
 aluprof.eu##.sidebar__link--top
-aluzja.gorzow.pl,artgos.pl,artsolution.com.pl,bolestraszyce.pl,ck.przemysl.pl,domator.eu,grafiqa.pl,halkazakopane.com,interauto.krakow.pl,itlab.pl,sirroger.pl,tomiicars.com.pl,treningkrakow.pl,vagaru.pl,vmdesign.pl##.back-to-top-widget
+aluzja.gorzow.pl,artgos.pl,artsolution.com.pl,bolestraszyce.pl,ck.przemysl.pl,domator.eu,gbp.zwierzyn.pl,grafiqa.pl,halkazakopane.com,interauto.krakow.pl,itlab.pl,muzeum.belchatow.pl,sirroger.pl,tomiicars.com.pl,treningkrakow.pl,vagaru.pl,vmdesign.pl##.back-to-top-widget
 amfora.pl,budujesz.pl,digitalo.pl,hulahop.pl,mall.pl,meblujesz.pl,morele.net,motoria.pl,panasonic-batteries.com,sklep-presto.pl,ubieramy.pl,whiteplate.com##.btn-back-to-top
 amooco.com###footer-backtop
 ams.com.pl,bohaterdomu.pl###back2top
 ams.edu.pl,apteka-natura.eu,bludshop.com,ehurt.eu,ene-due.eu,pakolorente.com,ptwp.pl,unbrokenstore.com##.backTop
 anetaduk.com,moto.lca.pl###myBtn
 animalistka.pl,faltusdesign.wordpress.com##.tothetop
-animeholik.pl,atrium-biala.pl,atrium-ch.pl,atrium-copernicus.pl,atrium-felicity.pl,atrium-gama.pl,atrium-kasztanowa.pl,atrium-koszalin.pl,atrium-molo.pl,atrium-mosty.pl,atrium-plejada.pl,atrium-reduta.pl,atrium-targowek.pl,bielskakraina.pl,doran.com.pl,gazetasenior.pl,meble-wanat.pl,mtb-xc.pl,muzyczneradio.pl,promenada.com,promocyjni.pl,radiofon.fm,radiovia.com.pl,skapiec.pl,tvn24.pl,websitestyle.pl,wikirose.pl,wizaz.pl,worldcam.pl,www.meczyki.pl,xkom.pl##.scroll-up
+animeholik.pl,atrium-biala.pl,atrium-ch.pl,atrium-copernicus.pl,atrium-felicity.pl,atrium-gama.pl,atrium-kasztanowa.pl,atrium-koszalin.pl,atrium-molo.pl,atrium-mosty.pl,atrium-plejada.pl,atrium-reduta.pl,atrium-targowek.pl,bielskakraina.pl,dobregniazdka.pl,doran.com.pl,gazetasenior.pl,meble-wanat.pl,mtb-xc.pl,muzyczneradio.pl,promenada.com,promocyjni.pl,radiofon.fm,radiovia.com.pl,skapiec.pl,tvn24.pl,websitestyle.pl,wikirose.pl,wizaz.pl,worldcam.pl,www.meczyki.pl,xkom.pl##.scroll-up
 anton-paar.com,brand.ceo,ore.edu.pl,salami.pl,sokolow.pl,zgruntudobre.com##.gototop
 antrax.com.pl###nawTop
 antywirus.biz,bonturystyczny.polska.travel,luba-group.com,nesperta.com,nysa.eu,olgasmile.com,rozenekmajdan.com,softelnet.com,urbanforms.org,walerystasiak.com,wnt.com##.scroll-top
@@ -3067,6 +3067,7 @@ domodi.pl##.dm-go-up
 domowa.pizza##.smoothup
 domzagadek.pl###scroll_strz
 doosanbabcock.com###dTop
+dopek.info,zenbox.pl##.scroll-page
 doppelherz.pl##.link--scroll-to-top
 dopracowani.pl###pulse_to_top
 doradcasmaku.pl,porta.com.pl##.floating_scroll_top
@@ -3093,6 +3094,7 @@ esdorado.com,rolmarket.pl###scrollTopButton
 eset.com##.footer-scroll-to-top-wrapper
 espritshop.pl###scrollbutton
 essilor.pl##.ScrollTop
+es.lubuskie.pl##.page-up-button
 europa.eu##.btn-back-top
 eur-lex.europa.eu##.EurlexTop
 ewaipiotr.pl,leftlane.pl,oiot.pl,tabletowo.pl###to-top-wrap
@@ -3297,6 +3299,7 @@ medonet.pl##.goToTop
 memento.com.pl,mpolski.pl,pense.pl##.arrow
 merida.com.pl##.scroll-top-up
 metalgearsolid.pl###return_top
+miasto.zgierz.pl###slidetotop.slidetotop
 millymally.pl##.page-up
 milmag.pl##.doScrollTop
 mil.link,psycholog-pisze.pl##.buttontop-top
@@ -3560,7 +3563,6 @@ zalando.pl##.backToTopButton
 zalecane.pl##.g1-teaser
 zdrowie.pap.pl##.show.m13
 zdrowie.pap.pl#?#section ~ div:-abp-has( > svg[title="Do góry"])
-zenbox.pl##.scroll-page
 zlotegory.com##.mk-go-top
 zooplus.pl###btn-goTop
 zott-dairy.com##.upbutton
@@ -4124,6 +4126,7 @@ polanki.pl##.PamphletWidget
 polisaplus.pl##.teltoggle.telbutton
 polnord.pl###contactForm
 poloniawroclaw.pl##body > iframe:nth-of-type(1)
+pomagamy-wszyscy.pl###formPopupHandler
 portal.lellek.pl###contact-img
 poscielone.pl##.ceneo_right
 powerflex.pl##.bkt--qfc_button
@@ -4143,6 +4146,8 @@ pytamy.pl##.tabZB
 pzu.pl###baner-doradcy, #metka-przycisk
 racing-planet.pl###contactable_inner
 raczynski-kominki.pl###pozvonim-button
+radio17.pl##.chat
+radio17.pl#?#.sidebar-buttons li:-abp-has(.mdi-message)
 raiffeisenpolbank.com###pomocne_menu > ul > li:nth-child(n+3)
 rainbowzoom.pl###lz_overlay_chat
 reaktor.pwn.pl##.tab.mail, .tab.phone
