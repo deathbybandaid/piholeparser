@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: dUafDzC4RSEc7Ci1J2N48Q
-! Version: 202011270020
+! Checksum: SDCm6rJwoBmHdbeQCLuf/A
+! Version: 202011280020
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 27 Nov 2020 00:20 UTC
+! Last modified: 28 Nov 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -452,6 +452,7 @@ cheklab.ru##.art-postcontent > .buttons
 4mama.ua##.article-footer--instagram
 tvoymalysh.com.ua##.article-footer-instagram
 tvoymalysh.com.ua##.article-footer-share-title
+studopedia.ru##.article-info-share-wrapper > .icons
 ngs.ru,ngs22.ru,ngs24.ru,ngs38.ru,ngs42.ru,ngs55.ru,ngs70.ru##.article-informer-bar__share
 beauty.ua##.article-instagram
 sobesednik.ru##.article-section > article ~ div > .row > .text-left > .d-none
@@ -511,6 +512,7 @@ buhgalter911.com##.b-social__link
 altapress.ru##.b-social_top
 kavkaz-uzel.eu##.b-socials-links
 lenta.ru##.b-socials-subscribe
+lenta.ru##.b-socials__email
 lenta.ru##.b-socials__sharing > :not(.b-socials__favorite)
 101kinopoisk.com,aghdrezka.com,ahdrezka.com,betahdrezka.com,clubhdrezka.com,cokinopoisk.com,drhdrezka.com,ehdrezka.com,ekinopoisk.com,ezhdrezka.com,gethdrezka.com,hdrezka-ag.com,hdrezka.buzz,hdrezka.city,hdrezka.club,hdrezka.cm,hdrezka.co,hdrezka.gift,hdrezka.ink,hdrezka.link,hdrezka.loan,hdrezka.lol,hdrezka.name,hdrezka.rest,hdrezka.run,hdrezka.sh,hdrezka.today,hdrezka.tv,hdrezka.vip,hdrezka.website,hdrezka.win,hdrezkablog.com,hdrezkaweb.com,hdrezkayou.com,instahdrezka.com,justhdrezka.com,livehdrezka.com,livekinopoisk.com,metahdrezka.com,mrhdrezka.com,myhdrezka.com,nexthdrezka.com,nuhdrezka.com,nukinopoisk.com,rehdrezka.com,rezka.ag,thehdrezka.com,tryhdrezka.com,tvhdrezka.com,uphdrezka.com,youhdrezka.com##.b-tg__wrapper
 vc.ru##.b-widget-facebook
@@ -629,6 +631,7 @@ fireman.club##.followandsub
 evtifeev.com##.fones
 bigpicture.ru#?#.footer .list:-abp-has(> .social)
 znak.com##.footer > .credits:not([id]) > .credits__row
+studopedia.ru##.footer-like-block
 myjane.ru##.footer-ok
 pr-cy.ru##.footer-page__social
 oka.fm##.footer-soc
@@ -674,6 +677,7 @@ medialeaks.ru##.header__section_social
 live24.ru##.header__share
 interfax.ru,kp.ua##.header__soc
 russian.rt.com##.header__social
+1tv.ru##.header__social-block
 islam-today.ru##.header__social-buttons
 psm7.com##.header__top > .pc-hide
 mirf.ru##.header_icons
@@ -1016,6 +1020,7 @@ cosmo.ru##.social-sharing__item
 lenta.ru##.social-snippet
 kinopoisk.ru##.social-teasers
 ternopillive.com.ua##.social-widget-menu
+sportrbc.ru##.social-widgets
 24molnia.com,4eva.ru,darada.co,prozoro.net.ua,radarmedia.net##.socialWidgetButton
 gismeteo.ru##.social__btns
 relax-fm.ru##.social__tab
@@ -2405,8 +2410,7 @@ megafon.ru###divBanner > a[href*=".megafon.ru/"]
 7ya.ru###divnavbutton
 kinogo.appspot.com,kinogo.by,kinogo.la###dle-content > .section + .poloska_comment
 kinogo.appspot.com,kinogo.by,kinogo.la###dle-content > .section + .poloska_comment + center
-rsload.net#?##dle-content > .short:-abp-has([href^="https://rsload.net/29386-nuzhdaemsya-"])
-rsload.net#?##dle-content > .short:-abp-has([href^="https://rsload.net/soft/obzor/30797-chernaya-pyatnica-"])
+rsload.net#?##dle-content > .short:-abp-has(> .short-top > h2 > a > .fa)
 www.zakon.kz#?##dle-content > [class] > span:-abp-contains(/./)
 hd720kino.ru###dle-content > center > p
 lols.ru###dle-content td[style="padding-left:20px;"] > noindex
@@ -3238,6 +3242,7 @@ ichip.ru,playboyrussia.com##.subscriber
 championat.com,iarex.ru##.subscription
 vedomosti.ru##.subscription-email
 vedomosti.ru##.subscription-placeholders
+rbc.ru##.subscription-popup
 mk.ru##.suggest_push
 kaifolog.ru##.svkfbgp
 seasonvar.ru##.svnotify
@@ -3474,6 +3479,7 @@ gamer-info.com##div[class*="ads"][class*="overlay"]
 1plus1.ua##div[class*="popup"][class*="subscribe"]
 1tv.ru##div[class*="promo"][class$="place"]
 gdekluet.ru##div[class*="ui-widget"]
+urologypro.ru##div[class="su-eb visible"]
 www.fontanka.ru#?#div[class]:-abp-has(> [href="/format/fproject/"] > h3)
 www.fontanka.ru#?#div[class]:-abp-has(> div > button + [href="/pressrelease/"])
 google.com,google.com.ua,google.ru##div[class][jsaction^="dismiss_warmup"]
@@ -3567,6 +3573,8 @@ stalker-mods.clan.su,stalker-mods.su##td > table[width="302"][height="382"][alig
 armadaboard.com##td[style*="theme_orig"]
 softportal.com##td[style="width:341px; padding-right:15px;"][valign="top"]
 chastnik-m.ru##td[valign="top"][id$="_place"]
+nnm-club.lib,nnm-club.me,nnmclub.ro,nnmclub.to#?#td[valign="top"][width="80%"] > .pline:-abp-has(> tbody > tr > td > [title="Объявление"])
+nnm-club.lib,nnm-club.me,nnmclub.ro,nnmclub.to#?#td[valign="top"][width="80%"] > .pline:-abp-has(> tbody > tr > td > [title="Объявление"]) + br
 lkforum.ru##td[width="180"][align="right"]
 thequestion.ru##theq-question-recommend
 forexsystemsru.com##tr > .sidebar
@@ -4049,6 +4057,7 @@ myshared.ru#@#.ya-share2_inited
 @@||doranime.net/templates/doranime*/loginme/img/$image,domain=doranime.net
 @@||download.skype.com/share/skypebuttons/js/skypeCheck.js|$domain=animespirit.ru|animespirit.su
 @@||drweb.com^*/bg_btn_google.png|
+@@||eagleplatform.com/api/filters/*/suggest.json?*&background_color=$xmlhttprequest
 @@||eg.ru/public/images/fb-close-btn.png$image,domain=eg.ru
 @@||embed.playbuzz.com^$domain=cadelta.ru|kinoafisha.info|lifehacker.ru|overclockers.ru|pkzsk.info|rubryka.com|znaj.ua
 @@||eway.in.ua/images/google-$domain=eway.in.ua

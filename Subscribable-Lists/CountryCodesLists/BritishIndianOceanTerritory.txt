@@ -203,6 +203,7 @@ ad.bitmedia.io
 ad.impactify.io
 ad.kissanime.io
 ad.kisscartoon.io
+ad.missena.io
 ad.pxlad.io
 adalliance.io
 adamatic.us-west-2.stinger-ad.bidr.io

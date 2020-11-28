@@ -2262,6 +2262,7 @@ sync.shinobi.jp
 sync.taboola.com
 systemmonitoring.badgeville.com
 t-ak.hulu.com
+t-pan.triodos.com
 t-staging.powerreviews.com
 t.9gag.com
 t.a3cloud.net
@@ -2875,6 +2876,7 @@ wla.vivaldi.com
 worcesternews-gb.worcesternews.co.uk
 wordc.ga
 wph2.destinia.us
+wren.condenastdigital.com
 ws.audioeye.com
 ws.yellowpages.ca
 wssgmstats.vibbo.com
