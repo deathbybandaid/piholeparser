@@ -35,8 +35,14 @@ adobe.cloud.file2.shirnesa.ir
 adobefile.shirnesa.ir
 adpm.ir
 adrenallin.ir
+ads.4ml.ir
+ads.aranesh.ir
+ads.baadesaba.ir
 ads.funfarsi.ir
+ads.lll5.ir
+ads.rade.ir
 ads.rzb.ir
+ads2.tweetna.ir
 adscene.ir
 adtube.ir
 adwordsgoogle.ir
@@ -75,6 +81,7 @@ anaqiz.ir
 anaracademy.ir
 andikakhabar.ir
 andresirjan.ir
+androidads.ir
 anetwork.ir
 anitaplast.ir
 anjoman146.ir
@@ -121,9 +128,11 @@ bacb.ir
 baconf.ir
 bakhtavar.ir
 balaghemobin.ir
+balootads.ir
 balzamghourchiani.ir
 bambini.ir
 banner.dabi.ir
+bannerclick.lll1.ir
 banners.chare.ir
 barcoofoods.ir
 bargkodro.ir
@@ -231,8 +240,10 @@ dr-nano.ir
 drivecheck.imanmandegar.ir
 dropbox.imanmandegar.ir
 drshirvanii.ir
+dserver.adad.ir
 dtparnian.ir
 dvla-uk.we-transfer.ir
+e.weclick.ir
 eaglevision.ir
 ebmco.ir
 ediet.ir
@@ -572,6 +583,7 @@ noghrehpol.ir
 normalfood.ir
 nosk.ir
 notehashtom.ir
+notificationclick.ir
 notriicka.ir
 nutnet.ir
 obimmaa.ir
@@ -906,6 +918,7 @@ sorud.ir
 sowmesaranews.ir
 sriran.ir
 ssicompany.ir
+ssl.vatanclick.ir
 ssolo.ir
 static-cdn.anetwork.ir
 storepro.ir

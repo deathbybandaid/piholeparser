@@ -671,6 +671,7 @@ cpt.itv.com
 cpx.golem.de
 cpxl.golem.de
 cravenherald-gb.cravenherald.co.uk
+creatives.sunmedia.tv
 creator.zmags.com
 crm-analytics.imweb.ru
 crta.dailymail.co.uk
@@ -2500,6 +2501,7 @@ track.social.com
 track.sohu.com
 track.sprinklecontent.com
 track.strife.com
+track.sunmedia.tv
 track.tcppu.com
 track.td3x.com
 track.tesiteca.it

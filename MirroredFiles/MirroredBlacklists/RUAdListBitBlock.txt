@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: SDCm6rJwoBmHdbeQCLuf/A
-! Version: 202011280020
+! Checksum: Mq6AGfWqSsHbWPstp+Fquw
+! Version: 202011290020
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 28 Nov 2020 00:20 UTC
+! Last modified: 29 Nov 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -299,6 +299,7 @@ imtw.ru###content > .noad1
 gta.com.ua#?##content > div[style] > b:-abp-contains(Поделиться:)
 fit4brain.com###dgd_scrollbox-7840
 penzainform.ru###divInfo .logos16x16
+trashbox.ru###div_social_bottom
 kinosha.se###dle-content > .player-block ~ div[style^="font-size"]
 homenet.beeline.ru###ed-0_toolbar_3
 ria.ru###facebook-userbar
@@ -428,6 +429,7 @@ volnorez.com###wsocial
 allboxing.ru###yabber-widget .c-box-header-right
 shop.fc-zenit.ru###zen-bl-social-buttons
 mail.google.com##.Bu + .Bu.yM + .Bu.y3
+auto.ru##.ButtonShare-module__container
 smotretonlinehd.com##.CP_buttons
 lolzteam.online##.EWRwidget_socialNetworks--vk
 acc.cv.ua#?#.FooterItem:-abp-has(.footermenusocial)
@@ -595,6 +597,7 @@ cameralabs.org##.data-social
 habr.com#?#.default-block_sidebar:-abp-has(> .sidebar-block > #facebook_like_box)
 habr.com#?#.default-block_sidebar:-abp-has(> .sidebar-block > #vk_groups)
 tsn24.ru##.detail__share
+trashbox.ru##.div_anim_rec_block
 meddaily.ru##.doctor_block ~ table[width]
 newformat.info##.dpsp-share-text
 google.com##.entry-actions > .broadcast
@@ -793,6 +796,8 @@ glavnoe.ua##.newssocial-label
 shostka.info##.ni-share
 cn.ru##.nn-like
 ngs.ru##.nn-nav-socials
+allcio.ru,it-weekly.ru,it-world.ru##.not_sm > .note
+allcio.ru,it-weekly.ru,it-world.ru##.not_sm > .note ~ hr
 cross.expert##.notify
 cameralabs.org##.notlabs
 wi-fi.ru##.novelty__content > [src="//yastatic.net/share/share.js"] + p
@@ -1312,6 +1317,7 @@ aniplay.tv##div[id*="vk-comments"]
 aniplay.tv##div[id*="vk-groups"]
 gorod24.online#?#div[id]:-abp-has(> [id^="vkwidget"])
 gazeta.ru##div[id^="article_"] > .borderdown
+allcio.ru,it-weekly.ru,it-world.ru##div[id^="asd_share_buttons"]
 izvestia.ru##div[id^="fancybox-"]
 soccer.ru##div[id^="my-share"]
 work.ua##div[id^="telegramSubscribe"]
@@ -2245,6 +2251,7 @@ _userbar_$image
 ||pickupforum.ru/public/textback_popup_
 ||player.twitch.tv/?channel=igromania*&autoplay=true$subdocument,domain=igromania.ru|kanobu.ru
 ||player.twitch.tv/?channel=stopgameru&$subdocument,domain=stopgame.ru
+||player.twitch.tv^$domain=www.goha.ru
 ||playercdn.cdnvideo.ru/aloha/players/igromania_player.html$domain=igromania.ru|kanobu.ru
 ||pogoda.kurs.com.ua^*/informer
 ||politarena.org.ua/reclama/
@@ -2407,6 +2414,7 @@ forums.overclockers.ru###datebar
 english-polyglot.com###dbt
 altapress.ru###discountsCont
 megafon.ru###divBanner > a[href*=".megafon.ru/"]
+trashbox.ru###div_bottom_subscribe_placeholder
 7ya.ru###divnavbutton
 kinogo.appspot.com,kinogo.by,kinogo.la###dle-content > .section + .poloska_comment
 kinogo.appspot.com,kinogo.by,kinogo.la###dle-content > .section + .poloska_comment + center
@@ -3276,6 +3284,7 @@ pochta.ru##.tracking-card--banner
 www.kinopoisk.ru##.trailer-promo-block
 doramax.net##.tt-panel > .note
 psy-music.ru##.turq.psyLeftMenu.psySideBarPanel
+www.goha.ru##.twitch
 oriflame.ru##.ui-cookie-notification
 fightnews.info,vse.fm##.ui-widget-overlay
 backingtrackx.com##.up-top1
@@ -21614,6 +21623,7 @@ vaganovaacademy.ru,wuala.com#@#.socialbox
 wuala.com#@#.socialboxp
 esselungajob.it,jobs.jnj.com,jobs.kroger.com,realogy.com#@#.socialbutton
 clientsfromhell.net#@#.socialbuttons
+joemonster.org#@#.socialcontainer
 gamepedia.com#@#.sociallink
 heise.de,megabus.com,thenextweb.com#@#.socialmedia
 belgafiles.com,chaturbate.com,eska.pl,gog.com,se.pl#@#.socials
