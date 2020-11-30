@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: IhbawfR4mg8dOcjbVgrm0Q
-! Version: 202011290020
+! Checksum: CqI7AAy+26E6IsVHZYzEew
+! Version: 202011300030
 ! Title: RU AdList
-! Last modified: 29 Nov 2020 00:20 UTC
+! Last modified: 30 Nov 2020 00:30 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -12779,6 +12779,7 @@ cmlt.ru##.an-pic-top-box
 pogodnik.com##.animate > .day-expectations
 creativportal.ru##.anime > script + div[id]
 youtube.com##.annotation.iv-promo
+gamebomb.ru##.antblock
 megamult.net##.apygame
 filmstart.ru##.art-nostyle
 filmstart.ru##.art-sidebar1
@@ -13374,9 +13375,6 @@ journal-off.info##.bwrbs[style^="padding:8px"]
 mail.inbox.lv##.bxS-leftbar
 mail.inbox.lv##.bxS-text_link
 tsn.ua##.c-aside-embed
-glav.su##.c-bl-header
-glav.su##.c-bl-header + div[class]
-glav.su##.c-bl-message
 tomat-pomidor.com##.cPost + script + center
 piccy.info##.c[width="300"]
 boxnews.com.ua##.caf0c6
@@ -13607,6 +13605,7 @@ fishki.net##.cycle-carousel-wrap > [style*="z-index: 100;"]
 ren.tv##.d-flex [class^="partners"]
 ren.tv#?#.d-flex:-abp-has(> div > [class^="partners"])
 nnovosti.info#?#.d-none:-abp-has(> .adsbygoogle)
+censor.net#?#.d-print-none:-abp-has(> script[src*=".censor.net/js/"])
 aptekamos.ru##.d-table-tr-adv
 vazhno.info##.da-h
 automoto.ua##.da-iframe
@@ -13672,6 +13671,7 @@ psm7.com##.dynbaner
 russian.rt.com##.dzen--widget
 sibnet.ru##.dzen_widjet
 ekabu.ru##.e-zen-block
+rivnenews.com.ua##.e3lan-top
 tushkan.club,tushkan.net##.eBlock > tbody > tr > td > center
 xn--80apfbog4e.com.ua,киношка.com.ua##.eText > div[align="center"]
 bashskazki.ru##.ea-col
@@ -14879,6 +14879,8 @@ hdtochka.club##.right-side
 gorod48.ru#?#.right-side > .reading:-abp-has(> div > #MediaMetricsInject)
 sochinyashka.ru##.right-sidebar > .block
 vshkole.com##.right-sidebar > div > div[style^="margin-bottom: 20px; height:"]
+censor.net##.right-sidebar div[style^="width: 300px; height: "]
+censor.net#?#.right-sidebar__title_without_border:-abp-has(> div[style^="width: 300px; height: "])
 tvnet.lv##.right-two-pics
 dni.ru##.right.article-reklame > * > :not(.block_all_day) > *
 terrikon.com##.right.col > div[style^="min-height"]
@@ -15483,6 +15485,7 @@ usa.one##.two-big-block
 expert.ru##.two-col ~ hr
 iz.ru##.two-col-with-advertise2__right
 iz.ru##.two-col-with-partner__inside__right
+glav.su##.txt-legend
 wowhead.com##.type-coupon-codes
 all-biography.ru##.tz-widget.container
 uznayvse.ru##.tzt
@@ -15664,7 +15667,6 @@ prosadiogorod.ru##.wrap_flat_ads_block
 osvita.ua##.wrapbanner
 galka.if.ua##.wrapper .header-logo ~ *
 novy.tv##.wrapper > #header > a[href][target="_blank"] > img
-censor.net##.wrapper > .right div[style^="width: 300px; height: "]
 l2top.ru##.wrapper > :not([class="sticky-top"]):not([class="wrapper2"])
 2whois.ru##.wrapper > div[style^="overflow:hidden"]
 feofan.net##.wrapper-outer > .background-cover
@@ -15849,6 +15851,7 @@ sports.kz##[class^="xbet"]
 sibnet.ru##[class^="ya-block__"]
 tests24.ru##[class^="yap-"] *
 ficbook.net##[data-ab-test-id]
+zn.ua##[data-action="banners"]
 ps4.in.ua##[data-ad-slot]
 vz.ru#?#[data-ad-slot]:-abp-contains()
 vse42.ru##[data-adplace-inited]
@@ -16719,6 +16722,7 @@ gdeposylka.ru##a[rel="noindex,nofollow"][href][target="_blank"]
 i2r.ru##a[style*="/banner."]
 nya.sh##a[style*="/imgs/a/"]
 soccer365-1.xyz,soccer365.ru##a[style*="display"][style*="block"][style*="!important"]
+gamebomb.ru##a[style="cursor:pointer"]
 sd.ua##a[style^="background: url('http://sd.ua/files/"]
 prankota.com##a[target="_blank"] + br, a[target="_blank"] + hr
 crazys.info,ucrazy.ru##a[target="_blank"] > div > img[src^="http://img."]
@@ -16804,7 +16808,6 @@ bryansknovosti.ru,novozybkov.su##aside[data-alias="Справа"] .widget-area >
 kino-zal.tv##blink
 1progs.ru,2womans.ru,anypictures.ru,pixcloud.ru,psysovet24.ru##blockquote
 sport.tut.by#?#blockquote:-abp-has(> p > strong:-abp-contains(Партнер))
-glav.su#?#body * * div[class]:-abp-has(> script:-abp-contains(/yandex|luxupcdnc/))
 rockstargame.su##body > #a
 kissfm.ua##body > #background
 fgh-game.com##body > #banner
@@ -16891,7 +16894,6 @@ mobiltelefon.ru##body > div[id^="float_head"] > div[id^="bg-"]
 virusinfo.info##body > div[id^="headbr"]
 steampass.ru##body > div[id^="ips_"]
 pornolomka.com.ru##body > div[id^="pw"]
-gamebomb.ru##body > div[id^="wrapper"] > div[id] > a
 emuzic.ru##body > div[onclick^="window.open"]
 thailandproperty.tv##body > div[style*="1240px"]
 forum.raskraska.com##body > div[style*="2000"]
@@ -17122,6 +17124,7 @@ driver.ru##div[class] > a[href][target="_blank"] > img
 vz.ru##div[class] > div[id]:not([class])[style^="margin"]
 theins.ru#?#div[class]:-abp-has(> .js-relap-anchor)
 2gis.ru#?#div[class]:-abp-has(> [class] > span ~ a[href^="http://redirect.2gis.com/adv/"])
+glav.su#?#div[class]:-abp-has(> [id^="ya-rtb"])
 spafilms.me#?#div[class]:-abp-has(> a[title] > div[class])
 gdespaces.com,spac.me,spac1.com,spac1.me,spac1.net,spaces-blogs.com,spaces.im#?#div[class]:-abp-has(> a[title] ~ a[title] > div[class])
 drive2.ru#?#div[class]:-abp-has(> div > div > .drom-logo)
@@ -17515,7 +17518,6 @@ ru-an.info##div[id^="hme_ad_news"]
 isport.ua,korrespondent.net##div[id^="holder_"]
 mockva.ru##div[id^="infox_"]
 forum.littleone.ru##div[id^="inpage_"]
-glav.su##div[id^="js-ad"]
 tkaninfo.ru##div[id^="kazandrey"]
 zi.dn.ua##div[id^="kkountdown"]
 korabel.ru##div[id^="kodirect_"]
@@ -17727,10 +17729,10 @@ payeer-gift.ru##form > div[style^="width: 300px;"]
 yap.ru,yaplakal.com#?#form > table[id^="p_row_"]:nth-of-type(2):-abp-has(*:-abp-contains(Yap))
 leonkrevs.ucoz.ru##form[action*="wmcasher.ru"]
 megaimg.ru##form[name="show_image"] > center
-glav.su#?#h2 ~ [class]:-abp-has([href*="aftershock.news"])
 argumenti.ru#?#h2.namerub_new:-abp-contains(/реклама/i)
 dokumental.ru,infox.ru,radiorecord.fm,ria-m.tv#?#h2:-abp-contains(/^реклама/i)
 glav.su,newstube.ru,socportal.info#?#h2:-abp-contains(/новости партнеров/i)
+glav.su#?#h2:-abp-contains(/новости партнеров/i) ~ div
 apostrophe.ua,erofishki.cc,fishki.net,hvylya.net,i-news.kz,sharknews.ru,tochka.net,wworld.com.ua#?#h3:-abp-contains(/^нов.+партн.+р.в$/i)
 5-tv.ru#?#h3:-abp-contains(/Новости Lentainform|Новости СМИ2|Новости Лентаинформ/)
 euro-football.ru#?#h3:-abp-contains(Делайте ставки на матч)
@@ -19604,7 +19606,7 @@ igdz1.ru^$script,domain=igdz.ru
 ||galka.if.ua/wp-content/*banner
 ||galka.if.ua/wp-content/themes/allegro-theme/$object,subdocument
 ||game2day.ru//uploads/Images/1920X1080.jpg
-||gamebomb.ru/images/bf2020.jpg
+||gamebomb.ru/images/bf202
 ||gamegpu.com/images/*/banners/
 ||gameguru.ru^*/anti-adblock-
 ||gamer-info.com^$script
@@ -20154,7 +20156,7 @@ igdz1.ru^$script,domain=igdz.ru
 ||manyclips.net^*.php?id=
 ||map.cn.ua/media/other/
 ||map.cn.ua/media/promo/
-||market.yandex.ru/widget/$script,domain=1000000diy.ru|220.guru|3dnews.ru|bibe.ru|briefly.ru|cadelta.ru|cnews.ru|computerworld.ru|cross.expert|cubiq.ru|digger.ru|drive2.ru|electric-220.ru|electric-house.ru|expert-dacha.pro|f1comp.ru|fireman.club|housechief.ru|hype.tech|ichip.ru|iguides.ru|irecommend.ru|it-here.ru|itrew.ru|konstruktortestov.ru|kp.ru|kupidonia.ru|lavnik.net|mamsy.ru|megaobzor.com|migeek.ru|migid.ru|modxvm.com|newxboxone.ru|overclockers.ru|prochtu.ru|prosmarttv.ru|rbkgames.com|remontcma.ru|rozetked.me|russkiypro.ru|sad24.ru|servernews.ru|sovet-ingenera.com|stroy-podskazka.ru|technical.city|tehnikoved.ru|tut.by|ukula.ru|vplate.ru|vyborok.com|winnote.ru|wylsa.com|yablyk.com|zinref.ru
+||market.yandex.ru/widget/$script,domain=1000000diy.ru|220.guru|3dnews.ru|bibe.ru|briefly.ru|cadelta.ru|cnews.ru|computerworld.ru|cross.expert|cubiq.ru|digger.ru|drive2.ru|electric-220.ru|electric-house.ru|expert-dacha.pro|f1comp.ru|fireman.club|housechief.ru|hype.tech|ichip.ru|iguides.ru|irecommend.ru|it-here.ru|itrew.ru|konstruktortestov.ru|kp.ru|kupidonia.ru|lavnik.net|mamsy.ru|megaobzor.com|migeek.ru|migid.ru|modxvm.com|newxboxone.ru|otziv-otziv.ru|overclockers.ru|prochtu.ru|prosmarttv.ru|rbkgames.com|remontcma.ru|rozetked.me|russkiypro.ru|sad24.ru|servernews.ru|sovet-ingenera.com|stroy-podskazka.ru|technical.city|tehnikoved.ru|tut.by|ukula.ru|vplate.ru|vyborok.com|winnote.ru|wylsa.com|yablyk.com|zinref.ru
 ||marketing.spb.ru/images/klik_banner/
 ||maslomotors.ru/wp-content/themes/maslomotor/js/tp/popup.js$script
 ||master.cn.ua/_images/banners/
@@ -20818,6 +20820,9 @@ igdz1.ru^$script,domain=igdz.ru
 ||rin.ru/images/bannerpic/
 ||riotpixels.com/ogolop/
 ||riotpixels.net/playo
+||rivnenews.com.ua/wp-content/uploads/*/R-Rakurs-
+||rivnenews.com.ua/wp-content/uploads/*/rv_rekl
+||rivnenews.com.ua/wp-content/uploads/*ads.jpg
 ||rlsnet.ru/image_banner_id_
 ||rlsnet.ru/images/3dbanner
 ||rlsnet.ru/images/banners/branding/
@@ -21887,6 +21892,7 @@ deti.mail.ru##tr > .daynews__spring
 health.mail.ru#?#.column_sidebar .margin_bottom_20:-abp-has([data-adq-id])
 health.mail.ru##.fromPartners3
 health.mail.ru##.js-banner
+health.mail.ru##.js-fixed-panel > .box
 health.mail.ru##.js-popup_gallery .viewbox__side
 @@||health.mail.ru^$generichide
 health.mail.ru##div[class*="page"] .rb

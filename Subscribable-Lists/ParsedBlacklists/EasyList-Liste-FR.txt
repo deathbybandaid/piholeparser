@@ -890,6 +890,7 @@ d1e12he7ynr8zq.cloudfront.net
 d1ejnc60jkzff4.cloudfront.net
 d1ewpr7kbabyrj.cloudfront.net
 d1eyk8qbbvsiyg.cloudfront.net
+d1f05vr3sjsuy7.cloudfront.net
 d1f1lqyq09pe4q.cloudfront.net
 d1f94w321xtzmt.cloudfront.net
 d1fttzrngno3h1.cloudfront.net

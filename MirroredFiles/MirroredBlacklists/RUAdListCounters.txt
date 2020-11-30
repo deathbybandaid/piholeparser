@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +0DNDOtWr6Wq/PKnrfwx9w
-! Version: 202011280020
+! Checksum: kX73l3dOGhit4MYJ8rbljw
+! Version: 202011300030
 ! Title: RU AdList: Counters
-! Last modified: 28 Nov 2020 00:20 UTC
+! Last modified: 30 Nov 2020 00:30 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -962,7 +962,7 @@ nova.rambler.*#?#+js(abort-on-property-read.js, Object.prototype.AdvManager)
 ?utm_source=warfiles.ru$document,queryprune=|utm_
 ?utm_source=yxnews&utm_$document,queryprune=|utm_
 from=*_portal&lang=$document,queryprune=.,domain=yandex.*
-utm_$document,xmlhttprequest,queryprune=|utm_,domain=4pda.ru|auto.ru|autonews.ru|gazeta.ru|instagram.com|ivi.ru|kp.by|kp.kg|kp.kz|kp.md|kp.ru|kurs.com.ua|lenta.ru|m24.ru|mail.ru|moslenta.ru|nv.ua|rambler.ru|rbc.ru|rg.ru|ria.com|riafan.ru|rt.com|rueconomics.ru|sportrbc.ru|svpressa.ru|tass.ru|tvzvezda.ru|vz.ru
+utm_$document,xmlhttprequest,queryprune=|utm_,domain=4pda.ru|auto.ru|autonews.ru|championat.com|gazeta.ru|instagram.com|ivi.ru|kp.by|kp.kg|kp.kz|kp.md|kp.ru|kurs.com.ua|lenta.ru|m24.ru|mail.ru|moslenta.ru|newstube.ru|nv.ua|rambler.ru|rbc.ru|rg.ru|ria.com|riafan.ru|rt.com|rueconomics.ru|sportrbc.ru|svpressa.ru|tass.ru|tvzvezda.ru|vz.ru
 utm_source=horoscopes$document,xmlhttprequest,queryprune=|utm_
 utm_source=kurs_com_$document,queryprune=|utm_
 utm_source=rambler.ru$document,queryprune=|utm_

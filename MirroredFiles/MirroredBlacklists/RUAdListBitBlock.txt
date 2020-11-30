@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Mq6AGfWqSsHbWPstp+Fquw
-! Version: 202011290020
+! Checksum: Feo3bIb+8IJgjo4G9wdozQ
+! Version: 202011300030
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 29 Nov 2020 00:20 UTC
+! Last modified: 30 Nov 2020 00:30 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -585,6 +585,7 @@ crashkino.net#?#.com_inform:-abp-has(> [class^="com_inform_title"]:-abp-contains
 amurmedia.ru,eaomedia.ru,irkutskmedia.ru,krasnodarmedia.su,krasnoyarskmedia.ru,magadanmedia.ru,primamedia.ru,sakhalinmedia.ru,sevastopolmedia.ru,ulanmedia.ru,ussurmedia.ru,yakutiamedia.ru##.comment-ss
 tvzvezda.ru##.comment_and_social
 price.ua##.community
+gamebomb.ru#?#.container > .container-content:-abp-has(> #comments )
 gamebomb.ru##.container-light
 all-episodes.org##.content > .socbuttons ~ noindex
 kulturologia.ru#?#.content > p:-abp-has(> b:-abp-contains(/^жми$/))
@@ -789,6 +790,7 @@ novafilm.tv##.news-entry > div:last-child
 1kr.ua,footboom.by,footboom.com,footboom.kz##.news-social
 eva.ru##.news-social > .pull-left
 regnum.ru##.news-social-banner
+censor.net##.news-social-wrapp [class^="read-in-"]
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.news-story__share
 inoprosport.ru##.news__block_social_wrap
 tvtorrent.me##.news_btn
@@ -1748,7 +1750,7 @@ _userbar_$image
 ||cashmyvisit.com^$third-party
 ||cb-killer.ru^$third-party
 ||chaser.ru^$third-party
-||chatra.io^$third-party
+||chatra.io^$third-party,domain=~zeos.online
 ||cleversite.ru^$third-party
 ||clicktex.ru^$third-party
 ||client-caller.com^$third-party
@@ -3405,6 +3407,7 @@ turbobit.net##a[href^="/turbo?"]
 big-bang-online.ru,breaking-bad-online.ru,dh-online.ru,griffiny.ru,online-futurama.ru,online-simpsons.ru,online-south-park.ru,rik-i-morti.ru,thrones-online.ru##a[href^="http://shop."]
 taobao-forum.com##a[href^="http://taobao-forum.com/"] > img[src^="/banner/"]
 sports.ru##a[href^="http://www.sports.ru/fantasy/promo/"]
+secretmag.ru##a[href^="https://forms.gle/"]
 nashvancouver.com##a[href^="https://nashvancouver.com/linkout/"] > img
 nnm-club.lib,nnm-club.me,nnmclub.ro,nnmclub.to##a[onclick="return toggle_new_year();"]
 thebell.io##app-subscription-sticky-dialog
@@ -11779,6 +11782,7 @@ _youtube_social_
 ##.c_social-toolbar
 ##.c_social_btns
 ##.c_social_media
+##.caas-share-section
 ##.cactus-share-and-like
 ##.cadre-reseaux-sociaux
 ##.callout-highlight-share
@@ -24462,6 +24466,7 @@ _backToTop.
 ##.article-gutter-signup
 ##.article-news-letter
 ##.article-newsletter
+##.article-newsletter-container
 ##.article-newsletter-signup
 ##.article-newsletter-signup--container-alt
 ##.article-newsletter-wrapper
@@ -24808,6 +24813,7 @@ _backToTop.
 ##.ha-js-newsletter-promo
 ##.hasNewsletter
 ##.header-newsletter-box
+##.headerNewsletterCtaOverlay
 ##.header__link--subscribe
 ##.header__newsletter
 ##.header__social--email
@@ -25171,6 +25177,7 @@ _backToTop.
 ##.newsletterCont
 ##.newsletterContainer
 ##.newsletterContentModule
+##.newsletterCta
 ##.newsletterCtaContainer
 ##.newsletterFeed
 ##.newsletterFmt
