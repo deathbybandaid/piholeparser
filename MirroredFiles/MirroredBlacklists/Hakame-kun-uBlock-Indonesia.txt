@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 16 November 2020, 18:44:44 WIB
+! Last modified: 01 December 2020, 04:46:56 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -31,7 +31,7 @@
 ||ads.$3p
 ||ads.linkshrink.net$popunder
 ||adsafelink.com/js/webscript.js$3p
-||adtival.com$3p
+||adtival.*$3p,script
 ||advideo.ru$3p
 ||allcoins.pw$3p
 ||allsync.com/img/ad$3p
@@ -777,6 +777,7 @@
 @@linkbucks.com/scripts/intermissionLink$1p
 @@linkbucks.com/scripts/script-adv.js$1p
 @@linkbucksmedia.com$1p
+@@live.sekindo.com
 @@marocclickers.network$generichide
 @@maxcdn.bootstrapcdn.com
 @@media.net$1p
@@ -1024,6 +1025,7 @@ anjay.info##.mh-copyright-wrap
 anjay.info##.mh-header
 anjay.info##.mh-preheader
 anjay.info##.mh-subheader
+apkmodif.com##.adsbygoogle
 awsubstv.com##.fb-comments
 awsubstv.com##.fb_iframe_widget.fb-like
 awsubstv.com##.kln
@@ -1105,6 +1107,7 @@ kawanfilm21.online##.idmuvi-floatbanner
 kawanfilm21.online##.idmuvi-topbanner
 kazefuri.*##.adsbawah1
 kazefuri.*##.adsbawah2
+kazefuri.*##.kln.mlb.blox
 kompas.com##.clearfix.kcm__horizontal.kcm
 kompas.com##.js-kcm-horizontal.kcm__close
 kontenajaib.xyz##.mh-copyright-wrap

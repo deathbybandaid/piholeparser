@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Feo3bIb+8IJgjo4G9wdozQ
-! Version: 202011300030
+! Checksum: xcH+sc+SYbVyXSyyc1kqeg
+! Version: 202012010030
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 30 Nov 2020 00:30 UTC
+! Last modified: 01 Dec 2020 00:30 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -3101,6 +3101,7 @@ sports.ru,tribuna.com##.plistaList > a[data-category="Акция"]
 sport.ua##.policy-accept
 bhub.com.ua##.policy-cookies
 ua-football.com##.policy-mes
+today.ua##.politic_confidel
 obozrevatel.com##.poll-notification
 filmhd1080.xyz##.polna-rkl > center
 kinoliza.net##.pometka
@@ -3844,7 +3845,7 @@ yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="logged "][class*
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##div[aria-label="Реклама"]
 music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua,music.yandex.uz##div[class*="sidebar"] .no-ads
 market.yandex.by,market.yandex.kz,market.yandex.ru,market.yandex.ua,market.yandex.uz##div[data-apiary-widget-name="@marketplace/WebimChat"]
-market.yandex.by,market.yandex.kz,market.yandex.ru,market.yandex.ua,market.yandex.uz##div[data-apiary-widget-name^="@"][data-apiary-widget-name*="Promo"]
+market.yandex.by,market.yandex.kz,market.yandex.ru,market.yandex.ua,market.yandex.uz,~pokupki.market.yandex.ru##div[data-apiary-widget-name^="@"][data-apiary-widget-name*="Promo"]
 afisha.yandex.by,afisha.yandex.kz,afisha.yandex.ru,afisha.yandex.ua,afisha.yandex.uz##div[data-component="AfishaApp"]
 afisha.yandex.by,afisha.yandex.kz,afisha.yandex.ru,afisha.yandex.ua,afisha.yandex.uz##div[data-component="FooterSubscribe"]
 market.yandex.by,market.yandex.kz,market.yandex.ru,market.yandex.ua,market.yandex.uz##div[data-zone-data*="banner"]
@@ -4550,6 +4551,7 @@ _revotas_push.
 ||notify.solutions^$third-party
 ||olgtex.com^$third-party
 ||on-push.com^$third-party
+||onepush.app^$third-party
 ||onesignal.com^$third-party
 ||provesrc.com^$third-party
 ||psh.one^$third-party
@@ -8099,6 +8101,7 @@ _youtube_social_
 ###facebook-share
 ###facebook-share-bot
 ###facebook-slider
+###facebook-social-wrapper
 ###facebook-twitter-block
 ###facebook-twitter-block-bottom
 ###facebook-twitter-page-top
@@ -9378,7 +9381,6 @@ _youtube_social_
 ###sharevertical
 ###sharevideo
 ###sharewrapper
-###sharing
 ###sharing-bar
 ###sharing-box
 ###sharing-button
@@ -12478,6 +12480,7 @@ _youtube_social_
 ##.facebook-sidebar-outer
 ##.facebook-social
 ##.facebook-social-likes
+##.facebook-social-wrapper
 ##.facebook-solid-control
 ##.facebook-toolbar
 ##.facebook-top
@@ -14160,7 +14163,6 @@ _youtube_social_
 ##.icon-sd-linkedin
 ##.icon-sd-pinterest
 ##.icon-sd-twitter
-##.icon-share
 ##.icon-share-2
 ##.icon-share-alt
 ##.icon-share-facebook
@@ -21214,7 +21216,6 @@ mediafire.com,microcosmgames.com#@##sharebox
 last.fm#@##sharebuttons
 bufferapp.com#@##sharer
 renren.com#@##sharevideo
-nextcloud.com#@##sharing
 statoquotidiano.it#@##sidebar-social
 swappa.com#@##social-buttons
 birebin.com,pictame.com,thepictaram.club#@##social-container
@@ -21382,7 +21383,6 @@ myanimelist.net#@#.icon-gp
 flattr.com,gleam.io#@#.icon-instagram
 fora.ie,login.alibaba.com#@#.icon-linkedin
 rottentomatoes.com#@#.icon-rss
-football.fr,nextcloud.com,owncloud.org,theoldreader.com,trello.com#@#.icon-share
 techjunkie.com#@#.icon-social
 carsguide.com.au#@#.icon-social-facebook
 carsguide.com.au#@#.icon-social-linkedin
@@ -21598,6 +21598,7 @@ runescape.com,study.163.com#@#.socialBox
 ceneo.pl,showmax.com#@#.socialBtns
 tomshardware.com#@#.socialButton
 keepa.com,mousehuntgame.com#@#.socialButtons
+joemonster.org#@#.socialContainer
 oculus.com#@#.socialFacebook
 answers.microsoft.com#@#.socialIcon
 pbs.org#@#.socialList
@@ -21608,6 +21609,7 @@ gorod.mos.ru#@#.social__facebook
 gorod.mos.ru#@#.social__twitter
 iq-student-accommodation.com#@#.social_bar
 zik.ua#@#.social_block
+radiocuore.it#@#.social_bottom
 charaktery.eu,habr.com,hintaopas.fi,moikrug.ru,pinterest.com,pricespy.co.nz,pricespy.co.uk,pricespy.ie,prisjakt.nu#@#.social_buttons
 academia.edu,wsqn.pl#@#.social_container
 ourweigh.in#@#.social_facebook
@@ -21627,7 +21629,6 @@ vaganovaacademy.ru,wuala.com#@#.socialbox
 wuala.com#@#.socialboxp
 esselungajob.it,jobs.jnj.com,jobs.kroger.com,realogy.com#@#.socialbutton
 clientsfromhell.net#@#.socialbuttons
-joemonster.org#@#.socialcontainer
 gamepedia.com#@#.sociallink
 heise.de,megabus.com,thenextweb.com#@#.socialmedia
 belgafiles.com,chaturbate.com,eska.pl,gog.com,se.pl#@#.socials
@@ -25583,6 +25584,7 @@ _backToTop.
 ##.tgc-newsletter-signup
 ##.tge-equator-newsletter
 ##.tge-promo-persistent-banner
+##.thb-newsletter-form
 ##.the-report-email-signup
 ##.thim-newlleter-homepage
 ##.tile_newsletterSubscription

@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202011292247
+! Version: 202011301940
 ! Title: EasyPrivacy
-! Last modified: 29 Nov 2020 22:47 UTC
+! Last modified: 30 Nov 2020 19:40 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -831,6 +831,7 @@
 /api-analytics.
 /api/0/stats
 /api/analytics/*
+/api/analytics?
 /api/analytics|
 /api/log?
 /api/lt/ref?
@@ -3405,6 +3406,7 @@
 /postview.gif?
 /powercount.
 /powr-counter.
+/pp/micro.tag.min.js
 /pphlogger.
 /ppms.js
 /pr.php?
@@ -4783,6 +4785,7 @@
 /uxm_tracking.
 /v.gif?t=
 /v1/analytics.js
+/v1/impressions
 /v1/page-hit
 /v1/pixel?
 /v1/r.gif?
@@ -8392,6 +8395,7 @@ _mongo_stats/
 ||notify.solutions^$third-party
 ||olgtex.com^$third-party
 ||on-push.com^$third-party
+||onepush.app^$third-party
 ||onesignal.com^$third-party
 ||provesrc.com^$third-party
 ||psh.one^$third-party
@@ -11494,6 +11498,7 @@ _mongo_stats/
 ||primedia.co.za/analytics/
 ||print2webcorp.com/mkt3/_js/p2w_tracker.js
 ||prism.app-us1.com^$script,third-party
+||privacy-center.org^*/events
 ||privacytool.org/AnonymityChecker/js/fontdetect.js$third-party
 ||processor.asccommunications.com^
 ||production-mcs.lvp.llnw.net^
@@ -14671,7 +14676,7 @@ _mongo_stats/
 ||pulsar.ebay.$ping,script
 ||purevpn.com/api/setCookies
 ||puritan.com/images/pixels/
-||purr.nytimes.com^
+||purr.nytimes.com^*/purr-cache
 ||pushsquare.com/blank.gif
 ||pvstat.china.cn^
 ||pw.org/sites/all/*/ga.js

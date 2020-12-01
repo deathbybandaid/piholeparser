@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 9IjbT/qUMh5jLkAqhOaszg
-! Version: 202011300021
+! Checksum: +ekb9ojYNlM6qutj1/OSSQ
+! Version: 202012010021
 ! Title: Fanboy's Annoyance List
-! Last modified: 30 Nov 2020 00:21 UTC
+! Last modified: 01 Dec 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -7052,6 +7052,7 @@ _site_cookie_
 ##.tgc-newsletter-signup
 ##.tge-equator-newsletter
 ##.tge-promo-persistent-banner
+##.thb-newsletter-form
 ##.the-report-email-signup
 ##.thim-newlleter-homepage
 ##.tile_newsletterSubscription
@@ -8889,6 +8890,7 @@ _site_cookie_
 ###facebook-share
 ###facebook-share-bot
 ###facebook-slider
+###facebook-social-wrapper
 ###facebook-twitter-block
 ###facebook-twitter-block-bottom
 ###facebook-twitter-page-top
@@ -10168,7 +10170,6 @@ _site_cookie_
 ###sharevertical
 ###sharevideo
 ###sharewrapper
-###sharing
 ###sharing-bar
 ###sharing-box
 ###sharing-button
@@ -13268,6 +13269,7 @@ _site_cookie_
 ##.facebook-sidebar-outer
 ##.facebook-social
 ##.facebook-social-likes
+##.facebook-social-wrapper
 ##.facebook-solid-control
 ##.facebook-toolbar
 ##.facebook-top
@@ -14950,7 +14952,6 @@ _site_cookie_
 ##.icon-sd-linkedin
 ##.icon-sd-pinterest
 ##.icon-sd-twitter
-##.icon-share
 ##.icon-share-2
 ##.icon-share-alt
 ##.icon-share-facebook
@@ -28721,6 +28722,7 @@ _site_cookie_
 ##.block-cookie-popup
 ##.block-cookies
 ##.block-cookies-dialog-block
+##.block-cookies-information
 ##.block-cookies-popup
 ##.block-info-cookie
 ##.block-lsw-cookie
@@ -34234,6 +34236,7 @@ _site_cookie_
 ||notify.solutions^$third-party
 ||olgtex.com^$third-party
 ||on-push.com^$third-party
+||onepush.app^$third-party
 ||onesignal.com^$third-party
 ||provesrc.com^$third-party
 ||psh.one^$third-party
@@ -34599,9 +34602,7 @@ _site_cookie_
 ||privacy.purch.com^
 ||privacymanager.io^$third-party
 ||publy.net^$third-party
-||quantcast.mgr.consensu.org/choice/$script
-||quantcast.mgr.consensu.org/tcfv2/
-||quantcast.mgr.consensu.org^*/choice.js$third-party
+||quantcast.mgr.consensu.org^$third-party
 ||scrookie.nl^$third-party
 ||sddan.mgr.consensu.org^$third-party
 ||secureprivacy.ai^$third-party
@@ -34941,7 +34942,7 @@ _site_cookie_
 ||emerse.com/consent.js
 ||freedoflondon.com/Styles/dialog-popup/jquery-ui.js
 ||freetls.fastly.net/main/sd-cmp-$domain=spanishdict.com
-||fundingchoicesmessages.google.com^$domain=gameblog.fr|telegram.hr
+||fundingchoicesmessages.google.com^$domain=gameblog.fr|smallseotools.com|telegram.hr|wordreference.com
 ||gdpr.internetbrands.com^
 ||gdpr.prisa.com^
 ||government-and-constitution.org/js/consent.js
@@ -41365,6 +41366,7 @@ agcas.org.uk,reliancebankltd.com###informationbar
 gmatclub.com###invisiblediv
 itv.com###itv-glob-cookie-policy-holder
 classic-trader.com###jGrowl
+playstation.com###js-SIEWS1lib-header-Base
 babcockinternational.com###js-babcock-cookie-bar
 unbound.com###js-cookies
 shellenergy.co.uk###js-footer
@@ -44808,7 +44810,7 @@ radiozammu.it###ccM
 centrometeolombardo.com###cc_div
 ecodallecitta.it###contenuto_consenso
 spesasicura.com###cook
-aeo.it,bookingaltoadige.com,camionsupermarket.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miabolzano.it,miamerano.it,mymercato.it,pallacanestrovarese.it,primocanale.it,rimini.com,sace.it,sanfrancescopatronoditalia.it,spesati.it,tecnocasa.it,wd40.it###cookie
+aeo.it,bookingaltoadige.com,camionsupermarket.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miabolzano.it,miamerano.it,mymercato.it,pallacanestrovarese.it,primocanale.it,radiociao.com,rimini.com,sace.it,sanfrancescopatronoditalia.it,spesati.it,tecnocasa.it,wd40.it###cookie
 angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,lupopornohd.it,menshealth.it,motociclismo.it,ordineavvocati.bari.it,pardini.it,runnersworld.it,tennisitaliano.it,testimania.com,thefilmclub.it,unipv.it,velaemotore.it###cookies
 telea1.it###cooky_content
 majani.it###cs-banner
@@ -44891,6 +44893,7 @@ hyle.appspot.com##.cc
 dbplanet.net##.cc-banner
 regione.lombardia.it##.cdk-overlay-backdrop
 mivoq.it##.check-policy
+iosi.nexi.it##.cl-banner-body
 frateindovino.eu##.cn-wrapper
 leroymerlin.it##.consent-section
 unirc.it##.content
@@ -44927,6 +44930,7 @@ monzacalcio.com##.modal
 alfasigma.com,elevensports.it,feralpisalo.it,monzacalcio.com##.modal-backdrop
 informazione.it##.modal-body
 telethon.it##.modalMessage
+watch.forumfree.it##.note
 initalia.it##.notice-wrap
 vg247.it##.notif-bar
 lidl.it##.notification
@@ -45766,7 +45770,6 @@ mediafire.com,microcosmgames.com#@##sharebox
 last.fm#@##sharebuttons
 bufferapp.com#@##sharer
 renren.com#@##sharevideo
-nextcloud.com#@##sharing
 statoquotidiano.it#@##sidebar-social
 swappa.com#@##social-buttons
 birebin.com,pictame.com,thepictaram.club#@##social-container
@@ -45934,7 +45937,6 @@ myanimelist.net#@#.icon-gp
 flattr.com,gleam.io#@#.icon-instagram
 fora.ie,login.alibaba.com#@#.icon-linkedin
 rottentomatoes.com#@#.icon-rss
-football.fr,nextcloud.com,owncloud.org,theoldreader.com,trello.com#@#.icon-share
 techjunkie.com#@#.icon-social
 carsguide.com.au#@#.icon-social-facebook
 carsguide.com.au#@#.icon-social-linkedin
@@ -46150,6 +46152,7 @@ runescape.com,study.163.com#@#.socialBox
 ceneo.pl,showmax.com#@#.socialBtns
 tomshardware.com#@#.socialButton
 keepa.com,mousehuntgame.com#@#.socialButtons
+joemonster.org#@#.socialContainer
 oculus.com#@#.socialFacebook
 answers.microsoft.com#@#.socialIcon
 pbs.org#@#.socialList
@@ -46160,6 +46163,7 @@ gorod.mos.ru#@#.social__facebook
 gorod.mos.ru#@#.social__twitter
 iq-student-accommodation.com#@#.social_bar
 zik.ua#@#.social_block
+radiocuore.it#@#.social_bottom
 charaktery.eu,habr.com,hintaopas.fi,moikrug.ru,pinterest.com,pricespy.co.nz,pricespy.co.uk,pricespy.ie,prisjakt.nu#@#.social_buttons
 academia.edu,wsqn.pl#@#.social_container
 ourweigh.in#@#.social_facebook
@@ -46179,7 +46183,6 @@ vaganovaacademy.ru,wuala.com#@#.socialbox
 wuala.com#@#.socialboxp
 esselungajob.it,jobs.jnj.com,jobs.kroger.com,realogy.com#@#.socialbutton
 clientsfromhell.net#@#.socialbuttons
-joemonster.org#@#.socialcontainer
 gamepedia.com#@#.sociallink
 heise.de,megabus.com,thenextweb.com#@#.socialmedia
 belgafiles.com,chaturbate.com,eska.pl,gog.com,se.pl#@#.socials
