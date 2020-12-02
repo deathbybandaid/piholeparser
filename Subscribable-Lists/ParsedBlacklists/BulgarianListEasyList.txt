@@ -273,6 +273,7 @@ anon-stats.eff.org
 anti-bot.baidu.com
 anybest.site
 ape-tagit.timeinc.net
+api-location-prd.pelcro.com
 api.nobeta.com.br
 api.wipmania.com
 apple.www.letv.com

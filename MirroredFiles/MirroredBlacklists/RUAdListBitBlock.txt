@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: xcH+sc+SYbVyXSyyc1kqeg
-! Version: 202012010030
+! Checksum: 1ro1Z7cllq6d0kSnkpoNzg
+! Version: 202012020030
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 01 Dec 2020 00:30 UTC
+! Last modified: 02 Dec 2020 00:30 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -467,11 +467,13 @@ segodnya.ua#?#.article__body > p:-abp-has(> [onclick*="promo_under_articles_tele
 kherson.net.ua##.article__btn[data-soc]
 dnews.dn.ua#?#.article__comments:-abp-has(> #fb-root)
 gismeteo.ru##.article__ctrls
+iz.com.ua##.article__footer-share
 1plus1.ua##.article__footer-social
 rbc.ru##.article__header__share-block
 kurkul.com##.article__info_bottom__social
 dnews.dn.ua##.article__meta_bottom > .article__author + p
 time-to-read.ru##.article__social
+iz.com.ua##.article__socials-share
 detstrana.ru##.article_image_share
 maanimo.com##.article_social_bar
 korrespondent.net##.artpop_shad
@@ -1277,6 +1279,7 @@ gta.com.ua#?#b:-abp-contains(Поделиться:)
 aimp.ru#?#b:-abp-contains(Присоединяйтесь к нам)
 exzerry.com##body > #links > div[align="center"]
 slovoidilo.ua##body > a[href*="://telegram.me/"]
+tsn.ua##button[data-share]
 dachnye-sovety.ru#?#center:-abp-has(> .uptolike-buttons)
 syzran-small.ru,xn----7sbabwosghnf8al4lkj7b.xn--p1ai#?#center:-abp-has(> .ya-share2)
 gorod24.online,kinovidos.com,print-post.com#?#div:-abp-has(> #vk_groups)
@@ -19999,6 +20002,7 @@ _youtube_social_
 ##.widget_be_widget_social_follow
 ##.widget_better-social-counter
 ##.widget_bimber_widget_facebook_page
+##.widget_boombox_social
 ##.widget_bs-likebox
 ##.widget_cbs_follow_us_widget
 ##.widget_cbs_social_share_widget
@@ -22166,6 +22170,7 @@ digg.com#@#div[id^="digg-widget-"]
 @@||passeidireto.com/website-anonymous/images/$image
 @@||passets-cdn.pinterest.com^
 @@||patreon.com/images/fb_login_large.png
+@@||payco.com/share/js/$~third-party
 @@||pcinpact.com/js/socialbar.js
 @@||peopo.org/sites/all/themes/vigor/css/images/fb.png
 @@||pgol.it/scripts/layerPos.js$script
@@ -24721,6 +24726,7 @@ _backToTop.
 ##.entry-footer-subscribe
 ##.entry-newsletter
 ##.entryNewsletter
+##.essb-subscribe-form-content
 ##.et_bloom_flyin
 ##.et_bloom_optin
 ##.exacttarget-newsletter-signup
@@ -26943,6 +26949,7 @@ _backToTop.
 ||page2rss.com^$third-party
 ||parse.ly^$third-party
 ||partner.dw.com^$third-party
+||pelcro.com^$third-party
 ||phoenix-widget.com^$third-party
 ||pippity.com^$third-party
 ||placehold.it^$third-party
