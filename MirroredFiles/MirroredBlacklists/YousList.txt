@@ -3,7 +3,7 @@
 ! License: https://github.com/yous/YousList#license
 ! Title: YousList
 ! Expires: 4 days
-! Version: 20201201
+! Version: 20201202
 
 ! General element hiding rules
 ##a[href*="//10x10bet888.com"]
@@ -3374,6 +3374,8 @@ edaily.co.kr##div[class^="boxbanner_"]
 edaily.co.kr##div[data-widget_id="xlzQ0A7Z"]
 edaily.co.kr##iframe[src^="/v2/iframe/iwAD.asp"]
 edaily.co.kr##section.boxbanner_970x90
+eetimes.com##div.ad-block
+eetimes.com##div.ad.section
 elitedaily.com##div#oopAdWrapper
 elitedaily.com##div.adWrapper
 embed.nicovideo.jp##div#overlayBanner
@@ -3395,6 +3397,7 @@ enewstoday.co.kr##ins[data-ad-slot="6785703441"]
 enewstoday.co.kr##ins[data-ad-slot="PL_enewstoday_top_970_90"]
 engadget.com##aside[role="banner"]
 engadget.com##div#right-ads-rail
+engadget.com##div#spotim-specific div[class*="__browserAdOuterContainer___"]
 english.etnews.com##div.ad03
 english.etnews.com##div.column_l>div.mgb20
 ent.joseilbo.com##div.adplus_banner

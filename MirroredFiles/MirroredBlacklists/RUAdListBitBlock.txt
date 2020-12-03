@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 1ro1Z7cllq6d0kSnkpoNzg
-! Version: 202012020030
+! Checksum: bPRSCS152NwmFtSD90S6Ow
+! Version: 202012030020
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 02 Dec 2020 00:30 UTC
+! Last modified: 03 Dec 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -878,6 +878,7 @@ sibnet.ru#?#.right_column div[class^="block"]:-abp-has(> .bl_content > h3:-abp-c
 kinozloy.net#?#.rightbox:-abp-has(#vk_groups)
 4pda.ru##.rnd-slider-social-container
 safetygate.ru##.round-bs[class*="icon-"]
+radiokp.ru##.rr-follow-wr
 kulturologia.ru##.rss
 get-tune.cc,mp3cc.biz,mp3iq.com##.rt_share
 darada.co##.s_stk
@@ -2275,6 +2276,8 @@ _userbar_$image
 ||relizua.com/img/yarek
 ||rempc.by/images/rempc-bg-
 ||riafan.ru/manifest.json
+||rosdip.ru^$third-party
+||rosdiplom.ru^$third-party
 ||rt.com/widget/$domain=rt.com
 ||rublacklist.net/media/$third-party,image
 ||rubryka.com/wp-content/*branding_eco_
@@ -2882,6 +2885,7 @@ appleinsider.ru##.entry-content > p > code.large-text
 eagleplatform.com##.eplayer-backgroung-suggest-lenta
 espanarusa.com##.eula-popup
 vimeo.com##.explore_module-hero
+radiokp.ru##.external-app-link
 flickr.com##.facade-of-protection-neue
 flickr.com##.facade-of-protection-zoom
 utro.ru##.facebook__box,.mask
@@ -2954,6 +2958,7 @@ yvision.kz##.info_slide
 qiwi.com##.infoblock > [data-helper-banner]
 kinoprofi.su##.infoblock-bottom
 aces.gg##.infopanel_wr
+bibliofond.ru##.inform-banner
 viewlost.club##.informbl
 kanobu.ru##.informer-container
 patee.ru##.informer2
@@ -3079,6 +3084,7 @@ nag.ru##.openxtop
 fainaidea.com##.orakul-azure-block
 lenta.ru##.oscar-link
 fishki.net##.other-post-list
+bibliofond.ru##.outro
 sports.ru##.overlay[data-control="Common.Overlay"]
 userstyles.org##.overlay_background
 championat.com##.page-main > .article-comments-button ~ .page-title
@@ -3217,6 +3223,8 @@ lifeha.ru##.sidebar__tit
 habr.com##.sidebar_right > #companies_rating
 ktonanovenkogo.ru##.sidebar_top
 teplica-exp.ru##.similar-info > .title_for_corousel
+bibliofond.ru##.site-cont .doc-cost
+bibliofond.ru##.site-sidebar-r
 kfund-media.com##.site__policy-banner
 minfin.com.ua##.skySanta
 gorodrabot.ru##.snippet_advertising
@@ -3316,6 +3324,7 @@ userstyles.org##.walking
 hindcine.tv##.warning-adblock
 onlineguru.ru##.warning-cookie-block
 porodakoshki.ru##.webnavoz_notificationbox
+bibliofond.ru##.widget-cat > .item-new
 chudo-manga.ru##.widget.HTML
 anvidelabs.org##.widget_banners
 rqnr.ru##.widget_custom_html
@@ -3405,6 +3414,7 @@ lifeha.ru##a[href="https://lifeha.ru/kursi-pro"]
 www.ukr.net##a[href][id$="op"][style]
 mk.ru##a[href][style*="/banners/subscribe-banner"]
 torrentfx.ru##a[href^="/go"][target="_blank"]
+bibliofond.ru##a[href^="/order/"]
 chastnik-m.ru##a[href^="/public/links/"][href*="block=adver"]
 turbobit.net##a[href^="/turbo?"]
 ~changecopyright.ru##a[href^="http://changecopyright.ru"]
@@ -3521,6 +3531,7 @@ kp.by,kp.kg,kp.kz,kp.md,kp.ru##div[class^="styled__AuthorWithSubscribe-"] > butt
 kp.by,kp.kg,kp.kz,kp.md,kp.ru##div[class^="styled__ThumbsUpWrap-"]
 forklog.com##div[class^="subscribe_blk"]
 userstyles.org#?#div[class^="us-stylecard--"]:-abp-has(> .fallbackDiv)
+bibliofond.ru##div[class^="widget-promo"]
 newinform.com##div[class^="ya-widget-modal"]
 zr.ru##div[class^="zen_story_"]
 olx.ua##div[data-testid="cookies-overlay__container"]
@@ -3529,6 +3540,7 @@ fotostrana.ru##div[id*="reklama"]
 pickupforum.ru##div[id^="app-popup"]
 finobzor.ru,politobzor.net,warfiles.ru##div[id^="auction_"]
 cyberforum.ru##div[id^="edit"][style="padding:0px 0px 3px 0px"] > table ~ div[style^="background-color"]
+uznayvse.ru##div[id^="follow_subscribe_"]
 agrarii-razom.com.ua##div[id^="message-fb-popup"]
 network-lab.ru##div[id^="optincrusher"]
 kadets.info##div[id^="post_message_"] + div
@@ -4073,7 +4085,7 @@ myshared.ru#@#.ya-share2_inited
 @@||doranime.net/templates/doranime*/loginme/img/$image,domain=doranime.net
 @@||download.skype.com/share/skypebuttons/js/skypeCheck.js|$domain=animespirit.ru|animespirit.su
 @@||drweb.com^*/bg_btn_google.png|
-@@||eagleplatform.com/api/filters/*/suggest.json?*&background_color=$xmlhttprequest
+@@||eagleplatform.com/api/filters/*/suggest.json?*&background$xmlhttprequest
 @@||eg.ru/public/images/fb-close-btn.png$image,domain=eg.ru
 @@||embed.playbuzz.com^$domain=cadelta.ru|kinoafisha.info|lifehacker.ru|overclockers.ru|pkzsk.info|rubryka.com|znaj.ua
 @@||eway.in.ua/images/google-$domain=eway.in.ua
@@ -24984,6 +24996,7 @@ _backToTop.
 ##.newletter-main-wrapper
 ##.newletter-sidebar
 ##.newnl-signup
+##.news-detail-newsletter-cta
 ##.news-letter-signup-wrapper
 ##.news-letter-widget
 ##.newsLetter
@@ -25070,6 +25083,7 @@ _backToTop.
 ##.newsletter-l-wrapper
 ##.newsletter-lightbox
 ##.newsletter-link
+##.newsletter-listSidebar-box
 ##.newsletter-mini-banner
 ##.newsletter-mod
 ##.newsletter-modal
