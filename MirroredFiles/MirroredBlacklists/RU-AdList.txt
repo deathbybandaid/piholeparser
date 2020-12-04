@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 2RgbSZbxgFFjTVR4hAgvCg
-! Version: 202012030020
+! Checksum: jJbOlF03OzV+dRE3jz4kMw
+! Version: 202012040030
 ! Title: RU AdList
-! Last modified: 03 Dec 2020 00:20 UTC
+! Last modified: 04 Dec 2020 00:30 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -4050,6 +4050,7 @@ _tizers.
 ||1k3pro.net^$third-party
 ||1k3static.com^$third-party
 ||1klink.ru^$third-party
+||1lcbgim51.ru^$third-party
 ||1mdcikrjh.ru^$third-party
 ||1od04g1he.ru^$third-party
 ||1oshop.ru^$third-party
@@ -12228,6 +12229,7 @@ technical.city###scroll_banner_container
 webdiana.ru###scrollable
 hubs.ua###secondary > #text-2
 keysportal.com#?##secondary > .sidebar-widget:-abp-has([id^="yandex_rtb"])
+sysadmin.link###secondary > .widget_custom_html
 donbass.name###secondary > .widget_custom_html ~ .widget_custom_html
 keysportal.com###secondary > .widget_recent_entries ~ .sidebar-widget
 pure-t.ru###secondary > [id^="bimber_widget"] ~ *
@@ -12878,6 +12880,7 @@ bigmir.net,dengi.ua,mport.ua##.b-banner_sm
 siliconrus.com##.b-bks
 inter.ua##.b-block > table[class]
 sibdepo.ru##.b-block--banner
+ixbt.com##.b-block__parterslist
 hata.by##.b-card__sale
 hata.by##.b-catalog-table__sale
 orakul.ua##.b-cont
@@ -13712,6 +13715,7 @@ proglazki.com##.entry-content > table[border]
 zhzh.com.ua,zhzh.info#?#.entry-galery:-abp-has(> .entry-galery-title:-abp-contains(/полезное объявление|горячие новости/i))
 irc.lv##.entry.b-form + .entry
 rating-avto.ru##.erm-sidebar-part.hs-shadow[id] > .textwidget
+reshebnik.com##.error-text
 mp3.uzhgorod.name##.esc_adv_inside_container
 anime100500.ru##.esg-bleach
 mediavitrina.ru##.eump-com-linktxt
@@ -17205,7 +17209,7 @@ mynizhyn.com##div[class^="bann_"]
 deti.fm##div[class^="banner"]:not(#vk_groups)
 kaktutzhit.by##div[class^="banner"][class$="rightSide"] > .banner:nth-of-type(1)
 ura.news##div[class^="bannerPosition"]
-irr.by,mk.ru##div[class^="banner_"]
+irr.by,mk.ru,securitylab.ru##div[class^="banner_"]
 caravan.su##div[class^="banner_header"]
 mnmag.ru##div[class^="banner_right"]
 fox-online.tv##div[class^="banner_sape"]
@@ -17738,7 +17742,7 @@ znak.com##figure
 dyvys.info##figure > div > img[src*="/var-min.jpg"]
 povar.co##figure[id^="attachment"]
 fontanka.ru#?#footer ~ div[class]:-abp-has(> div[class] > div[id^="div-gpt-ad-"])
-www.goha.ru##footer ~ div[style*="cursor:"]
+www.goha.ru##footer ~ div[style*="background"]
 forum.cxem.net#?#form > article[id^="elComment_"]:-abp-has(strong[itemprop="name"] > a[title="Перейти в профиль Adver"])
 payeer-gift.ru##form > div[style^="width: 300px;"]
 yap.ru,yaplakal.com#?#form > table[id^="p_row_"]:nth-of-type(2):-abp-has(*:-abp-contains(Yap))
@@ -18100,6 +18104,7 @@ libertycity.ru##td > div[class*="mini"]
 synonymizer.ru##td > div[style*="#FFAAAA;"]
 xpicture.ru##td > form ~ table
 soft-arena.ru##td > noindex
+forum.rhbz.org##td > table.topic ~ .delemiter:not(:empty)
 fluence-club.ru##td.alt1Active > div > div[style="float:right"]
 xn--80awhdeco3h.xn--p1ai,yarportal.ru##td.desc
 adult-images.ru,imgbum.ru,xpicture.ru#?#td.t_bg > center:-abp-has(> a[href][target="_blank"] > img)
@@ -18718,6 +18723,7 @@ $xmlhttprequest,domain=happy-biock.info|happy-block.info|howto-news.info|kinohom
 /images_banner/*$domain=xn----7sbaegss0bebjcb2g.xn--p1ai
 /img/banners/*$domain=champion.com.ua|geonavigator.ge|konkurent.ru|ktv-ray.ru|navigator.az|primpress.ru|winternete.ru
 /img/promotion/$domain=pavlodar.news|pavon.kz
+/img/spishi.$domain=megaresheba.ru|reshebnik.com
 /img/vkgreen.$domain=playmarket-for-pc.com|playmarket-pc.com
 /img/yagreen.$domain=playmarket-for-pc.com|playmarket-pc.com
 /imgboxer/background$image,domain=cartoonka.art|multmania.club|tlumtluda.info
@@ -20216,7 +20222,6 @@ igdz1.ru^$script,domain=igdz.ru
 ||megahdporno.net/ext/
 ||megaimg.ru/clixundex.js
 ||megalyrics.ru/uploads/branding/
-||megaresheba.ru/img/spishi.
 ||megaseed.kz^$domain=uniongang.net|uniongang.org
 ||megatorrents.*/forum/$object
 ||megatyumen.ru/static/img/banner$image
@@ -21183,6 +21188,7 @@ igdz1.ru^$script,domain=igdz.ru
 ||sympaty.net/wp-content/uploads/$object
 ||synonymizer.ru/jquery.bpopup.min.js
 ||synoptyc.com.ua/_uploaded_files/ads/
+||sysadmin.link/wp-content/*/banner-
 ||sysadminblog.ru/images/banner
 ||sysadmins.ru^$object
 ||syzran-small.net/images/info/
@@ -23781,6 +23787,7 @@ kinogo-720.net#@#.ya-share2
 @@||gaua.hit.gemius.pl/gplayer.js$script,domain=tsn.ua
 @@||gearshout.net/detroitchicago/dayton.js$script,domain=gearshout.net
 @@||glopart.ru^$domain=glopay.me
+@@||gmstatic.ru^*_120x60_$image,domain=grand-mozaika.ru
 @@||go.leadgid.ru/aff_c?offer_id$popup,domain=luckymir.ru
 @@||gomeltoday.by/uploads/ads/$domain=gomel.today
 @@||google.com/adsense/domains/caf.js|$script,domain=ksu.edu.ru|womanest.ru

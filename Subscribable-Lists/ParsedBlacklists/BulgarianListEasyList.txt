@@ -1101,6 +1101,7 @@ g4754024040.co
 g4952108375.co
 g4p.redtram.com
 g5150192710.co
+g5348277045.co
 ga-beacon.appspot.com
 ga.canoe.ca
 ga.kvideo.io
@@ -1508,6 +1509,7 @@ mms.wwe.com
 mo.moonpig.com
 monitor.ebay.com
 mormont.gamer-network.net
+mors22.com
 mqs.ioam.de
 ms-apps.haaretz.com
 ms.computerbild.de
@@ -1716,6 +1718,7 @@ production-mcs.lvp.llnw.net
 production.airswap.io
 production.mcs.delve.cust.lldns.net
 profiling.avandor.com
+propeller-tracking.com
 prophet.heise.de
 proxypage.msn.com
 prstats.postrelease.com

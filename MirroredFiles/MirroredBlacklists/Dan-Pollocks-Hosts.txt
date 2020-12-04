@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 23 Nov 2020 at 07:13:43 GMT
+# Last updated: Thu, 03 Dec 2020 at 06:04:46 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2269,7 +2269,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 ca8g5.win
 0.0.0.0 cablyshaw.com
 0.0.0.0 cafecoc.com
-0.0.0.0 cahoots.com
 0.0.0.0 callawaypos.com
 0.0.0.0 callbling.com
 0.0.0.0 cambonanza.com
@@ -7485,6 +7484,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 bsads.looksmart.com
 0.0.0.0 bsnj.eyeblaster.akadns.net
 0.0.0.0 bt.linkpulse.com
+0.0.0.0 btkiwisys.com
 0.0.0.0 budapest1873.net
 0.0.0.0 buf.lemonde.fr
 0.0.0.0 bumerangshowsites.hurriyet.com.tr
@@ -8322,6 +8322,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 emily.tncrun.net
 0.0.0.0 emisja.adsearch.pl
 0.0.0.0 emisja.contentstream.pl
+0.0.0.0 en.btc-trader-app.club
 0.0.0.0 engage.everyone.net
 0.0.0.0 engage.speedera.net
 0.0.0.0 engager.tmg.nl
@@ -8901,6 +8902,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 hosting.adjug.com
 0.0.0.0 hot-daily-deal.com
 0.0.0.0 hot-product-hangout.com
+0.0.0.0 hot24profit.life
 0.0.0.0 hotbar.dgndesign.com
 0.0.0.0 hotchatdate.com
 0.0.0.0 hotgiftzone.com
@@ -9165,6 +9167,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 iwantmyfreecash.com
 0.0.0.0 iwantmyfreelaptop.com
 0.0.0.0 iwantmygiftcard.com
+0.0.0.0 iwbubcs.v01aelux.space
 0.0.0.0 iwstat.tudou.com
 0.0.0.0 j.adlooxtracking.com
 0.0.0.0 j.admob.com
@@ -11898,6 +11901,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 webtrekk.net
 0.0.0.0 webuysupplystore.mooo.com
 0.0.0.0 webwise.bt.com
+0.0.0.0 wedleaunocomp.work
 0.0.0.0 wegetpaid.net
 0.0.0.0 wegotmedia.co
 0.0.0.0 welcome.faptitans.com
@@ -12122,6 +12126,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.bestshopperrewards.com
 0.0.0.0 www.bet365.com
 0.0.0.0 www.bhclicks.com
+0.0.0.0 www.bicoinsprofit.com
 0.0.0.0 www.bidtraffic.com
 0.0.0.0 www.bidvertiser.com
 0.0.0.0 www.bigbangempire.com
@@ -12130,6 +12135,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.biggestgiftrewards.com
 0.0.0.0 www.binarysystem4u.com
 0.0.0.0 www.bitcoadz.io
+0.0.0.0 www.bitlabeurope.com
 0.0.0.0 www.bitmedia.io
 0.0.0.0 www.bitraffic.com
 0.0.0.0 www.biz-offer.com
@@ -12564,6 +12570,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.macombdisplayads.com
 0.0.0.0 www.market-buster.com
 0.0.0.0 www.marketing-rewardpath.com
+0.0.0.0 www.marketrip.co
 0.0.0.0 www.mastertracks.be
 0.0.0.0 www.maxbounty.com
 0.0.0.0 www.maxonclick.com
@@ -12783,6 +12790,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.syncaccess.net
 0.0.0.0 www.system-live-media.cz
 0.0.0.0 www.tao123.com
+0.0.0.0 www.tbitcoin.me
 0.0.0.0 www.tcimg.com
 0.0.0.0 www.techconfigformat.com
 0.0.0.0 www.terraclicks.com
@@ -12818,6 +12826,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.trackadvertising.net
 0.0.0.0 www.tracklead.net
 0.0.0.0 www.tradeadexchange.com
+0.0.0.0 www.tradelax.com
 0.0.0.0 www.tradem.com
 0.0.0.0 www.trafficnetworkads24.com
 0.0.0.0 www.trafficrevenue.net
