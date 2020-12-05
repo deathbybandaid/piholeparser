@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: xAVbBG4EZvNPDNn29V8hEQ
-! Version: 202012040021
+! Checksum: JxvCg6/H9mQCchN4HXFIEA
+! Version: 202012050021
 ! Title: Fanboy's Annoyance List
-! Last modified: 04 Dec 2020 00:21 UTC
+! Last modified: 05 Dec 2020 00:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -4838,6 +4838,7 @@ _site_cookie_
 ###wpnp_previous
 ###xetv-top-links
 ###zerg-target
+###zm_survey-prompt
 ##.IN-widget
 ##.UpNext-Wrapper
 ##._footer_follow_us_links_
@@ -11372,6 +11373,7 @@ _site_cookie_
 ##.SocialGoogle
 ##.SocialGroupIcon
 ##.SocialIcon
+##.SocialIcon-link
 ##.SocialIconNews
 ##.SocialIcons
 ##.SocialIconsBlock
@@ -12493,6 +12495,7 @@ _site_cookie_
 ##.c-articlehead__detail__share
 ##.c-articlenav__socialsharing
 ##.c-author__social-media
+##.c-blog-social
 ##.c-bolt-share
 ##.c-btnShare
 ##.c-experiencia-social-materia
@@ -39314,6 +39317,7 @@ stuff.co.nz##div[class$="_pointer"]
 theplayerstribune.com##div[class*="NewsletterWrapper"]
 dailymail.co.uk##div[class*="floater-"]
 producthunt.com##div[class*="subscribeToNewsletter"]
+usnews.com##div[class="KioskFirstClass__Container-"]
 legacy.com##div[class^="ArticleBody__BodyDescription_"] > p[style="text-align: center;"]
 pri.org##div[class^="CtaMessage_"]
 nytimes.com##div[class^="Dock-dock-"]
@@ -41604,6 +41608,7 @@ seikowatches.com##.blk-Disclaimer
 cvent.com##.block-notifications-block
 abplive.in##.blur-bg
 studocu.com##.bottom-bar-enter-active
+ofisitebg.com##.bottom-freezed-bar
 robertsspaceindustries.com##.bottom-notif-bar
 cointelegraph.com##.bottom-zone
 hostkey.com##.bottomMessages
@@ -46038,7 +46043,7 @@ belgafiles.com,dakine.com,linkedin.com,way2sms.com#@#.share-box
 bitly.com,framestr.com,nytimes.com#@#.share-btn
 kcrw.com,vimeo.com#@#.share-button
 bandcamp.com,bleacherreport.com,distractify.com,naekranie.pl,thedodo.com#@#.share-buttons
-aerospace-technology.com,airport-technology.com,analyticsindiamag.com,army-technology.com,awarenessact.com,bbcccnn.com.ua,cbronline.com,chatsports.com,chemicals-technology.com,clinicaltrialsarena.com,comicbook.com,cosmetics-technology.com,designbuild-network.com,dkoding.in,dogs-magazin.de,drinks-insight-network.com,foodprocessing-technology.com,foodtank.com,gamerisle.org,gamesvillage.it,gen-pop.com,gfycat.com,homelandsecurity-technology.com,hospitalmanagement.net,hotelmanagement-network.com,hydrocarbons-technology.com,invisioncommunity.co.uk,lcms.org,livetheorganicdream.com,mama-notes.de,medicaldevice-network.com,mining-technology.com,naval-technology.com,nursetimes.org,offshore-technology.com,packaging-gateway.com,pharmaceutical-technology.com,player.it,popsugar.co.uk,popsugar.com,popsugar.com.au,power-technology.com,professorshouse.com,railway-technology.com,reefbuilders.com,renewable-technology.com,retail-insight-network.com,roadtraffic-technology.com,sensationrock.net,ship-technology.com,stocksbeat.com,tdiesel.ru,thesportsrush.com,trancentral.tv,tripzilla.ph,uploadvr.com,verdict.co.uk,verdictfoodservice.com,warlegend.net,water-technology.net,zagranie.com#@#.share-container
+aerospace-technology.com,airport-technology.com,analyticsindiamag.com,army-technology.com,awarenessact.com,bbcccnn.com.ua,cbronline.com,chatsports.com,chemicals-technology.com,clinicaltrialsarena.com,comicbook.com,cosmetics-technology.com,designbuild-network.com,dkoding.in,dogs-magazin.de,drinks-insight-network.com,foodprocessing-technology.com,foodtank.com,gamerisle.org,gamesvillage.it,gen-pop.com,gfycat.com,homelandsecurity-technology.com,hospitalmanagement.net,hotelmanagement-network.com,hydrocarbons-technology.com,invisioncommunity.co.uk,lcms.org,livetheorganicdream.com,mama-notes.de,medicaldevice-network.com,mining-technology.com,naval-technology.com,nursetimes.org,offshore-technology.com,packaging-gateway.com,pharmaceutical-technology.com,player.it,popsugar.co.uk,popsugar.com,popsugar.com.au,power-technology.com,professorshouse.com,railway-technology.com,reefbuilders.com,renewable-technology.com,retail-insight-network.com,roadtraffic-technology.com,sailweb.co.uk,sensationrock.net,ship-technology.com,stocksbeat.com,tdiesel.ru,thesportsrush.com,trancentral.tv,tripzilla.ph,uploadvr.com,verdict.co.uk,verdictfoodservice.com,warlegend.net,water-technology.net,zagranie.com#@#.share-container
 podbean.com#@#.share-content
 mediafire.com#@#.share-facebook
 bild.de#@#.share-fb
@@ -46700,6 +46705,7 @@ yoigo.com#@#thor-cookies
 @@||cookielawinfo.com^$~third-party
 @@||cookist.com^*/remote-gdpr.min.js
 @@||costa.co.uk/js/libs/cookieconsent.min.js
+@@||defense.gouv.fr/lib/tarteaucitron/$~third-party
 @@||digikey.com^*/cookie-notice.css$stylesheet,domain=digikey.com
 @@||dl.gmx.com/permission/oneTrust/consent/$domain=gmx.com
 @@||dl.mail.com/permission/oneTrust/consent/$xmlhttprequest
@@ -46714,7 +46720,7 @@ yoigo.com#@#thor-cookies
 @@||geolocation.onetrust.com/cookieconsentpub/$script
 @@||gizmochina.com/wp-content/plugins/cookie-law-info/public/js/cookie-law-info-public.js$~third-party
 @@||golem.de/abo/setconsentcookie.php
-@@||gouvernement.fr^*/tarteaucitron/
+@@||gouvernement.fr^*/tarteaucitron/$~third-party
 @@||gstatic.com/brandstudio/kato/cookie_choice_component/$script,domain=blog.google
 @@||hellenicbank.com/portalserver/*/cookies-consent.js$script
 @@||hp.com^*/caas-privacy-cookie-$script
@@ -47405,6 +47411,7 @@ yoigo.com#@#thor-cookies
 @@||telepolis.pl/media/cache/resolve/content_box/images/$image
 @@||teslarati.com/wp-content/themes/teslarati-mag/images/facebook_circle.png
 @@||teslarati.com/wp-content/themes/teslarati-mag/images/twitter_circle.png
+@@||tf1.fr/public/*/universal-view-ui-button-share-$script,~third-party
 @@||tgcom24.mediaset.it/assets/js/amd/socialcount.js
 @@||tgstat.ru/js/share2/share.js$script,~third-party
 @@||thebluealliance.com/images/icons/$image,domain=thebluealliance.com

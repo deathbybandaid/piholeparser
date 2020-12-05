@@ -82,6 +82,7 @@ analyse.bcovery.com
 analyse.weather.com.cn
 analysis.shinobi.jp
 analytic.imlive.com
+analytic20.detik.com
 analyticcdn.globalmailer.com
 analytics-cms.whitebeard.me
 analytics-production.hapyak.com
@@ -546,6 +547,7 @@ cmstrendslog.indiatimes.com
 cmstrendslog.timesnow.tv
 cnstats.cdev.eu
 cnt.3dmy.net
+cnt.iceporn.com
 cnt.logoslovo.ru
 cnt.mastorage.net
 cnt.nicemix.com
@@ -1324,7 +1326,6 @@ liveviewer.ez.no
 ln.ameba.jp
 loc.rediff.com
 localads-statistics.maps.me
-location.bloomberg.com
 log.51cto.com
 log.aimtell.com
 log.bitauto.com
