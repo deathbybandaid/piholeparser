@@ -5,12 +5,17 @@ ads.naftemporiki.gr
 axiabanners.exodus.gr
 call.theowl.gr
 clickbanner.gr
+d.agkn.com
 educate.theowl.gr
 furious.adman.gr
+gazzetta.adman.gr
 gpoint.gpoint.com.gr
 media.mybet.com
 obj.adman.gr
+phaistos-ssp.adman.gr
 promo.gpoint.com.gr
 promos.pathfinder.gr
+scripts.bestprice.gr
+smartadserver.com
 static.adman.gr
 switch.statman.gr

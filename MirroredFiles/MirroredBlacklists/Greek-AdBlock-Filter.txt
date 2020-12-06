@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Greek AdBlock Filter
-! Version: 2019041300
+! Version: 2020100500
 ! Expires: 2 days
 ! Homepage: https://github.com/kargig/greek-adblockplus-filter
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -40,6 +40,7 @@ cacheserve.williamhill.com/*
 cacheserve.williamhillcasino.com/*
 capital.gr/banners/StaticBanners/*
 cdn1.telemetryverification.net/tv2n/presenter/deploys/inbanner/*
+cdn.orangeclickmedia.com/*
 connextra.com/VistaBet/*
 contra.gr/XML/sponsors/
 corfuland.gr/images/banners/*
@@ -51,6 +52,7 @@ e-cannibals.gr/blog/wp-content/uploads/kanivaloiAD.jpg
 e-cannibals.gr/blog/wp-content/uploads/sm_kanivaloiAD.jpg
 e-cannibals.gr/blog/wp-content/uploads/somafusion_adsb.jpg
 e-shop.gr/banners/spamet.swf
+edu4u.gr/Portals/0/Banners/*
 epiruspost.gr/images/banners/
 files.capital.gr/adserver/*
 files.capital.gr/banners/
@@ -148,6 +150,7 @@ zougla.gr/uploads/thomas/travel_city_banner*
 ||adman.in.gr/gbanner/
 ||adman.kathimerini.gr/*
 ||ads.naftemporiki.gr
+||adwebone.com^$third-party
 ||airfasttickets.gr/affiliate/*
 ||alfavita.gr/sites/default/files/efsyn_4.png
 ||alfavita.gr/sites/www.alfavita.gr/themes/mixon/images/bannernew.swf
@@ -172,6 +175,7 @@ zougla.gr/uploads/thomas/travel_city_banner*
 ||cdn.cnngreece.gr/media/com_news/ads/4/skin_new_cosmote_2.jpg
 ||cdn.cnngreece.gr/templates/kgt_cnn/images/sponsors/videobox_1800x900.png
 ||cdn1.bbend.net/media/com_news/ads/*
+||cdnprojectagora.s3.amazonaws.com/gr/gazzetta.js$script,domain=gazzetta.gr
 ||cheapis.gr/widget/*
 ||clickbanner.gr^
 ||clickgr.gr/picture_library/*
@@ -206,6 +210,7 @@ zougla.gr/uploads/thomas/travel_city_banner*
 ||cretalive.gr/flash/full_banner/*
 ||cretalive.gr/img/frontend/banners/*
 ||cretalive.gr/img/frontend/businesscatalog/*
+||d.agkn.com^
 ||dealin.gr/iframes/5/*
 ||dealspro.gr/cart/random_ads/*
 ||defencenet.gr/defence/images/aroma300x250_black.jpg
@@ -232,9 +237,11 @@ zougla.gr/uploads/thomas/travel_city_banner*
 ||flix.gr/skins/*
 ||flix.gr/static/skins/*
 ||focuswebtv.gr/images/banners/*$image
+||fonitisparou.gr/*/banners/*$image
 ||forthnet.gr/media/Banners/geodata/*
 ||fvcreatives.s3.amazonaws.com/Perrier/20131115/banners/img/*
 ||gameover.gr/images/promotion/fifa12/*
+||gazzetta.adman.gr^
 ||gazzetta.gr/images/banners/
 ||gazzetta.gr/sites/all/themes/basic/images/banners/PokerStar*.jpg
 ||gazzetta.gr/sites/default/files/Anytime*.jpg
@@ -297,6 +304,7 @@ zougla.gr/uploads/thomas/travel_city_banner*
 ||luben.tv/wp-content/uploads/2015/09/unnamed.png
 ||luben.tv/wp-content/uploads/2016/01/luben-skin-stoli-2-x480x780-new2.png
 ||luben.tv/wp-content/uploads/2017/01/voyager.jpg
+||madinad.com^$third-party
 ||makeleio.gr/wp-content/uploads/2014/11/Klamin-300X250.jpg
 ||makeleio.gr/wp-content/uploads/2014/11/NETRA_bannernew.jpg
 ||makeleio.gr/wp-content/uploads/2015/09/HyalurOn-250X250-Zampidis-2.jpg
@@ -355,6 +363,9 @@ zougla.gr/uploads/thomas/travel_city_banner*
 ||paparazzigr.tv/diafimistika/*
 ||parallaximag.gr/wp-content/uploads/bebarkitcen.jpg
 ||parapolitika.gr/Portals/0/Banners/
+||parianostypos.gr/images/banners/*$image
+||parianostypos.gr/*/diafimissi/*$image
+||phaistos-ssp.adman.gr^
 ||photo.kathimerini.gr/files/ul/kath22/webextras/2013/04-APR/carrefourskin1*
 ||postin.gr/images/banners/*
 ||prismanews.gr/images/banners/*
@@ -370,12 +381,22 @@ zougla.gr/uploads/thomas/travel_city_banner*
 ||real.gr/BannersExternal.aspx*
 ||real.gr/Files/Skins/*
 ||real.gr/files/Banners/*
+||realestatenews.gr/images/stories/1theloakinita5.gif$image
+||realestatenews.gr/images/stories/250px.gif$image
+||realestatenews.gr/images/stories/banner-red.swf$object
+||realestatenews.gr/images/stories/baner-pontiki.gif$image
+||realestatenews.gr/images/stories/img-trap.jpg$image
+||realestatenews.gr/images/stories/logo-sygkatoikos-ren-a.gif$image
+||realestatenews.gr/images/stories/nomisma_140x60.gif$image
+||realestatenews.gr/images/stories/para_250x300.gif$image
+||realestatenews.gr/images/stories/pomidaani.gif$image
 ||rockinathens.gr/wp-content/uploads/2016/08/ritual-banner.gif$image
 ||roumlouki.gr/images/banners/*
 ||roumlouki.gr/images/roumlouki_banners/*
 ||s3.amazonaws.com/bulkimages/2011/skins/newsit-11888-bg.jpg
 ||s3.amazonaws.com/bulkimages/2012/newsit/opap_skin_newsit.jpg
 ||scdn.gr/images/yogurt/dressings/forthnet/*
+||scripts.bestprice.gr^
 ||secnews.gr/wp-content/uploads/2014/11/DigitalBrains.png
 ||secnews.gr/wp-content/uploads/2014/11/isoqar.png
 ||secnews.gr/wp-content/uploads/2015/05/cyberkid1.jpg
@@ -392,6 +413,7 @@ zougla.gr/uploads/thomas/travel_city_banner*
 ||skroutz.gr/images/helmet/promo/*
 ||skroutz.gr/images/yogurt/dressings/wind/*
 ||smart-ads.gr/adtextlinks
+||smartadserver.com^
 ||sofokleousin.gr/files/banners/*.jpg
 ||sport-fm.gr/resrc/campaigns/windone/*
 ||sport-fm.gr/resrc/campaigns_v2/*
@@ -428,8 +450,6 @@ zougla.gr/uploads/thomas/travel_city_banner*
 ||thepressproject.gr/ia-tpp.gif
 ||thepressproject.gr/imerodromos.gif
 ||thepressproject.gr/kalogritsas300.jpg
-||thestival.gr/images/banners/*
-||thestival.gr/images/stories/banners/*
 ||thisisvolos.gr/images/stories/ads/*
 ||tlife.gr/flash/banners/*
 ||tovima.gr/themes/1/Default/Media/home/pireos.jpg
@@ -469,6 +489,13 @@ zougla.gr/uploads/thomas/travel_city_banner*
 ||vidads.gr^$3p
 ||services.madinad.com/analytics/*$domain=madinad-data.s3.amazonaws.com
 ||madinad-data.s3.amazonaws.com^$subdocument
+||lawspot.gr/sites/default/files/misc/sak728b.gif$image
+||lawspot.gr/sites/default/files/misc/sak250b.gif$image
+||lawspot.gr/sites/default/files/misc/nup600.gif$image
+||liberal.gr/assets/images/Logo-alpha-Bank-235x50px.jpg$image
+||traction.gr/wp-content/uploads/2020/06/anytime_728x90b.jpg$image
+||www.sport24.gr/img/app/8982787/922000/o/0/0/Sport24_Football_940x60_new.gif$image
+||static.car.gr/static/funshop/3boxesofmasks*.jpg$image
 !Element-Hiding Rules
 !enet.gr##TABLE.fck-template.fck-t1
 ##.adsbox
@@ -550,6 +577,8 @@ cosmo.gr##A.sponsLink
 cretalive.gr###sma-banner-wide
 cretalive.gr###sponsors-mainmodule
 derby.gr##A[href*="http://www.bet-at-home.com/"]
+dokari.gr##.side
+dokari.gr##.static
 e-go.gr###advsliding352
 e-go.gr##.deal
 e-go.gr##div[class="agores"]
@@ -592,6 +621,14 @@ ethnos.gr##DIV.underphoto
 ethnos.gr##div[class="agores300"]
 eviaportal.gr##.bos_searchbox_widget_class
 eviaportal.gr###custom_html-2
+evros-news.gr##img[src$=".gif"]
+evros-news.gr##.adv
+evros-news.gr##.widget_text[class^="widget-"]
+filadelfia-xalkidona.gr##.td_block_15
+filadelfia-xalkidona.gr##.td_flex_block
+filadelfia-xalkidona.gr##.td_mod_wrap
+filadelfia-xalkidona.gr##.tdi_88_ffb
+filadelfia-xalkidona.gr##.vc_raw_html
 fimotro.blogspot.com##.widget-content
 flix.gr##.banner.medrect
 flix.gr##.banner.minirect
@@ -605,10 +642,14 @@ gamato.info##IMG[src="images/728_generic_betnow.gif"]
 gasprice.gr##div[align="left"]
 gato.gr##div[class=lad]
 gato.gr##div[class^="ad"]
+gazzetta.gr##DIV[id^="block-wadman"]
+gazzetta.gr###block-block-11
+gazzetta.gr###block-block-247
 gazzetta.gr###block-views-promoted_companies-block_1
 gazzetta.gr###block-wblocks-wblocks_companies
 gazzetta.gr###block-wblocks-wblocks_promoted_companies
 gazzetta.gr###content-banner-korios
+gazzetta.gr##.game-center-matches-item-sponsor
 gazzetta.gr##.linkLeftCntr
 gazzetta.gr##.linkRightCntr
 gazzetta.gr##A.betAtHome
@@ -621,9 +662,9 @@ gazzetta.gr##A[href*="http://media.mybet.com/"]
 gazzetta.gr##A[href*="http://partner.sbaffiliates.com/"]
 gazzetta.gr##A[href*="http://sportingbet.gr/"]
 gazzetta.gr##A[href*="http://www.bet-at-home.com/"]
+gazzetta.gr##A[href^="http://www.bet365.gr/"]
 gazzetta.gr##A[href*="http://www.novibet.com/Handlers/"]
 gazzetta.gr##A[href*="http://www.sportingbet.gr/paradise-poker/"]
-gazzetta.gr##A[href*="http://Για"]
 gazzetta.gr##A[href*="https://www.playbet.com/portal/"]
 gossip-tv.gr###textlinks
 gossip-tv.gr##.bottom-popout.is-open
@@ -681,7 +722,8 @@ in.gr##DIV#RightVerticalBanner.adverticement
 in.gr##DIV.admessage
 in.gr##DIV[style="width: 150px; height: 100px; margin-top: 5px; margin-bottom: 5px;"]
 in.gr##div[class="textlink"]
-insomnia.gr###ipbwrapper > .bgad[href="http://www.e-shop.gr/ypologistes-trofodotika-psu-seasonic-list?table=PER&category=%D4%D1%CF%D6%CF%C4%CF%D4%C9%CA%CF&filter-2891=1&utm_source=insomnia.gr&utm_medium=otherads&utm_content=skin&utm_campaign=seasonic-insomnia"]
+insomnia.gr##.banner-728x90-top
+insomnia.gr##.featured-2
 interesting.gr##div[class="wp125ad odd"]
 inthevip.gr##.left
 inthevip.gr##.right
@@ -702,6 +744,18 @@ koutipandoras.gr##.banner
 koutipandoras.gr##.box_banner
 koutipandoras.gr##.top_ad_big
 koutipandoras.gr##.wpbrbannerinside
+kozanilife.gr#$#body{ background-image: none !important; }
+kozanilife.gr###carousel-1
+larissanet.gr##[class^="custom_position_single"]
+larissanet.gr##.custom_area_single_01
+larissanet.gr##.elementor-element-c2a8f89
+larissanet.gr##.elementor-widget-image
+larissanet.gr##.elementor-section-items-middle
+larissanet.gr##.elementor-element-5716b5fa
+larissanet.gr##.elementor-element-3db4f540
+larissanet.gr##.elementor-element-5680254d
+larissanet.gr##.jeg_ad
+larissanet.gr##.widget_sp_image
 live24.gr###itrofi-left
 live24.gr###itrofi-right
 livemovies.gr###block-block-32
@@ -764,12 +818,24 @@ onsports.gr##.bottom-popout.is-open
 opensoft.gr##DIV[style="border: 1px solid rgb(224, 224, 224); padding: 2px; margin-left: 20px; background-color: rgb(244, 244, 252); width: 140px; font-size: 12px;"]
 oroskopos.gr###banners
 oroskopos.gr##.banners_mid_2
+parianostypos.gr##.yeslidergroup
 pathfinder.gr##div[id="ad-links"]
+patrainews.gr###block-block-40
+patrainews.gr###block-block-41
+patrainews.gr###left-ad-container
+patrainews.gr###region-sidebar-second
+patrainews.gr###right-ad-container
+patrainews.gr##.block-header-728x90
 pitsirikos.net###text-19
 popaganda.gr##.banner
 popaganda.gr##.big-banner-top
 popaganda.gr##.main-margin.container > .newstrack-content.row > .post-margin-right.col-xs-8.col-md-8 > .waypoints.post-content > .affiliate > .textwidget
 prismanews.gr##.banneritem
+real.gr###realTopBanner
+real.gr###realTopBannerGap
+realestatenews.gr###right_col
+realestatenews.gr##.gk_tab_container0-style1
+realestatenews.gr##.gk_tab_wrap-style1
 runningnews.gr##body > table:nth-of-type(2)
 scores24live.com##IMG.imgLinks[src="images/betclick.gif"]
 scores24live.com##IMG.imgLinks[src="images/bodd.gif"]
@@ -829,6 +895,9 @@ sport24.gr##A[href*="mens-x.gr"]
 sport24.gr##A[href*="www.bwin.com"]
 sport24.gr##DIV.code.currentArea-logo
 sport24.gr##div.ad
+sport24.gr#?##hp-readmore-cross-article .article:-abp-has(.byline_date:-abp-contains(ADVERTORIAL))
+sport24.gr##div[id^=ENGAGEYA]
+sport24.gr###page > .content-top-wrap
 sportdog.gr###block-views-promoted_companies-block_1
 sports.in.gr###RightBanner3
 sports.in.gr###RightBanner7
@@ -842,7 +911,18 @@ tanea.gr##.textlink
 techgear.gr###fasa
 techgear.gr###text-39
 techteam.gr##A[href*=spinpalace]
+tharrosnews.gr##center
+tharrosnews.gr##.custom-html-widget2
+thenewspaper.gr##.code-block-6
+thenewspaper.gr##.header-promo
+thenewspaper.gr##.thene-prin-to-arthro
+thenewspaper.gr##.thene-widget
 thepressproject.gr###kalogritsas300
+thestival.gr###g-content-top-a
+thestival.gr##.customhidden-mobile
+thestival.gr##.moduletable.sideAdvertFix
+thestival.gr##.moduletable.sideFix
+thestival.gr##.sponsor
 tlife.gr###sma-top-box > .boxHead_TopBar
 toarkoudi.gr###MAINAD-box
 toarkoudi.gr##.ADBox
@@ -880,45 +960,12 @@ www.contra.gr###top_story_wrap > .grid_12 > div:nth-of-type(8) > a[href^="https:
 www.e-food.gr##.cart-reminder
 www.eklogika.gr##.left_fixed
 www.eklogika.gr##.right_fixed
-www.filadelfia-xalkidona.gr##.td-a-rec-id-content_top
-www.filadelfia-xalkidona.gr##.td-header-sp-rec
-www.filadelfia-xalkidona.gr##.td_block_16
-www.filadelfia-xalkidona.gr##.td_block_3
 www.insomnia.gr###ipbwrapper > .bgad[href="http://ads.nativad.net/servlet/click/zone?zid=351&pid=111&lookup=true&position=1&uuid=(email)"]
 www.insomnia.gr###ipbwrapper > .bgad[href="http://www.kotsovolos.gr/site/mobile-phones-gps/mobile-phones/smartphones?v=0&company=Apple&11202=44834&utm_source=insomnia.gr&utm_medium=skin&utm_content=NEWiphone6s-6splus-insomnia-skin-2015&utm_campaign=iphone6s-6splus-insomnia-"]
 www.kritikes-aggelies.gr###banner-top-container
 www.kritikes-aggelies.gr###left-dress2
 www.kritikes-aggelies.gr##.banner-side-collection
 www.kritikes-aggelies.gr##.categories2:nth-of-type(3)
-www.larissanet.gr##.widgets_header_big
-www.larissanet.gr##.widgets_header_small > .widget_sp_image-image-link
-www.larissanet.gr##div.enhanced-text-widget.widget_text.box_outer.banner:nth-of-type(34) > .widget.banner
-www.larissanet.gr##div.row-fluid:nth-of-type(2) > .widget-area
-www.larissanet.gr##div.row-fluid:nth-of-type(4) > .widget-area > .widget_sp_image.box_outer > .widget_sp_image-image-link
-www.larissanet.gr##div.widget_sp_image.box_outer:nth-of-type(1) > .widget > .widget_sp_image-image-link
-www.larissanet.gr##div.widget_sp_image.box_outer:nth-of-type(10) > .widget > .widget_sp_image-image-link
-www.larissanet.gr##div.widget_sp_image.box_outer:nth-of-type(11) > .widget > .widget_sp_image-image-link
-www.larissanet.gr##div.widget_sp_image.box_outer:nth-of-type(12) > .widget > .widget_sp_image-image-link
-www.larissanet.gr##div.widget_sp_image.box_outer:nth-of-type(13) > .widget
-www.larissanet.gr##div.widget_sp_image.box_outer:nth-of-type(14) > .widget > .widget_sp_image-image-link
-www.larissanet.gr##div.widget_sp_image.box_outer:nth-of-type(15) > .widget > .widget_sp_image-image-link
-www.larissanet.gr##div.widget_sp_image.box_outer:nth-of-type(16) > .widget
-www.larissanet.gr##div.widget_sp_image.box_outer:nth-of-type(17) > .widget > .widget_sp_image-image-link
-www.larissanet.gr##div.widget_sp_image.box_outer:nth-of-type(18) > .widget > .widget_sp_image-image-link
-www.larissanet.gr##div.widget_sp_image.box_outer:nth-of-type(19) > .widget
-www.larissanet.gr##div.widget_sp_image.box_outer:nth-of-type(2) > .widget > .widget_sp_image-image-link
-www.larissanet.gr##div.widget_sp_image.box_outer:nth-of-type(20) > .widget > .widget_sp_image-image-link
-www.larissanet.gr##div.widget_sp_image.box_outer:nth-of-type(21) > .widget > .widget_sp_image-image-link
-www.larissanet.gr##div.widget_sp_image.box_outer:nth-of-type(22) > .widget > .widget_sp_image-image-link
-www.larissanet.gr##div.widget_sp_image.box_outer:nth-of-type(23) > .widget
-www.larissanet.gr##div.widget_sp_image.box_outer:nth-of-type(24) > .widget > .widget_sp_image-image-link
-www.larissanet.gr##div.widget_sp_image.box_outer:nth-of-type(25) > .widget
-www.larissanet.gr##div.widget_sp_image.box_outer:nth-of-type(26) > .widget > .widget_sp_image-image-link
-www.larissanet.gr##div.widget_sp_image.box_outer:nth-of-type(3) > .widget > .widget_sp_image-image-link
-www.larissanet.gr##div.widget_sp_image.box_outer:nth-of-type(30) > .widget
-www.larissanet.gr##div.widget_sp_image.box_outer:nth-of-type(31) > .widget > .widget_sp_image-image-link
-www.larissanet.gr##div.widget_sp_image.box_outer:nth-of-type(32) > .widget > .widget_sp_image-image-link
-www.larissanet.gr##div.widget_sp_image.box_outer:nth-of-type(33) > .widget > .widget_sp_image-image-link
 www.lifo.gr###das_out
 www.lifo.gr###das_r1 > a[href^="/lines/click/"]
 www.lifo.gr###das_top > a[href^="/lines/click/"]
@@ -939,6 +986,11 @@ www.news247.gr##[href*="adman.gr"]
 www.sport24.gr##[href*="adman.gr"]
 www.contra.gr##[href*="adman.gr"]
 www.news247.gr##[href*="bit.ly"]
+www.car.gr##.inlist.maskshop
+www.car.gr##.infacets.maskshop
+!Anti-Phishing Rules
+goldenconcept.ir^$document
+indusviva.com^$document
 ! Exception Rules
 @@contra.gr/XML/sponsors/pokergr/ilika/*_image.png
 @@contra.gr/XML/sponsors/pokergr/ilika/fasa_bg.jpg

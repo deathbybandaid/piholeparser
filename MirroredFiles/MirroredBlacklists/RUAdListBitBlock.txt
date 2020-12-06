@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: BUcwvcmubgFkrLcaMf6WJw
-! Version: 202012050030
+! Checksum: NY8pZaW8VfQTo9LPaqIt3g
+! Version: 202012060030
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 05 Dec 2020 00:30 UTC
+! Last modified: 06 Dec 2020 00:30 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1251,6 +1251,7 @@ gazeta.ua##[onclick^="Share"]
 kinovod.net,kinovod77.cc##[onclick^="sharer."]
 planetanovosti.com##[title="Vkontakte"]
 ukrs.com.ua##a[class^="finewp-social-icon-"][target="_blank"]
+www.rambler.ru##a[data-cerber-head^="main::footer::smm:"]
 kuban24.tv##a[href*="://t-do.ru/"]
 computerra.ru##a[href*="://tele.click/"]
 life.ru##a[href*="facebook"][href*="/share?"]
@@ -2272,9 +2273,9 @@ _userbar_$image
 ||pubapi.viqeo.tv^$domain=mail.ru|sportmail.ru
 ||pulse.mail.ru^$domain=~pulse.mail.ru
 ||rambler.ru/manifest.json
-||rambler.ru/static/recommender.js$domain=championat.com|gazeta.ru
 ||rbk.ru^*/fn/_poll-popup.js
-||rcm.rambler.ru^$domain=championat.com|gazeta.ru
+||rcm.rambler.ru^$domain=championat.com|gazeta.ru|lenta.ru|rambler.ru
+||rcmjs.rambler.ru^$domain=championat.com|gazeta.ru|lenta.ru|rambler.ru
 ||recommender.um.rambler.ru^$domain=championat.com
 ||recostream.go.mail.ru^$domain=~pulse.mail.ru|~recostream.go.mail.ru
 ||relizua.com/img/yarek
@@ -3721,6 +3722,7 @@ e.mail.ru,octavius.mail.ru##.promo-block-letter
 auto.mail.ru##.promo_full
 news.mail.ru##.rb-floating
 e.mail.ru,octavius.mail.ru##.renovator
+e.mail.ru,octavius.mail.ru##.renovator-container
 health.mail.ru,news.mail.ru##.s-partners
 mail.ru##.search__distribution
 pogoda.mail.ru##.side-informer
@@ -4222,6 +4224,7 @@ prom.ua#@#img[alt="facebook"]
 /onesignal.min.
 /onesignal/manifest.
 /onesignalfix.
+/OneSignalSDK-
 /OneSignalSDKWorker.
 /openpushwoosh_
 /plugins/wp-notification-bars/*
@@ -14221,6 +14224,7 @@ _youtube_social_
 ##.icon-social__link
 ##.icon-social_facebook_bl
 ##.icon-social_twitter_bl
+##.icon-soscmed
 ##.icon-soundcloud
 ##.icon-stumbleupon
 ##.icon-telegram
@@ -15545,6 +15549,7 @@ _youtube_social_
 ##.page-controls--share
 ##.page-controls-share
 ##.page-fb-like
+##.page-footer-social
 ##.page-footer__social
 ##.page-footer__social-link
 ##.page-footer__social-links
@@ -19322,6 +19327,7 @@ _youtube_social_
 ##.tge-sharing-buttons
 ##.tgla7-share
 ##.th-sharecounts
+##.tha__socialItem
 ##.thb-social-links-container
 ##.thb-social-top
 ##.the-social-links
@@ -21323,6 +21329,7 @@ smzdm.com#@#.comment_share
 pinterest.com#@#.component-pinterest
 vidcloud.co#@#.content-share
 vidcloud.co#@#.content-share-wrap
+adiconsum.it#@#.content-social
 echo.msk.ru#@#.contentshare
 tommy.com#@#.cookie-notice
 si.com#@#.custom-sharing-link
@@ -24004,6 +24011,7 @@ _backToTop.
 ###left-footer-subscribe
 ###left-newsletters-form
 ###leftcol_subscribe
+###leftnewslettersubsblock
 ###m-inline-newsletter
 ###macro-leadership-newsletter-signup
 ###mailchimp-top-bar
@@ -24887,6 +24895,7 @@ _backToTop.
 ##.ione-widget-bp_newsletter_signup
 ##.ione-widget-social_conversion
 ##.ipWidget-Newsletter
+##.iscriviti-newsletter
 ##.iscrizione-newsletter
 ##.iscrizione_newsletter
 ##.iscrizionenewsletter
@@ -25196,6 +25205,7 @@ _backToTop.
 ##.newsletter.box
 ##.newsletter.node
 ##.newsletter.panel-body
+##.newsletter.row
 ##.newsletter.section
 ##.newsletter1
 ##.newsletterBarParts
@@ -25527,6 +25537,7 @@ _backToTop.
 ##.subscribe-article-bottom
 ##.subscribe-banner
 ##.subscribe-block
+##.subscribe-block-wrapper
 ##.subscribe-blurb
 ##.subscribe-box
 ##.subscribe-box-wide
@@ -25725,6 +25736,7 @@ _backToTop.
 ##[class^="NewsletterSubscribe"]
 ##[data-module="newsletter-signup"]
 ##[data-target="#newsletter-modal"]
+##[id^="mailchimp-signup-subscribe-"]
 ##a[title="Daily Email Newsletter"]
 ##div[class*="NewsletterSubscribe_"]
 ##div[class*="newsletter-signup_"]
@@ -27129,8 +27141,10 @@ _backToTop.
 ||zotabox.com^*/widgets.js$third-party
 ! 3rd-party sounds
 ||appspot.com/sounds/chatmsg.mp3
-||helpscout.net/static/ui-sounds/$media
+||helpscout.net/static/ui-sounds/
+||js.driftt.com/deploy/assets/static/audio/
 ||livechatinc.com/widget/static/media/
+||reamaze.com/audio/
 ! Taboola
 ||taboola.com^$third-party
 ||taboolasyndication.com^$third-party
