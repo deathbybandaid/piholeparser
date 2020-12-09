@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: C4o2xKH/+rL/JglmbbZOiQ
-! Version: 202012060030
+! Checksum: 8LhYe9VwCv25i0quMfxxCw
+! Version: 202012090020
 ! Title: RU AdList: Counters
-! Last modified: 06 Dec 2020 00:30 UTC
+! Last modified: 09 Dec 2020 00:20 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -282,6 +282,7 @@ _pagespeed_beacon?
 ||chatov.net/img.php?id=
 ||checkru.net^$third-party
 ||circle.am/service/?
+||clarity.ms^$third-party
 ||clickaider.com^$third-party
 ||clickanalytics208.com^$third-party
 ||clickov.com^
