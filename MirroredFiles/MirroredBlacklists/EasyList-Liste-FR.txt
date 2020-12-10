@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: XrEEq3Vqu+tgqPpbGB7OxA
-! Version: 202012080012
+! Checksum: EPx68Zbnpeq6J60Ts1xEQQ
+! Version: 202012100014
 ! Title: Liste FR
 ! Expires: 1 days
 ! Description: Filtres francophones complémentaires à EasyList
@@ -7973,6 +7973,7 @@ debugger:$popup
 ||iyfnzgb.com^
 ||iygke.com^
 ||j4a73n7v5k.com^
+||jbhle.com^
 ||jehudf.com^
 ||jennyunfit.com^
 ||jibbagawl.site^
@@ -8121,6 +8122,7 @@ debugger:$popup
 ||pendingsuggestaffliction.com^
 ||pepsmooleak.com^
 ||perttogahoot.com^
+||pftfk.com^
 ||pimpleowedbun.com^
 ||pinttalewag.com^
 ||platitudefivesnack.com^
@@ -8258,6 +8260,7 @@ debugger:$popup
 ||technotology.com^
 ||temposnitehah.work^
 ||terapou.com^
+||teser.net^
 ||thefeysax.com^
 ||thehice.xyz^
 ||throughhonouredhighest.com^
@@ -19126,7 +19129,7 @@ dl-protect1.co##a[href^="/download-"]
 extreme-down.top,wawacity.vip,zone-annuaire.top##a[href^="/download?"]
 theboystelecharger.net##a[href^="/file.php"]
 ensnaredbyabook.com##a[href^="/file.php?name="]
-wawacity.vip##a[href^="/getlink?"]
+dl-protect.best,dl-protect.top,dl-protect1.com,wawacity.vip##a[href^="/getlink?"]
 turfomania.fr##a[href^="/go/go.php?"]
 babesxworld.com,cocogals.com##a[href^="/goto/"]
 nrj.be##a[href^="/imu/click/"]

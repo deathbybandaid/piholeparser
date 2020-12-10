@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8LhYe9VwCv25i0quMfxxCw
-! Version: 202012090020
+! Checksum: UcMCXFtr2ebnByjT1U7e7w
+! Version: 202012100031
 ! Title: RU AdList: Counters
-! Last modified: 09 Dec 2020 00:20 UTC
+! Last modified: 10 Dec 2020 00:31 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -180,6 +180,7 @@ _pagespeed_beacon?
 ##img[src*="://r.i.ua/"]
 ##img[src*="top.mail.ru/counter?"]
 ##img[src^="/stat/"][width="88"][height="31"]
+##img[style*="//counter.yadro.ru/"]
 ##img[title="bigmir)net TOP 100"]
 !
 ! = Общие блокировки (и с использованием имени доменов) =========================
@@ -731,6 +732,7 @@ _pagespeed_beacon?
 ||visualdna.com^$third-party
 ||visualwebsiteoptimizer.com^$third-party,domain=~muse.mu
 ||vk.com/videostats.php?
+||vlitag.com^$third-party
 ||volantix.com/check.js
 ||waplog.mobi^$third-party
 ||waplog.net^$third-party

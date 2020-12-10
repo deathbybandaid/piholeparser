@@ -1540,6 +1540,7 @@ nexttime.ovh
 nil.naver.com
 ninja.akamaized.net
 ninja.onap.io
+nj1r.valorbuff.com
 nm.newegg.com
 nmtracking.netflix.com
 noa0.compteczam.fr
@@ -1549,6 +1550,7 @@ northwichguardian-gb.northwichguardian.co.uk
 nova.dice.net
 nrg.red-by-sfr.fr
 ns.rvmkitt.com
+nvea.valorbuff.com
 nws.naltis.com
 nxakpj4ac8gkd53.info
 o.addthis.com
