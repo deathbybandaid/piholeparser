@@ -10,6 +10,7 @@ adform.net
 adk.docer.pl
 adocean.pl
 adraker-dev.azureedge.net
+ads-analytic.com
 ads.gry-online.pl
 adv.herocraft.com
 adv.wp.pl
@@ -60,8 +61,8 @@ media.stsaff.pl
 mg.steepto.com
 online-mexos.efortuna.pl
 ovh.webshark.pl
+peachlandeu.com
 pl.tradenewsinvesting.com
-placehold.it
 pub.contexthub.net
 raupsica.net
 rec-ir.quartic.pl
@@ -75,6 +76,7 @@ service.weben1.com
 shift.oferty-kredytowe.pl
 smartadserver.com
 sooloaph.com
+sport32news.com
 syndication.exdynsrv.com
 thiksikr.com
 track.aftermarket.pl

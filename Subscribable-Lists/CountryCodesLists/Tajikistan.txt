@@ -5,6 +5,7 @@ niiagip.tj
 omuzgor.tj
 oncocenter.tj
 persona.tj
+pixel.smartmedia.tj
 redwhite.tj
 rus-ksors.tj
 smarts.tj

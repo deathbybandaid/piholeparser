@@ -28,17 +28,17 @@ ____________________________________
 ### Removing Empty Space
 16374 Lines After Removing Empty Space
 ### Removing Invalid FQDN Characters
-2991 Lines After Removing Invalid FQDN Characters
+2992 Lines After Removing Invalid FQDN Characters
 ### Converting All Text To Lower Case
-2991 Lines After Converting All Text To Lower Case
+2992 Lines After Converting All Text To Lower Case
 ### Checking For Fully Qualified Domain Name Requirements
-2959 Lines After Checking For Fully Qualified Domain Name Requirements
+2960 Lines After Checking For Fully Qualified Domain Name Requirements
 ### Reverse Searching For Invalid Top Level Domains
-2946 Lines After Reverse Searching For Invalid Top Level Domains
+2947 Lines After Reverse Searching For Invalid Top Level Domains
 ### Punycode Translate
-2946 Lines After Punycode Translate
+2947 Lines After Punycode Translate
 ### Removing Duplicate Lines
-2943 Lines After Removing Duplicate Lines
+2944 Lines After Removing Duplicate Lines
 ## Checking Parsed File Size
 ## Attempting Creation Of Parsed List
 ## Calculating Parse Time
