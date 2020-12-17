@@ -1110,6 +1110,7 @@ g4952108375.co
 g4p.redtram.com
 g5150192710.co
 g5348277045.co
+g5546361380.co
 ga-beacon.appspot.com
 ga.canoe.ca
 ga.kvideo.io
@@ -1263,6 +1264,7 @@ insights.cdt.ch
 insights.sitesearch360.com
 insitez.blob.core.windows.net
 instore.pagomeno.it
+intake-analytics.wikimedia.org
 intelli.ageuk.org.uk
 intent.cbsi.com
 intg.snapchat.com
