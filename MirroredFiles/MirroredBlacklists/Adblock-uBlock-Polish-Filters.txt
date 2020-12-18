@@ -8,9 +8,9 @@
 ! Działa najlepiej z EasyList - pamiętaj aby zasubskrybować!
 !   Patronite ==> https://patronite.pl/polskiefiltry
 !   PayPal ==> https://www.paypal.com/pools/c/87zNJ8OJ3I
-! Last modified: 16 December 2020
+! Last modified: 17 December 2020
 ! Expires: 1 day
-! Version: 2020121601
+! Version: 2020121703
 ! Support:
 !   Email >> errorsfilters@certyficate.it
 !   Github >> https://github.com/MajkiIT/polish-ads-filter/issues
@@ -18,7 +18,7 @@
 ! License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ! Copyright © 2020 Certyficate IT
 ! Najnowsza wersja zawsze na: https://www.certyficate.it/adblock
-! v.2020121601 aktualizacja: sr, 16 grudnia 2020, 17:45:00
+! v.2020121703 aktualizacja: czw, 17 grudnia 2020, 17:50:00
 !
 !
 !1#-----------------------General advert blocking filters-----------------------!
@@ -263,6 +263,7 @@ popkiller.pl,tygodnikpodhalanski.pl,cnc.info.pl##[class*="reklamy"]
 ~katywroclawskie.pl,~rozklad-pkp.pl,~gwarant.czest.pl,~sukniaonline.pl,~pepco.pl,pl##[src*="/banners/banner"]
 pl##.inpl-gallery-ad-horizontal
 pl##.reklama_top
+pl##.zpr_shopping__article
 !
 !9#------------------------Specific element hiding rules------------------------!
 100pompek.pl,podciaganie.pl,miesniebrzucha.pl,miesnienog.pl,biegaj40minut.pl,treningrozciagania.pl,treningaerobowy.pl###block-trainings-rev-content-bottom, #block-trainings-rev-header
@@ -703,6 +704,7 @@ cyfrowypolsatnews.pl##strong > .panel:nth-of-type(3)
 cypr24.eu##.post_before_content-ads, .theiaStickySidebar
 cypr24.eu#?#.elementor-widget-wrap:-abp-has(h6:-abp-contains(REKLAMA))
 czajna.pl##article.contain_im_grid.inf_scr_item.small_post.repick_item:nth-of-type(2), .mediad_wrap_pad
+czasciechanowa.pl##.et_pb_row_22.et_pb_row, .et_pb_row_0.et_pb_row, .n2-ow
 czasdzieci.pl##.adlabel, .banSetBox
 czaskultury.pl#?#div.row > .col-md-12 > .line-header > span:-abp-contains(Reklama)
 czateria.interia.pl##.video-player-container
@@ -860,6 +862,7 @@ ebelchatow.pl##[id^="block-views-top-right-baner-"], #region-middle-poleca
 ebookichomikuj.pl##DIV > A[href*="ref"] > IMG[src*="show"]
 echirurgia.pl##.content-sidebar > .actr
 echo24.tv##[class^="banner-"]
+echotygodnik.info##.toplayer, .widget-91.widget, .widget-88.widget, .widget-85.widget, .widget-95.widget, .widget-41.boards.widget
 echodnia.eu###dfp-prawa1, .promoContainer
 echodnia.eu##.typBaner, .promoBox
 echodnia.eu,poranny.pl,dziennikpolski24.pl,expressilustrowany.pl,nowiny24.pl,gazetalubuska.pl,pomorska.pl,wspolczesna.pl,gp24.pl,dziennikbaltycki.pl,dzienniklodzki.pl,dziennikzachodni.pl,gazetakrakowska.pl,gazetawroclawska.pl,gloswielkopolski.pl,kurierlubelski.pl,polskatimes.pl,nto.pl,expressbydgoski.pl###poza-szkieletem, .promoContainer, .polecamyBox
@@ -959,7 +962,7 @@ esanok.pl##.entry2 > div:nth-of-type(2)
 esanok.pl##.socialGallery > div:nth-of-type(1)
 eska.pl##.zpr_top_1, #placement2, .center.t2.color13, .banner-750.fontregular, .active.zpr_box, .zpr_combo
 eska.pl##A[style="display: block; height: 100%; width: 100%;"]
-eska.pl##[href*="bbelements.com/please/track/adClick/"], .zpr_shopping__article
+eska.pl##[href*="bbelements.com/please/track/adClick/"]
 eskatt.pl###NaglowekSklepu > div > div > A > IMG
 eskatt.pl##div.BoxRwdUkryj:nth-of-type(2) > .CalyBox
 esporter.pl,interia.pl,pomponik.pl,styl.pl#?#div[style*="sticky"]:-abp-has(a[target="_blank"][onclick*="'polsat'"])
@@ -1204,6 +1207,7 @@ gazetaprawna.pl##[style^="text-align:center; margin: 0 0 10px 0"], .adCaptionCon
 gazetaprawna.pl##a[href^="http://www.kyoceradocumentsolutions.pl/index/produkty/product/"]
 gazetaregionalna.pl##.right-col.col-md-3.col-sm-12
 gazetasenior.pl##.fn-builder > p > [target="_blank"] > IMG, .fn-block-content.widget_text
+gazetaslupecka.pl###main > .widget_media_image.covernews-widget.widget
 gazetaspoleczna.pl##div.columns.medium-4.small-12 > .footer-widget > .footer-title-block
 gazetarumska.pl###custom_html-7, .gazet-w-artykule-reklama
 gazetatychy.pl##center > [href] > .animated.visible
@@ -2131,7 +2135,7 @@ nacjonalista.pl##DIV[align="center"]
 naczytniku.pl##.widget_custom_ads
 nadmorski24.pl###G-banerGlowny, .dynamicAD, .homeMain > A
 nadwisla24.pl##div.container > .mines-center, #page > .container, #nw-secondary > div > A
-naekranie.pl###cornerContainer
+naekranie.pl###cornerContainer, .prezentownik, .prezentownik_ne_fullheader
 naekranie.pl##* > [href^="/d"]
 naekranie.pl##.wrapper > div > [class^="t"] > div
 naekranie.pl##[class^="t"] > [href^="/0"]
@@ -2244,7 +2248,8 @@ nowastrategia.org.pl###ticker-box
 nowastrategia.org.pl##.code-block-1
 nowawrzesnia.pl##.custominfo > p:nth-of-type(4)
 noweinfo.pl##.td-visible-desktop > A > IMG:last-child
-noweinfo.pl##div.wpb_content_element.wpb_text_column:nth-of-type(3)
+noweinfo.pl##div.wpb_content_element.wpb_text_column
+www.nowemiasto.com.pl##div.blockcontent > A > img
 nowezyciepabianic.pl##[id*="ad_widget"]
 nowiny.andrychow.eu##.reklama_ng
 nowodworski24.pl###ubm-banners-2
@@ -2255,6 +2260,7 @@ nowy-sacz.info##.a-single > div
 nowy-sacz.info#?##main > div:nth-child(2):-abp-contains(reklama)
 nowy.tlen.pl##.ng-scope.promo-highlights
 nowy.tlen.pl##.shrink-none.mbox--main.mbox
+nowytygodniklobeski.pl###media_image-18, #media_image-13, #media_image-16, #media_image-17, #media_image-3
 nowyoutsourcing.pl##.g1-banner
 nowywyszkowiak.pl##.link_bg
 nportal.no##.commercial-top, #commercial-300, .three-commercials
@@ -3131,7 +3137,7 @@ telix.pl##[id^="telix-"]
 telko.in##.box-partners, span[style^="font-size: 0.7em"]
 telko.in##.detail-top-banner.custom-html, .article-wrapper.content-wrapper > div.clearfix, .list-top.custom-html
 bitcoin-online.pl##.bannergroup
-temi.pl##.moduletable:nth-of-type(4)
+temi.pl##.gtmi-2.gtmi, .gtmi-dyn
 tenis24.eu##.container > .text-center
 tenisklub.pl##DIV[style="width:750px;height:100px;margin:10px auto;"]
 teraz-wilanow.pl###rev_slider_2_3_wrapper, #rev_slider_3_6, #rev_slider_2_1_wrapper
@@ -3216,6 +3222,7 @@ tvjaslo.pl##.bx-viewport
 tvklodzka.pl##.caroufredsel_wrapper, .ig_col_1
 tvkstella.pl###banners
 tvlancut.com##[id*="-ad-"]
+tvmalbork.pl##.main.col-lg-8.col-md-8.col-sm-8 > .row
 tvmalbork.pl##.a0-slider, p > em, .headline
 tvmalbork.pl,tvsztum.pl,zulawyimierzeja24.pl,tvregionalna24.pl##.advert_outer, .inner > .text-center
 tvmalbork.pl,tvsztum.pl,zulawyimierzeja24.pl,tvregionalna24.pl##.clickable[onclick^="article_video_advert_click"]
@@ -3268,6 +3275,8 @@ tygodnik-krapkowicki.info###Mod274, #Mod213, #Mod214, #Mod220, #Mod302
 tygodnik-krapkowicki.info###ja-topsl2, #djslider-loader221, #ja-botsl1, #slider255, #djslider255
 tygodnik-rolniczy.pl##.container.additional-box
 tygodnik.szczytno.pl##.widget:nth-of-type(5), #advBox, #carousel-example-captions
+tygodnikplus.com##.display970x200, div.display300x250, div.display300x100, #plusfestival, #inform_us, div.display650x100
+tygodnikpiski.pl##.wpb_raw_html.wpb_content_element.wpb_raw_code > .wpb_wrapper, a.image_link
 tygodnikpodlaski.pl###billboardRightAdsense
 tygodnikponidzia.pl##.large > .image-link, .right > .a-widget, div.builder.cf.row > .one-1.builder.column > .a-widget
 tygodnikpowszechny.pl##[id*="-simpleads-"] > h2
@@ -3327,7 +3336,8 @@ wadowiceonline.pl###top-header, #jmMobile
 wadowiceonline.pl##[id^="wo-poz-"]
 wachtyrz.eu##.code-block-1.code-block, custom_html-13, #custom_html-14
 wagaciezka.com##a[href^="http://www.wagaciezka.com/banery/redirect/"]
-wagrowiec-wydarzeniazostatniejchwili.pl##.banner-promotions-wrapper, #top_10
+wagrowiec-wydarzeniazostatniejchwili.pl,gazetaslupecka.pl##.banner-promotions-wrapper
+wagrowiec-wydarzeniazostatniejchwili.pl###top_10
 wakai.pl###text-html-widget-5
 wakai.pl###text-html-widget-6
 wakai.pl##.youtube-widget
@@ -4027,6 +4037,7 @@ zywiecinfo.pl##.promoted
 ||nacjonalista.pl/wp-content/uploads/20*/*/*.gif$image
 ||nadmorski24.pl/dynamicAD$domain=nadmorski24.pl
 ||naekranie.pl/wp-content/uploads/2019/06/st3scrd_5d1379da037fe.jpeg$image
+||naekranie.pl/*/cda-lokowanie_$image
 ||napisy24.pl/images/bg-allplayer-*.png
 ||napisy24.pl/run/js/all_corners.js
 ||napiprojekt.pl/js/ads-*.js$script
@@ -4955,7 +4966,7 @@ tapeciarnia.pl#?@#div[style*="text-align:center;"]:-abp-contains(REKLAMA)
 technologiczna.pl,polski-sport.pl##.alignnone
 technowinki24.pl###black-studio-tinymce-2
 tomaszowski.com.pl###text-15
-toyotaklub.org.pl,wiadomoscipodgorze.pl,mymma.pl,niebezpiecznik.pl,tvgorzow.pl,swoszowice.org.pl,nowy-sacz.info###text-6
+toyotaklub.org.pl,wiadomoscipodgorze.pl,mymma.pl,niebezpiecznik.pl,tvgorzow.pl,swoszowice.org.pl,nowy-sacz.info,gazetalubliniecka.pl###text-6
 trybunaczestochowska.pl###foot-leader
 trybunaczestochowska.pl###text-4, #text-6, #text-9, #text-11
 trybunaczestochowska.pl##body > div:nth-of-type(1) > center
