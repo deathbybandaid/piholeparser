@@ -66,6 +66,7 @@ srv1.ricin.im
 subscribe.im
 suportte.im
 survivor.thats.im
+t.spot.im
 tov.im
 tr.im
 track.spots.im

@@ -2340,6 +2340,7 @@ t.sgc.io
 t.sharethis.com
 t.signalayer.com
 t.smile.eu
+t.spot.im
 t.wayfair.ca
 t.wayfair.co.uk
 t.wayfair.com
