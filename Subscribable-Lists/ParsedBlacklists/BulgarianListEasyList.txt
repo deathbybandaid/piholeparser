@@ -447,6 +447,7 @@ c3metrics.medifast1.com
 c4dv.copinesdevoyage.com
 cache2.delvenetworks.com
 cadreon.s3.amazonaws.com
+cahf4eed.mooo.com
 campaignseries-gb.campaignseries.co.uk
 canvas-ping.conduit-data.com
 canvas-usage-v2.conduit-data.com
@@ -1215,6 +1216,7 @@ hide.ovh
 hillingdontimes-gb.hillingdontimes.co.uk
 hit.interia.pl
 hit.meta.ua
+hit.mybestpro.com
 hit.skrz.cz
 hits.antena3.com
 hits.dealer.com
