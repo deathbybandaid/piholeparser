@@ -1,5 +1,5 @@
 ! Title: uBlock Indo
-! Last modified: 01 December 2020, 04:46:56 WIB
+! Last modified: 22 December 2020, 10:57:17 WIB
 ! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
@@ -1133,9 +1133,6 @@ mawataki.com##.kill-adblock-hide
 mawataki.com##.mh-wrapper
 mediafire.com##.appPromo
 mediafire.com##.on.lightbox
-miningpoolstats.stream##.btn-default
-miningpoolstats.stream##.navbar
-miningpoolstats.stream##.show1300
 mirrorace.com##.uk-grid-width-large-1-3.uk-grid-width-medium-1-2.uk-grid-width-small-1-1.uk-grid-medium.uk-grid > .uk-row-first:nth-of-type(1)
 mtofficial.com##.iklan-kiri
 myanimelist.net##.amazon-ads
@@ -1236,6 +1233,7 @@ zonawibu.cc##.infopost
 ###eae2
 ###g207
 ###h237
+###h860
 ###ia6b
 ###idblog-adb-enabled
 ###idmuvi-adb-enabled
@@ -1309,7 +1307,11 @@ lk21c.fun###flobwh
 lk21c.fun###tengah
 lk21c.fun###text-12
 mediafire.com###abnotify
-miningpoolstats.stream###mainpage_right > table > tbody > tr:nth-of-type(4)
+miningpoolstats.stream###ad_side_1
+miningpoolstats.stream###blockdistribution > table > tbody > tr
+miningpoolstats.stream###mainpage_right > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1) > div
+miningpoolstats.stream###mainpage_right > table > tbody > tr:nth-of-type(3) > td:nth-of-type(1) > div
+miningpoolstats.stream###mainpage2 > table:nth-of-type(1) > tbody > tr
 netnot21.com###kiri
 netnot21.com###ngisor
 opengapps.org###donatebox
