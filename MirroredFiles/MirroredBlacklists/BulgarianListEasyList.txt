@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012222349
+! Version: 202012231325
 ! Title: EasyPrivacy
-! Last modified: 22 Dec 2020 23:49 UTC
+! Last modified: 23 Dec 2020 13:25 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -915,6 +915,7 @@
 /athena.gif?
 /athenastgbeacon.
 /atlas_track.
+/atr_events_
 /atrk.gif?
 /atrk.js
 /ats/lib/*
@@ -1623,6 +1624,7 @@
 /detm_adobe.
 /device-fingerprint.
 /dfp-gpt.
+/dfpsvc?
 /di-tealium.
 /Diagnostics?hit=
 /didna-pixel-
@@ -7344,6 +7346,7 @@ _mongo_stats/
 ||opbandit.com^$third-party
 ||openclick.com^$third-party
 ||openhit.com^$third-party
+||openlog.in^$third-party
 ||openstat.net^$third-party
 ||opentracker.net^$third-party
 ||openvenue.com^$third-party
@@ -7522,6 +7525,7 @@ _mongo_stats/
 ||q-stats.nl^$third-party
 ||qbaka.net^$third-party
 ||qbop.com^$third-party
+||qflm.net^$third-party
 ||qlfsat.co.uk^$third-party
 ||qlitics.com^$third-party
 ||qlzn6i1l.com^$third-party
@@ -11479,6 +11483,7 @@ _mongo_stats/
 ||onet.pl^*/tags?
 ||onetrust.com^$ping
 ||onsugar.com/static/ck.php?
+||ontraport.com/track.php
 ||ooyala.com/3rdparty/comscore_
 ||ooyala.com/authorized?analytics
 ||ooyala.com/sas/analytics?
@@ -15484,6 +15489,7 @@ _mongo_stats/
 ||truste.com/common/js/ga.js
 ||truste.com/notice?*consent-track
 ||trx.smdatalabs.com^
+||trx3.famousfix.com^
 ||ts.delfi.
 ||tsn.ua/svc/video/stat/
 ||ttxm.co.uk^*/log.js
@@ -17670,7 +17676,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||cdn-ds.com/analytics/dfa.js$script,domain=tuttleclickgenesis.com
 @@||cdn-ds.com/analytics/sockjs.js$script,domain=tuttleclickgenesis.com
 @@||cdn-net.com/cc.js$script,domain=uber.com|ubereats.com
-@@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|freeshipping.com|heroku.com|imageshack.com
+@@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|freeshipping.com|heroku.com|historyvault.com|imageshack.com
 @@||certona.net^*/scripts/resonance.js$script,domain=canadiantire.ca
 @@||changenow.io/js/tracking.js$script
 @@||chasecdn.com^*/@ccb-blueanalytics/$script,domain=chase.com
