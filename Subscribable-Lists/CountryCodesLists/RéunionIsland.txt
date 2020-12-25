@@ -19,4 +19,5 @@ origine.re
 possible.re
 push.notifica.re
 www.adsco.re
+www.c.adsco.re
 yande.re

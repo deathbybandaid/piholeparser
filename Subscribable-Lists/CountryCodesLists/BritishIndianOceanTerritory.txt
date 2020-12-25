@@ -2199,6 +2199,7 @@ wtfpb.faucethub.io
 www-acesso-seguro.cloud-fr1.unispace.io
 www.5rocks.io
 www.a-v2.presage.io
+www.ad.impactify.io
 www.adapt.io
 www.adclicks.io
 www.adjust.io
@@ -2207,6 +2208,8 @@ www.admin.superbuzz.io
 www.admp.io
 www.adon.io
 www.ads.avocet.io
+www.analytics.liftoff.io
+www.analytics.oned.io
 www.app.graphly.io
 www.app.superbuzz.io
 www.apple.coinking.io
@@ -2229,8 +2232,10 @@ www.blog.hashflare.io
 www.blowingwind.io
 www.branch.io
 www.btc.mining-pool.io
+www.build-cdn.liftoff.io
 www.calq.io
 www.cdn.dimml.io
+www.cdn.liftoff.io
 www.cdn.onthe.io
 www.cdn.smartclick.io
 www.chaintime.epool.io
@@ -2276,6 +2281,19 @@ www.gmc.epool.io
 www.goodblock.gladly.io
 www.gotime.backtrace.io
 www.graphly.io
+www.haggler-mopub609-us-e-ec2.liftoff.io
+www.haggler-mopub611-us-e-ec2.liftoff.io
+www.haggler-mopub618-us-e-ec2.liftoff.io
+www.haggler-mopub621-us-e-ec2.liftoff.io
+www.haggler-mopub630-us-e-ec2.liftoff.io
+www.haggler-mopub636-us-e-ec2.liftoff.io
+www.haggler-mopub637-us-e-ec2.liftoff.io
+www.haggler-mopub649-us-e-ec2.liftoff.io
+www.haggler-mopub651-us-e-ec2.liftoff.io
+www.haggler-mopub652-us-e-ec2.liftoff.io
+www.haggler-mopub664-us-e-ec2.liftoff.io
+www.haggler-mopub670-us-e-ec2.liftoff.io
+www.haggler-mopub686-us-e-ec2.liftoff.io
 www.hashcoin.io
 www.hashflare.io
 www.hashzone.io
