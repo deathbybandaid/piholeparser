@@ -21,7 +21,8 @@
 * Handle ANY list, even if it is compressed.
 
 ### Repository Disclaimer
-I've neglected this repository for a very long time. As of 28-02-2020, I am going to make an effort to continue development on this repository.
+I've neglected this repository for a very long time. As of 26-12-2020, I've received notification fro github that the way this script updates won't be supported.
+I will leave this repo as-is for a period of time, but ultimately will remove it from github.
 
 Due to it's unwieldy .git index size, I was forced to `rm .git && git init` and force push the repo without any history. This gives me a clean slate to work with.
 
