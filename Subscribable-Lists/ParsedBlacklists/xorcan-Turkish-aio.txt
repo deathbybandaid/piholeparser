@@ -342,7 +342,6 @@ ads.webme.com
 ads.wordego.com
 ads.yenimedya.com.tr
 ads.yieldmo.com
-ads.youtube.com
 ads.zamunda.net
 ads1-adnow.com
 ads1.msads.net
@@ -503,6 +502,7 @@ alfaturkey.com.tr
 aliapp.org
 alicicek.com.tr
 allaescort.com
+allescortservices.com
 allmygreatlife.com
 allornamenti.com
 allsportips.com
@@ -743,6 +743,7 @@ babaeskiziraatodasi.org
 bahcesehirevleri.com
 bahisbeluga5.com
 bahisciler.co
+bahistapot.com
 bahreyn.tk
 bahsegel.sportdigi.com
 bahsegel189.com
@@ -853,6 +854,7 @@ bethepresharthe.info
 bethub.io
 betkanyon100.com
 betlesene.com
+betmatik.bahistapot.com
 betmatik553.com
 betokont.com.tr
 betonbetaffiliates.com
@@ -866,6 +868,7 @@ bettingselection.net
 bettingselection.org
 bettingsites1.com
 bettingtag.com
+betvole1.info
 betvole362.com
 betwin26251.top
 betwinner1.com
@@ -3307,7 +3310,6 @@ s.dogannet.tv
 s.pubmine.com
 s.skimresources.com
 s.webtrends.com
-s.youtube.com
 s0.2mdn.net
 s1.adform.net
 s1.promoviral.com
@@ -4026,6 +4028,7 @@ wlthebetend.adsrv.eacdn.com
 wolve.pro
 workflowboard.com
 workfromhome-amazon-ntylpikxje.antalyamasajsalonu.net
+world-page-back-stage-asia.buzz
 world.news-tap.com
 ws.tapjoyads.com
 wsp.mgid.com
@@ -4035,6 +4038,7 @@ wucadabe.tk
 ww1.domainparked.com
 ww3.smartadserver.com
 ww38.stickfight.com
+www-amzaon-create-address.world-page-back-stage-asia.buzz
 www-keycdn-info.cdn.ampproject.org
 www.05bursa-escortsc-com.cdn.ampproject.org
 www.0638.info
@@ -4380,7 +4384,6 @@ www.ads.webme.com
 www.ads.wordego.com
 www.ads.yenimedya.com.tr
 www.ads.yieldmo.com
-www.ads.youtube.com
 www.ads.zamunda.net
 www.ads1-adnow.com
 www.ads1.msads.net
@@ -4541,6 +4544,7 @@ www.alfaturkey.com.tr
 www.aliapp.org
 www.alicicek.com.tr
 www.allaescort.com
+www.allescortservices.com
 www.allmygreatlife.com
 www.allornamenti.com
 www.allsportips.com
@@ -4781,6 +4785,7 @@ www.babaeskiziraatodasi.org
 www.bahcesehirevleri.com
 www.bahisbeluga5.com
 www.bahisciler.co
+www.bahistapot.com
 www.bahreyn.tk
 www.bahsegel.sportdigi.com
 www.bahsegel189.com
@@ -4891,6 +4896,7 @@ www.bethepresharthe.info
 www.bethub.io
 www.betkanyon100.com
 www.betlesene.com
+www.betmatik.bahistapot.com
 www.betmatik553.com
 www.betokont.com.tr
 www.betonbetaffiliates.com
@@ -4904,6 +4910,7 @@ www.bettingselection.net
 www.bettingselection.org
 www.bettingsites1.com
 www.bettingtag.com
+www.betvole1.info
 www.betvole362.com
 www.betwin26251.top
 www.betwinner1.com
@@ -7338,7 +7345,6 @@ www.s.dogannet.tv
 www.s.pubmine.com
 www.s.skimresources.com
 www.s.webtrends.com
-www.s.youtube.com
 www.s0.2mdn.net
 www.s1.adform.net
 www.s1.promoviral.com
@@ -8051,6 +8057,7 @@ www.wlthebetend.adsrv.eacdn.com
 www.wolve.pro
 www.workflowboard.com
 www.workfromhome-amazon-ntylpikxje.antalyamasajsalonu.net
+www.world-page-back-stage-asia.buzz
 www.world.news-tap.com
 www.ws.tapjoyads.com
 www.wsp.mgid.com
@@ -8059,6 +8066,7 @@ www.wtflife118.life
 www.wucadabe.tk
 www.ww3.smartadserver.com
 www.ww38.stickfight.com
+www.www-amzaon-create-address.world-page-back-stage-asia.buzz
 www.www-keycdn-info.cdn.ampproject.org
 www.www3.haberturk.com
 www.x-bet.mobi

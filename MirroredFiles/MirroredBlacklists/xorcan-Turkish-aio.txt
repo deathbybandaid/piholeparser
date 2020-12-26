@@ -2,8 +2,8 @@
 ! Format: Hosts
 ! Expires: 1 days
 ! Homepage: https://github.com/xorcan/hosts
-! Released: 24.12.2020
-! Entries: 8716
+! Released: 25.12.2020
+! Entries: 8724
 ! Details: https://github.com/xorcan/hosts
 ! Issues: https://github.com/xorcan/hosts/issues
 ! Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -362,7 +362,6 @@
 127.0.0.1 ads.wordego.com
 127.0.0.1 ads.yenimedya.com.tr
 127.0.0.1 ads.yieldmo.com
-127.0.0.1 ads.youtube.com
 127.0.0.1 ads.zamunda.net
 127.0.0.1 ads1-adnow.com
 127.0.0.1 ads1.msads.net
@@ -523,6 +522,7 @@
 127.0.0.1 aliapp.org
 127.0.0.1 alicicek.com.tr
 127.0.0.1 allaescort.com
+127.0.0.1 allescortservices.com
 127.0.0.1 allmygreatlife.com
 127.0.0.1 allornamenti.com
 127.0.0.1 allsportips.com
@@ -763,6 +763,7 @@
 127.0.0.1 bahcesehirevleri.com
 127.0.0.1 bahisbeluga5.com
 127.0.0.1 bahisciler.co
+127.0.0.1 bahistapot.com
 127.0.0.1 bahreyn.tk
 127.0.0.1 bahsegel.sportdigi.com
 127.0.0.1 bahsegel189.com
@@ -873,6 +874,7 @@
 127.0.0.1 bethub.io
 127.0.0.1 betkanyon100.com
 127.0.0.1 betlesene.com
+127.0.0.1 betmatik.bahistapot.com
 127.0.0.1 betmatik553.com
 127.0.0.1 betokont.com.tr
 127.0.0.1 betonbetaffiliates.com
@@ -886,6 +888,7 @@
 127.0.0.1 bettingselection.org
 127.0.0.1 bettingsites1.com
 127.0.0.1 bettingtag.com
+127.0.0.1 betvole1.info
 127.0.0.1 betvole362.com
 127.0.0.1 betwin26251.top
 127.0.0.1 betwinner1.com
@@ -3329,7 +3332,6 @@
 127.0.0.1 s.pubmine.com
 127.0.0.1 s.skimresources.com
 127.0.0.1 s.webtrends.com
-127.0.0.1 s.youtube.com
 127.0.0.1 s0.2mdn.net
 127.0.0.1 s1.adform.net
 127.0.0.1 s1.promoviral.com
@@ -4051,6 +4053,7 @@
 127.0.0.1 wolve.pro
 127.0.0.1 workflowboard.com
 127.0.0.1 workfromhome-amazon-ntylpikxje.antalyamasajsalonu.net
+127.0.0.1 world-page-back-stage-asia.buzz
 127.0.0.1 world.news-tap.com
 127.0.0.1 ws.tapjoyads.com
 127.0.0.1 wsp.mgid.com
@@ -4060,6 +4063,7 @@
 127.0.0.1 ww1.domainparked.com
 127.0.0.1 ww3.smartadserver.com
 127.0.0.1 ww38.stickfight.com
+127.0.0.1 www-amzaon-create-address.world-page-back-stage-asia.buzz
 127.0.0.1 www-keycdn-info.cdn.ampproject.org
 127.0.0.1 www.05bursa-escortsc-com.cdn.ampproject.org
 127.0.0.1 www.0638.info
@@ -4408,7 +4412,6 @@
 127.0.0.1 www.ads.wordego.com
 127.0.0.1 www.ads.yenimedya.com.tr
 127.0.0.1 www.ads.yieldmo.com
-127.0.0.1 www.ads.youtube.com
 127.0.0.1 www.ads.zamunda.net
 127.0.0.1 www.ads1-adnow.com
 127.0.0.1 www.ads1.msads.net
@@ -4569,6 +4572,7 @@
 127.0.0.1 www.aliapp.org
 127.0.0.1 www.alicicek.com.tr
 127.0.0.1 www.allaescort.com
+127.0.0.1 www.allescortservices.com
 127.0.0.1 www.allmygreatlife.com
 127.0.0.1 www.allornamenti.com
 127.0.0.1 www.allsportips.com
@@ -4809,6 +4813,7 @@
 127.0.0.1 www.bahcesehirevleri.com
 127.0.0.1 www.bahisbeluga5.com
 127.0.0.1 www.bahisciler.co
+127.0.0.1 www.bahistapot.com
 127.0.0.1 www.bahreyn.tk
 127.0.0.1 www.bahsegel.sportdigi.com
 127.0.0.1 www.bahsegel189.com
@@ -4919,6 +4924,7 @@
 127.0.0.1 www.bethub.io
 127.0.0.1 www.betkanyon100.com
 127.0.0.1 www.betlesene.com
+127.0.0.1 www.betmatik.bahistapot.com
 127.0.0.1 www.betmatik553.com
 127.0.0.1 www.betokont.com.tr
 127.0.0.1 www.betonbetaffiliates.com
@@ -4932,6 +4938,7 @@
 127.0.0.1 www.bettingselection.org
 127.0.0.1 www.bettingsites1.com
 127.0.0.1 www.bettingtag.com
+127.0.0.1 www.betvole1.info
 127.0.0.1 www.betvole362.com
 127.0.0.1 www.betwin26251.top
 127.0.0.1 www.betwinner1.com
@@ -7368,7 +7375,6 @@
 127.0.0.1 www.s.pubmine.com
 127.0.0.1 www.s.skimresources.com
 127.0.0.1 www.s.webtrends.com
-127.0.0.1 www.s.youtube.com
 127.0.0.1 www.s0.2mdn.net
 127.0.0.1 www.s1.adform.net
 127.0.0.1 www.s1.promoviral.com
@@ -8084,6 +8090,7 @@
 127.0.0.1 www.wolve.pro
 127.0.0.1 www.workflowboard.com
 127.0.0.1 www.workfromhome-amazon-ntylpikxje.antalyamasajsalonu.net
+127.0.0.1 www.world-page-back-stage-asia.buzz
 127.0.0.1 www.world.news-tap.com
 127.0.0.1 www.ws.tapjoyads.com
 127.0.0.1 www.wsp.mgid.com
@@ -8092,6 +8099,7 @@
 127.0.0.1 www.wucadabe.tk
 127.0.0.1 www.ww3.smartadserver.com
 127.0.0.1 www.ww38.stickfight.com
+127.0.0.1 www.www-amzaon-create-address.world-page-back-stage-asia.buzz
 127.0.0.1 www.www-keycdn-info.cdn.ampproject.org
 127.0.0.1 www.www3.haberturk.com
 127.0.0.1 www.x-bet.mobi
