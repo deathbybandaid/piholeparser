@@ -1,5 +1,7 @@
 # piholeparser
 
+THIS PROJECT IS DEAD.
+
 ### Last Run Stats
 
 * Script Started Sat Dec 26 00:20:17 UTC 2020
